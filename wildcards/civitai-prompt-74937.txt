@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,    <lora:whipMarks:1> whip marks,    <lora:shuten_douji:0.8> shuten douji,  nude, crying,

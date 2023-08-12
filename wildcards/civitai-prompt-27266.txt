@@ -1,0 +1,1 @@
+<lora:PsychedelicFluids:0.82>, PsychedelicFluids, detailed, a landscape with mountains in the background and a lake in the foreground, trees in foreground, forest, (oil painting:1.3), psychedelic colors, colorful,  <lora:theovercomer8sContrastFix_sd15:0.2>

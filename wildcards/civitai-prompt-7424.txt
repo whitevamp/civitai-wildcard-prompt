@@ -1,0 +1,7 @@
+realistic, detailed,
+break,
+1girl, solo, extremely beautiful, slender, tanned skin, small breast, detailed skin complexion, seductive face, casual clothes,
+break,
+detailed background, night club, people in background,
+cowboy shot, perspective, rule of third, depth and dimension, depth of field 
+break,   <lora:linhka-07:0.8>

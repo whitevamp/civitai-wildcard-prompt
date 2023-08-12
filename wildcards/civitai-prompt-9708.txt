@@ -1,0 +1,2 @@
+masterpiece, best quality, (realistic:1.3), (perfect face), intricate, beautiful scenery, 
+fantasy, nature, forest, waterfall, blue sky, upper body, from below, nude, 1girl, blonde hair, pointy ears, swimming, wet, closed eyes, light smile, happy, hand on chest, looking away,  <lora:LowRA:0:7>

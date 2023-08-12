@@ -1,0 +1,4 @@
+dramatic cinematic light ADDCOMM
+Style-Renaissance  ADDBASE 
+cluttered room ADDCOL
+TI_Vermeer , portrait of a beautiful Asian woman wearing a off-shoulder dress, green dress, detailed skin imperfections

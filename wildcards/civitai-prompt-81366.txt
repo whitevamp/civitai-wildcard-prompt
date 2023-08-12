@@ -1,0 +1,5 @@
+(8k, best quality, masterpiece, ultra highres:1.2) , professional photography, HDR, 8K resolution, intricate detail, sophisticated detail, official art, extremely detailed CG unity 8k wallpaper, ultra high res, physically-based rendering, (colour:1.2), beautiful lighting, subsurface scattering, volumetric lighting,
+light from the front,
+garden, full of flowers,
+1girl, 18yo, solo, sexy, (wearing pink chiffon dress + one piece long flare dress and thighhigh:1.2), perfect body, curvy body, (medium breasts:1.3), long hair, pantyhose
+<lora:sd-No.171-000014:0.6>

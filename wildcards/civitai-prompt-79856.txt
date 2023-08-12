@@ -1,0 +1,3 @@
+<lora:mtu_virusConv2D2.5e-5_BF16:1> (mtu virus:1.2), (from below, 2 views:0.9), ((1girl)),  large breasts, (pubic, pussy, :1.3),  slim leg,  (transparent, wet clothes:1.2),
+(photorealistic, detailed face, seduce, lust, smile :1.3), best quality, masterpiece, ultra high res, lora:FilmG4:0.6>FilmG4,
+A young beautiful female , She wears a transparent red gown ,Her fiery hair is styled with a braided crown atop her head. sleeveless, ducking, white background,

@@ -1,0 +1,2 @@
+(Polaroid dark tone low key film:1.1),masterpiece, best quality,(extremely detailed:1.4),((((dark background ,no light only camera flash)))),one girl, solo,perfect body, (mature female:1.4), , (high detailed skin:1.2),cute silver cat ears, silver hair, ,ultra detail hair, beautiful face, perfect face,ultra detail face,detailed blue eyes, huge breasts,<lora:epi_noiseoffset2:1>,(((protruding tongue,best quality tongue))))),
+ ((((<lora:tonguedrop-d:0.6>))))

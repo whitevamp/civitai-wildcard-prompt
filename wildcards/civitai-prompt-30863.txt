@@ -1,0 +1,3 @@
+(AnalPOVFrontQuiron  pose), (best quality), (realistic), (detailed),(skin details), Dappled Light, (look at viewer), (skin texture), (realistic texture skin), cinematic light, side lighting, ultra high res, best shadow, (Dutch angle), lightroom, cinematic, (intricate:1.4), high quality, intricate details, low contrast, detailed, 
+1girl,  (penis:1.2), (anal sex:1.2),  1boy, open legs,  pov,
+sexy woman as Princess Leia (Star Wars): Princess Leia's iconic white dress, cinnamon bun hairstyle, and blaster make her a beloved choice for Star Wars cosplay.,  <lora:quiron_AnalPOVFront_V1_Lora:0.87>

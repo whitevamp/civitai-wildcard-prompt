@@ -1,0 +1,7 @@
+Prompt:
+{
+"0": "  anthropomorphic clean bunny, surrounded by fractals, epic angle and pose, symmetrical, 3d, depth of field, ruan jia and fenghua zhong --neg blur, cgi, painting, illustration  ",
+"30": "  anthropomorphic clean cat, surrounded by fractals, epic angle and pose, symmetrical, 3d, depth of field, ruan jia and fenghua zhong --neg blur, cgi, painting, illustration  ",
+"60": "  anthropomorphic clean cheetah, surrounded by fractals, epic angle and pose, symmetrical, 3d, depth of field, ruan jia and fenghua zhong --neg blur, cgi, painting, illustration  ",
+"90": "  anthropomorphic clean tiger, surrounded by fractals, epic angle and pose, symmetrical, 3d, depth of field, ruan jia and fenghua zhong --neg blur, cgi, painting, illustration  "
+}

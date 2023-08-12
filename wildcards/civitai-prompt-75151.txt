@@ -1,0 +1,4 @@
+photorealistic, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp,
+1 girl, adult (elven:0.7) woman, freckles, pink eyes, copper hair flaps,
+ solo, upper body, looking at viewer, detailed background, detailed face, (<lora:artdecoai_v10:0.3>, ArtDecoAI, 1920s art deco theme:1.1)  server, simple red clothes, apron,  rustic tavern interior in background, worn out wooden beams, mold,   counter,  oil lamps, low light,  fantasy atmosphere,
+<lora:marker:0.2>,

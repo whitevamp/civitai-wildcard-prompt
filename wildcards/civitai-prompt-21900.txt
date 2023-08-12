@@ -1,0 +1,7 @@
+masterpiece,best quality,highres,game cg,indoors,day,(gym:1.2),
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,mature female,elf,white hair,short hair,braid,green eyes,open mouth,blush,scared,tears,yoga pants,
+BREAK,
+<lora:ImminentPen:0.9>,1boy,penis,(imminent penetration:1.4),
+BREAK,
+<lora:POVDoggy:0.3>,from behind,

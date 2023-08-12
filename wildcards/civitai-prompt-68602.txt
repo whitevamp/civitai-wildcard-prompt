@@ -1,0 +1,1 @@
+1 girl, looking at viewer,     <lora:hipoly3DModelLora_v10:0.4>

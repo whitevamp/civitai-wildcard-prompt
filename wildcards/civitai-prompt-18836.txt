@@ -1,0 +1,1 @@
+(hyperrealism:1.2), BREAK <lora:more_details:0.4>, <lora:bettermalebody_bf16_batch1_v1.0:1>, cinematic film still of fighting stance inside a professional wrestling arena, cowboy shot, bettermalebody, (fair skin:1.1) , (slim face:1.1), BREAK (8K UHD:1.2), (photorealistic:1.2)

@@ -1,0 +1,16 @@
+//Photo of,
+1girl, solo
+//Camera style,
+centered shot, from front, face and waist,  look at viewer,
+//Pose,
+lean on desk, (pureerosface_v1:0.4),
+//Face,
+Karinaaespa, <lora:aespaKarinaV5:0.8>, ponytail,
+//Body,
+symmetrical body, (small breasts:1.6), flat chest, (perfect anatomy:1.2),
+//Fashion,
+(mahalaiuniform:1.2), (white shirt short sleeves), (black short pleated skirt:1.2), belt, <lora:mahalaiuniform-000001:0.8>
+//Background,
+(university:1.6),
+//Best Quality,
+High quality, masterpiece, realistic, photorealistic, ultra high res, highly detailed skin,

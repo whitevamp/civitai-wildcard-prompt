@@ -1,0 +1,7 @@
+1girl, (8k, best quality, masterpiece, perfect lighting:1.3), (full body, from above:1.5),  (isometric:1.3), 
+a photo of (an cute girl:1.3),
+she has been shrunken proportionally smaller to a one-tenth scale, (she has been sealed into a coffin-like (tiny long narrow glass box:1.3), cramed into the box:1.2), (as a small living specimen:1.1), displayed on a white table of bright lab room, in box, (behind glass:1),  tablecloth, arranged properly, at night,
+(forcibly lying straight on back:1.4), (bondage whole body to box:1.3),  (fainted:1.3),  detailed eyes, medium breasts, narrow waist, long black hair, bangs,
+(detailed clothes, actual school uniform:1.3), (serafuku:1), pleated miniskirt, 
+sfw,
+<lora:GiftInBoxV1:1>

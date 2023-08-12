@@ -1,0 +1,1 @@
+fog, green mountains, (mountains, intricate detailed:1.2), ((at distance)), a man, suit,  (( running on the roof of the train)),sharp focus, ambient occlusion, short hair, master shot, (high detailed skin:1.2), 8k uhd, dslr, film grain, Fujifilm XT3,  tom cruise  <lora:tom:0.8>

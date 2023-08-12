@@ -1,0 +1,7 @@
+Best quality, masterpiece, ultra high res, RAW photo, (photorealistic:1.4),
+1girl,  detailed face, long hair,
+(looking at camera:1.6),(full body),
+in (white shirt with blue collar, black sweatpants)  <lora:ShenzhenUniform_v10:0.5> (narrow waist:1.2),
+shirtlift,
+perfect skin,(natural breast),
+in the library, bokeh, beautiful lighting, model posing,<lora:shirtliftALORAFor_shirtliftv1:0.68> shirtlift,

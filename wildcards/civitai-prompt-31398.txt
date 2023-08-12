@@ -1,0 +1,1 @@
+1girl,slg,path,flowers,bob,portrait, magical, griffin, werewolf, with a lake reflection in the background,  warm  day,twincestanatomy,Sitting down with legs crossed,(glow in the dark)<lora:slg_v22:1>

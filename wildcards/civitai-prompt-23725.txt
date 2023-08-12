@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+SaekiSayoko, solo, 1girl, mature female, milf, cowboy shot, closeup, looking at viewer, standing, happy, half-closed eyes, sleepy, happy, open mouth, blush, outstretched arms, (incoming hug:1.2), reaching towards viewer, indoors, room, window, sunny weather, tree, complex background,
+brown hair, long hair, hair bow, hair ribbon, ponytail, makeup, blue eyes, perfect eyes, perfect face, detailed face,
+choker, blue suit, blue pencil skirt, thighhighs, high heels, 
+curvy,  large breasts, cleavage,
+<lora:SaekiSayoko-000010:0.95>

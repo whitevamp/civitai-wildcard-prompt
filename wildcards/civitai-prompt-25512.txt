@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,river,close-up,layered hair, Backless wedding dress,depth of field, dusk,Pretending to have a tea party with invisible toys
+ <lora:slg_20:1.0>

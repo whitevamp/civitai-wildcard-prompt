@@ -1,0 +1,1 @@
+studio portrait of RoxieCipher, cowgirl, wearing high neck victorian dress, old west, analog, grainy, dust, scratches, blurry, Daguerreotype, Gelatin silver, Collodion_Photo, sepia, matthew brady,  <lora:LowRA:0.75> <lora:Collodion_Photo:1>

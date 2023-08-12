@@ -1,0 +1,6 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,
+40K, HDR, highres,
+open mouth,
+yelling,
+charge posture,large breasts,Cameltoe,
+1girl,leilinggeng,lightning,,Lots of lightning,drawing,lightning elemental energy towards himself,<lora:leilinggeng:0.8>,on stomach,Fighting posture,a woman playing american football, (wearing football_uniform:1.3), green uniform, good hand, <lora:football_uniform:0.5>

@@ -1,0 +1,6 @@
+<lora:hipoly3DModelLora_v20:0.5>,masterpiece, best quality,
+1girl,  
+ magician,
+ Mysterious expression, magical staff or wand, magical effects like sparkles or energy, flowing robes or enchanting attire, magical creatures or mystical background,
+rim lighting, side lighting, cinematic light, ultra high res, 8k uhd, film grain,best shadow, delicate, RAW, light particles,
+detailed skin texture, detailed cloth texture,  beautiful detailed face, intricate details, ultra detailed

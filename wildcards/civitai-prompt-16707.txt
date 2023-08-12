@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,large breasts
+BREAK
+yuiyuigahama, <lora:yuiyuigahama:1>, yuigahama yui, short hair, (brown eyes:1.5), (orange hair:1.2), hair bun, single hair bun, BREAK micro bikini:1.49,
+Folded Socks,converse,depth of field,looking at viewer,random view,((standing on the , Toy_store,)),((full body)),polka dot panties,smile
+BREAK
+day,sun,rainbow,bus stop,((cumulonimbus)),from above:1.3,

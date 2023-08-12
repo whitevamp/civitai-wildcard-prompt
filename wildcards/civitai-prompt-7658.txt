@@ -1,0 +1,10 @@
+Highly detailed, High Quality, Masterpiece, beautiful, 
+BREAK Spider-chan, <lora:Spiderchan:0.7>, 9girls, sitting,
+BREAK Ghast-chan, dress, white dress, <lora:Char_Meme_Ghastchan:1>, 9girls, sitting,
+BREAK Enderman-chan, glowing, glowing eyes, <lora:Char_Meme_Endermanchan:1>, 9girls, sitting,
+BREAK spid3r, twintails, hair bobbles, green sweater, green shorts, green boots, <lora:Char_Meme_CaveSpider:0.9>, 9girls, sitting,
+BREAK zombi3, hoodie, jeans, sneakers, torn clothes, sleeveless, <lora:Char_Meme_Zombie:0.9>, 9girls, sitting,
+BREAK slim3, green skin, slime girl, green hat, green dress, <lora:Char_Meme_Slime:0.9>, 9girls, sitting,
+BREAK mcmagma, slime girl, colored skin, yellow eyes, red hair, hat, bikini, <lora:Char_Meme_MagmaCube:0.9>, 9girls, sitting,
+BREAK mcskeleton, twintails, grey hair, grey eyes, hat, underboob, grey shorts, thighhighs, gloves, <lora:Char_Meme_Skeleton:0.9>, 9girls, sitting,
+BREAK mcblaze, dark skin, dark-skinned female, ahoge, yellow eyes, blonde hair, underwear, panties, thighhighs, gloves, cleavage, <lora:Char_Meme_Blaze:0.9>, 9girls, sitting

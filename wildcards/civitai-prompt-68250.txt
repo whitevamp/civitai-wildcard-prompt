@@ -1,0 +1,3 @@
+40k,photography, masterpiece, best quality,dark gray background,from behind,sfw,
+(1girl blue eyes and blond short hair),ass up wait  wearing, (wearing gym_outfit:1.3),(pink outfit:1.3),
+<lora:gym_outfit-10:0.5>

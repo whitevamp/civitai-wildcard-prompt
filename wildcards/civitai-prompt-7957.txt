@@ -1,0 +1,6 @@
+masterpiece, best quality,
+monochrome, silhouette,
+(black background:1.2), inverted colors, 
+1girl, warrior, holding sword, arm up, white hair,
+full body,
+<lora:threshold:2>

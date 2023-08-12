@@ -1,0 +1,5 @@
+,2d, masterpiece, best quality, anime, highly detailed face, highly detailed eyes, highly detailed background, perfect lighting, {{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {cinematic lighting}, {illustration}, {beautiful detailed eyes}, {1girl}
+//
+cocoa, marron marron, muchi muchi kyousei seichouchuu, 1girl, solo, long hair, skirt, large breasts, shirt, black hair, hair ornament, navel, twintails, underwear,school uniform, green eyes, panties, yellow eyes, short sleeves, :d, thighs, teeth, socks, shiny, blue skirt, shiny skin, sparkle, low twintails, thick thighs, crossed arms, standing, white socks, pink panties, puffy nipples, thong, large areolae, suspender skirt, rabbit hair ornament, perky breasts, huge nipples, closed shirt,
+//
+ <lora:Muchi Muchi Kyousei Seichouchuu!!!-marron_marron-03:0.6>, <lora:anmnr01:0.8>

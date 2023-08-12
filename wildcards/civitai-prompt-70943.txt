@@ -1,0 +1,1 @@
+1woman (on stomach:1.4), (lay flat:1.2),  from behind, (full body:1.1), ((white satin dress):1.2), corset, bottom naked, fantasy,((castle bedroom):1.2), ([crown braid|white hair]), natural lighting, (intricate details), ((masterpiece, best quality)), <lora:add_detail:0.5>

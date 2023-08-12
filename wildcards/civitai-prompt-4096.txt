@@ -1,0 +1,4 @@
+bigguns, retro playboy photoshoot
+very beautiful woman, marvel film, perfect movie
+female scientist, standing inside a laboratory, sexy costume white coat
+<lora:bigguns_v121:0.55>  <lora:add_detail:1.2>

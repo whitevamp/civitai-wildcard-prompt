@@ -1,0 +1,2 @@
+<lora:spawn:0.9> (spawn, red cape, skull, chains), solo, monster, blood splatter, 
+masterpiece, best quality, 1girl, toga himiko <lora:TogaHimikoLoRA:0.5>, blonde hair, yellow eyes, double bun, medium breasts, smile, gesugao <lora:GesugaoFaceV1:0.5> , medium close-up, high contrast, dystopia, cityscape, alley, night, shadow,

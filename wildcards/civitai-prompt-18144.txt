@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,large breasts
+BREAK
+yuiyuigahama, <lora:yuiyuigahama:0.7>, yuigahama yui, short hair, (brown eyes:1.5), (orange hair:1.2), hair bun, single hair bun, BREAK skirt, shirt, ribbon, school uniform, jacket, white shirt, black jacket, blazer, sobu high school uniform,
+pantyhose,high heels,depth of field,looking at viewer,random view,((standing on the , Outdoor_garden_with_olive_trees,)),((full body)),polka dot panties,laughing
+BREAK
+day,sun,rainbow,bus stop,((cumulonimbus)),from below:1.2,

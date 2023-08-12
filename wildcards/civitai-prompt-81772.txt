@@ -1,0 +1,6 @@
+(cowboy shot), sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:Supergirl_Galatea:0.7>  Galatea, 1girl, short blonde hair, midair, flying
+white leotard, long sleeves, gold belt, cleavage cutout
+BREAK
+(flower field, outdoors, gorgeous view)

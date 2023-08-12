@@ -1,0 +1,1 @@
+black_hair, 1girl, beautiful face, beautiful eyes,<lora:beautifulDetailedEyes_v10:1> , looking at viewer, long_hair, solo, jewelry, ancient art, chinese, <lora:Qianjinghui_v10:0.8>, <lora:OilPaintStyle_v1:0.5> <hypernet:desolation_2:1>

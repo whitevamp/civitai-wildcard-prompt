@@ -1,0 +1,1 @@
+<'Hermione'*0.3 + 'ivy'*1 +  'Laura'*0.3>, <lora:hlfcol:0.4>,tan skin,(hlfcol haired girl with Red and black hair,  ),  <lora:gothgirl:0.5>,> <lora:epi_noiseoffset2:0.7> <lora:FilmVelvia2:0.55>, [cyberpunk cityscape],motorcycle in background, leather jacket, accident in backgound,full body,1girl,

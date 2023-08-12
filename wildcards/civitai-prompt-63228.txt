@@ -1,0 +1,3 @@
+smile:1.3, looking at viewer, sakura pedals, stars, fireflies:1.3, bokeh:1.2, (small_head),  <lora:koreanDollLikeness:0.35>, <lora:ChineseDollLikeness2.0:0.35>,  outdoors,  full body shot,
+1 girl,fit, solo,ahri_\(league_of_legends\), (red_kimono_with_white_trim:1), (yellow_eyes), (glowing_eyes),  bare_shoulders, bell,  Ahri_Cosplay, red costume, fluffy:1.3 White Tails,    (big_breasts:1.3), black_long_hair, floating_hair,  bangs,  tiny_waist, realistic_detailed_skin_texture,  
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, physically-based rendering, professional lighting, light on face,

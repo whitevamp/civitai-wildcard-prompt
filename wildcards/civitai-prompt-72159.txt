@@ -1,0 +1,1 @@
+seifuku cosplay,seifuku cosplayer<lora:seifuku cosplay:0.7>,looking at viewer,beautiful eyes,smile,arm behind,front body, front face, slender body,standing ,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),1 girl, full body shot, <lora:GoodHands-beta2:0.3>

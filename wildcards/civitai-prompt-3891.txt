@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, hm2b, light blue eyes, mole under mouth, clothing cutout, long sleeves, puffy sleeves,  juliet sleeves, feather trim, black thighhighs, black gloves, covered navel, (white_leotard:1.2), <lora:y2b_v2-1:0.7>, indoors, factory

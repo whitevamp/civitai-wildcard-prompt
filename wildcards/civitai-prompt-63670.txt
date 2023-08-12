@@ -1,0 +1,1 @@
+(masterpiece), (best quality:1.4), HDR, 8K, dramatic lighting, photorealistic, ((2 cute kittens are sleeping)), closed eyes, ((cute)), full body, mechanized equipment, (spaceship), science fiction, future world,  looking at viewer, <lora:popularTrainedOnTheMost_v10:1>, space, nebula

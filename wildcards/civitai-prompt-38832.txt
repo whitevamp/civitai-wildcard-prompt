@@ -1,0 +1,1 @@
+(realistic, photorealistic), dark skinned woman, (Zoe Saldana:0.6), landscape, movie screenshot, sharp details, the expanse scifi spacescape ceres colony, intricate, highly detailed, rich color, smooth, sharp focus, Unreal Engine 5, 8K, (blurry background, film grain, cinema shot, depht blur, volumetric dtx) <lora:star_trek_offset:0.7>

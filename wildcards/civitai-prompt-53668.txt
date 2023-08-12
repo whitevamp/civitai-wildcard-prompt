@@ -1,0 +1,1 @@
+(Isometric perspective:1.5),(Pixar style:1.2), Room, bed, sofa,(small bonsai:0.8),desk lamp, TV, mural, 3D,Disney,Panoramic photo,White background, solid background,Global illumination, raytracing, modeling,HDR,octane render,unreal render,behance,dribbble,artstation,best quality, 8k,  <lora:blindbox_V1Mix:1>

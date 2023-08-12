@@ -1,0 +1,3 @@
+komome, black dress, (blue shawl:1.3), headband, cleavage, yellow eyes, <lora:summerPocketsKushima_komome10:0.5>,
+1girl, solo, floating hair, full body, standing, liquid clothes, water, waves, tsunami, tide, sea, clouds, sky, seagull, dynamic pose, <lora:LiquidClothesV1fixed:1>,
+<lora:add_detail:1>

@@ -1,0 +1,2 @@
+(by kenket:0.6)  (by  chunie:0.3) (by Arthur Lismer:0.6), (by pixelsketcher:0.4), BREAK,
+8k hd, photo, photoreal,(big detailed red eyes, yellow sclera:1.2),  <lora:add_detail:1.9>,

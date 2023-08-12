@@ -1,0 +1,1 @@
+(masterpiece,  finely detailed beautiful eyes: 1.2),nude,shiny hair, glowing eyes, lustrous skin, realistic, 3d face,  upper body, <lora:hipoly3DModelLora_v10:0.66> <lora:lora-hanfugirl-v1-5:0.3>

@@ -1,0 +1,1 @@
+holding petal, flower hat, tropical, falling petals,1girl,long hair,flower mask,(girl lying in a flower field:1.2),heart background, timestamp, hat flower, seasons, emoticon, flower \(symbol\), fine art parody,  summer, colorful, green rose, flower bed, floral print ,white dress,<lora:Asian girls faceV2:0.5> <lora:sd-No.176-000014:0.8:FACE>

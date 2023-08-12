@@ -1,0 +1,3 @@
+<lora:blindbox_V1Mix:1>,
+chibi, alone floating in the sea,
+{best quality}, {{masterpiece}}, {highres}, original, 8k, (pureerosface_v1:1.2)

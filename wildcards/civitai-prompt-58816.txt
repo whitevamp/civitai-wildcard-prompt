@@ -1,0 +1,3 @@
+<lora:teslapunkai_v20:0.51> teslapunkai,
+valvepunkai, 
+power_plant, nuclear_weapon, atom, halo, mechanical_halo, compass, outdoors, cityscape, no_humans,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),

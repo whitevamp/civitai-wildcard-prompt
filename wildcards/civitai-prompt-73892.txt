@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, facial hair, animal hood, white cloak, mooglesuit, blue bodysuit, looking at viewer, serious expression, male focus <lora:mooglesuit-nvwls-v1:1> <lora:solidsnake-nvwls-v1-final:0.8>

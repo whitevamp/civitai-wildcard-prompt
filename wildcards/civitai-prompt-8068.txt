@@ -1,0 +1,9 @@
+realistic, detailed
+break,
+1girl, solo, small breast, looking at viewer, yoga pants, tank top
+break,
+simple background,
+break,
+portrait, depth of field, perspective, rule of third,
+break,
+<lora:C_vonzy_v1:0.85>

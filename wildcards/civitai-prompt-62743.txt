@@ -1,0 +1,1 @@
+"(punk jacket:1) dark theme :: closeup face focus, ultra realistic futuristic cyberpunk muscular male white hair sitting on throne :: cyberpunk face (intricate black skull face:1) :: cool cybernetic punk jacket red neon eyes :: shirtless::  mechanical intricate mask :: natural lighting :: bokeh :: 8k :: best quality :: masterpiece "  <lora:LowRa:0.8>  <lora:BodHor-V1:0.2>

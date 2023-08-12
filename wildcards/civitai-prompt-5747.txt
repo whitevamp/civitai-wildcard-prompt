@@ -1,0 +1,2 @@
+(absurdres, highres, ultra detailed),(best quality, masterpiece, ultra high resolution), pantyhose,streets,street,city,outdoors, outdoor, (full body:1.5), high heels,mechanical arms,
+1girl, solo focus,cbpkv2, <lora:cbpkv_20230611003400:0.7>, pretty face,looking at viewer,

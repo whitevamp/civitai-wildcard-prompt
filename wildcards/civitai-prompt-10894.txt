@@ -1,0 +1,3 @@
+<lora:adjusting_clothes_ass_v0.1:1.0>
+1girl, adjusting clothes, ass, multiple boys, 
+<lora:restroom_v0.2a:1> restroom, miniskirt, crop top, leather skirt,, masterpiece, best quality, highly detailed

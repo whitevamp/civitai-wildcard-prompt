@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece, ultra high res, highly detail face:1.3), portrait, (20 years old girl:1.3), beautiful, kawaii, dark hair, clothes, night, from front, (crying), simple background, bokeh <lora:Japanese-doll-likeness:0.2>

@@ -1,0 +1,1 @@
+(promotional art:1.1), (masterpiece, best quality:1.2), (fantasy landscape that shows Yggdrasil above and field below:1.2), (from below:1.2), cute, enchanted nature, (arcane rune:1.2), river, moss, (rainbow:0.90), (dusty sunbeam:1.1), (centered composition:1.1), highres, absurdres, 1girl (jumping:1.1), face <lora:add_detail:-0.3>

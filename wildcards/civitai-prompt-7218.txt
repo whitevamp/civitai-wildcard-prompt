@@ -1,0 +1,1 @@
+masterpiece, best quality, purah, wearing VR glasses, wearing Vision Pro, hair ornament, hair stick, headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings, large breasts, looking at viewer, entrance, garden, leaning forward, upper body, hands to hips, smile  <lora:purah-nvwls-v3-2:0.9> (ok sign),  <lora:vision_pro_v1:0.55>

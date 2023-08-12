@@ -1,0 +1,1 @@
+masterpiece, best quality, <lora:emperorpenguin-kemonofriends-richy-v1:1> emperorpenguin, 1girl, solo, zoo, against glass, underwater, submerged, breasts on glass, <lora:breastsOnGlass_v10:0.8>

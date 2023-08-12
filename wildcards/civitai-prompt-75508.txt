@@ -1,0 +1,6 @@
+(best quality:1.2) (4k:1.) (very high resolution:1.1) (realistic photograph:1.1),(ultra detailed CG illustration:1.1),
+1girl elf solo (small breasts:1.) (detailed face:1),(silver hair:1),
+<lora:egg_layingConv2D:.9> (egg laying:1.1),(mottled pattern egg:1),pussy juice,nude nipples (pregnant:0.8),
+(multiple tentacles:1.1),bdsm bound restrained,bound arms,spread legs,from below,
+blush panting trembling,
+(detailed background:1.1),outdoors sunlight (cinematic lighting:1.1),

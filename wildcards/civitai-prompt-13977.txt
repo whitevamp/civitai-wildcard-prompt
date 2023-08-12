@@ -1,0 +1,1 @@
+((best quality, 8k, masterpiece: 1.3)),1girl, turtleneck sweater,simple background, red background <lora:add_detail (1):0.9>  <lora:cute-ul22ang:0.2>

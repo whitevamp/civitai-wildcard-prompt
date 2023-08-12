@@ -1,0 +1,1 @@
+masterpiece, 1girl, princess zelda,  blonde hair, detailed face, looking at viewer, brown pants, boots, flexible, top-down bottom-up, spread legs,   pavement, stone bridge, river, sunny, medieval, sunny, trees, plants, wide angle, cathedral, mountains,  belt <lora:jackOChallengePoseLora_jackoposefront:0.3>,  <lora:princessZeldaLora_v1:0.5>

@@ -1,0 +1,2 @@
+1girl,black hair, red eyes, forehead, fat,smile,
+masterpiece,best quality,ultra_detailed,highres,absurdres, <lora:vectorer:1> 

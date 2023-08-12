@@ -1,0 +1,3 @@
+Photo of Jubilee standing confidently and wearing an open yellow jacket, denim shorts, (pink shirt:1.2) and (blue gloves:1.4), in a class room, blackboard.
+naked belly, smiling, young, slender, (purple shaders on head:1.2), intricate background.
+<lora:jubilee:0.75>

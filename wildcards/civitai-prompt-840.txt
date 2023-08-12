@@ -1,0 +1,1 @@
+from behind, looking at viewer, (seductive gaze, blush:1.3), outlandish bombshell hair, (masterpiece, best_quality, ultra-detailed, immaculate:1.3), epic, illustration, welcoming, bokeh,1girl, cat ears, neon blue hair with slate blue highlights, low-braided long hair, see-through nightgown, on a woodland road at night, (chubby thicc:0.7) hourglass figure,<lora:EnvyCuteMix05:1>

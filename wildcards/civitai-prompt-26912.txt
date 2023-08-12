@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2),  <lora:badgirl-v1-lora-naivae-64dim-5ep:0.45>, bad-girl, mature female, looking at viewer, smirk,

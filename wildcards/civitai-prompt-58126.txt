@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo girl wearing sexy astrosuite with helmet, white astrosuite, large breasts, 
+inside space station, (looking back, from behind),
+ <lora:sexyAstronautSuit_v10:0.5>

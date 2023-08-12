@@ -1,0 +1,1 @@
+japaninterior, hallway, candle, night, dim light, ornament, mirror, ornate, detail, traditional, ceramic, painting, japan calligraphy, garden, wooden floor <lora:ARWJapanInterior:1>

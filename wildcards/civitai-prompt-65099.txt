@@ -1,0 +1,2 @@
+no humans, tree, architecture, east asian architecture, scenery, building, white background, fog, outdoors
+ <lora:Style Chinese_Ink_Painting:0.8>

@@ -1,0 +1,3 @@
+masterpiece, best quality, octane render, intricate detail, Aela, 3 lines war paint, insanely detailed eyes, beautiful face, detailed dark red hair, skin pores,
+(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3)
+<lora:rigRedheadsInGames_v10:.8>

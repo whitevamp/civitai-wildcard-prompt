@@ -1,0 +1,3 @@
+long shot scenic professional photograph of (masterpiece,best_quality:1.0), long shot scenic professional photograph,cowboy shot,big ass,beautifull face, sexy poses,sky,clouds,trees, hands closed,river, water,(navel focus:1.2),
+<lyco:uzumaki_kushinaV3:0.7> (uzumaki_kushina,tattoo_HakkeNoFuuinShiki,blue eyes, long hair, hair clip),,(full lips), (red lipstick),
+<lora:xxxmicro-v5:0.8>,(green tiny miniature microbikini,string-only microbikini:1.4),perfect viewpoint, highly detailed, wide-angle lens, hyper realistic, with dramatic sky, polarizing filter, natural lighting, vivid colors, everything in sharp focus, HDR, UHD, 64K, ((big breast))

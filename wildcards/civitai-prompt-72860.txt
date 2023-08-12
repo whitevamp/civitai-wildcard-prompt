@@ -1,0 +1,6 @@
+(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK 
+<lora:GabiAOT:0.8> GabiAOT, looking at viewer, 1girl, smiling
+military uniform, suspenders, pants, armband, helmet
+BREAK
+(city, window, indoors, gorgeous view)

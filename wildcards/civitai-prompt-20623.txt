@@ -1,0 +1,4 @@
+(masterpiece, best quality, ultra-detailed, library, old books), (detailed background),
+BREAK (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, (1girl, solo, tank top, medium breasts, underboob, shirt lift),
+BREAK mari makinami, blue eyes, brown hair, glasses, headband, twintails,
+BREAK dress shirt, pantyhose, plaid, plaid skirt, school uniform, shirt, skirt, <lora:marimakinamitest:1>

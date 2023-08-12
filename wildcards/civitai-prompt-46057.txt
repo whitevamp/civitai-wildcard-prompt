@@ -1,0 +1,1 @@
+absurdres, blackskin, 2girls, beach, swimsuit, sweat, (breast press:0.3), smile, (hug:0.9), (realistic:0.5), <lora:obsidianSkin_v1:0.90>

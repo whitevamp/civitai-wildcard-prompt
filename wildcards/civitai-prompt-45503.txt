@@ -1,0 +1,4 @@
+detailed, masterpiece,realistic,(detailed face and eyes:0.5,beautiful eyes), shiny eyes,(an extremely delicate and beautiful)
+
+1girl,AngelMS, sfw, portrait,  ahoge, 
+(best quality, highly detailed, hyper realistic style, skindentation, photorealistic painted art, 8k, ultrares, trending on cg society, trending on artstation), (aroused), vivid color ,<lora:AngelMS:1>

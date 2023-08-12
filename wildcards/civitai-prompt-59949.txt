@@ -1,0 +1,1 @@
+solo,(gobgirlz:1), (green skin:1.3),RapunzelWaifu, sad, <lora:epiNoiseoffset_v2:0.4> ,moody,(rapunzel \(disney\):1.4), (topless:1.3), (torn dress:1.3), small breasts, pointy ears, (long braided hair:1.2), <lora:gobGirlzLora:1.2> <lora:rapunzelDisneyPrincess_v10:0.6>

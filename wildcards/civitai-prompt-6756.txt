@@ -1,0 +1,3 @@
+girl,
+Bob Hair,apron,topless,girl, (Kitchen:1.4), ,Medium Hair, Dawn,thong
+<lora:carrot_mix:0.7>

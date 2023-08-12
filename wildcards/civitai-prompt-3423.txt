@@ -1,0 +1,3 @@
+A photo of Bender rocking out on stage, shredding a guitar with sparks flying in the air.
+robot, reflective metal, blurry
+<lora:Bender:1.0>

@@ -1,0 +1,4 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,
+Dark, atmospheric, mystery, romanticism, macabre, literature, art, fashion, Victorian, ornamental, intricate, ironwork, lace, brooding, emotional depth, supernatural,
+1girl,solo, Neck,
+<lora:gufeng-000014:0.4>  <lora:LowRAv2:0.4>  <lora:OC:0.3>

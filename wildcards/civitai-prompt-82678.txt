@@ -1,0 +1,2 @@
+masterpiece, best quality,(cgi, realistic),photo, extreme detail, 8k, detailed face,mature woman,(mature:1.25),smiling,  sitting, (beth_pacen:1.15), blonde hair, eyepatch bikini, large breasts, lake, outdoors, nature, trees, rocks, (submerged, water), wet, wet skin, vegetation, bushes, detailed background,waterfall
+<lora:BethPacen_v1:1> <lora:eyepatchBikini_v10:0.77>

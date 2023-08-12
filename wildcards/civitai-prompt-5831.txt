@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, (wall_foot), 1girl, barefoot, clenched_hand, crying, feet, foot_focus, restrained, stuck, solo_focus, spread_toes, tears, trembling, puffy lips,  <lora:wall_foot:0.6>, <lora:Sakura[Boruto]V2:0.6>, haruno sakura, side bangs, forehead mark, red hairband, pink medium hair, green eyes, deep eyes, blush, brick_wall

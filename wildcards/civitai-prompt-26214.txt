@@ -1,0 +1,5 @@
+Best quality,masterpiece,ultra high res,beautiful, extremely detailed face, perfect lighting, perfect face,illustrious
+(sfw:1.0), (tentacle :0.0),chain leash, choker,Hand chain necklace,
+Asia
+(2girl:1.3), (outdoors:1),offshoulder,close-up,  (white dress:0.3),skirt, looking at viewer,night,black hair, white hair,large breasts, large thighs, highleg ,cyberpunk, Smooth skin,simple background,
+<lora:Olga_Discordia:0> <lora:ClothingAdjuster2:-0.0> <lora:Cute_girl_mix4:0.3> <lora:3DMM_V12:0.8> <lora:add_detail:0.0> <lora:Bandeau-fC-V1:0.0> <lora:Black_See-through_Bodysuit:0.0> <lora:MassiveBreastsV3:1.5> <lora:tutu's cyberpunk:0.6>

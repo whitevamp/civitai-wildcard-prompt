@@ -1,0 +1,1 @@
+<lora:Biomechanicals_v2_lora1500:0.8> style, hnsrdlf style, (high contrast:1.0), photo realism, analog style, specular, (underexposed:0.8), global illumination, ambient occlusion, smoke

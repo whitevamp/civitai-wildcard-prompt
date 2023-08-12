@@ -1,0 +1,5 @@
+nsfw, masterpiece, best quality, extremely detailed, intricate, full-length shot,
+1boy, white torn male bodysuit, bare pectorals, white socks, muscular body, abs, big pectoralis, shiny skin, white skin,
+detailed face, light smile, frown, closed mouth, black eyes, short black hair, eye reflection, shiny blue necklace, looking at viewer, manly,
+outdoors, street, shop, sunlight, soft light,
+<lora:chineseMaleLikeness_chineseMaleLikeness3:0.6>  <lora:handsomeMan_v10:0.3> <lora:epi_noiseoffset2:0.5>

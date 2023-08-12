@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2), Hight detail TAW colour photo, professional photograph, (realistic, photo-realistic:1.37), ((best quality)), cinematic light, (finely detailed face:1.2), (masterpiece:1.5), (best quality:1.2), (bokeh:1.2), 35mm:1.25, wide angle, high angle:1.2, glamour shot, portrait photo, shot from her top front or side or back,
+
+close up:1.2, 1 girl, 19-year-old athlete, solo, white skin, cute, detailed skin texture, glistening skin, detailed beautiful and delicate face:1.3, athletic sportswear, padded Crop Top, big natural breast, narrow waist, detailed hair with bangs, detailed long messy hair:1.3, random hairstyle, Smiling:1.2, she feels hot and sweating, workout in the gym room,
+
+<lora:cuteGirlMix4_v10:0.4> <lora:japaneseDollLikeness_v10:0.4> <lora:koreandolllikeness_V10:0.2>

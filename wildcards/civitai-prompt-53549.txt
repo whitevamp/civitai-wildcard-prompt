@@ -1,0 +1,10 @@
+best quality, intricate details,
+
+
+1girl, long hair, red hair, messy hair, red highlights, blue eyes, sharp eyes,
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>  
+
+ <lora:piperPerriMeme_v11:0.8> piperperrimeme, multiple boys, 1girl, sitting, sofa, indian style,

@@ -1,0 +1,9 @@
+(masterpiece:1.2),best quality,illustration,beautiful detailed girl,
+(1girl),
+(looking at viewer),(sweat:1.2),embarrassed:1.1),closed mouth,
+(spread legs),(on floor),gym room,on stomach,
+large breasts,nipples,(clothes lift:1.3),arms up,
+(kneehighs:1.1),(gym uniform),(buruma:1.2),
+(on bed,pillow:1.2),
+bob cut,glasses,parted bangs,black hair,
+<lora:buruma_gym_uniform_TrueBuruma10-20:0.3>

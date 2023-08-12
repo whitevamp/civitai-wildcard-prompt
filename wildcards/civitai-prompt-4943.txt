@@ -1,0 +1,3 @@
+barbie mugshot, (a fat white cat, cute), holding sign, big eyes, blue eyes, grin, Slanted wearing pink bow tie headwear, pink Hanbok,
+portrait, no humans,
+<lora:barbie_mugshot_A:0.7>, (Chi_testv1:0.5)

@@ -1,0 +1,1 @@
+anime, 2d, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), <lora:Judy_5_10-000009_2:0.8> judyalvarez, brown eyes, short green hair, multicolored hair, (undercut:1.1), tattoo, jewelry, crop top, overalls, neco-arc, :3, cat ears, chibi, cat girl, cat tail, solo, slit pupils, <lora:Neco-Arc:1>

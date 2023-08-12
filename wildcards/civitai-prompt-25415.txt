@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra high res,St.Louis_LuxuryHandle,
+1girl,solo,( trapped by silme),in slime,slime interior,(bubble in slime),a mass of slime,(slime monster),cleavage,
+looking at viewer,(upper body:0.8),(portrait:0.7),
+<lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

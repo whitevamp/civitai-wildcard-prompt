@@ -1,0 +1,1 @@
+<lora:constricted_pupils_v0.2a:1> upper body, 1boy, red eyes, colored skin, wide-eyed, constricted pupils, embarrassed, scared, crying, masterpiece, best quality, highly detailed, absurdres, <lora:add_detail:0.5>  <lora:Frieza:0.7> frieza,

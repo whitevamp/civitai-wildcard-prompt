@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, CryingBlood, blood, <lora:CryingBlood:1>, 1boy, solo, close-up, sasuke boruto, <lora:Char_Naruto_SasukeUchiha:0.7>, mangekyou sharingan, <lora:Img2Img_MangekyoSharingan:1>

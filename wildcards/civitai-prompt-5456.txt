@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:ShiroganeNoelBikini:0.8> noel, bikini, bikini skirt, eyewear on head,  
+ <lora:bobsout1:0.8> nipples,  
+ <lora:TAT3:0.8> TAT, wavy mouth, frown, 1girl, crying with eyes open,  crying, tearing up, tears, sad, portrait,

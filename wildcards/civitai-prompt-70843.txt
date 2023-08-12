@@ -1,0 +1,4 @@
+RAW photo, best quality, (photorealistic:1.4), ultra high res, 8k, realistic, film grain, soft lighting, sharp focus, cowboy shot,
+1girl, 21 years old, looking at viewer, closed mouth, smile, (finely detailed eyes:1.1), seifuku cosplay, big breasts, wide hips, ass,
+(school hallway:1.1),
+<lora:seifuku cosplay:0.7> <lora:LowRA:0.3>

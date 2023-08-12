@@ -1,0 +1,4 @@
+masterpiece best quality hyperdetailed intricate river side, coconut tree, huts,starry night, blue moon,
+18 year old goblin  girl,wavy hair,nose blush,(school uniform, serafuku, navy_blue pleated skirt,necktie worn below, thighhighs), skirt lift, choker, earrings,
+NSFW, cowboy shot, contrapposto, steam,looking away,
+ <lora:beautifuleyeslikeness_halfBody:0.4> <lora:thaiHighSchool_thaiHighSchool:0.6>

@@ -1,0 +1,5 @@
+masterpiece,best quality,highres,game cg,indoors,day,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,mature female,elf,white hair,short hair,braid,green eyes,half-closed eyes,open mouth,blush,scared,tears,medium breasts,(bra lift:1.2),lying,on back,spread legs,women sexy lace robe,translucent sleepwear,barefoot,panty hang around one leg,
+BREAK,
+<lora:ImminentPen:0.9>,1boy,penis,imminent penetration,

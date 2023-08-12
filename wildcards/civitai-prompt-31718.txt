@@ -1,0 +1,3 @@
+Masterpiece, ultra realistic,absurdres,HDR,8k,excited,best quality,sunglasses, city background, beautiful woman grachel03v3, edgSDress, 1girl, solo, looking at viewer, medium hair, blue eyes, blonde hair,  white dress, holding, standing, full body, short sleeves, floral print, sandals, leather belt, fashion , wearing edgSDress
+Blonde with sunglasses and a choker, jacket,
+<lora:edgSDress:0.687>

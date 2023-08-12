@@ -1,0 +1,1 @@
+(finely best quality illustration:1.2), (kawaii girl:1.0), (1girl, solo:1.0), (short hair, blonde hair, long hair:1.0), (white kimono:1.0), (smile:0.4), (luminedef:0.9), (upper body:1.1), (white background:1.2), (ultra-detailed, highres:1.0), <lora:LumineGenshinImpact:1>,

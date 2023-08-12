@@ -1,0 +1,1 @@
+realistic, photorealistic, masterpiece, best quality, 8k, ultra detail, HDR, , white cooldress, white knee boots, 1girl, solo, smile, looking at viewer, long black hair, full body, standing, dynamic pose,  outdoor, garden, castle, night, detailed background, <lora:Cute Asian Face:0.65>, <lora:cool_dress_style4_v5:0.7>

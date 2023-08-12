@@ -1,0 +1,1 @@
+<lora:1girlmix:0.7>, 4k, (photorealistic:1.2), 1girl, highly detail face, (realistic eye details:1.2), realistic skin, night, outdoor, (perfect body:1.2), (realistic anatomy:1.2), (fluffy short hair:1.1), half-body, realistic photo, RAW photo, Cinematic Lighting, hyper detail, best quality, masterpiece, DSLR, 24 Megapixels, Full Frame, Mix4, <lora:cuteGirlMix4_v10:0.2>, cleavage

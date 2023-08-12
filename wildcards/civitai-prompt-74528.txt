@@ -1,0 +1,4 @@
+(masterpiece), high detail, absurdres, chibi,pepe_frog, very funny,
+fish in an aquarium,
+ (RAW, 8k, uhd),masterpiece.
+ <lora:pepe_frog_v2:0.8>,

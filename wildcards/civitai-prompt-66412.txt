@@ -1,0 +1,5 @@
+elemental_mage, (multicolored hair), gemstone_crown, ([ethereal_tunic|elemental_corset]:1.3), [orb_of_power::10], iridescent ([choker:magical trim:0.4]:1.7) radiating on ([elemental pauldron:spellbound shoulder:0.4]:1.5), forehead, channeling, prismatic eyes, rune_belt, mystic_bracelets, floating_island, elemental_staff, [ombre, elemental_braid:0.1], [gloves, magical_grimoire, enchanted_pants:0.4],
+(__views__:1.2),
+__body-parts__,
+Expressive Hues, Vibrant Palette,Dynamic Brushwork,sharp focus,
+<lora:oc_v10:0.25>

@@ -1,0 +1,2 @@
+isometric city, corner store,  city block, dimly lit, neon signs, tungsten lighting, boy walking dog, <lora:add_detail:0.5> 
+,\(\(intricate details\)\),colorful details,iridescent colors BREAK,\(\(masterpiece best quality\)\),4k,ultra detailed,detailed lighting,\(\(inspired by Hayao Miyazaki\)\),official art,promotional art,composition,

@@ -1,0 +1,1 @@
+(masterpiece:1.2), best quality,PIXIV, she is standing in front of yellow glowing giant pikachu BREAK  taoist, transparent,<lora:PIKAPOKE:1:MIDD>pikapoke <lora:taoist_20230623200708-000018:1:0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1> BREAK 1girl, looking at viewer, yellow shirt, BREAK (white skirt:1.2)

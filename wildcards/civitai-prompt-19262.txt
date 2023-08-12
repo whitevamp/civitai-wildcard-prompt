@@ -1,0 +1,6 @@
+(highres, best quality:1.3), sharp focus, professional artwork,
+NijouShizue, (solo:1.2), mature female, all fours, crawl down the corridor, on a leash, collar, blush, confused, squining, looking at viewer, full body shot, indoors, room, doors,
+blonde hair, short hair, single hair bun, makeup, lipstick, blue eyes, perfect eyes, half closed eyes, perfect face, detailed face, jewelry, earrings, choker
+pantyhose, (black corset:1.1), lace panties,
+large breasts, cleavage, (areolae:0.9), 
+ <lora:NijouShizue-000009:0.82>

@@ -1,0 +1,1 @@
+mini\(ttp\),gundam\(rx78\), (8k, RAW photo, best quality, masterpiece:1.2),((1girl in mobile suit), in bedroom, indoors),((isometric)), miniature, landscape,<lora:miniature_V1:0.6>, ((simple background)), clean floor, <lora:RX78_v2-000014:0.3>

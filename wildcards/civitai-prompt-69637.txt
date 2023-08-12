@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3),  (zentangle:1.2),   colorful, visual chaos, fluid movement, captivating patterns,  highest detailed,
+1 girl, adult (elven:0.7) woman,  blue eyes, blonde layered hair,
+portrait, solo, (full body:0.6), detailed background, detailed face, (militarist authoritarian dictatorship theme:1.1),  angry expression, dark fighter, unholy, gray clothes, spiked armor,     spiders in background, <lora:FirevfxCreateMore_v2:0.4>, flames in background, misty dark sinister atmosphere,  
+<lora:mitsuart_v8.1a:0.6>,

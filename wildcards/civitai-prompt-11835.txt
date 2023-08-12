@@ -1,0 +1,3 @@
+1girl, light smile, holding strawberry,  white vest, brown hair, looking down, table, coffee, cafe, brick, potting, sunglasses on table, album on table, 
+best quality, highres, photorealistic, 
+ <lora:add_detail:0.4>

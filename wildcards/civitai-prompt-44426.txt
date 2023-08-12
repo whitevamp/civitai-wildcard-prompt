@@ -1,0 +1,7 @@
+(Highres), (Detailed Illustration), Ultra-Detailed, Ambient Light, Backlighting, Realistic Shadows, Glowing Particles, Light Particles, Digital Art, Soft Light, Soft Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), Dim Lighting, Indirect Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), (masterpiece:1.4), (best quality:1.4), (Beautiful Breasts:1.4), (beautiful face:1.4),
+(1girls:1.4),
+blush, (sweat on the body:1.3), (lying on his back:1.4), (spread legs:1.4),
+(blue eyes:1.2), ass, blue hair, breasts, glasses, (small horns:1.3), (large breasts:1.2), looking back, open mouth, pointy ears, (short hair:1.2), solo, nude, (full nude:1.3), (puffy nipples:1.2), (pussy:1.2), pussy juice, (huge breasts:1.4),
+(simple background:1.2),
+<lora:Zenia_LoRA:0.6>,
+<lora:more_details:0.5>,

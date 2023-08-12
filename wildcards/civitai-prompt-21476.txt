@@ -1,0 +1,4 @@
+body, (angry:1), closed mouth, lipstick, (looking away:1.5), hand up, arms up, balck background, background, closed mouth, pointing , stage lights, 
+(masterpiece), long fingers, slim_hand, slim_fingers,
+(detailed), (semi-realistic), (traditional Chinese dance costume:1.2), (Ekiholic inspired:1.3), (expressive facial features:1.2), (elegant dance movement:1.1), (opera:1.2), (traditional music instruments:1.1), (flowing sleeves:1.2) ,depth of field,
+<lora:add_detail:0.6> <lora:LowRA:0.3>

@@ -1,0 +1,2 @@
+inside museum,  alabaster  statue, (made of marble:1.2), antique statue, Greek Goddess of beauty,  medium boobs, 1girl, wide hips, nipples, detailed hands, ilya kuvshinov, raymond swanland, james gilleard, very detailed,  8k, hd, full color,
+<lora:marblesh:1>, <lora:marbleshLora_marblesh:1>

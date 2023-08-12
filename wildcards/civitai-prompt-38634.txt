@@ -1,0 +1,1 @@
+hdr, lis, woman, green eyes, orange-tinted glasses, wearing green Anime school uniform,outdoors, school courtyard,  looking at camera,  standing,  <lora:lis_(battlefield_2042):.7>, extremely detailed,  <lora:Mistoon_Anime school uniform:1>

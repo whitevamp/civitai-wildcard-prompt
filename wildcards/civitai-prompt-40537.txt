@@ -1,0 +1,1 @@
+Eldritchtech, A naked drow woman, dark elf,  <lora:drow_offset:0.8>  <lora:CosmicEldritchTech:0.8>

@@ -1,0 +1,1 @@
+masterpiece, best quality,<lora:RAL-000010:0.5>,1girl,,ruins,wave,rain,starry sky, night,city,citylights

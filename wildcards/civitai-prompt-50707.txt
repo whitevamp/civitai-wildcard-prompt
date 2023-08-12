@@ -1,0 +1,8 @@
+(masterpiece:1.1), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.2),(realistic:1.0),(ultra detailed1:0), (sharp focus1:0), (RAW photo:1.1), (lighting:1:1), Shibuya_\(Japan\), outdoor,
+
+marin_\(My Dress-Up Darling\), 1girl, bangs, black_choker, ((blue_necktie:1.3)), blonde_hair, blush, bow_panties, breasts, choker, clothes_lift, collarbone, collared_shirt, cowboy_shot, ear_piercing, earrings, eyebrows_visible_through_hair, grin, head_tilt, jewelry, lifted_by_self, long_hair, looking_at_viewer, loose_necktie, medium_breasts, necktie, panties, piercing, plaid, plaid_skirt, school_uniform, shirt, simple_background, skirt, skirt_lift, smile, solo, teeth, underwear, white_background, white_panties, white_shirt
+
+(Blonde to pink gradient long hair1:1.1), small breasts, sex smile, (ear piercing:1:1), earrings, looking_at_camera,
+panties, nail_art, nail_polish,
+
+ <lora:Marin_v1.3.3:1>

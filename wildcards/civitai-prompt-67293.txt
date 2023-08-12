@@ -1,0 +1,10 @@
+best quality, masterpiece,
+raw photo, photorealistic,
+huge filesize, absurdres, incredibly absurdres,
+1girl, solo,
+lying,
+long hair, beautiful face, an extremely delicate and beautiful face, an extremely detailed face, smile,
+small breasts, skinny, pink bar,
+office lady outfit with opened shirt 
+white socks,
+ <lora:koreanDollLikeness_v20:0.4>

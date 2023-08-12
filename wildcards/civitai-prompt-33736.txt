@@ -1,0 +1,9 @@
+masterpiece, best quality,
+
+(ishtar \(fate\), red eyes), nude,
+
+(fellatio:1.1), deepthroat, saliva, half-closed eyes, petite, pov, pov crotch, dark background,
+
+(realistic:0.25),
+
+<lora:balls deep:0.3>, <hypernet:zumi-60000:0.3>

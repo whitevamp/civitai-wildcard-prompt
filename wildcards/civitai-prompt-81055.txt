@@ -1,0 +1,1 @@
+a ((cat)) is punching rapidly, rapidpunches, <lora:RapidPunches:0.8>,  high quality, upper body, detailed face,  smile, zoom out, solo

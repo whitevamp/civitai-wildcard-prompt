@@ -1,0 +1,4 @@
+(full body shot:1.3),  (small_head),laughing:1.4,outdoors, (partially_submerged), bokeh:1.2, dynamic angle, sunset, beachside, palm tree, 
+1girl, fit, solo, long hair, (floating hair:1.3), adjusting hair, short sleeve haute_couture designer dress, (long skirt:1.4),   <lora:hauteCoutureRobesDeSoirE_v10:0.5>,
+big breasts, tiny waist, slim legs, detailed skin texture, detailed face, detailed eyes, <lora:koreanDollLikeness:0.35>,<lora:ChineseDollLikeness2.0:0.35>,  (camera setting ISO 400 F4 85mm shutter speed 1/60),
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),((Hasselblad photography)), ultra high res,  radiosity, physically-based rendering, professional lighting, light on face,

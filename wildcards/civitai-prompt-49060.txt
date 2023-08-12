@@ -1,0 +1,5 @@
+(masterpiece, anime, extremely intricate), (64k Highly detailed RAW color Photo:0.8, photorealistic:-1, ultra high res:1.2),
+1 girl, solo, glasses, myanmar girl, sexy face, [:(detailed face:1.2):0.2], long hair, looking away,
+skinny body, (black pencil short skirt:1.8, white shirt short sleeve), <lora:thaiUniversity_v10:1>, high-heel shoes, 
+standing, from front view, 
+night, futuristic city landscape in background, nature light, light from above, High Detail, Sharp focus, dramatic,

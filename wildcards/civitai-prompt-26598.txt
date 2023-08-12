@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors, (depth), (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+(1man, wrinkled face, old  male:1.2), wise,  amber eyes, white hair, mid-fade,
+ (bloody scars:0.7), looking at viewer, solo, half shot, detailed background, dark city, night, futuristic technology, neon lights,  <lora:CyberPunkAI:0.6>, neon, CyberpunkAI theme,  assassins creed, hired assassin, hidden wrist-blade, black rugged leather assassin clothes,  cloak, leather pouches, small knives,  undercover, dynamic pose,  street in background, floating particles, dust, rain,

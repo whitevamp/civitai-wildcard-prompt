@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette,  (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult  woman,  teal eyes, natural blonde wavy hair,
+ looking at viewer, solo, half shot, detailed background, detailed face, (<lora:BiophyllTech:0.6>,  bioluminescent, BiophyllTech theme:1.1), inventor,  shirt,   fantasy science lab in background, chemistry, vials,   [lab mask:gas mask:0.2],   air filter,  
+<lora:PsyAI_128:0.4>, PsyAI,

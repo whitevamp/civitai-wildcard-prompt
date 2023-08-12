@@ -1,0 +1,7 @@
+<lora:IlluminatingJabMix:0.01>,
+<lora:FF_LoRA:1>, fflogo, white background, simple coloring, blue and purple gradient,
+masterpiece, best quality, intricate details,
+1girl, solo, stunning female, dainty, elegant, prim, proper, swirling magic, green eyes,
+-
+-
+side profile, full body,

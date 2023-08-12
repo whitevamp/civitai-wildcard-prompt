@@ -1,0 +1,1 @@
+(masterpiece:1.6, bestquality), 1girl, full body, Suisei, (ultra-detailed, dark shadows), (fuzzy sleepwear, fuzzy loungewear:1.2), on bed, fluffy blanket, blue eyes, blue hair, smile, inside, warm lighting, vivid pastel colors, happy, detailed eyes, bright and colorful, sharp focus, (fuzzy clothes:1.3), beautiful lighting, award winning,  <lora:add_detail:0.6>

@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+ <lora:ainzOoalGownOverlord_v10:0.8> male_focus, mask, skeleton, robe, cape,  glowing_red_eyes, 
+
+ <lora:syfyeye1_v10:0.8> starry sky, nebula, magic ritual,

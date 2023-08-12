@@ -1,0 +1,1 @@
+grainy, extremely detailed, intricate detail, dynamic lighting,photorealistic, <lora:FilmG4:1>,filmg , natural lighting,   <lora:LowRA:1.2> ,low light,  <lora:m0nst3rfy3(0.5-1)M:0.8>,cat, slime, (red glowing eyes:1.2), :P, (fluffy,hairy,fluff,:1.3), (glowing stripes:1.1), raining,wet,dark theme, open mouth, lot of teeth, abyss, lurking in shadow,

@@ -1,0 +1,1 @@
+(35mmstyle:1.1), masterpiece, front shot, photo of (Cortana), (perfect face:1.2), purple skin, cinematic lighting, lifelike, (photorealistic:1.1), HDR, 8k, (film still from HALO live action adaptation), (full body:0.9), eye focus <lora:cortanaHalo_v1:1>

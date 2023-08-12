@@ -1,0 +1,1 @@
+(best quality:1.1), (masterpiece:1.1), excellent lighting, (good face:1.2), sign around neck, cat girl, white hair, crawling, on the floor, nsfw, (nude:1.2), collar, bags_under_eyes,  <lora:PetShaming:1.2>,  <lora:bags_under_eyes:1>

@@ -1,0 +1,1 @@
+medium shot photo of ironman,  wearing a white (Lace Blindfold:1.1)  <lora:Lace_Blindfold02:0.85>, realistic, (masterpiece:1.3), (best quality:1.3), beautiful, (intricate details), unity 8k wallpaper, ultra detailed, beautiful, aesthetic, perfect lighting, <lora:add_detail:0.2>

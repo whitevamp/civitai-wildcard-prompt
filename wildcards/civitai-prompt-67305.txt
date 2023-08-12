@@ -1,0 +1,2 @@
+best quality, highres, high resolution, high detail, sharp focus, <lora:GlassTech-20:0.9>.
+Translucent glasstech cannon, on a muddy World War 1 battlefield.

@@ -1,0 +1,5 @@
+masterpiece, best quality, (extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed, best shadow), (chromatic aberration),(beautiful girl:1.5),(beautiful detailed girl:1.1),(ultra-detailed),((cute face)),<lora:add_detail:0.5>,((full body)),
+((
+((Best quality)), ((masterpiece)), ((realistic)), A girl depicted in a retro vaporwave sunset skyline scene. The artwork showcases a vibrant and colorful atmosphere with a grid pattern, palm trees, and a palette of purple and pink hues. The girl is portrayed in a relaxed and chilled-out state, enjoying the serene ambiance of the scene. On eye level, scenic, masterpiece.
+)), ((caustic)), dynamic angle,beautiful detailed glow,
+<lora:more_details:0.5>,

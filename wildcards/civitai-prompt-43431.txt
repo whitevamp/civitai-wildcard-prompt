@@ -1,0 +1,3 @@
+(ring:1.3), glass. Art, masterpiece, best quality, landscape, <lora:RingArt_Sora:0.8>, (ultra realistic, 32k, RAW photo, high detailed skin:1.1)
+(masterpiece, best quality:1.5), 
+Anorak, Bangkok, winter,

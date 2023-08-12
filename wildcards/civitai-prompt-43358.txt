@@ -1,0 +1,5 @@
+KillerFrost,short dark blue hair, solo, blue eyes, blue lips,  
+KFattire,elbow gloves,thighhighs,fur trim,bridal gauntlets,thighs,boots,detached sleeves,blue leotard,collarbone, 
+standing, upper body,  evil smile,  midriff,  cleavage, white  cape, 
+ice  park,  Gotham city,  night, 
+(insanely detailed, beautiful detailed face, masterpiece, best quality)  <lora:KillerFrost:0.8>

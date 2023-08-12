@@ -1,0 +1,5 @@
+3D mech cockpit,
+mecha pilot girl, smile, 1girl, mecha, cockpit, 
+slim body,  <lora:Niji:0.6>,  body suit,
+high-tech theme, small hip, 
+high detail, realistic, photo quality, high quality,  (photorealistic:1.4), science fiction

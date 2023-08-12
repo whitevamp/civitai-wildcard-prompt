@@ -1,0 +1,7 @@
+(best quality), (masterpiece), (high resolution), [:(intricate details):0.2], detailed_background, 1girl, 18yo, full body focus:1.1, smile, at the (night time:1.2),
+abs, garterbelt, white fabric, fabric straps,red floral embroidery, multiple iron chains attached to rings, woman wearing a white garterbelt with red embroidery and multiple leather straps, multiple ribbons,
+
+
+
+<lora:epiNoiseoffset_v2:1>portrait of a award winning photo of posing in a dark studio, rim lighting, two tone lighting, dimly lit, low key
+<lora:garterBelts_v11:1:midd>  <lora:hipoly3DModelLora_v10:1:outs>

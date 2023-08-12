@@ -1,0 +1,1 @@
+masterpiece, best quality, aerith gainsborough, choker, cropped jacket, hair bow, bracelet, pink dress, looking at viewer, leaning forward, smile, closed mouth, indoors, stained glass window <lora:aerith-nvwls-v1-000010:0.9>

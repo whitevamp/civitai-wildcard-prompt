@@ -1,0 +1,7 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, Face Focus, Solo, (Black Eyes, Black Irises:1.2),
+White Hair, Long Hair, Floating Hair, Curled Hair, White Fox Ears, (Fox Tail:1.2),
+White Clothes, White Shirt, (White Skirt:1.2), White Thighhighs, White Capelet, Gold Trim, Jewelry,
+Large Breasts, (Skindentation:1.2),
+Nature, Jungle, Plants, Rocks, Waterfall,
+<lora:NoiseOffset:1>

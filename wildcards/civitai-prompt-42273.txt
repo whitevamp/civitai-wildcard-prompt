@@ -1,0 +1,1 @@
+highres,4k,HDR,1girl, photorealistic, realistic,sweat skin, thin face,yangmi,heavy makeup, sitting,looking at viewer, medium breasts,earing ,   <lora:yangmi_v4:0.8>

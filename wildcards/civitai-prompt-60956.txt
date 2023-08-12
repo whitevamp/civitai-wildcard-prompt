@@ -1,0 +1,5 @@
+best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,lifelike rendering, immersive atmosphere, chiaroscuro, moody lighting,premium artwork,
+half naked,(see-through|areola slip|nipple_slip:0.9),__clothing__,
+2girls,kneeling,1girl grey hair,1girl blonde hair,
+(glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura:0.9),
+<lora:lowra_v10:0.5>  <lora:oc_v10:0.23>  <lora:multiplegirlsgroup.F8nd:0.8>

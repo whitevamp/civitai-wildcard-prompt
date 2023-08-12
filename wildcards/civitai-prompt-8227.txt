@@ -1,0 +1,2 @@
+ladybug,(medium shot:1.3),cat ears,wearing in cat black latex costume,glossy,reflections,long hair,
+<lora:ladybug:0.9>,

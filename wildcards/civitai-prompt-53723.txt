@@ -1,0 +1,3 @@
+1girl,solo, smile, (travel attendant,stewardess),elbow gloves,pencil skirt ,
+skyline, cloud,sunset,finger to own chin, looking at viewer, realistic, short hair 
+   <lora:EvanRachelWood23Apr:0.6>

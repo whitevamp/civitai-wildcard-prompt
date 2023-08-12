@@ -1,0 +1,4 @@
+kesulu, tag: text focus,english text,freehand sketching,
+1boy, (no human:1.2), bug,horns, cloak, white helmet,
+archive, category book,
+ <lora:hollowKnight:1> <lora:Cthulhu_v1:0.8>

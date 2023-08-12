@@ -1,0 +1,4 @@
+masterpiece, best quality,detailed face,
+1girl, medium hair, (red|black hair),  messy hair, dutch angle,head shot,
+Space opera,Space port,robot arm,elbow gloves,night,glisten,stare,cyberpunk,((((citylight)))),science fiction,bodysuit,Mechanical armor headdress,armored leotard,  (dynamic pose:1.2),
+<lora:gundamRX782OutfitStyle_v10:0.4>,

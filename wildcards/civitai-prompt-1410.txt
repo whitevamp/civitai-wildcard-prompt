@@ -1,0 +1,2 @@
+anime_still, masterpiece, best quality, 1girl,Hiroko Takashiro , Kitami Reika, sitting on beach, mature female,Large Breasts, cleavage, curvy, 40 yo,blonde hair, short hair, lipstick, makeup, black eyeshadow, smokey eyes, blue eyes, jewelry, cross earrings, <lora:bibleBlackStyle_10:0.35>, (nude), (micro bikini, areola slip:1.18), solo sand, beach, palm, tree, umbrella, towel, waves, clouds, sun, wet, oily skin, shiny skin, smiling, parted lips, blushing, arms behind head
+<lora:Kitami-000008:0.85> , <lora:exbikini2:0.75>

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1boy, solo, <lora:tow-concept-richy-v2:1> towlauncher, scope, aiming, leaning forward, tripod, headband, ear protection, facial hair <lora:solidsnake-nvwls-v1-final:1>, solid snake, blue bodysuit

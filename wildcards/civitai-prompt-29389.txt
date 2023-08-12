@@ -1,0 +1,11 @@
+masterpiece, best quality, ultra-detailed, illustration, cowboy shot,
+(1girl),beautiful detailed eyes,
+<lora:titaniafrost-lo-richy-v1:0.7> blue hair, white hair, short hair, huge breasts, (blush, embarassed, full-face blush:1.2), BREAK
+<lyco:CowGirl:0.6>, CWT, (cow_print:1.2), animal_print, animal_ears, horns, bell, cow_ears, thighhighs, elbow_gloves, cow_horns, fake_animal_ears, cowbell, fake_horns, print_legwear, neck bell, huge breasts, blush, sweat, thick thighs, lactation, lactation through clothes, plump, hood, deep skin
+<lora:inverted_nipples_-_sideways_only:0.75> ("inverted_nipples":1.3) ("inverted nipples":1.3) ,
+(glowing eyes, red eyes:1.2), v-shaped eyebrows, (frown:1.1), cruel, evil, closed mouth, head tilt,
+(white background, simple background:1.2),
+looking at viewer, modelshoot style, (fcDetailPortrait:0.8),
+arms up, arms behind head,
+ <lora:more_details:0.3>,
+<lora:GoodHands-vanilla:0.5>

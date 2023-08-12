@@ -1,0 +1,8 @@
+(best quality), (masterpiece), ultra-detailed, ,(looking at viewer),
+1girl,floating,
+<lora:misaka_mikoto:0.9>,brown hair,glowing brown eyes,hair_ornament,tokiwadai_school_uniform,
+glare,angry,
+<lora:rageMode_v1:0.2> ragemode, wild hair, destruction,
+<lora:LightningVFXV1:0.3> ,Shooting lightning from his hands,blue lightning,Intricate line of purple lightning
+city lights,starry, starry light,
+professional lighting, photon mapping, physically-based rendering,

@@ -1,0 +1,1 @@
+A stunning intricate full color portrait of alyzeejacotey, epic character composition, by ilya kuvshinov, alessio albi, nina masic, sharp focus, natural lighting, subsurface scattering, f2, 35mm, film grain,(photorealistic:1. 4),(8k, RAW photo:1. 2), (best quality:1. 4),(ultra highres:1. 2),<lora:LowRA:0.3>, <lora:epiCRealismHelper:0.5>      <lora:alyzee_jacotey_v01-000025:1>

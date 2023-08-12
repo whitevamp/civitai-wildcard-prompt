@@ -1,0 +1,1 @@
+stef as the character quiet (metal gear) squatting in the desert, looking at camera, ((full body)),(photo-realistic:1.4),(realistic:1.4),(RAW photo:1.4),masterpiece,best quality, high detailed,  detailed skin,an extremely delicate and beautiful,illustration, delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,   <lora:Quiet:0.6> <lora:stef:0.8>

@@ -1,0 +1,1 @@
+medium shot portrait of skswoman, messy hair, science fiction, armor, cyberpunk, epic (photo, studio lighting, hard light, sony a7, 50 mm, matte skin, pores, colors, hyperdetailed, hyperrealistic), <lyco:Nicole Kidman:1.1> <lora:space_knights_2:0.5>

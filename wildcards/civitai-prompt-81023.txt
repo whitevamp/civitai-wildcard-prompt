@@ -1,0 +1,11 @@
+best quality, masterpiece, illustration, (realistic, photo-realistic:1.37), amazing, finely detail, incredibly absurdres, huge filesize, ultra-detailed, highres,
+extremely detailed CG unity 8k wallpaper, beautiful detailed girl, extremely detailed eyes and face,
+(best illumination, best shadow, extremely delicate and beautiful), finely detail, beautiful detailed, shiny eyes,
+accent lighting, (backlighting:1.3), professional lighting, light on face, cinematic lighting, bokeh,
+beautiful detailed eyes, ray tracing, 1 girl, 20yo girl, huge breasts, neat figure, belly fat:0.2, busty body,
+(extremely small micro bikini:1.4), swimming sports star, see shore, beach, sunset, Due to the intense physical activity sweat is visible on her body and her clothes are soaked through and transparet,
+((camera focus on face)), (cameltoe), heavy makeup:1.3, spread legs, pubic hair exposed and exposed pussy,
+(facial expression of smile and tired and sleepy:1.3),
+(pureerosface_v1:0.6)
+<lora:koreandolllikenessV20_v20:0.3>
+<lora:taiwandolllikenessV20_v20:0.1>

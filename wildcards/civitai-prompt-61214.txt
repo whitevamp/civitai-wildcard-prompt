@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+urinal, public use, nude, cum, bondage, body writing, spread legs, bukkake, (empty eyes), pussy, tears, cumdrip, collar, cum on breasts, cum on hair, facial, restrained, clitoris, object insertion, huge breasts, t-shirt, panties aside, blonde hair, messy hair, runny makeup,
+skin pores, detailed skin,
+(realistic:1.2), UHD, dramatic shadows, global illumination, high contrast,
+ <lora:krekkovStyleLora_v10:0.3> <lora:toiletGirl:1>

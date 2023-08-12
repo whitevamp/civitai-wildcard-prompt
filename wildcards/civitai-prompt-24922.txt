@@ -1,0 +1,4 @@
+anime, art, cowboy_shot , white_background simple_background , beautiful, masterpiece, best quality, extremely detailed face, seductive_smile  perfect lighting, 1girl, solo, closed_mouth ,   hoodie
+ Masterpiece, best quality, blue eye, 1girl, close up eyes, looking a viewer, intricate iris, 1 eye, (eyesgen:1.5)
+<lora:EyesGen:0.7>
+ahegao hoodie<lora:ahegaoHoodie:0.7>

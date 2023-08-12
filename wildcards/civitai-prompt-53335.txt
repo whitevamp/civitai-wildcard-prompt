@@ -1,0 +1,5 @@
+8k, RAW photo, portrait, best quality, ultra high res, photorealistic,Smile
+1girl, naked, full body, thigh, pink hair,long hair, nsfw
+earrings, necklace,  huge breast,
+lens flare,
+<lora:breastinClass:0.7> <lora:japaneseDollLikeness_v10:0.6> <lora:koreandolllikenessV20_v20:0.4>

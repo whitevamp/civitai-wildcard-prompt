@@ -1,0 +1,3 @@
+shrek, solo, upper body portrait
+
+<lora:Concept SovietMatchboxCover soviet_matchbox_art, stamp, halftone v10:1> soviet_matchbox_art, stamp, halftone  <lora:Character Shrek shrek V1:0.5>

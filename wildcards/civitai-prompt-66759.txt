@@ -1,0 +1,8 @@
+1girl, (8k, best quality, masterpiece, perfect lighting:1.3), (full body:1),  isometric, dynamic angle,
+a photo of (an  aggressive cute lady:1.3) (shrunken proportionally smaller to a one-tenth scale:1.4), (cramed tightly into a luxury small glass jewelry box:1.2)  for a gift, in box, (behind glass:1.1), displayed on a showcase, satin tablecloth, detailed accessories, (oversized object, so huge accessories, so huge gems:1.2),  arranged properly, in jewelry store, at night,
+spread legs, nose blush, detailed eyes, medium breasts, (narrow waist:1.1), black hair, long hair,
+detailed clothes, (luxury formal evening  dress:1.2), black long dress, thighhighs,  
+black hair,spread legs, 
+ulzzang-6500-v1.1,
+sfw,
+ <lora:GiftInBoxV1:1>

@@ -1,0 +1,5 @@
+masterpiece, high quality, highres, 1girl, solo, nsfw,
+<lora:Lenora-v2-02:0.6>, orange hair, long hair, hair ornament, red eyes, (pale skin:1.1), makeup, lipstick, lips, pointy ears, (blush:1), looking at viewer,
+fully nude, nude, sweaty, sweaty skin, sweat drops, shower glass door,
+<lora:breastsOnGlass_v10:1>, breasts, nipples, rain,
+breasts_on_glass, nipples, breast press, against glass, navel, open mouth, fangs, vampire,

@@ -1,0 +1,4 @@
+masterpiece, high quality, 1girl, child, solo, 3d face,
+<lora:fongletsHermioneGranger_v11:0.7>,Hermione Granger, from below, front view, standing, pov,
+school uniform, cowboy shot,realistic,lustrous skin, running, kicking,
+highly detailed beautiful face and eyes, beautiful skin,perfect anatomy <lora:add_detail:0.6>

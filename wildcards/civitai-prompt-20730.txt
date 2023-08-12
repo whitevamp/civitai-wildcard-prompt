@@ -1,0 +1,1 @@
+<lora:zwd_v2:0.7> zwd, in the woods, standing still at far, dark theme, red blood,  <lora:add_detail:1>

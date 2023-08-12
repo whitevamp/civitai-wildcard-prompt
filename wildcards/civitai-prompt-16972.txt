@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:sugar_rush_evelynn:0.8> sugar rush evelynn, 1girl, strapless dress, gloves, chocolate on body, strawberry hair ornament, multicolored hair, 
+ <lora:chubby girl:0.8> chubby girl, chubby, curvy, plump, big belly,

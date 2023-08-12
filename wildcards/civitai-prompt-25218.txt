@@ -1,0 +1,2 @@
+2girls, portrait, realistic, (topless:1.3),sidelighting,full body,wallpaper, nsfw,perfect hand,(perfect fingers:1.3), perfect breasts, simple background, blonde hair, twintails, red ribbons, black collar, black thighhighs, black thigh strap
+<lora:fashionGirl_v54:0.3> <lora:daili_v20:0.3> <lora:shojovibe_v11:0.3>

@@ -1,0 +1,1 @@
+<lora:shodan-10:0.7>, shodanSS_soul3142, 1girl,  glowing eyes, green theme, tube in head, cables, neon, science fiction, circuit board  background

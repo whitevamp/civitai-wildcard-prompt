@@ -1,0 +1,1 @@
+hongkong street, night, (film grain:1.2), (film overlay:1.3), <lora:Hongkongcolor:0.7>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality

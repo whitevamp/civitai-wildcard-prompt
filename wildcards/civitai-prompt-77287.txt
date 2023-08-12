@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:jjk_gojo-11:1>, gojo satoru, action pose,dust particle effect, sunflares, purple power, movie composition, bokeh, depth of field, blindfold, smiling, cowboy shot, solo, male focus, 1boy, gojo satoru, expresionless, looking at viewer, black jacket <lora:add_detail:0.5>  <lora:bleach_style_offset:0.8> rich on details

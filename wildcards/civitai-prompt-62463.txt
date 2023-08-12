@@ -1,0 +1,14 @@
+(dreamlikeart, redshift style, analog style:1.1), (copeseethemald style:0.5), (thepit bimbo, glossy), sexy, bimbo,
+
+1girl, solo,
+([Nina Dobrev|Emma Stone]:1.1), closeup, extreme closeup, looking at viewer, symmetric, centered,
+pantsuit, business suit, elegant suit, white crop top shirt,
+
+shinny skin, oily skin, subsurface skin scattering, shiny skin,
+choker, earrings, eyelashes, eyeshadow, lips, lipstick, jewelry, makeup, nose, parted lips, navel,
+beautiful detailed blue eyes, redhead,
+
+realistic, photo-realistic, well-lit face, glowing face, face focus, see-through,
+(night:1.2), dark, scary, dark city, alley, chased, danger, worried, afraid, stressed,  building, street lights, detailed background,
+
+[(dust particle paint explosion:1.2)::0.11], (secret:0.8),

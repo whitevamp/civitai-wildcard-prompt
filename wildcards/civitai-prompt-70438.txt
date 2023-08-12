@@ -1,0 +1,1 @@
+1girl,(Hatsune Miku) (twintails) <lora:ainoku_HatsuneMiku:0.4>, looking at viewer, (RAW photo, best quality, masterpiece:1.4), realistic, ultra highres, <lora:pantiesinskirt:0.4>,pantiesinskirt ,(white panties, pleated skirt, plaid skirt, miniskirt), skirt lift, standing

@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+3d render, unreal engine, auburn long hair, from behind,fit ass,full body, (freckles:0.8),
+black thong, white hoodie, 
+thigh socks,
+ <lora:3DMM_V12:1>

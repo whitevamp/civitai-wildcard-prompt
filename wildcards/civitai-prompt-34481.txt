@@ -1,0 +1,1 @@
+<lora:more_details:2>,  <lora:/workspace/sd/stable-diffusion-webui/models/Lora/modernart:1>,   <lora:lit:0.55>,

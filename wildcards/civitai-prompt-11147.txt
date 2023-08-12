@@ -1,0 +1,1 @@
+<lora:pensketch_lora_v2.3:0.6> penSketch_style, ink sketch, masterpiece, best quality, 1girl, solo, upper body,  <lora:GoodHands-vanilla:1>

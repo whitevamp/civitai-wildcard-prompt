@@ -1,0 +1,3 @@
+xiaoshazi,gaomu,
+masterpiece, best quality,(realistic, photo-realistic:1.37), daili,1girl, solo,closed mouth,((smile))
+<lora:xiaoshazi2_v1:0.7>   <lora:gaomuyouwei_v1:0.2>

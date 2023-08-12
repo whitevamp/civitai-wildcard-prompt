@@ -1,0 +1,1 @@
+<lora:zyd232_ChineseGirl_v4_2:0.4>, zydG, yeji,  <lora:YejiV1:0.4>

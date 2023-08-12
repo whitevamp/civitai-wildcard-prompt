@@ -1,0 +1,1 @@
+(best quality:1.2), woman with flag, smile, looking at camera, soviet union, poster,  <lora:soviet-poster:0.7>

@@ -1,0 +1,2 @@
+masterpiece, best quality, highly detailed, <lora:locker_room_v0.1:1>, 
+locker room, 1girl, school swimsuit, looking back, (undressing, swimsuit pull),

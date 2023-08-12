@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra detailed, intricate details, ultra realistic, depth of field, face focus, movie light,
+1girl, full body, standing, black hair, beautiful detailed face, beautiful detailed eyes, (medium breasts), sexy lingerie, luxurious, thighhighs,
+photography studio, figure in the center of the frame,
+<lora:Lady60:0.1>,

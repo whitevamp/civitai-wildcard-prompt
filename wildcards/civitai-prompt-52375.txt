@@ -1,0 +1,1 @@
+(purple eyes:1.4) (masterpiece:1.4) (best quality:1.4) (8k) (HDR) (wallpaper) (cinematic lighting) (realistic) (sharp focus)  style-sylvamagic <lora:oriArtstyleLora_v2Dreamlike:0.2> (feminine)

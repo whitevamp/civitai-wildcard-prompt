@@ -1,0 +1,2 @@
+cartoon, masterpiece, best quality, extreme detail,volumetric lighting, 8k, detailed face,young woman, orange hair, short ponytail, (slicked hair), (summer_pacen), sitting on table,profile, schoolgirl uniform, plaid skirt, white shirt, tie ,cleavage, medium breasts, earrings, classroom, chalkboard,  book on table, chalk,  hand on face, biting finger, smiling, parted lips, looking at viewer, solo
+<lora:SummerPacen_v1:0.9>

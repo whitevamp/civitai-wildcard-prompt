@@ -1,0 +1,8 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+sexy, horny, beautiful girl, slim, narrow waist,
+school background, teacher,
+school uniform,
+short hair,
+(freckles:0.9),
+ ass view, black panties,
+ <lora:breastinclassBetter_v141:0.35>

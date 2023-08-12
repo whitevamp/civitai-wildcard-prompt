@@ -1,0 +1,2 @@
+(masterpiece:1.0), (best quality:1.0), (ultra highres:1.0),(ultra detailed:1.0), (sharp focus1:0), (RAW photo:1.0), (Realistic:1.2), detailed beautiful skin, kind smile, (1girl:1.4), detailed beautiful face, petite figure, detailed skin texture, pale skin, detailed hair, detailed eyes, glistening skin, (white dress:1.4), studying, girl room,shiho
+<lora:shihoSDKowakev1:1>,

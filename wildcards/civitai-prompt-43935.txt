@@ -1,0 +1,1 @@
+(a city is hit by a deadly virus outbreak:1.1), 1girl, masterpiece, best quality, (photorealistic:1.4), full body shot, a photo of a beautiful woman, dusk, skinny, brunette hair, bun, detailed face, large breasts, <lora:add_detail:0.8>, red swimsuit, <lora:Slingshot_PL_D16:1>

@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination, 32k,
+Bloom, (orange hair, blue eyes, bangs, long hair), (fairy outfit), (blue croptop, sleeveless, blue skirt, sparkling clothing, fairy wings, tiara),  smile, happy, full-body-shot, 
+neon lighting, dark romantic lighting, gradients, dynamic pose,
+moon, night, forest, mountain, stream, 
+ <lora:WinxClubBloom:0.8>

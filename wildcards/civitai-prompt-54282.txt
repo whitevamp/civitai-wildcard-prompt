@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), 1girl, solo, outdoors, night, standing, from below, hand on own hip, open mouth, smile,
+misty \(pokemon\), side ponytail, team rocket uniform, midriff, black thighhighs, ,  <lora:MistyV2-000011:0.9>,  <lora:helltakerLora_10:0.5>

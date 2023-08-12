@@ -1,0 +1,2 @@
+Kannagi-Yuuri-se, white background, ((full body)), (white serafuku), 
+<lora:Kannagi-Yuuri v2.1-000016:0.5>

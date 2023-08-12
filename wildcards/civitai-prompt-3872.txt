@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), (extremely intricate detail), extremely delicate and beautiful,
+beautiful and aesthetic, (cute, pretty), full body, dynamic angle, ((a female model walking to runway)), (scenery of designer fashion show),
+(modern, Contemporary, runway of fashion_show, Victoria's Secret Fashion Show:1.2), Runway spectacle, Designer fashion labels, walking to runway, walking forward, cinematic lights, spotlight, stage, runway_floor, model_perfomence,
+light smile, (gigantic breast:1.2), mature_female, very long hair, (shiny skin, pale skin:1.2)
+<lora:add_detail:0.5>,

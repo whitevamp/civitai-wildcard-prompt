@@ -1,0 +1,23 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (realistic:1.2), (award-winning photography), 
+hyperrealistic photography, 8k uhd, HDR, 8k resolution, RAW photo, best quality, high quality, ultra detailed, finely detail, beautiful detailed, dslr, ultra highres,
+(looking at viewer:1.4), (facing camera:1.4), (full shot:1.2), (from below), (sharp focus:1.1), (modelshoot style),
+(photographed on a Canon EOS R5, 120mm lens, F/4 aperture, sharp focus),
+(office, indoor), (bokeh:1.2, vibrant color:1.2, dappled light on face, dramatic overhead lighting, best shadow, photon mapping, radiosity, physically-based rendering, depth of field, highly detailed background, intricate background, beautiful background, complex background, blurry background),
+
+professional erotic photo of (sexy pale office lady with beautiful black hair), 
+(twbabe7, twbabe6, twbabe5, twbabe4, twbabe3, twbabe2, twbabe1),
+(model:1.2), (posing for a picture), (perfect body:1.4), (curvy body:1.1), (skinny body:1.2), (tall body:1.1),
+(attractive:1.4), (seductive:1.3), (alluring:1.2), (supermodel:1.3), (superstar:1.2), (model posing:1.3), (kpop idol:1.1), (beautiful woman:1.3),
+(pale skin), (high detailed skin:1.2), real skin texture, (shiny skin:1.1), (skin pores:1.3),
+
+(detailed face:1.4), (detailed stunning innocent symmetry face), (finely detailed beautiful eyes and detailed face), (thin face:1.3), (the pointed face:1.3),
+shiny eyes, big beautiful eyes, (detailed eyes:1.2), beautiful eyes, eyelines, brown eyes, puffy eyes, detailed eyeshadow,
+beautiful earrings, lip gloss, (smile:1.3), (smug:1.2), 
+(straight hair:1.4), (long hair:1.3), (hair blowing in the wind:1.2),
+
+(slender waist:1.4), (slim waist:1.2), (abs:1.2),
+(beautiful legs, tall female, skinny, slim_legs, thigh_gap),
+vest, suit, pencil miniskirt, see-through shirt, stockings, (transparent black pantyhose:1.4),
+(clk:1.2, clerk suit1.3), black officeblazer, officeskirt, business attire, (short buttoneddownshirt:1.2), buttonedupcollarprim, buttoneddowncollarprim, bra, alphalayers, highheels, 
+
+ <lora:reiaAsianSexy_v10:1:ins>

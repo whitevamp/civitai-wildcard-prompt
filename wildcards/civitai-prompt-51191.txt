@@ -1,0 +1,1 @@
+a fantz creature|(tiger:0.4) portrait with a scfi costume, dynamic composition, cinematic lighting, warm and vibrant colors, art by Sam Weber and Michael C Hayes, 8k, trending on artstation, hyper detailed, cinematic, <lora:Creature_Design2_V1:1>

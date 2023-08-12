@@ -1,0 +1,1 @@
+((master piece)), best quality, (8k, best quality, masterpiece:1.2), ultra-detailed, an enormous ecopunk mansion built on an alpine mountain overlooking a verdant river valley, <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1.0>

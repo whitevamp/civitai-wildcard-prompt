@@ -1,0 +1,1 @@
+high detailed, masterpiece, best quality:1.2, hdr, absurdres, RAW photo:1.2,  photorealistic, 1girl, blue eyes, brown hair, medium hair, wavy hair, medium breast, nipples, beautiful woman, <lora:add_detail:1.4>,  <lora:breastinClass:0.4>,

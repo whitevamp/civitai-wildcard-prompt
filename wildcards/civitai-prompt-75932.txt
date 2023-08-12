@@ -1,0 +1,1 @@
+<lora:epi_noiseoffset2:0.4> (beautiful realistic blue eyes:1.2), (masterpiece:1.4)

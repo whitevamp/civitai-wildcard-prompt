@@ -1,0 +1,6 @@
+absurdres,
+1girl, solo, sexy Colombian [Kate Beckinsale:Alicia Vikander:0.5] as Lara Croft, looking at the viewer,
+muscles, midriff, wearing a (wet white (translucent:1.1) torn and tattered ripped skimpy tanktop) knee deep in a jungle river, braless, tactical gear, belt, garter holster, wet skin, wet hair, pony tail, wet clothes, short skimpy camo shorts,
+scrapes and bruises and dirt and blood stains,
+side light,
+<lora:braless_v11:0.45>

@@ -1,0 +1,1 @@
+<lora:FilmProvia2:0.4>, fashion photography of blue human avatar, 1girl, in blue lush jungle with flowers and birds, sci-fi, fantasy, 3d render, symetrical, octane render, hdr, (intricate details, hyperdetailed:1.2), (natural skin texture, hyperrealism, soft light, sharp:1.2)

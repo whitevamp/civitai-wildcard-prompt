@@ -1,0 +1,1 @@
+masterpiece, best quality, 1boy, grimmjow jaegerjaquez, day, medium closeup, black boots, natural light, desert, blue sky, white buildings,  angry eyes, smiling, looking at viewer, full body, male focus, strong muscles, movie composition, deth of field, bokeh  <lora:add_detail:0.5>    <lora:bleach_jaegerjaquez-10:0.8> <lora:bleach_style_offset:1>

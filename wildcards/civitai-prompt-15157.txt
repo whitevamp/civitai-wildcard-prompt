@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:kiryu_coco_v1:0.8> hmcoco, long hair, streaked hair, single braid, black hairband, horn bow, dragon tail, black jacket, white shirt, collared shirt, cleavage cutout, brooch, red skirt, single thighhigh, thigh strap, asymmetrical legwear,

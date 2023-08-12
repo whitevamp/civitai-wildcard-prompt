@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details,
+(1girl),     <lora:CeresFauna:0.8> Ceres Fauna, antlers, long hair, braided bangs, hair flower, 
+nude, from behind,  ass
+ <lora:merrytail:0.8> ass focus from behind  cleft of venus,

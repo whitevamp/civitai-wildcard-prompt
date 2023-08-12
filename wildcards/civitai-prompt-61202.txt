@@ -1,0 +1,2 @@
+pixelart, <lora:pixhell15Lora_v10:0.6>,  <lora:c64Graphics_v10:0.7>,
+(close-up of a Ninja walking on ninja Village street: 1.3), full body, Rain of Fire, war

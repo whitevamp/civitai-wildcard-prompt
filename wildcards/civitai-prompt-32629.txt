@@ -1,0 +1,3 @@
+<lora:Test1:0.7>
+oldman with a book
+art, nty, drawing,  miniature, minimalism

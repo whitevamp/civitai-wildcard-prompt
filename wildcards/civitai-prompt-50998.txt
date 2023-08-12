@@ -1,0 +1,1 @@
+masterpiece,best best quality,sunset light,handsome (1girl) ,ponytail,chinese style archer,(Begonia flower),((beautyfull intricacy clothing)), ((decorative pattern details)),short sleeves,boots,handsome,serious,  outdoors, wild,standing, long hair,looking at viewer,short hair, full body, mid shot  <lora:ChineseOperaCostumes_v10:0.5>

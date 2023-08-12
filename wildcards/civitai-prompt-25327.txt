@@ -1,0 +1,8 @@
+(realistic photograph:1.4)
+1girl (30yo) stunningly sexy beautiful mature Japanese, standing, long  hair, perfect skin, 
+<lora:JapaneseDollLikeness_v15:0.3> BREAK
+black choker, jacket, earrings, (smiling:1.1), dimples BREAK
+(nsfw), nipples, belly button, sexy pose, perfect nipples BREAK
+((cinematic lighting)), photograph, (deep shadows),
+8k, raytracing, highest quality, masterpiece
+ <lyco:GoodHands-beta2:1.3>

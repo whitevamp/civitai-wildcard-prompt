@@ -1,0 +1,1 @@
+masterpiece, high quality, 8k, beautiful lighting, 1girl, solo, akane, white shirt, sweater vest, black vest, blue necktie, <lora:akane:0.7>, (sky background), upper body, skirt, grey skirt, girl from behind,  <lora:akanev2:0.7>

@@ -1,0 +1,1 @@
+<lora:FRNK_Kiryu:0.7> Kiryu, black hair, brown eyes, serious, white suit with orange shirt underneath, in japanese city <lora:RocksEyebrowRaise:1> portrait, raised eyebrow, thick eyebrows,close up, (masterpiece:1.2) (photorealistic:1.2) (best quality) (detailed skin:1.3) (intricate details) (8k) (cinematic lighting) (sharp focus)

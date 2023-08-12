@@ -1,0 +1,7 @@
+woman,  black eyes, chemist, orange hair,
+HAUTE_COUTURE,
+DESIGNER DRESS,
+([Tiffani Thiessen|Bryce Dallas Howard|Katy Perry]:0.9),  smiling,  sexy, edgPantyhose, facing looking at viewer, facing viewer, 
+middle shot, 
+masterpiece, professional, high quality, beautiful, amazing, ArtStation, Thong, medium hair, 
+masterpiece, highres,  4k, detailed background, witty, (dilapidated:0.8),  <lora:Haute_Couturev3:0.5>

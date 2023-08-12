@@ -1,0 +1,1 @@
+1female, hanbok, korean clothes, upper body, simple background, white background, <lora:last1234:0.6>

@@ -1,0 +1,7 @@
+dressed, (photo realistic:1.4), (hyper realistic:1.4), (realistic:1.3),
+(smoother lighting:1.05), (increase cinematic lighting quality:0.9), 32K,
+1girl,20yo girl, realistic lighting, backlighting, light on face, ray trace, (brightening light:1.2), (Increase quality:1.4),
+(best quality real texture skin:1.4), finely detailed eyes, finely detailed face, finely quality eyes,
+(tired and sleepy and satisfied:0.0), face closeup, t-shirts,
+(Increase body line mood:1.1), (Increase skin texture beauty:1.1)
+<lora:honeyMixGirl_V1:0.6>

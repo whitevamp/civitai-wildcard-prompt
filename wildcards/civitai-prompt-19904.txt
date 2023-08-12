@@ -1,0 +1,2 @@
+sugimori ken \(style\), swole torchic, no_humans, big bird, full body, pokemon, solo,  (armless, asb, large pectorals:1.2), (high quality, masterpiece:1.1), solo, creature, long legs, nature, grass, sun, sky, cloud
+<lora:pokemon_v3_offset:1>  <lora:torchic-09:1>

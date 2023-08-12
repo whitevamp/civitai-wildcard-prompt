@@ -1,0 +1,11 @@
+eldritchtech, (v0id3nergy:1.2), (volumetric fog:1.2), raw photo, ultra realistic, masterpiece, best quality, highest quality, 8k, absurdres, highres, very detailed, octane render, (eerie fog:1.2), chiaroscuro, rim lighting, detailed background
+ ADDCOMM 
+<lora:epi_noiseoffset-v2:0.6> <lora:add_detail:0.4> <lora:style-kvoidenergy:1.2> <lyco:fantasy_magic_book:0.6> <lora:style-cosmiceldritchtech:0.4>
+ADDBASE 
+(v0id3nergy :1.5) candle with (purple candle flame:1.1)
+ADDCOL 
+(upper body of a wizard:1.4) with purple glowing (v0id3nergy eyes:1.3), (silky straight combed hair:1.9), high collar, (thick book cover:1.1), (looking down, sinister, angry expression:1.4), (purple eyes shooting magical v0id3nergy:1.4), (third eye:1.1), 
+ADDCOL 
+(v0id3nergy:1.5) candle with (purple candle flame:1.1)
+ADDROW 
+(ominous magical glowing eldritchtech artifacts:1.1) lie scattered on the (polished wooden:1.2) table

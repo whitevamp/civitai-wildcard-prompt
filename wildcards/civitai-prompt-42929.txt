@@ -1,0 +1,1 @@
+pool ladder,1girl,bikini,wet,wet clothes,   <lora:Saya-pool leader:1>

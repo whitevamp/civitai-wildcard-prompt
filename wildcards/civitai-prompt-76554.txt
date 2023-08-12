@@ -1,0 +1,1 @@
+<lora:onOff3:1> onoff, split screen, beautiful black woman in a dress, teacher explaining a math problem on chalkboard, (teacher is writing on chalkboard:1.3) <lora:thatsMyBush_v10:0.3>

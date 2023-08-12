@@ -1,0 +1,1 @@
+onoff1, onoff, side by side photo, split screen, 2 panel, <lora:onoffxl:1>, a car with a car cover on it

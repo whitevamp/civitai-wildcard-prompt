@@ -1,0 +1,13 @@
+( ariel mermaid:1.3) leaning foward,from above,  detailed light,((cinematic lighting)),very detailed eyes, best quality,beautiful face, ultra detailed, highres, (light rays),best quality,((shortstack:1.6)), very long hair, 
+1girl, (small breasts:1.1),  long Red hair, beautiful,   (average body weight:1.4), ( curvy:1.6), (wide hips:1.3),  , solo, arms up, ((shortstack:1.7)),(skindentation:1.5),
+, (blush:1.2), looking at viewer,  
+(skindentation:1.6),  
+action shot, slow motion, motion blur,choker, cross choker, accent lighting, (fliying hair:1.4),
+blushes, (bruises:1.2), straps,  shiny skin,  underwater, swimming, bubbles, ambient oclusion, full body,  leaning foward, swiming pose, caustics, hdr, fog, film grain, depth of field, shell bra, , bubbles on foreground, 
+(ArielWaifu:1)<lora:Ariel_character:0.4>,(detailed underwater coral background), choker,
+(dynamic angle:1.2), (dynamic pose:1.2), (very long mermaid tail:1.5), alluring mermaid, ethereal, ass up, face focus,
+(8k, RAW photo, best quality, masterpiece:1.2), photon mapping, radiosity, 35 mm focal length ,particles,, 
+ravishing,  ,beautiful lighting ,    high detailed, 8k, vivid contrasting colors, chromatic aberration, ,vibrant digital illustration, , behance hd, best quality, (realistic:1.2), (high contrast:1.2),
+shallow depth of field, bloom, (RSEEmma:1.2),
+Volumetric Lighting, accent lighting, extremely detailed CG 8k illustrations, masterpiece, hyper detailed, best quality, ultra high res, high resolution, (intricate details),RSEEmma,
+<lora:add_detail:0.6> <lora:uv:0.4> <lora:FilmG2:0.4> <lora:LowRA:0.3>     <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.6>,    <lora:jkUnderwaterShot:0.5>  <lora:reelunderwater:0.6> <lora:downblouse-v1:0.5>

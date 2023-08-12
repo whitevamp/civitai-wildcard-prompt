@@ -1,0 +1,1 @@
+photograph of gorgeous girl, beautiful detailed, masterpiece, photorealistic, bokeh, best quality, intricate details, 8k, HDR, cinematic lighting, sharp focus, taken with hasselblad camera, closeup portrait photo by annie leibovitz,  <lora:epi_noiseoffset2:0.4> <lora:add_detail:0.3> <lora:FilmG3:0.5>

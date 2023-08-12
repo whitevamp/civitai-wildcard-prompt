@@ -1,0 +1,1 @@
+((masterpiece, best quality)),(complex light), full body, solo, Dora, child,  <lora:TheGooder_Dora_Explorer1-1:0.6>, pink shirt, shorts, bracelet, backpack, eye trail, brown eyes, tan skin, smirk, glowing eyes, floating, dark lighting, destroyed debris background, red eyes <lora:5shotStyle_v10:1>

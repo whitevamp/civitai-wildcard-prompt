@@ -1,0 +1,4 @@
+best quality, intricate details,
+1girl,   
+  <lora:tyLeeAvatarTheLast_v10:0.8> tylee, 
+ <lora:jujunaughtStyleLora_v20:0.8> huge breasts, nipples,

@@ -1,0 +1,1 @@
+<lora:ectoV5:0.8>, (ecto a woman, cute, slim, glowing white heart, shy, transparent body, close up, perfect face, looking at viewer, upper body, long hair, elegant, extremely delicate and beautiful), dark theme, outside, graveyard, mansion, haunting, spooky, (masterpiece, absurdres, intricate, epic realistic, ultra-detailed, photorealistic), <lora:LowRA:0.6>

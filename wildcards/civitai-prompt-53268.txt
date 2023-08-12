@@ -1,0 +1,3 @@
+(best quality,masterpeace),(colorful), beautiful eyes,beautiful face,  model shot,  (head held up to the sky:1.1),
+(1girl),wear old hoodie,ash colored hair, disheveled short haircut , cute smile,  simple background, 
+,cinematic lighting,(dark theme:1.3),  <lora:Colorwater_v4:0.5> , <lora:graphicNovelStyle_v1Bright:0.7>

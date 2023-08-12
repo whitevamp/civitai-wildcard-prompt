@@ -1,0 +1,1 @@
+<lora:more_details:0.6>, age 20 year old girl with heels  in ((shibari)) heelsup with legs spread on sofa  <lora:shibari_body:0.75>  <lyco:heelsup_v10:0.3>

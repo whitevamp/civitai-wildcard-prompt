@@ -1,0 +1,3 @@
+LEGO minifig, <lora:lego_v2.0:0.8> 
+<lora:ARWAlucard:0.4> alucardcastlevania
+masterpiece, high detail, 8k, high detailed skin, 8k uhd, high quality

@@ -1,0 +1,1 @@
+xqc,  hoodie, 1boy, (squinting eyes), dark brown eyes,  <lora:xqclora_xqcV031:0.7>, blonde hair, shaved, action pose,  <lora:epiNoiseoffset_v2:1>, dark, masculine, designer clothes, in los angeles, long sleeve shirt, skinny, looking at viewer,

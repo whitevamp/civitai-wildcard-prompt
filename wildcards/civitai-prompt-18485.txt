@@ -1,0 +1,4 @@
+1girl,blowout,outfit-inori,superstar,(floating hair), (nsfw),pink hair,
+ <lora:difConsistency_detail:0.2> 
+ <lora:tangbohu_saturation_v1.0:0.65> <lora:superstar_v21:0.5> 
+<lyco:[LoRa] Yuzuriha inori COS - Guilty Crown Clothing (With multires noise version):1>

@@ -1,0 +1,6 @@
+beautiful face, <lyco:fashigirl-lora-v5-128dim-5ep:0.6>, (ulzzang-6500-v1.1:0.5), cowgirl position, (squatting cowgirl position:1.1),
+looking at viewer, hair ornament, (on bed:1.5), (hair between eyes:1.5), wide spread legs, (arms behind back:1.3), (spread pussy:1.2), 
+large breasts, huge breasts, (gigantic breasts:1.6), (thick thighs:1.7), nsfw, (completely nude:1.3), nipples, (puffy nipples:1.3), (huge nipples:1.3), areolae, (large areolae:1.5), (pussy:1.3), 
+pubic hair, pussy juice, armpits, belly, (spread pussy:1.4), ass visible through thighs,  <lora:hugeNipples_v10:0.4>, realistic, photorealistic, 
+uncensored, (cum in pussy:1.4), cumdrip, 1girl, (1boy:1.3), pov, (large penis:1.2), beautiful eyes, red hair, long braided hair, (panties pulled aside fuck:1.1)
+<lora:chinaDollLikeness_v10:0.7>, <lora:panties_pulled_aside_fuck.v1.0:0.5>

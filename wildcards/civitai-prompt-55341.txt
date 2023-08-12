@@ -1,0 +1,7 @@
+<lora:steamedDiffusion_v01:0.2>, 2 men, 
+
+Seymour Skinner offering a plate of steaming ham to balding Superintendent Chalmers at the dinner table, illuminated by the colorful glow of the localized Aurora Borealis through an open door to the kitchen behind them.
+
+((masterpiece, best quality, highres, high detail, sharp focus)), 
+RAW photo, ultra photorealistic,
+Cinematic, artistic shadow, dynamic lighting,

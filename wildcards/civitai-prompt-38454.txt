@@ -1,0 +1,1 @@
+(sailor school uniform:1.25),((pleated skirt)),((cover full leg black pantyhose:1.2)), [:(detailed face:1.2):0.2], raw photo, (masterpiece), (best quality), highres, (realistic, photo-realistic:1.2), ultra detailed, physically-based rendering, 1girl, air bangs, long hair, (dark pink hair), wavy hair, (side ponytail),sprite-prompt, <lora:japaneseDollLikeness_v10:0.3>, ulzzang-6500

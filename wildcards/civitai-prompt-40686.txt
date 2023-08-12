@@ -1,0 +1,3 @@
+best quality, masterpiece, high res, (photorealistic:1.4), raw photo, <lora:add_detail:1>, a manly man, muscular, beefy, thick tighs, detailed face, penis, short curly slick back hair, black hair, dark bushy eyebrows, stubble, (hairy body:1.3), (hairy legs:1.2), ((looking at viewer)), detailed skin, sharp focus intricate details, portrait, detailed background,
+<lora:colabNEWTAGHairy128DIM:0.7>
+<lora:adam_TGIRL_e16_n32:0.5>

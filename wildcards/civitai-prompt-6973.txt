@@ -1,0 +1,2 @@
+mix patterns,(1girl) ,kpstyle,simple background,
+6+others,multiple cats, too many cute cats, <lora:kp:0.8> <lora:Mix patterns:0.5>,illustration, masterpiece, best quality,

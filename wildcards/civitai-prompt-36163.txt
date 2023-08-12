@@ -1,0 +1,1 @@
+Masterpiece, WaffleStyle portrait, solo, upper body, detailed background, detailed face, (feudal japan theme:1.1), Copper winter warrior,  stoic expression, guardian, dynamic pose,  cape,   snow crystals, arctic winter, windy background, mountain in background  cinematic atmosphere,, <lora:WaffleStyle:0.9>, golden hour lighting, DOF

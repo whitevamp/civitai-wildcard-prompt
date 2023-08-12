@@ -1,0 +1,5 @@
+anatomical photorealistic digital painting portrait of a
+1girl portrait, (extremely detailed CG unity 8k wallpaper), beautiful women, sunset, wizard, cloak,staff,  camp fire, dynamic pose, (glowing magical light balls), light particles,  crystal necklace
+glowing eyes, (wind blowing hairs, full body), shooting star
+shot at 8k resolution, splash art,fantasy, intense look, super sharp,
+<lora:epiNoiseoffset_v2:1><lora:theovercomer8sContrastFix_sd15:0.3><lora:adventurers_v1:1>

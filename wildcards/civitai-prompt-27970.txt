@@ -1,0 +1,2 @@
+Will, short red hair, brown, solo, sitting, casual wear, hoodie, hands free, cafe, coffee on table, (insanely detailed, beautiful detailed face, masterpiece, best quality) cinematic lighting, 
+ <lora:WillVandom-10v2:0.7>

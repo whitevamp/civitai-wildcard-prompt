@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, FPSThumbnail, <lora:FPSThumbnail:1.15>, ground vehicle, motor vehicle, hahetobleh, from above, hands on own head, closed eyes, tongue, <lora:Pos_AhEtoMemePose:0.7>

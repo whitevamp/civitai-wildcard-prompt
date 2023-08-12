@@ -1,0 +1,4 @@
+best quality,powerloader,
+(solo,chibi:1.5),cute,exoskeleton,mechanical claws,
+indoors,factory,
+<lyco:powerloader_v10:0.8>

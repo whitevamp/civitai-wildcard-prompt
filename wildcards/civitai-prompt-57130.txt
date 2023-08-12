@@ -1,0 +1,1 @@
+masterpiece, best quality,2girls, outdoor,<lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.8>, <lora:povAcrossTable_v008Beta:0.8>,pov across table, table, pov hands,<lora:negligee_v10:0.8>negligee,dress, frills,underwear

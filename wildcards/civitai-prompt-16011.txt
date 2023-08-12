@@ -1,0 +1,3 @@
+(highly detailed:1.3), 
+<lora:RocksEyebrowRaise:1>, (RocksEyebrowRaise:1.3),portrait, raised eyebrow, thick eyebrows, 
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,

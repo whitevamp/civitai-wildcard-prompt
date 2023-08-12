@@ -1,0 +1,3 @@
+ghibli style,  aqua \(konosuba\), (very detailed background:1.5), outdoors, 1girl, blue eyes, blue hair, blue thighhighs, blush, boots, breasts, bubble, detached sleeves, hair ornament, hair rings, upper body, long hair, looking at viewer, medium breasts, single hair ring, skirt, smile, solo, thighhighs, very long hair, water, white thighhighs, kono subarashii sekai ni shukufuku wo!,
+, ((masterpiece))
+<lora:ghibli_style_offset:0.92><lora:aqua_konosuba-000035:0.5>

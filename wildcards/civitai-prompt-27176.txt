@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination, 
+6+girls, multiple girls, standing, looking at viewer, (school uniform:1.5), (serafuku:1.5), european girls,
+kokkai,red_carpet,
+<lora:kokkai_v2:0.7>

@@ -1,0 +1,1 @@
+Poetic lens,obscure light and shadow,nostalgia in blue,aestheticism,lace,emotional depth,supernatural,1girl,blue roses,solo,sophisticated poses,(flower field),enchanting elegance, timeless fashion,classic elegance,harmonious composition,<lora:FilmG3p:0.3:PALETTE> <lora:Asian girls faceV2:0.4:face>, <lora:dreamflower:0.4> <lora:FlowerGarden_v1:0.4>

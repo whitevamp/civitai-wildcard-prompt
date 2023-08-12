@@ -1,0 +1,2 @@
+(masterpiece), a stunning photograph of young gorgeous woman, half body crop, 8k, raw photo, looking at viewer, (highly detailed skin:1.2), (a pair of big boobs), wet long black hair, (naked),wet skin, (photorealistic:1.4), sharp eyes, cleavage, plunging neckline, tiny panties, g-string, in a sheer see through wet white shirt, in the middle of forest, raining, sun shining through leaves, high contrast, dark, spotlight
+<lora:koreanDollLikeness_v15:0.4>,<lora:taiwanDollLikeness_v10:0.1>,<lora:japaneseDollLikeness_v10:0.1> <lora:mix4:0.2>

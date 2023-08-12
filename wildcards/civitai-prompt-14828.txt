@@ -1,0 +1,3 @@
+masterpiece, 
+<lora:kamisato ayaka:0.3> kamisato ayaka, official alternate hairstyle, official alternate costume, blunt bangs, butterfly hair ornament, hair flower, blue dress, grey eyes, light blue hair, mole under eye,
+1girl, face,matanozoki,forward bending,standing, from behind,upside-down, <lyco:matanozoki_V0.3:0.7>

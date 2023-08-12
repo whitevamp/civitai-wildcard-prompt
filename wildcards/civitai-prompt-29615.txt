@@ -1,0 +1,1 @@
+BJ_Oil_painting, fantasy scene, female ranger, olive and brown robes, leather armor, hood drawn up, long blonde hair, hazel eyes, forest scene, <lora:Oil_painting:0.5>

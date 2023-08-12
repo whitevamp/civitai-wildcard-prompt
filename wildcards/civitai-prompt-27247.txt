@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl, solo, closed eyes, parted lips, open mouth, blush,
+<lora:edgOrgasm:0.7> edgOrgasm, face focus, woman with edgOrgasm_face,
+<lora:HeadpatPOV:1> headpat, pov, povheadpat, 
+<lora:frigga_lastorigin_v1:1> huge breasts, gigantic breasts, breast rest, blonde hair, medium hair, bear ears, friggadef, side braids, hood, fur trim, maid headdress, frills

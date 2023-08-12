@@ -1,0 +1,1 @@
+best quality, sunset:1.2, sunlight:1.2, stream:1.2 , realistic, ultra_detailed <lora:SHISHKIN(LANDSCAPE)_V1.2-000001:0.75>

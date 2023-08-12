@@ -1,0 +1,1 @@
+(belly on counter:1.3), mcdonalds, (chubby:1.1), thick thighs, black pants, McDonald's Cashier <lora:mcdonalds:0.7> <lora:kipteitei-v3-nai-000016:0.5>, 8k portrait of beautiful woman, intricate, elegant, highly detailed, majestic, digital photography, art by artgerm and ruan jia and greg rutkowski, (masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), hdr

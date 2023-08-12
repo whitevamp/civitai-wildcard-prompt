@@ -1,0 +1,2 @@
+<lora:HoneyTech-20:0.8>,honeytech, honey,  
+(king hamster:1.2),

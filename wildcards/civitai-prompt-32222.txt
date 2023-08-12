@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.65), realistic skin,realistic, (photorealistic:1.3), woman, soft light, perfect face, ray tracing,extremely detailed cg, High quality shadow, a realistic representation of the face, Detailed beautiful delicate face, Detailed beautiful delicate eyes, extremely detailed skin texture, tan, (freckles:0.8),
+korean, asian, big eyes, slender, slim, eyeliner, red lips, night, sitting on the floor, nude, full body, bokeh, 
+long hair,brown hair, straight ironed hair, bangs,
+(bright eyes),puffy eyes,glow eyes, medium breasts,
+<lora:koreanDollLikeness:0.2>
+<lora:breastinclassBetter_v141:0.3>

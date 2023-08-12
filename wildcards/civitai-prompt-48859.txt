@@ -1,0 +1,1 @@
+1girl,  upper body, hanbok, <lora:hanbok_w_v10-000001:0.7>

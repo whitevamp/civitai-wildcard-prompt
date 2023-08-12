@@ -1,0 +1,14 @@
+Aesthetic: ((chillwave, relaxation, dreamy, nostalgic, electronic, lo-fi):1.4)
+BREAK
+Composition: <lora:BigBooty-V2:1> ass, 1girl, petite, ((huge ass, fat ass)), wide hips, perfect thighs, perfect legs, skinny waist, perfect breasts, perfect face, looking at camera, seductive, perfect eyes, perfect nose, ((full face in view)), perfect ass, ((looking back at viewer, both eyes)), top of head in frame,, naked, nude, pussy, erotic, nipples , big ass
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.998),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

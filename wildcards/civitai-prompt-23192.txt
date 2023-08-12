@@ -1,0 +1,7 @@
+(AS-YoungV2), brown hair, 
+comic book cover, 
+action pose, witch, black robe, staff, 
+(8k,  masterpiece, best quality, ultra-detailed), 
+1girl, solo, cute face, kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face,
+looking at viewer, 
+<lora:TradingCards-V1:1> ,

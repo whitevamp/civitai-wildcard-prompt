@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, (wearing ballet dress, wearing white tutu:1.1),(wearing sexy blue astrosuit with helmet, space station:1.3), sunset,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts, outside,     <lyco:astronaut_ballet_dress-10:0.35>

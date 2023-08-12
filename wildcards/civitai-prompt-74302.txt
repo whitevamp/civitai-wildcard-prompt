@@ -1,0 +1,2 @@
+1girl, solo, slim, tall girl,  long hair, looking at viewer, smile, red basketball uniform, bare shoulders, collarbone, hand in own hair, black eyes,
+ <lora:Inoue:0.7>

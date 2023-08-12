@@ -1,0 +1,2 @@
+realistic,master piece,best quality,8k,highest detail,HDR,glowing eyes, upper body,outdoor,night,gardenmouth mask, black crop top, red pants, clothes around waist, elbow gloves, black boots,,smile,blush,closed mouth,arms behind back,
+<lora:suzune-nvwls-v3:1>,suzune, purple hair, red eyes,

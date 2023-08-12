@@ -1,0 +1,8 @@
+(masterpiece:1.2),best quality,high resolution,unity 8k wallpaper, (illustration:1), beautiful detailed eyes, extremely detailed face, perfect lighting, (black_theme:1.2)
+1girl, solo, grey hair, long hair, realistic,black_eyes, thighhighs, sweater, (straight_hair:1.1), (blunt_bangs:1.1), (no_panties:1.1)
+(makeup:1.4), (blush:1.4), (parted_lips:1.5), (arms_behind_back:1.1)
+(park:1.1), outdoors, sunlight, blue sky, cloud
+(lens flare:1.1)
+(spread_legs:1.3)
+<lora:GodPussy1 v4:1.0>
+(godpussy1:1.1)

@@ -1,0 +1,2 @@
+(masterpiece, best quality, high resolution), 1girl, washing machine, ass, pencil skirt, bent over, ((mature female)), beautiful body, Beautiful Nose, Beautiful character design, perfect eyes,perfect face, alluring, wallpaper,perfect lighting, Colorful,ultra highres, photography, 8K, HDR,
+<lora:add_detail:1> <lora:stuck_in_washing_machine_v0.1:1>

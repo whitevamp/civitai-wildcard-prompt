@@ -1,0 +1,1 @@
+best quality,  1 girl, loose and oversized black jacket, white sports bra, (yoga pants:1), (light brown hair:1.2), Looking at the viewer, smiling, full body, streets, urban, makeup,  <lora:koreanDollLikenesss_v10:0.3> <lora:taiwanDollLikeness_v1:0.4> <lora:japaneseDollLikeness_v10:0.3>, younger

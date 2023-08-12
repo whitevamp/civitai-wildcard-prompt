@@ -1,0 +1,1 @@
+masterpiece, best quality,1boy,armorsuit , looking at viewer,<lora:ArmorSuit_v1:0.7:MIDD> <lora:CircuitBoardAI:1> CircuitBoardAI,

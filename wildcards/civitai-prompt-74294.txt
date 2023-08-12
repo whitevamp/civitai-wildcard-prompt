@@ -1,0 +1,1 @@
+nsfw, (masterpiece, best quality, highly detailed, trending on artstation,intricate), detailed eyes, <lora:detailed_eye:0.3>, CatherineVG, looking at viewer, blush, smiling, sitting on bar-stool, bar, restaurant, alcohol, cleavage, tight dress, skin indentation, (upskirt, detailed pussy, legs spread),  <lora:catherineCatherine_v10:0.7>

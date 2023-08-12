@@ -1,0 +1,7 @@
+Style: { (masterpiece:1.2, best quality) } BREAK
+Composition: { multiple boys, (fat man, ugly man:0.1), old man, kneeling, surrounded by penises, gangbang, fellatio, multiple penises, saliva, cum, ejacuating, cum on face, (cum_on_breast:1.3), (cum_on_chest:1.3) } BREAK
+Appearance: { (milf:1.15), queen, (reieneris:1.1), fit, slender, slim, skinny,small_breasts, bright_eyes } BREAK
+Hair: { short_hair, curvy_hair } BREAK
+Clothing: { nude } BREAK
+Behavior: { horny, slutty, mouth open, tongue out, (looking_up:1.5) } BREAK
+Loras: { <lora:fat_man_v5.4a:0.5><lora:ejaculatingInMouth_ejaculatingInMouthV1:0.4><lora:fechin:0.9><lora:add_detail:0.5><lora:fantasyV1.1:0.1><lora:DW-000008:0.25><lora:lasto_v1:0.25> }

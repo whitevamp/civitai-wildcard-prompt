@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, nightgown, sweat <lora:tqSeeThroughNightgown-v1.0:0.8>, Ashelia, breasts, jewelry, platinum hair, blue eyes, short hair, armlet, <lora:AsheLORA:0.4>, all fours, embarrassed, blush

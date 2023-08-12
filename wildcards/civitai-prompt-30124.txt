@@ -1,0 +1,1 @@
+<lora:DBKiCharge:0.1> Ki Charge, aura, fighting stance, yellow aura, 1girl, solo  ,  <lora:SuperSaiyanHair:0.1> SuperSaiyan, blonde hair, super saiyan, spiked hair, aura, electricity, long hair,  <lora:clothing_explosion_lora01:1>, nude, torn clothes, <lora:hengao_teio_v1:1> hengao_teio,

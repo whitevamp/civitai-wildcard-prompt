@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:chikafujiwaratest:0.8> chika fujiwara, black bow, blue eyes, blunt bangs, hair bow, long hair, pink hair,,
+ <lora:clothing_explosion_lora01:0.8> torn clothes, cleavage, underboob, midriff,

@@ -1,0 +1,1 @@
+white (posture collar:1.4), masterpiece, very detailed  <lora:postureCollar_v1:1>

@@ -1,0 +1,2 @@
+oboro,(( masterpiece, ultra-high quality)),( ultra detailed original illustration),( 1girl, upper body),(( harajuku fashion)),(( flowers with human eyes, flower eyes)), double exposure, fussion of fluid abstract art, glitch,( 2d),( original illustration composition),( fusion of limited color, maximalism artstyle, geometric artstyle, butterflies, junk art)
+<lora:oboro-pynoiseloha-000008:1>

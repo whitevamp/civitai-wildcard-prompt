@@ -1,0 +1,7 @@
+(one male:1.9) (1boy:1.9) (front view:1.6) (figure fills frame:1.9)
+Very detailed flawless face, detailed open eyes, heroic, bodybuilder, (big muscles), narrow waist. Realistic face, realistic eyes, (smile).
+Standing, (facing the viewer).
+Wearing a (loin cloth).
+(white background, scenery, ink, mountains, water, trees), birds, butterflies, flowers. ((soft colors)), ink on paper
+<lora:BulkedUpAIR1.5:0.3>
+<lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

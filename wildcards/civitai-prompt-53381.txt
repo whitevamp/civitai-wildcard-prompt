@@ -1,0 +1,6 @@
+masterpiece, best quality, detailed,
+3d face, cute face, beautiful detailed face, beautiful detailed eyes, shiny skin, lustrous skin,
+1 girl, solo, lying, full body, indoors,
+white hair, red eyes, crying,
+small breasts, navel, pussy, completely nude,
+transformation, <lora:sexToyTransformation_v10:1.0:ALL>,

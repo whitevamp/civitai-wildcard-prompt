@@ -1,0 +1,1 @@
+a (sandsculpturecd, sand) fort,Leaning Tower of Pisa,building model,(solo:1.2),standing in sandbeach,<lora:sandsculpturecd-000003:0.7>,no humans,high quality,masterpiece,realistic,photorealistic,long-focus,(outdoors, front light, depth of field, light color),

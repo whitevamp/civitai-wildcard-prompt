@@ -1,0 +1,10 @@
+best quality, masterpiece,
+(Highres), (Detailed Illustration), Ultra-Detailed, Ambient Light, Backlighting, Realistic Shadows, Glowing Particles, Light Particles, Digital Art, Soft Light, Soft Lighting, White Light, White Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), Dim Lighting, Indirect Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), (Desaturated:1.4),
+1girl, solo, very short hair, navy blue hair, yellow eyes, large breasts, tomboy, bangs, full body,
+<lora:Tomboy-3000-12repeats:0.7>, <lora:tareme_eyes:1.1>,
+shameful, blush, parted lips,
+wearing white dress,
+front light, bright,
+<lora:1990:0.4>,
+undress, topless, 
+ <lora:towel_topless_lora01:0.8>

@@ -1,0 +1,1 @@
+wide shot,1girl,<lora:koreanDollLikeness_v10:0.2>, <lora:taiwanDollLikeness_v10:0.2>,<lora:skirtliftTheAstonishing_skirtliftv1:1>,skirt lift,((black face mask)),((shaved pussy)),extremely detailed eyes,beautiful detailed eyes,(big prefect eyes),((puffy eyes)),long eyelashes,lower lash line,(aegyo sal),(red korean eye makeup),beige sweater,((crowd Shibuya outdoors center))

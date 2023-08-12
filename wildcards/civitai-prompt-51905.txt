@@ -1,0 +1,1 @@
+1boy,long hair,upper body,water, <lora:Style_GlassyandGlaze (FATA)_v1.0:1:1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1>

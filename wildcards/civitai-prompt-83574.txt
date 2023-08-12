@@ -1,0 +1,2 @@
+masterpiece, best quality,photorealistic,best shadow, delicate, RAW,ultra high res,Hyper-realistic art, gallery-grade work, ultra precision, visually striking, sublime masterpiece, peak clarity,
+(1 girl,cute, black hair,very long hair),,(loong midair, flying,Looking at the camera,misty,fog, ), Dark clouds cover the sky,misty , cloudy sky (Sexy Chinese Taoist woman (long hair ) ) ,jamila pose,  , <lora:add_detail:0.6> <lora:PerfectNwsjMajic_4:0.7>,expressive hair, floating hair, PerfectNwsjMajic,, (light smile:1.1), pink robe, bellflower, sexy torn robe,

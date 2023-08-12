@@ -1,0 +1,7 @@
+best quality, masterpiece, 8k, ultra high res, (photorealistic:1.4), highly detailed, intricate detail, delicate and beautiful, good lighting, professional lighting, sharp focus, detailed shadows, exquisite details and textures, depth of field, unity 8k wallpaper, cinematic composition, cinematic lighting, official art,
+messy hair, slim waist, wearing (tight offshoulder knit top, bottomless, panty, black pantyhose) with (sexy_attire:1.2) at 5-star hotel
+beautiful elegant face, detailed face, detailed eyes, realistic hair, long hair, (medium breasts:1.2), perfect nipples,
+Filmg, (1girl), (standing:1.3),
+<lora:sexy_attire:0.6>
+<lora:FilmG2:0.6>
+<lora:pantyhose_v20:0.5>

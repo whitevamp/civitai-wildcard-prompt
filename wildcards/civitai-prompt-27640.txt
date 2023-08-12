@@ -1,0 +1,1 @@
+Russian, <lora:RussianDoll2:0.4>, (best quality, ultra high res, raw photo, masterpiece, extremely detailed photograph), (photorealistic:1.4), 1girl, (nudes), light smile, solo focus, upper body, looking at viewer, close up, pool, half-submerged in water,  <lora:eyeLora_eyesV10:0.4>, auburn hair, blue eyes, from above, (wavy hair)

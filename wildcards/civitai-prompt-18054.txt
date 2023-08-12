@@ -1,0 +1,4 @@
+realistic, masterpiece, best quality, official art, beautiful and aesthetic,
+takamaki anne(persona 5),blue eyes,twintails,blonde hair,long hair, red bodysuit,
+Luminous Illumination, Ethereal Glow, Glowing Highlights,
+<lora:takamaki_anne:0.7>

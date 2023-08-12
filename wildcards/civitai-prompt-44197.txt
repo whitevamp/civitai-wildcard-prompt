@@ -1,0 +1,2 @@
+(a beautiful woman), from (The Valley of the Damned) ,  riding (Giant Ratfolk),ultra realistic, nude:1.0, style of tim walker , shot with Kodak Smile 10MP Digital Camera , shiny glossy skin,beautiful landscape,
+,dark red  ponytail hair,<lora:PinkNipples:0.4>, <lora:epi_noiseoffset2:0.8>,,Volumetric Lighting, Beams, Magic, Rembrandt Light

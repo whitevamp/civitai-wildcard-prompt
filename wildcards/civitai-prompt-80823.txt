@@ -1,0 +1,5 @@
+(8k, best quality, masterpiece, ultra highres:1.2) ,professional photography, HDR, 8K resolution, intricate detail, sophisticated detail, official art, extremely detailed CG unity 8k wallpaper, ultra high res,physically-based rendering,(colour:1.2),
+beautiful lighting, subsurface scattering, volumetric lighting, light from the front,
+1girl, 18yo, solo, sexy, perfect body, curvy body, (medium breasts), long hair,
+(wearing school uniform and thighhigh:1.2), pantyhose, (crotch focus, pov crotch:1.1)
+<lora:lovelyMixGirl_V1:0.6>

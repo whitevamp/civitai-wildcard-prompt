@@ -1,0 +1,2 @@
+masterpiece, best quality, toon,3d,indoors,night,
+  <lora:toon_mix:0.6>

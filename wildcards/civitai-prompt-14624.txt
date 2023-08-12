@@ -1,0 +1,3 @@
+(Best quality, masterpiece, ultra high res:1.2),photorealistic,raw photo,unity 8k wallpaper,cowboy shot,
+traffic light,((1girl)),cutoff jeans,denim vest,navel,hand in pockets,short hair,
+<lora:InstantPhotoX3:0.6>,

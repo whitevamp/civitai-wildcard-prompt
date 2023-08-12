@@ -1,0 +1,12 @@
+Angewomon, Digimon, <lora:Angewomon-11v1:1.2>,
+<lora:epiNoiseoffset_v2:1.25>, <lora:add_detail:0.8>, <lora:FilmG2:0.7:0.1,0.1,0.1,0.1,0.1,0.1,0.1,1,1,1,1,1,1,1,1,1,1>
+(highly detailed face:1.2), (photorealistic skin:2), lifelike texture, 
+by lee jeffries, nikon d850, film stock photograph, 4 kodak portra 400, camera f1.6 lens, rich colors, cinestill 800, dramatic lighting, beautiful lighting,
+Nikon D850, (photo made with canon eos r5:1.2), dslr, (hdr:1.2), (35mm film stock:0.3), Fujifilm XT3, (fisheye:0.55),
+(8k uhd, RAW photo, best quality, masterpiece:1.2), (hyper realistic, photorealistic:1.37), lifelike texture, solo, 1girl,
+(huge breasts:1.15), (winged helmet:1.3), (helmet over eyes:1.3, helmet on), 
+(white multiple wings, white wings:1.3, pink hagoromo, single glove), (strapless),
+(white bodysuit, gold strapless bra, black belt), (two belts), 
+(full body:1.3),
+(parted lips:1.2), (25 years old:1.5)
+(sky), flying, floating, angel,

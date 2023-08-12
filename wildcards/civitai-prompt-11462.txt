@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best quality:1.4), (high resolution:1.4), 1girl, tinker bell, short ponytail, fairy wings, green fairy outfit, crossed arms, crossed legs, angry, puffy cheeks, full-face blush, looking at viewer, <lora:TinkerBell_v1:1> <lora:tools_more_details:0.5>

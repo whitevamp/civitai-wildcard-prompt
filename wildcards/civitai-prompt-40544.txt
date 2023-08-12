@@ -1,0 +1,8 @@
+(fractal art:1.5),official art,unity 8k wallpaper,ultra detailed,beautiful and aesthetic,beautiful,masterpiece,best quality,Expressive Hues,Vibrant Palette,Dynamic Brushwork,pastel color palette,enticing art,
+(1girl:1.2),full body,china_dress,high_heels,((pantyhose)),hll,breasts,long hair,blue eyes,lips,
+(boudoir),watercolor painting,delicate fabrics,sensual forms,the harmony of softness and seduction,Victorian elegance,essence of the intimate,
+(looking away),
+(garter belt),
+(bent over:1.3),
+light brown hair,qipao01,
+masterpiece,best quality,<lora:nwsj_xl_v1:0.8>,

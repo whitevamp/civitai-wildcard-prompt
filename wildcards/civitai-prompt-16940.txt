@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:ahrib:0.8> Ahri , fox ears, fox tail, multiple tails, korean dress, detached sleeves, whisker markings,

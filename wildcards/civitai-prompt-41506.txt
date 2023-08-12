@@ -1,0 +1,5 @@
+2 b1mb0 women, standing, fashion jumpsuit, belt, inside, shopping center, bimbo, blonde hair,
+th3p1t,
+(best quality, detailed, qhd),
+(best quality, detailed, qhd),
+<lora:th3p1t_v2:1><lora:b1mb0_v2:0.6>

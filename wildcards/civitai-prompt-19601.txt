@@ -1,0 +1,1 @@
+(bright face:1.3), (bright body:1.3), color close-up photography of (Turkish:1.3), (DEN_barbuccisketch:0.5), (solo:1.3), (sexy attire:1.2), (large breast size:1.1), cleavage, (looking at viewer:1.3), (eye contact:1.3), in golden hour, flat lighting, (soft saturation:1.2), analog style, <lora:add_sharpness:0.7> <lora:photoblend:0.4> <lora:epiNoiseoffset_v2Pynoise:0.6>,

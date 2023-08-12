@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+<lora:oldegyptai_v10:0.9>, OldEgyptAI, siberian,  fantasy creatures,

@@ -1,0 +1,1 @@
+<lora:add_detail:0.5> (retrowavetech, labyrinth:1.2), vaporwave, scifi, wirefrme, virtual city, (masterpiece, best quality, high quality, highres), <lora:RetrowaveTech:0.8> <lora:kLabyrinth:0.6>

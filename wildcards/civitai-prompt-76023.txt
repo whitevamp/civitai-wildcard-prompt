@@ -1,0 +1,2 @@
+Photo of a man in a city street, running under the rain, (neon light:1.2), (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, blurry, hdr, raw, slate gray atmosphere, (pointing a gun:1.3), (mist:1.4), crowd, long coat, sunglasses, white hair
+<lora:Blade Runner 1982:0.9>

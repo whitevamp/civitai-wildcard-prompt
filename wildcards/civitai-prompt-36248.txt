@@ -1,0 +1,6 @@
+(best quality, masterpiece:1.2), ultra detailed, 1girl,   <lora:mikajougasakitest:1>, jougasaki mika, pink hair, ponytail, large breasts, 
+open mouth, tongue nude, nipples
+upper body, from above, face focus,
+ <lora:ishikei_v0.1:0.9> 
+<lora:Slime:1>, (white slime:1.3),  
+<lora:bukkake_v0.4:1>, bukkake, facial cum,

@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination,
+(luxury hotel:1.5),
+1girl, small breasts, blue hair, long hair, blue eyes,
+sexy office lady, office uniform, office vest, micro skirt, (navy uniform:1.5),  (barefoot:1.4),
+ <lora:office uniform:0.7>

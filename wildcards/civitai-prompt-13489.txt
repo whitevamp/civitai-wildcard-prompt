@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:Cassiopeia:0.8> cassiopeia \(league of legends\), 1girl, lamia, cleavage, helmet,  black sclera,   
+<lora:pussypeekConv2D2.5e-5_BF16:1.3> (pussy peek, pussy:1.3), nsfw,

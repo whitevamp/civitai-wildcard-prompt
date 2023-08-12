@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.1), detailed, highres, highly detailed background, extremely detailed, beautiful detailed eyes, ultra-detailed,
+qiyana, hair ornament, short white hair, orange eyes, 
+(indoors, on bed:1.4),
+bikini, black bikini, blush, breasts, barefoot, feet, legs up, (small breasts:1.2), 
+<lora:qiyanaLeagueOfLegends_v10:0.5>  <lora:Nipple-15:0.3> <lora:ahegao_v1:0.5>  <lora:ltup1-000022:1>

@@ -1,0 +1,4 @@
+masterpiece, best quality, absurdres, (complimentary colors:1.2), vivid color, saturated, dancing, wind blowing, intricate, highest detailed
+1girl, solo, microskirt, <lora:microskirt_v0.2:0.6>, beltbra,  <lora:beltbra_v0.1:0.8> , taut clothes, big breasts, skindentation
+BREAK
+simple background, (paint splash:1.2), colorful

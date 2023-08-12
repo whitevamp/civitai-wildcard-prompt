@@ -1,0 +1,1 @@
+photorealistic, 1girl, dragon, Ambilight, masterpiece, ultra-high quality,(hanfu fashion), flower blossom background <lora:DragonRealV1:0.5>  

@@ -1,0 +1,1 @@
+portrait, Greek man, (gray eyes), mature, sixty years old, short cropped hair, dark features, black three piece suit, red cravat, (handsome), (perfect face), symmetrical, edgy, <lora:GothicPunkAI>, gothicpunkai, San Francisco, at night, <lora:VampiricTech-20:0.1>, vamptech, <lora:add_detail:0.3>

@@ -1,0 +1,5 @@
+1girl (30yo) stunningly sexy beautiful mature Japanese girl, standing, facing camera, long dynamic black hair with ((red hair)) highlights, realistic skin, subsurface scattering, 
+black choker, earrings, (smiling:1.4), dimples, sitting on bed, inside, ((nsfw)),
+((cinematic lighting)), professional photograph, dramatic lighting, (deep shadows), backlight, rimlight, ((night, dark, dim)),
+<lora:JapaneseDollLikeness_v15:0.2>
+8k, raytracing, highest quality, masterpiece

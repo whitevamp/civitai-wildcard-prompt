@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful,
+NonoharaMikako, 1girl, mature female, milf, bent over, hands on hips, mansion, undressing, (panty pull:1.2), full body, from behind,
+blush, tired, purple hair, long hair, lipstick, makeup, blue eyes, perfect eyes, detailed eyes, detailed hair, hair ribbon,
+maid, blue skirt, blue skirt, maid headdress, black thighhighs, maid apron, long sleeves, puffy sleeves, high heels, skirt lift,
+curvy, huge breasts, thighs, ass, (pussy:1.2), pussy, pussy juice, (slap mark:1.1),
+<lora:NonoharaMikako:0.85>  <lora:slap mark2:0.9> <lora:undressing_panties_v0.1:1>

@@ -1,0 +1,3 @@
+<lora:blacked_v1.5:1.0> realistic, 
+realistic, 1girl, 3boys, black man, muscular male, boxers, size difference, height difference, lingerie, torso grab, looking at viewer, :o,
+<lora:koreanDollLikeness_v15:0.4> pureerosface_v1, masterpiece, best quality, highly detailed

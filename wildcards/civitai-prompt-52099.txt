@@ -1,0 +1,1 @@
+idolfish,1girl,<lora:jellyfish_lora_v2:1>,  beautiful, realistic <lora:xiaorouseeu_v10:1>

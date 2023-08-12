@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, momo_mha, momo yaoyorozu, ponytail, topless, braless, perfect anatomy, beautiful smile,
+beach, water, ball,
+<lora:momo:0.3>, <lora:shirtliftALORAFor_shirtliftv1:1>,

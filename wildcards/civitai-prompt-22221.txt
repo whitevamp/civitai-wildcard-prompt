@@ -1,0 +1,6 @@
+(best quality), (masterpiece),(ultra-detailed:1.2),upper body,
+1girl,(beer:1.2),,table,(drunk:1.4),(shirt:1.2),wild hair,sitting,
+<lora:InequalitySignSmileyExpression:1.1>, (> <:1.2), 
+ <lyco:Saya-wiping mouth:0.9>,(wiping mouth:1.1),
+bar,
+ <lora:flat2:-0.5>

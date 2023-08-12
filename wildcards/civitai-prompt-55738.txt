@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+
+
+ <lora:photoComparisonBETA_v10:0.8> Photo_Comparison,  <lora:shutenDoujiFateGrand_v09:0.8> shuten douji,  phone,cellphone, smartphone, holding, Picture 
+
+shuten douji,  nude, naked, horns,

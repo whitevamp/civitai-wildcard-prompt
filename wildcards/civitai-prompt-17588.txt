@@ -1,0 +1,2 @@
+masterpiece, best quality, extreme detail, 8k, detailed background, perfect face,freckles,(chubby girl,chubby), young woman, sitting on park bench , pov, (from below,) hoop earrings, large breasts, saggy beasts, blonde hair, very long hair, (bangs), sitting on chair, loose summer dress,park, bench, vegetation, trees, flowers, happy, smiling, open mouth, hands on belly
+ <lora:chubby girl:0.6>

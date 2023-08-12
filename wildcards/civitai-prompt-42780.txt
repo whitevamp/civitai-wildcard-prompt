@@ -1,0 +1,4 @@
+(YakuzaTattoo in body, chest, both arms tattoo:1.25) ,(girl sitting in a japanese dojo:1.2), (topless, shorts, navel:1.2),(short hair, black hair, brown eyes:1.2), looking at viewer,(skinny, medium breasts, thick thighs), from behind, sexy  ADDCOL paper door, furniture ADDROW (bamboo:1.2),
+(detailed ladscape:1.2), (dynamic_angle:1.2), (dynamic_pose:1.2), warm light,
+(realistic:1.4), ((realism)), (masterpiece:1.2), (best quality), (ultra detailed:1.2), (8k, 4k, intricate), (canon R5, 50mm focal length, f/5.6), (cowboy shot:1), (85mm),light particles, lighting, (highly detailed:1.2),(detailed face:1.2), (gradients), colorful,(detailed eyes:1.2), (ultra photorealistic:1.2), (detailed skin:1.2),
+<lora:XenoDetailer:0.3><lora:epiNoiseoffset_v2:0.5>

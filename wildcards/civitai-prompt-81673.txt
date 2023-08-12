@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3),extremely high detailed, intricate, 8k, HDR, wallpaper, cinematic lighting, <lora:Mecha:1> ,(universe),(holding sword:1.3), glowing, armor, glowing eyes, mecha, large wings,    <lora:Futuristicbot4:0.6>

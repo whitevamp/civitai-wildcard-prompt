@@ -1,0 +1,2 @@
+githyanki, female, solo, short hair, brown hair, pointy ears, armor, shoulder armor, portrait, pauldrons, green skin
+, ((masterpiece, best quality)), art by greg rutkowski, artwork trending on artstation  <lora:githyanki_offset:1>

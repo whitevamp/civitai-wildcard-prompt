@@ -1,0 +1,12 @@
+((small nipples:1)), wet,see-through:1.5,sheer,Erotic lingerie, translucent underwear,transparent underwear,  1girl, ((pantyhose: 1.5)), beautiful_face, navel,
+drunk, cold attitude,jitome, lace, feet, sleepy,
+blur_background,
+looking at viewer, facing front,
+ultra high res, (photorealistic:1.4), masterpiece,best quality,official art, (8k, RAW photo:1.2),(portrait:1.4),(long hair:1.31),  cinematic lighting ,(solo:1.1),(natural breasts:1.4), (eyelashes:1.1), (depth of field:1.1), lens flare, (chromatic aberration:1.1), (caustics:1.1),pervert,curvy body,delicated,
+<lora:chikmix_V1:0.3>,
+<lora:fashionGirl_v35:0.2>, 
+<lora:koreanDollLikeness_v10:0.1>, 
+<lora:taiwanDollLikeness_v10:0.1>, 
+<lora:nudify_v12:0.05> , 
+<lora:hugeAssAndBoobs_v1:0.01>, 
+(((((pureerosface_v1:0.5)))))

@@ -1,0 +1,2 @@
+Best quality,masterpiece, indoor,1 girl, sitting on floor, leaning forward, view from behind, short straight hair, black jeans, topless, hideout, debris, mist, god rays, concrete, neon tubes, cold light, graffiti, hard shadows, tattoo on her spine, tattoo on her back, barefoot, shiny body
+ <lora:ass_up_wait_feet.v2:0.8>

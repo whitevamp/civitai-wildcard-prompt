@@ -1,0 +1,4 @@
+(from below:1.4),photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(high detailed face:1.5),(high detailed Eye:1.5),standing,facing viewer,full body,
+1girl,Random hairstyle,slim legs,delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,huge_breasts,natural breasts,
+<lora:A1_LoveOnLovely_lolStyleV10:0.3>,<lora:A1_DollLikeness_Korean_v20:0.4>,<lora:A1_DollLikeness_Japanese_v15:0.2>,<lora:A1_jpIDOL_v10:0.2>,
+<lora:C2_croppedShirtUnderboobAnime_v10:0.5>,(underboob,shirt),(booty shorts),

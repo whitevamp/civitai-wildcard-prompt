@@ -1,0 +1,1 @@
+(fractal art:1.3), psychedelic art, abstract art, style of Yuko Shimizu, style of Claude Monet, (dark theme:1.2), dark blue theme, deep blue aesthetic, (glowing blue:0.8), (sad, somber, depressing:0.6), stars, (fireflies:1.1), 1girl, hair ornament, flowers,  <lora:add_detail:1>

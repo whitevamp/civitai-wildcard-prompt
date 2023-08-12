@@ -1,0 +1,1 @@
+<lora:satouMatsuzakaHappy_v2dress:1> Satou, happy, blushing, distant view, portrait,  <lora:zovyasWetHair_v1:.5>, raining, outside, wet clothes, emotionless, expressionless, dreary atmosphere, sad atmosphere

@@ -1,0 +1,3 @@
+((Masterpiece, best quality)),edgQuality,smirk,smug, blonde Nadia with sunglasses and a choker
+edgCT, a woman in a blouse, and a skirt,wearing edgCT,chic top 
+ <lora:edgChicTops1:0.9> <lora:Ultimate_Nadia:0.6>

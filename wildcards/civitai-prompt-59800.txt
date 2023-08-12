@@ -1,0 +1,7 @@
+(grainy:0.6), (extremely detailed:1.1), intricate detail, absurdres, (sharp:0.9), afternoon, (sun shining on face:1.2), 
+BREAK
+girl, detailed eyes,one eye closed, detailed face,happy, ponytail, hair accessory, chain necklace, cap, soda in hand,
+BREAK
+detailed expensive hoodie, capri pants,
+BREAK
+ (bus stop background:1.2), trees, bushes, autumn,

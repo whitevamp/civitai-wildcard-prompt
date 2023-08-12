@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, eula_genshin, 1girl, bangs, short blue hair, hairband, slingshot swimsuit, high heels, squatting, full body, outdoors, cityscape, buildings streets, from back,  <lora:eula_slingshot:0.7>

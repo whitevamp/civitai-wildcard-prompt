@@ -1,0 +1,2 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer, smile,
+clothes tug<lyco:skirt_tug_v0.1:1.0>skirt tug,wind lift

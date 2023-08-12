@@ -1,0 +1,1 @@
+<lora:reelmech:0.4> , <lora:add_detail:0.4>,  (Style-Glorious:0.7) , <lora:InfernalAIv8:1>

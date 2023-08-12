@@ -1,0 +1,1 @@
+(((best quality))),single build,architecture, blue_sky, building,cloudy_sky, day, fantasy, fence, field,  house, build,architecture,landscape, moss, outdoors, overgrown, path, river, road, rock, scenery, sky, sword, tower, tree, waterfall ,  <lora:Pyramid lora_Ghibli_v2:1>

@@ -1,0 +1,14 @@
+{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{an extremely delicate and beautiful}}, (extremely detailed CG unity 8k wallpaper:1.1), 
+nsfw, beautiful, deep penetration, extremely detailed face, beautiful detailed eyes, 
+detailed vagina, (realitic nipples, realistic nipples), (detailed fingers, realistic fingers),
+(Detailed eye description), (Detailed face description), perfect skin, beautiful detailed belly,
+
+
+
+<lora:yumiSENRANKAGURA_yumi:0.8> yumi \(senran kagura\)_kimono, blue eyes, short hair,smile, open mouth, 
+ (puffy nipples:1.2), ((hair bow)), ((kimono)),[blue:gray:0.2] hair,((white hair)), ((((narrow waist)))), ((abs)),
+
+<lora:perkyBreasts_v10:0.8>,
+
+
+<lora:povSquattingCowgirlLora_pscowgirl:0.4>, 1boy, squatting cowgirl position, cowgirl position, sex, cum in pussy, ((straddling)), vaginal, pov, vaginal penis,(vaginal sex:1.6),

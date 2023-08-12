@@ -1,0 +1,3 @@
+ankymoore,   
+1girl, long hair, black hair, jewelry, closed eyes, flower, hairband, earrings, outdoors, sky, day, cloud, bracelet, blue sky, animal, ring, dog, hoop earrings, yellow flower,
+<lora:ankymoore-04:0.95>

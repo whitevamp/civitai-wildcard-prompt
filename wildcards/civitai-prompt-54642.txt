@@ -1,0 +1,3 @@
+((masterpiece:1.2), best quality, highres, ultra-detailed), solo, 1girl, (SnowPrincessw,snowwhite from disney,beautiful skin:1.2),(drooping eyes:1.4), (14 years old,small breasts,brown eyes,large eyes,black hair,retro curly bob:1.1),elegant face,(red headband with a red ribbon in the center:1.3),
+princess,red cloak,(dress,skirt), cowboy shot,
+looking at viewer, (outdoor,at night,castle:1.2) <lora:snowWhiteDisney_v10:0.5>

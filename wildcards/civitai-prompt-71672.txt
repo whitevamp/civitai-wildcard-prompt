@@ -1,0 +1,7 @@
+(best quality), (masterpiece), (realistic,) (photo-realistic), ultra-detailed,(looking down:1.2),
+1boy,male focus, ,
+<lora:cloudstrife-nvwls-v1-final:0.7> cloud strife, shoulder armor, sleeveless turtleneck, suspenders, belt, baggy pants, gloves, bracer, boots,
+(wheelchair:1.2),sitting,empty eyes,disappointed,disappointment,hollow,
+<lora:shaded_face2_pruned_0:0.9> (shaded face:1.1), (sad:1.2),
+indoor,country,
+professional lighting, photon mapping, physically-based rendering,

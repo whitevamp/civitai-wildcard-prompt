@@ -1,0 +1,7 @@
+[<lora:DOGGY3rd:0.9> #decrease],1boy, 1girl, abs, ass grab, blush, breasts, doggystyle, hetero, table, sex, sex from behind,standing sex,standing,nude,indoors, hanging motion lines,hanging breasts , nude boy,
+BREAK,(spoken hearts:1.2),(sweat:1.1),(deep breathe:1.2),(steam:1.2)
+BREAK
+,<lora:Megumin_V1.0-000006:1>megumin, megumin's style
+,
+,
+, BREAK,masterpiece, best quality,BREAK, (spoken hearts:1.2),(sweat:1.1),(deep breathe:1.2),(steam:1.2)

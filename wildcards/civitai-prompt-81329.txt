@@ -1,0 +1,3 @@
+(best quality, masterpiece, ultra-detailed), 1girl, (solo), (detailed face), (realistic), depth of field, (full body), illustration, extremely beautiful, starry night sky, huge galaxy, magical, soft light,
+((flowers)), (colorful), (petals), (Cherry blossoms), ((flowing)), (fantasy), (paper cut), ultra thin silk, lace, (elegant), (charming), (cute), looking at viewer,
+<lora:Pink_maiden_450:0.2>, <lora:KK_paperCut_v1:0.7>,

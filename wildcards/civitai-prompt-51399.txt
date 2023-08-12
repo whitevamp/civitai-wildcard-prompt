@@ -1,0 +1,4 @@
+best quality, intricate details,
+
+
+1girl,    <lora:kizunaAiKizunaAiInc_v10:0.8> kizuna ai,  <lora:postapocalypse5MBLora_5MB:0.8> postapocalypse, nsfw, girl, boobs, harness, pussy, gas mask, soft lighting, crowd

@@ -1,0 +1,4 @@
+((transparent dress)), ((see-through)), cute age 18 girl in field of lavendar, pond, stream, fair skin BREAK
+((colorful hair)), ((rainbow hair)) BREAK
+((flat chest)), ((small breasts)), navel, topless,  BREAK
+thigh gap, (visible pussy), shaved pussy, ((pussy))  <lora:transparent_dress:0.6>, <lora:add_detail:1>

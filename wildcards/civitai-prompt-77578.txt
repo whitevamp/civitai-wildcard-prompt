@@ -1,0 +1,1 @@
+3d cute,1boy,zbrush,(chibi:0.1),<lora:3DMM_V10:1> <lora:ShuaigeTouxiang-000018:0.8>

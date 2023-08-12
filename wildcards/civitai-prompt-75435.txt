@@ -1,0 +1,1 @@
+<lora:onOff3:1.4> onoff, 1girl, solo, (from side, face focus:1.4), portrait, kimono, extremely detailed, (abstract background:1.4), (many colors, colorful:1.1), (feathers, petals, flowers:1.3), dynamic pose, earrings  <lora:add_detail:1>

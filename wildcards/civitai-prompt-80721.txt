@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3),extremely high detailed, intricate, 8k, HDR, wallpaper, cinematic lighting, <lora:Mecha:1> ,sky, flying, holding weapon,  glowing, armor, glowing eyes, mecha, realistic,mecha, large wings, <lora:IvoryGoldAIv2:0.5>

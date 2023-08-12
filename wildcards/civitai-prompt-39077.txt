@@ -1,0 +1,4 @@
+<lora:against_glass_v0.2:1>
+1girl, breasts on glass, sundress, upper body, 
+ v arms, breasts squeezed together,
+<lora:breasts_squeezed_together_v0.2:1>, masterpiece, best quality, highly detailed

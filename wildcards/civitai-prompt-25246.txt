@@ -1,0 +1,6 @@
+(photorealistic:1.4),Best quality, masterpiece, ultra high res, raw photo,soft light,
+(cowboy shot),blue sky,movie poster, 
+1girls, blonde hair, long hair, beautiflul girl, small breasts,  happy,
+(mathayom uniform),white shirt short sleeves,(black pleated long skirt:1.2), bowtie,
+hair_floating, dramatic scene,  forest, nature, sexy pose,
+<lora:mathayom22:0.5>

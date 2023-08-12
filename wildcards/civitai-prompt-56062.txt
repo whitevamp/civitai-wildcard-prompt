@@ -1,0 +1,1 @@
+sn00pd0g,1girl, (Dark Skin, Dark-Skinned Female:1.4),<lora:snoopDoggDiffusion_v10:0.5>  <lora:estheticNadegataStyle_nadev1:0.5>

@@ -1,0 +1,3 @@
+summer, A sundress with flat sandals and a sun hat, Heiress, Average Height, in shape, Diamond-Shaped Face, Tan Skin, Blonde Hair, amethyst Eyes, Short Nose, Thick Lips, Sharp Chin, Shoulder-Length Hair, Curly Hair, Braided Crown, perfect shape breasts, Stud earrings, magenta gloss lipstick
+movie scene, dramatic lighting, cinematic render, high quality, ultra resolution, masterpiece, 8k, elaborate
+(A tropical island with crystal clear waters and colorful coral reefs:1.4), <lora:tangbohu-detailer_1.0:0.85>

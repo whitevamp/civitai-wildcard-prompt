@@ -1,0 +1,1 @@
+(grainy:0.4), girl, (drinking_water:1.2), looking_up, one_eye_closed,messy_wet_hair,ponytail, (sweating:1.1), buruma, gym_uniform,cameltoe,<lora:trueBuruma_v25:0.2>, perfect_anatomy, (sharp:0.5), afternoon, smooth_lighting, smooth_shadows, extremely_detailed, Medium_shot

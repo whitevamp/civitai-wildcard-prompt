@@ -1,0 +1,7 @@
+absurdres, intricate details, masterpiece, best quality, high resolution, 8k, (wide shot, from behind:1.2),
+(1boy:1.4), ( wet shirt, black socks, wet white shorts:1.2),  bare pectorals, bare legs, ass, back, see-through, 
+looking back, smile, blush, open mouth, (GS-Masculine:1.2), (submerged in water:1.3), 
+muscular, abs, large pectorals, large areolae, (short hair:1.6), white skin, shiny skin, sweat, black hair,
+detailed face, detailed eyes, pink eyes, eye reflection, shiny blue necklace, huge necklace,  outdoors, lake, clear water,
+(magnificent landscape, butterfly, flower, grasslands:1.2), waterfall, bird,  forest, sunrise, detailed clearly background, soft light, front light, rim light,
+<lora:cute boys3:0.65> <lora:handsomeMan_v10:0.35>

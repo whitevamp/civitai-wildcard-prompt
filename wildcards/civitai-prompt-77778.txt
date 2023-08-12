@@ -1,0 +1,1 @@
+(image in dst style1.2), messy lines, dark lines, no-frame, no-mask, a mystical wizard's house, (masterpiece, extremely detailed, 4k, 8k, 16k, highres:1.3) <lora:dontstarve_dst:1>

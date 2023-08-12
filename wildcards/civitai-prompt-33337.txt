@@ -1,0 +1,1 @@
+(seductive smile:1.3), looking at viewer, (cowboy shot:1.3), highly detailed, <lora:add_detail:1>, masterpiece, best quality, (photorealistic:1.5), (realskin:1.5), 1girl, <lora:meidusha_nianfan_v1:0.7>, meidusha

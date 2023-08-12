@@ -1,0 +1,30 @@
+masterpiece,
+
+danniashe, 1girl, solo, rabbit ears, blonde hair,long hair, underwear, panties, large breasts, bra, looking at viewer, fake animal ears, realistic, white bra, lips, smile,teeth, cowboy shot, white highleg bow panties,
+easter theme,
+
+,(natural lighting:0.7), Nikon D850, sharp colors, ISO3200, EF 70mm, CINESTILL, intricate details,
+(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3 sharp focus, f 5.6
+
+<X:=== NAI -------------------------------------------------------------------------------------------------------------------------------------------------------------------:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e01#NAI-7215s:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e02#NAI-14430s:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e03#NAI-21645s:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e04#NAI-28860s:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e05#NAI-36075s:.0>
+<lora:danniashe--t001.00-LoRA-#wh.768,768 #o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e05#NAI-36075s-rs0128:.0>
+
+<lora:danniashe--t002.00-LoRA-#wh.768,768#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e01#NAI[t001.00e5]-44913s:.0>
+<lora:danniashe--t002.00-LoRA-#wh.768,768#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e02#NAI[t001.00e5]-53751s:.0>
+
+<X:=== ANY3-TEST (t002.00e2 base) --------------------------------------------------------------------------------------------------------------------------------:.0>
+<lora:danniashe--t003.00-LoRA-#wh.768,768#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e01#ANY3[t002.00e2]:.0>
+<lora:danniashe--t004.00-LoRA-#wh.640,1024#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e01#ANY3[t003.00e1]:.0>
+<lora:danniashe--t005.00-LoRA-#wh.1024,640#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e02#ANY3[t004.00e1]:.0>
+<lora:danniashe--t005.00-LoRA-#wh.1024,640#o.DAdaptation#s.cosine#d.256#a.256#l.1#u.1#t.1#e02#ANY3[t004.00e1]-rs0128:.0>
+
+
+<X:=== NAI (t002.00e2 base) --------------------------------------------------------------------------------------------------------------------------------------------:.0>
+<lora:danniashe--t006.00-LoRA-#wh.1024,672#o.DAdaptation#s.constant#d.256#a.256#l.1#u.1#t.1#e01#NAI[t001.00e5]:.0>
+<lora:danniashe--t007.00-LoRA-#wh.672,1024#o.DAdaptation#s.constant#d.256#a.256#l.1#u.1#t.1#e01#NAI[t006.00e1]:.0>
+<lora:danniashe--t007.00-LoRA-#wh.672,1024#o.DAdaptation#s.constant#d.256#a.256#l.1#u.1#t.1#e01#NAI[t006.00e1]-rs0128:.5>

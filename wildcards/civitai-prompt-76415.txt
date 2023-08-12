@@ -1,0 +1,2 @@
+(masterpiece:2, best quality:1.2), cave, monster, beholder, apocalypse,red eyes, red skirt, red jacket, red top,cleavage, (ripped clothes:1.2), large breast, running, sweat, heavy breath, weapon, seras victoria, hellsing,white thighhigh
+ <lora:SERASV:0.7>,white panties,nsfw,spread leg,blush

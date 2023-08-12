@@ -1,0 +1,1 @@
+absurdres, highres, ultra detailed, jahy, <lora:ch_jahy_REG_768_1.0e-4:1>, ramen, chopsticks, <lora:ramen_v1.2:1>  <lora:GoodHands-beta2:1>

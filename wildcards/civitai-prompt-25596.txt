@@ -1,0 +1,1 @@
+1girl,mirror,in_mirror,<lora:in_mirror:0.8:ZYX>,myhonest reaction, <lora:mahonest-01:1:FACE>, <lora:Nao_LoRA:1>(scared:1.2), (tears:1.1), (brown eyes),cowboy shot,(Kobeni), (white collared shirt),(black necktie)

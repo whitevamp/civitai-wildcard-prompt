@@ -1,0 +1,4 @@
+(masterpiece:1.4), (best quality:1.4), (high resolution:1.4),
+1girl, solo, portrait, anna, bikini, beach, 
+embarrassed, happy, :D, 
+<lora:FrozenAnna_v1:1>

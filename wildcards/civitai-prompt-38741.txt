@@ -1,0 +1,1 @@
+(gradients, colorful, masterpiece, best quality, high resolution, intricated details:1.1), <lora:add_detail:0.5>, <lora:add_sharpness:0.25>,  (1girl:1.1), yelan, orgasm face, lustful face, rolling eye, <lora:genshinfull1:1> (1boy:1.2), sex, big penis, vaginal sex, pussy, straddling,( testicles),  pussy juice, wet pussy, girl on top, bed, indoor  <lora:COWGIRL_V2:0.65>

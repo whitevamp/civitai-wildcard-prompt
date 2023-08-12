@@ -1,0 +1,2 @@
+<lora:rickAndMortyCharacters_v10:0.4>,  looking at viewer, (rick_sanchez), white lab coat, grumpy old man,
+doctor emmet brown,  <lora:drEmmetBrownDocBrownBack_v1:0.5>, (high quality:1.3), masterpiece, detailed, highres, 4k, sharp focus, hdr 4k, insane details, (hyperdetailed), realistic, photo, gigapixel, raytracing, ultra realistic, photorealistic, RAW photo, (perfect face:1.3), detailed face, beautiful face

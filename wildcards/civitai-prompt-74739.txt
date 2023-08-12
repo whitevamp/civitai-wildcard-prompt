@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, Luigi, <lora:Luigi:0.7>, 1boy, solo, mustache, stone_statue, white_statue, <lora:Style_StoneStatue:0.5>

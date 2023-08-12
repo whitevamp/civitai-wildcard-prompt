@@ -1,0 +1,1 @@
+masterpiece, best quality, paimondef, upper body, ahetobleh, hands on own head, closed eyes, from above <lora:paimon1-000005:0.9>  <lora:ahetobleh-nvwls-v1-final:0.8>

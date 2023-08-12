@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:rem-08:0.8> rem, short hair, x hair ornament,
+ <lora:khorne:0.8> khorne, armor, skull,

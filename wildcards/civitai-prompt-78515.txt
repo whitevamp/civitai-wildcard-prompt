@@ -1,0 +1,4 @@
+(best quality, masterpiece, realistic),
+2girls, hugging, closed eyes,
+tentacle cave background, liquid acid puddle, wet, dripping, steam
+<lora:StomachsTentaclesEtcBackground:0.75>

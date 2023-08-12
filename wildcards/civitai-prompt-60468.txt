@@ -1,0 +1,1 @@
+onoff, side-by-side photo of 25yo Korean woman, tomboy hair, elaborate red qipao, red high heels, standing on train station platform, <lora:onOffLora_v326:1> <lora:thatsMyBush_v10:0.3>

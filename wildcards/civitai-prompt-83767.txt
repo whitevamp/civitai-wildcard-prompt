@@ -1,0 +1,2 @@
+a man,male,garbed in a suit resembling a sunset's vibrant hues, a scarf with the sophistication of an eagle in flight, his eyes glistening like polished obsidian, the detailed embroidery on his vest suggesting the marvel of constellations, standing against a wall carved with the authority of ancient hieroglyphs, his hair decorated with an arrangement that recounts a story of a timeless desert, sleek gloves that bear the finesse of a concert pianist, pants that sway like a quiet stream,solo,
+low key,deep shadow,<lora:epiNoiseoffset_v2:1>

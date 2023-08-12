@@ -1,0 +1,4 @@
+(1girl), (best quality), (masterpiece), (high resolution), (intricate details), (photorealistic), (cinematic light),  <lora:short_hair:0.8>
+solo, brown hair, nape, blurry, upper body, blurry background, wavy hair, smile,  realistic, looking at viewer, lips, upper body, off shoulder, shirt
+white background, upper body, brown eyes, closed mouth,  profile, lips, nose, portrait, earrings, parted lips, black choker, ear piercing
+sleeves past wrists, simple background

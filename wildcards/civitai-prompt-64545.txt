@@ -1,0 +1,2 @@
+cohf, masterpiece, best quality, hyperrealistic, a stunning photograph of beautiful swedish woman, blue hair, (face covered in semen:1.2), photorealistic, studio lighting, FilmG, 8k, hdr, raw photo, upper body, (film grain:1.1), award winning photo, 24mm, on focus, looking at viewer, (highly detailed skin:1.2), (a pair of huge boobs:0.9), athletic body, fine detail, long hair, white blouse, cleavage, sitting in a library
+ <lora:cohf:0.75> <lora:epiNoiseoffset_v2:0.5>

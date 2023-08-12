@@ -1,0 +1,1 @@
+professional photo of raphtalia, long brown hair, beautiful face, light smile, reddish eyes, tail, detailed skin, detailed eyes, garden, photo made with Canon EOS in natural style photography, popular on artstation, popular on deviantart, popular on flicker,  <lora:epi_noiseoffset2:0.8>,  <lora:add_detail:0.8>,  <lora:CineStyle5:0.5>,  <lora:Raphtalia:0.5>

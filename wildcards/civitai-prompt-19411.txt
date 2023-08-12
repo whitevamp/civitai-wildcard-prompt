@@ -1,0 +1,1 @@
+(best quality:1.2), father and mother with son, smile, looking at camera, soviet union, poster, map in background  <lora:soviet-poster:0.7>

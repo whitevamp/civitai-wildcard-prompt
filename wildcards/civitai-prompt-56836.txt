@@ -1,0 +1,7 @@
+masterpiece, best quality,
+((30yo woman)), ((milf)), ((mature female)),
+realistic,
+detailed_background, intricate_details,
+1girl, lingerie, torso grab, looking at viewer, blush, light_smile, 
+<lora:blacked_v15:0.6>, (3+boys), black man, muscular male, size difference, height difference, 
+,<lora:suzy_V20:0.3>, <lora:koreanDollLikeness_v15:0.2>,

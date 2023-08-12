@@ -1,0 +1,5 @@
+((text, logo, watermark)), ((best quality, masterpiece)), sharp focus, natural lighting, masterpiece quality, absurdres, ultra detailed, intricate detail, ultra detailed, (8k, uhd), many colours
+BREAK
+picture of a strange cryptic underwater creature, sea, monster, fangs, wings, membranes, bubbles, tentacles, various limbs, scales, has eyes everywhere,  spikes, tail, sharp teeth, hors, half-organic xenomorph, predatory curves, enormous male reproductive organs, manifestation of malice,  air_bubble
+BREAK
+((jav cover, text, logo, watermark, content_rating, cover_page, doujin_cover, fake_cover)),  <lora:JAV Cover:0.2>

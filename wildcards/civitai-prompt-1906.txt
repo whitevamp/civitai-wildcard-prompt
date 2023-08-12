@@ -1,0 +1,2 @@
+<lora:VictorianPunkAI:.9> VictorianPunkAI
+factory , detailed, intricate

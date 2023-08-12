@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose, full body,
+20yo attractive girl, long flowing white hair, smooth thighs, small breasts, subtle makeup, lashes, blushing,
+exosuit, full armor, katana blade, mechanical parts, cloak,
+futuristic city, bright lights, from behind, heavy rain, reflective, windy,
+  <lora:nijiarmor_anime_v2:0.8> <lora:CyberpunkStyleV3:0.6>

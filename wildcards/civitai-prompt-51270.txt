@@ -1,0 +1,1 @@
+solo, 1girl,multicolored eyes, portrait, floating hair,long hair, parted lips, looking at viewer, grey background, shadow, purple eyes, eyelashes, blurry, upper body, flower,white flower, blue flower,bare shoulders,multicolored hair,<lora:yoneyamaMaiStyle:0.8>,<lora:youngMadamePing:0.8> ,<lora:innerColoredHairLora:0.8>

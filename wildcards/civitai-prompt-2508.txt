@@ -1,0 +1,2 @@
+StefaniaS_V1 opening mouth,
+<lora:sweetLolita_v10:0.1> sweet_lolita

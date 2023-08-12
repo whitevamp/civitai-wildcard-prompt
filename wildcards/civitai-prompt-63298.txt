@@ -1,0 +1,3 @@
+man, closed eyes, head up, by atey ghailan, heavy rain, moody, rain drops, wet,
+ (watercolor:0.5), (borderlands:0.4),
+ <lora:lowra_v10:0.1>

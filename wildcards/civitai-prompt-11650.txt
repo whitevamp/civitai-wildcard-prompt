@@ -1,0 +1,4 @@
+professional photo of xyzdaphne, 1girl, (green) scarf, orange hair, purple dress, hairband, long sleeves, slim legs,
+detailed skin, detailed eyes, looking at viewer,
+volumetric light, highrez, masterpiece, best quality,
+<lora:VRAMsVelmaDaphne640:0.55:MIDD>

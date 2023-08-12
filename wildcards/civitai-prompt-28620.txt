@@ -1,0 +1,2 @@
+masterpiece, best quality, realistic, 8k, official art, cinematic light, ultra high res, 1girl, day, sunlight, light on face, (white hanfu), (Winter hanfu:1.2), (cloak:1.2), (snow:1.3),(upper body)
+ <lora:Winter_Hanfu:0.55>, French twist, jewelry ,necklace , Appalachian <lora:AI_Misaki:0.8:FACE>

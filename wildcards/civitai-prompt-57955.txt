@@ -1,0 +1,3 @@
+(best quality:1.3),(masterpiece:1.1),(illustration:1.2),(ultra-detailed:1.2),
+(Extremely detailed background:1.1), 1girl, Nineveh, blonde, angel, evil smile, blood on the face, blood on the clothes, cowboy shot, fire background,
+<lora:Nineveh_v2:0.7>

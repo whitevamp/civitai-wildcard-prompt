@@ -1,0 +1,11 @@
+[(from below) | (from side)]:2,
+
+NSFW:2, {{underboob}}, hanging breasts, small nipple, small oreola, puffy nipple, ((gigantic breasts)):1.8,  cleavage:2, (exposed breasts):2, (exposed nipples):2, gigantomastia:1, <hypernet:gigantomastia:0.4>, <lora:saggingBreasts:0.8>, <lora:gigatitums:0.4>,
+
+(exposed pussy):2, (very hairy pussy):1.8, (lots of pubic hair), {{{pubic hair}}}:1.8, cameltoe:2, <lora:fatpussy:0.5>,
+
+milf, mature woman, mature female, mature face, woman in her 30s, (extremely slim):2, (abs):2, (flat belly), {{{full body}}}, (realistic:1.5), photorealistic, octane render, hyperrealistic, unreal, pussy, thin thighs, narrow hips, tiny thighs, (sitting):2, on chair, leg spread, dynamic pose, sexy pose, white legwear thigh highs, (photorealistic face:1.8), (1girl:1.4), collar, thick eyelashes, long eyelashes, (twin tails:1.1), pale skin, european, platinum blonde hair, hair ribbon, arm straps, choker, best quality, indoors, comfy, cosy, window, beautiful beach, streaked hair, hair ribbon, hair band, open mouth, (looking at viewer):2, sharp focus, (8k), (4k), long hair, (Masterpiece), (Best Quality), fantasy, extremely detailed, intricate, hyper detailed, (perfect face), illustration, soft lighting, (specular lighting:0.2), blue eyes, (no bra):2,
+
+natural skin texture, (freckles:0.3), (natural skin texture), (imperfect skin), pale skin, european, (skin pores):1.4, (tiny moles on body):2, (moles on face), (moles on breasts):1.4,
+
+<hypernet:incaseStyle_incaseAnythingV3:0.5>,  bimbostyle:0.8, <lora:jujunaughtStyle_v10:0.8>,

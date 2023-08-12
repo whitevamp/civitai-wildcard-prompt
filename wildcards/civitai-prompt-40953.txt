@@ -1,0 +1,7 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, )
+depth of field:1.2,,2girls,long legs,glasses,(clear eyes),kiss,yuri,looking at each other,hug,passionate,touching,tongue,mouth open ,<lora:yurikiss:1>,<lora:add_detail:0.6>,<lora:epi_noiseoffset2:0.3>,
+<lora:koreanDollLikeness:0.6>,
+<lora:Black_8D_glossy_stockings:0.4>,thighhighs,black thighhighs,Black 8D glossy stockings,pleated short skirt,sweat,sweatdrop,
+<lora:[NSFW]NaturalLargeBreasts:0.6> ,(open shirt, natural breasts,huge breasts,nsfw,nude,completely nude, )
+<lora:breastinclassBetter:0.3>,
+<lora:libbg_v16:1>,lib_bg,library, bookshelf, between bookshelf,book,

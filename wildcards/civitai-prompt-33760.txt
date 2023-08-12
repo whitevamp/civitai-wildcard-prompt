@@ -1,0 +1,2 @@
+EpicSky, outdoors, sky, cloud, no_humans, star_(sky), scenery, starry_sky, space, explosion, planet
+ <lora:EpicSky-000006:0.8>, (masterpiece,best quality:1.5)

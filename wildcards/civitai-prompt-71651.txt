@@ -1,0 +1,3 @@
+masterpiece, octane render, photorealistic, uhd, hdr, 8k, dslr, 30mm, Fujifilm XT3, film grain, RAW digital landscape photo of an exploding (emb-nuke2:1.2) (smoke planet:1.3), ultra detailed, sharp focus, hard shadows, bloom, volumetric lighting, trending on artstation
+ <lora:Smoke:1> 
+<lora:Earth-000012:0.7>

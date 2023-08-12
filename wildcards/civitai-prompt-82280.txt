@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, PlayingCards, <lora:PlayingCards:0.5>, 1boy, solo, holding, card, table, holding card, sitting, indoors, playing card, pov across table, closed mouth, looking at viewer, yugi muto, black hair, jacket on shoulders, necklace, big pendant, sleeveless shirt, millennium puzzle, <lora:Char_Yugioh_YamiYugi:0.6>

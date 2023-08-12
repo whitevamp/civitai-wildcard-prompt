@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, beautiful and aesthetic:1.2), (1girl), extremely detailed, colorful, aqua eyes, short silver hair, hair flower,  <lora:LowRa:1>, dark theme, tattoo, <lora:beautifuleyes_halfbody:0.6>, piercings, delicate nose

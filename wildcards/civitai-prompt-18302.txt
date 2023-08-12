@@ -1,0 +1,8 @@
+1girl (30yo) stunningly beautiful sexy mature (Japanese), beautiful realistic face, (long blue hair:1.3),
+((sitting on a bed)), sexy pose, cat ears, subsurface scattering,
+looking at viewer, realistic blue eyes, (happy, smiling:1.2), dimples, (separated-lips, open mouth:1.1),
+(black oversized_sweater:1.1), nsfw, one exposed breast, shoulder, spread legs, sweater,
+(cinematic lighting:1.5), (deep-shadows:1.4), (backlit:1.2), (dim, dark, night), rimlight, depth of field, chromatic aberration, bokeh, raytracing, sharp focus,
+highres, 8k, high quality, masterpiece,
+<lora:JapaneseDollLikeness_v15:0.1>
+<lora:oversized_sweater:0.5>

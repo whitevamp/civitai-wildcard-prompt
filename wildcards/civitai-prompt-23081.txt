@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, solo, 1girl, ExtraFacesRanni, <lora:ExtraFacesRanni:1>, upper body, Ranni, wavy hair, blue skin, cracked skin, dress, <lora:Char_EldenRing_Ranni:0.9>, starry, strry light, night, colorful, cloud, star \(sky\), <lora:Style_LightCoatCG:1>

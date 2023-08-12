@@ -1,0 +1,1 @@
+realistic, breathing fire, fire magic, big fireball, fighting stance, <lora:FirevfxCreateMore_v2:0.7> <lora:hipoly_3dcg_v7-epoch-000012:0.5>

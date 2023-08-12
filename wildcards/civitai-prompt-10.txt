@@ -1,0 +1,1 @@
+masterpiece, best quality, fran, viera, helmet, zero suit, blue gloves, looking at viewer, large breasts, upper body, looking at viewer, neutral expression, space station, (dark skin:0.6) <lora:zerosuit-nvwls-v1:1>  <lora:fran-nvwls-v1-final:0.9>

@@ -1,0 +1,1 @@
+(1girl, solo, black_hair), building, city, cityscape, cloud, cloudy_sky, grey_sky, holding, house, outdoors, overcast, plant, potted_plant, rain, rooftop, sandals, scenery, sitting, sky, skyscraper, solo, tree, dim, (night), <lora:epiNoiseoffset_v2:1>

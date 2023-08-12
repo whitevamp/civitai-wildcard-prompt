@@ -1,0 +1,2 @@
+(view back:1.3),
+<lora:Rackflowerv2:0.9>Rackflower, (wearing red marry dress:1.4), BREAK 1girl, (white hair, short hair), light smile, BREAK (holding flower, blue flower, cloud, sky, fog, vietnam mountain scene, flower garden around vietnam, birds flying around vietnam:1.3), <lora:add_detail:1>, BREAK night light, dramatic light, <lora:ALiNoCry_v18:0.4>,, necklace ,bracelets

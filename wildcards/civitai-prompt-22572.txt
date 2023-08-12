@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres, 
+1girl, long hair, looking at viewer, smile, blonde hair, shirt, hat, navel, holding, jewelry, underwear, standing, panties, white shirt, male focus, earrings, multiple boys, solo focus, midriff, pants, necklace, nail polish, white panties, bracelet, lips, ring, hoop earrings, realistic, fat, fat man, gold chain, wearing edgWhaleTail, visible thong straps
+<lora:edgWhaleTail1:0.6>

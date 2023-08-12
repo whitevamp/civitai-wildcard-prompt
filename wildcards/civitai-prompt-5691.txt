@@ -1,0 +1,1 @@
+(contre-jour, side lighting, volumetric, crepuscular rays, dynamic contrast), ((dark scene, dim light)), 1girl, long hair, smile, white blouse, outdoors , <lora:epi_noiseoffset2:0.2>   <lora:DI_belle_delphine_v1:0.5>  <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.3>

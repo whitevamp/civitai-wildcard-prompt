@@ -1,0 +1,1 @@
+(masterpiece:1.5), (best quality:1.5), 3dmm,highres, highly detailed,3DG,1girl, big blue eyes, long blue hair, white headgear, smiling, looking at viewer, cute and girly\(idolmaster\), 3d rendering, octane rendering, subsurface scattering skin, soft and bright lighting, clear focus, clean background, perfect face, perfect eyes, <lora:3DMM_V10:1>

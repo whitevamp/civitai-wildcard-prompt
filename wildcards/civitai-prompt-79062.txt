@@ -1,0 +1,2 @@
+8k raw photo, photorealistic, film grain noise, soft cinematic light, rim light, looking at viewer, hiqcgbody, spotlight, Tom Bagshaw style
+a portrait nc4v4n1s 1girl, , finely detailed face, 5 digits fingers, long hair, red bindi, ttpt-fC, thick thighs, plump boobs, graceful pose, intricate details clothes, film grain noise, cleavage, jade necklace, (magic circle:0.8), xiuxian, <hypernet:sxzBloom_sxzBloom:0.6>  <lora:hipoly3DModelLora_v20:0.5>  <lora:add_detail:1> , <lora:ttpt-fC-v1.3c:1> <lora:nihong-000014:0.7>

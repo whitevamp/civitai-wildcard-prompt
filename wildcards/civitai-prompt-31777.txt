@@ -1,0 +1,2 @@
+angry birds,  art, nty, drawing,  miniature, 
+ <lora:Test1:0.88>

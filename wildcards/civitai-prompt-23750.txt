@@ -1,0 +1,1 @@
+<lora:minimal_vector_style:0.8>,  cat, <lora:cat_20230627113759:1>,<lora:NijiExpressV2:0.4>,simple background,, (masterpiece, best quality, high quality, highres, ultra-detailed),

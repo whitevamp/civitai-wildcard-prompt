@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, solo, 1girl, portrait, 4k, 1girl, detailed face, <lyco:perfecteyes:1.0> perfecteyes eyes, <lyco:pseudo_daylight:1.0>, <lora:MISC_ADD_DETAIL:1>,1girl, solo,  <lora:MISC_VOID_ENERGY:0.6> <lora:MISC_GOTHGIRL:0.6>

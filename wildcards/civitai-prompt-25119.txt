@@ -1,0 +1,3 @@
+A tiefling woman with red skin, pointy ears and horns, wearing medieval armor, stood with fire in her hand, diabolic face with an evil smile.
+(tiefling, red skin, pointy ears, balls of fire in hands:1.1), dynamic pose, ancient ruins, debris, facepaint, (epic and evil:1.1)
+<lora:RPGTiefling:0.6>

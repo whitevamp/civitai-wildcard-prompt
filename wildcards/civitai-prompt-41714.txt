@@ -1,0 +1,5 @@
+shallow focus,establishing wide shot,1 girl, solo, cute face, (blush,shy:1.3),long eyelashes, (light yellow long soft waves hair:1.2), (huge-pink-bow headdress:1.3),<lora:cartoon_portrait_v2:0.2> cartoon_portrait, <lora:Immerse yourself:0.2> 
+BEAK (The Sheer Lace Romper: Embracing a playful romper made of sheer lace, creating a captivating and flirty look:1.2), playful dynamic pose,
+BEAK (Inside a 1950s Tailor Shop: Colorful fabrics, humming sewing machines,  customers:1.5),
+<lora:duobaba_20230801001042:0.8>(style of Barbie pink,Barbie yellow,Barbie blue),<lora:FilmVelvia3:0.3> <lora:Lemon Summer:0.3><lora:FujichromeSensia100:0.5> 
+(photorealistic:1.6),(best quality, masterpiece, intricate detail), highly detailed, depth of field, nature lights,  <lyco:GoodHands-beta2:1.0>

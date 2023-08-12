@@ -1,0 +1,1 @@
+abstract art, (style of Yuko Shimizu:1.3), (white theme:1.1), gold theme, golden butterflies, dark stars, 1girl, field of white flowers, , facing viewer, <lora:add_detail:1>, <lora:剪纸_剪纸:0.8>

@@ -1,0 +1,1 @@
+<lora:leagueOfLegends_v02:0.75>, league of legends, lol, splash art, ((masterpiece)), 1girl, <lora:mash_kyrielight:0.5>, (mash kyrielight, pink hair, purple eyes, hair over one eye, gray hooded jacket, collared dress, red necktie, wide hips),  in a forest, skirtlift <lora:skirtliftTheAstonishing_skirtliftv1:1>

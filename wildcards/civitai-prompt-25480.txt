@@ -1,0 +1,5 @@
+solo ((chibi quadruped feral eevee)), (three-quarter portrait),
+((detailed fluffy fur)), (sunny day forest, sunlight, plant), 
+BREAK,
+(masterpiece, best quality, ultra realistic, 4k, 2k, (intricate:0.9), (high detail:1.2),
+(3d \(artwork\):1.25), blender \(software\), soft focus, ray tracing, (unreal engine:1.25), absurd res)

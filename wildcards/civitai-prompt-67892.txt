@@ -1,0 +1,2 @@
+bronze_statue,1girl,facing away, nude, metal,museum, scenery, sunlight,
+<lora:bronze_statue:0.5>, masterpiece, best best quality,ultra_detailed,

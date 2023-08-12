@@ -1,0 +1,1 @@
+masterpiece, best quality,  1girl,shining,milky way, <lora:add_detail:0.5>universe,planet,spacewalk, <lora:starlight:0.8>star,starlight,many shooting star, smile512,pick up star,from above, long hair, AS-Young

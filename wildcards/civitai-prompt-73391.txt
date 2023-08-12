@@ -1,0 +1,7 @@
+(flat color:1.3),(colorful:1.3),(masterpiece:1.2), original, extremely detailed wallpaper,
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3),
+looking at viewer,1girl,solo,white hair, long hair, red eyes, 
+black background,red lips,close-up, squatting, sitting,
+vaporwave, cyberpunk, 
+<lora:urbansamuraiv3testing:0.8>{techwear jacket|serafuku:0.9|},black thighhighs,
+black cap and mask, <lora:flat_color:0.2>

@@ -1,0 +1,2 @@
+, (masterpiece:1.2), best quality,PIXIV,
+ <lora:dog_20230627135046:1>

@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo, <lyco:GoodHands-beta2:1.0>, shiny skin,  <lora:nun_cos_v10:0.75>, nun, cross necklace,

@@ -1,0 +1,15 @@
+((masterpiece))((sfw))
+(best_quality) (1girl)
+(fisheye) (facing_viewer) (upper_body) (breast_focus) (close-up:1.4)
+(blurry_background) (depth_of_field)
+(caustics)(backlighting) (sunlight)
+(outdoors) (poolside)
+(naughty face)(palm_tree) (seductive_smile)
+                                 <lora:ainoku_HatsuneMiku:0.3>
+(Hatsune Miku) (twintails)
+(medium_breasts) (skindentation) (thick_thighs)
+(turquoise_bikini:1.3) (wet_skin) (shiny_skin)
+(tan) (star_necklace:1.3) (turquoise_choker:1.3) (glitter)
+                                 <lyco:[FACE] eGirlMakeup-10:1.4>
+(EGirlMakeup) (eyeliner) (turquoise_eyeshadow)
+(selfie)(reaching_towards_viewer:1.3)

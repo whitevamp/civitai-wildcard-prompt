@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, 
+Ingrid, solo, mature female, (dark skinned female:1.15), church background, sunny, looking at viewer, (happy, blush:1.1), (full body shot:1.1),
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+wedding dress, bridal veil, bridal gauntlets, bridal garter, bridal legwear, high heels, white elbos gloves,
+hyperdetailed areolae, large breasts, (covered breasts:1.05), (nipple slip:1.1), (areola slip:1.2), curvy
+<lora:Ingrid:0.85>

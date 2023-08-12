@@ -1,0 +1,1 @@
+neon color, lofi color, hyper lofi,  <lora:hyper_lofi:0.4>, (masterpiece,best quality:1.5)

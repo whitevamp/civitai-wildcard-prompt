@@ -1,0 +1,5 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,
+(half-naked:0.85),
+__Atmosphere-1__,
+__Atmosphere-2__,
+<lora:oc_v10:0.2> <lora:lowra_v10:0.4>

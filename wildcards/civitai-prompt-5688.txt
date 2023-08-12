@@ -1,0 +1,6 @@
+masterpiece, best quality, detailed, unity 8k wallpaper, ultra high res, professional lighting,
+1boy, male underwear, white socks, torn bodysuit, bare legs,
+muscular, abs, big pectoralis, white skin, facing viewer, sitting, 
+detailed face, black eyes, white short hair, shiny golden necklace, eye reflection,
+indoors, large window, television, table, couch, sunlight,
+<lora:cute boys3:0.72> <lora:handsomeMan_v10:0.4> <lora:epi_noiseoffset2:0.5>

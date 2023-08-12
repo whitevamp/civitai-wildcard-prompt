@@ -1,0 +1,6 @@
+(cowboy shot),  (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes, (watercolor:1.2), brush strokes, vibrant colors
+BREAK,
+<lora:Yamato:1>(Yamato:1.25), multi-colored hair, bangs, ponytail, long hair, mouth open, smiling, arms outstreched
+<lora:Molten-Fashion-V1:0.7> (lava, molten dress, fire earrings:1.25), cleavage cutout
+BREAK
+gorgeous view

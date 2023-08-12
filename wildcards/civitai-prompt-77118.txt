@@ -1,0 +1,4 @@
+4K, Masterpiece, highres, absurdres,
+GothGal, woman wearing a GothGal outfit, with a garterbelt, iron chains
+Garterbelt, black fabric, fabric straps, embroidery, woman wearing the garterbelt, lower body focus, front picture,
+<lora:edgGothGB:1>

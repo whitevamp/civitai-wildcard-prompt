@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),photorealistic,ultra high res,upper body,
+1girl,(flat chest:1.1),glare,(sitting:1.1),(cockpit:1.2),open mouth,
+<lora:ibisdouglas:0.85>,ibisdouglas, medium hair ,two-tone hair,( multi colored hair:1.1),
+white jacket,white Shorts,open finger glove,pendant,
+<lora:anime_minimalist_v1-000020:-0.1>,
+<lora:add_detail:0.5>,
+<lora:LowRa:0.3>,

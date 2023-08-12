@@ -1,0 +1,7 @@
+(8k,  masterpiece, best quality, ultra-detailed), fantasy, nsfw,
+1girl, solo, (dark elf, dark-skinned female:1.2), pointy ears, large breasts, white hair, long hair,
+kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face,
+white dancer lingerie,white veil, see-through, white pelvic curtain, white detached sleeves, white revealing clothes, white bridal gauntlets, barefoot, white mouth veil,
+dancing, looking at viewer, expressionless,
+(cowboy shot:1.3), (stage:1.3), (ambient light), smoke, bonfire,
+<lyco:oiled skinv1:0.25>, <lyco:dancerLingerieClothes:1.0>,

@@ -1,0 +1,6 @@
+<lora:murkysButtjobLora_1:1>, (1girl, 1boy, hetero, ass, penis, buttjob,ejaculation,cum:1.2),pov,
+(unparalleled masterpiece, ultra realistic 8k CG, perfect artwork, perfect female figure,dramatic shadow,ray tracing),(on a balcony,highres:1),
+( spotlight,perfect lighting,detailed light,dramatic shadow,ray tracing),
+(mature female, milf, an extremely delicate and beautiful:1.2),
+(seductive posture, implied sex,clothed sex),((nsfw)),((large breasts:1.1)),(plentiful:1.3),(short hair:1.8),(seductive smile:1.3),open mouth, 
+<lora:nuisettes_v10:0.8>,(nuisette, white,floral embroidery ,a woman wearing a nuisette:1.2),(pubic tattoo)

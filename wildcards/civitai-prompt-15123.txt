@@ -1,0 +1,1 @@
+<lora:pixel art:0.8>,pixel art, building, 1 building, snow, ruin

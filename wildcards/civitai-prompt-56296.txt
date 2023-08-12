@@ -1,0 +1,1 @@
+brown_eyes, 1boy, man, male, black_hair, solo <lora:OC illustration:1>

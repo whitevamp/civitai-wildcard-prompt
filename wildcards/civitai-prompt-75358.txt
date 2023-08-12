@@ -1,0 +1,8 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,
+1girl,solo,Burgundy cardigan, navy blue corduroy pants,(full body),
+greenhouse,
+outdoor,
+Freedom,
+Fresh floral scents, dewy morning pearls,
+detailed background,depth of field,(sharp focus:0.8),
+<lora:oc_v10:0.3>  <lora:LowRAv2:0.6> <lora:PerfectNwsjMajic_5:0.1:FACE0.2>

@@ -1,0 +1,1 @@
+food, 1man, mkscorpion man ninja with 1 plate miegoreng with one egg fried on plate, wooden table, details, hot, soft focus, dramatic light, low ligt, blurry background  <lora:add_detail:1>  <lora:ARWmiegoreng:1>   <lora:ARWmkscorpion:1>

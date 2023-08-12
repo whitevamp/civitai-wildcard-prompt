@@ -1,0 +1,3 @@
+masterpiece, best quality, 2girls, outdoors, night, holding hands, looking at another, from side, looking away, eye contact, facing another, faceoff
+AND masterpiece, best quality, 1girl, upper body, <lora:JiaranDianaLoraASOUL_v20SingleCostume:0.6>, blue eyes, brown hair, pink hair bow, jacket, neckerchief, looking at another, from side, looking away, holding hands, eye contact, facing another
+AND masterpiece, best quality, 1girl, upper body, <lora:asoulAvaJK_v10:0.6>, default, white dress, wing hair ornament, twintails, looking at another, from side, looking away, breasts, holding hands, eye contact, facing another

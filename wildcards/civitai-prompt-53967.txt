@@ -1,0 +1,1 @@
+CCCPposter, soviet poster, poster , sovilet, flag, field,red sky, uniform,masterpiece, best quality, highres, 1boy, solo, emet selch, white streaked hair, black hair photorealistic, serious ,(holding weapon, holding rifle,aiming,aim:1.2), gun, h&k hk416,<lora:hKHK416Lora_v20:0.6><lora:emetSelchFFXIVFF14_whiteStreakedHair:1> <lora:cccpPosterStyle_v20:1>

@@ -1,0 +1,5 @@
+solo, extremely delicate and beautiful, front view, beautiful face, perfect face,
+sharp focus, delicate, detailed skin,
+outside, golden hour, 
+( from below, looking down, long pleated skirt, skirt  tug ), wide hips, pussy focus, pussy close-up, hands,
+epiCRealism,  <lora:MS_Real_POVPussyFromBelow_Lite:0.8>. <lora:skirtlift-v4:0.0> <lora:FDHairyPussy:0.5>  <lora:LowRA:0.1> <lora:add_detail:0.3>  <lora:pnx_windyUpskirt:0.0>,  <lora:skirt_tug_v0.1:01.1>,  (low angle), hairy pussy

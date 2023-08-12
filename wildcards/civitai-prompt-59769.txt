@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+<lora:steampunkai10MBLora_10mb:0.9>, steampunkai, a robot achieving human-like consciousness and emotions,  fantasy creature,

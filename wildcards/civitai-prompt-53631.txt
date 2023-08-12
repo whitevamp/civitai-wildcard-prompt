@@ -1,0 +1,3 @@
+Super high resolution, best quality, photos, 4k,
+(Realistic :2), 1 girl, alone, (upper body), up close, silver hair, blue eyes, walking, cityscape
+ <lora:koreandolllikenessV20_v20:1>

@@ -1,0 +1,1 @@
+clpstyle,no humans,green eyes,cat,animal focus,leaf,blush,:3,animal,closed mouth,plant,foliage,outdoors,solo,looking at viewer,whiskers,sunlight,smile <lora:

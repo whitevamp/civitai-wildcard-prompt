@@ -1,0 +1,3 @@
+(photorealistic:1.4, realistic), an extremely delicate and beautiful, extremely detailed, huge filesize, ultra-detailed, highres, absurdres, soft light,
+professional portrait of a girl with huge breasts wearing cute fashionable clothes, ((petite))
+<lora:huge_breasts_for_short_statureV4:0.6>

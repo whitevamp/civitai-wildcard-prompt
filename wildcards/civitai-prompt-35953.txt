@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece, <lora:add_detail:1>,
+0.35 :: medium shot , straight-on shot , from below ,
+1girl, sophitia,  <lyco:Sophitia_LoCon:0.3>,  an extremely beautiful 25-year-old Caucasian milf,   (blonde hair:1.2),  long hair, low-tied_long_hair, hair_ribbon, blue_ribbon,  single_braid, green eyes, shiny skin, flawless skin, fair skin, cleavage, jewelry, wedding ring, (large breasts:1.35), light blush,  solo  , looking at viewer,
+nipples show through the clothes, sweat, seduction, nsfw,
+(The Metallic Monokini: A one-piece swimsuit with a metallic finish, reflecting light and drawing attention to the body, (under2:0.9), (wet:0.5):1.3),
+(  The Alluring Ariel: Dressed as a mermaid, complete with shimmering scales and a flowing tail, she enchants the crowd with her underwater-inspired routine :1.3),
+at dawn ,
+Mt. Olympus ,

@@ -1,0 +1,4 @@
+professional photo of courtney_(total_drama), 1girl, solo, brown hair, brown eyes, freckles, green pants, pants, parted lips, shirt, looking at viewer, medium hair, breasts, dark-skinned female, dark skin, collared shirt, sleeves rolled up, medium breasts, bangs, from above, kneeling,
+detailed skin, detailed eyes, detailed face,
+volumetric light, highrez, masterpiece, best quality,
+<lora:courtney_(total_drama):0.7:MIDD>

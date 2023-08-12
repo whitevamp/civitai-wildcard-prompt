@@ -1,0 +1,1 @@
+switchdog, furry male anthro, dog boy, colored face, (colored body:1.2), portrait, solo, (body fur:1.2), (best quality), (movie theater background:1.2),  (dog food:1.4), dog bowl, dramatic lighting, (detailed fluffy fur:1.1), looking at viewer, (red-blue colored hoodie:1.1), closed mouth, frown,  <lora:switchdog-v1:1>

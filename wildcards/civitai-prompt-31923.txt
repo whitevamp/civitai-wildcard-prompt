@@ -1,0 +1,8 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, pov, large windows, indoors, close up,
+blonde hair, yellow eyes, eyes reflection, beautiful detailed eyes, smile, open mouth, full blush,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+sweat, steam, heavy breathing, (cum, ejaculation:1.2),
+1boy, penis, cuddling handjob, <lora:cuddling_handjob_v0.1b:0>,
+choker, tattoo, sarashi, kimono, topless, yoimiyadef, <lora:yoimiya2_000008:0.75>

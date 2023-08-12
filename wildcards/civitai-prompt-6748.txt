@@ -1,0 +1,1 @@
+(female explorer:1.2) stranded in abandoned factory,GasLampFantasyAI,fcPortrait <lora:NijiExpressV2:0.6> <lora:GasLampFantasyAI:0.8>

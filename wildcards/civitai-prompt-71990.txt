@@ -1,0 +1,6 @@
+ultra detail,
+<lora:add_detail:0.3><lora:MultipleGirlsGroup:0.2>multiple girls, 3girls,(chibi:1.3,dynamic pose), marching, group picture,
+sakura petals, area between river and riverbank, parapet,
+night with a hazy moon, spring breeze,
+from side, looking away,
+(moonlight:0.7),moody lighting,

@@ -1,0 +1,5 @@
+(masterpiece:1.2), (best quality:1.2), (illustration:1.1), (highres:1.1), (ultra-detailed:1.1), (highly_detailed:1.1), an extremely delicate and beautiful, (extremely_detailed_CG_unity_8k_wallpaper, absurdres:1.1), perfect dynamic composition, contour deepening, NSFW,
+
+1girl, beautiful detailed lady, shiny hair, silver hair, hime_cut, long hair, tri_tails, eyebrows_visible_through_hair, hair_between_eyes,,,,,,,,,,,beautiful detailed eyes, blue eyes, cute face, finely detailed face, mole under eye, blush, collarbone, beautiful detailed hands, hands of Guido Daniele, shiny skin, shinartbook, large breasts, illustrious (azur lane), <lora:illustrious:0.5>, half-closed eyes, screaming, (scared:1.2), Open mouth and stick out tongue, Trembling, standing, nude, (restrained:1.2), puffy nipples, sweat, sweatdrop, water drop,
+
+(underwater:1.1), (night, dark:1.1), steam, <lora:coils_v0.1:0.8>, (coils:1.3), (tentacles background, black tentacles, black consensual tentacles:1.2), dynamic angle, look at viewer, (upper body:1.2), (from above, wide shot, perspective), ray tracing, beautiful detailed lighting, cinematic lighting, <lora:细节调整CyberAIchemist:0.3>,

@@ -1,0 +1,2 @@
+Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, excited, smiling, <lora:Nadia:0.35>, Blonde Nadia with sunglasses, choker, leather jacket, walking in the city
+ <lora:dcau:1>

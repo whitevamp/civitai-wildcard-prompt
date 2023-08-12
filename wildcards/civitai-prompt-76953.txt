@@ -1,0 +1,3 @@
+masterpiece, highest quality, best quality, 1girl, solo, looking at viewer,
+uchiha sarada, bare shoulders, black eyes, black hair, blush, red framed glasses, short hair,  <lora:my_UchihaSarada_v2:0.5> micro bikini, armpits, wet body, steaming body, bees,
+lozhkin, grin, accurate teeth with gaps <lora:lozhkin_V1:0.45>

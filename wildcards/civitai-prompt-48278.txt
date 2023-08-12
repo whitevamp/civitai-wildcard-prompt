@@ -1,0 +1,10 @@
+(masterpiece, best quality:1.2),(cinematic lighting), finely detail,
+
+looking at viewer, (full body),
+1girl,solo,jirai fashion with pink blouse and black mini skirt , black hair with pink highlights, pink backpack, white lase socks, black platform shoes, slender,15 years old,
+
+night, street,
+
+
+
+<lora:jirai:0.65>,

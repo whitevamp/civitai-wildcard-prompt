@@ -1,0 +1,1 @@
+nsfw,(realistic:1.5),photorealistic, octane render,hyperrealistic,highquality,photorealisic,ultra high res,high quality,1girl, blindfold, breasts, blonde_hair, black_blindfold:1.2, long_hair, dress, solo, large_breasts, necklace, bare_shoulders, jewelry, white_dress, church <lora:swordmaidenGoblin_10:1>

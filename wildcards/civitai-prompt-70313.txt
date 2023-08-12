@@ -1,0 +1,2 @@
+Multiple_girls, 6+girls, lineup, <lora:LalafellXIV_v1:0.9>, Lalafell, brown hair, green eyes, bob cut, pov, full body, school uniform, classroom, 
+<lora:multipleGirlsGroup_v10:0.7> Standing, graduation ceremony, chibi,

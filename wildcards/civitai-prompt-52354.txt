@@ -1,0 +1,1 @@
+(Realistic:1.5), <lora:helsieVideoGame_v10:0.7>, xyzhelsie, 1girl, purple clothes, skirt, fishnet, shoes, rainbow nails, close up, portrait,

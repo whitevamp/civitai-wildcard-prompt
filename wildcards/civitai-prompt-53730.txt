@@ -1,0 +1,3 @@
+1girl,solo, parted lips,  office lady, business suit ,
+street,outdoors,finger to own chin, looking at viewer, realistic,      
+    <lora:BrieLarson23Apr512-640:0.65>

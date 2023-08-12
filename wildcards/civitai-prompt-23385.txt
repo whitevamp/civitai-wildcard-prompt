@@ -1,0 +1,4 @@
+masterpiece,best quality,simple background,(white background:1.5),multiple views,
+1boy,(beautiful detailed face),(beautiful detailed eyes),
+white t-shirt,white pants,white shoes,shoulder,
+<lora:mw_charturn3:0.3>,(charturnbetalora:0.6),(elon musk:1.1),young,

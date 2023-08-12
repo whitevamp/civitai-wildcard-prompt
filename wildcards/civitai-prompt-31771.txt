@@ -1,0 +1,6 @@
+anthro dog, hisaki, male, furry, solo, bad boy, 
+biceps, pecs, navel, 
+topless, necklace,  jewelry, speedo, looking at viewer,
+by kiyosan, (by Pino Daeni:0.9), anime, masterpiece, hi res, best quality, perfect anatomy,
+water splash, water drops, sunlight, (halo:0.6), detailed background,
+kneeling, teasing,  <lora:111656:1>, <lora:hisakiv2x.safetensors:1>

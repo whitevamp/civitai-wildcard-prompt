@@ -1,0 +1,1 @@
+masterpiece, best quality, rinoa, long red dress, playing the piano, red velvet ballroom <lora:rinoa-nvwls-v2-000010:0.7>

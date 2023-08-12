@@ -1,0 +1,4 @@
+isometric, stone garden, enchanting, magical, dragon,
+<lora:methurlant:1> methurlant, 
+<lora:AllPunk:0.25> AllPunk,
+<lora:add_detail:1> <lora:add_sharpness:1> <lora:tangbohu-detailer_1.0:1> <lora:epiNoiseoffset_v2:1> <lora:ChineseDragon_v01:1>

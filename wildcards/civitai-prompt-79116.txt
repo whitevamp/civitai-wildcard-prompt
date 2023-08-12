@@ -1,0 +1,13 @@
+buhanka, 1girl, red hair, helmet,
+,
+upper body,
+,
+looking at viewer,  
+angry,
+depth of field,
+,
+short hair,
+ <lora:buhanka-000030:1> 
+, 
+,
+<lora:style_ balenciaga:1> balenciaga , (masterpiece, best quality), intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus

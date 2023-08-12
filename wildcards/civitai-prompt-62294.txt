@@ -1,0 +1,1 @@
+{a man wearing white armor with white cape fighting}}, {{masterpiece}}, best quality, extremely detailed CG unity 8k wallpaper, cinematic lighting, lens flare, beautiful detail eyes, full body, black, multicolor hair, colorful light particles, heterochromia, (colorful:1.5), (colorful hair:1.5), <lora:beautifulDetailedEyes_v10:1>, <lora:lightAndShadow_v10:0.1>

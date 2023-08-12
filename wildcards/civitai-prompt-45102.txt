@@ -1,0 +1,10 @@
+(city_night_lights,cityscape,
+office lady,white coat,white_miniskrt,pantyhose),
+ ,hand in own hair,
+tight white gloves,
+from above,
+(looking away), 
+(parted lips),happy,
+smile,(detailed eyes,bright pupils),shiny skin, skindentation,
+<lora:hipoly3DModelLora_hiqcgbody:0.35> hiqcgbody,big eyes,unparalleled masterpiece, ultra realistic 8k CG, clean, beautiful face, shiny skin,(skindentation),
+by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, <lora:aiBeauty_Ithlinni_V1:0.6> Ithlinni

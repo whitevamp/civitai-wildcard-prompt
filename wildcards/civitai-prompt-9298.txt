@@ -1,0 +1,1 @@
+(masterpiece, top quality, official art:1.2), (flat color:1.5),(colorful),looking at the viewer,1girl, solo, white background, floating colorful water,(2D:1.5) <lyco:GoodHands-beta2:0.8><lora:onelastlastcogecha:0.3> <lyco:hito_loha_v2b:0.2><lyco:GPTS4 dreamwave full_478773:0.1> <lora:breastinClass:0.2> <lora:add_detail:0.4> <lora:zyd232_ChineseInkStyle_v1_0:0.2>

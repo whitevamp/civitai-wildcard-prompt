@@ -1,0 +1,1 @@
+(masterpiece, high quality,best quality, extremely detailed, high resolution:1.1),  <lora:SaltBaeMeme:1> , <lora:YaeMikoFox:0.7> ,(YaeMikoFox salt SaltBaeMeme sunglases:1.2), (small aquarium with fishes on table:1.2)

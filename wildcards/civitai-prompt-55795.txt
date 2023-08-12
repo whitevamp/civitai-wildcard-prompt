@@ -1,0 +1,1 @@
+3d render, cgi, symmetrical, octane render, hdr, (hyperdetailed:1.15), (soft light, sharp:1.2), rainbow painting drops, paint teardrops, woman made up from paint, entirely paint, splat, splash, long hair, kimono made from paint, detailed texture kimono, underwater, water bulb, phone, cellphone, smartphone, holding, nsfw, <lora:photoComparisonBETA_v10:.8>,Photo Comparison

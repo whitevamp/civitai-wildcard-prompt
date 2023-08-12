@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, tatsumaki, flat chest, petite, high waist skirt, pencil skirt, long sleeve white silk shirt, (frilled shirt), puffy sleeves, city, modeling, high contrast, dramatic lighting, <lora:GoodHands-vanilla:1> <lora:tatsumakiselect:0.5>

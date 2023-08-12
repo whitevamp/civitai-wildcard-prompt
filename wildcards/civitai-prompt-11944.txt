@@ -1,0 +1,5 @@
+(best quality), (masterpiece),(ultra-detailed:1.2),
+1girl,(angry:1.1),Scramble,greedy,
+ <lora:fondle_by_hands_lora01:1>   ,(grabbing:1.1),6+boys,multiple boys,, 
+(banknote:1.3),treasure,(gold coin:1.1),many coins,treasure trove,(coins:1.2),(jewelry:1.1), (treasure box:1.1),
+ <lora:flat2:-0.5>,

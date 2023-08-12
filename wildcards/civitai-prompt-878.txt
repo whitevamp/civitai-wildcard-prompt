@@ -1,0 +1,1 @@
+<lora:SteampunkSchematicsv2-000009:1> SteampunkSchematics, skull, construction lines, handwriting, calligraphy, filigree, measurements, <lora:skulls00d-000012:.8>, ultra detailed, Hyperrealistic, sharp focus, octane render

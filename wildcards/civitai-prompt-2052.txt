@@ -1,0 +1,5 @@
+photography,diffused soft cinematic lighting,  masterpiece, best quality, 8K, HDR, highres, (absurdres:1.2), (film grain1.1), blurry background, (bokeh:1.2), lens flare, (vibrant color:1.2),
+A young woman stands on a weathered wooden dock extending over a still mountain lake at dusk. 
+delicate face, intense eyes, compassionate eyes,light_smile,
+Dressed in cutoff denim shorts and a loose white tank top, she gazes pensively over the glassy waters with hands in her pockets. Her long honey-blonde hair glows in the golden light of the setting sun. A sense of peace and solitude pervades this high alpine scene at day's end as the sky fades into pastel hues and the loons begin their plaintive calls,
+filmg, <lora:FilmG4:0.7>

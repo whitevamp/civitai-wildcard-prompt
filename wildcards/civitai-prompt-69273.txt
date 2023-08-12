@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, naked towel, (aroused:1), (lovestruck:1), (full-face blush:0.75) looking at viewer, black hair, wet, steam, shiny skin,  <lora:towelConv2D2.5e-5_BF16:1>, large breasts, shiny hair,  <lyco:GoodHands-beta2:1.0>

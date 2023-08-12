@@ -1,0 +1,3 @@
+keqing \(genshin impact\),<lora:keqingGenshinImpact3in1_v10:1>
+pantyhose, hair bun, purple hair, gloves,((twintails)), long hair, purple eyes, diamond-shaped pupils, bare shoulders, hair ornament, black pantyhose, cone hair bun, detached sleeves,dress, jewelry, medium breasts, earrings, bangs, frills, purple dress, black gloves, braid, skirt, smile, blush, 
+ <lora:onOffLora_v326:1> nude, completely nude

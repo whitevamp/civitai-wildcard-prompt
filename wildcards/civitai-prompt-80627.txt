@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.2>, <lora:concept_changeACharacter_Succubus_(SuccubusT):0.8>, SuccubusT, horns, wings, <lora:character_harunoSakura_ByKonan_(haruno sakura):0.6>, haruno sakura, adult, pink hair, glowing green eyes, long hair, low angle, looking at viewer, pink lipstick, parted lips,  fangs, predatory grin, slit pupils, 
+(1girl, solo),  <lora:concept_cateyes_(cateyes):0.7>, cateyes,

@@ -1,0 +1,3 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,solo,
+tied_wrist, solo, white hair, gloves, 1girl, upper body, boots, fingerless gloves,arms up, (chain:1.1), (bound:1.2), restrained, sleeves rolled up, cuffs, handcuffs, (chained:1.2), breasts, sweat, dark room, (window:0.5),(blank smile:1.2),(empty eyes:1.2),(blank eyes:1.2),blood on face,cuts,(hypnotized:1.2),simple background, black background,(torn clothes:1.2), (nipples:1.2), hypnoLora,teeth,against wall, tank top,blush, naked shirt, hickey,
+<lora:lowRA:0.4>  <lora:hypnoLora8-000012:0.8>,<lora:tied_wrist-07:1> <lora:hickey-10:1>

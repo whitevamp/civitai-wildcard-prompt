@@ -1,0 +1,1 @@
+mountain,(grainy:0.7), (masterpiece:1.0), (extremely detailed:1.0), illustration, dark lighting,

@@ -1,0 +1,2 @@
+8k,(best quality), (masterpiece:1.2), (realistic), (photorealistic:1.4), ultra-detailed, 1 girl,detailed face, (white shirt short sleeve), (black pencil short skirt), black hair, blue eyes, ((modern city background)), (stands straight), ((thin female body, skin dentation)), thin body, large breasts,breasts,open chest,partially unbuttoned, narrow waist, smile,thin legs, sexy legs, ((black pantyhose)),((in the night)),moon,
+ <lora:shojovibe_v11:0.2> ,<lora:tifosemix_v1064s:0.2> ,<lora:cuteGirlMix4_v10:0.2>,

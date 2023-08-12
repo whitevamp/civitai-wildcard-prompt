@@ -1,0 +1,1 @@
+gman sitting at a table, eating lobster at an expensive restaurant withLora(n47-v1-hl-gman-lofi,0.8) withLora(_add_detail,0.75)

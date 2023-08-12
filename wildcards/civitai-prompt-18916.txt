@@ -1,0 +1,5 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,Under Cut, ,huge breasts,<lora:Tsurime3:1.5>
+BREAK
+tight long dress,pencil skirt,pantyhose,high heels,depth of field,looking at viewer,((standing on the Volleyball beach: Sand, net, spikes, suntan, beach volley)),((full body))
+BREAK
+day,sun,rainbow,((cumulonimbus)),from above:1.2,<lora:more_details:0.3>,<lora:Tsurime3:0.5>

@@ -1,0 +1,3 @@
+female, merchant, shrewd, observant eyes, weathered faces, silver-threaded hair, mercantile, adventurous, tired, scales, practical coverage, linen,camel, Silk Road era, marketplace, prosperity, trade, market scene,
+solo,(nsfw:0.9),(wide hips:0.3),thighs,
+ <lora:OC:0.2>  <lora:LowRAv2:0.4>

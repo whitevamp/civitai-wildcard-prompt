@@ -1,0 +1,6 @@
+((best quality, highest quality, masterpiece, absurdres, high resolution, 8k uhd, super resolution, megapixel, ultra realistic, clean picture, smooth picture, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details)), ((presenting)),
+dragon girl,  (female, (dragon)),(white skin, scales skin, beautiful scales texture, stripes, scales, white scales, (body covered in scales)), claws, (looped horns, curved horns), long ears,
+white hair, long hair,
+beautiful face, detailed face, sharp face, jawline, detailed eyes, expressive detailed eyes, detailed pupils, long eyelashes, dark eyelashes, full eyebrows, full lips, mascara, eyeliner, makeup, blue eyes, blue lipstick, 
+huge breasts,
+hands behind head, lying on back, view from above, breasts falling aside,  <lora:breasts_falling_aside-V01:1>

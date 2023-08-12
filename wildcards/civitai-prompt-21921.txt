@@ -1,0 +1,3 @@
+(masterpiece, best quality, detailed), 1girl, solo, outdoors, rooftop, day, cityscape, blue sky, cloud, scenery, railing,
+squatting, purple panties, smile, parted lips, spread legs, hair bun, glasses,
+shiraki meiko, (mami outfit) <lora:MadokaCostumePackV1_2:1>  <lora:more_details:0.3>   <lora:ShirakiMeikoV21-000004:1>

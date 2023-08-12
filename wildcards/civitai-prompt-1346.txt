@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), ((realistic)), (detailed), young female spider gwen, gwen_stacy, freckles, blonde hair, short hair, blue eyes, body suit, bent over, wearing spider gwen costume, wearing hood, looking at the viewer, cute smile, detailed background, rooftop at night <lora:spider_gwen:1>   <lora:gwen_stacy_v1.1:0.5>

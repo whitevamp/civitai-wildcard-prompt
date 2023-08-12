@@ -1,0 +1,2 @@
+masterpiece, high quality, aesthetic, 1980s, (old analog film photography), analog, film grain, (grainy texture:0.8), light leak, (vhs video), color shift, (soft focus:0.6), faded contrast, (blurred background:0.4), (chromatic aberration:0.4), (dust and scratches:0.4) <lora:saturation:0.8>, <lora:FilmVelvia3:0.6> BREAK
+(upper body:1.4), looking at the viewer, European, 48yo handsome daddy, short grizzled unshaven beard, short grizzled hair, thin lips, (topless), jeans, leaning against a wall

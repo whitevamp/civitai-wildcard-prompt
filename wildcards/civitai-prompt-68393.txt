@@ -1,0 +1,1 @@
+presentass,, jar jar binks, Beautiful Art Style, 1girl, young woman, looking at viewer, buzz cut, frozen lakeside,  <lora:jarJarBinksGunganStar_v3:0.7>,  <lora:presentass:0.5>

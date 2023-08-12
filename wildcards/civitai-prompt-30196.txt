@@ -1,0 +1,1 @@
+(masterpiece, vibrant, detailed, highres:1.2), 1girl, kamado nezuko, bit gag, gagged, full body, outside, sitting down, (wariza), from above, (aqoutfit), <lyco:GoodHands-beta2:1.3>, <lora:KonosubaCostumePackV1_5:1>, <lora:kamado_nezuko_offset:0.8>

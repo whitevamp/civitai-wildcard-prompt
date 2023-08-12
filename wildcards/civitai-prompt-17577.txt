@@ -1,0 +1,3 @@
+<lora:add_detail:0.5> <lora:copax_charm_eu:0.0> (1girl,3d, photorealistic,masterpiece, best quality), amused, from back, seductive pose, in a garage,
+1girl,solo,short hair, breasts, pants, sleeveless,brown hair, sleeveless, closed mouth, bare shoulders, white turtleneck,toned
+ <lora:Annie:0.9>

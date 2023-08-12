@@ -1,0 +1,3 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,long hair, pink bra,(pink g-string),navel,bare shoulders, outdoors, poolside, depth of field, looking at viewer, (open mouth:0.6), necklace, day,
+<lora:add_detail:0.5>, <lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

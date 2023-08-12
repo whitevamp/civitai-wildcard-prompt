@@ -1,0 +1,1 @@
+highres ,1girl,  <lora:Chinese style_20230607154437-000017:0.7>, <lora:rain_style:0.8>, rain style, sunlight, light, puddle, beautiful lighting, blowing, reflection, autumn leaves, maple leaf, red particles, from behind, white hair, depth of field, forest, very wide shot,

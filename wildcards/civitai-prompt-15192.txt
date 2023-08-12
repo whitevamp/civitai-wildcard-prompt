@@ -1,0 +1,9 @@
+(one male) (1boy) (top view) (full body).
+Very detailed manly face, detailed realistic open eyes, (huge muscles), (huge pectorals), narrow waist, (long hair), (nude) (completely naked), large penis, glans, frenulum, large balls, (male pubic hair:1.25), anus, butthole. (orgasm face:1.3), (looking pleasured:1.3)
+(nsfw), lying, open legs, arms up, struggling, dominated, (bind:1.3), (tentacles_optimize:1.5), huge green tentacle in ass, (achieve anal penetration). (cum dripping from penis:1.2) (cum on legs) (cums on chest) (bukkake) (cum overflow) (excessive cum)
+Set in a swamp, with dense foliage, dark water.
+Dimly lit. High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light.
+<lora:BeautifulEyes:0.9>
+<lora:tentacles optimize_20230624233605:0.4>
+<lora:Bukkake:0.7>
+<lora:snowlight:0.7>

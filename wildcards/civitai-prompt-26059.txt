@@ -1,0 +1,13 @@
+(27 years old beautiful gorgeous cute european woman:1.1)
+flirting with the camera, beautiful face, (perfect skin), (perfect eyes)
+(harness:1.2), ( Tight-fitting latex bodysuit) , (glossy finish), latex, (cropped jacket),shiny skin, porcelain skin
+(cyberpunk:1.2), futurist, (character profile),
+(small ass),(long legs),(small breasts), wet,
+sitting with legs apart, legs pose, 
+perfect proportions, 
+single mechanical arm, artificial life, genetic engineering, bionics, assault rifle, sniper rifle :1.2),
+sexy, charming, alluring, seductive, erotic,
+dark background, inside, (minimalist:1.5),
+wide angle, (close-up), (wide shot),
+(highly detailed), masterpiece,best quality,(Depth of field),detailed shadows,sharp focus, (double exposure:1.5), highres, (perfect ligthing), (rim lighting),,dramatic lighting,(dark shadows),HDR,RAW photo,(film grain:1.1)
+<lora:add_detail:0.2> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.2> <lora:reflect:0.2>

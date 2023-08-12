@@ -1,0 +1,4 @@
+8K, (best quality:1.3), (masterpiece:1.3), (detailed:1.2), distinct image, (Cowboy shot),
+BREAK
+Solo, looking at viewer, Rectangle-Shaped Hourglass body, Long face, Low Ponytail Bright Copper hairs, Indigo eyes, Printed Fit and Flare Dress
+natural volumetric lighting, Artistic Background,

@@ -1,0 +1,5 @@
+hmcf, long hair, antlers, branch, braided bangs, hair flower, (yellow eyes), large breasts, jewelry, dress, cleavage, wide sleeves, green flower, single thighhigh, white thighhighs ,green hair,
+lifelike, desire,nsfw,
+Soothing Ambiance, Muted Hues, Gentle Warmth,,
+beautiful and aesthetic, masterpiece, best quality,
+ <lora:ceres_fauna_v2:1:CLOTHING>

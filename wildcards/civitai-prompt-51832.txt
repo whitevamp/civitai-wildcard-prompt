@@ -1,0 +1,1 @@
+sam yang style (masterpiece, best quality:1.1), pxint, Ted Lasso man, detailed eyes, portrait, beautiful, looking at viewer, droplets, Gold (Crayola), sparkle, bubble, flowing, with a splash of paint, (abstract:0.8) <lora:coachsCoachTedLasso_v10:0.75>  <lora:samdoesartsSamYang_offsetRightFilesize:1> <lora:abstractPortraits_v1:0.75>

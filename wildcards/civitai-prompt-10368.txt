@@ -1,0 +1,2 @@
+1 girl, chinese_clothes, sitting, in white and pink,cyberhanfu, Cheongsam, cyberpunk city, dynamic pose, Headdress, hair ornament, long hair, cyberpunk, a high-tech city, full of machinery and futuristic element, futurism, technology
+<lora:cyberhanfu_20230617014620-000010:0.8>

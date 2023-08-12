@@ -1,0 +1,9 @@
+<lora:virtualgirlRin_v30:0.3>, <lora:upshirtUnderboob_v10:0.5>,
+(RAW photo:1.2),(photorealistic:1.6),(masterpiece:1.3),(best quality:1.4), HI-RES, HDR,8k resolution, check commentary, (intricate details:1.6), (volumetric light),  random place,
+1girl, full body,looking at viewer, (sexy lady:1.6), (looking down:1.7), (wind:1.4), (close up:1.6), walking in street,
+(beautiful face:1.9), (detailed face:1.6), (detailed bright eyes:1.5), (eyelashes:1.4), (smiling:1.6), (detailed hair),(cleavage: 1.5),   (narrow waist:1.6),
+(strong and toned abs:1.4), (feminine and muscular),  (realistic human skin:1.6),
+(detailed eyes),(detailed facial features), (detailed clothes features),
+groin, off-shoulder_shirt,( bras),(cleavage), pubic hair,
+(choker), (necklace), (earrings), (thigh choker), (belt),  (bracelet)
+ ( PureErosFace_V1:1.3)

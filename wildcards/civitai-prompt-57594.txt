@@ -1,0 +1,1 @@
+a t800 cyborg with handguns walking through factory ruins, indoors,train station,spotlightes,photorealistic, realistic, dark, horror, frightening, (glowing red eyes:1.0), t800, cyborg, very wide shot,<lora:t800_v10:0.6> <lora:factoryRuins230422:0.7>

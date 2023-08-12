@@ -1,0 +1,1 @@
+masterpiece, best quality,1man, mature,Mature man,<lora:DingZhenLora:1>, tibetan clothes,{{Square face}},Brown skin,Slightly rough skin,farmer,

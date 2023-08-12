@@ -1,0 +1,2 @@
+a man with a muscular body, looking at the camera, abs, full body
+1male, naked, (in a black thong:1.3), in a cloak with a hood, (mask and glasses:1.3),  in full growth, hands spread apart, (black pubic hair:1.2), in the city, broad shoulders, narrow waist,atmospheric, garbage bags nearby <lora:add_detail:1.3> <lyco:GoodHands-beta2:1.0> <lora:adam_TGIRL_e16_n32:1>

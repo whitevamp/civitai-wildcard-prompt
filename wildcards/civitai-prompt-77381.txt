@@ -1,0 +1,1 @@
+1 girl, full body, looking at viewer, solo, cloud and montain <lora:zydink:0.6>zydink, monochrome, ink sketch, floating hair, hanfu, chinese clothes, long sleeves, (abstract ink splash) <lora:zhongfenghua:0.5>zhongfenghua, dynamic angle

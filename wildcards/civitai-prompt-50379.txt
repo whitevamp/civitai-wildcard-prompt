@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12E 16Dim Locon Cosine3:0.8>,<lora:pillory_v10:0.9>,pillory, flail,<lora:sukebraSeeThroughBra_sukebraBsbFsb:0.4>,fsb,frosuke,shirt

@@ -1,0 +1,1 @@
+1girl,solo,blush,pov,from below,  <lora:PovFromBelowV1:1>,closed mouth,  side ponytail, red_bow,(yellow cardigan)

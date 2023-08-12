@@ -1,0 +1,6 @@
+(Masterpiece, Best Quality, Highres:1.2), Detailed, Intricate Details, 4K, 
+(puzzle (kadath):1.2), 1girl, large breasts, furry female, solo, furry, animal ears, shirt, (black bra, black sports bra:1.2), covered nipples, cleavage, earrings, jewelry, orange skin, parted lips, orange eyes, colored skin, pointy ears, choker, orange hair, red hair, long hair, (hair over one eye:1.2), sitting, (yoga, spread legs:1.2), stretching, barefoot, big eyes, anime, smile, looking at viewer,(curvy:1.2), plump, 
+eqcok, (erection, huge erect penis, huge penis, huge testicles:1.2), cock sheath,
+outdoors, beach, plants, sand, sea, ocean, waves,
+ <lora:puzzle_(kadath):0.8>
+ <lora:Erect Horse Penis:1>

@@ -1,0 +1,1 @@
+onoff, side-by-side photo, 1girl, short hair, cowboy shot, detailed beautiful face, smile, bangs, r masterpiece, high quality, (ultra highres), soft lighting,  <lora:onoff_alter:1>

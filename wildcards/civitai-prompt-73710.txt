@@ -1,0 +1,1 @@
+Classical art painting of sks woman  <lora:locon_anya:1.3>, in the style of ((John Reinhard Weguelin)), academic art, (realism), oil on canvas <lora:danny:0.3> <lora:monet-wd14v10:0.3>

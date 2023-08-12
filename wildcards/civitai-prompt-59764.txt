@@ -1,0 +1,1 @@
+1girl,druid,leaf clothing,(wood staff),(energy flow:1.2),horns,gorgeous,ornate, beautiful,looking at viewer,forest,perfect lighting,circlet (masterpiece, high quality:1.2),  <lora:NonHentaiElf_v10:0.9>

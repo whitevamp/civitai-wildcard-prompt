@@ -1,0 +1,1 @@
+masterpiece, best quality, 8K, colorful, high detail, wallpaper, colorful, male focus,1boy,solo,red eyes,grey hair,smile, white shirt, Kaworu Nagisa, <lora:nagisa_kaworu:0.8>,  <lora:GPTS4 dreamwave full_478773:1>, (( full body)), gears, matter, <lora:add_detail:0.9>

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), solo, 1girl, kisb, colored skin, red skin, smile, looking at viewer, claw pose, yellow eyes, glowing eyes, colored sclera, no pupils, eyepatch, naked bandage <lora:KilliSubverse_V1-Manityro-outfit:0.8> <lora:attire_nakedbandage-12:1>

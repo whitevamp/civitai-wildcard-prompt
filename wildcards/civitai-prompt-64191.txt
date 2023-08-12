@@ -1,0 +1,5 @@
+[pale skin], (( white hair)) ,(red eyes),(girl),(small breasts) , white skirt,((red cloak)), ((white shirt))，Red ribbon , black corset ,slim,(long hair)，(blush) ,upper， sexy poses，[[smile]],[expressionless],
+,(solo),look at viewer,(((simple background)))，((close up))
+,
+
+<lora:pixel_f2:0.5>

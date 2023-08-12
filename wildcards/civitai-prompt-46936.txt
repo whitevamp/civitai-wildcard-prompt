@@ -1,0 +1,8 @@
+[(white background:1.5)::5], (bottle bottom:0.9), masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, extremely detailed face, breastsout <lora:breastsOutExposed_24:1>, 1lady, solo, exposed breasts
+Appearance: milf:1.25, slender:1.3, green eyes, small breasts, flat chest, sharp eyes, hearts in pupils, sweat
+Clothing: green maxi dress
+Accessories: simple hoop earrings, (nipple ring:1.3), <lora:nipplePiercing_v20:0.7>
+Hair: (long blonde hair), messy hair, public hair
+Makeup: natural, glowing skin
+Behavior: (smiling:0.7)
+Location: dreamy landscape, with grassy hills and soft billowing clouds in a clear blue sky. The sun is shining brightly in the sky, casting a warm and inviting glow over the entire scene, with scattered clouds drifting over the white crested ocean waves. In the foreground, tall grass sways in the calm afternoon breeze. Sunny seaside cliffs overlooking the ocean on a beautiful summer day.

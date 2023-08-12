@@ -1,0 +1,7 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), highly face and eyes,
+BREAK,
+<lora:minotaur:0.9>minotaur, monster, tail, bipedal
+, terryfing,
+<lora:more_details:0.5>
+BREAK
+dark lighting, forest

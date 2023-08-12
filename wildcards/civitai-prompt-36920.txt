@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:Taki-10v3:0.8>  long brown hair, ponytail, 
+<lora:towel_over_breasts_v0.1:0.8> nude, large breasts, convenient censoring,towel over breasts

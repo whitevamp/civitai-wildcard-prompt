@@ -1,0 +1,1 @@
+<lora:froggy-model:1>

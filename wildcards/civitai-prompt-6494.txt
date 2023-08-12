@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), dim lighting, 8k, 1girl, (full body shot:1.2), medium breast, fit and petite body, short hair, black hair, looking at viewer, (cross-legged position:1.2), sitting on table on table,
+ <lora:glaringV_Conv2D:0.85>, glaring, military jacket, black pantyhose, infantry boots, (angry facial expression), view from below,
+military office,

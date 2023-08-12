@@ -1,0 +1,2 @@
+cptsmollet, highres,  solo, white hair, (big nose:0.5), wig, victorian, parody, hat, realistic, studio lighting,
+<lora:cptsmollet1-step00005000:1>, (masterpiece, best quality), intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus

@@ -1,0 +1,3 @@
+masterpiece, best quality, <lora:Gwen-10:1> ,
+
+Gwendolyn_Tennyson, 1girl, solo, (wet, rain, outdoors, cold, trembling,  :1.1) , annoyed,  head tilt, full body,

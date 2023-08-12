@@ -1,0 +1,1 @@
+1girl, hourglass figure, two-tone hair, skinny jeans, tank top, night, blacklights, botanical garden,  dark theme, <lora:Squeezer2:-0.7>, <lora:breastinclassBetter:0.3> , <lora:uv:1>, <lora:LowRA:0.7>

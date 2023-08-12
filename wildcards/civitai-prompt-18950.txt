@@ -1,0 +1,5 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,wavy hair, ,large breasts
+BREAK
+tight long dress,pencil skirt,Folded Socks,converse,depth of field,looking at viewer,((lying on the Bar: Drinks, bartender, cocktails, socializing, atmosphere)),((full body))
+BREAK
+day,sun,rainbow,((cumulonimbus)),from above:1.3,<lora:more_details:0.3>,<lora:Tsurime3:1>

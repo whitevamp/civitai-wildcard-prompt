@@ -1,0 +1,15 @@
+masterpiece, best quality, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, kissing, sitting on desk, sitting side by side, bookshelf, indoors,
+blue hair, long hair, green eyes, eye reflection, bright pupils, beautiful detailed eyes, full blush, tongue, drooling, nervous, head tilt, facing another, looking at another,
+large breasts, nipples, long nipples, nipples erection, small areolae, nipple to nipple,
+sweat, steam, heavy breathing, topless, bottomless,
+faruzandef, <lora:faruzan1-000009:0.75>
+AND
+masterpiece, best quality, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, kissing, sitting on desk, sitting side by side, bookshelf, indoors,
+blue hair, long hair, yellow eyes, eye reflection, bright pupils, beautiful detailed eyes, full blush, tongue, drooling, nervous, head tilt, facing another, looking at another,
+large breasts, nipples, long nipples, nipples erection, small areolae, nipple to nipple,
+sweat, steam, heavy breathing, topless, bottomless,
+bandana, layladef, <lora:layla1-000010:0.75>

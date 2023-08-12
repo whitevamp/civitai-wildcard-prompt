@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3),extremely high detailed, intricate, 8k, HDR, wallpaper, cinematic lighting ,(universe), glowing, armor, glowing eyes, mecha, large wings,  <lora:CircuitBoardMecha:1>, stars,  <lora:epi_noiseoffset2:1>, ((Art Nouveau)),  <lora:add_brightness:0.3>

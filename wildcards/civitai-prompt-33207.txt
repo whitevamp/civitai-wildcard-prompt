@@ -1,0 +1,7 @@
+(best quality, masterpiece:1.2), photorealistic, ((ultra res)), front lighting, intricate detail, exquisite details and textures, 4k res, film grains, (RAW photo, best quality), (realistic, photo-realistic:1.2), (Masterpiece), 8k, best quality, ultra-detailed, low lighting, cinematic lighting, cinematic bloom,(Cannon EOS 5D MARK III, 50mm Sigma f/1.4 ZEISS lens, F1.4, 1/800s, ISO 100), 
+<lora:more_details:0.6>
+<lora:epi_noiseoffset2:0.5>
+<lora:add_detail:0.6>
+ <lora:anxiang:0.6>
+ <lora:FilmVelvia3:0.6>
+1girl, (full body),(flower:1.3),

@@ -1,0 +1,4 @@
+pretty, women, sexy face, yellow eye,  white hair,
+slim body, sexy pose,   <lora:Niji:0.6>,  pink bodysuit, mecha, neon light, LED
+night city in background, view from above,
+high quality, realistic, beautiful light, full detail,

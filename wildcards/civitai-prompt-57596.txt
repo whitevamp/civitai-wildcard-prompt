@@ -1,0 +1,7 @@
+masterpiece, best quality,
+1girl, solo,
+(garden:1.2),
+<lora:shizuma_lora_v1-000014:1>
+upper_body, <lora:shimakazeKancolle_v133:1>, shimakaze,
+blonde hair, striped thighhighs, microskirt, elbow gloves, sailor collar, anchor hair ornament, highleg panties, black panties,
+robot, turret, lifebuoy,

@@ -1,0 +1,5 @@
+(masterpiece),(intricate details),1boy,young girl,smile,huge breasts:1.5,Cleavage
+BREAK
+<lora:shiranui maiV1:0.8>,shiranui mai, brown eyes,((very long hair)), brown hair, white ribbon, sleeveless, ponytail, sash, pelvic curtain, arm guards, gloves, tabi,((barefoot))
+BREAK
+day,sun,rainbow,((cumulonimbus)),looking at viewer, from above:1.4, ((full body))

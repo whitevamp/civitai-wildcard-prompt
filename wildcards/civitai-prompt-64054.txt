@@ -1,0 +1,1 @@
+(close-up portrait photo of Emily as a 42 y.o. operating room nurse) (wearing scrubs, scrub cap, surgical mask, flashing breasts, naked:1.1) (operating room) (dark and moody light:1.2) <lora:shirtliftALORAFor_shirtliftv1> <lora:epi_noiseoffset2:1>

@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+ <lora:teslapunkai_v20:0.9>, teslapunkai, fantasy artifact, on the sea,  colony ship,

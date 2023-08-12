@@ -1,0 +1,15 @@
+Aesthetic: ((sci-fi, futuristic, technology, space, aliens, imagination):1.4)
+BREAK
+Composition: <lora:OnALeash-v2:1.1> 1girl on a leash, solo, being pulled toward viewer by chain, (leashed, leash collar around neck, chain connected to collar, (long chain, thick chain, wide chain), thick chain leash going around womans neck, perfect breasts, looking at viewer), bdsm, pretty face, perfect face, perfect eyes, looking at viewer, kneeling, on knees, hanging breasts, view from above
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

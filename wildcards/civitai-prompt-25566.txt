@@ -1,0 +1,4 @@
+(best quality:1.2), (masterpiece, intricate detail), dark theme, cinematic, dramatic,
+indoors, a photo of modern and chic design architecture in Rented room at night,  
+1 girl, perfect face, delicate face, makeup,  sleeveless, camisole, thong, hair bun, 
+<lora:LowRA:0.4>,

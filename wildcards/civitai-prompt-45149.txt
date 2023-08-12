@@ -1,0 +1,8 @@
+masterpiece, best quality,ultra detailed,extremely detailed face,
+1girl,solo,
+
+lounging, a silky and luxurious robe in a deep red color, a glass of wine in her hand, relaxing on a plush sofa in front of a roaring fireplace with a content expression on her face
+
+
+
+ <lora:ithlinni__v1:.9>

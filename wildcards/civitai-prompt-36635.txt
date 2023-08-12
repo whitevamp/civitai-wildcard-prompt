@@ -1,0 +1,1 @@
+<lora:65_NemuManaka:0.8> <lora:BondageOutfitV1:0.6>1girl, bondage, back ground gray room,  <lora:add_detail:0.4>, looking at viewer <lora:Ballgag:0.6>, high detailed eyes, high detailed iris, hight detailed face, ballgag, tears, above the waist photo

@@ -1,0 +1,1 @@
+(masterpiece, best quality, highres, absurdres, ultra-detailed, photorealistic:1.2), <lora:MisaAmaneV2:0.8>(Misa Amane, red eyes, shy, blonde hair, cross necklace, gothic, lace, woman), (sitting at desk, writing, diary:1.6) <lora:LowRA:0.6> <lora:add_detail_v1:0.85>

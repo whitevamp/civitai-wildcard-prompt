@@ -1,0 +1,8 @@
+(masterpiece:1.2),best quality,illustration,beautiful detailed girl,
+1woman sitting on (green beach towel:1.07),
+(looking at viewer),(sweat:1.2),closed mouth,smile,
+blonde long hair, medium breasts,blue eyes,
+(wet:1.2),(wet u883 school swimsuit:1.16),
+nsfw,
+(poolside:1.2),(wariza:1.14),
+<lora:u883schoolswimsuit_v15:0.3>

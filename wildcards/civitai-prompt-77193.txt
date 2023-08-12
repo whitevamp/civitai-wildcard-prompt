@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.4), absurdres, [:intricate details:0.2], hyperrealistic, vintage photo, kkw-ph1,
+1 girl, adult (elven:0.7) woman, freckles, ruby eyes, blonde waterfall braid,
+portrait, solo, upper body, looking down, detailed background, detailed face, (<lora:GlowingRunesAIV3:0.6>, GlowingRunesAI_green theme:1.1) glowing eyes, (time wizard:1.1),   infinite geometry, swirling patterns, (style-swirlmagic:1.0),  clockwork, clock gears, sands of time,  dynamic pose, bloom light aura, clock-face in background, epic atmosphere,
+<lora:add_detail:1>

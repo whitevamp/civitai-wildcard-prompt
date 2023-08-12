@@ -1,0 +1,3 @@
+masterpiece, high quality, highres, detailed,comics,funny,
+goose,sunglasses, black jacket, (close-up:0.6), a goose wearing black jacket and sunglasses,
+neighborhood,leaf, streets,day, <lora:add_detail:-0.2>

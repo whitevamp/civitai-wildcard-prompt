@@ -1,0 +1,3 @@
+best quality,highly detailed,masterpiece,ultra-detailed,
+1girl,blue eyes,1girl, red eyes, (gwen (League of legends):1.5), black bow, black gloves, black legwear, (blue hair:1.4), bow, collarbone, dress, drill hair, frilled dress, frills, hair ornament, highres, gloves, league of legends, long hair, parted lips, puffy sleeves, pink pupils, smile, solo,  white dress, x, x hair ornament, holding her blue big scissors, battle posicion
+<lora:helltakerLora_10:0.65>,  <lora:gwenFromLeagueOf_gwenLolV1:1>

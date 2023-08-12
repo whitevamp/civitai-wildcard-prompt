@@ -1,0 +1,2 @@
+fine art photo of sks woman, medieval dress, in a village, smiling, happy
+ <lora:lora_natalie_v1_from_v1_160:1>

@@ -1,0 +1,1 @@
+masterpiece,1girl,solo,very long white hair,mecha musume,mechanical arms, headgear,bodysuit,  <lora:aMechaMusumeA_arc:1>

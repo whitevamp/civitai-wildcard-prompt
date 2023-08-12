@@ -1,0 +1,1 @@
+<lora:RocksEyebrowRaise:0.95> RocksEyebrowRaise, portrait, raised eyebrow, thick eyebrows,  <lora:Bigbird:0.3> Bigbird,  1 yellow mascot

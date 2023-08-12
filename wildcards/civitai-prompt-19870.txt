@@ -1,0 +1,2 @@
+1 man, [1 girl::10], DallasPD wearing his mask, (posing for a wedding photo with a [girl in a red dress:big red medic bag with a white cross logo:10]:1.2), wearing a brown jacket, open jacket, necktie, suit, formal, gloves, surrounded by cash, falling cash, flowers, sun rays, natural sunlight, soft focus, dreamlike, depth of field, bokeh,
+<lora:add_detail:0.3> <lora:DallasLORA:0.9>

@@ -1,0 +1,4 @@
+masterpiece, high quality, highres, 1girl, nsfw, solo,
+<lora:DemonSlayerStyle:0.4>, <lora:Mitsuri-v2-04:0.4>, kimetsu no yaiba style, anime coloring,
+ChopioMitsuri, braid, twin braids, long hair, pink hair, multicolored hair, green hair, gradient hair, two-tone hair, hair between eyes, mole under eye, green eyes,
+shower, arms up, tiles, large breasts, (nude:1), nipples, pussy, smile, parted lips, wet skin, wet, rain,

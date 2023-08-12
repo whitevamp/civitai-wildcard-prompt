@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl,  <lora:oozoraSubaruHololive_v2SpecialEdition:0.8> 
+ <lora:bulgeHeroCuteBulge_v1012Epo:1> bulge, bikini,

@@ -1,0 +1,9 @@
+(1girl, woman, solo, puffy lips, closed eyes, ginger hair, hair over face, sexy, gorgeous, elegant, (nsfw, naked), long blond hair, smooth body, soft skin, small breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+lace white underwear, open clothes, bra pull,
+BREAK
+standing, (looking at viewer),
+BREAK
+indoors, morning,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

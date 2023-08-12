@@ -1,0 +1,4 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), cinematic lighting, photon mapping, radiosity, physically-based rendering, monochrome,greyscale,comic,
+1girl,(solo:1.3),looking at viewer,tongue out, 
+medium breasts,
+solo focus, <lora:manga2:1>

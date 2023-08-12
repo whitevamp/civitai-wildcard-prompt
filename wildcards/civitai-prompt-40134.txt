@@ -1,0 +1,2 @@
+1girl,fisheye,(selfie:1.1),sea,wind,messy hair,sunset,beach,(aesthetics and atmosphere:1.2),short hair,white camisole,light smile,happy,closed eyes,
+<lora:MengX girl_Mix_v30:1>,

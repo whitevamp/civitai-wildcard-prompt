@@ -1,0 +1,7 @@
+(cowboy shot), sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:Supergirl_Galatea:0.7> Galatea, 1girl, short blonde hair
+<lora:off_shoulder_bandage_dress:0.6> off_shoulder_bandage_dress, red dress
+paparazzi in background
+BREAK
+(movie gala, red carpet, indoors, gorgeous view)

@@ -1,0 +1,5 @@
+Best quality, very detailed, realistic, masterpiece, realism, realistic human proportions, fantastic realism, perfect lighting, soft light, physically based rendering, auto white balance, 4K,
+1 girl, mature woman, single person, full body shot, very detailed, complex, super detailed, delicate face, nose, red lips, delicate eyes, glowing eyes, purple eyes, white eyelids, (iris and pupils is round, pupils reflect the environment, eyes vary in size) eyeliner, eyelashes, long hair, pink hair: 1.1, smooth hair, smooth skin,
+Busty body, big breasts, fine lines, sagging breasts, cleavage, areola, prominent nipples, high waist, thick thighs, high legs, wide hips, full buttocks, big butt, curvy, camel toe, O-ring,
+Slingshot swimsuit, pink bikini, earrings, hoop earrings, choker, heart necklace, bare shoulders, standing, facing viewer, shot, deadpan, posing shot
+Morning, outdoors, sunset, beach, water, mountains, sky, pier, table, chairs, various drinks,<lora:slingshotSwimsuit_v13:0.6> <lora:swimsuit_20230530085511-000003:0.6> ，<lora:tifa_v2.3:0.2>

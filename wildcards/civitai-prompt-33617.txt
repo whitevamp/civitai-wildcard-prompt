@@ -1,0 +1,2 @@
+1girl, (full body:1.1), ( jill_warrick:1.1),standing, (completely nude:1.4), nsfw, (in glass bottle), <lora:Bottle_Sora:0.7>, (masterpiece,best quality:1.5), gray hair, blue hair,
+(terrified:1.2), (leaning forward:1.01), arms up, beating by fist, looking at viewer, <lora:jill_V2.1_09:0.65>,

@@ -1,0 +1,2 @@
+masterpiece, best quality, outdoor,1girl,
+<lora:MADLAX:0.8>madlax,hold handgun,

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:tow-concept-richy-v2:0.9> towlauncher, Misspiggy aiming, tripod, scope, one knee, in a war zone, ultra realistic, cinematic, hyper realistic, sharp, photo by Annie Leibovitz, film, studio lighting, detailed skin, ultra realistic, bokeh, sharp features <lora:Misspiggy:0.85>

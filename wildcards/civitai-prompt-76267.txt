@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, Jetstream Sam, facial hair, male focus, beard, <lora:Char_MGR_JetstreamSam:0.6>, shirt, 1boy, standing, jacket, white shirt, necktie, pants, parody, realistic, (wearing epMatador outfit:1.2), <lora:epMatador1:1.2>, light smile, (detailed face and eyes:1.3)

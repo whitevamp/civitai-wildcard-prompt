@@ -1,0 +1,8 @@
+Asian-Less, (masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, beautiful lighting, Cinematic film still,
+full medium shot, RAW photo, 1girl, gorgeous 18 years old, AS-YoungV2, middle eastern girl, brown hair, twin tails, perfect sparkling brown eyes, petite, slim body, skinny, small breast, finely detailed features, happy and smiling look, looking at camera, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering,
+rogue, harness, with tons of (belt pouches:1.3), (brown leather short:1.4), brown leather crop top, suspenders, tanned leather gloves, scarf, midriff, empty medieval market town, daylight, 
+fcDetailPortrait, 
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3> 
+ <lora:knight_v4.1SD:1>

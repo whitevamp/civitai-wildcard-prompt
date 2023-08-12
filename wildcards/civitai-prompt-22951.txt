@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl,full body, 
+ <lora:pixel_f2:0.5>  <lora:asukalangley:1> asuka langley soryu, blue eyes, hair between eyes, headgear,orange hair,, red ribbon, ribbon, school uniform, skirt, suspender skirt, suspenders, tokyo-3 middle school uniform,

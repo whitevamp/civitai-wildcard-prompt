@@ -1,0 +1,2 @@
+1girl, upper body, looking at viewer, (photorealistic, realistic , surreal ), (best quality, highres, 8k, raw, realistic, masterpiece, best shadow), book on head, book on face,  narrow waist, 
+<lora:LowRA:0.2> <lora:epi_noiseoffset2:0.2> <lora:add_detail:0.5> <lora:XXMix9_v20LoRa:0.1>

@@ -1,0 +1,1 @@
+<lora:Rosemyne1:1>, 1girl, solo, Myne, Rosemyne, detailed face, blue ceremonial clothes, rosemyne bookworm, long blue hair, long blue robe ,(masterpiece, best quality), sitting in a field flowers, warm lighting, blurry foreground, looking at viewer, child, young age, short body, looking_at_viewer, looking at camera, smile, <lora:add_detail:1>, <lyco:GoodHands-beta2:1>

@@ -1,0 +1,6 @@
+<lora:attire_spider-man-12:0.7>,spider suit, spider web print, spider web, spider-man
+Masterpiece, absurdres, fine detail, HDR, ((highly detailed face and eyes)), photorealistic,
+focus on eyes,
+standing on the roof of a skyscrapper, ((unmasked)), looking at viewer, smiling,  short brown hair, 
+new york buildings background,
+<lora:dcau_fantasy_offset:1>

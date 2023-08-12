@@ -1,0 +1,1 @@
+masterpiece, extremely detailed, (realistic:1.1), portrait, 1girl, wendyswaifu, red hair, striped blue dress, striped red gloves, striped red stockings, cleavage cutout, (arms up, elbow squeeze, breasts squeezed together:1.1), <lora:elbowSqueeze:1> <lora:wendys_character:0.4> <lora:squeezer:-0.69>

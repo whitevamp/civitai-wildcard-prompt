@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.4), 1girl, looking at viewer, 
+(wavy hair:0.8), long hair, 
+(on front), river, forest, 
+{upper body|cowboy shot},
+{night|morning|dawn}, 
+{indoors|outdoors}, 
+{sitting|standing|ground},

@@ -1,0 +1,2 @@
+[32k|16k|best-quality], professional photo, 1animal,<lora:Saya-pool leader4:1> Polar bears, having fun in the pool, then marine biology, physics, tech water, causing polar bears to get dangerously injured <lora:volibearV1:0.5> <lora:xsarchitectural-7:0.4> <lora:cyber_room:0.35> <lora:XSArchi_123:0.5> <lora:SkyboxV1:0.2> <lora:ripples:0.2> <lora:bubble:0.25> <lora:aki:0.2> pool, ladder <hypernet:Mixture-500:0.05>
+<lyco:garbage-bin-LoHa-stronger:0.2>

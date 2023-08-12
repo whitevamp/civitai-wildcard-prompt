@@ -1,0 +1,4 @@
+<lora:LifeImitatesArt:0.7>, lifeimitatesart
+(masterpiece, raw photo, fashion editorial)
+a woman, white wig, bouffant, dark shot, rococo, seraphim, dress, pearls, painted backdrop, cloud
+faded, film grain, muted colors, photography, epic realistic, (by Franois Boucher), detailed face, soft focus

@@ -1,0 +1,2 @@
+(4k, best quality, highres:1.1), (masterpiece:1.1), man, Chinese male, detailed eyes, looking at viewer,  (Chen Daoming:1.6),
+facial_hair, hanfu, 1boy, beard, male_focus, mustache, chinese_clothes, old, solo, old_man, wide_sleeves, own_hands_together, long_sleeves, topknot, robe, looking_at_viewer, wrinkled_skin <lora:Sanguo_v11:0.95>

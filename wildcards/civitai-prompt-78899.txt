@@ -1,0 +1,1 @@
+(could use more inpainting to fix post upscale) extreme close up of dwarven blacksmith forge  <lora:kLabyrinth:1>

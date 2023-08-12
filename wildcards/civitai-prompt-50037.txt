@@ -1,0 +1,12 @@
+(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features),HDR,8k resolution, solo focus, skin tight, (shiny skin),(slender girl),dreamlike,
+photorealistic,realistic, solo, photorealistic, best quality, ultra high res,
+
+short curly black hair, big black eyes, cheerful expression, 
+small chest, camera,Focus on the face, balcony, read book, very happy, 
+
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, solo,1girl,
+transparent air, tyndall scatter, circular fan,
+best quality, ultra high res, photorealistic, 
+ultra detailed, fluorescein,
+masterpiece, best quality,
+ <lora:Xiaorenshu_v20:1>

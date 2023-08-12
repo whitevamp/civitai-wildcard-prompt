@@ -1,0 +1,2 @@
+Photo of He-Man exploring a vibrant (mall:1.5),  high-end boutiques and designer stores, surrounded by elegant decor, (young:1.2), (smiling:1.2), confident expression, 1man, leather, (nude belly:0.3), (wet skin:1.1), (shirtfront:1.5), (loincloth:1.5), metal belt, fur loincloth, blurry, perfect shadow, old lady
+<lora:80s_He-Man_MK2:0.75>

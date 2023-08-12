@@ -1,0 +1,1 @@
+high detailed, masterpiece, best quality:1.2, hdr, absurdres, RAW photo, 1girl, portrait, high detailed face, beautiful eyes, purples eyes, <lora:RaidenShogun-hands:0.75>, <lora:add_detail:1.5>,

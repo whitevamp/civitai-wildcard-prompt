@@ -1,0 +1,2 @@
+(white skin),slender,(black eyes),(long hair),have a slender (or slim) figure,showcasing your body in front of a mirror,naked,black stockings,((HD)),1girl,the light and shadow of reality,1girl,feet,soles,toes,nipples,breasts,legs_up,garter_straps,bag,barefoot,pussy,long_hair,uncensored,model,in the dark,((deep shadow)),((low key)),((etc.)),
+<lora:(tezheng)(0.6-0.8)(d4lilith, claws, wings, horns,)d4lilith_v1.0:0.5>,d4lilith

@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,  (abstract:1.2),   luminous trails,    captivating patterns, creative experimentation, highest detailed,
+1 girl, adult (elven:0.7) woman, freckles, brown eyes, auburn bun hair,
+portrait, solo, upper body, looking at viewer, detailed background, detailed face, (atompunkstylesd15, atompunk, 50s theme:1.1),   glass-cyborg, (made of glass:1.1),  colorful,  champion, crystal armor, mosaic, mechanical, power source, magical patterns, surging power, floating particles, steam,   crater in background, epic atmosphere,
+nardack, <lora:LoconLoraNardack_v10:0.3>,

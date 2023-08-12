@@ -1,0 +1,3 @@
+<lora:skirt_tug_v0.1:1>
+1girl, clothes tug, skirt tug, facing viewer, face, wind lift,
+<lora:shimakaze_v1.33:1> shimakaze, :o, robot, beach, pov, leaning forward, striped thighhighs,, masterpiece, best quality, highly detailed

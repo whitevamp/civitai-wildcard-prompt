@@ -1,0 +1,1 @@
+a photo of dmtozdmr (medium shot) (depth of field), standing in an abandoned street,wearing a collared shirt with bowtie and pleated skirt (hourglass waist:1.1),(curvy hips:1.1),(busty:1.1),(beautiful legs:1.1),(cinematic lighting:1.2),photorealistic,  <lora:Demet Ozdemir:0.85> <lora:GoodHands-beta2:1>

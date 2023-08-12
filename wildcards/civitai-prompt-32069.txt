@@ -1,0 +1,1 @@
+masterpiece, best quality, beautiful background, 1girl, solo, dskbnbk, <lora:dskbnbk:0.6> , dskbPuSL, <lora:dskbPuSL:0.5>

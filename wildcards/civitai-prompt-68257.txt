@@ -1,0 +1,11 @@
+(RAW, best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, perfect body,  
+light blonde hair, twintails,
+medium breast, slim waist, slim legs,
+onsen, hot spring, yukata, japanese bathrobe,
+shiny skin, real skin texture, 
+rim lighting, 
+supermodel, 
+best lighting, detailed background, detailed shadow, sharp focus, depth of field f/2,
+saturated, high contrast, strong light and shadow,
+[<lora:sd-No.405v2-000002:0.25>::0.6]

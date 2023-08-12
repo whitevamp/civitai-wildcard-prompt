@@ -1,0 +1,2 @@
+1girl,hastur, king in yellow,women,lady,creepy,crazy Love,atmosphere of wariness,
+ <lora:OC:0.25> <lora:Hastur:0.5>  <lora:LowRAv2:0.3>

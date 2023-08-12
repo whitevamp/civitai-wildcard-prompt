@@ -1,0 +1,3 @@
+Photo of a black-haired girl with blue eyes, looking at the viewer in anger, sitting on a heavy tank, portraying a sci-fi mecha cowboy in a solo cowboy shot.
+(mount:1.1), sitting, heavy gun, angry, heavy pipe, open mouth, red lips, (closed eyes:1.1).
+<lora:MG_jijia:0.9>

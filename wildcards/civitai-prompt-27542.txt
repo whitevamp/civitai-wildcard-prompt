@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl,  red_hair, green_eyes, <lora:BreastsApartV1-000090:1>,  BreastsApart, (lying_on_back:0.7),

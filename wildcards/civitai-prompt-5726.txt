@@ -1,0 +1,3 @@
+best quality, 4K wallpaper, masterpiece, extremely detailed CG unity 8k wallpaper,
+woman, 21 y.o., smile, fantasy, ((full body):0.3),   ((contrast):1.2), ((dark light):1.2),  lake,
+fantasy, potrait, [mythical forest:city:0.6], ((night):1.4), ((clouds)), ((full moon):0.5),  outdoors,  <lora:epi_noiseoffset2:0.7>

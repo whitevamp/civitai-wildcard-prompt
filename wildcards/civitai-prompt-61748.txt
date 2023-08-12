@@ -1,0 +1,1 @@
+masterpiece, 8k, perfect ligthing, looking at viewer, cinematic lighting, extreme close-up,  (TinkerBell:1.5), (TinkerBellWaifu:1.1), single hair bun, (green clothes), ((clothes made from leaves)), (fairy wings:1.2), pointy ears, blue eyes, (detailled eyes:1.2), <lora:TinkerBellDisney-06:0.6> <hypernet:empty:0.5>

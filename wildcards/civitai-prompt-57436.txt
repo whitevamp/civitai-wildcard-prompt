@@ -1,0 +1,4 @@
+masterpiece, best quality, octane render, hdr,
+no humans, simple background, black background, grey background, depth of field, gradient background,
+(ring), gold, intricate detail, Dragon on ring, (Dragon body),
+<lora:ElderRing:1>

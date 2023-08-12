@@ -1,0 +1,13 @@
+Aesthetic: ((trippy, hallucinogenic, mind-bending, surreal, psychedelic, mind-altering):1.4)
+BREAK
+Composition: 1girl, perfect face, perfect eyes, <lora:ridingsexscene_lora_01:0.8>, ridingsexscene, perfect breasts, naked, nude , pov, on top, close up, perfect stomach, arms up, mouth open, ((upper body portrait, close up view)), view from below
+BREAK
+Lighting: Glowing Neon, Vibrant, Energetic
+BREAK
+Quality: (award winning photography, professional photography), (8k, RAW photo, best quality, masterpiece), photo-realistic,  intricate, highly detailed, professional lighting
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+(good quality:0.999),
+BREAK
+<lora:add_detail:0.4> <lora:URPMv1.3_LORA_296:0.2> <lora:more_details:0.2>

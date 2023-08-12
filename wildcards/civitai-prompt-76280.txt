@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,
+[ballgown|edgMarquise], edgMarquise, a woman with a black wig and a red lipstick ,with a edgMarquise_hairstyle, wearing a ballgown
+ <lora:MarquiseGown:0.7>

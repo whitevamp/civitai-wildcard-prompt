@@ -1,0 +1,4 @@
+3d fractals,masterpiece,top quality,HDR,highly detailed digital painting,best quality,octane render,official art,fantasy art,(colorful),absurdres,(beautiful and aesthetic:1.2),
+1girl,Mature,upper body,perfect face,smile,(flowers in hair,flowers on clothes:1.3),long colored hair,rainbow painting drops,paint teardrops,woman made up from paint,entirely paint,Ultra-fine textured garments,splat, splash,rainbow colored clothing,paint bulb, paint drops,(hair ornaments,earrings,flowers hair ornaments,butterflies hair ornaments),(look at viewer), close viewer,
+cinematic lighting,cowboy shot,side light,strong shadows,color grading,water mist,solid color background,
+ <lora:zhongfenghuaStyle_v10:1> zhongfenghua,

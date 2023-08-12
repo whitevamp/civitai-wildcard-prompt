@@ -1,0 +1,1 @@
+<lora:LivingClothes-18:0.9>, LivingClothes, tentacles, naughty face, <lora:EchidnaRZ:0.7>, best quality, masterpiece, highres

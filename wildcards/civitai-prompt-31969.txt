@@ -1,0 +1,2 @@
+(Japanese:1.2), (1girl), (beautiful face:1.3), (realistic face), (black hair:1.2), (beautiful hairstyle:1.1), (realistic eyes:1.1), (beautiful detailed eyes:1.1), (drooping eyes:1.05),  (shiny skin), (beautiful lips:1.1), (beautiful tooth:0.8), attractive, (ultra high res:1.1), ultra realistic, (highly detailed:1.1), golden ratio, (spread legs:1.2), <lora:flat2:-0.8>, (narrow waist:1.1), (small breasts:1.25), (orgasm:1.3), (screaming:1.1), (tears:1.1),  (sex:0), (blush:1.1), ((micro bikini)), sea shore, beach, White Sheets, (from above:0.9)
+<lora:tonguedrop-d:0.35>

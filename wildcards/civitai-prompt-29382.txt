@@ -1,0 +1,2 @@
+Best quality,masterpiece,ultra high res,raw photo,soft light,beautiful and aesthetic,(photorealistic:1.4),(newspaper background:1.5),sport shoes,1girl sitting on a pile of newspapers,(full of white newspapers sticked on the background:1.2),solo,hands in pockets,looking at viewer,standing,harem pants,(blonde very long hair:1.5),(colorful:1.3),the coat is tied around the waist,long hair,wide sleeves,wide-leg trousers,
+<lora:more_details:0.7>,<lora:Newspaper:0.6>,

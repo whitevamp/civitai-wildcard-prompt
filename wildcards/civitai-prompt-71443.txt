@@ -1,0 +1,4 @@
+<lora:inside_creature_v0.1:1.2> 
+1girl, inside creature, slime \(substance\), breasts, 
+<lora:coils_v0.1:0.8> coils,
+<lora:large_insertion_v0.1-000003:1>, masterpiece, best quality, highly detailed

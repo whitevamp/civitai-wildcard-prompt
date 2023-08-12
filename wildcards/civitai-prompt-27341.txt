@@ -1,0 +1,2 @@
+(masterpiece), (best quality),nsfw,pink,rose,
+make up, blush, earring, heart, high heels, <lora:flower_shoes:0.5>, 1girl, flower, bow,sitting on desk, crossed legs, looking down,

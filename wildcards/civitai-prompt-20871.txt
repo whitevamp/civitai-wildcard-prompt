@@ -1,0 +1,4 @@
+<(photorealistic:1.4), (extremely intricate:1.3)>, <(exquisitely detailed skin), masterpiece, high quality, looking at viewer, light smile, looking at camera, best quality, perfect anatomy, (extremely detailed eyes:1.2), highres, solo, best shadow, natural lighting, perfect body, dynamic angle, 
+wearing a pink nuisette, wavy long hair, large breasts, fur, floral embroidery, lace, full body, pink dress, 
+at church, 
+irene1, <lora:edgNuisette:0.8>, <lora:koreanDollLikeness:0.4>,  <lora:irene_v70:0.8>

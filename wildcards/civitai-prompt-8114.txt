@@ -1,0 +1,1 @@
+diana,<lora:diana_dnd_V1>,spreadassms,(ass focus:1.2),upper body,pelt,forest background,midriff,smile,navel,brown top,brown shorts,gold headband,gold armlet,gold necklace,gold belt,red gemstone,absurdres,<lora:SpreadAssMS:1>,

@@ -1,0 +1,5 @@
+masterpiece, best quality,bright color,vivid color, (extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed, best shadow), (chromatic aberration),(girl:1.5),(ultra-detailed),((cute face)),((full body)),
+((
+Girl,Superhero girl looking down at Earth with arms crossed in the stratosphere, cartoon style illustration,Beatrix potter style painting,Alphonse Mucha
+)), ((caustic)), dynamic angle,beautiful detailed glow,
+<lora:more_details:0.5>,

@@ -1,0 +1,1 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:face_in_ass_v0.1:1> <lora:capi:1>1girl, 1capybara, face in ass,  highly detailed

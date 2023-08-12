@@ -1,0 +1,5 @@
+(1boy) (solo) ((front view)), (big muscles), ((large pectorals)), ((hairy)), long hair, masculine, fantasy, epic, heroic, heavenly, ((tanned)), (realistic face), (realistic eyes), (detailed facial features), wearing a white loin cloth with a large (panty bulge). He is standing in a clearing in the forest. Bright Moonlight.
+Masterpiece, highly detailed, high quality, masterpiece, volumetric light, vibrant colors, beautiful modern fantasy illustration, by gaston bussiere, craig mullins, j.c. leyendecker
+<lora:BulkedUpAIR1.5:0.2>
+<lora:pantybulge0409:0.9>
+<lora:lightV1:0.8>

@@ -1,0 +1,5 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, (1 girl, looking at viewer, cowboy shot:1.4)
+BREAK
+1 girl, <lora:MuCoiv18:0.8>, MuCoi, vietnamese, pith, helmet, (green headwear:1.1)
+BREAK
+1 girl, purple hair, purplr eyes, looking at viewer,school, purple clothes, whole body, japanese castle, close mouth, midium breasts, RaidenShogun, detailed clothes, wide-sleeved kimono, hair ornament, white japanese clothes, (red obi:1.4), (purple hair:1.4),  <lora:RaidenShogun-hands:0.4>

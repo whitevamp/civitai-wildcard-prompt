@@ -1,0 +1,1 @@
+( watercolor \(medium\),    IrisCompiet:1.4),<lora:IrisCompietStyle:1>, painting of a woman, (fractal art:1.4), colorful, detailed background, fractals in background, space and stars, wings on her back, high contrast, ray tracing, cinematic lighting, (from front:0.6)

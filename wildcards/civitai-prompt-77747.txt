@@ -1,0 +1,4 @@
+best quality,<lora:add_detail:0.3>, <lora:concept_costume_akatsuki-outfit_(akatsuki outfit):0.6> , akatsuki outfit, black coat, long coat, high collar, 
+(1girl, solo),   <lora:character_fuuFNarutoShippuden_v20:0.7>, Fuu, short green hair, orange eyes, frown, cinematic shot, fishnets, hair clip, frown, cleavage,small breasts, insect wings, flying, in the air,dragonfly, billowing clothes,
+BREAK
+mountain background, detailed background,

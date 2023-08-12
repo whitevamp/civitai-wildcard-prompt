@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:makima_offset:1>, makima /(chainsaw man/), crop top, red hair, braid, bangs, choker, (graffiti:1.5), paint splatter, arms behind back, against wall, looking at viewer, armband, small skirt, black skirt, head tilt, serious, yellow eyes, <lora:add_detail:1>

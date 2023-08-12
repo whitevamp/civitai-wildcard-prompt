@@ -1,0 +1,4 @@
+lib_bg, <lora:libbgV11.0heI:1>
+coat,
+Graceful poise, magnetic presence, refined seduction, captivating mystique,
+Moody Atmosphere, Shadowy Intrigue, Ethereal Beauty,

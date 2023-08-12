@@ -1,0 +1,3 @@
+long legs,skinny,Best quality,masterpiece,ultra highres,(photorealistic:1.4),looking back,from below,long hair,1girl,full body,indoor swimming pool,standing,,school swimming pool,<lora:add_detail:0.5>
+Black 8D glossy stockings,
+ <lora:Black_8D_glossy_stockings:1>

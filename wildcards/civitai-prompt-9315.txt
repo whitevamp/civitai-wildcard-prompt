@@ -1,0 +1,5 @@
+masterpiece, high quality, highres, 1girl, solo, nsfw,
+kimetsu no yaiba style, <lora:DemonSlayerStyle:0.3>, anime coloring, <lora:Mitsuri-v2-04:0.3>,
+ChopioMitsuri, braid, twin braids, long hair, pink hair, multicolored hair, green hair, gradient hair, two-tone hair, hair between eyes, mole under eye, green eyes, looking at viewer, 
+blush, blush lines, embarrassed, seductive smile,
+indoors, bedroom, bed, standing, pink bra with lace trim, pink panties with lace trim, lingerie, garter straps, garter belt, seductive pose, sweaty, sweaty skin,  <lora:sweat_lotion_v2:0.15>

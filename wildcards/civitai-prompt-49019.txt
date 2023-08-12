@@ -1,0 +1,8 @@
+
+1girl, 18yo, intricate earrings, intricate diamond necklace, hair ornament, beautiful, looking at viewer, shiny skin, (light smile:1.3), (grin), shiny skin, middle breasts, white lace blazers, black long straight hair, floating hair, upper body, portrait, 
+
+outdoors, bokeh, blurry background
+
+ <lora:beautifuleyeslikeness_halfBody:0.3>
+ <lora:fashionGirl_v50:0.5> <lora:koreanDollLikeness_v15:0.3>
+ (pureerosface_v1:0.2)

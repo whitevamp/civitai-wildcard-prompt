@@ -1,0 +1,1 @@
+masterpiece, best quality, Shadow the Hedgehog (Sonic), Shadow,  <lora:shadowTheHedgehogSonic_v1:0.6>, shiteyan'yo, twintails, primordial, farm,<lora:shiteyanyo-07:1>,  c4ttitude,  <lora:c4ttitudeflexver:0.8>

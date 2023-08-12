@@ -1,0 +1,1 @@
+1girl, maid, ((twintails, brown hair):1.1), green eyes,cherry blossoms, sunbeam,(white thighhighs,:1.1) <lora:add_detail:0.6> , <lora:3DMM_V10:1>

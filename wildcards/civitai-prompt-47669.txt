@@ -1,0 +1,3 @@
+1girl, blue hair, short hair, hairband, bangs, symmetry eyes, stone road, country road,kneeling, arms behind back, facing viewer, face close-up, 
+detailed face, medium breasts, (looking at viewer:1.2), smooth chin, (ulzzang-6500:0.7), (smile:0.9), (upper body:1.2), closed mouth, game cg, rendering, (photorealistic:1.2),  <lora:eulaRealisticGenshin_eula:0.7>
+(facial, bukkake, cum on face),  <lora:superfacialized_v13:1>,  <lora:ahegaoRollingEyes_v1114:0.6>

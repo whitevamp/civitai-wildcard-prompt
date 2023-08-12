@@ -1,0 +1,4 @@
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (highly detailed CG illustration), cinematic light, intricate detail,
+full body, chibi, 
+jinxlol
+<lora:blindbox_v1_mix:0.8>    <lora:JinxLol:1>

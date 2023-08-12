@@ -1,0 +1,2 @@
+close up, (pokimane), wearing a school uniform, sexy, leaning on a desk, [cleavage:0.3], happy
+ <lora:pokimaneDoguv3:1>

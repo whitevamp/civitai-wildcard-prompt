@@ -1,0 +1,3 @@
+<lora:beltbra_v0.1:1>
+1girl, beltbra, breasts, skindentation, deep skin, taut clothes, 
+<lora:microskirt_v0.1:1> microskirt,, masterpiece, best quality, highly detailed

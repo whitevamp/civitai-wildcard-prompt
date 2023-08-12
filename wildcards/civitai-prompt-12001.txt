@@ -1,0 +1,1 @@
+((Best quality)), ((masterpiece)), (highly detailed:1.3),3D, elite Mecha paladin,royal house guard,beautiful female wearing intricate ceremonial armor, golden cape, military mecha parade in background at grand imperial palace,<lora:NijiExpressV2:0.4> <lora:Mecha warrior Mecha_20230621092507:0.45> <lora:knight_v4.1SD:0.4> <lora:add_detail:1>

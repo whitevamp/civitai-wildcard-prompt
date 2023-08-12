@@ -1,0 +1,3 @@
+masterpiece, 1girl, solo,  large breast, standing, from above,
+looking at viewer, pov, front view, <lora:add_detail:0.5> night, <lora:uzaki tsuki 3:1.2>, (uzaki tsuki:1.2), narrow eyes, eyes closed, troubled face, closed mouth,
+shirt, raglan sleeves, (romaji text), (((clothes writing:1.5))), long sleeves, denim shorts, pantyhose, fang <lora:uzaki_hana:0.4>

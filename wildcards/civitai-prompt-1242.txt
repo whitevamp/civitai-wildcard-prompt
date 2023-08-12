@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, pretty face, 1girl, (full body shot),
+<lora:ShoukakuZuikakuRaceQueenV1:0.9>, szrace, black hair, big boobs, tattoo on shoulder, fit body, black stockings, looking at viewer, happy expression,
+standing seductively next to the bar counter, in the bar, top floor in skyscraper,

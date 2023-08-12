@@ -1,0 +1,4 @@
+Master works,Best quality,8k resolution wallpaper,Cinema-quality lighting,soft lighting,Depth of field,Volumetric light,Ray tracing,nsfw,
+1girl,solo,light smile,xinxia,
+(forest:1.2),
+<lora:Xinxia_20230624210412:0.8:KEEPCHAR>,

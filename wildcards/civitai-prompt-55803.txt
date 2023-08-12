@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), traditional chinese ink painting,shukezouma, negative space, shuimobysim, 1man,portrait of 1 man standing, modelshoot style, muscle, long hair, white hailr,(smile), looking at viewer, wearing long hanfu, hanfu, willow tree in background,willow branches, wuchangshuo,<lora:Moxin_Shukezouma11:0.8> <lora:Moxin_10:0.7>

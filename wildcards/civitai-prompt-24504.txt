@@ -1,0 +1,4 @@
+macrogts, standing, city, skyscraper, nude, from below, depth of field
+<lyco:minigts_v3_lycoris:0.5>
+<lora:JapaneseDollLikeness_v15:0.2>
+high quality photograph

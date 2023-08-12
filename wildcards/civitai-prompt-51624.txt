@@ -1,0 +1,14 @@
+[(from below), (from side)]:2, low_angle_shot:1.5,
+photo of a 25 years old woman standing in a middle of a forest at night time, wearing a (fur coat over naked body), {wearing torn and ripped revealing (dirty) (scuffed) leather skirt}, leather belt, white legwear thigh highs, ultra high res, cinematic angle, professional lighting, best quality, masterpiece, sidelighting, sharp, perfect focus, bokeh, photorealistic, low key, high contrast,
+
+outdoors, snowing winter, snow background, ice, cold, forest, snow, snow hills, 1 moon, photo realistic, backlit, intricate details, highly detailed, slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky, (standing):2,
+
+(extremely thin):2, ((perfect female figure)), {{{fur coat over naked body}}}:2, (fur coat), dynamic pose, (parted lips):1.2, sexy, looking at viewer, seductive posture, sexy pose, tired look, skin imperfections, skin pores, mole, detailed facial features, ((beautiful face)),
+
+full body, {{puffy lips}}, pale skin, european, (long platinum blond hair), streaked hair, blue eyes, (detailed hair), (detailed eyes):1.4, (finely detailed beautiful eyes: 1.3), realistic, (3d face:1.3), (lustrous skin:1.5), (ultra high res intricate face details), (skin pores:1.3), ultra high res cloth texture, 8k eye details, 8k pupils,
+
+low hanging breasts, ((gigantic breasts)):1.2, cleavage:2, (exposed breasts):2, (exposed nipples):2, gigantomastia, <hypernet:gigantomastia:0.3>, <lora:saggingBreasts:0.4>, <lora:gigatitums:0.3>,
+
+(very hairy pussy):2, {{{pubic hair}}}:1.8, cameltoe:2, innie, <lora:thatsMyBush:0.1>, <lora:fatpussy:0.3>,
+
+<hypernet:incaseStyle_incaseAnythingV3:0.5>, bimbostyle:0.8, <lora:jujunaughtStyle_v10:0.3>,

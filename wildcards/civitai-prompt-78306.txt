@@ -1,0 +1,1 @@
+(Well defined female:0.4),nsfw,nude,(doggystyle:0.5),(low shot from behind:0.6),(anime:0.5),(top-down bottom-up:0.5),(spread legs:0.6),(masterpiece:0.7),(absurdres:1.2),(hentai:0.5),(invisible penis:0.6),(vaginal:0.7),low shot from behind,(all fours:0.3),<lora:GGAS_Spread_Pussy Tag:0.4>,<lora:fingering pussy tag:0.5>,<lora:cervix Tag:0.4>,(internal cumshot:0.4),

@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:mumei:0.8> nanashi mumei,  ponytail, very long hair, hairclip, feathers, brown hair, 
+ <lora:McDonaldsUniform:0.8> McDonaldsUniform, shirt, black shirt, uniform, black pants, pants, cap, mcdonald's, 
+ <lora:Gun2Head11:0.9> g2h, gun to head, handgun, holding gun, pistol, <lyco:BetterGuns-V1:0.8>

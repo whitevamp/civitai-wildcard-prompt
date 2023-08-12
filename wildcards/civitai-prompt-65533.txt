@@ -1,0 +1,5 @@
+(coffee shop, gorgeous view),
+(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, detailed clothing texture, beautiful face, solo, Aquagirl
+yellow crop top with blue trim, (white shorts)
+arcane style
+<lora:Aquagirl_YJ:0.6>, <lora:arcaneStyleLora_offset:0.7>

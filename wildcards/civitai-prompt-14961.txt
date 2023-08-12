@@ -1,0 +1,4 @@
+fantasy,illustration,
+1girl,breasts,
+Whimsical Atmosphere, Soft Shading, Ethereal Intrigue,
+<lora:dunhuang_20230625021029:0.8>

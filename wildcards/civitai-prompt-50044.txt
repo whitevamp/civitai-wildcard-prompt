@@ -1,0 +1,1 @@
+masterpiece,best quality,1girl,cute,  with feet, sitting,<lora:feetPoseRealistic_v10:0.6>

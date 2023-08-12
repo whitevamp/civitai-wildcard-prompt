@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  <lora:Daisy_Lora:0.8> Daisy_SM,  yellow dress, crown, <lora:JourneyLoRA:0.8>

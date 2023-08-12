@@ -1,0 +1,2 @@
+best quality, (photorealistic:1.2), 1girl, solo, detailed face, face focus, standing, black hair,(hair ornament:1.35), sweater, bare shoulders,ribbon-trimmed,pleated dress, (looking at viewer:1.5) long hair, black eyes, bangs, lips,xiaotuntunshu
+ <lora:Lora_v10:0.8>

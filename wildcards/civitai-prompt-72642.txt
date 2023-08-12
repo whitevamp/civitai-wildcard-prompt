@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, jackal <lora:jackal-locon:0.5>, long hair, pink hair, red eyes, streaked hair, ahoge, tattoo, facial mark, hair between eyes, twintails, white hair, large breasts,
+<lora:naruse_demon:1>, black panties, pink and white striped thighhighs, black gloves, crop top, midriff, underboob, demon wings, horns

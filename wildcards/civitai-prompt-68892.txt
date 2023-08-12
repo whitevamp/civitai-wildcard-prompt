@@ -1,0 +1,11 @@
+k4t3upt0nv1
+raw realistic photo of a (young 18 years old girl), (detailed face skin texture:1.2), (few) beauty marks, symmetrical eyes
+(masterpiece), (best quality:1.4), highres, UHQ, HQ, 4K
+1girl
+medium shot to close up shot
+nsfw, naked, nude, uncensored, uncensored nipple
+natural breasts, symmetrical tits, light red nipple color, (small circular areola, small nipple area)
+(face in shot)
+<lora:flashlight_v15A:1> (flashlight, night photograph:1), (low light environment:1)
+<lora:NightphotoV1-0:1> (nphot) (high contrast, low key, dramatic lighting, rim lighting:1.2) (dark background) (amateur bad white camera flash, only lighted by camera flash, one light source:1.2)
+<lora:tongue:0.4> ahegao, tongue out, crosseyed

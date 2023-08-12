@@ -1,0 +1,1 @@
+( watercolor \(medium\),    IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, side view of a bird with long beak, arctic ocean , intricate background

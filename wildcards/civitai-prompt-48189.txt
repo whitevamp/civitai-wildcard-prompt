@@ -1,0 +1,2 @@
+masterpiece, best quality, 1boy, flat color, limited palette, low contrast, (ligne claire), long straight black hair, looking away, standing. smoke, night sky, city, sunset, sky scrapers, bridge, depth of field, black, red, orange, brown, autumn, haze, 
+ <lora:animeScreenshotLikeStyleMixLora_v10:1>

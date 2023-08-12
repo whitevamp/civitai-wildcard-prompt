@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, realistic,high details,high detailed skin, natural skin texture,indoors,
+2 men in military uniform,kiss,full-body,side-by-side,  onoff,  <lora:onoff_side-by-side:1>,

@@ -1,0 +1,1 @@
+masterpiece, best quality, ((depth of field, cinematic lighting), atmospheric) , extremely detailed scenery, 1girl, long ponytail, kimono, glowing eyes, ghostdom, night, (spider lily), butterfly, full moon, looking at viewer, <lora:ghostdom_20230621222536:0.8> <lora:epiNoiseoffset_v2:0.5> <lora:add_detail:1.2>

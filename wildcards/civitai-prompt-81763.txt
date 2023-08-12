@@ -1,0 +1,1 @@
+a realistic photo of a 70 year old stephanie with pink hair and a pink wig, AS-Elderly, (chubby), (seductive smile:0.6), grin512, (looking at viewer:1.4), (pastel colors), realistic, <lora:stephanie:1>  <lora:add_detail:0.6>

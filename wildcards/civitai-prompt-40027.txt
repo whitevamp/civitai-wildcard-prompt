@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2),21 year old, sitting on bearded man's lap, (detailed face), 1man and 1girl close together, wide-angle, half-closed eyes, necklace, earrings, air bangs,hair ornament,dating,cleavage, cleavage cutout, underbust,full body, sunshine,light_rays ,walking,outdoors, high contrast,((school uniform)), business shirt, garter straps, white thighhighs, undressed, ((nipples)), small nipples, perfect nipples,
+<lora:koreanDollLikeness_v15:0.5> <lora:taiwanDollLikeness_v10:0.15>

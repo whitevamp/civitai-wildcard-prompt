@@ -1,0 +1,1 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), <lora:RemV1:0.8> rem_\(re_zero\), hair over one eye, smile, blush, facing viewer, looking away, HeadpatPOV, pov, headpat, from above, garden, <lora:HeadpatPOV:1>

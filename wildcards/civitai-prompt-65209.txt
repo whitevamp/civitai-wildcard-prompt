@@ -1,0 +1,7 @@
+(masterpiece:1.4), (best quality:1.4), realistic, 1girl, <lora:Artoria_Pendragon-000019:0.7> artoria pendragon \(fate\), saber, blonde hair, braid, green eyes, short bangs, short hair,
+smile, close up, blushing, parted lips,
+cafe, table, sitting down, byriver, cloudy sky,
+(yellow tinted glasses:1.2),
+black cargo trousers,
+boots,
+tshirt, cardigan,

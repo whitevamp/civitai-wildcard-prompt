@@ -1,0 +1,5 @@
+photorealistic,lifelike rendering,Gray turtleneck, black leather leggings, dreadlocks,
+1girl,chestnut,
+Neck,full body,
+newspaper background, <lora:Newspaper:0.9>,
+Radiant Comfort, Golden Hour, Cozy Ambiance, tsurime,

@@ -1,0 +1,1 @@
+(best quality:1.2), (detailed:1.2), (masterpiece:1.2),  <lora:add_detail:1>,  <lora:koreanDollLikeness:0.4>

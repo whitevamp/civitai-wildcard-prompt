@@ -1,0 +1,1 @@
+<lora:chilloutmixss_xss10:0.7>, <lora:20denBlackPantyhose20D_v10:0.5>, 80d, solo, smile, grin, long_hair, school uniform, dress, high_heels,full_body, look_at_viewer, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,

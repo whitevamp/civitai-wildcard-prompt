@@ -1,0 +1,16 @@
+(masterpiece, 4k ,ultra detailed:1.2),(photorealistic:1.4),
+(solo:1.2),
+(teasing smile:1.3),beautiful woman,
+(looking at viewer:1.6),(facing forward:1.3),pov,portrait,
+
+(sitting:1.2),
+
+(indoor,french restaurant,dining table,dinnerware,candle,night:1.2),
+
+(off-shoulder dress:1.2),
+
+(light brown hair color:1.3),(long hair),
+
+<lora:hipoly3DModelLora_v10:0.1>,
+<lora:Cnbeauty4_v1:0.6>,
+ <lora:epiNoiseoffset_v2:3>

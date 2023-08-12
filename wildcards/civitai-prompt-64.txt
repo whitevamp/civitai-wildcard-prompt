@@ -1,0 +1,2 @@
+(best quality, masterpiece, absurdres),   
+girl anna of arendelle, grin, day light, braided hair, ((blue sky with clouds):0.7), castle on background,   <lora:anna_of_arendelle_v21:1>,  <lora:COOLKIDS_MERGE_V2.5:0.8>, (best quality, masterpiece),

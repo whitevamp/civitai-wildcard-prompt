@@ -1,0 +1,1 @@
+amber,(white flight attendant uniform),looking at viewer,smiling,happy,curly blond short hair, standing, inside the airplane,  <lora:epiNoiseoffset_v2:1>

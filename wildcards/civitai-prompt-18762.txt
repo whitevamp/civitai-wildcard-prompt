@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details,
+1girl, nun, breast curtains, pelvic curtain, <lora:CeresFauna:0.8> Ceres Fauna, antlers, long hair, braided bangs, hair flower,   <lora:NunBreastCurtains:0.8>

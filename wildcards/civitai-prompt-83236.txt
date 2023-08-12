@@ -1,0 +1,2 @@
+(best quality, masterpiece),
+(princess peach), simple background, full body, (solid outline:1.2), <lora:peach:0.5>,<lora:easy_sticker:1>

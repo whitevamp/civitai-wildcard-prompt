@@ -1,0 +1,3 @@
+<lora:spider_web_v0.3:0.9>
+1girl, (cocoon:1.2), bound, restrained, silk, spider web, 
+<lora:elizabeth_bathory_armor_v1.1:1> elizabeth bathory, bikini armor,, masterpiece, best quality, highly detailed

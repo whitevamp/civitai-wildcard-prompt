@@ -1,0 +1,3 @@
+1girl,ultra high res,(best quality, masterpiece:1.2),ultra-detailed,portrait,full body,style of a idol,(pleasure face:1.3,enchanting smile),
+nsfw,top view,looking down,pov,legs spread,separated thighs,(black maid dress:1.1, white maid apron:1.1, bow hair accessory:1.05, maid headband:1.05, maid bow tie:1.05, wrist cuffs:1.05, ), lace stockings, maid shoes,
+<lora:Pure_Innocent_girl:0.2>

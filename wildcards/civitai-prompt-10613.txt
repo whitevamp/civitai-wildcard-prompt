@@ -1,0 +1,3 @@
+best quality, ultra high res, (photorealistic:1.4), 1girl, (realistic humid skin), bedroom, (on big bed:1.1), (window:1.2), 5stars hotel,  detailed clothes, cinematic lighting, morning, sitting, 
+(sleepy eyes:1.2),(open mouth:1.2), (medium breasts, short hair:1.2), gorgeous, elegant, see-through, lace, hair ornament, earrings, necklace, revealing clothes,jewelry, diamond,
+BREAK hll, pantyhose, <lora:hll_20230617094651:0.45> <lora:LowRA:0.3> <lora:add_detail:0.5>,

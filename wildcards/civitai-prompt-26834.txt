@@ -1,0 +1,5 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1), detailed, extremely detailed 4K, perfect eyes, perfect face, perfect lighting, <lora:add_detail:0.25>,
+(1girl, solo, adult female, mature female), <lora:concept_goodHands:1>, <lora:detailed_eyes:1>,
+<lora:character_rosalina-08:0.9>, long blond hair, blue eyes, hair over one eye, crown, glowing eyes, 
+  <lora:style_ultraBlackholeTech_(ulblackholetech--excessive energy--scifi):0.85>, ulblackholetech, scifi, cowboy shot,
+purple lipstick, purple eyeliner, smile, ulblackholetech scifi dress, space station background,

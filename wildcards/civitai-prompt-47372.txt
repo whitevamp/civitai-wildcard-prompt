@@ -1,0 +1,1 @@
+(3girls, multiple girls:1.3), (in glass jar:1.2),  kneeling, nsfw, naked, full body, shrunken, defined, cork, simple background, (blond hair:1.1), black hair, (ginger hair:1)  <lora:Girls in Glass Jars v3:0.6> <lora:theovercomer8sContrastFix_sd15:0.6>, detailed, best quality, detailed eyes, face, lips

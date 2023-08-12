@@ -1,0 +1,2 @@
+<lora:nlc_blue:1> bikini, cowboy shot, night, jump, blonde hair,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile

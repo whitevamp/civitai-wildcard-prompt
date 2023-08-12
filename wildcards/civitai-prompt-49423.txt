@@ -1,0 +1,10 @@
+masterpiece,extremely detailed CG unity 8k wallpaper, realistic,((sfw))
+//
+1girl,white hair,wavy hair,long hair,
+//
+(see-through wedding dress:1),no panties,(wedding,bride:1.2),in church,standing
+//
+
+//
+(ambient light:0.8),(cinematic composition:0.1),
+beautifully detailed background,depth of field,

@@ -1,0 +1,3 @@
+(from above:1.5),(face_focus),( straddle on tree, on branch, riding tree, climbing tree, ),(blue sky, Clouds, wind, high altitude, high-altitude landscape, overlooking perspective, overlooking, towering into the clouds,) (riding tree, spread arms, arms at sides,), ((looking at viewer,  laughing, naughty face, naughty, happy, open mouth, )), (green coat, Cloak, coat, cloth, green cloak, Clothes raised, cuffs dancing, bare legs, barefoot, brown belt,  ), ((pale skin, white skin, real skin, )), aged down, plump, blue background,
+(light smile:1.3),  (looking at viewer:1.2),hair ornament,
+Best quality, ((masterpiece, ultra high res)), (photorealistic:1.4), raw photo, 1girl, , glowing skin,  fantasy, real skin, sky,  <lora:add_detail:0.5> <lora:kwFemaleDim256_v11:0.3>

@@ -1,0 +1,5 @@
+masterpiece, (best quality:1.2), nsfw
+BREAK,
+1girl, nude, large breasts, feathered wings, (egg laying), eggs, pointy ears, squatting, harpy, vaginal object insertion, 
+BREAK,
+forest, ruins, detailed clouds <lora:eggLaying_v10:0.8>,  <lora:NAI-waterring:0.5>

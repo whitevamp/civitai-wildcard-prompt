@@ -1,0 +1,2 @@
+<lora:krillin_chara-10:0.7> krillin, <lora:GrantGustinNextToOliverQueensGraveMeme:1>QUEENSGRAVEMEME
+V, SMILE, <lora:sonGohanDragonBall_v10:0.8> son gohan, black hair, spiked hair, black eyes,  <lora:vegettoDragonBallZ_v10:1> vegetto, spiked hair, jewelry, earrings,

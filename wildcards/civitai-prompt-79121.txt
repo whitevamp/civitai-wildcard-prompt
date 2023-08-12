@@ -1,0 +1,1 @@
+<lora:ColoredLipstick:0.8>, <lora:eGirlMakeup:0.8>  (Dark Blue lips), EGIRLMAKEUP <lora:hlfcol:0.6> (hlfcol haired girl with Red and Yellow hair) <lora:hihelz:0.4> hihelz

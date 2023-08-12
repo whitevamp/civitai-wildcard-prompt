@@ -1,0 +1,8 @@
+(RAW, best quality, masterpiece:1.4), (realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, solo,  
+green eyes, symmetric eyes, complex pupils, extremely detailed eyes and face, light on face, earrings, <lora:taiwandolllikenessV20_v20:0.66>
+(silver hair), very short hair, bob cut, curly hair, blush, flower,
+navy suit, inner bratop, 
+slim waist, 
+shiny skin, skin pore, highly detailed skin, small breasts, necklace,
+supermodel, best lighting, detailed background, detailed shadow

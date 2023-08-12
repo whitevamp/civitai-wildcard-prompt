@@ -1,0 +1,3 @@
+<lora:mikoClothes_v20:1>, masterpiece, best quality, perfect detail, perfect shadow, perfect lighting, rim light, ultra face quality,
+(1 girl:2), cute, teenage, black long ponytail, (beautiful brown eyes), little breasts, miko clothes, long sleeves, (hakama skirt), small thighs, small legs, small foots,
+portrait, full body, japanese shrine in forest background, clean natural stream, (sit:2), hanging legs deep in stream, mat, floating hair, smile, look at viewer, (tilt head down:1.5)

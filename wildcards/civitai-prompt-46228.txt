@@ -1,0 +1,1 @@
+upper body, oil painting, masterpiece, best quality, highres, <lora:koreanDollLikeness_v15:0.5>, long brown hair, jewelry hairpin, large breast,riverside and rock or temple or bridge, extremely clothes, sitting, (song Dynasty, song clothing:1.2), <lora:hanfuChinese_v20:0.7>,<lora:Moxin_10:0.2>

@@ -1,0 +1,1 @@
+(1girl),upper body,(gigantic_breasts:1.4),breasts view,(cleavage:1.4),(red dress:1.6),(no bra),cleavage,solo, best quality, masterpiece,face close-up,indoors,standing,light to body,<lora:mix_3:1>, ,<lora:zekiaAruRinh_v10:0.5:faceL>, <lora:fashionGirl_v50:0.3:faceL>,<lora:yaeMikoRealistic_yaemikoMixed:0.5:faceL>, <lora:shojovibe_v11:0.5>

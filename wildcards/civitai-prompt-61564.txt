@@ -1,0 +1,1 @@
+a bird of bright colors, blue|green|yellow bird, blurry, bird, in the rainforest, realistic, in forest, (3d render:1.25), realistic, dark, epic, (detailed:1.22), (extremely intricate details:1.2), textured, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), realistic, detailed, balanced, dark theme, low key, <lora:nLoRA:0.65>

@@ -1,0 +1,1 @@
+Head Texture, White male, age 40, face center, blue eyes, dark hair, natural skin texture  <lora:Head Texture Map_v.1.0:1>

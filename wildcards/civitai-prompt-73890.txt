@@ -1,0 +1,1 @@
+masterpiece, best quality, fembyleth, breastplate, animal hood, white cloak, mooglesuit, blue bodysuit, looking at viewer, confused, garden <lora:mooglesuit-nvwls-v1:0.9> <lora:byleth-nvwls-v2:0.8>

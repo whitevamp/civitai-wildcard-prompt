@@ -1,0 +1,1 @@
+close-up, (editorial photograph of Charlotte as a 42 y.o. French diplomat) (22th century) (light bra, panties:1.3) (bending over desk:1.3), (looking back:1.4) (wet:0.9) (background office, classical furniture)(dark and moody light:1.2) <lora:epiNoiseoffset_v2:1>

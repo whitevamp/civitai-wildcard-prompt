@@ -1,0 +1,4 @@
+(bathroom, gorgeous view),
+(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, detailed clothing texture, beautiful face, solo, Aquagirl, tattoo
+oneFingerSelfieChallange, reflection, mirror
+<lora:Aquagirl_YJ:0.6>, <lora:oneFingerSelfieChallange:1>

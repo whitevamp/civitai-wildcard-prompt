@@ -1,0 +1,2 @@
+vectorstyle, cars around abandoned gas station sign made from a rocket (AtomPunkStyleSD15:1.0)
+(masterpiece:1.5) (painting:1.1) (best quality) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) <lora:dreamyVectorStyle_v1:0.7>

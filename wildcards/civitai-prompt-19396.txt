@@ -1,0 +1,2 @@
+official art, imposing, 1boy, solo, (rauru), from below, furry male, anthro goat, black skin, white hair, long hair, green eyes, big ears, full body shot, (highly detailed:1.2), black and green tones, deep shadows, complex lighting, (intricate details:1.2), absurdres, (atmosphere), coherent, dark clouds, (realistic), plains of chaos
+<lora:zeldaRauru:0.7>

@@ -1,0 +1,2 @@
+masterpiece, best quality, high resolution, ultra-detailed, illustration, 8K-Illustration, Hyper Detailed, 1girl, embarassed, blushing, arms behind back, hands behind back, rope, hanging, midair, dangling, bound arms, bound wrists, (suspension:1.2), (floating:1.4), forest, trees,
+rope above chest, rope beneath chest, no rope on ankles, otn, (nose), rosa \(pokemon\) <lora:otn_v2:1>, nose, yellow skirt, big large breasts, <lora:RosaPokemon_v10:1><hypernet:sgqo1n:1><lora:RosaPokemon_v10:1><hypernet:sgqo1n:1>

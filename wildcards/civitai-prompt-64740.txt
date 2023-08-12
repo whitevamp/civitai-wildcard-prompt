@@ -1,0 +1,3 @@
+<lora:itsfine:0.7>,  itsfine, 
+<lora:hcnone:1>, hcnone, pixel art, 1girl, alternate hairstyle, bangs, blue bow, bow, braid, breasts, capelet, crescent, crescent hair ornament, dress, eyebrows visible through hair, flying sweatdrops, grey background, hair bow, hair ornament, hat, hat ribbon, holding, holding hair, long sleeves, looking at viewer, low twintails, medium breasts, mob cap, parted lips, purple dress, purple hair, red bow, red ribbon, ribbon, simple background, solo, twin braids, twintails, v-shaped eyebrows, violet eyes, white capelet, white hat, wide sleeves
+itsfine, a dog sitting in a chair in front of a fire, cup of coffee on table, heavy fire on the background, meme in distress

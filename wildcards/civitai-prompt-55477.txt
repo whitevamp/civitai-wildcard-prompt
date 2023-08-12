@@ -1,0 +1,11 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2),
+ by (tristan eaton stanley artgermm:1.23),
+1girl,(chibi:1.4),cute, smile,
+white Bob haircut, red eyes, earring,
+white shirt,black skirt, lace legwear,
+(sitting on red sofa),
+seductive posture, smile,
+A sleek black coffee table sits in front of the sofa and a few decorative items are placed on the shelves,
+(beautiful detailed face), (beautiful detailed eyes),
+<lora:blindbox_V1Mix:0.7:ROLE>  <lora:girlInTheBottleLocon_v20m:1> gib\(concept\), jar, bottle, (Tyndall effect),Tyndall effect,Deep focus,Backlighting
+mountain, reflection, scenery, silhouette, sky, solo, umbrella, vial, water, tree, blurry, light particles, leaf

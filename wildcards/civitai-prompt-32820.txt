@@ -1,0 +1,6 @@
+20yo, 8k, RAW portrait of (japanese girl), photo realistic, ultra high res, best quality, real life photo , dramatic, atmospheric, (at morning:0.5),
+1girl, a very beautiful japanese girl, glamour shot of girl, long hair, natural skin, closed mouth, smile, bangs,
+big beautiful detailed eyes, black hair, beautiful detailed nose, upper body, medium breasts, cleavage, 
+camisole, shirt, jacket, open clothes, bare shoulders,
+beach, ocean, table,
+<lora:UmiShinonome_V1:1.2>, looking at viewer,

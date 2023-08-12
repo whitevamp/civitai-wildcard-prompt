@@ -1,0 +1,1 @@
+masterpiece, best quality, 1 beautiful girl, long hair, HDR, 8k, high detail, photorealistic, realistic face,  <lora:popularTrainedOnTheMost_v10:1>,  <lora:hauteCouturePrima_v10:1>, (full body), (ballerina dress),  <lora:asukaLangleySohryu_v9:1>

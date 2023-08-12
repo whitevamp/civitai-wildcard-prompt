@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, sitting, indoors, smile, parted lips,
+mizuki yukikaze, short hair, hair flower, white capelet, black choker, earrings, thong, black dress, navel cutout, bracelet, elbow gloves, brown gloves, necklace, plunging neckline, white flower, <lora:MizukiYukikazeV1_1:0.9>,  <lora:more_details:0.3>

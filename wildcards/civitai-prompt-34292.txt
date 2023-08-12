@@ -1,0 +1,2 @@
+real, photoshoot, realistic, luminescent, bright colors, illusion, atmospheric scene, masterpiece, best quality, (detailed beautiful face, detail skin texture, ultra-detailed body:1),
+<lyco:camerondiaz_themask_smf_lycor_01-000004:0.9>, 1girl, camerondiazmask-smf, solo, jewelry, blonde hair, realistic, necklace, blurry background, earrings, looking at viewer, blurry, parted lips, long hair, portrait, lips, bare shoulders, teeth, depth of field, upper body, red dress

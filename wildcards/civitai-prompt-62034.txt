@@ -1,0 +1,1 @@
+(masterpiece:1.2, best quality), {night sky, stars,steam, steam censor}, 1girl, slim, slender,small_breasts, flat_chest, nude, (excessive pubic hair:1.2), {extreme_closeup:1.4}, long blonde hair, <lora:excessiveSparsePubic_v10:0.8>, showering, water, wet, upper body, mature female, hand on chest, <lyco:steamCensorConcept:1>

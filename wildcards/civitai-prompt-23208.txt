@@ -1,0 +1,1 @@
+photorealistic, turkish van on a couch   <lora:tvanLora32:1>

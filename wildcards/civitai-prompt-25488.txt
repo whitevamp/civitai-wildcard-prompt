@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,grass,curly hair, Ocean Blue Backless wedding dress,depth of field, day,Standing with arms crossed at the waist
+ <lora:slg_20:1.0>

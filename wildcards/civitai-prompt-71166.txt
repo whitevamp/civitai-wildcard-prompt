@@ -1,0 +1,3 @@
+absurdres, great composition, <lora:add_detail:0.4>, <lora:epiNoiseoffset_v2:0.6>, <lora:GoodHands-beta2:1.4>, 1girl, beautiful, breathtaking, dynamic lighting, simple background, CG,
+An ethereally beautiful demoness stands before us, her slender frame draped in shimmering silver fabric that clings to her curves. Her skin is smooth and flawless, save for a few delicate scales that run down her back and tail. Her hair cascades down her shoulders in wild, untamed locks, framing her sharply angled face and piercing green eyes. She wears a smirk that hints at mischief and danger
+BREAK from behind, transparant, transparancy

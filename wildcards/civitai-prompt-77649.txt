@@ -1,0 +1,5 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:add_saturation:0.5><lora:Fonglets_Exploding_Clothes:0.7><lora:BouncingBreastsV1:0.8>
+kongou (kancolle),embarrassed,angry,
+EXPLODING CLOTHES,TORN CLOTHES,RIPPED CLOTHES,
+BOUNCING BREASTS,UNALIGNED BREASTS,MOTION BLUR,
+straight-on,

@@ -1,0 +1,5 @@
+ultrarealistic high definition RAW photograph of a 21 year old supermodel, goddess,
+(sexy, flirty, attractive, cute, gorgeous, lovely, good looking, dazzling, pleasing, stunning, beautiful, female, woman:1.2), high quality detailed skin, perfect and high quality photogenic female face, perfect round pupils, perfect round eyes, perfect round smooth shoulders, perfect teeth, (muscles abdomen:0.5), (normal female model hands:0.5),
+shoulder length thick and full updo, wearing a see through dress,
+beautiful background, sexy pose, focus on face, focus on cleavage, flirtatiously looking at viewer,
+8k, beautiful natural lighting, <lora:more_details:.2>

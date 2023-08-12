@@ -1,0 +1,6 @@
+Striped cardigan,
+compelling glances,
+Luminous Atmosphere, Soft Hues, Glowing Intrigue,
+photo booth, (spotlight:0.7),
+ <lora:superstar2:0.65>,  <lora:epiNoiseoffset_v2:1>low key,dimly lit,
+lifelike rendering, immersive atmosphere,impeccably detailed, visually stunning, creative zenith, exceptional standard,

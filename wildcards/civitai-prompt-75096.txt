@@ -1,0 +1,1 @@
+naked,masterpiece, (realistic, photo-realistic), extremely detailed,ambient light, Medium breast,<lora:breastinclassbetter_v141:0.5>,lying,Open legs(full body:1.2)

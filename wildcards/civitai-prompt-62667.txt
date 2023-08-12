@@ -1,0 +1,13 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:1),
+(solo:1.2),(serious,glaring:1.6),(angry:1.2),
+(looking away,facing away:1.4),
+(fighting:1.2),
+(fullbody :1.2),(dutch angle:1),
+(simple background:1.4),(black background:1.2),
+(schoolgirl_uniform,black thighhighs,black choker,sneaker:1.1),
+(black hair,ponytail),(supermodel:1.4),
+(muscular:1),
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:Cnbeauty4_v1:0.4>,
+<lora:epiNoiseoffset_v2:1.25>,
+<lora:on_fire10:0.5>,(human on fire:1.5),(blue fire:1.5)

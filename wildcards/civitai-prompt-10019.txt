@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), 8K, highly detailed, intricate, colorful, vibrant image, sharp focus, digital blending, 4K, trending on pixiv
+Ingrid, OVA, solo, mature female, 40yo, milf, curvy, (dark skinned female:1.15), dark skin, posing, sunny weather, blue sky, skyscrapers, (scowl look:1.2), looking at viewer, cowboy shot, 
+pink hair, very long hair, forehead, hair intakes, purple lipstick, makeup, mole under mouth, yellow eyes, perfect eyes, perfect face, ultra detailed hair, detailed face, earrings,
+large breasts, (covered nipples:1.1), (areola slip:1.15), cleavage,
+business suit, formal, pencil skirt, thighs,
+<lora:Ingrid:0.87>

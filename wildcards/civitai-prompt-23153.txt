@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:karura:0.8> karura,1girl,large breasts,gloves,metal collar,animal ears, tail,braid,blue hair,blue eyes,long hair,
+<lora:lbttcapfix_sd14:0.8> breast bondage, rope, tied up,  nude, nipples,   <lora:Concept-pilloryV2:0.8> pillory,

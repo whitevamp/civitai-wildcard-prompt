@@ -1,0 +1,1 @@
+1girl, (masterpiece:1.2), best quality, masterpiece, highres, original, arms behind back,  (ultra-detailed), (best illustration), (best shadow), from_close, small breasts, looking at viewer, (brown clothes), hat, (slightly smile: 0.6), (simple_background:1.3), hu tao \(genshin impact\), <lora:hutaoV1_hutaoV1:0.8> ,<lora:helltakerLora_10:0.6>,

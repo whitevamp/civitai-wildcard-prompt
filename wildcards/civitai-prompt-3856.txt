@@ -1,0 +1,1 @@
+Shinsengumi Haori,large battle (mecha:1.4) wearing (robe:1.2),cape,sci-fi weapons,lasors,smoke, explosions, vaporize <lora:Mecha:0.8> <lora:Shinsengumi_Haori:0.7> fcPortrait <lora:NijiExpressV2:0.2>

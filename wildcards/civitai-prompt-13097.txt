@@ -1,0 +1,7 @@
+1girl, young,  uniform 
+close up 
+hand 
+crystal 
+mars 
+Andy Kehoe
+(masterpiece:1.2)  (best quality)    (dramatic lighting, best shadow) (sharp focus)    <lora:add_detail:1>

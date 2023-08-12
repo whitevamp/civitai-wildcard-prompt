@@ -1,0 +1,5 @@
+(8k, raw photo, masterpiece, illustration,ultra high res,photorealistic,realistic,best quality,real person,photograph), 
+(technological sense, best quality,unity,wallpaper, official art, Amazing, finely detail, an extremely delicate and beautiful,extremely detailed, highly detailed, sharp focus),
+rich background,
+full body, multiple girls, long sleeves, hair ornament, chinese clothes, black hair, standing, hair flower,makeup, dress, hanfu, red lips, dressing another, simple background, single hair bun, hair bun, brown hair, lipstick, looking at another, braid, 
+ <lora:Moxin_10:0.7>,shuimobysim,<lora:shukezouma_v1_1:0.8>,shukezouma, <lora:xrs2.0:0.3>,

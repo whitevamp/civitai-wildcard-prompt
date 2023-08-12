@@ -1,0 +1,2 @@
+absurdres, highres, best quality, <lora:botw_style_offset:0.8> botw style, 1girl, hatsune miku, solo, looking at viewer, facing viewer, castle, upper body, sunlight, grass, 
+<lora:Polychrome:1>

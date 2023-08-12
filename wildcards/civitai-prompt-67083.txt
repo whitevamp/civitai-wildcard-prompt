@@ -1,0 +1,2 @@
+capybara \(kemono friends\), 1girl, (brown:1.1) shirt, orange bowtie, orange suspender shorts, brown hair, capybara ears, long sleeves, towel on head, black pantyhose, black gloves, chestnut mouth, outdoors, petting
+<lora:capi-09:0.75>

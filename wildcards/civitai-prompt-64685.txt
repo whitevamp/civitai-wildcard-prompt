@@ -1,0 +1,2 @@
+realistic, photo, masterpiece, (vibrant colors:0.8), HDR
+ <lora:Style Trip4 psychedelic trip v2:0.73> psychedelic trip

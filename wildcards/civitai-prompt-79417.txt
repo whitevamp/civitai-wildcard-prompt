@@ -1,0 +1,1 @@
+masterpiece, best quality,(full body:1.8),<lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:1>,(solo:2),(white background:1.5),[(white background:1.5),::5],Surrounded by water, <lora:SkadiCH:1.3>,isometric OR hexagon,1 girl, <Shoal background>,bare shoulders,mid shot

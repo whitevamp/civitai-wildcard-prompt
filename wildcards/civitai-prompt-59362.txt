@@ -1,0 +1,3 @@
+(dark_lighting:1.3), a malevolent spirit knight, wearing an intricate bone-patterned armor, Skeletal body, (intricate_details:1.22), (bone_armor:1.3), cinematic composition, menacing, eerie atmosphere, (Dark Lights:1.4),  (dense_fog:1.2),(rim_lighting:1.3), color_grading, looking at viewer, (full body:1.2), death_church, (evil_presence:1.2),( dark fantasy style:1.3), (cinematic lighting:1.2), (Mystery:1.3), 
+masterpiece, best quality, ultra detailed, hires, 8K, extremely detailed CG unity 8k wallpaper, intricate, highly detailed, realistic, (by marek okon:1.3), 
+ <lora:mechStyle_mechv10:0.3> <lora:sxzDeathKnights_sxzWowDK:0.3> wowdk,  <lora:moonlord:0.4> a man in black and gold armor, headpiece,

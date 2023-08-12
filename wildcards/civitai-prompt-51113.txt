@@ -1,0 +1,4 @@
+(Through the lens of the camera, the tranquil beauty of the autumn landscape is captured in all its glory, with a lone woman basking in the soft, warm light of the sun. Her gorgeous face, with its captivating features and bright, playful eyes, is perfectly framed by the lush colors of the surrounding foliage, while her voluptuous curves and shapely figure are enhanced by the rich, cinematic hues of the image.),
+She is turned away from the lens,
+photorealistic, high res, 8k, ultra-realistic details,
+<lora:irene_V70:1> irene1,

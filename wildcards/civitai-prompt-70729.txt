@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, meryl, black tank top, barefoot, ((black panties)), ((view from a bathroom stall)), ((green tiled walls, white tile floor)), centered, full body, ((AK-47)), standing,  <lora:meryl-nvwls-v1-final:1>,  <lyco:BetterGuns-V1:1.0>, ((looking at viewer)), ((aiming gun at viewer)), centered

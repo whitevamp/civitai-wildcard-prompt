@@ -1,0 +1,2 @@
+<lora:LowRA:0,7>, a ((((black, street kitty)))) in a ((((red wig)))), (((sits near))) an ((empty bowl)), ((((kitty look on bowl)))), in the kitchen, an inquiring look, a penetrating look, ((looks at the camera)),  intricate details, hdr, intricate details, hyperdetailed, cinematic, dark shot, muted colors, soothing tones, muted colors, technicolor, (muddy:0.6), ((realistic)), (((dramatic atmosphere)))
+(((hyper realistic))), ((4k)), ((((empty bowl close-up)))), (angry | misunderstanding | disturbance)

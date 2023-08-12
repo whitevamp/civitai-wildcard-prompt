@@ -1,0 +1,3 @@
+(gakki:0.9),(masterpiece),(best quality:1.0), (ultra highres:1.0), detailed,
+sfw, masterpiece, delicate, elegance, best quality, finely detailed, colorful, intricate details, (8K:1.1), (Ultra High Res), solo:1.9, 1girl:<platinum blonde long hair, slim body, large breasts, (cute norwegian woman+sexy ukrainian woman+lovely polish woman), no makeup, high nose bridge, 20 years old, (happy smile), (lean back on pickup truck), (grey fedora:1.1), (jean jacket:1.2), short skinny jeans:1.0, white round neck shirt:1.0, gold necklace:1.0 EF 14mm f2.8 ISO100 1/500s, correct exposure, wide angle, in forest,
+ <lora:gakki:1>

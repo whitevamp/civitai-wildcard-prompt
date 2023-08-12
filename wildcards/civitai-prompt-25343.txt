@@ -1,0 +1,1 @@
+best quality, masterpiece, ultra high res, 1girl, Ana de Armas, looking at viewer, portrait, mechanical arms, battle mech, steampunk, <lora:SteamPunkMachineryv2:0.7>, dynamic pose, dynamic view, <lyco:Ana de Armas:1.0>, inboxDollPlaySetQuiron style, doll, toy, in a gift box, character print, <lora:quiron_inboxDollPlaySet_v2_lora:1>

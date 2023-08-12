@@ -1,0 +1,6 @@
+1girl, woman, milf, makeup, blue eyeslashes, purple lips,
+long black dress, high boots, tight clothes, pelvic curtain dress, turtleneck, white gloves, jewelry,
+standing, showing leg by lifting leg, (hidden privates, npclearly, obviously no panties:1),
+(night), indoor, high windows, party hall,fantasy medieval palace,
+detailed face and eyes, view from below,
+colorful, (masterpiece:1.5) (photorealistic:1.1) (bokeh) (best quality) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting), <lora:npm-v11t-000005:1> <lora:add_detail:1>

@@ -1,0 +1,4 @@
+ultra detailed,1girl,(beautiful detailed eyes:1.1),(bokeh photography:1.3),warm tones,lens flare,light particles,resort pool,
+(pigtails:1.3),animal ears fluff,medium breast,one-piece swimsuit,(wedgie:1.2),from behind,resort pool,wet skin,buttocks,ass,(hip focus:1.5),from below,
+shiroko \(blue archive\),
+<lora:sunaookamiShiroko_v1:0.8>

@@ -1,0 +1,6 @@
+1girl, full body, cowboy shot, 
+ (Rembrandt), illustration, (masterpiece), (best quality), (ultra_detailed), finely detail, (Depth of field),
+HshinoAi,gloves, tongue out, tongue, long hair, star \(symbol\), looking at viewer, (purple hair:1.2), purple eyes, upper body, hair ornament, :p, frills, pink shirt, smile, sleeveless, shirt, idol, symbol-shaped pupils, hands up, bangs, one side up, star-shaped pupils, arms up,
+dress pull,
+Roaring Twenties, isometric, from above, sky, flower, cliff,
+<lora:HoshinoAi_v1.1-000007:1:CHARACTER>

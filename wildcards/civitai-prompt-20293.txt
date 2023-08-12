@@ -1,0 +1,8 @@
+1girl, (full-body portrait of a gorgeous Italian young woman),   a young Italian actress from the 60ties like Claudia Cardinale, 
+wearing a sexy  Wool Soft Chrome Cotton argyle cardigan, argyle crop top, argyle sweater, argyle vest,  <lora:argyle_top:0.55> ,
+(masterpiece), (ultra-detailed), (best quality), 8K UHD, high definition, high-quality texture, intricate details, absurdres, detailed texture, finely detailed, high detail, high-quality shadow,
+(huge breasts:1.6),   (round firm breasts:1.3),  (deep cleavage:1.3),  (breasts squeezed together:1.3) (uplift tits bulging out:1.3),   <lora:biggerBreasts_v2:0.45>
+detailed nose, perfect thin lips, highly detailed eyes,  perfect skin, veins, long brown air, makeup, necklace, bracelets,  expensive jewels,
+smiling,  naughty smile, sultry, sexy, sexy pose, spread legs,  raised skirt, panties, lace panties, looking defiant at the viewer, ready for sex, waiting for sex,
+laying on   a queen size bed in the middle of a luxury  baroque bedroom  with balcony french doors ,  an English garden full of flowers in the background, 
+volumetric   lighting

@@ -1,0 +1,7 @@
+<lora:M3GEN:0.65>,
+(looking at viewer),(cowboy shot dynamic pose:1.22),
+M3GEN/(Robot Girl/), 1girl, solo, long hair, blonde hair, realistic, blurry, grey eyes, bow, photo inset, upper body, bowtie, parted lips, ribbon, lips,
+detailed shiny skin,perfect and very white teeth,
+finely detailed beautiful eyes,Ultra-fine facial detail,eyelashes,Glossy pink lips,
+(detailed The dark and terrifying alleys background:1.4),outdoors,(day:1.33),
+depth of field,intricate,elegant,highly detailed,digital photography,masterpiece,hdr,<lora:LASER-V2:0.35>,

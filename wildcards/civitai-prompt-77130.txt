@@ -1,0 +1,2 @@
+(masterpiece, best quality),1girl, solo, cassandra cain, batgirl suit, black hair, brown eyes, smile,
+akihabara city, of the dead,  night,  <lora:CassandraCain-01:0.75>, from above, STANDING rooftop, neon sign, game center,

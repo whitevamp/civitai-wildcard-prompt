@@ -1,0 +1,1 @@
+necoarc, 1girl, solo, cat girl, brown boots, dark pink skirt, white turtleneck, cat ears, yellow hair, red eyes, tail, fumo, doll, sitting,  <lora:necoArcCharacters_necoArcv3final:0.8>,  <lora:fumoLikeAnimeStyle_v10:0.8>

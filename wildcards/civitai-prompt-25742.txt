@@ -1,0 +1,1 @@
+a melancholic autumn scene in a vast flower field,a gentle breeze rustling through the dry grass,fallen leaves scattered among the flowers, a bittersweet atmosphere, a moment of quiet contemplation,Soft and warm color palette,delicate brushwork, evocative use of light and shadow, subtle details in the wilting flowers, <lora:msw_locon:0.4><lora:Rackflowerv2:0.4>

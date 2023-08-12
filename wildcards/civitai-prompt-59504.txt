@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:1> <lora:yoneyamaMaiStyle_yoneyamaMaiV2Locon:1> 1 girl, \hatsune_miku\, side_pose, look_at_viewer, (depth of field), (colorful hair:1.2), side_angle, masterpiece, best quality, (colorful:1.5), open smile

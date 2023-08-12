@@ -1,0 +1,3 @@
+Alita: Battle Angel, (Cyborg girl:1.2), SciFi, Cyberpunk
+
+UHD, HDR, 16K, ((Masterpiece)), alita woman <lora:alita_Test3Safetensors:0.5>

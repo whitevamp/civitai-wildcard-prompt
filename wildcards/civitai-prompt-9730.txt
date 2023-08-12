@@ -1,0 +1,4 @@
+a sexy garl worker, walkin in factory ,wide pelvis,( khaki mini shorts,:1.2), nude skin lace bikini, bangs, <lora:T2:0.3>
+(best quality, masterpiece:1.2, photo realistic:1.4), raw photo, ultra high res, portrait, professional photograph, 8k wallpaper, HDR, perfect artwork, photon mapping, realistic shadow, detailed skin texture, film grain, depth of field, Broad lighting, cinematic lighting, natural shading, caustics, boken:1.2,   <lora:AI_Utaha:0.4> (intricate details:1.2), 85mm, f/1.4, ISO 200, 1/160s:0.75, sharp focusillustration), ultra highres, depth of field, caustics, Broad lighting, natural shading, 85mm, f/1.4, ISO 200,1/160s:0.75<lora:more_details:0.3>
+1girl, solo,  japanese girl, perfecteyes,  (light smile:1.2),, detail eye pupil,  best _lipgloss, large breasts,   (cowboy shot:1.2),standing,<lyco:creepychan:0.7>
+blurry background, Indoor, factory, shelves, desks, lamps, <lora:sd-No.144:0.3>

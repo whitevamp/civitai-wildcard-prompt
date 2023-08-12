@@ -1,0 +1,7 @@
+absurdres, masterpiece, perfect lighting, vibrant, adult, female, looking at viewer,
+(breast expansion:4, before and after:1.3),
+(((catgirl)) clown), ((((green and white argyle)) bodysuit)), wrist cuffs, ((white gloves)), vertical-striped legwear,
+(brown hair), long hair, (yellow eyes, slit pupils),
+((((massive round enormous gigantic breasts)))), <lora:BEReaction:1>,
+(excited smile), (((tavern)))
+ <lora:hiqcg_body_epoch:0.4>

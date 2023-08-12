@@ -1,0 +1,2 @@
+<lora:HydroTech-20:0.8>,hydrotech ,  scifi, 
+hamster

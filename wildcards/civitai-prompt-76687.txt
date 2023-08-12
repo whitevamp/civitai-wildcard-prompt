@@ -1,0 +1,1 @@
+masterpiece, (realistic:1.4), photorealistic, best quality, summerLyn, blue bikini, hair flowers, choker, beach, water, sun, smile  <lora:lyn-nvwls-v1-000013:0.8>

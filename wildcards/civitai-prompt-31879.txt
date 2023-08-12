@@ -1,0 +1,1 @@
+(best quality, masterpiece, perfect face), 1girl, narrow waist, skinny, blue hair, gloves, metal vambrace, [ bondage outfit, dominatrix | mechaarmor ], <lora:mechaarmor_v0.7:0.8>,  <lora:ClothingAdjuster3:0.3>, underground research lab, <lora:BondageOutfitV1:0.6>

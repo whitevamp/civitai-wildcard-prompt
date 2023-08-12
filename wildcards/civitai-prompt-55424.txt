@@ -1,0 +1,7 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,
+black tight business trousers, white shirt, adorable face, detailed face, masterpiece, best quality, incredibly absurdres, high quality, extremely delicate and beautiful girl,iu1,
+, purple eyes, pink long hair, big breast, adult girl,(Flight Attendant Uniform:1.2)
+
+, detailed background,indoor,
+
+breastsOutExposed, <lora:breastsOutExposed_24:1>, <lora:iu_V35:0.5>

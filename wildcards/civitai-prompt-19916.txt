@@ -1,0 +1,3 @@
+(masterpiece, best quality, ultra-detailed, highres), perfect face, sidelighting,  lustrous skin, standing,
+(bloom), (shine), lighting, ray tracing, sci-fi, city, street, outdoor, depth_of_field,
+<lora:shenheLoraCollection_shenheMedium:0.5>, shenhe \(genshin impact\), silver eyes ,  hair over one eye, (hair ornament) , breast curtain, high heels, long hair, <lora:waterVFX:0.6>, whirlwind of water

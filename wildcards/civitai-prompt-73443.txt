@@ -1,0 +1,1 @@
+a man in a business suit,  <lora:G_man:0.7>

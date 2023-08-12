@@ -1,0 +1,5 @@
+parameters
+
+1girl,Balcony,Coffee Table,Coffee,bichu,oil painting,masterpiece,best quality,HDR.UHD.4K,8K,64K,<lora:bichu-v0612:0.7>,
+Negative prompt: worst quality,low quality,bad quality,lowres,
+Steps: 24, Sampler: DPM++ 2M, CFG scale: 7, Seed: 226280166, Size: 512x768, Model hash: bde6750eac, Model: 厚涂--majicmixFantasy_v20, Clip skip: 2, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate/erode: 32, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 23.6.2, Lora hashes: "bichu-v0612: fbbebffec6fe", Version: v1.3.2, Hashes: {"vae": "c6a580b13a", "model": "bde6750eac"}

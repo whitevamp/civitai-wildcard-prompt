@@ -1,0 +1,3 @@
+masterpiece, best quality, 2girls, looking at another, smile, from side, portrait, white background 
+AND masterpiece, best quality, 2girls, miia, facial mark, smile, yellow eyes, shirt, cardigan, long hair, from side, portrait, white background
+AND masterpiece, best quality, 2girls, eunectes, tank top, smile, blue eyes, goggles, short hair, from side, portrait, white background <lora:Miia (Monster Musume):1> <lora:Eunectes (Arknights):1>

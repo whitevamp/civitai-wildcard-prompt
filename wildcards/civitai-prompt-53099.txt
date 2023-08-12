@@ -1,0 +1,2 @@
+modelshoot style, epic realistic,  full body,(dark magician girl:0.5),  tree vines encircle,  , beautiful background , ultra clarity , super realism , 8k, (natural skin texture, hyperrealism, soft light, sharp:1.2), (intricate details:1.12), hdr, (dark shot:1.22), neutral colors, (hdr:1.4), (muted colors:1.4), (intricate), (artstation:1.2), hyperdetailed, dramatic, intricate details, (technicolor:0.9), (rutkowski:0.8), cinematic, detailed,
+<lora:darkMagicianGirlLora_1:0.7>

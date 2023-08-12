@@ -1,0 +1,1 @@
+LEGO BrickHeadz wonder woman <lora:lego_v1.0:0.8>, 8k uhd, high quality, film grain

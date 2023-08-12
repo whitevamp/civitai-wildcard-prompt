@@ -1,0 +1,3 @@
+b1mb0 woman, cop uniform, standing in a street, angry,
+(best quality, detailed, qhd),
+<lora:b1mb0:0.7>

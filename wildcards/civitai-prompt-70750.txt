@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed),
+<lora:SagirinV5.1:0.7> Sagirin

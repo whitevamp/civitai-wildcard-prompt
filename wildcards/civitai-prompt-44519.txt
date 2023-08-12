@@ -1,0 +1,2 @@
+masterpiece,best quality,highly detailed,foot focus,full body shot,detailed face,(photorealistic:1.4),solo,cammy,bare legs,choker,beautiful eyes,
+1girl,pool,barefoot,(nsfw:1.5),(nsfw:1.5),(nsfw:1.5),<lora:cammy whiteV1>,SkinHairDetail,

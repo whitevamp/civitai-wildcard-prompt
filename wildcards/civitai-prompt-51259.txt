@@ -1,0 +1,1 @@
+((masterpiece)),(best quality), absurdres,sadako_yamamura, white dress, red_eyes, <lora:Sadakobest:0.7>, looking at viewer,   <lora:vasyaLozhkinStyle_lozhkinV1:0.57>,lozhkin, big smile, accurate teeth with gaps,open mouth, 1girl,solo,

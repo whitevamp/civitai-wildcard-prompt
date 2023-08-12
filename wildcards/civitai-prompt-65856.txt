@@ -1,0 +1,1 @@
+<lora:CuteGirlMix4:0.25>, mix4, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), a photo on 19 yo girl, (cute face:1.2), wet white tank top, <lora:seethru:0.9> seethru

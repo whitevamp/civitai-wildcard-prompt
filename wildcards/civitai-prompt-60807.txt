@@ -1,0 +1,3 @@
+high-res, masterpiece,(1 girls sit on milk bath in White background:1.3), face light,((wearing elegant pink and white cow print dress:1.3),(lingerie:1.3),(((cut dress))), looking at viewer,face blush,loving eyes,
+good hand,  best quality, cleavage,
+(large breasts),(blond color hair),<lora:25DDAZStyleLora_v10:0.31>,daz ,dazzler, <lora:wearingCowPrint_v10:0.41>, ulzzang-6500-v1.1,

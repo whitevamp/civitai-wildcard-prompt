@@ -1,0 +1,1 @@
+masterpiece, best quality, photorealistic, (capybara), a few people are taking photo of a (capybara),  pov,realistic,crowd,multiple girls,multiple boys, coslplay, photo background, <lora:capi-09:0.75>,  <lora:de:1>

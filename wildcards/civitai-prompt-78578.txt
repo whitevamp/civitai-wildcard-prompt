@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), (traveler with worn-out clothes:1.4), extreme detailed eyes, (perfect face), shiny skin, colorful, highest detailed, vibrant colors, ultra high res, (high contrast), intricate, lens flare, (cloudy sky, sunset:1.2), (city), <lora:add_detail:0.8>

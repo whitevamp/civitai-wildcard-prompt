@@ -1,0 +1,1 @@
+blacklight, <lora:uv:0.7>, gl0w1ngR,  <lora:gl0w1ngR3(1)Civit:0.6>, <lora:NijiExpressV2:0.8>,  <lora:add_detail:0.5>,(panorama,landscape:1.2),(underground city,underground,:1.2) ,waterfall, ruins, masterpiece, best quality, highly detailed, (8k), (4k), HDR, bilgewater,  <lora:Bilgewater:0.6>

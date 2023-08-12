@@ -1,0 +1,3 @@
+( masterpiece, best quality, (anime style:1.3)),
+32k,detail skin,high quality,
+1 woman with big boobs,looks at the viewer,,night,strong wind,long white hair,gloving blue eyes,crossed legs, (full body:1.21), demon,colorful, <lora:add-detail-xl:3>, (topless, naked boobs:1.33), <lora:finenude_v0_2a:1>, woman, barefoot, feet, foot focus, feet up, girl showing feet to viewer

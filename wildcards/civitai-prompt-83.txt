@@ -1,0 +1,3 @@
+hd, absurdres, 8k, masterpiece, complex background, high quality, volumetric lighting,
+1girl, lilith, diablo4, horns, vampire wings, gigantic wings, corrupted church, blood, small breasts, (black robe:1.2), black dress, black corset, bra, collar, breechcloth, looking down at viewer, throne, (scythe wielder:1.4),
+<lora:lilith:0.8>, (red background lighting glow:0.1),

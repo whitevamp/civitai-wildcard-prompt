@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lyco:purah-nvwls-v3-final:0.8>, <lora:concept_leaningforward:1>, solo, 1girl, purah, smile, looking at viewer, leaning forward, hands on own thighs, red glasses, hair ornament, hair stick, red headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings

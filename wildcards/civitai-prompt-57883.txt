@@ -1,0 +1,9 @@
+(RAW photo, best quality, masterpiece:1.4), realistic, ultra highres, absurdres,
+1girl, solo, (side view, looking at camera, sitting and stretching legs),
+track and field, track uniforms, sportswear, sports bras, sports bikinis, 
+[rikujou, <lora:trackUniform_v1jp:0.9>::0.6]  
+symmetric eyes, light on face, blush, (ulzzang-6500-v1.1:0.3), (pureerosface_v1:0.2)
+ponytail, smiling and grin, 
+large breasts, 
+shiny skin, sweating, sunshine, 
+perfect body proportions, best lighting, detailed background, detailed shadow, sharp focus,

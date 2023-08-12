@@ -1,0 +1,3 @@
+(symmetry:1.4), (photorealistic, full body view, 1girl, solo, breathtaking masterpiece, best quality, highest quality, ultra highres, absurdres, highres, award winning 8K digital painting:1.2) of an ethereal and (incredibly beautiful girl, very beautiful face:1.6), digital drawing, very detailed, intricate, dramatic lighting, (crepuscular rays:1.1) ADDBASE
+<lora:style-bluealienpunk:0.6> beautiful face, beautiful eyes, blue eyes, (v-shaped eyebrows:1.4), captivating eyes, cleavage, plate armguards, beautiful hands, elegant, (massive symmetrical bluealienpunk portal:1.4) in background, glowing energy, (rim lighting:1.3) ADDROW
+<lora:style-celtpunkai:1> (celtpunkai legs:1.2), (lush flora, flowers, moss, glowing runes:1.4), celtpunkai ritual, fog

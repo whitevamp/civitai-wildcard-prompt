@@ -1,0 +1,11 @@
+(masterpiece, best quality:1.3), colorful, vibrant, highly detailed, hentai, 4K,
+
+Kurotaki Rin, 1girl, Balancing in a dancer's pose, sunny weather, golden hour, (blush:1.1), (sweat:1.1), horny smile, flirting glance, full body shot,
+
+black hair, very long hair, lipstick, makeup, eyeshadow, ultra detailed hair, detailed face, violet eyes, complex realistic perfect eyes, perfect face, earrings, jewelry,
+
+black military uniform, pencil skirt, (white shirt:1.1), armband, necktie, cap, pink thighhighs, pink court shoes,
+
+(mature female, 30yo:1.1), covered breasts, milf, breasts,
+
+<lora:goodhandsBeta2.L2r5:1> <lora:Kurotaki-000009:0.85>,

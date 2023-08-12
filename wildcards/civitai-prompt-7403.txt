@@ -1,0 +1,2 @@
+wjqflail full figure, dwarf cleric, intricate and detailed, chains, <lora:wjqflail-15:0.7>, 
+8k, highly detailed, jail, dungeon, Transparent,Fantasy, monster,  dark, dwarf,  <lora:more_details:0.5>

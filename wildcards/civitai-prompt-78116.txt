@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 
+1girl,  solo,   <lora:Emilia_V2:0.8> Emilia,

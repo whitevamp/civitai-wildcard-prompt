@@ -1,0 +1,1 @@
+shz,((best quality)), ((masterpiece)), (detailed), realistic,(riding motorcycle),mustache,chinese clothes,armour,chinese general,looking at viewer, full body,night,moon in the night sky,outdoors,motorcycle <lora:Xiaorenshu_v20:0.5> <lora:TheThreeKingdoms_v11:0.7>

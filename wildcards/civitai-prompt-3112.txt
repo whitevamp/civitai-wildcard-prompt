@@ -1,0 +1,1 @@
+food, anime, manga, 1girl, a girl with 1 plate nasigoreng with one egg fried on plate, wooden table, details, hot, soft focus, dramatic light, low ligt, blurry background  <lora:add_detail:1>  <lora:ARWnasigoreng:1>

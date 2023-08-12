@@ -1,0 +1,3 @@
+1girl, linen dress assassin, Chinese, Han dynasty, determined face, street, rain
+hanfu, ru_qun, <lora:hanfu_v28:0.8>
+(photorealistic:1.5), best quality, masterpiece, extremely detailed face, cinematic lighting

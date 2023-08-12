@@ -1,0 +1,3 @@
+close-up,  masterpiece, best quality,<lora:Cyberworld_20230622141420-000018:.7>,Cyberworld,cyber 1 girls,1girl,sound game, Floating in the air.,dj,tail,,100 drone,( random hair, random color eyes, shining eyes, silver hair,
+modern girl,ultra detail,8k,near future,akihabara,,otaku boy,fisheye_lens,Very detailed,view from head-mounted display,vivid color,
+neon city, cityscape,night,fractal_art,beat'-em-up game

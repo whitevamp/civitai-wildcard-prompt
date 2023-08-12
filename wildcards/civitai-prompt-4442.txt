@@ -1,0 +1,3 @@
+(RAW, masterpiece, best quality, cinematic),  (crimson and yellow tones:1.2), 1girl, cowboy shot, spacesuit, ((circuit under skin, terrified face)), (glowing eyes, looking back), advanced spaceship, Interstellar, halo, advanced warfare, space combat,  star war, on the moon, earth in the background, mythology,  
+<lora:more_details:0.8>  
+ <lora:LoRA-FashionMagCover:1>

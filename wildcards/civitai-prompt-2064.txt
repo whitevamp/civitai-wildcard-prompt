@@ -1,0 +1,1 @@
+<lora:Vlori4:0.7>, shurik, (upper body:1.2),  ,a boy in (light yellow jacket:1.1), glasses, blue eyes, (red tie:1.3), (natural skin texture, hyperrealism, soft light, sharp)

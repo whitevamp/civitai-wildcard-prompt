@@ -1,0 +1,2 @@
+ultra-detailed,masterpiece,finely detail,highres,8k wallpaper,1girl, black_hair, lips, long_hair, realistic, sitting, skirt, solo, shirt, long_sleeves, jewelry, earrings, parted_lips, plaid, stairs, dark academia, outfits, looking at viewer,
+<lora:dark:0.8>

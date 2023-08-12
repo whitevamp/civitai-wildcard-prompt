@@ -1,0 +1,1 @@
+sharp focus, highly detailed, crystal flower, sapphire rose, photographic <lora:FairyTaleV20_SD1.5:0.9>  <lora:LowRA:0.3>

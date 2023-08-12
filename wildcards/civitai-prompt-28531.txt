@@ -1,0 +1,1 @@
+<lora:polyhedron_skinny_all:0.1> <lora:detailed_eye:0.2> RAW photo, portrait of a beautiful 70 year old woman, wrinkled face, pink summer dress, full sharp, detailed face, blue eyes, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

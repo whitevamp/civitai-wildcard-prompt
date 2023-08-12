@@ -1,0 +1,3 @@
+derpibooru_p_95, A photograph of an old corridor in an abandoned building with peeling paint on the walls and a dirty floor, a faint moonlight illuminating the corridor through sparse windows leading outside to a wooded area, a terrible creature resembling Twilight Sparkle standing between the half-light and the faint light and staring at the viewer, a real nasty creature caught on camera, Photorealistic, hyperrealistic, hyperdetailed, subsurface scattering, pony [cute twilight sparkle: suffering monster: 0.5], anatomically correct pony, hooves, a gorgeous mane, a big wide mane, big tail, pony anatomy, 
+glitch, distortion, VHS footage of, VHS
+<lora:fftage:1> <lora:Twilight Sparkle:0.2> <lora:LowRA:0.6> <lora:VHS3:0.3>

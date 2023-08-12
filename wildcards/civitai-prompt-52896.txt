@@ -1,0 +1,1 @@
+(bs_puiyi:0.7), a cute girl, looking at viewer, <lora:ganyuGenshinImpact_offset:1>, GANYU \(GENSHIN IMPACT\), (masterpiece), (highly detailed skin:1.2), <lora:danni2D_e536075steps:0.2>, best quality, (masterpiece:1.3), closed mouth, smirk, shy, (highly detailed face:1.3), perfect face, full lips, <lora:epiNoiseoffset_v2:1>,

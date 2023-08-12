@@ -1,0 +1,6 @@
+(beautiful detailed face:1.0), (detailed deep eyes),best quality, 
+,1girl, style,girl,solo,light novel,
+, long hair, blonde hair,school uniform, 
+,happy,sweat, 
+,in window bed private room indoors bookshelf,
+,<lora:ST_bu:0.7> <lora:CH SenaKashiwazaki_v10:0.6>

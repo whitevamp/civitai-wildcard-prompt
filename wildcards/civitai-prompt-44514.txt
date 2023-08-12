@@ -1,0 +1,1 @@
+(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res,(detailed eyes),HDR,8k, (extreme detailed illustration),1girl, (fighter jet), runway, (full body),  <lora:koreanDollLikeness_v10:0.5>

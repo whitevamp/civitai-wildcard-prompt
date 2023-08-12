@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.30), Ultra Detailed, 50mm, official art, unity 8k wallpaper, stunning environment, hyperdetailed, (aestheticism), ethereal, 
+girly, solo, a girl in a thin silk dress (sitting on  window), (indoors), looking away, flower field outside the window, (style:1.5), detailed background, soft lighting, gorgeous light and shadow,
+ <lora:JPfilmColor_Heavy_grain:0.5>, film overlay, film grain

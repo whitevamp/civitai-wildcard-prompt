@@ -1,0 +1,1 @@
+masterpiece, best quality, TailsTheFox, no humans, animal, animal focus,  Beautiful Art Style, ahegao hoodie, ghastly, medieval village, <lora:ahegaoHoodie:0.8>,  <lora:CursedTails:0.8>

@@ -1,0 +1,1 @@
+<lora:koreanDollLikeness_v15:0.66>, best quality, ultra high res, (photorealistic:1.4), 1girl, loose and oversized open jacket, white sports bra, (yoga pants:1), big breasts, (light brown short ponytail:1.2), looking at viewer, smiling, cute, full body, streets, outdoors <lora:aki7:1>

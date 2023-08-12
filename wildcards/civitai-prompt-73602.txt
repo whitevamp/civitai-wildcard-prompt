@@ -1,0 +1,7 @@
+\(Style\): { (flat color:1.3), (colorful:1.3), (masterpiece:1.2, best quality), science fiction },
+\(Composition\): { no humans, from above, extreme_closeup, facing_viewer, front_view, mid shot },
+\(Hair\): { short_blonde_hair, wavy hair },
+\(Appearance\): { mature, slender, fit, small_breasts, flat_chest, green_eyes, helmet  },
+\(Clothing\): { [(mecha:1.2):police], black_bodysuit, red_armor, <lora:Niji:0.6> },
+\(Behavior\): { looking at viewer, crazy smiling },
+\(Location\): {( multicolored background, red background )}

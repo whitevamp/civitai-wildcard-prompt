@@ -1,0 +1,2 @@
+1girl, white hair, (colored eyelashes, white eyelashes:1.2), sleepy, yellow, faint smile, (smile:0.8), closed mouth, head down, 
+ <lora:colored_eyelashes000:1>

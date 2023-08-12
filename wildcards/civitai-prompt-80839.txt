@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp, 1girl, nagant(mha),purple hair,purple eyes,standing,(from below),(wet),wet body,wet clothing,upper body,top of building, (black clouds), night,(raining:1.5),serious face,angry expression, <lora:nagant-mha:0.9>,   <lyco:ShinyOiledSkin_v20-LyCORIS:1.2>

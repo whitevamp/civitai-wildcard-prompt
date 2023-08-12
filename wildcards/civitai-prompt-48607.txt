@@ -1,0 +1,1 @@
+masterpiece,bestquality,highres, <lora:ConceptMechanicalStationary_v2:0.9> <lora:amane Suzuha:0.7:MIDD>,1girl,amane suzuha,GREEN EYES,twin_braids,large breasts,nude,ahegao,tongue out,drooling,saliva,STATIONARY_RESTRAINTS,VAGINAL OBJECT INSERTION,SEX_MACHINE <lora:ahegao:0.75:OUTALL>

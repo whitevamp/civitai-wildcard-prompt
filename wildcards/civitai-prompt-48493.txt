@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ultra high res, 1 girl,white aodaimong, holding a cloth,khongbra,looking at viewer, beautiful detailed eyes, floating hair, detailed clothes, beautiful detailed skin, skin texture, professional lighting, <lora:06_7_nsfwAodai_aodaimongV2:0.8>  <lora:02_yurisaLora_v30:0.6>

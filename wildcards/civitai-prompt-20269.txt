@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,real skin texture,
+(freckles:0.85),slim, beautiful girl, 20 years old,playful,
+red lips, (eyeliner),
+bare shoulder, (grabbing breast:1.2),glasses, dark room,small breasts,
+sitting, auburn hair, long hair,
+ <lora:breastinclassBetter_v141:0.30>

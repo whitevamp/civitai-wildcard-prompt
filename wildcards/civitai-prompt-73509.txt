@@ -1,0 +1,2 @@
+1girl, bird, watercraft, boat, solo, brown hair, skirt, sitting, outdoors, long hair, sky, shirt, jacket, blue sky, holding, white shirt, water, seagull, bag, necktie, closed eyes, plaid skirt, pleated skirt, long sleeves, collared shirt, wind, plaid, day, instrument, school uniform, floating hair, music, hood down, hood, closed mouth, playing instrument, bangs, medium hair, yellow jacket, swing, ship, coat, scenery, flock, holding instrument, white bird
+ <lora:loahrenrustyle_noise-000018:0.8>

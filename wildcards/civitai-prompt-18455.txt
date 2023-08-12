@@ -1,0 +1,3 @@
+clty ,sky, ADDBASE
+1girl,lick, <lora:JPGirlEatIceCreamMix1:1>  ADDCOL
+BOOM,nuclear cloud,clty ,sky,<lora:BOOM:1>

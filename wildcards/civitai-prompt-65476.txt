@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, facial hair, blue bodysuit, gloves, headband, upper body, looking at viewer, serious expression on face, salute <lora:solidsnake-nvwls-v3-000012:0.9>

@@ -1,0 +1,6 @@
+(8k, masterpiece, best quality, ultra detailed, detailed eyes, perfect face), 
+beautiful woman,
+fantasy of terror, bed and breakfast, gazing into the distance pose, cotton blend bikini briefs, halter neck top, dirty ash blonde hair, prom hairstyle
+<lora:1_add_detail:0.82>
+<lora:2_more_details:0.38>
+<lora:6_LowRA:0.29>

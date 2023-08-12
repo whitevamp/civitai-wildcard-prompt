@@ -1,0 +1,6 @@
+best quality, ultra high res, (photorealistic), RAW photo,(DOF:1.5), (upper thigh),in Suite, luxurious room, curtains, large sweep window, night view of skyscraper
+stand by the window ,
+1japanese girl, solo, cute, kawaii,(smile), (brown eyes, catch light:1.4), natural skin, (short hair)
+BREAK
+(thin light gray naked skirt:1.4)
+<lora:uduki_MK05mix:0.5>

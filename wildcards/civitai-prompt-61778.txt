@@ -1,0 +1,3 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) ,(cinematic look) ,
+1girl,solo,elf,(muscular:1.9),Inspired by Alice in Wonderland, magic, fairy tales,(elf ears),floating_hair,green_hair,glowing_eyes,green_eyes,looking at viewer,holding_weapon,Handheld red scythe,twintails,natural skin texture,(fairy wings,elf wings :1.3), halterdress,wearing OPSW, X_style suspenders, (Primaballerina_tutu skirt:1.4), embroidery, atdan, (green forest,Flowery meadow),surrounded by glowing plants, flowers,((flying petal)),  colorful butterfly,flying fireflies,bonfires, 
+<lora:pureInnocentGirl_v20:0.3>

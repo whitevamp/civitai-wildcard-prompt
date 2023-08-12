@@ -1,0 +1,3 @@
+Forest, (reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, solo, extremely beautiful detailed face, outdoors, leaf, tree, best shadow, 
+forest woodland camouflage top, (underboob:1.2), crop top, upper body, medium breasts, platinum blonde hair, long hair, female in her Late twenties, Russian, blue eyes,  
+<lora:crop_shirt_underboob:0.6>, AS-Adult,

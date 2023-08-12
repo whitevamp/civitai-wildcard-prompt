@@ -1,0 +1,3 @@
+masterpiece, best quality, highres, (photorealistic:1.4), (depth of field:1.8), a beautiful Russian girl, 1 girl, blondhead, (full body:1.3), stewardess,(dark blue uniform:1.3),garrison cap, pale skin,(gigantic breasts, cleavage,curvy:1.2),skinny body,shiny skin,Slim waist, standing in the airport,
+
+<lora:russianStewardess_v10:0.7>

@@ -1,0 +1,2 @@
+best quality, highres, high resolution, high detail, sharp focus, cinematic shadow, <lora:nomomassive:0.7>  <lora:AntimatterTech-20:0.9>.
+A massive antitech tree connected to the city below by massive glowing orange antitech energy bridges.

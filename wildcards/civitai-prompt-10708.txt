@@ -1,0 +1,1 @@
+(best quality, masterpiece),<lora:TigerstripeAI:0.5>, TigerstripeAI, 1girl, medium hair, looking at viewer, <lora:mechaarmor_v0.7:0.7>,  yellow  mechaarmor, [breastplate:tiger:0.4],

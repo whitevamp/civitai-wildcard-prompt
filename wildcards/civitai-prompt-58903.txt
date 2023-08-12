@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,          <lora:aiHoshinoLycorisOshiNoKo_v25:0.8>

@@ -1,0 +1,7 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:apron:0.5>
+2girls,siblings,   side-by-side, 
+large breast, embarrassed ,blush, forehead,  black hair,  glasses,
+APRON,NAKED APRON,panties, 
+indoors, 
+from behind, 
+nsfw

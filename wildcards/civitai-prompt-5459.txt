@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:ShiroganeNoelBikini:0.8> noel, bikini, bikini skirt, eyewear on head,  
+ <lora:bobsout1:0.8> nipples,  
+ <lora:breasts_on_glass:0.8> Breasts on glass, against glass, breast press,

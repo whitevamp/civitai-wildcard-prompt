@@ -1,0 +1,1 @@
+makima \(chainsaw man\), face, eyes, (best quality:1.1), (masterpiece:1.2), (detailed:1.1), <lora:makima_offset:1.6> , <lora:eyes_V1:.8> , ringed eyes,  closed mouth, glowing eyes,

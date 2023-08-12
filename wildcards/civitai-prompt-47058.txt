@@ -1,0 +1,1 @@
+(Ultrarealistic:1.2),<lora:epiNoiseoffset_v2:1>, (grainy:0.8), natural lighting, blue sky, AND girl playing in water, [detailed yellow one-piece swimsuit:wet:0.37], ponytail, smiling, half-closed eyes, nude, breasts, wet AND clear nice water,(Colorful:0.6)

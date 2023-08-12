@@ -1,0 +1,5 @@
+professional photo of nurse, blonde hair, blue eyes, bangs, blunt bangs, bob cut, pink nurse uniform, lanyard, bedroom, bed, bedsheets, nurse, seductive smile, (large breasts:1.2), garter belt, white stockings,
+detailed skin, detailed eyes,
+photo made with Canon EOS in naturalistic style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:NarutoSamui-04:0.8:MIDD>

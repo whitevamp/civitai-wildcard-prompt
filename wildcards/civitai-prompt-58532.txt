@@ -1,0 +1,1 @@
+best quality, ultra high res,nsfw,((((arms behind)))),((1girl)),((black short hair,smile,micro mini skirt)),(posing camera,standing pose,beautiful face and body,public,male photographer,foreground,camera) <lora:inPublic_v10:1> <lora:micro mini skirt:0.5>,

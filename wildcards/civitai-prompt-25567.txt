@@ -1,0 +1,4 @@
+(cozy:1.3), (best quality:1.2), (masterpiece, intricate detail), dark theme, (sexual, erotic:1.2), cinematic, dramatic, sneak_shot,
+indoors, (a photo of girl in Rented room at night),  
+1 girl, perfect face, delicate face, makeup, sleeveless, sleepwear, hair bun, 
+<lora:LowRA:0.4>,

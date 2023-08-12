@@ -1,0 +1,6 @@
+face portrait 1 beautiful woman, golden armor
+ complex background, city
+futuristic Egypt, detailed,
+( methurlant Syd Mead Stephan Martiniere )
+high contrast, best shadow, cinematic lighting
+hyperrealism, surreal <lora:add_detail:1>   <lora:methurlant:1>

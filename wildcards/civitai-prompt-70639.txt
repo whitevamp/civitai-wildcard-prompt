@@ -1,0 +1,1 @@
+1girl,masterpiece,best quality,ultra-detailed,mecha musume,mechanical parts, robot joints,single mechanical arm, headgear, intricate mechanical bodysuit,  full armor, city skyline, red neon lights, <lora:A-Mecha-REN:1>, (full helm, mask:1.4), glowing red eyes

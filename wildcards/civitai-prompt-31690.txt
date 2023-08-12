@@ -1,0 +1,8 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), standing, bathing, partially submerged, from behind,
+black hair, (short hair, long sidelocks:1.2),
+red eyes, looking at viewer,
+smile,
+medium breasts, ass, thick thighs,
+completely nude, 
+outdoors, (river:1.2), plants, grass, water, caustics, reflection, lake, waterfall, jungle, rainforest, rain, lush foliage,
+<lora:Tomboy:1>  

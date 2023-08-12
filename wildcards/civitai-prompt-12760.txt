@@ -1,0 +1,3 @@
+(anime style),masterpiece, best quality, ultra-detailed, glistening shiny, glowing light, ray tracing, HDR, deph of field, (perfect face, detailed face, detailed eyes),(medium boobs:1.2),8k,HD,ultra realistic face,ray tracing,perfect lighting,best quality, ultra-detailed, shiny eyes, (looking at viewer,sensual smile:1.1), ((1girl)), (gyaru, mature female:1.4),cowboy shot,
+power,long hair,sharp teeth, demon horns, red horns,symbol-shaped pupils,((gradient hair)),multicolored eyes, gradient eyes, (glowing eyes:1.1), mascara, (fashion make up), parted lips,collared shirt,open coat, blue coat, blue jeans,
+((school, school gate, cherry trees, cherry blossoms, flying petals)),complex background,((super detailed background)), sensual poses, ((8k wallpaper)) ,   <lora:power:1>

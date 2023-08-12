@@ -1,0 +1,5 @@
+RAW photo,soft lighting, (rim lighting:1.3), colour grading, focused,colour correction, masterpiece,best quality, 8k, canon 5d,f/1.8, iso 6400, wide angle,HDR, bloom,Chromatic aberration, Photorealistic,trending on artstation,trending on CGsociety,dramatic,
+(Insane skin detail), (photorealistic skin:1.2),(high skin detail:1.2), extreamly detailed, Intricate,High Detail,
+full body,((outside on a roof of a tall Building)),back side view,(standing on the top of a tall building looking down on the streets below, a modern city, from distance),((young blonde short hair 20yo woman looking at viewer over shoulder)),tall class buildings, city roof ,cityscape background, spider-gwen, blue eyes,blonde short hair, long bangs, sexy alluring pose, putting on makeup, blush, lipstick, hairbrush, mirror,<lora:sundries:0.077> ,(small breast:1.3), (underboob:1.3), looking at viewer, surprised, focus,(sly grin:1.2),
+((sheer seethrough skin tight costume)) ,superhero,spider web print,hooded bodysuit, hood off, spider web, parted lips, cleavage, dark purple bodysuit ,eyebrow piercing, spider-gwen<lyco:spider_gwen:0.95>,
+(masterpiece, best quality), impactful, intricate details,

@@ -1,0 +1,2 @@
+beautiful black haired woman, (nude), standing, (legs spread:0.9), (pipes, wires and circuitboards), (machine fused with flesh), (soaking:1.1), ((by H.R Giger)), (horror), (bodyhorror), (detailed facial features), (detailed body), (detailed skin), (detailed face), realistic, photo realistic, soft cinematic light, HDR, [realism | absurdres] , intricate, highly detailed, ((((depth of field))))
+ <lora:epiNoiseoffset_v2:1>

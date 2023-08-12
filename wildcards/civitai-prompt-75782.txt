@@ -1,0 +1,10 @@
+(8k, RAW photo, best quality, masterpiece:1.2),(photorealistic:1.37),realistic, (immersive atmosphere, chiaroscuro:1.5,bright light:1.2,Cinematic Light:1.2),full body,from the Side below,
+1girl,delicate, beautiful detailed,(detailed eyes), (detailed facial features),(detailed eyelashes), 
+cute,slim,(pale skin,shiny skin), long hair,fashi-girl,
+<lora:skirtlift-v1:1>,skirtlift,lift up skirt,
+(school uniform:1.2), (pantyhose:1.2),
+(grin:1.2),
+open legs wide,,
+ (school rooftop:1.4),chain-link fence, fence, building, school, bench, 
+medium breasts, 
+ <lora:fashigirl-v5.5-lora-naivae-64dim:0.1> ,<lora:koreanDollLikeness_v20:0.4>, <lora:taiwanDollLikeness_v20:0.1>

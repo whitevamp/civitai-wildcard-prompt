@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+ <lora:baroqueai_v10:0.9>, baroqueAI, fantasy artifact, on the sea,  cruiser,

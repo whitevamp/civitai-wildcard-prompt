@@ -1,0 +1,1 @@
+((portrait shot)) Tacticool, a woman, vest, military, (sitting on ledge), (white_hair:1.2), 4k, high-res, masterpiece, best quality, (head:1.3), finely detailed skin, cleavage, thigh gap, big ass  <lora:Tacticool:0.6>    <lora:epiNoiseoffset_v2:2>

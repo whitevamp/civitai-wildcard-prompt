@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,Curly hair, ,large breasts,blush:1.3,
+BREAK
+reiayanami, <lora:reiayanamitest:1>, rei ayanami, blue hair, short hair, (red eyes:1.5), BREAK bodysuit, headgear, plugsuit, white bodysuit,
+depth of field,looking at viewer,((sit on the , Retro_video_game_arcade,)),((full body)),polka dot panties,laughing
+BREAK
+moon,night,bus stop,((cumulonimbus)),from above:1.1,

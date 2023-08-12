@@ -1,0 +1,3 @@
+best quality,photorealistic,8k,Film quality,high res,(portrait:0.6),depth of field,(background by the sea:1.2),standing,outdoors,cowboy shot,
+1girl,(straight_hair),shoulder-length hair,(skindentation),(closed mouth:1.5),(Delicate makeup,Red lip,lying silkworm,eyeline,blusher),large breasts,shiny skin,pale skin,Wide buttock,(slender waist:1.6),
+looking at viewer,photorealistic,(bokeh),Facial brightening,Supplementary light,relight,pureerosface_v1:1,see-through,PW_nurse,<lora:PW_nurse_v1.1:0.65>,

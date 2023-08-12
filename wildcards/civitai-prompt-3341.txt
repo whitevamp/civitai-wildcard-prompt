@@ -1,0 +1,2 @@
+(masterpiece, top quality, best, official art, beautiful:1.3),absurdres, 1girl, portrait, solo, upper body, 5 stars hotel, blue, pink, <lora:blindbox_v1_mix:0.23>,
+BREAK (black hair, straight hair, absurdly long hair:1.5) , (smile:1.3), huge breasts, <lora:YorBlackDress:1>,(black dress, black thighhighs, black gloves black lingerie:1.4), <lora:skirtlift-v4:1:pose>,(shirt lift:1.5),, red eyes, <lora:add_detail:1>

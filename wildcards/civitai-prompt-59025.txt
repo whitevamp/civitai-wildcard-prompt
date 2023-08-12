@@ -1,0 +1,5 @@
+tired (cute:0.7) giant humanoid robot rests on floor inside factory,
+hands on floor, spreading legs, (dust:1.2),
+ god rays, volumetric light, high detail, machinery,
+(BoneyardAI:0.3), cinematic, borderlands, dark,
+ <lora:lowra_v10:0.6> <lora:boneyardai_v10:1>

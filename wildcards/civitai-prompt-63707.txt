@@ -1,0 +1,7 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, (((masterpiece))), professional artwork, famous artwork, cinematic lighting, cinematic bloom, professional lighting, photon mapping, radiosity, physically-based rendering,face highlight,(real person,fashion photography portrait,photograph), 
+1girl, solo,french braid, medium hair, tear mole, red eyes, looking at viewer,white skin,slim body,tall, (cleavage),
+top view,looking up viewer,Open shirt,(breasts out:1.3),small areolae,pink nipples,((spread legs)),separated thighs,legs apart,female masturbation,female pubic hair,(skirtlift,cameltoe:1.4),(female_masturbation:1.3,grabbing_own_breast:1.3,fingering:1.2),(enjoy:1.4),trembling,Panting,open mouth,drooling saliva,puffy nipples,
+(white long cape), white shawl,shoulder_armor,sleeveless, maid short skirt,detailed cloth texture, maid band, gauntlets,Black Fingerless Tactical Gloves,(rich,jewelry, earrings ),royal palace, luxury room, simple background,stained glass,
+<lora:hipoly3DModelLora_v20:0.4>,<lora:pureInnocentGirl_v20:0.3>,<lora:fashionGirl_v45:0.3>
+<lora:femaleMasturbationBoob_v1:0.7>,
+<lora:murkysAfterSexLying_1:0.4>

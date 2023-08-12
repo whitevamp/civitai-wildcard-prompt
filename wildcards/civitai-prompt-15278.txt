@@ -1,0 +1,4 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female),  <lora:concept_goodHands:1>, <lora:detailed_eyes:1>, 
+<lora:character_frankieFoster_(frankie foster):1>, redhead, ponytail, green eyes, piercing, hair ornament, hairclip, 
+ muscular, biceps, leg muscles, abs, thigh muscles, large breasts,
+magical girl, leotard, cameltoe, frills, thigh gap, magical girl pose, open mouth, laughing, smile, makeup, magical girl headgear,

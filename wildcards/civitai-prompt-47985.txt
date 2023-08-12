@@ -1,0 +1,5 @@
+(ulzzang-6500-v1.1), ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), intricate detail, delicate pattern, sexy, charming, alluring, seductive, erotic, enchanting, shiny skin, (moist lip, irises and pupils are rounded, eyes are not the same size, perfect eyes), dynamic pose, huge breast, milf, 
+
+black hair, black eyes, luxurious tower mansion, fluffy robe, scenic view, stylish decor, designer furniture, elegant accessories,
+
+<lora:hipoly3DModelLora_v10:0.3>, hiqcgbody,  <lora:koreanDollLikeness_v15:0.3>

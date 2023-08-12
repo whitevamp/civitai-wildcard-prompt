@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic),1girl, cute, ((crawl)), dating,(smile:1.15), (closed mouth) small breasts, beautiful detailed eyes,  (Hanfu, ming, ming Dynasty, ming clothing: 1.4),full body, <lora:koreanDollLikeness_v15:0.5>, <lora:3loraGuofeng3Lora_v32LoraBigLight:0.5>, <lora:hanfu_v20:0.5>,

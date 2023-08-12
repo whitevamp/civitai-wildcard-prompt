@@ -1,0 +1,4 @@
+large breast,little nipples,looking at viewer, {{no bra}},innerboob,, masterpiece, best quality, high quality, highres, ultra detailed, high detailed,
+(realistic:1.3), (photorealistic:1.3), RAW photo, detailed face, detailed skin,
+1girl, solo, bare shoulders, black gloves, black pantyhose, (blue hair:1.2), chinese knot, detached sleeves, flower knot, horns, long hair, neck bell, purple eyes, sidelocks, tassel, white sleeves, full body, floating hair, sideboob, chinese lantern, night,
+<lora:ganyuGenshinImpact_offset:0.8>, ganyu \(genshin impact\),

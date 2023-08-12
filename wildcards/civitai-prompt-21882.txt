@@ -1,0 +1,4 @@
+<lora:zwd_v2:0.5> zwd,
+lifelike, red petal, atmospheric, ethereal,
+1girl, full body , sitting,
+beautiful and aesthetic, masterpiece, best quality,

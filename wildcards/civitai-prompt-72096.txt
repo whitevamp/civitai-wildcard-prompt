@@ -1,0 +1,7 @@
+<lora:2023-05-14_005549-000004:0.8>CM-Beautiful_armor,armor,   shield, shoulder_armor,crownweaponsword
+//
+(((full body,half bodydynamic pose,War backgroundcastlewar,battlefield, lying,lace   ))),Lying in bed , (closed eyes:1.3) Messy hair, floating hair,adjusting hair,rise,sunrise,torn dress,from above,  depth of field blur,big breasts, 
+//
+(ulzzang-6500-v1.1:0.8),(raw photo:1.2),((photorealistic:1.4)),(upper body),best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,8k wallpaper, Amazing, finely detail, masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed,beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes,light on face,cinematic lighting,  hyper detailed,lens flare,glow effect, depth of field, 1girl, 
+//
+<lora:fashionGirl_v45:0.3> <lora:lit:0.4>

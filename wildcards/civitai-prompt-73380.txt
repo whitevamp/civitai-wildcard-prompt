@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,(face),head,Himiko Toga,blonde hair,messy hair,yellow eyes,(glowing eyes),(blood splatter:1.7),red light,smile,big smile,fangs,psycho smile,gesugao,dark city background,darkness,night,(closeup),good eyes, good teeth,<lora:TogaHimikoLoRA:0.7>, <lora:GesuGao:0.9>

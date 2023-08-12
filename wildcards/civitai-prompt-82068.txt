@@ -1,0 +1,1 @@
+masterpiece, best quality, 1woman, swept back hair, tattoo, flat chest, very small breast, full body armor, solo,gun holster,detective, midnight, dark, neon street, cityscape, cyberpunk, vector illustration, heavy rain <lora:flat_chest_v2:0.5> <lora:GPTS5 Heavy_387306:0.8> <lora:urbansamurai_v0.3:0.3> <lora:XSarchitectural-22Mangastyle:0.4> <lora:add_detail:0.8>

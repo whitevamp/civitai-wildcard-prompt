@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, 
+(dark skinned female:1.25), Ingrid, (OVA:1.3), kneeling, mature female, (povfellatio,1boy, penis, fellatio oral:1.2), male legs, male pubic, open mouth,
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+completely nude,
+large breasts,
+<lora:Ingrid:0.81>  <lora:POVFellatioNAI:0.65>

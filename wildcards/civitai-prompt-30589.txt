@@ -1,0 +1,9 @@
+(1girl, woman, solo, closed eyes,, sexy, gorgeous, elegant, (nsfw, naked), smooth body, soft skin, medium breasts, covering crotch, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+white shirt, open clothes, shirt pull, off shoulder, necklace, 
+BREAK
+standing, (looking away),
+BREAK
+bathroom, dark room, dimmed light, low light,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

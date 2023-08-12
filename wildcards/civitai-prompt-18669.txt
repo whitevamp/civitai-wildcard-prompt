@@ -1,0 +1,7 @@
+(FINE ART PORTRAIT PHOTOGRAPHY) 
+sks woman, <lyco:locon_gal_v1_from_v1_64_32:1.2>
+large jaw, square jaw, big chin, natural light, perfect lighting, 8K, HASSELBLAD X2D,(shadow fill),(rim light); (dehaze:1.2), saturated, rich colors,Pro photo, PRO lighting, sharp focus , crispy details, perfect natural lights, (film grain:1.1),(big 
+(large wide chin:1.3), (strong and square jaw:1.2);
+(skin details:1.2),(ultra detailed skin texture:1.2),(pores:0.8),(subsurface scattering:0.7),(glowing skin:0.8), (blush:0.8);
+(detailed iris:0.7),(perfect round pupil:0.7),(eyeliner:0.8);
+(perfect teeth:0.9)

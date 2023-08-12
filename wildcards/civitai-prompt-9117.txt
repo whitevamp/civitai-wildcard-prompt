@@ -1,0 +1,1 @@
+absurdres, highres, ultra detailed, (1girl:1.3), BREAK , Design an image featuring beautiful calligraphy, with expressive lettering, elegant flourishes, and a sense of craftsmanship and skill. <lora:add_detail:1> <lora:anime-tarot-card-art-style-lora-v3.1:1>

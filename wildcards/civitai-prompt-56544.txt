@@ -1,0 +1,7 @@
+(masterpiece, best quality, high resolution:1.4), portrait,
+snow white, short black hair, (red hair ribbon:1.2),
+1girl, woman, smile, looking at viewer, leaning forward, 
+shirt, long yellow skirt,
+indoor,
+colorful, high contrast,
+<lora:SnowWhite_v1:1>

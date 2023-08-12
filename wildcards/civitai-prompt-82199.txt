@@ -1,0 +1,1 @@
+(ultra-detailed,highly detailed CG illustration,extreme detailed,highest detailed, masterpiece), 1girl, layout plan,c_jie,disassembly,Parts laid flat, Front view, sharp focus, (reelmech:1),Alicia Vikander, <lora:reelmech1v2:0.6>, c_jie,  <lora:17.49:1>

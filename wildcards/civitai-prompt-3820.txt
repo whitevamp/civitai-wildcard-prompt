@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed, photorealistic, 8K), story, best composition, art station, cloudy sky, spacecraft, cyberpunk city in water,  <lora:duobackground:1>,  <lora:add_detail:0.7>

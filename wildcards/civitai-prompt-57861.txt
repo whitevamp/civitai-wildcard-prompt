@@ -1,0 +1,1 @@
+(high quality, best quality), twister-game, 1girl, JAR JAR BINKS, indoors, nude, <lora:twisterGame_v10:0.85>, blush, full-face_blush, solo, sweat, (all_fours), looking_back,  <lora:jarJarBinksGunganStar_v3:0.6>

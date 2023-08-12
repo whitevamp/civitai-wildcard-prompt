@@ -1,0 +1,5 @@
+(masterpiece, best quality;1.3), ultra detailed, 
+Angewomon, Digimon,winged helmet, helmet over eyes, helmet on, covered eyes, sitting, from above, bust shot, bust focus,
+white multiple wings, white wings, pink hagoromo, single glove, strapless, arm glove, spread legs, from behind,
+white bodysuit, gold strapless bra, black belt, two belts, huge breast, grab the air with your right hand, rise up right hand, castle, royal room,
+<lora:add_detail:1.5> <lora:Angewomon-Digimon-v1:1> fullbust-fc, cleavage

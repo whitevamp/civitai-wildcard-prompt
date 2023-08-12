@@ -1,0 +1,2 @@
+<lora:LowRA:0.7>
+huge gargoyle statue wearing iron sneakers, sneakers inspired by gargoyle, wings, (intricate details:0.4), (hdr, hyperdetailed:1.2)

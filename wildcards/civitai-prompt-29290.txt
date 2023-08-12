@@ -1,0 +1,1 @@
+(solo, 1girl, crazy, yelling, blood on face, blood on clothes) (digital) ( in detailed construction site,  (armor)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> khorne, skull, <lora:khorne:0.7>

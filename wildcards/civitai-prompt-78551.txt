@@ -1,0 +1,3 @@
+(best quality), (best illustration), detailed, 1girl, upper body, (solo:1.5), (single panel:1.5), girl focus,
+bob cut, side parted bangs, (dark brown hair:1.5), brown eyes, short hair, massive breasts, black skirt, long sleeves, meme attire, virgin killer outfit, white shirt, high-waist skirt, frilled skirt, pleated skirt, freckles, red neck ascot, microskirt, center frills, closed mouth, tears, wavy mouth, tearing up, pout, :i, meme, :t, parody, frown, v-shaped eyebrows, crying, sad, crying with eyes open, puffy cheeks <lora:merrytail_aqua_crying_meme_v02-05:0.7>
+ <lora:kaamin [alpha128 3e-5]:1>

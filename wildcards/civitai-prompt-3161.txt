@@ -1,0 +1,1 @@
+red armor, green headband, cape, red gloves, belt, brown pants, armored boots ,<lora:NijiExpressV2:0.4> <lora:minerva-nvwls-v1:1> fcPortrait

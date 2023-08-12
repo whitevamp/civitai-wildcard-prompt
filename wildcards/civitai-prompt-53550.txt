@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1girl, 
+
+ <lora:piperPerriMeme_v11:0.8> piperperrimeme, multiple boys, 1girl, sitting, sofa, indian style,
+
+  <lora:uruhaRushiaHololive9_v1:0.8>  rushia_hoodie, green hair, long hair, white hoodie, miniskirt,

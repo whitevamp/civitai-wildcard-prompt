@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3), interior of a sci-fi space station, 1girl, solo, elhaym van houten, uniform, contrapposto, gloves, (full body:1.4), (pantyhose:1.2), control panels, computers, window to space<lora:elhaymVanHouten_v10:0.8> <lora:shojovibe_v11:0.3> <lora:koreandolllikenessV20_v20:0.3> <lora:cuteGirlMix4_v10:0.3>

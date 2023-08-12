@@ -1,0 +1,3 @@
+masterpiece, best quality, white background, mini sence,Mini miniarure landscape,
+Cranberry and Peach,
+  <lora:mini sence-000008:0.8>

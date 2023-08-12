@@ -1,0 +1,4 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+black thong, white hoodie, 
+thigh socks,
+ <lora:3DMM_V12:1>

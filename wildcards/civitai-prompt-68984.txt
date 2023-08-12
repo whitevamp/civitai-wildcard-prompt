@@ -1,0 +1,7 @@
+(masterpiece, 4k ,ultra detailed:1.2),(anime:1),illustration,(photorealistic:1),
+(solo,1men:1.4),(45yo,mature,beard,black hair,scar:1),(jacket,t-shirt,sunglasses:1.2),(muscular:1.4),
+(pov,upperbody,fisheye:1.4),(cropped shoulder:1.6),
+(indoor,gun shop,science_fiction,wall:1.2),(countertop,big selection of gun displayed behind men:1.6),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.75>,
+<lora:Futuristicbot4:0.6>,(cyborg:1)

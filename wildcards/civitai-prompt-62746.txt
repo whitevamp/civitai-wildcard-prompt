@@ -1,0 +1,3 @@
+full color portrait of (sks woman:1), oiled shiny skin, nude, side shaved hair,
+masterpiece, best quality, sharp focus, highres 8k uhd, ultra-detailed, backlighting, rim light, dark gradient background,
+<lora:rMadArt3_NoiseOffset:1> <lora:CR-NatalieDormer_v10-malcolmrey:1>

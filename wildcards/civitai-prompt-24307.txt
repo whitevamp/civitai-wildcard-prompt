@@ -1,0 +1,1 @@
+masterpiece,best quality,1girl,elf,white hair,short hair,<lora:POVFellatioNAI:1>,povfellatio,saliva,hand on another's head,grabbing another's hair,<lora:Detail_Tweaker_LoRA:1:1,1,1,1,1,1,0.2,1,0.2,0,0,0.8,1,1,1,0,0>,

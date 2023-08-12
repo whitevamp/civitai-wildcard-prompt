@@ -1,0 +1,7 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+long sleeve shirt, black skirt, (cleavage:1.2), stockings,
+(freckles:0.9), 40 years old, mature,slim, 
+sexy, sitting,
+bangs, long hair, beautiful hair,
+classroom, teacher,  full body,
+ <lora:breastinclassBetter_v141:0.35>

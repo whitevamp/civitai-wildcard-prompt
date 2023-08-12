@@ -1,0 +1,7 @@
+((1girl,Chinese, with her flowing hair adorned with beautiful hair ornaments, standing among the flying petals)),((best quality)),((Representative)),(Realistic),The shooting angle is a bird's-eye view.,
+An 18-year-old girl in an elegant Chinese costume,Her flowing hair is elegantly embellished with glamorous hair accessories,be captivated by this charming sight,As the petals swing around her in the wind,Created a fabulous seduction scene,Immerse yourself in the deepest jungle river in a rainforest village,Lush greenery and vibrant plants surround them,Full of ancient mysticism,Snow peaks plunge into the sky,The soft light illuminates the girl's face,Cast gentle shadows,Capture the beauty of her empty spirit,Scenery and distant neon lights add a touch of magic from afar,Create a fantastic atmosphere,The blurred background further enhances the quality of the film,Attracted attention to ornate and ultra-detailed composition,Prepare to be captivated by the seamless fusion of natural elements and fantasy in this masterpiece of art,
+<lora:add_detail:0.7>,
+<lora:smokeanywhere:0.6>,smokeanywhere,colorful smoke,
+<lora:keji:0.8>,dunhuang_cloths,Chinese buliding,
+colorful world,
+<lora:ancientChineseArchitectural_v10Gugong:0.5>.Chinese Architectural,

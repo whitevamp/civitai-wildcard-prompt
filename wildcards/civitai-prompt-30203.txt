@@ -1,0 +1,4 @@
+(best quality, masterpiece:1.2), 8k detailed cgi render, thick outlines, strong shadows, <lora:add_detail:0.75>, <lora:sharpen-soften:0.25>, <lora:realistic:0.35>, <lora:kittew_v0.1:0.4>,
+1 girl, adult (elven:0.7) woman, freckles, coral eyes, dark blonde sleek hair,
+ solo, upper body, looking up, detailed background, detailed face, (<lora:ToxicPunkAI:0.6>, ToxicPunkAI theme:1.1), intense expression,  glass-cyborg, (made of glass:1.1),   glass construct, fighter, crystal armor, clean glass, arcane,  magical symbols,    sparks,   storm in background, cinematic atmosphere,
+<lora:3DMM_V12:0.25>, 3DMM,

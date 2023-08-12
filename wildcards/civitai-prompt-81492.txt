@@ -1,0 +1,2 @@
+1girl, beautiful russian girl smiling, thin waist, nice hands, perfect hands, thick thigh, elegant violet bodysuit, intricate detail clothes, fur long cape, high heels, balcony
+masterpiece, highest quality, photorealistic, analog, 32k raw photo, absurdres, finely detailed face skin textures, face complexions, rim light, highly detailed, <lora:GoodHands-beta2:1> <hypernet:sxzBloom_sxzBloom:0.6>  <lora:add_detail:1>   <lora:epiNoiseoffset_v2:0.7>  <lora:bodysuit-000002:0.5> portrait  <lora:Unholy:1>

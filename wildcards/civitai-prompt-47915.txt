@@ -1,0 +1,3 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,extremely detailed CG unity 8k wallpaper, high detailed, film grain, detailed skin, natural lighting, symmetrical,an extremely delicate and beautiful,illustration,
+1girl, (medium_breasts:1.5),Random hairstyle,slim legs,delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,
+<lora:B_1A_icedLatteWithBreast_v1:1>, apron, iced_latte_with_breast_milk

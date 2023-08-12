@@ -1,0 +1,1 @@
+kristen wearing deep_v-neck_dress, in front of a window high above the city, night, high heels, emerald choker necklace, arcane style, <lora:arcane_offset:0.9>, <lora:deep_v-neck_dress:0.6>, <lora:add_detail:0.2>

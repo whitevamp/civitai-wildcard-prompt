@@ -1,0 +1,6 @@
+nsfw,(masterpiece, best quality:1.2),extremely intricate, breasts focus, 1girl, solo, solo focus,  detailed eyes, deep eyes, (freckles:0.8), cinematic light, rim lighting, ultra high res, perfect anatomy, best shadow, delicate, arcane style, 1girl, (JinxLol,:1.2), mature female,solo, solo focus,
+asymmetrical bangs, bangs, blue hair, collarbone, (small breasts), long hair, red lips, pink eyes, twin braids,  arcane jinx, jinx \(league of legends\)
+, from front, (portrait, breasts focus,:1.3)
+<lora:jinx:1:CHARACTER>,<lora:arcane_offset:0.25:CHARACTER>,
+onsen, outdoor bath, wet, water, cute, shiny skin, (abs:0.8), fit, sweaty, midriff,
+, detailed teeth, evil grin,(blushing), hoodnude, nude, nipples,  (tanned skin:1.4),(tan lines,sunburn, bikini tanlines:1.2), <lora:Tanlines05:0.8>

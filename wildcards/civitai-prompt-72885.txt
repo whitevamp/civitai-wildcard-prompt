@@ -1,0 +1,2 @@
+moody lighting, tranquil, calm, glow,masterpiece, best quality,masterpiece, best quality, John Singer Sargent, 1boy, elf prince, blonde ponytail, oil painting portrait, simple background
+  <lora:flat2:-0.3>   <lora:nijiexpress:0.9>

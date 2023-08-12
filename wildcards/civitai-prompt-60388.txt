@@ -1,0 +1,3 @@
+MaleficentWaifu, pale_skin, 
+ <lora:maleficentMalefica_v10:0.651>
+see-through, (see-through_bikini), black_bikini, lace_bikini, wine_glass,holding_cup,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),, 1girl, solo, wide_shot,

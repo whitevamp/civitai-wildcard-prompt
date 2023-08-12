@@ -1,0 +1,1 @@
+masterpiece, best quality, full body, 1girl,  <lora:EnvyBeautyMix09:1>,  <lora:GoodHands-vanilla:0.8>, hmdmg1, wizard hat, blush, blush stickers, cleavage, bare shoulders, dress, off shoulder, <lora:dark_magician_girl_v3:0.7>

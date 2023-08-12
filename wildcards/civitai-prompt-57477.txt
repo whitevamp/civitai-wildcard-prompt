@@ -1,0 +1,1 @@
+<lora:beidouGenshinImpact_v10:0.75>

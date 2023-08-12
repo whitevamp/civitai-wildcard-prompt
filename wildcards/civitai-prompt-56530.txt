@@ -1,0 +1,8 @@
+<lora:koreanDollLikeness_v15:0.5>,
+<lora:jkUniform_v20:0.2>,
+(RAW photo, best quality), (realistic, photo-realistic:1.2), a full body photo,
+1girl, outdoor, walking, (full body:1.4), small head,
+laughing, (high detailed skin:1.4), not protruding boobs, (tall:1.2), slim,
+puffy eyes, gorgeous hair, air bangs, gray hair,
+brown sweater, black JK_skirt, white knee high stockings, black loafer shoes,
+soft lighting, high quality,

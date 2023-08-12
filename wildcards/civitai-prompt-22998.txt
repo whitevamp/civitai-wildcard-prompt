@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra highres, depth of field, chromatic aberration, caustics, Broad lighting, natural shading,Fujifilm XT3,masterpiece,ultra detailed,evening gown,1girl, solo, outdoors, jewelry, earrings,full body, high heels,  <lora:evening gown:1>

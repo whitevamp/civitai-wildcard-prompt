@@ -1,0 +1,1 @@
+dramatic lighting, 1girl, neeko, facial marks, hair ornaments, hair flower, necklace, <lora:neeko-nvwls-v2:0.7>, (naked, completely naked), nsfw, street, midnight, looking at viewer, <lora:add_detail:0.3>

@@ -1,0 +1,1 @@
+<lora:onOffLora_v128:0.7> side by side full body photo of helen parr,  <lora:helenParrThe_v10:0.7>, 1girl, masked superhero, red and black outfit, black thigh boots, (saggy, tube shaped, droopy tits:1.1), standing straight, 8k uhd, dslr, high quality, sharp focus, studio lighting,

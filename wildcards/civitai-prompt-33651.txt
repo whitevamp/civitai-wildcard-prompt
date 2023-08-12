@@ -1,0 +1,10 @@
+(portrait of a slender russian female), detailed blonde hair, perfect face, beautiful face, beautiful green eyes, detailed eyes, beautiful eyelashes, looking at viewer, graceful standing posture, masterpiece, best quality, outdoors, detailed face, (body towards viewer), freckles on her face, pony_tail,
+(irish:1.2) girl with (Curvy body:0.8), (espresso skin color:1)
+nsfw, (Radiant,Ravishing,artistry lips:1.2),
+(nude:1),
+(huge breasts:1.2),
+(she Shameful,Disgusted,Shocked:1),
+(Fill the Frame,Foreground Interest,Rule of Thirds:0.8),
+(Fine,Intricately designed,Exact:1),
+<lyco:LowRA:0.1>
+<lyco:add_detail:0.4>, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35]

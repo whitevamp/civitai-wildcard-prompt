@@ -1,0 +1,8 @@
+(best quality), (masterpiece),(ultra-detailed:1.2),,ultra high res,
+1boy,steal panties,
+<lora:PepePunchMeme:1> PepePunchMeme, 
+smirk,open mouth,grin,
+<lora:satou_kazuma-10:0.9> ,kazuma,green eyes ,brown hair, capelet,white shirt,cape,boots,green cape,black pant,shining finger,
+indoor,bar,
+<lora:LowRa:0.2>,
+<lora:flat2:-0.5>,

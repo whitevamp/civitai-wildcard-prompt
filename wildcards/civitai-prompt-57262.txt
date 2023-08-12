@@ -1,0 +1,6 @@
+best quality, intricate details,, best quality, intricate details,
+1girl, long hair, green hair, messy hair, gold eyes, sharp eyes, 
+<lora:ceresFaunaHololive_v1:0.8> 1girl, ceres_fauna, branch, antlers,
+from behind, ass, naked, nude,
+bathing, waterfall, woods, 
+<lora:piratepunkai_v10:0.8> piratepunkai,

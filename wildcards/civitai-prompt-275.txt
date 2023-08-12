@@ -1,0 +1,1 @@
+(furry:1.2), (fluffy:1.1), (anthro:1.2), (snout:1.2)(gynomorph:1.4) (paws:1.3)vibrant, fully clothed,  high waist pants,wide hips, bokeh, small shirt, breast display, 1girl, smile , chroma eyes, medium breasts, eye contact, cleavage, pov, <lora:add_detail:1>

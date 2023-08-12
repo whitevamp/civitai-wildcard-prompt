@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+<lyco:GoodHands-beta2:0.8>
+1girl,    <lora:LOL qingnv_20230704201441:0.8>dress,twintails,hair ornament,bare shoulders,long sleeves,glasses, round eyewear, long hair, arms behind back, green hair, white dress,
+ <lora:more_details:0.4> <lora:Elixir:0.4> <lora:add_detail:0.5>

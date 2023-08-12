@@ -1,0 +1,1 @@
+one girl, best quality,hdr,8k, long hair,non-color,butterflies around,flowers background<lora:animeLineartMangaLike_v30MangaLike:1> <lora:yaeMikoRealistic_yaemikoMixed:1>

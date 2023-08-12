@@ -1,0 +1,5 @@
+best quality,<lora:add_detail:0.3>,<lora:concept_costume_slingshot_(sl1ngsh07__slingshot bikini):1.1>, (sl1ngsh07:1.6, slingshot bikini:1.2, orange clothes), <lora:concept_burstingBreasts_LOCON_v1:0.5>,
+(1girl, solo), <lora:character_naruko:0.4>, naruko \(naruto\),  blond hair, blue eyes, (facial marks, whisker marks), long twintails,
+coy smirk, (muscular), abs, leg muscles, standing, hands behind head, low angle, cameltoe, pussy peek, wedgie, long hair, wet hair, wet, shiny body, sleeveless, huge breasts, skindetnation, side profile, large breasts, shirtless,
+BREAK,
+beach, ocean, sunny, detailed background, in the water

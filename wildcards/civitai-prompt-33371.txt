@@ -1,0 +1,1 @@
+CroissantStyle fashion <lora:CroissantStyle:0.6>

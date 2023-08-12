@@ -1,0 +1,1 @@
+(analog style), Picture, best quality, portrait photo of beautiful milla wearing cyberpunk combat gear, looking at viewer, perfect face, perfect eyes, sharp focus, <lora:Milla Jovovich v1.0:0.62>, perfect shading, perfect lighting, volumetric lighting, subsurface scattering, (photorealistic:1.5)

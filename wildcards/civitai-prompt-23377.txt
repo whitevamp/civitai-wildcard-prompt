@@ -1,0 +1,3 @@
+<lora:add_detail:1>
+1 girl, adult (elven:0.7) woman, freckles, yellow eyes, gray long hair,
+ solo, half shot, looking up, detailed background, detailed face, (<lora:kVoidEnergy-000001:0.5>, V0id3nergy, void theme:1.1), (glowing eyes:1.05),  dilated pupils, summoner, unholy, intricate necromancer clothes, amulet, conjuring, movement, evil smile, ritual, pentagram, surrounded by dark  dark magical inscriptions,   red swirling summoning energy, (style-swirlmagic:0.7), calling forth evil power,  tower background,  dark glowing aura, ethereal atmosphere,

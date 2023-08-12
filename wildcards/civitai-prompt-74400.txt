@@ -1,0 +1,11 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, mature female, sitting against wall, on grass, outdoors, japanese architecture,
+short hair, black hair, mask,
+yellow eyes, eye reflection, bright pupils, emotionless,
+medium breasts, long nipples, puffy nipples, small areolae,
+(ass:1.4), (anus:1.4), pussy, vaginal, (pussy juice trail:1.2),
+spread legs, arms behind back, steam, steaming body, heavy breathing, (bodysuit, torn clothes:1.4),
+hypnoLora, empty eyes, <lora:hypnoLora8:0.75>,
+grool, dripping, wet pussy dripping, <lora:Grool LORA:0.25>,
+kujousaradef, <lora:kujousara1:1>

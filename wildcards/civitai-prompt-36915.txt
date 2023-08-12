@@ -1,0 +1,1 @@
+OnOff, Side-by-side photo, Masterpiece, highres, 2girls, best quality, Delia_Ketchum, solo, brown hair, standing, (pink shirt), blue skirt, looking down, ponytail, open mouth, surprised, blushing, (crossed arms:1.3), (pubic hair:1.3), <lyco:Delia_ketchum:0.7>, <lyco:Pubic Hair:1.0>, <lyco:onOff:1.0>, <lyco:weight_slider_v1:0.5>

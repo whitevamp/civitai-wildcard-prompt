@@ -1,0 +1,1 @@
+1boy, male focus, running around, dutch angle dynamic pose, link, the legend of zelda, blue eyes, blue tunic, hood, leaf, light brown hair, looking at viewer, nature, open mouth, pointy ears, solo, water drop, ((masterpiece)) <lora:link_offset:1> looking at viewer, <lora:add_detail:0.2> <lora:style_HAPPOBIJIN:1.2>

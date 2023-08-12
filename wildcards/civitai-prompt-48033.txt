@@ -1,0 +1,7 @@
+1boy,
+civilian clothes, (tunic:1.1), belt, hairy,
+sitting, solo, legs spread,  from below, detailed eyes,
+bara, (penis:1.0),(frenulum,glans,testicles:1.0)  ,     (muscular man,bodybuilder),(large pectorals, thick thighs:1.2),  frontal view, looking at viewer,male focus, male only,masterpiece,best quality,detailed,  beard, game_cg,    intricate detail,smooth,digital painting,epic,
+
+The male rogue sat on a rug, with a small table beside him. The underground hideout was cramped, with rough walls adorned with weapons and trinkets from his past exploits. He wore a plain cloak over his everyday civilian clothes which has a cutout that reveals his penis. The small opening at the top allowed for a few rays of light to filter in, illuminating the dust particles that danced in the air.
+<lora:TurboMaleV6_64:.7> <lora:animemalet-000014:.6> <lora:animePenisLORA_animePenisV3:.15>  <hypernet:EasyNegative:1>

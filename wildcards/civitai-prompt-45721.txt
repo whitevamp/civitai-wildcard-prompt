@@ -1,0 +1,2 @@
+masterpiece,1girl,solo ,heart-shaped pupils,open mouth,cow_horns,black_hair,cleavage,navel,large breasts, full body, 
+ <lora:Four-StationaryRestraintsV1:1.1>,stationary restraints,

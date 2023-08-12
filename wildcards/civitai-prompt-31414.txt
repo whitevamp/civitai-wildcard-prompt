@@ -1,0 +1,8 @@
+1girl,(kawaii:1),(nogizaka girl:1),(cute girl:1),(pretty girl:1),(perfect idol:1),(fair skin:1),(perfect body:1),(athlete:1),(nude:1),(curvy body:1),(model:1),(large breasts:1),(incoming kiss:1),(looking at viewer:1.3),(ultra high resolution:1.2),(best quality:1.2),(masterpiece:1.2),(realistic:1.2),(photo realistic:1.2),(professional lighting:1),(professional photo:1.1),(perfect anatomy:1),(sharp focus:1),(highly detailed:1.1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1)
+BREAK
+(extremely detailed eyes and face and skin:1.3)
+BREAK
+She has long, flowing, chestnut brown hair cascading down her shoulders. Her eyes are captivating and have a hint of playfulness, with a touch of smoky eyeshadow and long, fluttery eyelashes. Her lips are full and painted with a deep red shade, giving off a sensuous vibe.
+Her pose is slightly tilted to one side, emphasizing her neckline and collarbone. She is wearing an off-the-shoulder top in a rich jewel tone, which showcases her dcolletage. The lighting highlights her features, casting subtle shadows and creating a sense of allure.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lora:add_detail:1>

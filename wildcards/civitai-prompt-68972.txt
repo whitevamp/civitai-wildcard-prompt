@@ -1,0 +1,6 @@
+(Masterpiece, Best Quality, High Quality:1.4), professional artwork, Intricate Details, field of view, sharp focus, detailed painting, cinematic lighting, trending on pixiv, (vivid lighting, vibrant colors, by by Nagasawa Rosetsu:1.05),
+Hiroko Takashiro, (mature female, milf:1.05), (1boy, naked male:1.3), curvy, (penis, penis focus, on knees, oral, fellatio, deepthroat, penis in mouth:1.3), room, (pov:1.1),
+(red hair:1.05), long hair, ultra detail hair, ultra detail face, (purple eyes:1.05), perfect eyes, perfect face, earrings, (horny, blush:1.2),
+black thighhighs, (zettai ryouiki:0.8),
+(Large Breasts:1.1), breasts focus
+<lora:HirokoTakashiro:0.8>, <lora:add_detail:0.5>, <lora:epi_noiseoffset2:0.5>

@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+<lora:sakuraMikoHololive_v10:0.8> miko1,
+
+ <lora:chubbyGirlsBigger_v10:0.8> chubby girl, chubby, curvy, plump, big belly,

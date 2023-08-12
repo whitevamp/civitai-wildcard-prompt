@@ -1,0 +1,1 @@
+masterpiece, best quality, glamour (fisheye:0.6) shot (from above:0.9) (close-up:0.5) of a beautiful girl crouching (surrounded:0.6) by swirling glowing cables, xryhd, biomechanical, very intricate, extremely sharp focus, photorealistic, cybernetic eye, (glass:1.2), cowboy shot, transparent, clear plastic, volumetric lighting, style-swirlmagic, <lora:xryhd:0.8>, 

@@ -1,0 +1,3 @@
+dramatic cinematic light ADDCOMM ADDCOL TI_Vermeer and David Hamilton, William-Adolphe Bouguereau, mossy rock, bath in the lake, cloudy sky, sheet,
+portrait of a European woman nude, detailed skin imperfections , oily skin, puffy nipples, (clitoral hood:0.9) (cameltoe:0.9)
+semi-realistic <lora:epi_noiseoffset2:0.4> <lora:lowkey_v1.1:0.4>

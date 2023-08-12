@@ -1,0 +1,7 @@
+nsfw, 8K raw photo, Best quality, masterpiece, ultra high res, 1girl, (photorealistic:1.4), raw photo,looking at viewer, (natural skin texture), realistic eye and face details, full lips, lipstick, (detailed face, detailed eyes), rouge \(makeup\), red eyeshadow,
+smile, close mouth, beautiful legs, tall female, skinny, slim_legs, solo, enormous breast,shiny eyes, looking at viewer,
+black hair, (very short hair:1.5), bob cut hair, (design bob cut hair:1.5), (ultra straight hair:1.5), (tidy up one's hair ends :1.5),(straighten one's hair ends:1.5),(glossy hair, shiny hair:1.5),(blunt bangs:1.5),(Hairstyle with visible ears:1.6),(hang one's hair to one's side:1.6),
+(enormous breast, cleavage:1.6),
+(June bride,Wedding, Bride:1.5),(hydrangea:1.6),(clear wedding veil, holding bouquet:1.5),(sacred forest church:1.7),
+(wedding dress:1.7),
+parted lips, lips, looking at viewer, <lora:Lora_v20:0.7>, <lora:LoRA_train:0.4>, (pureerosface_v1:0.6)

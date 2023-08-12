@@ -1,0 +1,1 @@
+Story, bride posing under a fairy tale, elaborate scene style, glitter, orange, realistic style, 8k,exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, orange and white film), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4) <lora:LowRa:0.4> <lora:GPTS8 Elusive World_493473:0.55>

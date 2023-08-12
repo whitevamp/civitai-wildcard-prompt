@@ -1,0 +1,1 @@
+retro, vintage, realistic,photo, 8k masterpiece, <lora:sorayamaStyleHajime_v11:0.45>,(Sorayama Style:1.4),1girl ,kneeling,(robot), (silver  and gold skin),bald, lace underwear, futuristic, mettalic hair, dress, highly detailed background, heart shaped ornaments, <lora:biomechanicalsHRGiger_v2:0.75>, hnsrdlf style,chains, solo

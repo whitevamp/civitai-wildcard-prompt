@@ -1,0 +1,14 @@
+hat,  (ofuda:1.3), pants,long sleeves,  cleavage cutout, clothing cutout, jiangshi, qing guanmao,  solo, chinese clothes, blue skin, short hair,  cleavage, , ofuda, , blue hair, dress, black eyes, pink,  headwear,  pink dress, , long sleeves,  
+outdoors,( illustration:1.4) action pose, 
+petite,  focus,  looking at viewer, 
+[(
+fling petals, blossoms , 
+guofeng, chinese style, 
+chinese village ,
+(masterpiece), (best quality:1.2), absurdres, 
+isabelmoner-smf, <lyco:isabelmoner_lycoris_01-000003:0.66>  
+ankymoore, <lora:ankymoore:0.35>
+ <lyco:ColoredSkin-000019:0.8>  <lora:Chinese style illustration v2:0.7>
+ <lora:add_detail:0.5>
+):8]
+ <lora:leilei:0.9>

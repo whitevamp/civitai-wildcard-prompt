@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), 4girls, ((presentass, from behind)), lying, pigtails hair, detailed eyes, (nude:1.0), open mouth, (smile:1), breasts, (crowd:1.3), cheering, concert stage,<lyco:MultipleGirlsGroup:1:1>, <lora:presentass:0.4> <lora:innievag:0.5>

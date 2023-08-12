@@ -1,0 +1,4 @@
+(photorealistic:0.5), anime, masterpiece, best quality, highly detailed,
+1girl, toga himiko, blonde messy hair double bun, yellow eyes, gesugao, madman, empty eyes, evil smile, medium breasts, perfect nice hands, bags under eyes, 
+dystopia, cityscape, shadow, high contrast, dark, red light, noir,
+<lora:GesugaoFaceV1:0.6> <lora:Asian_Urban_Gal:0.8>

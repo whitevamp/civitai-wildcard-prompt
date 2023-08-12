@@ -1,0 +1,2 @@
+(ultra realistic) , (illustration), (increase resolution), (8K), (extremely detailed), (best illustration), (beautiful detailed eyes), (best quality), (ultra-detailed), (masterpiece), (wallpaper),(full body), realistic, focus on face, solo,1 girl, (looking at viewers), black hair, blush, bright eyes, light on face, cinematic lighting, delicate details, sexy figure, perfect body proportion,  pureerosfaceace_v1,stand,
+<lora:volleyballUniform_v20Lora:0.8>,volleyball uniform,  <lora:irene_V70:0.8>,irene1, <lora:Lora_v20:0.2>

@@ -1,0 +1,10 @@
+(Absurdres:1.2), beautiful and aesthetic, masterpiece, best quality, extremely detailed,
+photo realistic:1.4 , delicate pattern, (intricate detail,extremely intricate:1.2),
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, <lora:add_detail:1>
+------
+<lora:mix4:0.2><lora:yurisa chan_20230623045200:0.3>
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1), (idol),
+<lyco:fitgirl_v10:0.6>, fit,  narrow waist, 
+-----
+ <lora:fgoYangguifeiv1:0.9>
+standing,  HoneyLake, SwimClothing

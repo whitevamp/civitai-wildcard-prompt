@@ -1,0 +1,1 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 1 girl, eating watermelon, summer, film color, (film overlay:1.2), (faded overlay:1.5), <lora:JPfilmColor-000002:0.45>

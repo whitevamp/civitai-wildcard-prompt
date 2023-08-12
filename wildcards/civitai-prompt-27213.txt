@@ -1,0 +1,7 @@
+high quality, masterpiece, highres, (detailed face),
+beautiful, cute, 1girl, little girl, long hair, cowboy shot,
+sundress,
+<lora:JapaneseDollLikeness_verB:0.2>
+<lora:koreanDollLikeness_v15:0.4>
+(arms up:1.5), (rabbit pose:1.2),
+<lora:Ver2:1>

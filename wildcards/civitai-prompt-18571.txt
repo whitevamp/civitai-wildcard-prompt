@@ -1,0 +1,1 @@
+((best quality, masterpiece)), ((style-swirlmagic):0.5), 1girl, lolita_dress , mansion , living room, plants at window, blush , open mouth, <lora:more_details:0.5>, <lora:lolita_dress_classic_1_v3:0.5> <lora:DI_belle_delphine_v1:0.45> <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.35>

@@ -1,0 +1,2 @@
+(full body: 1.5),(white background:1.4), ((tachi-e)), original,(illustration:1.1),(best quality),(masterpiece:1.1),(extremely detailed CG unity 8k wallpaper:1.1), (colorful:0.9),(mid shot:1.4),(solo:1.2), clear sharp focus,
+1girl standing ,looking at viewer, make happy expressions,soft smile,pure,beautyfull detailed face and eyes,beautyfull zhuangzunv clothing decorative pattern details, black hair,black eyes,   <lora:zhuangnv:0.8>

@@ -1,0 +1,1 @@
+highres,masterpiece,perfect ligthing,bloom,cinematic lighting,perfect skin,nice hands,<lyco:envybetterhandsLocon_beta2:1.0>, [Erin Moriarty|Mischa Barton] as 18yo girl stand in superhero action pose fly in sky, blond long hair, blue eyes, front layers hairstyle, supergirl, cape, <lora:Supergirl:0.5>, skyscrapers, clouds, clear sunny day

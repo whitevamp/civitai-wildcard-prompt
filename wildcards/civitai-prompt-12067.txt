@@ -1,0 +1,1 @@
+((Best quality)),((masterpiece)),((realistic)),architecture,highrise,tree,car,blue sky,<lora:highrise:0.5>

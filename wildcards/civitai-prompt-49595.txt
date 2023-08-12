@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, volumetric lighting, 1girl, mature female viking warrior, wielding sword, armor, fur, gauntlets, loin cloth, powerful, scars, absurdly long hair, blue face tattoos, tundra, snowstorm, mountain range in the background <lora:norseVikingWarriorAnd_v10:0.7>

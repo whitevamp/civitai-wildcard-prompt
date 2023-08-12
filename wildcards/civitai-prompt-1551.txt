@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,
+An abandoned planetary base in a mysterious and epic landscape, filled with remnants of a forgotten civilization and surrounded by breathtaking cosmic beauty.masterpiece,hyperrealistic,stunning details,captivating gaze,magical light,unreal engine,uhd,32k,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), Fujifilm XT3, <lora:add_detail:1>

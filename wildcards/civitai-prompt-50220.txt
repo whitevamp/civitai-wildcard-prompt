@@ -1,0 +1,3 @@
+realistic,ultra detailed, diamond stud earrings, long straight black hair,Super detailed,front Photo,
+
+iu1, <lora:iu_v35: 1>

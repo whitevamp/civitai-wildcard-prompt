@@ -1,0 +1,1 @@
+(hs:1.6),1girl, best quality, photo,Real hair, 4k, (photorealistic:1.2),looking at viewer,(((upper body))),((wear t-shirt)),Fair skin,Fairy skin,Black hair, <lora:koreanDollLikeness_v15:0.1>, <lora:mix4:0.1>,mix4,Super real,cleavage, red wedding clothes,hanfu.chinese clothes,bare shoulders,Real hair strands,3d,8k, <lora:henrendadi:0.8>

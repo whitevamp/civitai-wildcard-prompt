@@ -1,0 +1,9 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean,nsfw, best quality, {{masterpiece}},beautiful lighting, Intricate, High Detail, dramatic, depth of field,  film grain, artbook, incredibly_absurdres, 
+1girl, goddess, ((perfect female body, narrow waist)), white hair, red eyes, gorgeous queen, royal, divine, goddess, godlike,queen,rich,skinny,WombTattoo,sexy, charming, alluring, seductive, erotic, enchanting,
+global illumination,(lighting on full body),Particularly strong light,(shiny skin),Skin is white and tender,(pale skin:1),
+(natural breasts),perfect breasts,sexy breasts,large breasts,(F cup:1),((breasts out)),cleavage,pink nipples,small areolae,lactation,
+no panty,no briefs,no underpants,no knickers,(Pudendal exposure),ultra detailed pussy,Sexy pudenda,beautiful pussy,Hairless vulva,sweat pussy,pussy juice,(realcumAI),cum,cum in pussy,
+beautiful clothes, (revealing clothes),dress patterns,lace, lace trim, lace-trimmed legwear,high-heeled shoes,hair ornament, necklace, earrings, bracelet, armlet,(royal palace), fantasy, dreamlike, unreal, science fiction, 
+<lora:fashionGirl_v50:0.1>  <lora:cuteGirlMix4_v10:0.5> <lora:photorealisticWombTattoos30_v301:0.7>
+ <lora:breastinclassBetter_v14:0.3> <lora:breastCurtains_v10:1>
+<lora:murkysAfterSexLying_1:1>,<lora:creampie_V11:0.6>,

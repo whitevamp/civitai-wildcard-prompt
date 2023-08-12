@@ -1,0 +1,4 @@
+masterpiece, best quality, absurdres, highres, ultra detail background, (high poly 3d:1.1), (vivid color:1.1), dark place, dark forest, dark shadow, (dim light, :1.4), (rim lighting:1.1), (two tone lighting:1.1), <lora:epiNoiseoffset_v2:1.>,
+dark night, neon lights, (1girl:1.2), urban landscape, cityscape, downtown,
+from above, reflections on wet pavement, (noir:1.3), dark alleys, smoky atmosphere,
+trendy outfits,

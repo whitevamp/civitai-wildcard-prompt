@@ -1,0 +1,1 @@
+<lora:TUSUNv2:0.4> pallas cat portrait as The Virgin in Prayer, The Virgin in Prayer, by Giovanni Battista Salvi da Sassoferrato:1.2, oil painting:1.2, traditional art, detailed, histroical,pallas cat with clothes, pallas cat portrait:1.5,masterpiece <lora:Viscuit12:0.5>,cat paws as hands

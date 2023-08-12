@@ -1,0 +1,1 @@
+<lora:pensketch_lora_v2.3:0.8> penSketch_style, ink sketch, 1girl, solo, full body, medium hair,school uniform, trees

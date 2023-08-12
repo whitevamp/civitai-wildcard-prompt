@@ -1,0 +1,3 @@
+masterpiece, 1girl, solo,  pov, ayase fuuka, school uniform, blouse, pleated skirt, ribbon, mini skirt, from below,
+cowboy shot,,  smile,  <lora:otoyomegatari:0.9>, greyscale, monochrome, halftone, drawing, manga, otoyomegatari,
+  <lora:add_detail:1.6> ,face focus,  class room, <lora:AyaseFuukaLORA-000007:1>

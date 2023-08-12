@@ -1,0 +1,1 @@
+abstract image of a dream, fractal, plague, rot,  genius, masterpiece,  complex, elaborate,  octane render, detailed,   <lora:add_detail:0.5>,  <lora:epiNoiseoffset_v2:0.5>

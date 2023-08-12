@@ -1,0 +1,1 @@
+masterpiece, best quality, 8K, octane render, 3D artwork, colorful, bloom, high detail, HDR, wallpaper, best lighting, beautiful face, detailed face, detailed eyes, (mechanical parts:1.5),  <lora:reelmech:1>, 1woman, torn tight supersuit, in a destroyed city, smoke and fire, glowing power aura, Angela Sarafyan, long hair,<lora:Angela Sarafyan:1>, looking at viewer, from front

@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0),
+1girl, kirisaki kyouko, bob cut, short hair, black hair, purple eyes, medium breasts, (magical girl:1.4), (wizard hat:1.3), looking at viewer, outdoors, (blush:1.2), laughing, park, tree, flower bush, (crowd:0.7), hands on lap,
+<lora:Kizuki - To Love Ru - Kirisaki Kyōko:0.85>

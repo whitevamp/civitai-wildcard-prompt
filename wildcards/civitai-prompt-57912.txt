@@ -1,0 +1,5 @@
+((anthro furry female, bird, avian, owl, (beak:1.2)):1.2), ((asymmetric messy long red hair):1.1), ((nsfw, explict, masterpiece, lush detail, trending on artstation, cinematic lighting):1.0), intricate green iris, (feet focus, bare feet), (wherecreature:1.1),
+((white torn dirty shirt, oversized shirt, off shoulder, cargo pants):1.2), braless,
+((science fiction, dirty, old spaceship, damaged mechanic parts, greasy old gauges, dirty dials, broken engine, gadgets, rusty tools):1.1),
+romanticism, global illumination, radiant light, hyperdetailed, 8 k realistic, impasto impressionism, countershading, digital art, by thomas kinkade, by greg rutkowski, by albert lynch
+<lora:Wereanimal (wherecreature):0.4> <lora:Anthro Birds v25 (anthro, bird, avian, winged-arms, beak, owl, beakjob):1.0>

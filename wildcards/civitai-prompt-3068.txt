@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+An exploration of texture and surface, with tactile qualities that invite touch and exploration, Diamond, Adorned with, Baroness, Tall, Narrow Hips, Triangular Face, Fair Skin, Gray Hair, amethyst Eyes, Straight Nose, Full Lips, Round Chin, Long Hair, Thick Hair, French Braid, full breasts, Threader earrings, red satin lipstick, Within a shimmering sanctuary, a garden of jewels blooms, its iridescent petals reflecting the colors of the rainbow,
+ <lora:sxz-style-niji:0.4>

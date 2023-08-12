@@ -1,0 +1,2 @@
+((nsfw:0.8)),(a woman with long white hair sitting on top of a wheel, cute cyborg girl, james jean aesthetic, inspired by Dariusz Zawadzki, mechanized soldier girl, by Kim Du-ryang, official print, by L Ji, using a exoskeleton, worksafe.cgsociety, 2 0 5 0 s),
+(Extremely fine edge lines), <lora:CCCPposter0.95>

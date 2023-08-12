@@ -1,0 +1,2 @@
+A landscape of an enchanted forest where trees come alive and emit a soft, ethereal glow.
+(glow:1.2)

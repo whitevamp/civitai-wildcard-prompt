@@ -1,0 +1,7 @@
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,
+BREAK
+(1girl, solo, (nsfw, naked, nude), shy, blush, puffy lips, looking at viewer, smooth body, soft skin, medium breasts, perfect breasts, perfect nipples, nice hands, perfect hands ),  <lyco:GoodHands-beta2:1.0>,
+BREAK
+long blonde hair, clothes pull, high heels,
+BREAK
+indoors,bedroom, on chair,

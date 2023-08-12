@@ -1,0 +1,4 @@
+<lora:jiwenji_myFirstPornDvd_v10:1>, (my first porn dvd cover:1), cover text, masterpiece, high quality,
+Long-sleeved midi dress with a belt and structured blazer, Sensation, Short, in shape, Oval Face, Dark Skin, Auburn Hair, amber Eyes, [[Curved Nose]], Thick Lips, Sharp Chin, Shoulder-Length Hair, Fine Hair, Donut Bun, augmented breasts, Threader earrings, coral satin lipstick, a secluded, sandy beach at sunset,
+Cozy coffee shop with warm lighting,
+<lora:sn0w_zefrableuStyle_v10:0.4>, <lora:animeLeges:0.2>, beautylegs, slim legs, long legs, high heels, thighhighs, stockings, lace trim legwear, <lora:danni2D_e5:0.2>, <lora:odaNonStyle-v1.5newcraft:0.4>,

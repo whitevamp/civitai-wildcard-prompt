@@ -1,0 +1,16 @@
+(27 years old beautiful gorgeous cute european woman:1.1) 
+shiny skin, porcelain skin,
+(harness:1.2), (Tight-fitting latex bodysuit) , (glossy finish), latex, (cropped jacket),
+(intricately detailed clothing, eleborate clothing),
+(small ass),(small breasts:1.3), 
+sexy, charming, alluring, seductive, erotic,
+(cameltoe),
+(dark background:1.5), (sitting on a table),
+incredibly absurdres,beautiful detailed ,extremely detailed eyes and face,beautiful detailed eyes,
+perfect proportions, 
+intricate details,
+(minimalist:1.1),
+(spread legs), 
+wide angle, (close-up), (wide shot), 
+(highly detailed), masterpiece,best quality,detailed shadows, sharp focus, highres ,(realistic, photo-realistic) (professional lighting),HDR,RAW photo,(film grain:1.1),dramatic lighting
+ <lora:add_detail:0.3> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.4> <lora:reflect:0.2>

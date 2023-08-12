@@ -1,0 +1,1 @@
+full body, mature female:1.3, female orc, green skin:1.3, black hair, brown eyes, muscular, white tutu, ribbon-trimmed skirt, forest <lora:coloredSkinCONCEPT_v219:0.75> <lora:tutuBalletOutfitLoha_v220:0.75>

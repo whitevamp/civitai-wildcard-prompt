@@ -1,0 +1,1 @@
+<lora:st louis v2 epoch 5:1> stlouis, full body, sitting, rain, night, looking at viewer,

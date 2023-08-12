@@ -1,0 +1,1 @@
+3D,3D render, global illumination, subsurface scattering, pixar style, Princess_Peach (wearing pink gown),, 1girl, blonde hair, seductive expression, sexy eyes, shiny skin, simple background  <lora:peach:0.6>

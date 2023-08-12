@@ -1,0 +1,8 @@
+4K [32k|16k|best-quality] professional photo,
+
+and polar bear, animal <lora:volibearV1:0.2>
+FrozenBearAndFan NorthernLights, ColdTones
+<lora:in_ice_cube:1> in_ice_cube
+
+and electric fan, wind <lora:electric-fan:1>
+<hypernet:ekmix-style2-81000:0.1>

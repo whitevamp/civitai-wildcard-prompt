@@ -1,0 +1,1 @@
+masterpiece, 8k, 1girl, senjougahara hitagi, long hair,  solo, dress, sleeveless, no bra, no_straps, night, starry sky, + +,  road, cityscape,  <lora:senjougaharaHitagi_v10:0.7>

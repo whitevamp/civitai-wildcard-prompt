@@ -1,0 +1,4 @@
+(photograph:1.3, photorealistic:1.3), natural colored, real human skin, ultra quality, high resolution, 4k, medium shot, sit
+, pureerosface_v1:0.3 ,(sexy:1.3), (adult), legs spread, panty, small breast, (smile), <lora:thaiHighSchool_thaiHighSchool:0.8>, (white shirt), (dark blue skirt:1.3), (brown belt), navel
+,1 girl:1.5, solo, white skin,<lora:PP (suzy)_V20:0.5> ,<lora:virtualgirlAki_v11:0.4>, (embarrassed face:1), collar, earring, jewelly
+,garden, bench, bush , sunlight

@@ -1,0 +1,2 @@
+a photo of (sks person:1.2) as homelander drinking a glass of milk, <lora:antonyStarr_v10:1.0>, 
+(photo, studio lighting, hard light, sony a7, 50 mm, hyperrealistic, big depth of field, matte skin, pores, wrinkles, concept art, colors, hyperdetailed)

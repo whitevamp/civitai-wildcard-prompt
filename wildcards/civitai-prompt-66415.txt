@@ -1,0 +1,3 @@
+wind_sorcerer, (white wispy hair), feather_circlet, ([chiffon robe|cloud-patterned gown]:1.3), [crane_cape::10], silver ([mantle:bird trim:0.4]:1.7) billowing on ([sky cloak:storm cape:0.4]:1.5), forehead, summoning_wind, azure eyes, waist_belt, silver_bracers, cloud_palace, wind_chimes, [flowing, cloud_braid:0.1], [gloves, kite, silk_fan:0.4],
+(__views__:1.2),
+<lora:oc_v10:0.25>

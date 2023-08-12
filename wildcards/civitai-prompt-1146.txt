@@ -1,0 +1,1 @@
+painting, (cute detailed hamster driving a hovercraft), photograph, hurricane, dusk, temperate deciduous forest, highres, bloom, cinematic lighting,  <lora:Add_Detail:.5>

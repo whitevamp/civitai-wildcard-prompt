@@ -1,0 +1,1 @@
+masterpiece, best quality, primrose azelhart, green eyes, hairband, nun habit, black robe, one eye closed, wink, smile, church, standing, looking at viewer  <lora:primrose-nv-v2-000010:0.75>

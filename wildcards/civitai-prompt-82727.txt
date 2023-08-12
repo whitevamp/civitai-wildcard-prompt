@@ -1,0 +1,6 @@
+absurdres, highres, ultra detailed, (no human:1.3), 
+BREAK , Create an image using a prism effect, with light refracting and creating a colorful, kaleidoscopic appearance. 
+BREAK , Design an image with a fisheye lens effect, capturing a wide field of view with a distinctive, curved perspective. 
+BREAK , Capture a forest path, with towering trees, dappled sunlight, and a sense of tranquility and natural beauty. 
+BREAK , Illustrate a monochromatic world, using only shades of black, white, and gray to convey depth, emotion, and a striking visual impact.
+ <lora:flat2:1> <lora:add_detail:1>

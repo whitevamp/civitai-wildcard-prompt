@@ -1,0 +1,3 @@
+pov doorway, indoors, school uniform, child, from above, short, flat chest,
+
+<lora:concept-pov_doorway-v1:0.7>

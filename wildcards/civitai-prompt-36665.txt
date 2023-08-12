@@ -1,0 +1,4 @@
+masterpiece,best quality,highres, ultra-detailed, solo,vivid,slight smile,
+1girl, (young teen) short hair,mid-shot, a beautiful girl looking into camera, off shoulder sweater by Chris Foss winter lights,night, off shoulder,
+outdoor,depth of field, (upper body:0.6),
+<lora:detailed_eye:0.4>, <lora:add_detail:0.4>

@@ -1,0 +1,3 @@
+masterpiece,best quality,8k wallpaper,ultra detailed,ultra high res,photography,realistic,Steadicam Shot
+1girl,solo,Chinese style,Platinum Blonde hair,Lob (long bob),Blooming tulip fields, vibrant colors, picturesque landscapes, windmills, cycling paths, seasonal beauty,
+<lora:Chinese style_20230607154437:0.8:clothes>,<lora:anxiang:0.8>,

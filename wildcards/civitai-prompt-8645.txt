@@ -1,0 +1,1 @@
+(masterpiece, official art, beautiful and aesthetic),(best quality:1.2),light on face,cinematic lighting, (1girl:1.2), Depth of field, classical, church, elegent, <lyco:GoodHands-beta2:1> <lora:add_detail:1> <lora:still_life_v3:0.7> <lora:animetarotV51:0.6>

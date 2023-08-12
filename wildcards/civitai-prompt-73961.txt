@@ -1,0 +1,10 @@
+(RAW, best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, extremely beautiful face, perfect body,  
+silver hair, long hair, hair ornament, 
+medium breast, slim waist, slim legs, 
+blouse, oversize chino, cardigan, fashion, city view, 
+night, evening, rim lighting,
+supermodel, :q, 
+best lighting, detailed background, detailed shadow, sharp focus, depth field f/2.8,
+saturated, high contrast, strong light and shadow,
+ [:<lora:sd-No.179-000014:0.6>:0.2]

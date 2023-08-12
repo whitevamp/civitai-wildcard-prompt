@@ -1,0 +1,1 @@
+kkw-FX-glowline, <lora:FrostRaceTech-20:0.7>, frostracetech, cryogenic, human, colored skin, long hair, translucent skin, pale skin, armor, <lora:hipoly3DModelLora_v20:0.7>,

@@ -1,0 +1,6 @@
+1girl, jane_noexist, half face gone, hnsrdlf style intricate biomechanical detail ,(blood vessels connected to tubes),(biomechanical vertebra attaching  to chest),((biomechanical cervial attaching to neck))
+((masterpiece),(best quality),(ultra-detailed),     solo, hood , black gloves, long sleeves,
+fantasy, sci-fi,  horror, aliens, white eyes
+realistic,  (skeletons on the floor:0.3)
+masterpiece, award-winning photo, analog style,
+<lora:Biomechanicals_v2_lora1500:0.7>

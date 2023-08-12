@@ -1,0 +1,1 @@
+absurdres , highres, ultra detailed, child (2girls:1.3), sundress, [:blonde hair:2], yellow raincoat with hood, BREAK , happy, rain, rubber boots, water drop, cloudy sky, puddle, Splash of water, Old-fashioned European town, walking, BREAK , <lora:add_detail:0.4>, <lora:GoodHands-vanilla:1>

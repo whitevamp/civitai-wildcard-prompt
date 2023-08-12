@@ -1,0 +1,3 @@
+1girl, (8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, (real person,fashion photography portrait,photograph), detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),SakuraNS, solo, professional lighting,
+pink dress with flower), village, east asian architecture, trees, village hidden in the leaves background,looking_at_viewer, smile, forehead flower,red_hairband,pink hair,green eyes,mitain,toeless footwear,kunai,facial mark,konohagakure symbol,<lora:SakuraNS:1>,fighting_stance,fence,ninja,adjusting gloves,sleeveless,cleavage,
+<lora:Pure_ Innocent_ girl2-000009:0.8>

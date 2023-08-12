@@ -1,0 +1,3 @@
+(a beautiful woman), Floral bikini with a sundress and straw bag, cleavage, pale skin, (smile:0.4),
+ultra realistic,
+shiny glossy skin, subsurface scattering, (sharp:0.7), [(colorful explosion psychedelic paint colors:1.21)::0.05], amazing fine detail, Nikon D850 film stock photograph Kodak Portra 400 camera f1.6 lens, rich colors, lifelike texture, dramatic lighting, dynamic composition, unreal engine, trending on ArtStation, cinestill 800 tungsten <lora:more_details:0.6>

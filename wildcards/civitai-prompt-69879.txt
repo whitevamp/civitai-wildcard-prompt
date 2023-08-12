@@ -1,0 +1,5 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ <lora:AnkhaAnimalCrossing1:1> Ankha (Animal Crossing), Ankha, yellow skin,
+hands on hips, from below, looking at viewer, smug,standing, 
+ <lora:GTSv5:0.8>  GTSCity, Looming, Stepping, Rampage, 
+egyptian, pyramids, ruins, desert, sand, sphinx,  <lora:3_v20:0.8> ;3, uwu, catmouth, cameltoe,

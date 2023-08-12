@@ -1,0 +1,3 @@
+<lora:itsfine:0.7>,  itsfine, 
+<lora:dithering2:1.1>, dithering, pixel art, halftone, pattern, 
+itsfine, a dog sitting in a chair in front of a fire, cup of coffee on table, heavy fire on the background, meme in distress

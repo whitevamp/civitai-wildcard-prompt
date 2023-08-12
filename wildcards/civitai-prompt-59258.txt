@@ -1,0 +1,6 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.4), (photorealistic:1.4), ultra-detailed, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, best quality, beautiful lighting,depth of field,extremely detailed eyes and face,
+ancien greek temple background,
+(1girl),Sagittarius Armor,posing, armor, golden shinning armor, reflection armor,(fullbody:1.2), helmet, (long metal wings spread:1.2), 
+, , blue eyes, cute,(long blonde hair),sexy,huge breast,(golden armor thong:1.3),angel style,
+, looking at viewer, (cleavage:1.2),(body shape),
+ <lora:saintSeiyaSagittarius_v10:0.3>,  <lora:ellaFreyaLora_v10:0.5>

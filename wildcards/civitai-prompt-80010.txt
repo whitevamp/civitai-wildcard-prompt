@@ -1,0 +1,4 @@
+Background Waifu,Waifu in Picture,
+<lora:Photo_Comparison-v2:0.8>,Best quality,highres,ultra detailed,girl,(white hair),A stern expression,(Police, police uniforms,full uniform,Wireless Earphone,in-ear earphones,SWAT,swat, Special Forces hat),
+(cellphone, smartphone, holding,)
+Photo_Comparison,(Picture in screen,sexy,NSFW,Vaginal, Nude,naked necktie,naked police uniforms,exposed,Exposure,lewdness, erotic),

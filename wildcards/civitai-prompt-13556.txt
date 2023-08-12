@@ -1,0 +1,15 @@
+Aesthetic: ((biopunk, genetic engineering, biohacking, dystopian biology, transhumanism, ecological revolution):1.4)
+BREAK
+Composition: <lora:cowgirl-2.0:1> wide shot, (looking at camera, 1boy, squatting position, vaginal, pov, a girl having sex , penis, cowgirl position, pov, face_foward, (extremely detailed pussy), detailed face,((good anatomy:1.2)), Feminine Expressions, ((erotic, sexy, horny)), real penis,) (pretty face, detailed face and eyes)
+BREAK
+Lighting: Twinkling Starlight, Peaceful, Tranquil
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+(good quality:0.994),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

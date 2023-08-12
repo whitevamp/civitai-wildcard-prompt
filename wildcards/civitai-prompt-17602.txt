@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,
+1girl,floating,standing,in_ice_cube,looking at viewer,flower,table,cup,on table,mint leaf,half green lemon,miniature,tilt shift, <lyco:miniature_V1:0.6>,naked,nude,barefoot, <lora:in_ice_cube-07:0.6> ,full body, closed eyes, crossed arms, ice cube,

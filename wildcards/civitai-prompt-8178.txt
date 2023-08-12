@@ -1,0 +1,2 @@
+A closeup of sq3 cocky smiling Todd Howard the spaceship pilot giving a ((thumbs up)), wearing a white and orange spacesuit, his spaceship parked behind him in the distant background, on the arid surface of an alien planet, in 1starfield style.
+<lora:1starfieldV2:0.3> <lora:Sierra_SCI_v1:1> <lora:toddHoward_1:0.7> <lora:add_detail:0.7>

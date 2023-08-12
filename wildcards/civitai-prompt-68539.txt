@@ -1,0 +1,4 @@
+sam yang,
+1girl, animal, animal on shoulder, bird, black-framed eyewear, black eyes, black hair, blue sky, cityscape, clear sky, coat, day, earrings, eyewear hang, eyewear removed, fur coat, jacket, jewelry, long hair, looking to the side, outdoors, power lines, red lips, sky, smile, snow, solo, sunglasses, white bird, white coat, winter, winter clothes
+, ((masterpiece))
+<lora:sam_yang_offset:1>

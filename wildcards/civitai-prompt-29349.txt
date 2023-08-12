@@ -1,0 +1,1 @@
+black_necktie, collared_shirt, formal, halftone, halftone_background, necktie, polka_dot, polka_dot_background, shirt, solo, suit, white_shirt, 1boy, jacket, upper_body, male_focus, black_jacket, black_suit, blinds, object heads, Surveillance cameras as head<lora:ob head:1>

@@ -1,0 +1,4 @@
+masterpiece, best quality, highly detailed,
+<lora:pig_man_v0.2:1:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1>1girl, (multiple boys), ugly man,
+scared expression,clenched teeth, tears, <lora:scaredExpression_v18:0.8:1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0.2,0.2>
+torn clothes, school uniform, panties, monster, (lift legs), choke

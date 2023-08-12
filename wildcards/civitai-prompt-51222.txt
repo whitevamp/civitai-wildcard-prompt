@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, solo, chunli_alpha, looking down, from behind,
+wooden floor, <lora:bodyproportionsV25_bodyproportionsV25:0.7>

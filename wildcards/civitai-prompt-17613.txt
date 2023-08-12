@@ -1,0 +1,5 @@
+(upper body:1),
+blond,very long hair,superstar,
+(stochastic angle, stochastic pose),see-through,tyndall effect,
+(see-through dress :1),jewelry, earrings, 
+<lora:DiamonAI-000009:0.3> <lora:tangbohu-detailmaker_v2.5:0.7> <lora:tangbohu_saturation_v1.0:1> <lora:superstar_v10:0.7>

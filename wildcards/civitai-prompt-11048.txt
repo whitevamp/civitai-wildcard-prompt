@@ -1,0 +1,1 @@
+1girl,power \(csm\),sharp teeth,cross-shaped pupils,blue jacket,collared shirt,black pants,sit,sit on bed,holding a cat,smile,happy face,open mouth,masterpiece,extremely detailed CG unity 8k wallpaper, best quality,32k,focus sharp, <lora:csm_power-13:1>, <lora:add_detail:1>

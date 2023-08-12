@@ -1,0 +1,9 @@
+(1girl, woman, solo, sexy, gorgeous, elegant, nsfw, puffy lips, long black hair, shy, blush, smooth body, soft skin, medium breasts, perfect breasts, perfect nipples, arms up, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+tank top, (shirt lift), jeans shorts,
+BREAK
+(view from above),
+BREAK
+indoors, brick wall, window,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

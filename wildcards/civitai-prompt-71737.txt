@@ -1,0 +1,8 @@
+(public_nudity), (full_body:1.4),1girl, naked, standing, full_frontal,
+small_breasts, (croptop in sexy_Leather Jacket:1.2), navel,
+(bottomless:1.4), (NSFW), (showing_puccy, hairless_puccy:1.2), <lora:Addams:0.7>,
+Small_hips, (thin thigh, Thin calf), white_sneakers,
+wavy shoulder-length hair, serene, calm,
+outdoors, street,
+(realistic detailed eyes, natural skin texture, realistic face details),
+soft dramatic lighting, depth of field, bokeh, vibrant details, finely detailed, hyperrealistic, 35mm film, hazy blur, flimg, <lora:FilmG3:0.8>

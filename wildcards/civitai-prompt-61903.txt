@@ -1,0 +1,1 @@
+(masterpiece, best quality, highres, high_resolution, absurdres, detailed:1.2), 1girl, (pink_hair, irridescent, holographic skirt lift: 1.3), sexy, <lora:pnxJpSchUniSktLft_v10:0.4>, (indoors, bedroom at night, pink bedsheets, moonlight, nsfw)

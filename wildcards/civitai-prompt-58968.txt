@@ -1,0 +1,12 @@
+(RAW photo, best quality, masterpiece:1.4), realistic, ultra highres, absurdres,
+1girl,  
+symmetric eyes, eye makeup, light on face, blush, red lips,
+(very short hair, light blonde hair, bob cut:1.2), 
+medium breasts,
+(Stewardess, red uniform, garrison cap, white gloves, pantyhose:1.1), <lora:russianStewardess_v10:0.9>
+slim waist, slim legs,  
+airplane cabin interior,
+supermodel, perfect body proportions, 
+shiny skin, skin pore, highly detailed skin,
+smiling,  
+perfect body proportions, best lighting, detailed background, detailed shadow, sharp focus,

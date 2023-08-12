@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,best illustration, best shadow,intricate,depth of field,
+A Chinese Taoist woman wearing white (see through:1.4) Taoist robe,sit in lotus posture,bare legs,off shoulders,bare shoulders,hair bun,(extremely intricate:1.2), (exquisitely detailed skin), cinematic light, perfect anatomy, (Taoist temple:1.4),(coolcolor:1.4),(smoke:1.4),
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality,( film grain:1.4), Fujifilm XT3,<lora:Smoke:1>

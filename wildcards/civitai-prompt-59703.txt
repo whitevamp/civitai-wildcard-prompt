@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+<lora:tentaclehorrorai_v10:0.9>, tentaclehorrorai, a malfunctioning time machine sends people back in time,  fantasy art,

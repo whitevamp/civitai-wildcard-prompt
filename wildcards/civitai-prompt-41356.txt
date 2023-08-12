@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.4), Beige top, maroon pants,extreme detailed,theater dance scene,(hypermaximalistic:1.5),seductive expression,  <lora:add_detail:0.85>, RAW photo, full sharp, detailed face (high detailed skin:1.2)

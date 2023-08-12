@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed), stargatehorus, in the style of 0mib, solo, intricate details, <lora:0mib3(gut auf 1):1>  <lora:stargateHorus:0.6>

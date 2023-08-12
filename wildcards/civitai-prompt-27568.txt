@@ -1,0 +1,1 @@
+masterpiece, best quality, teargrants, hair over one eye, brown dress, bare shoulders, detached sleeves, white gloves, upper body, looking at viewer, smile, old building, room <lora:teargrants-nvwls-v1-000008:0.9>

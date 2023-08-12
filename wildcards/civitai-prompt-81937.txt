@@ -1,0 +1,1 @@
+1girl, portrait, realistic, (topless:1.3),sidelighting, full body,sitting,(panty:1.3),wallpaper, nsfw,perfect hand,(perfect fingers:1.3) <lora:fashionGirl_v54:0.3> <lora:daili_v20:0.3> <lora:shojovibe_v11:0.2> <lora:zl_2023-05-18_133642-000001:0.6>

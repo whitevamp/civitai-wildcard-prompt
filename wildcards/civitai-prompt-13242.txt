@@ -1,0 +1,5 @@
+((masterpiece)), (best quality),official art, extremely detailed CG unity 8k wallpaper, highly detailed, Depth of field, vivid color, detailed background, best illumination,ultra detailed, (photorealistic:1.4), perfect lighting, detailed face and eyes, detailed lips,
+fantasy, librarian, 1girl, solo, perfect feminine face, symmetrical face, sharp focus, platinum hair, blue eyes, princess attire, tiara, saphire jewelry, mini skirt, high heels, 
+looking at a book on hands, standing,  full body,
+royal library,medieval library,gorgeous bookshelf, expensive book, 
+<lora:RPGLibrarian:0.8>

@@ -1,0 +1,2 @@
+1girl, 1boy, (sex:1.5), sex from behind, nude, (doggystyle:1.5), (bright lighting:1.2), extremely detailed face, perfect lighting, beautiful detailed eyes, (breast:1.5), photorealistic, perfect face, man wearing clothes
+ <lora:effect_realdoggyst_v10:0.6> <lora:effect_breastinclassBetter_v141:0.2>  <lora:model_koreanDollLikeness_v10:0.3>

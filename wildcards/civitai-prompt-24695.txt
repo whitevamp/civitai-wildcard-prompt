@@ -1,0 +1,5 @@
+(masterpiece:1.3),best quality,
+BREAK,
+1girl,elf,white hair,short hair,green eyes,half-closed eyes,blush,open mouth,medium breasts,hands on wall,nice legs,perfect legs,nice foot,nude,left hand,
+BREAK,
+<lora:EkuneStandingSplit>,ekstandsplit,1boy,penis,sex,standing,standing split,standing sex,motion lines,

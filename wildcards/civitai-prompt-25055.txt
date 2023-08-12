@@ -1,0 +1,3 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed <lora:XenoDetailer:0.5>, <lora:kittew_v0.1:0.8>, <lora:realistic:0.85>,
+(1man,  old  male:1.2), wise,  hazel eyes, gray hair, clean-shaven,
+portrait, looking down, solo, (full body:0.6), detailed background, detailed face, (<lora:ElementalMagicAIv2:0.6>, fireMagicAI theme:1.1), hogwarts teacher, smiling,  (ravenclaw uniform:1.1), scarf,  shirt, cape,  dynamic pose,  spiral water, <lora:waterVFX:0.4>, magical forest in background, epic atmosphere,  moonlit night,

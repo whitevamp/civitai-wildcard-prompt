@@ -1,0 +1,16 @@
+masterpiece, best quality, highest quality, highly detailed,
+beautiful, intricate details, absurdres,
+1girl, solo,
+orange hair, short hair, chignon,
+multicolored eyes, staring,
+nude,
+flat chest, puffy nipples, perky breasts,
+onara, fartfx, sound effects,
+futanari, huge penis, large testicles, flaccid,
+BREAK
+green background, from side,
+BREAK
+looking at viewer,
+BREAK
+<lora:FutanariConcept_Dylora_alpha_v1-14-000014:0.4>
+<lora:Onarav1:0.6>

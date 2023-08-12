@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, detailed background,
+landscape, japan traditional, bathing at hot japanonsen, hot steam, wooden bucket, forest, bamboo, torii, fuji,
+1girl, asuka, blue eyes, orange hair, red bodysuit,
+night, moon,
+<lora:ARWJapanOnsen:0.9>,<lora:anime:1>

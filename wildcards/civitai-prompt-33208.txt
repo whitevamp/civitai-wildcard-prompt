@@ -1,0 +1,5 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Splendid, hyperrealism oil painting, Cardigan, chinos, Artist, Average Height, Narrow Hips, Square Face, Tan Skin, Dark Brown Hair, Blue Eyes with Green Flecks, Long Nose, Full Lips, Prominent Chin, Shoulder-Length Hair, Coarse Hair, Layered Bob, firm breasts, Drop earrings, golden cream lipstick, Dancing carefree on a rooftop with a cityscape,
+Seated on a stone bench in a sun-drenched garden, she reads a book, her mind immersed in another world,
+Whimsical treehouse village nestled in a dense forest,
+<lora:simplePointedToeHeelswithoutStrap:0.4>, beautylegs, slim legs, long legs, high heels, <lora:edg_swedishDollLikeness:0.7>, beautiful edgSwedish_woman, perfect edgSwedish_face, perfect edgSwedish_body,

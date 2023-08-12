@@ -1,0 +1,5 @@
+8k,nsfw,  real picture,ultra-detailed,(photorealistic),ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece,
+nude,best_shadow, auditorium, hall, standing,
+1girl, beautiful_face, detailed_eyes, white_hair, black_skin, ((bridal veil, bridal gauntlets, bridal garter):1.3),
+<lora:Villagesuccubus_v30:0.8>, village_succubus, wings, horns, chest_tattoo,
+liliana,<lora:liliana:0.51>, mafuyu,<lora:mafuyu:0.6>

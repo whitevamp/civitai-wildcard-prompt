@@ -1,0 +1,2 @@
+<lora:Colored_Icons_by_vizsumit:0.8> coloredic0n icon,
+pirates,

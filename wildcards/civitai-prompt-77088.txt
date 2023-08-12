@@ -1,0 +1,1 @@
+(best quality:1.1), soft light, raw photo, (photorealistic:1.2),  1girl, long hair, black hair, slim body, nsfw, <lora:UndergroundClub:0.2>, dark theme, crowded club, neon party, <lora:tape:0.8>

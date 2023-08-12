@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, DealWithIt, <lora:DealWithIt:1>, solo, close-up, jack sparrow,   <lora:Char_Sigmas_JackSparrow:0.7>

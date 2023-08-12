@@ -1,0 +1,2 @@
+bigguns, full body view, woman standing, hands on hips, very pretty woman, she is working at target, wearing red button collar shirt
+cleavage, cute woman, freckles <lora:bigguns_v121:0.55>  <lora:add_detail:1.2>

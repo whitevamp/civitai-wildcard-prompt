@@ -1,0 +1,2 @@
+(masterpiece, best quality:1.2), , solo, 1girl, charlie morningstar, smile, looking at viewer, sitting in an armrest chair, long hair, red suit, , hotel, thighhighs,
+, <lora:charlieMorningstar_v10:0.8>

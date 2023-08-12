@@ -1,0 +1,4 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female), <lora:detailed_eyes:1>,
+<lora:character_purahTotK_(purah):0.75>, purah, hair ornament, hair stick, red headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings, 
+windy, (explosion background), grin, mad scientist, cool, badass, 
+<lora:concept_costume_sunglasses_(Glasses--Sunglasses--Aviators):0.9>, (Sunglasses), covered eyes,

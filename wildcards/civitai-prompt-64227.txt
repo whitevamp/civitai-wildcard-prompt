@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl, <lora:Irys768-000012:0.8> (irys \(hololive\)), white dress, detached sleeves, (dichromia red and blue eyes), long red hair, [halo], horns,

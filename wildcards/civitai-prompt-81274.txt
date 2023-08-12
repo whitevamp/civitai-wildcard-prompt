@@ -1,0 +1,1 @@
+highres, 4k, (best quality), <lora:LoraGoth:0.9>, upper body, (handgun), (aiming at viewer),  <lora:Chartreux_v2:0.7>, Chartreux, (cat), cat paws furry, (no humans:1.1), street, movie poster, cover, magazine cover, (tuxedo:1.1), cat wick, text, outdoors,

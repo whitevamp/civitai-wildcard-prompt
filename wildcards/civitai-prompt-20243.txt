@@ -1,0 +1,1 @@
+from behind, (masterpiece, best_quality, ultra-detailed, immaculate:1.3), epic, illustration, welcoming, 1girl, druid, aqua hair, bombshell hime cut,Messy Waves, casting spell, in a modern, post-apocalyptic storage room, in a frostpunk, religious dining hall, bombshell hair, black hair with sea green highlights, Loose Curls, outstretched leg<lora:EnvyBeautyMix35:1>

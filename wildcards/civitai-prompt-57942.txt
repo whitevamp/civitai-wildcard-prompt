@@ -1,0 +1,2 @@
+yellow dog ,plants,outdoors,
+ illustration.media, <lora:NijiExpressV2:0.9>  , masterpiece, best quality,

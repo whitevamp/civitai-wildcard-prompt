@@ -1,0 +1,4 @@
+Portrait shot, 1girl, Native American goddess, silver jewelry, standing in water, abs, extreme large hips, narrow waist, red skin, thick thighs, brown hair, red ornate bikini, 
+Masterpiece, best quality, detailed, 
+seductive pose, alluring smile, 
+tropical ruins background, waterfall in background, <lora:ColoredSkin2-10:0.6>, <lora:Chubby Girl LoRA:0.2>, curvy, <lora:add_detail:1.3>,

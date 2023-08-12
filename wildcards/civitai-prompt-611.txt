@@ -1,0 +1,10 @@
+masterpiece, best quality, castle bedroom, 3girls, lying down
+AND
+<lora:ros1:1>  
+masterpiece, best quality, castle bedroom, 1girl, blonde, ahegao,  (rolling eyes:1.1), cross-eyed, eyes rolled back, tongue out, head bent back, looking up, mouth open, blush, drooling, closeup, <lora:Ahegaoo:0.95>  
+AND
+<lora:daisy1:1> 
+masterpiece, best quality, castle bedroom, 1girl, brunette, ahegao,  (rolling eyes:1.1), cross-eyed, eyes rolled back, tongue out, head bent back, looking up, mouth open, blush, drooling, closeup, <lora:Ahegaoo:0.95> 
+AND
+<lora:ppeach:1> 
+masterpiece, best quality, castle bedroom, 1girl, blonde, ahegao,  (rolling eyes:1.1), cross-eyed, eyes rolled back, tongue out, head bent back, looking up, mouth open, blush, drooling, closeup, <lora:Ahegaoo:0.95>

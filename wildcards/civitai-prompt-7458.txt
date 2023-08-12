@@ -1,0 +1,4 @@
+best quality,monster hunter,
+tigrex,claw,wings,tail,glowing eyes,BREAK,
+(1girl,chibi:1.5),:o,riding tigrex,
+<lyco:tigrex_v10:0.8>

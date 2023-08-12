@@ -1,0 +1,5 @@
+((masterpiece)),((best quality)),insanely detailed,intricate,
+SilverWolfV4,grey hair,ponytail,grey eyes,small_breasts,earrings,hairclip,navel,collarbone,shorts,short_jacket,
+outdoors,cowboy shot, 
+nip slip, extended_downblouse, all fours, t-shirt, leaning forward, visible nipple, NSFW,
+<lora:Sv4-06:1>,<lora:downblouseForBoobs_v1:0.7>

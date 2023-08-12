@@ -1,0 +1,1 @@
+(dynamic pose:1.2),(dynamic camera),Meika Woollard a closeup portrait ,wearing in sexy dark blue lace apron,  kitchen,  flirting with camera,smile, <lora:LowRA:0.15>, RAW photo, full sharp, wallpapper 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

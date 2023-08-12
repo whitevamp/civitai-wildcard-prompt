@@ -1,0 +1,6 @@
+(photo-realistic:1.3)
+(1girl), (30yo), mature, (dark blue room:1.1), (blue rim lighting:1.5), (dimly lit:1.3), (dark night:1.3), (deep shadows:1.3), indoors, long hair, nsfw, medium breasts, nude,
+wearing fishnet top, smiling, covered shoulders, (blue light: 1.8), blue, neon light,
+<lora:wearing_fishnet14:0.2>
+<lora:JapaneseDollLikeness_v15:0.4>
+masterpiece

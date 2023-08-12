@@ -1,0 +1,3 @@
+(masterpiece,best quality, detailed), 1girl, solo, outdoors, night, cityscape, city, from below, squatting, spread legs, 
+black bodysuit, turtleneck, skin tight, latex bodysuit, latex, high heels,
+faye valentine, looking at viewer, smile, parted lips, <lora:FayeValentineV3-000006:0.9>,  <lora:more_details:0.5>

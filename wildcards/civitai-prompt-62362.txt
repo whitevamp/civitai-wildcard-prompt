@@ -1,0 +1,2 @@
+masterpiece, best quality,(8k, RAW photo, best quality, masterpiece:1.39), (realistic, photo-realistic:1.2),1girl, light brown hair, blue eyes, pale skin, blunt bangs, Long_Sleeve_Body_Con_Dress, (huge breasts:1.2), Cleavage, army_green2244, sitting on bench
+ <lora:body_con_dress_V2-03:0.8> <lora:breastinclassBetter_v141:0.3> <lora:koreanDollLikeness:0.7>

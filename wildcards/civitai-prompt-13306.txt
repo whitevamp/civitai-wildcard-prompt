@@ -1,0 +1,3 @@
+absurdres, highres, ultra detailed, megami magazine, (from below:1.2), daiagonal view, cowboy shot, classroom, 
+ <lora:GasaiYunoV2_2-000009:1>  gasai yuno, school uniform, short sleeves, blue shirt, red bowtie, blue skirt, holding axe, looking at viewer, evil smile, glowing eyes, blood on face, blood on clothes, perfect hands, red theme,
+<lora:silhouetteKai22222_1:1> <lora:red_theme_v11:1> <lora:flat2:-0.5> <lora:flatBG:1> <lyco:envybetterhandsLocon_beta2:1.0>

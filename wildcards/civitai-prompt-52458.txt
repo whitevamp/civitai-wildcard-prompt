@@ -1,0 +1,8 @@
+(8k, RAW photo, best quality, masterpiece:1.2), beautiful detailed eyes,floating hair,
+small breasts,
+
+1girl, solo, (HibikiHimekawa:1.3), cute, grin, face focus, 15 yo girl,small breasts,teeth,upper body,cyberpunk,
+short hair,multicolored hair, black hair,purple hair,blue hair,cross hair ornaments,blue eyes,
+
+looking at viewer,
+<lora:mahjongsoul_hibiki:0.4> ,

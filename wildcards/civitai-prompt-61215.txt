@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, 2 cute girls wearing sexy bunny outfit, hug, large breasts, smile, 
+restaurant, table, chair, coffee, cake, 
+ <lora:sexyBunnyOutfit_v10:0.7>

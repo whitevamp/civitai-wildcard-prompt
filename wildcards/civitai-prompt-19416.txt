@@ -1,0 +1,1 @@
+(best quality:1.2), military, blond women with flag, red t-shirt with soviet sign, soviet union, crowd, smiling, sky and cloud with plane, <lora:soviet-poster:0.7>, <lora:more_details:0.5>

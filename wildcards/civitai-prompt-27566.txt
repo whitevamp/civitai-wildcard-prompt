@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, night, dark, cinematic lighting, adult, perfect skin, female, looking at viewer, (RSEEmma:1.5),<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, steampunkai, <lora:breastinClass:0.2>, vivid green eyes, thick eyebrows, parted bangs, black hair:pink hair, freckles, long flowing hair, ponytail, :), smile, <lyco:SteamPunkBundleV3:1.0>

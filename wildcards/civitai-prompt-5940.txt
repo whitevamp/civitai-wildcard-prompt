@@ -1,0 +1,1 @@
+masterpiece, best quality, (cthulhu:1.2) playing basketball in a basketball court, (green skin, claws:1.1), wings, solo, wearing a basketball jersey and basketball shorts, glowing red eyes <lora:cthulhu-beta4-clipskip2-000009:1.0>

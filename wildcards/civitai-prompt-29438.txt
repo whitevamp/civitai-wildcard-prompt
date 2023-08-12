@@ -1,0 +1,4 @@
+(best quality, masterpiece, intricate detail), (glamour shot of girl:1.2), (nsfw, nude:1.2), 
+delicate skin texture, slender body, well-proportined figure, ass,
+(very long hair:1.2), 
+largewindow,  <lora:largewindow_20230531163119:0.7>,

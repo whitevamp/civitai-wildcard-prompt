@@ -1,0 +1,1 @@
+<(photorealistic:1.4), (extremely intricate:1.2)>, <(exquisitely detailed skin), cinematic light, ultra high res, 8k uhd, film grain, perfect anatomy, best shadow, delicate, RAW>, (Ray Tracing),(1 girl,cute, black hair,very long hair),(skirt:2),metro,(girl raise the skirt:2), ( showing underwear),(people in background,shocked),ulzzang-6500-v1.1, <lora:skirtlift-v1:1>

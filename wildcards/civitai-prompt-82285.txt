@@ -1,0 +1,1 @@
+((masterpiece:1.2, best quality)),<lora:steampunkai:1>,steampunkai,alien fighter pilot,detailed eyes, best quality, ultra-detailed,intricate face, simple gradient background

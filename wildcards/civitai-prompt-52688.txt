@@ -1,0 +1,5 @@
+best_quality, masterpiece, extremely_detailed, highres, best_shadow, thighs, 
+1girl, beautiful_face, detailed skin, 
+ <lora:VillageSuccubus_v2:0.42>, village_succubus,(obscenity_tattoo:1.2), wings, horns, tail, 
+bed, spread_legs, huge breasts, white hair, 
+ ((realistic, photorealistic, photo_referenced):1.3),

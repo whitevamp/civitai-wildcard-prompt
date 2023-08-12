@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lora:Arcane_vi-v2:0.8> v1101, 1girl, 
+ <lora:add_detail:0.4> <lora:Elixir:0.4> <lora:more_details:0.4>  
+bathroom, bathtub, nude, nipples,  <lora:excessiveSparsePubic_v10:0.8> sparse red pubic hair <lyco:GoodHands-beta2:0.8>

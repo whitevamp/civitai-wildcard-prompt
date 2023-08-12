@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), close up, portrait,
+1girl, jabami yumeko, blue hoodie, jeans, blunt bangs, black hair, looking at viewer,  parted lips, 
+ <lora:Yumeko1x85x2x15xx:0.70>,

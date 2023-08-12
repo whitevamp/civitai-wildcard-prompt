@@ -1,0 +1,6 @@
+<lora:miniatureWorldStyle_v10:0.7>miniature
+,masterpiece, best quality, ultra detailed,detailed face,
+<lora:blindbox_V1Mix:0.4>,<lora:figmaAnimeFigures_figma:0.3>
+1 chibi, beach,full body,
+<lora:qiqiGenshinImpact_v10:1>qiqidef,pureerosface_v1,sunlight, smiling,
+solo focus,

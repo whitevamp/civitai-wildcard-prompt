@@ -1,0 +1,1 @@
+Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, <lora:war_glamv1.1:0.6>, War_Glam, a woman in a red armor ,armored, wearing War_Glam

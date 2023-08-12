@@ -1,0 +1,23 @@
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, lying on bed, on back, side by side, head to head, indoors,
+pink hair, long hair, purple eyes, rolling eyes, fucked silly, full blush,
+breasts, nipples, long nipples, nipples erection, small areolae,
+ass, pussy, (cum, cumdrip, facial, bukkake, cum on hair, cum on body, cum on breasts:1.2),
+sweat, steam, heavy breathing, thick thighs, skindentation, topless, bottomless,
+<lora:masusu_v10:0>,
+cameltoe, front pussy, slit_pussy, <lora:InniePussy1_v3:0>,
+empty eyes, hypnoLora, <lora:ConceptBlankEyesHypnosis_v10:0>,
+headwear, white legwear, detached sleeves, yaemikodef, <lora:yaemiko1_000008:0.75>
+AND
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, lying on bed, on back, side by side, head to head, indoors,
+purple hair, long hair, purple eyes, rolling eyes, fucked silly, full blush,
+breasts, nipples, long nipples, nipples erection, small areolae,
+ass, pussy, (cum, cumdrip, facial, bukkake, cum on hair, cum on body, cum on breasts:1.2),
+sweat, steam, heavy breathing, thick thighs, skindentation, topless, bottomless,
+<lora:masusu_v10:0>,
+cameltoe, front pussy, slit_pussy, <lora:InniePussy1_v3:0>,
+empty eyes, hypnoLora, <lora:ConceptBlankEyesHypnosis_v10:0>,
+braid, black legwear, detached sleeves, yraidenshogundef,  <lora:raidenshogun1_000009:0.75>

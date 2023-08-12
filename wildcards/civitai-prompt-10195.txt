@@ -1,0 +1,13 @@
+Appearance: 1girl, ((detailed face and eyes)), (sharp eyes, realistic face), (22 years old), cute face, pretty face, white girl, american girl, ((red hair))
+BREAK
+Aesthetic: ((hyperpop, high-energy, avant-pop, maximalism, internet culture, genre-bending))
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k, realistic face
+BREAK
+Composition: <lora:skirtlift-v4:0.8>, standing, skirtlift, panties, view from below, white lace panties
+BREAK
+(good quality:0.997),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.35>
+<lora:to8contrast-1-5:0.4>

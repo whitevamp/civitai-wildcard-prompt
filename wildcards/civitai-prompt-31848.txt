@@ -1,0 +1,5 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 
+1girl,
+naked girl, (flower hair ornament), shy smile, 
+(small breasts:1.2), perfect slim body, slim waist, (thigh gap:1.2),
+beach, vivid color, <lora:add_detail:1.5>

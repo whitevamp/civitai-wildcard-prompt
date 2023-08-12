@@ -1,0 +1,3 @@
+<lora:multiple_hands_v0.5:1.0> 
+1girl, (molestation:1.2), 
+<lora:chikan_v1.5i-locon:1>, masterpiece, best quality, highly detailed

@@ -1,0 +1,3 @@
+Masterpiece, ultra realistic,absurdres,HDR,8k,excited,best quality,sunglasses, city background,
+edgSDress, 1girl, solo, long hair, breasts, looking at viewer, skirt, brown hair, cleavage, medium breasts, standing, full body, glasses, bag, nail polish, mole, blurry, lips, fingernails, strapless, blurry background, sandals, grey skirt, black-framed eyewear, hands on hips, long skirt, handbag, tube top , wearing edgSDress
+ <lora:edgSDress:0.987>

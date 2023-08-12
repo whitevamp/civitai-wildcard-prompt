@@ -1,0 +1,1 @@
+masterpiece, high quality, comic, batman with cape holding shopping bags, (jim lee), grocery, indoors <lora:jim_lee_offset_right_filesize:1>

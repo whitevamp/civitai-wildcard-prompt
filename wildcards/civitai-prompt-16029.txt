@@ -1,0 +1,2 @@
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,clive,upper body,facial hair, (facial tattoo:1.2),(left ear clip:1.2),topless, exposing pectoral muscles,exposing abs,black hair, blue eyes, bulge, <lora:Younger version of Clive:0.6> <lora:Bara:0.4>

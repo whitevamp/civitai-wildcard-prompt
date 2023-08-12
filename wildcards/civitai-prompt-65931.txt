@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, suzumiya haruhi, solo, kita high school uniform, blue sailor collar,  sailor collar, blue skirt, brown hair, short hair, brown eyes, armband, hairband, medium hair, ribbon, socks, medium breasts, <lora:suzumiya_haruhi_v10:0.7>, cowboy shot, standing, smile, outdoors, hands on hips, (pointing:1.2), classroom, <lora:nwsjmajic-10:1>

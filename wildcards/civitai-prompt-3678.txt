@@ -1,0 +1,7 @@
+(ultra realistic, highly detailed:1.4), best quality, masterpiece,
+girl at the desert, long blue hair, blue skin
+((small breasts, flat chested):0.4)
+((sweating):0.3), blushing, dynamic pose
+((anthro):0.5)
+((lizard girl, reptile, scales, scaled skin):1)
+<lora:race-reptile:0.8>

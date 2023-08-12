@@ -1,0 +1,27 @@
+8k resolution, best quality, masterpiece:1.2, realistic, photo-realistic:1.37, ultra-detailed, best quality, ultra high res, professional lighting, photon mapping, radiosity, physically-based rendering, cinematic lighting, unreal engine, depth of field, sharp focus, raw photo, good composition, bokeh:1.2, absurdres,
+
+35mm lens:1.25, wide angle, low angle, glamour shot, shot from the level of legs:1.4, shot from her side or back:0.5,
+
+NSFW,
+
+2 girls, young adulthood, a medium height model, pale skin, glistening skin, very delicate and detailed beautiful face, clear and detailed eyes, looking at the viewer, closed mouth, smile, detailed beautiful skin texture,
+
+stand with legs together:0.75, back arched, hips tucked under:0.5, 
+
+((full body):1.7), hand of guido daniele:0.05, slim body, natural breast, very narrow waist, slim hip, thigh gap, very long and well-proportioned thin legs:1.3, thin thighs:1.3, slim calf:1.3,
+
+bare shoulders:0.5, bare waist, she wears (a PU leather Japanese race queen costume, a two-piece, a sexy  detailed PU leather strapless tight form-fitting tan top or tube top gaps between breasts, sexy very tight PU leather long sleeve Bolero shrug cropped top, detailed pu leather tight skirt to show off the legs, white high heel over knee boots with a platform, visor):1.3,  
+
+the team logo is a running cat cartoon, the dress worn is emblazoned with the logos of the team,  team logos may appear on the visor,
+
+ wear full makeup, including bold eye makeup, false eyelashes, and bright lipstick,
+
+hair has usually styled in an updo, hair floating in the wind:1.3,
+
+earrings, huge vivi plastic bracelets, and a ribbon necklace or choker, to add some sparkle and glam to the outfit, wear a branded visor with the team's logo and sponsor, false sleeves,
+
+all clothes and accessories in the same colour theme of (cobalt blue, white):1.3,
+
+(hold a (closed wrapped umbrella) vertically with the pointed end down), standing in a pit stop or racing track, 
+
+mix4, <lora:cuteGirlMix4_v10:0.6> <lora:japaneseDollLikeness_v10:0.3><lora:shojovibe_v11:0.3>

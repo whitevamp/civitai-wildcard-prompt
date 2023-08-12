@@ -1,0 +1,1 @@
+high quality, realistic, official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece, best quality,  green jellyfish,(jellyfishforest:1.4), mushroom, dress, long hair, scenery, white dress, solo, nature, water, wading, outdoors, tree, standing, black hair, fantasy, forest,  <lora:jellyfish-noise:1>, <lora:decolorization:0.8>,  <lora:add_brightness:0.6>

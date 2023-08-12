@@ -1,0 +1,1 @@
+VHS footage, robot mech suit walking around New York, no people, <lora:epiNoiseoffset_v2:1>  <lora:badVHS_v101:1>

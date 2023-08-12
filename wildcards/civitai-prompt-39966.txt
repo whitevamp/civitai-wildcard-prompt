@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,close up,buildings in the background
+smiling, beautiful blonde edgAus_woman,posing for a picture, 
+<lora:edgAustralianDoll:0.7> 
+OPSW, a woman in a sexy lace swimsuit standing on a beach, v shaped cleavage , wearing OPSW, with frills,<lora:OPSW:0.45>

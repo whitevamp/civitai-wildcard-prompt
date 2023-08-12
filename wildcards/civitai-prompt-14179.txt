@@ -1,0 +1,1 @@
+<lora:ShibariUnderneath-16:1>, ShibariWCL, shibari, bound, restrained, <lora:EchidnaRZ:0.7>, EchidnaRZM, colored eyelashes, long dress, black dress, vertical-striped dress, best quality, masterpiece, highres

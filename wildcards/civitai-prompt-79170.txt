@@ -1,0 +1,2 @@
+tihon, solo, looking at viewer, 1boy, standing, full body, grey hair, male focus,  facial hair, brown footwear,  beard, mustache, old man <lora:tihon-10 (1):0.6>
+black sunglasses, gangstar, rich, high, synthwave, stunning, curvy, smouldering eyes, red pouty lips, , (unreal engine:1.1), nightcity, neon, (Cyberpunk), futuristic, neon, urban, dystopian, (revealing clothing)

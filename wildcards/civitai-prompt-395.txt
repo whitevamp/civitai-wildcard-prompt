@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait,
+1girl, takayama maria, silver hair, flat chest, blue eyes, long hair, nun, looking at viewer, classroom, smile,
+ <lora:Kizuki - Haganai - Takayama Maria:0.95>

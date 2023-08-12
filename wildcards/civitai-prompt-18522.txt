@@ -1,0 +1,5 @@
+best quality, (masterpiece:1.2), illustration, absurdres,
+(1girl, solo), (beautiful detailed girl),
+<lora:Mint-06:0.7>, Mint, green hair, red eyes, small breasts, thin, petite, goggles on forehead, goggles on hair,black vest, (brown apron:1.2), blue sneakers, green pants,(engineer, mechanic:1.1),tool belt, tool apron,,
+inside bedroom, on bed, sitting, spread legs, (agura:1.1), window, bookcase, table,,
+looking at viewer, happy, from below, (bent over:1.1)

@@ -1,0 +1,3 @@
+(best quality:1.4), (intricate details:1.2),  digital artwork, 
+1 girl, adult russian woman,  silver eyes, natural blonde layered hair,
+portrait, solo, half shot, looking at viewer, detailed background, detailed face, (<lora:GlowingRunesAIV3:0.6>, GlowingRunesAI_green theme:1.1) glowing eyes, (master of time :1.1), eternity, weightless, impossible geometry, swirling patterns,  hourglass,  sands of time, energy,  bloom light aura, cosmic space in background, ethereal atmosphere,

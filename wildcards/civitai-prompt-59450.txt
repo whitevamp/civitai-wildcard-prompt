@@ -1,0 +1,1 @@
+(masterpiece:1.3), (intricate:1), best quality, official art, 8k wallpaper, highly detailed, illustration, lineart, monochrome, cinematic light, 1 girl, from the side, floating hair, swept bangs, silver white hair, hair ribbon, hanfu, luxury dress, <lora:animeLineartMangaLike_v30MangaLike:1>, <lora:animeTarotCardArtStyleLora_v31:1>

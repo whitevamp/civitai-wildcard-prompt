@@ -1,0 +1,1 @@
+dvArchModern, interior, interior door, 85mm, f1.8, portrait, photo realistic, hyperrealistic, orante, super detailed, intricate, dramatic, sunset lighting, shadows, high dynamic range <lora:xsarchitectural-18Whiteexquisiteinterior:0.2> <lora:xsarchitectural-7:1>

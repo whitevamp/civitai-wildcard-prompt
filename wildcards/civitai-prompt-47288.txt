@@ -1,0 +1,8 @@
+(4k, best quality), (realistic, photo-realistic),1girl ,
+perfect hand,cute, dating, long hair, black hair,
+(beautiful detailed eyes),looking at viewer, smile,
+<lora:japaneseDollLikeness_v10:0.3>,perfect skin,
+slim,standing in the water,(small breasts),slenderwaist,(slender legs),
+feet soaked in water,
+<lora:hanfu_v28:0.7>,(hanstyle,hanfu,full body:1.26),skirt lift, 
+sunny,river,clean water,(waterfall),cherry blossoms,mountain, blue sky,

@@ -1,0 +1,9 @@
+(photorealistic, realistic:1.5), (extremely detailed CG unity 8k UHD, absurdres)
+1girl, solo, beautiful, 21yr old,
+( pink  transparent latex leotard), cameltoe,
+(( gigantic_breasts)), (big_hips, big_thighs, wide_waist, big_belly, wide_body), (voluptuous, curvy, fat),
+fat_rolls, deep_skin, skindentation , weightobese
+short_blonde_hair, red_lips, looking sexy, smiling, eye_contact,
+masterpiece, atmospheric, romantic atmosphere, dark cozy room,
+<lora:epiNoiseoffset_v2:0.8> dark studio, dimly lit, film grain, studio quality
+<lora:bigHardLatex_v10:0.4>

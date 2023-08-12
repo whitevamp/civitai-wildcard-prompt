@@ -1,0 +1,3 @@
+(8k wallpaper:1.2),(Ultra-high resolution:1.2),(masterpiece:1.1),wallpaper,High quality,masterpiece,(High detail),
+upper body,solo,looking at viewer,
+1girl,Fashion photo,Pure white background,Cinematographic lighting,film grain,ray tracing, <lora:add_brightness:0.2>, <lora:zyd232_ChineseGirl_v4_2:0.3>, <lora:Uruv1:0.7>

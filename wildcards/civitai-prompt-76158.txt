@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.4>,<lora:style_marble_(M4rbleSCNEW):1>, M4rbleSCNEW
+(1girl, solo), looking at viewer, glowing eyes, stern face, closed mouth, slight frown,

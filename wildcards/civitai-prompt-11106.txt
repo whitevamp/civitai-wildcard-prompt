@@ -1,0 +1,1 @@
+(rose) focus, delicate scene, depth of field, 8K, ivory sky, white clouds, sunlight shine, snow-white beach, coral sea, many colorful tiny shells on the beach, red roses <lora:FairyTaleV20_SD1.5:0.8>  <lora:LowRA:0.4>

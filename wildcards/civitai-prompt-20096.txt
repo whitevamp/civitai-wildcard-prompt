@@ -1,0 +1,4 @@
+professional photo of  1girl smile, looking at camera, soviet union, poster, painting, flag, colorful clothing, USA red and blue,
+detailed skin, detailed eyes, detailed face, action pose,
+high quality, volumetric light, highrez, masterpiece, best quality,
+<lora:soviet-poster:0.92:MIDD> <lora:Murica-v1-000020:0.92>

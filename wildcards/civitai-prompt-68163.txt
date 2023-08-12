@@ -1,0 +1,3 @@
+best quality, ultra high res,prefect anatomy,20yo kdoll,
+1girl,accidental exposure panties, short skirt,train,sleeping,closed eyes,pantyhose, sweater,sitting,from below, 
+ <lora:exposepanty:0.8><lora:FilmG2:0.5>filmg,

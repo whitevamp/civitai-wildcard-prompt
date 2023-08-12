@@ -1,0 +1,2 @@
+<lora:ChronomancyAI-000010:.9> ChronomancyAI
+coffee machine , detailed, intricate

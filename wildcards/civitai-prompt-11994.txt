@@ -1,0 +1,3 @@
+1girl, long hair, face,
+ <lora:matanozoki:0.4>matanozoki,forward bending,standing, from behind,upside-down, 
+hands on ass,

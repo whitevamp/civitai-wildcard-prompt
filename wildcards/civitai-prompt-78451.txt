@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, indoors, dojo, tatami, from above, fighting stance, clenched hands, looking at viewer, closed mouth, legs apart, fisheye lens, depth of field, feet out of frame,
+bea \(pokemon\), bow hairband, tied shirt, print shirt, black bodysuit, bodysuit under clothes, single glove, print shorts, knee pads,  <lora:SaitouV1-000013:1>

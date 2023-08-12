@@ -1,0 +1,7 @@
+Style: { (masterpiece:1.2, best quality, flat color, blue_and_navy_color_tone:1.3, vivid_colors), (gold_tarot_card:1.3) } BREAK
+Composition: { 1girl, saint woman, praying } BREAK
+Hair: { short_red_hair } BREAK
+Appearance: { mature female, reieneris, slim, slender, fit, small_breasts, flat_chest, erected_nipples, green_eyes } BREAK
+Clothing: { (catholic_nun_outfit:1.3), nude, see through, nipples, one breast out } BREAK
+Behavior: { confident, blush, temptation, sadistic, biting_lip, looking_down } BREAK
+Loras: { <lora:fechin:1><lora:add_detail:.5><lora:fantasyV1.1:.1><lora:DW:0.25><lora:lasto_v1:.25><lora:Double:.25><lora:senchou_special:.25> }

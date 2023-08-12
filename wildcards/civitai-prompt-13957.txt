@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, DisintegrationEffect, <lora:DisintegrationEffect:1.1>, 1girl, solo, cowboy shot, zelda-albw,  <lora:zelda-albw-fef:0.8>

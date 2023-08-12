@@ -1,0 +1,5 @@
+best quality, masterpiece,
+1girl, fairy wings, fairy riding on a pomeranian \(dog\), minigirl,
+pointing, yelling, angry, spear,
+(giant flower:1.2),
+<lora:riding_a:0.7>

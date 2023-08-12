@@ -1,0 +1,7 @@
+masterpiece, best quality, Alphonse Mucha, art nouveau,
+ (tarot card style:1.3),  unique tarot card framework incorporating floral and greenery elements,
+blunt bangs, black straight long hair, looking at viewer, 
+Amidst a verdant garden, a mystical maiden in a blossoming gown dances with ethereal creatures, bathed in sunlight that illuminates flourishing flora and ancient tarot symbols,
+roses, lilies, cherry blossoms, irises, foliage, moss, and vines, elegant dresses inspired by nature, accessories including flower and leaf-designed necklaces, earrings, rings, bracelets, hair ornaments, butterflies, birds, bees, tarot symbols reimagined with floral and greenery designs, goddesses, natural backgrounds like gardens, forests, lakesides, effective use of light and shadow, 
+realistic, hyper realistic lifelike 3d, zentangle,
+ <lora:hipoly3DModelLora_v20:0.4>,

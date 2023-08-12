@@ -1,0 +1,1 @@
+masterpiece, woman, (looking at viewer), natural skin texture, 24mm, 4k textures, soft cinematic light, Adobe Lightroom, PhotoLab, HDR, sophisticated, elegant, highly detailed, sharp focus, ((((cinematic look)))), soothing tones, crazy details, intricate details, hyperdetail, low contrast, soft cinematic light, muted colors, exposure blending, HDR, faded   <lora:Nyusha_v1:0.7>

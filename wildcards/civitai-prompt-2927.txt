@@ -1,0 +1,10 @@
+(JessieWaifu:1.5), woman, upper body, portrait, absurdres,,  detailed light,very detailed eyes, best quality, beautiful face, ultra detailed, highres, ,best quality,((shortstack:1.6)), very long hair, 
+1girl, (small round breasts:1.4),  beautiful,  , ( curvy:1.7), (wide hips:1.3),  , solo,  ((shortstack:1.6)),(skindentation:1.7), skintight, (long hair:1.4),
+, (blush:1.5), looking at viewer,  shiny skin,  blond hair, smirk, seductive,thigh gap,
+face focus,
+single braid, (hat, shirt, animal print pants, belt), red hair, traditional western wear, cowgirl,  bright yellow, long-sleeved shirt,detailing and red accents, ringed cuffs and a collar, opened sleeveless  vest, decorative stitching and buttons, denim shorts with a cow-print pattern, brown leather belt featuring a large buckle, sheriff star, some freckles, skin marcs, stables, barn, wet skin
+(8k, RAW photo, best quality),  35 mm focal length ,particles, accent lighting,  film grain, depth of field,
+ravishing,  ,beautiful lighting ,    high detailed, 8k, vivid contrasting colors, chromatic aberration, ,vibrant , , behance hd, best quality, (realistic:1.2), (high contrast:0.8),
+shallow depth of field, bloom, (RSEEmma:1.2),
+Volumetric Lighting, accent lighting, extremely detailed CG 8k, hyper detailed, best quality, ultra high res, high resolution, (intricate details),RSEEmma,
+<lora:add_detail:0.4> <lora:uv:0.3> <lora:FilmG2:0.4> <lora:LowRA:0.5>     <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.5>,     <lora:downblouse-v1:0.1>  <lora:JessieTS_character:0.4>

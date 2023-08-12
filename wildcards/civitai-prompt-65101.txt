@@ -1,0 +1,3 @@
+,Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, laughing, (jump pose:1.5),beautiful petite_doll, a woman ,perfect petite_doll face, perfect petite_doll body,(blonde long hair with color:1.3), street,detailed bright green eyes,colored tank top,(multi colored stripped skirt:1.3),bracelet, choker, wristband,(looking at viewer),(full body:1.3),graffiti artist,basket,colored sockets,hand up,dynamic pose,
+(full of color:1.3),
+<lora:petite_doll:0.5>, 3nid_14

@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), ( extreme detailed, highest detailed, official art, beautiful and aesthetic:1.2),  depth, composition <lora:blindbox_v1_mix:1>, FULL BODY, CHIBI,  Cute, beautiful eye, colorful ombre hair, rainbow gradient outfit, smilling, bokeh, bloom, blurred background,  <lyco:GirlInTheBottleLocon_v20m:1.0>

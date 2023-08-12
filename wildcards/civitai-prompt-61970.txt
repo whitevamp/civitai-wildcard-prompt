@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,     luminous trails,    captivating patterns, creative experimentation, highest detailed,
+1 girl, adult elven woman, freckles, black eyes, light brown updo hairstyle,
+ portrait, looking down, solo, half shot, detailed background, detailed face, (medieval high fantasy theme:1.1) evil summoner,  light green magical robes, determined expression, scarlet color scheme, dark purple light, summoning circle, bookshelves, glowing magical text, evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by yellow lightning <lora:LightningvfxCreateMore_v1:0.1>, casting spell, summoning,  green arcane symbols, corrupted by eldritch power,  
+<lora:style_hipoly3DModelLora_v10:0.1> <hypernet:sxzBloom_sxzBloom:0.1>

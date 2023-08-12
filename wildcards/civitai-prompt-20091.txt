@@ -1,0 +1,3 @@
+<lora:skirtlift-v1:0.6>, <lora:innievag:0.4>,
+(bare flat chest, nippels:1.2),(18 year old girl, standing in bedroom, dutch angle, looking down at viewer, highly detailed wearing black and white french maid costume, thigh highs, choker, cat ears, partial nudity, cleavage, pussy, lifting skirt:1.2), (very short brown hair, brown eyes:1.3)
+,full body,8k,ultra-detailed,best quality,high_quality,RAW photo,intricate_details,subsurface scattering,volumetric lighting,light from the front,

@@ -1,0 +1,2 @@
+ph elaina, Eoutfit1, elaina (majo no tabitabi), (masterpiece:1.6, best quality),   solo, long hair, ahoge, hair between eyes, collarbone, blue eyes, bangs, white hair, sleeveless, bare shoulders, shiny hair, camisole, spaghetti strap, white shirt, purple eyes, shiny, sleeveless shirt, blush, very long hair, sidelocks, sleeveless dress, dress
+<lora:elaina-ph_64:1>

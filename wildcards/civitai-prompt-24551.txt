@@ -1,0 +1,2 @@
+4K, Masterpiece, highres, absurdres, garterbelt,GothGal , woman wearing a ([garterbelt,lingerie|GothGal,dress,metal]::0.5),corset, leather straps, belt, chains,
+ <lora:edgGothGarterbelt:0.77>

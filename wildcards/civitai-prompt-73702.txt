@@ -1,0 +1,11 @@
+(4k ,ultra detailed:1.2),(anime:1),illustration,(photorealistic:1),
+(solo:1.2),(standing),(full_body:1.2),
+(simple background,:1.4),
+(outdoor,landscape,battlefield,open field,daylight:1.2),mushroom cloud,
+(gasmask,holster,distressed trench coat,cargo pants:1.2),
+(supermodel:1.4),(wide_hips:1),
+(black hair),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.5>,
+ <lora:ww1ger_v0.1:0.6>,ww1ger,
+<lora:postapocalypseAI:0.2>

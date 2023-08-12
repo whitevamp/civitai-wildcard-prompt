@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  <lora:GoodHands-vanilla:1>, 1girl,caucasian,  sheer red shirt , long hair, <lora:sheer-05:1>, (nipples:1), hand over head, epic character composition, sharp focus, natural lighting, sakura blossom, bokeh, f2, 35mm, film grain, <lora:LowRA:0.3>

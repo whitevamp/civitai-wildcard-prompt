@@ -1,0 +1,9 @@
+gakki,{best quality}, {{masterpiece}}, {highres}, {an extremely delicate and beautiful}, extremely detailed face, extremely detailed eyes,
+original,  depth of field, 
+long_hair, windy,
+looking_at_viewer, realistic,
+solo, upper_body, big smile,
+brown_eyes, red_lips,
+white office shirt,
+hair_ornament, hair_flower, brown_hair,
+collarbone,  glasses

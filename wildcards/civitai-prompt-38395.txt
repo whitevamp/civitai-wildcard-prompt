@@ -1,0 +1,2 @@
+(masterpiece, 8k, intricated details:1.1), (masterpiece, best quality, ray tracing, volumetric lighting, ssao shadows,),((from back)), 1 girl, high pony tail, long slender body:1.2, curved back, navel, cropped shirt:1.1, big breasts,  walking, petite, small waist, curved back, (red short skirt), skin indentation, white thigh highs, white thong, from behind, looking behind, climbing stairs, 
+,((long legs:1.1)), POV, taken from below, shot from below:1.1 <lora:more_details:0.3>, <lora:LowRA:0.15> <lyco:GoodHands-beta2:1.0>

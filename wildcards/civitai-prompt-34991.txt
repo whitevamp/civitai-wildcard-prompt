@@ -1,0 +1,1 @@
+<lora:FumioTest2:1>, 1girl, school uniform, red and blue skirt, blue hair, red ribbon, <lora:DreamArtV1.3:0.5>, fly in direction of viewer, white floor, rushing in direction of the viewer, looking at viewer, falling,

@@ -1,0 +1,2 @@
+1girl, outdoors, nature, (araucaria:1.1) forest, (campfire:0.9), camping, capybara, lake, (best quality, masterpiece:1.2), mountain
+<lora:araucaria-10:0.75> <lora:capi-09:0.15> [capybara:5]

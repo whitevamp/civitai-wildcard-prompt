@@ -1,0 +1,5 @@
+(masterpiece,best quality, extremely detailed:1.2), dynamic lighting, grainy, 
+girl apuspill, tears, lying on floor, detailed clothing,
+ [[<lora:YaeMikoFox:0.75>::60]:10], YaeMikoFox in pieces,
+ [<lora:more_details:0.4> #cmd\(1 if step < 30 else  cooldown(0.3\)\)] 
+[<lyco:apuspill:0.7>#cmd\(1 if step < 15 else  cooldown(0.3\)\)]

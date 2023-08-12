@@ -1,0 +1,4 @@
+masterpiece, best quality, (relistic:1.5), 8k, ultra  face detailed, unreal engine 5, beautiful body,
+1girl, slender, booty short pant, white tanktop, boob cleavage, big breasts, teeth, (glossy skin:1.3),
+
+<lora:auntCassBigHero_auntCass:0.6>

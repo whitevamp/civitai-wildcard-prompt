@@ -1,0 +1,1 @@
+(masterpiece, best quality, beautiful quality, photorealistic, detailed lighting, extremely detailed skin, extremely detailed hair, shadows, 8k:1.2), (a picture of a woman, 1girl, thinframe glasses, underwear, looking in mirror, from below:1.2), <lora:add_detail:1>,  <lora:FilmVelvia2:1> <lora:InstantPhotoX2:0.65> <lora:japaneseDollLikeness_v10:0.2>

@@ -1,0 +1,1 @@
+beautiful, (masterpiece:1.2), (best quality:1.2), perfect lighting, 1girl, psylocke, leotard, thigh highs, black hair, cute, leaning on railing, arms down, <lora:psylocke-10:0.8>,  japanese buildings, lanterns, night time, dark, foreshortening, depth

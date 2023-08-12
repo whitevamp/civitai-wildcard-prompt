@@ -1,0 +1,9 @@
+photorealistic,realistic, solo, photorealistic, best quality, ultra high res,
+
+outdoor, amusement park, colorful, joyful expression, long hair, ponytail, cute headband, looking back over shoulder, amusement park rides and attractions in background, night time setting,
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, solo,1girl,
+
+best quality, ultra high res, photorealistic,
+ultra detailed,
+masterpiece, best quality,
+ <lora:lightAndShadow_v10:0.5>, <lora:saika__v2:0.7>,saika1,

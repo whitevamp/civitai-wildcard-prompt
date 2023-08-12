@@ -1,0 +1,2 @@
+cartoon, masterpiece, best quality, (realistic), extreme detail,volumetric lighting, 8k, detailed face, young woman, petite, slim, vivian james, hairband, four-leaf clover, striped,long hair, ginger ,red hair, one piece swimsuit, striped swimsuit, outside, beach, sand, town, palm trees, waves, smiling, happy, parted lips, one piece swimsuit, from behind, 
+<lora:4chan_vivianjames-08:0.75>

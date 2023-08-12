@@ -1,0 +1,3 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), simple background
+1girl,chibi, hands in pockets, makima \(chainsaw man\)  red hair, long braided hair, golden eyes, bangs, medium breasts, white shirt, necktie, black trousers, stare, smile, (evil:1.2), looking at viewer, (interview:1.3),
+ <lora:makimaChainsawMan_offset:1.0>, standing on a stand , <lora:blindbox_V1Mix:1>,

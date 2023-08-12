@@ -1,0 +1,6 @@
+32k resolution best quality raw photo photographed by Canon EOS R3, 
+(peeing:1.2), squatting and spread legs, pussy, most beautiful korean idol, (stylish black dress, dress lift) , ankle boots, at new york time square, (looking at viewer and excited smile:1.2), surrounded by pedestrians,
+(small face, glossy lips, long winged eye liner, long eyelashes, dark eyeshadow, nose contouring, big eyes, red blush, chiselled jaw line:0.9)
+(skinny body and defined abs, skinny thighs, very thin waist:0.8), (necklace, earrings:0.9), small breast,
+,detailed skin,
+(ulzzang-6500:0.8), <lora:koreanDollLikeness:0.3> <lora:add_detail:1.25> <lora:add_sharpness:-1>  <lora:FilmVelvia3:0.2> <lora:PeeingWoman1.2:0.3>

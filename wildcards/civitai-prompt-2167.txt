@@ -1,0 +1,2 @@
+8k portrait of beautiful cyborg with brown hair, intricate, elegant, highly detailed, majestic, digital photography, art by artgerm and ruan jia and greg rutkowski surreal painting pink sakura petals,  (masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), hdr, upper body, naked breasts
+ <lora:breastinClass:0.5> <lora:animetarotV51:1>

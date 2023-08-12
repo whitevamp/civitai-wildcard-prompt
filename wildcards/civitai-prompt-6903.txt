@@ -1,0 +1,1 @@
+R3DD34Dstyle, digital portrait, Joseph Stalin, green military uniform, stars, red sky  <lora:Joseph_Stalin:0.6> <lora:R3DD34Dstyle:0.7>

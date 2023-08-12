@@ -1,0 +1,1 @@
+grainy, extremely detailed, intricate detail, dynamic lighting, <lora:LowRA:0.6>, <lora:FilmG4:0.6>,filmg, dark,female viking warrior, photorealistic

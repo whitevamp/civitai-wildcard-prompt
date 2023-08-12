@@ -1,0 +1,3 @@
+sketch,(defined line),detailed light,((cinematic lighting)),(very detailed face),(very detailed eyes),(((masterpiece))), best quality,perfect eyes, masterpiece , beautiful face, ultra detailed, highres,perfect hands:1.5,(CGI),((official wallpaper)),(light rays),(perfect body:1.5),extremely detailed face,(HDR:1.5),Jewel-like eyes,best quality,emphasis lines:0.4,(skindentation:1.3),detailed gorgeous face, ((beautiful girl:1.5)), olive skin:1.5,(( extremely detailed, hyper detailed)),thick eyelashes,long eyelashes,looking at viewer,((:3))
+ <lora:ilulu-01:1>,fang, skin fang,ilulu \(maidragon\),nude, nsfw,
+ ilulu, 1girl, solo, looking at viewer, blush, smile, :d, black thighhighs, low twintails,huge breasts,huge nipples,

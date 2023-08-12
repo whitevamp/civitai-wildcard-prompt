@@ -1,0 +1,1 @@
+braid, 1girl, twin_braids, earrings, jewelry, animal, on_head, blue_hair,pink hair, pig, multiple_braids, long_hair <lora:IcfgirlLora_v40:0.66>

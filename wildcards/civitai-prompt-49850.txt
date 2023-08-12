@@ -1,0 +1,4 @@
+(4k,   best quality, highres:1.2), (realistic, photo-realistic:1.37),  Jisoo, 1girl,  solo, long hair, nose, parted lips ,  (looking at viewer :1.5), detailed eyes, brown eyes,
+  blush , realistic, solo, long eyelashes , makeup, upper body,  random clothes,
+  (mole_under_eye, mole:0.1),  indoors, smile eyes, alluring,  cute,
+realistic light, realistic shadow,   [blurry background], eye focus,  [depth of field], bokeh, professional lighting, photon mapping, radiosity, physically-based rendering, High Detail, masterpiece, F/4.0, 35mm lens, (front lighting photography, catch light:1.5),

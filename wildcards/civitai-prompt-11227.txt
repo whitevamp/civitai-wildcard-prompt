@@ -1,0 +1,4 @@
+professional photo of hogwarts uniform,hogwarts background, frontal view,
+detailed skin, detailed eyes, looking at viewer,
+volumetric light, highrez, masterpiece, best quality,
+<lora:ComicsEmmaWatson:1:MIDD>

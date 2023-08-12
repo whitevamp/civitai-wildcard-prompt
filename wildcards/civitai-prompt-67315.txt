@@ -1,0 +1,1 @@
+photorealistic,highres,absurdres,realistic skin texture,(at beach:1.2),a  slim young girl wearing naked bathrobe standing,face,(flat chest:1.4),(small breasts:1),covered perky nipples,navel,thin legs,  ,<lora:BCfilmmixV1:0.5:figure>   <lora:NakedBathrobeV1:1.1>

@@ -1,0 +1,5 @@
+parameters
+
+guofeng,building,(bird:0.8),chinese style,illustration,masterpiece,best quality,illustration,no humans,<lora:Chinese style illustration v2:0.7>,
+Negative prompt: (low quality, worst quality:1.4),(bad anatomy),extra digit,cropped,jpeg artifacts,signature,watermark,username,blurry,
+Steps: 24, Sampler: DPM++ 2M, CFG scale: 6.5, Seed: 1371832407, Size: 512x768, Model hash: e3edb8a26f, Model: 插画--ghostmix_v20Bakedvae, Clip skip: 2, Lora hashes: "Chinese style illustration v2: c92890eedb10", Version: v1.3.2, Hashes: {"vae": "c6a580b13a"}

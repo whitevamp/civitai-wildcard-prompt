@@ -1,0 +1,3 @@
+{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {cinematic lighting}, {illustration}, {beautiful detailed eyes}, high res, original, extremely detailed wallpaper, nsfw
+masterpiece,1girl,nipple tweak, pov hands, nipples, fingering,full-face blush, open mouth, heavy breathing, steaming body,tears,
+ <lora:conceptNippleTweak_v10:1>

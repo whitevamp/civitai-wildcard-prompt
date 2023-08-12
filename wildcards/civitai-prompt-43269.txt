@@ -1,0 +1,3 @@
+<lora:micro_shorts_v0.6:1>
+1girl, micro shorts, 
+<lora:HOTD_v0.4:1> busujima saeko, denim shorts,, masterpiece, best quality, highly detailed

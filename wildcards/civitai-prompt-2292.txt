@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4),{{{1 girl}}},simple background, looking at viewer, cinematic lighting,beautiful body,15 yo girl, medium breasts, sweating,,depth_of_field,, shiny_skin, wide shot, white hair, purple eyes, <lora:omegaF1.0:0.8>

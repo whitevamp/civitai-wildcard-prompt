@@ -1,0 +1,1 @@
+spongebob, square head, body horror creature, highly detailed, <lora:bodhor:0.4>

@@ -1,0 +1,1 @@
+1girl, (smiling:0.6), (closed mouth) topless princess peach, puffy nipples, peach /(illumination/), filmic, film grain, depth of field, blurry background, <lora:illuminationStyle_v3Epoch2:0.6> <lora:princessPeachCharacter_v10:0.7> <lora:jk-big-natural-breasts-fullv01:0.3>

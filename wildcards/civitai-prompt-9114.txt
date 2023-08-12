@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), (1girl, cute, petite, smooth thigh, pale skin, braided hair, baby hairs, small breasts, glistening skin, subtle makeup, intimidating expression), absurdres, hdr, rtx raytracing, neon lights, down town japan, city scape, skyline, dynamic angle, 
+
+urban, baseball cap, baggy urban sweat pants, hoodie, whale tail, pants sagging, intricate details, detailed clothing, gangster, from behind, at night, crime, heavy fog, city streets, detailed tattoos, exposed shoulders, glasses,
+
+ <lora:more_details:1>  <lora:CyberpunkStyleV3:1>

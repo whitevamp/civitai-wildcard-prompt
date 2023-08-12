@@ -1,0 +1,4 @@
+<lora:delicateArmor_v10:0.3>,  (belt, glove, hand guard, wizard hat, intricate wizard robe:1.5), 
+(photorealistic, realistic, RAW photo:1.5), (best quality, ultra highres, ultra-detailed:1.5), (masterpiece:0.2), portrait, upper body,
+<lora:zyd232_ChineseGirl_v1.6:0.6> detailed skin, looking at viewer, (black short hair:1.4),
+<lora:epiNoiseoffset_v2:1> (rim lighting, two tone lighting, sharp focus, octane, unreal, dimly lit, low key:0.8)

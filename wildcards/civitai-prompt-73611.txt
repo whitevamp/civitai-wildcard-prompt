@@ -1,0 +1,7 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, ((looking at viewer:1.4)), soft light,
+red lips, (eyeliner),realistic skin,beautiful face,
+realistic, (photorealistic),
+fit ass, natural breasts, short hair, dynamic pose,
+long shot,
+volley_uniform, beach volley,
+ <lora:volley_uniform:0.5>

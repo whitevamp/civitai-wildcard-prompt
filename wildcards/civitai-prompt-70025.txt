@@ -1,0 +1,1 @@
+(1girl, solo, from side), extremely detailed, (abstract background, zentangle, fractal art:1.3), (many colors, colorful:1.1), (feathers, petals, flowers:1.3), dynamic pose, earrings <lora:add_detail:1>

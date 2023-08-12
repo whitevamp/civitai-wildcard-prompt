@@ -1,0 +1,3 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,
+<lora:B_1A_slingshotEyepatch_v11:1.2>,(slingshot swimsuit),
+1girl,Random hairstyle,slim legs,delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,

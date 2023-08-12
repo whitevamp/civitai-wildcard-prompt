@@ -1,0 +1,12 @@
+masterpiece,beautiful, best quality,perfect lighting,artstation,backlight,3 light setup,
+,colorful,
+dramatic lighting,solo,1girl,
+amalee,silver blue hair,curvy,blue eyes,
+<lora:amalee:0.8>
+naked,nude,completely nude,completely naked,blue pubic hair
+legs up,pussy,nipples,ass,ass focus,spread legs,folded,grabbing own thigh ,holding legs ,leg grab,leg hold,lying,
+bottomless,cum,creampie,exhausted,motion lines,after sex,nokezori,head back,shaking,fucked silly,trembling ,orgasm,female orgasm,arched back ,^^^,sweat,steam,
+<lora:nokezori_1.0_INS2:0.5> <lora:Legsuppresentingreal:0.4>
+ahegao,
+ahg,rolling eyes,tongue
+<lora:ahe:0.8>

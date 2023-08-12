@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:lagoon_dragon_kaisa:0.8> lagoon dragon kai'sa, 
+ <lora:KK_paperCut_v5:0.8> paper_cut,

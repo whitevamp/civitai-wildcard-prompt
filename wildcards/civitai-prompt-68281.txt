@@ -1,0 +1,3 @@
+highres, bloom, cinematic lighting,
+<lora:add_detail:0.7>, girl, detailed skin, detailed hair, detailed eyes, [shirt:wet shirt:0.35],smiling ,
+,BREAK (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, [ultrarealistic :  (professional color grading, film grain, Hasselblad):.7]

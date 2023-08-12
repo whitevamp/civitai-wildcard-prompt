@@ -1,0 +1,5 @@
+best quality, 8k, masterpiece,
+spring, 
+1girl, playing violin, violin, (bow \(music\)), big breasts,blue eyes, smile, 
+(white dress, off shoulder),
+<lora:violin_v6:0.75>

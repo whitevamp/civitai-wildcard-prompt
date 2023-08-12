@@ -1,0 +1,5 @@
+nsfw,(masterpiece:1.1), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.2),(realistic:1.0),(ultra detailed1:0), (RAW photo:1.1),Bird's-eye angle, Shibuya_\(Japan\), outdoor, 1girl, bangs, breasts, , collarbone, collared_shirt, ear_piercing, earrings, eyebrows_visible_through_hair, head_tilt, jewelry, lifted_by_self, ,blue loose_necktie, medium_breasts, , piercing, school_uniform, shirt, solo, underwear, white_shirt,annoyed face, (ear piercing:1:1), earrings, looking_at_camera, nail_art, nail_polish, See-through bangs,light gray hair, (blue skirt), collarbone, thigh gap, (cameltoe:1.2),small hip,(skirt lift:1.4)
+<lora:japaneseDollLikeness_v10:0.15>, <lora:koreanDollLikeness_v15:0.05> ,<lora:cuteGirlMix4_v10:0.15> ,<lora:taiwanDollLikeness_v10:0.05>
+large penis,erect penis, <lora:tgirls_V3b:1> ahegaoface, (cum dripping from penis:1.5),
+photographed by Canan EOS R6, 135mm, 1/1250s, f/2.8, ISO 400,
+<lora:povFacesitting_v10:0.7> from below:1.5,

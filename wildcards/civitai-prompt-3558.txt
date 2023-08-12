@@ -1,0 +1,6 @@
+(photorealistic:1.3),beautiful and aesthetic, masterpiece,best quality,lifelike rendering,moody lighting,
+industrial age,
+Knitted sweater,
+nsfw,
+(Mesmerizing Illumination, Evocative Glow, Captivating Lighting, Enchanting Chromatics),
+<lora:oc_v10:0.2> <lora:LowRAv2:0.6>

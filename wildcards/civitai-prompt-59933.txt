@@ -1,0 +1,8 @@
+(1boy:1.5),(man:1.5),1girl,(couple:1.5),
+((best quality )), (masterpiece) , (realistic shadow) , ( depth of field),((sunny) ), (highlight face detail), veins,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork, (NSFW:1.5), perfect face,perfect body,photorealistic, masterpiece, 8k, high res,lens flare, soft lighting,((ambient light)), window,  ((indoors)),
+skin imperfection, skindentation, perfect face, puffy face, beautiful face, ((big eyes)), puffy eyes, perfect eyes, eyelashes,  looking_at_viewer,  full body, skinny, thin legs, 
+(jk:1.3),(school uniform:1.3),(high school uniform:1.4), JK, full body,skinny, thin legs, lace black pantyhose, black thighhighs, long hair,  side ponytail, 
+ ((tape gag)), bound,  bdsm, bondage, breasts, blush, ((arms_behind_back)), bound_arms, restrained, 
+rope, shibari, navel, 
+ spread legs, leg lift, Clitoris, Cum, Cum In Pussy, Hetero, Leg Lift, Lying,  On Bed,  Overflow, (Penetration:1.5), Penis, Pussy, Pussy Juice, half-closed eyes, (Sex:1.3), spread legs, sweat, uncensored, vaginal, vaginal penetration, Missionary,
+<lora:tapeGag_v10:0.9><lora:povMissionaryVaginal_v1:0.6>

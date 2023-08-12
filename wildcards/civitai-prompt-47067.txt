@@ -1,0 +1,1 @@
+tarot,Hands together,vulcan salute,Attention, halo behind head,finely_detailed, perfect_body, perfect_eyes, perfect_face, perfect_fingers,<lora:animeTarotCardArtStyleLora_v20Offset:0.5>, <lora:koreanDollLikeness_v15:0.3>

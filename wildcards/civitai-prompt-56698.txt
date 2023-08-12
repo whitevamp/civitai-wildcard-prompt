@@ -1,0 +1,1 @@
+A photo-realistic rendering of a young girl playing a video game on her computer, surrounded by a futuristic, virtual reality environment. Her hair and clothes ripple in the wind as she controls her avatar with swift, precise movements. (Virtual reality: 1.5), (Photorealistic: 1.3), (Futuristic: 1.2), inspired by the works of Doug Chiang and Syd Mead.<lora:Lora_v20:0.8>

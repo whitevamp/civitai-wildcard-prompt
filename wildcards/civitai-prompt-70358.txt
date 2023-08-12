@@ -1,0 +1,1 @@
+castle, ruins, fantasy, variety animals,  <lora:COOLKIDS_MERGE_V2.5:1>,  <lora:dungeon_v2.0:0.6>,  <lora:add_detail:0.6>

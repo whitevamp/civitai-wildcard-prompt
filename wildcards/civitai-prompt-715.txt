@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+ 1boy, <lora:Chopper:0.8> ChopperCzar, ArmPoint, (brown fur, animal ears, antlers, hooves, black eyes, Big Muscles, big biceps, big forearms, snout, fingers, fist), (hat, pink headwear, shorts, full body),

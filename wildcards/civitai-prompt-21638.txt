@@ -1,0 +1,14 @@
+Aesthetic: ((futuristic, advanced, innovation, technology, cutting-edge, sci-fi):1.4)
+BREAK
+Composition: <lora:LegUpPresenting:0.8>, ((laying on back)), (looking at camera), pussy, anus, ass, soles, legs up, lying, on back, spread legs, presenting, spread pussy, spread ass, folded,, 1girl lying on her back on the floor looking at the camera,, extremely perfect hands, extremely perfect fingers,, (extremely perfect feet, extremely perfect toes),, naked, nude, perfect breasts, perfect nipples, detailed human skin, (pretty face, detailed face and eyes)
+BREAK
+Lighting: Magical Fairy Lights, Whimsical, Enchanting
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.998),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

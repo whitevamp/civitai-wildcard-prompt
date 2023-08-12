@@ -1,0 +1,1 @@
+masterpiece,high res,best quality,1 girl ,koneko toujou (dxd) , white hair , short hair ,yellow eyes ,neko ears , black negligee, black panties, thong, navel,living room<lora:divineKonekoToujou_divineKonekotoujouv4:0.7> <lora:open_negligee_v1:1>

@@ -1,0 +1,2 @@
+(Caucasian:1.2), (2girl, duo, yuri, adult female, mature female, looking at each other), <lora:detailed_eyes:1>,
+<lora:character_twilightSparkleEqG_(mlptwilight--striped shirt--skirt--glasses):1>, mlptwilight, purple eyes, blue hair, multicolored hair, (pink hair stripe:1.1, long hair, mlptwilight hair, ponytail),smile, tall, holding each other, hugging,holding,

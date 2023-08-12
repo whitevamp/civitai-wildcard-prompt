@@ -1,0 +1,1 @@
+masterpiece, ultra highres, 1girl,  bare shoulder, shirtlift, nami \(one piece\), short orange hair, brown eyes, shoulder tattoo, medium breasts, alluring pose, looking at viewer, leaning forward, cowboy shot,<lora:nami_pre_timeskip_offset:0.7>,  <lora:shirtliftv3:0.8>, beach,

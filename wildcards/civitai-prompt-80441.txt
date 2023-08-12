@@ -1,0 +1,1 @@
+<lora:clayMann:0.6>

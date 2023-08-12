@@ -1,0 +1,5 @@
+masterpiece, best quality,
+1 girl, street, pov,
+black short hair, huge ass, beautiful detailed skin,
+half squat, (from behind), (arms on waist:1.2), (sweating profusely:1.2), (wide spread legs:1.2), (completely nude:1.2),
+public, camera, foreground, photographer, <lora:inPublic_v10:1>

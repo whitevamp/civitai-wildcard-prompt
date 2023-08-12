@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:SeY:1> <lora:capi:1>woman, large breasts,
+big capybara,
+zoo,
+profile, upper body,

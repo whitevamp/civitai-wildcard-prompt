@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, facial hair, headband, blue bodysuit, ahetobleh, closed eyes, tongue, hands on own head, warehouse, night <lora:ahetobleh-nvwls-v2-000010:0.9>  <lora:solidsnake-nvwls-v1-final:0.9>

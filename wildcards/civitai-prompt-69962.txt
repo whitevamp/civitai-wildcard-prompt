@@ -1,0 +1,1 @@
+(masterpiece, best quality), (1girl, solo), <lora:add_detail:1.5>, standing, <lora:Parrley1:0.5>, a woman(short hair, orange hair, green eyes, angry, messy hair) in a orange black big bulky futuristic armor, Parrley_armor, barren background, suit of armor

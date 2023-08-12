@@ -1,0 +1,4 @@
+((masterpiece:1.2), best quality, highres, ultra-detailed), solo, 1girl,
+(CinderellaWaifu,princess cinderella from disney,beautiful skin,swept bangs,top knot:1.4),(18 years old,large breasts,sexy eyes,turquoise eyes,blonde hair:1.1),elegant face,(blue headband:1.3),
+princess,
+(1girl, solo:1.4), cowboy shot,(light blue rococo style gown:1.4), long gloves, looking at viewer, (outdoor,at night,castle,starry sky:1.2),cute pose <lora:cinderellaDisney_v10:0.5>

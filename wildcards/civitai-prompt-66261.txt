@@ -1,0 +1,1 @@
+(loona), (hellhound), <lora:loona-lora-v3-latest:1>, (red sclera, slit pupils), detailed eyes

@@ -1,0 +1,1 @@
+(1girl),(boltedonbutt:1.4),(wide_hips,huge_ass,standing:1.3),(long_pink_dress,maxi_skirt:1.3),(pretty_Face,pretty_eyes,narrow_waist,smiling:1.3),looking_at_viewer,long_ponytail,(night,city,skyline,street),rim_light,<lora:boltedonbuttV5:0.4>, <lora:add_detail:0.6>

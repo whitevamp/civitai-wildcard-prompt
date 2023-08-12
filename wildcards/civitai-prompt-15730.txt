@@ -1,0 +1,3 @@
+best quality, ultra high res, (photorealistic:1.4),depth of field,
+1girl,(full body),Pink curly hair,Cute headband,Rabbit ears hair accessories,White sneakers,
+amusement park,blue sky and white clouds, <lora:GirlfriendMix2:0.6>

@@ -1,0 +1,4 @@
+1 lady , solo, realistic face, sunset, beautiful, off shoulder dress, silver long straight hair
+(shy, looking away, blush), bangs, head tilt,
+high contrast, sharp, best shadow,
+photo, masterpiece,  best quality, ultra high res, (photorealistic:1.4),, high resolution, detailed, raw photo  kodak portra 400 camera f1.6 lens rich colors dramatic lighting    <lora:add_detail:1>

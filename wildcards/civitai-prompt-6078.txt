@@ -1,0 +1,4 @@
+best quality,powerloader,
+(solo,1girl:1.5),cute,:o,exoskeleton,
+indoors,factory,
+<lyco:powerloader_v10b-000003:0.9>

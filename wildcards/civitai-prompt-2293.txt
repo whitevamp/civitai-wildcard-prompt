@@ -1,0 +1,1 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:Wyvern:0.6><lora:capi:1>(Wyvern is capybara,capybara is wyvern:1.2), sky from side,close-up,

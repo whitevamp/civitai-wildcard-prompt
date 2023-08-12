@@ -1,0 +1,3 @@
+((best quality, masterpiece)), ((style-swirlmagic):0.5),
+1girl, lolita_dress  , mansion , living room, plants at window, embarrassed <lora:ArsEmbarrassed-t5:0.5>, (constricted pupils, small pupils), blush , open mouth, 
+<lora:more_details:0.5>,<lora:Constricted Pupils5:0.5>, <lora:lolita_dress_classic_1_v3:0.5>

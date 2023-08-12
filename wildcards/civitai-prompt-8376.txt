@@ -1,0 +1,2 @@
+a yuliy wearing outfit and mask,
+<lora:ladybug:0.8>,<lora:yuliy:0.8>,

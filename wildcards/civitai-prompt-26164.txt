@@ -1,0 +1,15 @@
+Aesthetic: ((pre-raphaelite, romantic, medieval revival, mythology, detailed, art history):1.4)
+BREAK
+Composition: 1girl, (standing), perfect body, perfect face, pretty face, perfect eyes, (view from side), side boob, <lora:SideBoobaDogu:1> ((wearing shirt, wearing clothes, sideboob)), (naked, nude, perfect breasts, perfect nipples, detailed human skin):0.7, big breasts
+BREAK
+Lighting: Gloomy Overcast, Moody, Somber
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lora:Black_See-through_Bodysuit:0.5> 1girl, black see-through bodysuit,
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

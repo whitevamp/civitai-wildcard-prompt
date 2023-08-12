@@ -1,0 +1,3 @@
+masterpiece, best quality, surrounded, multiple others, audience, background characters, crowd, public humiliation, girl, solo, ojousama, candid, photograph, high resolution, 4k, 8k, street, town, cityscape, realistic, photo, depth of field, arms behind back, from below , hair ornament, jewelry, bangle, center, looking at viewer, glasses, night city , Break,
+1 girl, solo, aodai cyber,long dress, neon, cyber world, in the city, city view, technology, machine, (masterpiece, ultra high res:1.6), upperbody, depth of field, cyberpunk, (Light illuminating the face:1.4), highlight face
+<lora:3cyber_aodai-08:0.65>

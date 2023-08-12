@@ -1,0 +1,8 @@
+(masterpiece:1.1), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.2),(realistic:1.0),(ultra detailed1:0), (sharp focus1:0), (RAW photo:1.1), (lighting:1:1), Tokyo street, (night:1:1), Shibuya_\(Japan\),
+
+marin_\(My Dress-Up Darling\), 1girl, bangs, blonde_hair, blurry, blurry_background, blurry_foreground, cafe, depth_of_field, focused, jewelry, long_hair, looking_at_viewer, motion_blur, photo_\(medium\), photo_background, shirt, solo, white_shirt
+
+(Blonde to pink gradient long hair1:1.1), small breasts, sex smile, (ear piercing:1:1), earrings, looking_at_camera,
+panties, nail_art, nail_polish,
+
+<lora:Marin_v1.3.3:1>

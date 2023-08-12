@@ -1,0 +1,3 @@
+onoff, photograph, 8k realistic RAW photo, extremely detailed, (best quality:1.2), 
+old female wearing formal dress, 
+ultra high res, <lora:onOffLora_v128:1>

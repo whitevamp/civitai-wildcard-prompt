@@ -1,0 +1,9 @@
+masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, 1girl, solo, reieneris, danniashe, one breast exposed
+Appearance: milf:1.25, slender, green eyes, sharp eyes, hearts in pupils, large breasts, lips, moist lips
+Clothing: bridal, bridal lingerie <lora:bridalLingerie_v10:0.7>
+Accessories: simple hoop earrings
+Hair: {long blonde hair}, messy hair
+Makeup: natural, glowing skin
+Behavior: shy, blush, looking at viewer, breast grab, hand on face
+Location: public place, wedding hall, crowd
+<lora:danni2D_e536075steps:0.40>

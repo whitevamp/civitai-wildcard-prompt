@@ -1,0 +1,4 @@
+<lora:lizardman_v0.1c:1.0>
+1girl, 1boy, lizardman, 
+<lora:dungeon_v2.0:1> dungeon,
+<lora:elizabeth_bathory_armor_v1.1:1> elizabeth bathory, bikini armor,, masterpiece, best quality, highly detailed

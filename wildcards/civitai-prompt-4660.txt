@@ -1,0 +1,1 @@
+masterpiece, best_quality, ultra-detailed, immaculate, portrait of a girl, 1girl,  grey skin, hoodie, goth, city at night background, Susie, <lora:Susie:1>, <lyco:EnvyGoth01:1>,  (right eye half closed)

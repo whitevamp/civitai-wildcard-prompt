@@ -1,0 +1,2 @@
+multiple views,1girl,serafuku,school uniforms,simple background,white background,full body,
+<lyco:multiple views:1>

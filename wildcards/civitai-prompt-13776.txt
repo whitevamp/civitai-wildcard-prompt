@@ -1,0 +1,18 @@
+FOCUS, sydn3ysw33n3y in felicia cosplay, portrait, closeup,  surrealism ,1girl,  ink, ankymoore, inked, illustration , long bushy blue hair, white corset,
+over the shulder, ass, thigh highs,  curvy, wide hips, (blushing), (white leotard:1.2),
+(long white fur:1.2), (white cat paws:1.3 ), paws, (white fur:1.5), (cat tail:1.1),  (white  gloves:1.3),
+([hands:paws:5]:1.2), wide hips,  RSEEmma, curvy,
+impactful,  (solid YELLO background:1.4),
+female focus,
+[(
+sydn3ysw33n3y,
+((Best quality)), 
+8K RAW,
+ravishing, ink drops, splatter, (vivid bright colors:1.3), vibrant digital illustration,    concept art, best quality,
+intricate details, 8k, artstation, splash, 
+<lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.0><lora:lihui234-32:0.52>
+<lora:add_detail:0.4>  <lora:NijiExpressV2:0.35>
+<lyco:GoodHands-beta2:0.0><lora:RSERomantic_RSESofiko_RSEEmma-v1:0.67>
+<lora:felicia:0.5> <lora:felicia_v1:0.35>  <lora:croptop_Bandeau-fC-V1 (1):0.6><lora:aToZovyaRPGArtists_v2Art:.425>
+):8]
+<lora:ankymoore:0.0>  <lora:FeliciaCosplayV2:0.5>

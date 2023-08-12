@@ -1,0 +1,1 @@
+best quality, high detail, (detailed face), detailed blue eyes, masterpiece, ((tanned girl)), blue t-shirt, short sleeves, yoga pants, (arms at side:1.2), flat chest, ponytail, blunt bangs, black hair, straight-on, standing, outdoors, looking at viewer, smile<lora:more_details:0.5>  <lyco:locon_perfecteyes_v1_from_v1_64_32:1>

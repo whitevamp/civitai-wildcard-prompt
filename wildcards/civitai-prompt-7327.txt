@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 45mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> standing , bed,  <lora:InsPX2:0.2>, deep shadows, contrast, (selfie), mouth open corneo_aerith , <lyco:InsPX:0.2>Wool-blend coat with a faux fur collar and cuffs for added elegance,  (looking at camera , black lipstick ), annoyed

@@ -1,0 +1,2 @@
+masterpiece, high quality,looking at viewer, plstyle,1boy,iron man, 
+<lora:OilPaintStyle_v1:1>

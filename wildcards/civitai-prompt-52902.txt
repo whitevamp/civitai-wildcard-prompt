@@ -1,0 +1,4 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), (huge head:1.2), simple background:1.5, dim colors:1.5,  big detailed eyes, thin legs
+1girl,chibi:2.0, small body:2.0 big eyes:1.2, 
+yor briar, bare shoulders, black dress, black hair, breasts, closed mouth, dress, earrings, flower, hair flower, hair ornament, hairband, jewelry, medium breasts, long hair, looking at viewer, red eyes, sidelocks, sleeveless,
+<lora:blindbox_V1Mix:1>, detailed eyes, stands on a stand, <lora:yorBriarSpyFamily_lykonV1:0.8>

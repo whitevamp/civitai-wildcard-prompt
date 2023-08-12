@@ -1,0 +1,3 @@
+highres, masterpiece, (photo realistic:1.3), perfect ligthing, bloom, cinematic lighting, 2girls, upright straddle, kiss, hug, bedroom, night, <lora:conceptUpright_v10:1>  
+AND 2girls, upright straddle, kiss, hug, (red hair), short hair, black bikini, lingerie, medium breast, closed eyes, [freckles], embarrassed, sweat
+AND 2girls, upright straddle, kiss, hug, blonde, large hair, slim body, nude, naked, medium breast, nipple, closed eyes, embarrassed, sweat,

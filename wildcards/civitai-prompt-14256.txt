@@ -1,0 +1,1 @@
+lml, film grain, portrait, woman, blonde, snow forest  <lora:LOMO LC-A MINITAR:0.9>

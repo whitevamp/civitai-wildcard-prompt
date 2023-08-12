@@ -1,0 +1,1 @@
+Bloodborne,(magazine cover:1.4),english text,(Text:"Bloodborne":1.2),(Subtitle:1.2),Clear text,logo,vogue \(magazine\),subtitled,red writing,(simple background:1.2),1girl,solo,emaciated,boney,(look at viewer:1.2),<lora:Bloodborne:0.8:style>,

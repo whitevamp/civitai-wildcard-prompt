@@ -1,0 +1,4 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,(extremely detailed:1.3),highestres,
+solo,
+car,
+(1girl:0.7),breast,(sexy:1.2),squatting on ground,dynamic pose,bikini,slim,<lora:cargirl_dead_ahead-06:0.7>,full body,sea in distance,palm tree,long legs,black high-heeled shoes,<lora:Regera-000017:0.9>,regera,cargirl_dead_ahead,<lora:Harley-Quinn:0.8>,Harley Quinn,pink hair, blue hair, twintails, ground vehicle,

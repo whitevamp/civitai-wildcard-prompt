@@ -1,0 +1,1 @@
+martina,purple eyes, purple hair, very long hair, ponytail, hair scrunchie, green choker, o-ring top, tank top, sleeveless, green gloves, waist cape, black shorts, green belt, boots,<lora:NijiExpressV2:0.4> fcPortrait  <lora:martinaV1:1> <lora:FF14 Art:0.9>

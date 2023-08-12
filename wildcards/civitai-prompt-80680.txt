@@ -1,0 +1,4 @@
+masterpiece, extremely detailed, realistic, close-up, portrait
+1girl, tinkerwaifu, (single hair bun:1.2), (strapless green dress, torn clothes:1.2), fairy wings, <lora:tinkerbell_character:0.7> <lora:squeezer:-1>, 
+from above, shirt pull, breasts, nipples, (facial, bukkake), <lora:shirtliftv3:0.6> <lora:facial_cumsluts:1>, 
+<lora:addDetail_v1:0.6> <lora:iroiro_saturation:0.4> <lora:dtl-key:0.4>

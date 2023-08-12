@@ -1,0 +1,2 @@
+a cyborg lady, (cybernetic jaw), mechanical parts, white shirt,  black latex skirt, metal skin, (glowing blue eyes), cables, wires, white hair, 
+<lora:BloodOnScreenv10:0.9>, BloodOnScreen, blood splatter,

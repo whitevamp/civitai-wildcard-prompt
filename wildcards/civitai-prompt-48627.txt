@@ -1,0 +1,3 @@
+(realistic, real life:1.2), 1girl, 1boy, two people, age difference, height difference, shot on DSLR, cinematic, film grain, Canon D5, 50mm, analog stock, potted plant, run-down apartment, cluttered BREAK
+1girl, full body shot of young Natalie Portman sitting,short girl,thick eyebrows <lora:matildaMathildaFromLEON_matildaFromLEON:0.9>  BREAK
+man standing, tall Jean Reno in trenchcoat with a pistol, round glasses

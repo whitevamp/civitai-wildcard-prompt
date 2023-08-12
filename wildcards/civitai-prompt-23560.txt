@@ -1,0 +1,1 @@
+portrait of sks (man:0.0) (man:1.0) ((alberso):0.0) ((messi):1.0), serious look , formal clothing, argentinian flag, argentinian president, natural lighting, 4k, 8k, masterpiece, award winning, sharp focus, intricate, high resolution  <lora:alberso:0.0> <lora:messi:1.0>

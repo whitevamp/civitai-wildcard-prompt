@@ -1,0 +1,1 @@
+nsfw, 1girl, loose white shirt, loose t-shirt, upshirt, underboob, from below, looking down, facing viewer, blushing, nipples, <lora:add_detail:0.5>, <lora:upshirt-000015:1>

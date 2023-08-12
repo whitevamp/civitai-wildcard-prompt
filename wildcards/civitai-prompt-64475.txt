@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, woman, (wearing colorful kimono_clothes:1.3), holding umbrella, 
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts, outside,   <lora:realistic_kimono_clothes:0.5>

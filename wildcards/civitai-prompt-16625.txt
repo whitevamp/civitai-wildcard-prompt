@@ -1,0 +1,4 @@
+asukalangley, <lora:asukalangley:1>, asuka langley soryu, blue eyes, hair between eyes, headgear, interface headset, orange hair,
+BREAK bodysuit, long sleeves, plugsuit, red bodysuit,
+BREAK outdoors, city,
+BREAK looking at viewer, BREAK <lora:GoodHands-vanilla:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

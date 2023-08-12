@@ -1,0 +1,2 @@
+photo of Velma Dinkley, wearing glasses (flirting), (large yellow turtle neck sweater), (red mini skirt), (short pageboy haircut), (in abandoned house) 
+ <lyco:velmadinkley_finetuned-000009:0.9>

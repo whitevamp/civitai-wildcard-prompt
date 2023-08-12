@@ -1,0 +1,9 @@
+photography of a beautiful Chinese girl, 1girl, 
+<lora:koreanDollLikeness_v10:0.4>, 
+8k, (ultra high res), ultra detailed, physically-based rendering, best quality, solo focus, looking at viewer, 
+(realistic, photo-realistic:1.2), (high detailed skin:1.6),(pose:1.4), 
+((neon cyberpunk spaceship:1.3)), red rim lighting, blue key light,  (neon lights),
+a close up portrait photo, 
+(close-up:1.4)
+beautiful detailed eyes,blue hair,thigh highs, (astronaut helmet:1.2),(Lunar Extravehicular Visor Assembly:1.2), (pants:1.3), (Vaporwave:1.2),face shield,
+<lora:duoduo_v1:0.3>, (red space suit:1.3),(low key lighting:1.4), (ambient lighting),

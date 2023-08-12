@@ -1,0 +1,6 @@
+(realistic photograph:1.4)
+(1girl), solo, (30yo), japanese girl, beautiful face, smiling, realistic skin, long hair, floating, nude, medium breasts, belly button
+(underwater), (caustics),  sun ray, cinematic,
+<lora:jkUnderwaterShot-v01:0.5> BREAK
+<lora:mix4:0.2>
+<lyco:GoodHands-beta2:1.0>

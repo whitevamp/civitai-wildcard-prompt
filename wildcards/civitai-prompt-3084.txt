@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Cozy flannel pajama set, Lady, Tall, Firm, Oval Face, Tan Skin, Dark Brown Hair, pink Eyes, Straight Nose, Thick Lips, Prominent Chin, Shoulder-Length Hair, Coarse Hair, French Roll, soft breasts, Hoop earrings, pink stain lipstick, Relaxing by the fireplace,
+ <lora:sxz-style-niji:0.4>

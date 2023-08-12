@@ -1,0 +1,4 @@
+best quality, masterpiece, (extremely delicate and beautiful:1.2), 
+blurry background, looking at viewer, 
+1girl, solo, fashi-girl, red lips, shy, bdsm, bodysuit, corset, shibari, handcuffs, collar, (suspension:1.6), bound arms, arms behind back, restrained, leaning forward,
+<lora:fashionGirl_v50:1>, <lora:bondageSuspension_v11:1>

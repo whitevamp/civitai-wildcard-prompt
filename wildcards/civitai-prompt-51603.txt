@@ -1,0 +1,1 @@
+pink hair,  blue eyes,jewel,Volumetric Lighting, Best Shadows, Shallow Depth of Field, Portrait Of Stunningly Beautiful Girl, Petite,  (Highest Quality, Amazing Details:1.25),loraeyes ,star eyes, starry sky,  <lora:eyeLora_eyesV10:1>

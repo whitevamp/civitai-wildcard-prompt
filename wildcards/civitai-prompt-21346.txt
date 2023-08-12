@@ -1,0 +1,4 @@
+(masterpiece, best quality, ultra high res, highly detailed:1.3), dark, detailed, extremely detailed, intricate detail, 
+BREAK  TailsTheFox sitting, sad, <lora:CursedTails:0.9> 
+BREAK DisintegrationEffect,  <lora:DisintegrationEffect:0.85>,
+BREAK HeadpatPOV , <lora:HeadpatPOV:0.75>, pov, headpat

@@ -1,0 +1,1 @@
+robort derpd ranger  working for scifi mega corporation, elite corporate enforcer patrolling the streets, wearing detailed multi color robes cape, corporate offices,cyberpunk scene, busy street, neon lights,  <lora:FINAL Robort:0.5> <lora:knight_v4.1SD:0.5> <lora:derpd - DerpdeedooStyle:0.9>

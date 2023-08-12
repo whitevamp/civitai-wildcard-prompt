@@ -1,0 +1,10 @@
+Cityscape,showing the buildings and streets of British cities in the 19th century,such as Victorian houses,(church),(market) and (commercial street),
+Means of transportation,depicting the traffic scene in 19th century England,including (carriage),(tram),(bicycle) and pedestrians passing through the busy streets,
+Social class,showing people of different social classes,such as aristocrats,workers,merchants,farmers,etc.,can express their identities through clothing,gestures and activities,
+Natural landscape,the picture can depict the natural scenery of Britain,such as the suburbs (villages),rivers,trees,flowers,etc.,showing the blend of nature and city,
+Bazaars and streets,depicting street markets,stalls,vendors and shoppers,creating a lively atmosphere and trading scenes,
+Cultural activities,can describe the cultural activities at that time,such as concerts,theater performances,float parades,etc.,showing social and entertainment occasions,
+Industry and technology,reflecting the industrial revolution and technological progress in Britain in the 19th century,such as factories,machines,steam trains,etc.,showing the industrial landscape at that time,
+Social occasions,depicting social gatherings,dance parties,park walks and other scenes,showing people's social life and entertainment activities,
+(epic high fantasy),(outdoors),(Ancient artifacts),(Legendary weapons),(a small wooden toy),(intricate details:1.4),colorful details,iridescent colors BREAK
+((masterpiece, best quality)),4k,ultra detailed,solo,detailed lighting,inspired by Hayao Miyazaki,official art,promotional art,composition,

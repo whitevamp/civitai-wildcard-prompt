@@ -1,0 +1,15 @@
+Aesthetic: ((hyperpop, high-energy, avant-pop, maximalism, internet culture, genre-bending):1.4)
+BREAK
+Composition: 1girl, solo, (naked, nude, perfect breasts, perfect nipples, detailed human skin):0.6, (ass, ass focus, back, bent over, wedgie, thong, thighs) ,, <lora:highlegP:0.5>,  (highlegp:1.1), ((wearing highleg panties, thong, underwear, navel))
+BREAK
+Lighting: Mysterious Moonlight, Enchanting, Serene
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

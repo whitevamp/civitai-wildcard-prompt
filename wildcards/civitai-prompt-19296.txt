@@ -1,0 +1,6 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic), detailed, extremely detailed, high contrast, 4K, 
+indoor bath, detailled background,
+1girl, (long whitehair:1.5), (beautiful red eyes:1.4), (mature woman:1.7), detailled face, slut, lips, naked, wet, navel, sweat, steam, water, looking at viewer, kneeling in bathtub
+open mouth, (cum on tongue:1.4), (cum in mouth:1.4), cum dripping from mouth, cum on tits, fellatio_invitation, crotch tattoo,
+naughty face, (rolling_eyes:1.2), cross-eyed, ahegao, open mouth, tongue out,
+<lora:add_detail:1> <lora:Cumontongue:0.5> <lora:fellatio_invitation_e11:0.5> <lora:womb_tattoo_v5.1:0.6> <lora:ahegaoep2sd2:0.5>

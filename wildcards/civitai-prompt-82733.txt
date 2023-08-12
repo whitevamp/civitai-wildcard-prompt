@@ -1,0 +1,2 @@
+<lora:Xiaorenshu_v20:0.8>best quality, masterpiece, photo realistic, intricate details, raw photo, photon rendering, octane render, absurdres, ultra detailed, detailed face, detailed skin, trending on artstation,8k masterpiece,cinematic lighting, 1girl, sitting, solo, red wall,
+bench, architecture, chinese clothes, hands on lap, vase, dress, east asian architecture, black hair, long sleeves, tree, flower, looking at viewer, indoors,daqingchao, solo, long sleeves, floral print, traditional media <lora:daqingchao_v1:0.9> <lora:qing:0.4>

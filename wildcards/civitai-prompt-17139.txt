@@ -1,0 +1,2 @@
+((grey legging)), soft light, even light, diffused lighting, ulzzang-6500-v1.1, cowboy shot, (white sports bra),huge breasts, gym,blonde,soft lighting, yoga pose,
+ <lora:Mixleggings:0.6> <lora:enako-v2:0.2>

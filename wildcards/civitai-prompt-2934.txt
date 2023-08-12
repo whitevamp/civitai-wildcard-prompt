@@ -1,0 +1,2 @@
+<lora:Plank-10:0.8> Plank, in a dark room, evil aura,
+(masterpiece:1.2), (best quality:1.2),

@@ -1,0 +1,1 @@
+<lora:DealWithIt:1>, DealWithIt,   <lora:devilMayCry5Vergil_v10:0.5> vergil(dmc5),

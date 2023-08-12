@@ -1,0 +1,1 @@
+(ultra-detailed background, detailed background), absurdres, highres, ultra detailed, extremly detailed, 1girl, (bunch of flowers:1.3), (zentangle:1.2), (geometric:1.2),(colorful),  <lora:cuteGirlMix4_v10_T_mix4:0.35>, <lora:hanfu_v29_T_hanfu:0.35>

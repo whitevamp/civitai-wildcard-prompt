@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+<lora:y2b_v2-1:0.7> hm2b, black blindfold, covered eyes, clothing cutout, black thighhighs, black gloves, hm2b, black blindfold, covered eyes, feather trim, black thighhighs, black gloves, covered navel, (white leotard:1.2)
+(wearing sexy latex bodysuit), leaning back, sitting, front view, looking at viewer,  inside a train booth, noon, midday, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.1> (hyper realism, soft light, dramatic light, sharp, HDR)

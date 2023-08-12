@@ -1,0 +1,2 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile,  looking at viewer, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, 
+  <lora:xrs2.0:0.3> <lora:jcjp:0.6>  <lora:animetarotV51:0.75>, blue background, big waves, <lora:mercury_v2:0.9>

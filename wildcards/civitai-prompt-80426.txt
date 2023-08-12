@@ -1,0 +1,8 @@
+masterpiece, best quality, Exquisite pupil detail,
+1girl, blush,   ass,breasts,pussy,
+cat ears,tail,hairpin, 
+nude,light blue hair, red eyes, short hair, 
+HoarfrostExplorationDiary, character profile, character design,
+english text, description,
+archive, category book, 
+<lora:add_detail:-0.25> <lyco:LoHA-HED:0.8>

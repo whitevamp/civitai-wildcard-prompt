@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult,  perfect skin, female, (RSEEmma:1.5), <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, freckles, brown hair,  <lora:3ll13tl02:0.6>, (3ll13tl02:1.2), atomic bomb, horizon, mushroom cloud, usa, apocalypse, city,

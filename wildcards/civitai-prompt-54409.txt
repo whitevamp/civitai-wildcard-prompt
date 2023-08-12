@@ -1,0 +1,3 @@
+best quality, intricate details,
+
+ <lora:kirikoOverwatch_v20:0.8> tag:1girl,facial mark,fox,

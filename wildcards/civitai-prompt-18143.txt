@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,huge breasts
+BREAK
+yotsubanakano, <lora:yotsubanakanotest:0.68>, yotsuba nakano, bangs, short hair, blue eyes, hair between eyes, hair ribbon, hairband, orange hair, green ribbon, BREAK skirt, shirt, bow, ribbon, school uniform, white shirt, short sleeves, pleated skirt, shoes, socks, collared shirt, miniskirt, bowtie, black footwear, kneehighs, green skirt, black socks, loafers, green bow, sweater vest, green ribbon,,
+barefoot,depth of field,looking at viewer,random view,((standing on the , Outdoor_maze_made_of_blooming_sunflowers,)),((upper body)),polka dot panties,smirk
+BREAK
+day,sun,rainbow,bus stop,((cumulonimbus)),from above:1.3,

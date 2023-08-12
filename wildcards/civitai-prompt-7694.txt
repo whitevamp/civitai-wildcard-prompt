@@ -1,0 +1,5 @@
+Best Quality, Very Detailed, Realistic, Masterpiece, Realistic, Realistic Human Proportions, Fantastic Realistic, Perfect Lighting, Soft Light, Natural Light, Physically Based Rendering, Auto White Balance, 4K,
+1 girl, mature woman, single, full body shot, very detailed, intricate, super detailed, delicate face, nose, red lips, delicate eyes, glowing eyes, purple eyes, white eyelids, (iris and pupils are round, pupils reflect environment, eyes vary in size) eyeliner, eyelashes, long hair, blond hair, bangs, smooth hair, smooth skin,
+Busty body, big breasts, saggy breasts, cleavage, areola, protruding nipples, high waist, slim waist, thick thighs, high legs, wide hips, full buttocks, big ass, curvy,
+dress, evening gown, gold dress, slip dress, backless dress, earrings, hoop earrings, necklace, jewelry, sapphire heart necklace, silver strappy high-heeled sandals, bare shoulders, standing, facing viewer, filming, face expressionless, posing
+morning, sun, summer, sky, outdoors, park, trees, flowers, water,<lora:dress_20230613131808-000003:0.6>,<lora:tifa_v2.3:0.2>

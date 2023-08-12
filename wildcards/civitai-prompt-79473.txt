@@ -1,0 +1,6 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:add_saturation:0.4><lora:Unholy:0.8>sc3pt4 style, cyberpunk, 
+MAX detail, photorealistic, 
+1 woman,large breast, grin , forehead,  black long hair, high ponytail,  glasses, mechanical tight armor, full armor, 
+The bosom is glowing.
+blur background, depth of field, 
+ cowboy shot,  close-up,

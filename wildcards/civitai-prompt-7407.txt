@@ -1,0 +1,1 @@
+Best Quality, Masterpiece:1.4), (Realism:1.2), (Realisitc:1.2), (Absurdres:1.2), 4K,(photorealistic:1.3), Detailed, Ultra-Detailed, Digital Art,1 girl,Realistic Skin,Solo,beautiful face,Large Breasts,((Sheer Dress)),Long Wavy Hair, Cowboy Shot, ,Slim Waist, <lora:fitgirl_v10:0.5> <lora:SheerSkirtV2:0.8>, <lora:add_detail:0.5>,Close up,Street,Night

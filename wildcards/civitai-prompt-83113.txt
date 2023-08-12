@@ -1,0 +1,4 @@
+(masterpiece), f2.2 focal length, 100mm lens, (dynamic lighting), (subsurface scattering), ray tracing, ambient occlusion,  depth of field,
+ ((1boy, 1girl, corneo_anal, nsfw, anal sex)), (caradelevingne_ti, large c cup size  breasts, light brown almond shaped eyes with basic eyeliner ), (two tone light brown and dyed white:0.4 undercut haircut),wearing a pink and blue metalhead fashion, 
+raining, winter, late afternoon, a clearing in the woods,
+wearing fancy earrings and jewelry , <lora:xiaoshazi:0.1> , <lora:add_detail:0.1>, <lora:breastinclassBetter:0.2>

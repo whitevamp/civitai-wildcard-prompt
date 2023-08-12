@@ -1,0 +1,9 @@
+(photorealistic:1.2), (masterpiece:1.2),(best quality:1.2),(shiny skin),
+(ultra-detailed:1.2), (high resolution:1.2),(cinematic lighting:1.1), (extremely detailed and beautiful:1.1),
+1 girl, solo, straight-on,pov,
+(standing:1.4),(Facing Viewer:1.2),(upper body:1.3),(huge breasts),perfect eyes, seductive eyes,smile,
+(hands on hips:1.4),
+(portrait of witch lady), red eyes,glowing eyes, eye focus,medium hair,blonde and blue hair, (hair over one eye,bangs:1.3),streaked hair,wavy hair,
+ornate robe, dark medieval room indoors,fantasy,
+PerfectNwsjMajic,
+ <lora:PerfectNwsjMajic_4:0.7>

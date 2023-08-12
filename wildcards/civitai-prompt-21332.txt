@@ -1,0 +1,5 @@
+masterpiece,best quality,highres,indoors,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,mature female,elf,white hair,short hair,braid,pussy,embarassed,thighhighs,(bra lift:1.2),(lift leg high up:1.2),
+BREAK,
+<lora:EkuneSideDoggy:1>,sidedoggystyle,1boy,ass,doggystyle,sex,torso grab,cum in pussy,

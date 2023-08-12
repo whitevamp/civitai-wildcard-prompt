@@ -1,0 +1,6 @@
+nsfw, (masterpiece), (best quality), HDR, intricate detail, 1girl, solo focus, skindentation, perfect face, puffy face, beautiful face, big eyes, puffy eyes, perfect eyes, blue eyes, narrow waist, big pelvis,
+blush, full-face blush, vulgarity, 18yo,
+sweat,
+bob cut, black hair, huge breasts,
+blue school uniform, blue pleated skirt, serafuku,
+(1girl,1boy,sex,sex from behind), (grabbing from behind), <lora:fixStandingDoggyStyle-000017:0.9>, from front

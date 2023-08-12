@@ -1,0 +1,3 @@
+(photo realistic, ultra realistic:1.3) (ultra high resolution:1.2), (detailed face: 1.1), (extremely detailed, intricate details and texture),
+the most beautiful korean idol naked, blonde hair, spread legs, pussy,  in a limo, smiling and looking at viewer, medium breasts, detailed nipples, 
+ , (ulzzang-6500:0.9) <lora:add_detail:0.8>, <lora:more_details:0.7> <lora:chinaDollLikeness_v10:0.3>

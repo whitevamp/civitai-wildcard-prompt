@@ -1,0 +1,3 @@
+best quality, masterpiece,
+1boy, closed mouth, tears, wavy mouth, tearing up, pout, :i, meme, :t, parody, frown, v-shaped eyebrows, crying, sad, crying with eyes open, puffy cheeks <lora:merrytail_aqua_crying_meme_v02-05:0.7>
+ <lora:Ranni_the_Witch-07:1> Ranni, (cracked skin, blue skin, colored skin, witch hat,

@@ -1,0 +1,1 @@
+beautiful, (masterpiece:1.2), (best quality:1.2), perfect lighting, 1girl, close up, face focus, head shot, Mystique, yellow eyes, blue skin, white dress, skull, gloves, smirk, mischievous,<lora:mystique-10:0.8>, foreshortening, depth, simple gradient background

@@ -1,0 +1,1 @@
+photo of marble apple, kkw-ph1, natural lightning, front lighting,  <lora:add_saturation:-0.5>,  M4rbleSCNEW, <lora:M4rbleSCNEWCIVIT(1):0.7>

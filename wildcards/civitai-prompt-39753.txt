@@ -1,0 +1,3 @@
+<lora:LoRA_Kousaka_Shizuru(Taimanin):0.7>testshizuru,twintail,
+ bare shoulders, blonde hair, bodysuit, breasts, elbow gloves, glasses, gloves, heart, open mouth, long hair, red-framed eyewear, red legwear, semi-rimless eyewear, shiny clothes, solo, thighhighs, under-rim eyewear, huge breasts, latex breasts, green eyes, night city, closed mouth, spread legs, 
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,

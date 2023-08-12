@@ -1,0 +1,3 @@
+(anime:1.2), (best quality:1.2), masterpiece, portrait,
+1girl, yuzuriha_(jigokuraku), purple hair, brown eyes, ninja, open clothes, cleavage, small breasts,  nipples, topknot, medium hair, breasts apart, smirk, indoors, (blush:1.1), japanese room, tatami, futon, lantern, window, japanese interior,
+<lora:Kizuki - Jigokuraku - Yuzuriha:0.925>

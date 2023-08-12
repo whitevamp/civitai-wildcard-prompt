@@ -1,0 +1,1 @@
+nsfw, (masterpiece:1.2, best quality:1.2, highres:1.2), 1girl, (micro bikini) <lora:areola_slipConv2D2.5e-5_BF16:1.0>, (areola slip), pool, inside pool, round of people, public, focus on chest

@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, long hair, (glowing:1.15), (team:1.1), (flowers:1.15), (monarch:1.05), sleepy, Long coat <lora:gpts4 lite dreamwave_278580:1>

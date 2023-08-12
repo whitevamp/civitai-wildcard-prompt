@@ -1,0 +1,12 @@
+8K, RAW, best quality, masterpiece, ultra high res,
+(medium wide shot), (dynamic perspective),
+sharp focus ,depth of field,
+1girl, solo, sexy, 35 year old, formidable face, hand on own hips,
+(detailed eyes), (detailed facial features), (detailed skin), (detailed illustration),
+long eyelashes, long eyeliner,
+futobot, cyborg, silver trimmed detail, (head gear:1.2), (white long shawl:1.6),
+large breasts, narrow waist, shiny skin,
+(random hair), (random color hair), (the wind blows hair),
+(rim light:1.5), (sharp shadow),
+korean beauty, korean mixed, (realistic:1.5),
+<lora:Futuristicbot4:0.6>

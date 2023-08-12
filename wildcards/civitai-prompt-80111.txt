@@ -1,0 +1,11 @@
+(RAW photo, 4k, realistic, exquisitely detailed skin), masterpiece, best quality, official art, unity 8k wallpaper, ultra detailed,cyberpunk 2077,(dark night), cinematic look,CyberpunkAI, neon, high saturation, deep shadow,(cyborg) (cyberpunk),red and blue neon light, indoors,
+a sexy (barmaid:1.2), swan neck, large breasts, narrow waist, slim body, sexy, charming, seductive, alluring, attractive, white wavy hair, dynamic pose, (in a nightclub:1.3), lasers, beams, red-light district, party, celebrating,
+vivid illumination,
+masterful technique,
+harmonious composition,
+cinematic lighting,
+immersive atmosphere,
+exceptional detail,
+(stunning visuals),
+<lora:CyberPunkAI:0.6> 
+<lora:NeonNoir-000002:0.8:PALETTE>

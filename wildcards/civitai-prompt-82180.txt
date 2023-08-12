@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details, 
+1girl,        <lora:airashiratori:0.8> aira_shiratori_(dandadan), 
+ nude, bathing, hot onsen, 
+embarrassed, blushing, <lora:coveringV2:0.8> covering breasts, covering crotch, angry, spoken !,  <lora:full-face_blushConv2D2.5e-5_BF16:0.6> blush, embarrassed,

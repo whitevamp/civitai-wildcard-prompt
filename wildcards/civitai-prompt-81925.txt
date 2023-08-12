@@ -1,0 +1,2 @@
+(masterpiece), (best_quality), (ultra-detailed), intricate detail, (high resolution illustration), official art, vivid color, beautiful and aesthetic:1.2, 8k, absurdres, (fractal art:1.3), 1girl, (LnF, a woman in an armor with feathers , wearing LnF), shiny skin, perfect hands, detailed fingers, ponytail hair, beautiful detailed eyes, perfect eyes, seductive eyes, white hair, long hair, thicc slim hourglass figure, (slim legs:1.2), skindentation, looking at camera, from front,
+ <lora:edg_fantasyArmors_LnF:1>

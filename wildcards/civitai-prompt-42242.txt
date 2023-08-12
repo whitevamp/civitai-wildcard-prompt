@@ -1,0 +1,7 @@
+<lora:bimbostyleThreeU:0.5> 
+<lora:bimbostyleFourEpic:0.3> 
+narrow waist
+a women is standing in a backyard garden pool in (maxi dress in a bright or tropical print with strappy sandals, sunglasses, and a wide-brimmed sun hat) , porch , full body 
+(huge_breasts:1.3),(large breasts:1.3)
+thick_lips:1.3,
+eyes,cleavage, narrow_waist,

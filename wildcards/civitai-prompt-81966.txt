@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res,( watercolor \(medium\), IrisCompiet:1.2), surrealism, dream-like,
+Black Eye Galaxy, ((abstract art)),
+<lora:IrisCompietStyle:1>

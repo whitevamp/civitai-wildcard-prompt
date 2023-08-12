@@ -1,0 +1,2 @@
+(masterpiece, best quality:1.2), ankha, 1girl, solo, loincloth, tail, outdoors, botanical garden, greenhouse, tropical plants, flowers, (bandages)
+ <lora:Ankha_v2_RETRAIN:1>

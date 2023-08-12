@@ -1,0 +1,1 @@
+Portrait of a princess, studio ghibli, ghibli style, anime <lora:ghibli_style_offset:1>, solo, alfonso mucha, earrings, cel-shaded, <lora:lora_belledelphine:1>, wearing a crown, white dress

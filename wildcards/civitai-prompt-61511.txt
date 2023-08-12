@@ -1,0 +1,1 @@
+fawn <lora:FawnFromTinkerbellMovie_v10:0.7>

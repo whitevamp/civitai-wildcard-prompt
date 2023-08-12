@@ -1,0 +1,13 @@
+masterpiece, best quality, highres, (photorealistic:1.4), (depth of field:1.8), highly detailed ,HDR, 8k resolution, 
+
+a beautiful Japanese girl, business attire, black t-shirt,  sleeveless, see-through, no glove, school skirt, short skirt, sports Nike shoes,
+
+ floating hair, long hair, black hair, gray hair, 
+
+ large_breast, apart breast, sagging breast, 
+
+swinging pool, look at the viewer, 
+
+extremely detailed face and eyes, perfect female body,  full body,  standing, 
+
+pureerosface_v1, ulzzang-6500-v1.1, <lora:claraLCM_lichengmin:0.6>

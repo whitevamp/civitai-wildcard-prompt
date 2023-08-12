@@ -1,0 +1,1 @@
+<<lora:Inter_Dimensional_Portal-10:0.9>, 1boy, portal, full body  <lora:The_thinker-10:0.2> The_thinker, sitting statue, sitting on toilet,  <lora:Deadpool:0.9> Deadpool,  ((looking at viewer)), shocked, sitting on toilet,

@@ -1,0 +1,3 @@
+1girl horus, futuristic Egypt,
+(by  Hsiao-Ron Cheng, Jacek Yerka)
+ <lora:add_detail:1>

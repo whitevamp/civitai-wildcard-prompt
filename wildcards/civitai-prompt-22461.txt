@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose,
+(1girl, cute, smooth thighs, flowing hair, medium breasts:1), 
+(1boy, masculine, shirtless, detailed penis:1),
+erotic, intimate, hetero, sweaty skin, detailed hands, skindentation, cum, between breasts, grabbing, squeezing, eyes closed,
+ <hypernet:OverallDetail:1> <hypernet:SkinHairDetail:1> <lora:cumshot_49:0.6>

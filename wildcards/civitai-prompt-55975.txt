@@ -1,0 +1,1 @@
+(8k, raw photo, best quality, masterpiece), 1girl solo, skyline, in the rain, chiaroscuro,<lora:hanfutang_v30:0.5>,hanfu, tang style outfits, white long upper shan, blue with white pleated skirt,yellow waistband,<lora:gachaSplashLORA_gachaSplash31:0.35>

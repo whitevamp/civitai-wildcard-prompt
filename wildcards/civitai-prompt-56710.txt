@@ -1,0 +1,1 @@
+<lora:MEMENoosePortal_v1:0.9>, noose portal, noose,  <lora:sayoriDDLC_v10:0.9>, 1girl,  sayori, ribbon, red ribbon, room, bedroom, bed looking at viewer, face focus,

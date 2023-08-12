@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, epic lighting, cinematic composition, 1girl, solo, <lora:remReZero_v10:0.5> rem_\(re_zero\), cute, chibi, blue hair, short hair, (hair over one eye:1.3), blue eyes, roswaal mansion maid uniform, apron, (white pantyhose:1.2), upper body, looking at viewer, embarrassed, blush, mansion, (8k:1.1), <lora:korukoruno:1>

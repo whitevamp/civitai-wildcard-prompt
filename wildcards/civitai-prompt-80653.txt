@@ -1,0 +1,2 @@
+The bust portrait of a woman with a bored and unamused expression is situated in the midst of a group of excited chimpanzees that are dressed up for a party. The chimps are chatting, laughing, dancing around while the woman looks irritated with the loud noises, appearing like she wants to get out of the portrait frame. The vibrant colors of the chimp's outfits and party decorations create a bright and chaotic atmosphere contrasting with the woman's annoyed demeanor.   
+Bright and transparent scene lighting, <lora:Velvia1:0.4>, <lyco:GoodHands-beta2:1.0>

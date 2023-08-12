@@ -1,0 +1,1 @@
+(masterpiece, best quality, ultra detailed, absurdres), diorama, closed pack premium toy box, inboxDollPlaySetQuiron style, johnny bravo, 1boy, sunglasses, black shirt, blue pants, (plastic toy playset pack:1.3), inside gift box <lora:quiron_inboxDollPlaySet_v1_lora:0.47> <lora:johnny_bravo_v1:1>

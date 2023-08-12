@@ -1,0 +1,2 @@
+( hyper realism, anime, manga) <lora:add_detail:-0.6> <lora:toriyama_akira_3:0.3> toriyama akira (fine lineart) <lora:duo artstyle:1> retro art style  
+( back t-shirt, (<3) ,    ( tied hair,  black hair, light blue eyes, ,  staring,  , dark room, evil, night,  ambient candlelight , hotel transylvania, bat animal, bedroom,  indoors,  , blush, depth of field,  <lora:hoteltransylvania_mavisdracula-10:0.2>  ass focus,  <lora:ass_up_wait.v1.3-sd:0.6> ass up wait ,, anus,  back, mature female,  nude,

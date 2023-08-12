@@ -1,0 +1,1 @@
+absurdres, 1girl, red eyes, long hair, wide-eyed, eyelashes, looking at viewer, cowboy shot, outdoors, silhouette <lora:Silhouette:0.75>, horror theme, glowing eyes, concept art, backlighting, demon horns, particles, posing, solo

@@ -1,0 +1,1 @@
+Cowboy Shot,beautiful and detailed illustration,pop art,masterpiece, best quality, ultra-detailed,soft lighting,<lyco:GoodHands-beta2:0.8>, <lora:add_detail:0.3> ,1 girl, slime girl, RAINBOWSTYLE, ,dynamic action pose, <lyco:GPTS4 dreamwave full_478773:0.5>

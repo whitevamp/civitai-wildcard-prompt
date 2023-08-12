@@ -1,0 +1,1 @@
+<lora:BimboT:1>, BimboT, ultra realistic 8k cg, HDR, beautiful detailed glow, perfect artwork, masterpiece, picture-perfect face, perfect face, beautiful face, ((perfect female body)), mature female, narrow waist, ((intricate detail, delicate pattern)), delicate pattern, intricate detail, <lora:hipoly3DModelLora_v10:0.2>

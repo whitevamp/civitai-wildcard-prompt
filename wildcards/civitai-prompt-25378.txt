@@ -1,0 +1,4 @@
+(8k,RAW photo,best quality, masterpiece:1.2),physically-based rendering,tyndall effect,surface reflection,looking at viewer,Overhead Shot,
+1girl,jellyfishforest,newchinesestylesuit,scientific discoveries,pastel colors,scifi,space,moon,planet,
+rainbow-candy,style-swirlmagic,
+<lora:universe:0.4:bg>,<lora:jellyfish-noise:0.7>,<lora:NewChineseStyleSuit_v01:0.5:clothes>

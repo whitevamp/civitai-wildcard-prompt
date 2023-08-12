@@ -1,0 +1,1 @@
+girl, (fantasy,isekai,armor:1.4) upper body, (hotify:1.2), (werewolf:1.4), (Old,Neon:1.4),Slim,Busty,(Over the shoulder),Medium Hair,Tribal Braids,(viridian Tunic,chartreuse Harem Pants:1.3),fate/grand order,Micro Bikini ,(masterpiece,detailed,highres:1.4) <lora:novel_bright:0.6>

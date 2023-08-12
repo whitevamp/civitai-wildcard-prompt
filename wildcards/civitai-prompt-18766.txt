@@ -1,0 +1,5 @@
+(nogizaka girl:1),(fair skin:1),(perfect body:1),(athlete:1),(curvy body:1),(nude:1.0),(incoming kiss:1.0),(masturbation:1.0),(spread your legs:1.0),(high resolution:1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1),
+BREAK,
+They are seated around a round table, sipping on their favorite beverages. Each woman has a unique style and personality. They have diverse hairstyles, such as long curly hair, a bob cut, a pixie cut, or braids. They are dressed in trendy and comfortable outfits, showcasing their individual fashion choices. The atmosphere is warm and inviting, with soft lighting and plants adorning the cafe's interior. The women are engaged in animated conversation, smiling, and laughing, their gestures reflecting their enthusiasm for the discussion.
+BREAK,
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.01> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lyco:MultipleGirlsGroup:1.4>

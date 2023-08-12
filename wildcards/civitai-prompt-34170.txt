@@ -1,0 +1,1 @@
+watercolor, 1girl, solo, long hair, black hair, dress, skirt hold, wading, sleeveless, barefoot, bare shoulders, standing, from behind, outdoors, cloud, sky, bird, water, rainbow,, colorful, vivid colors, best quality, absurdres, highest quality, amazing details, <lora:add_detail:1>  <lora:MBHU-TT2FRS:0.8> <lora:envybetterhandsLocon_beta2:1.5>

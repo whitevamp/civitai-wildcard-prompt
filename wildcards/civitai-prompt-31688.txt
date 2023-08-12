@@ -1,0 +1,8 @@
+1girl, solo, standing, (tomboy:1.2),
+(very short hair:1.4),
+looking at viewer,
+smile,
+swimsuit, white swimsuit,
+(large breasts:1.2), covered nipples, puffy nipples,
+beach, sand, water, waves, sea, rocks, flowers, plants,
+<lora:Tomboy:1>  

@@ -1,0 +1,1 @@
+(masterpiece, best quality,:1.2), 1girl, (dark atmosphere:0.5), (AliceWonderlandWaifu:1.0),  from above, dress, standing, (full body:1.0), (evil grin:1.2), (angry:1.1), legs apart, blood stains, machine gun in hand, bazooka in back, bullets belts, dead body by her feet, palace, <lora:aliceInWonderlandBy_v10:0.3>

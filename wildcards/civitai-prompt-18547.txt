@@ -1,0 +1,4 @@
+((best quality)), ((masterpiece)), (detailed), ultra detailed, close up, low contrast,
+<lora:PepePunchMeme:1>, PepePunchMeme,
+<lora:MaleniaMv3:0.75>, malenia blade of miquella, 1girl smile, ((holding sword)),(loose red hair), covered eyes, winged helmet, 
+<lora:hipoly_3dcg_v7-epoch:0.1>, cavern, blurry background, roots, rocks

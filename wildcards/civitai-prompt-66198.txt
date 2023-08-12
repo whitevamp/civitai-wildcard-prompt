@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), extreme detailed,(Steampunk:1.2),blonde long hair with bangs, colorful,highest detailed, small boobs, <lora:add_detail:1>  <lora:animetarotV51:0.6> <lora:phoenixdressV.2-0000010:0.4>, steampunkai  <lora:steampunkai:0.6> style of Yanjun Cheng, iridescent

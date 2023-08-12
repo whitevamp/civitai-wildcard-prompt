@@ -1,0 +1,1 @@
+style, a girl, <hypernet:Styltok:0.8>  art,  <lora:deathia_yiu_v10:0.7> dimmed, lowkey, night, scary, horror, low quality, flashlight, monster.

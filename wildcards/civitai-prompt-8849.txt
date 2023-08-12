@@ -1,0 +1,2 @@
+<lora:basement_v0.2:1> 
+basement, 1girl, (dark:1.5), dimly lit, rimlight, upper body,, masterpiece, best quality, highly detailed

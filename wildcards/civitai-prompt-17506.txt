@@ -1,0 +1,3 @@
+,(Masterpiece:1.2, high quality),
+cat, no humans, flower, hat, outdoors, closed eyes, beach, tree, palm tree, ocean, seashell, boat, straw hat, sky, shell, watercraft, :3, blush, day, hat flower, cloud, sitting, animal, water, sand, closed mouth
+<lora:cat_20230627113759:0.8>

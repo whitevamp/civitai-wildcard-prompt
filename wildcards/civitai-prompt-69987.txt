@@ -1,0 +1,4 @@
+(RAW photo, 4k, masterpiece, high res,  extremely intricate) (photorealistic:1.4), cinematic lighting
+1girl, solo focus, summer noon, hot, 1990s \(style\),cowboy shot,indoors
+<lora:add_detail:0.4> 
+<lora:FilmG2:0.6>

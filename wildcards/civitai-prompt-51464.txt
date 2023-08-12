@@ -1,0 +1,5 @@
+1girl , short jacket, tank top, ponytail, backpack, shorts, boots, riverside, 
+sunny, sunlight, wind,
+ masterpiece, highly detailed,HDR,8k resolution,best quality,
+
+<lora:blindbox_V1Mix:1>  <lora:epiNoiseoffset_v2:1> <lora:thickerLinesAnimeStyle_loraVersion:1>

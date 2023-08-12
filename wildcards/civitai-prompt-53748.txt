@@ -1,0 +1,3 @@
+1girl,solo, light smile, (travel attendant,stewardess),gloves,pencil skirt ,
+skyline, cloud,sunset, hand on own chest, looking at viewer, realistic,  long hair 
+  <lora:JinChen2:0.6>

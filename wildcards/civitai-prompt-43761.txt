@@ -1,0 +1,1 @@
+(Alice Delish:1.1), smile, (pink hair:1.2), pigtails, maid outfit, BREAK (masterpiece), (extremely intricate:1.3), (realistic), professional photograph, film grain,  <lora:LowRA:0.3> <lora:more_details:0.9>

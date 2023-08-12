@@ -1,0 +1,5 @@
+(photorealistic:1.4),(best quality), (ultra high res),(masterpiece),<lora:hanfu_v29:0.6>,<lora:koreanDollLikeness_v15:0.5>,detailed 8k wallpaper, professional photography,(20 year-old) Korean female idol,beautiful detailed woman,extremely detailed eyes and face,han hanfu, han style outfits,
+(solo:1.2),slim,curvy,(smile:1.2),aegyo sal,tall woman,(huge breasts),
+indirect lighting,cinematic lighting,at luxury house,
+(high detailed skin),(looking at viewer), sharp focus,reflection,
+8k uhd, soft lighting, film grain, taken on a Fujifilm XT3 ,

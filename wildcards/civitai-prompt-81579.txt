@@ -1,0 +1,4 @@
+(sexy latex pink [:transparent:.6] oversized_hoodie:1.3) BREAK
+[1boy:1girl:0.3], tomboy, solo, very short black hair, pixie cut, tan, (muscular:0.9), (large breasts:1), (medium breasts: 0.25), full-face blush, choker, thighhighs,  BREAK
+Kabukicho, Shinjuku, futuristic neo tokyo streets, dramatic lighting, absurdres, best quality, clouds, night, (bright neon signs:1.3), (neon:1.5), neon lights, moon, dark theme, crowded, busy, spacecraft, airship
+<lora:GoodHands-vanilla:1><lora:oversized_sweater:.5>  <lora:LowRA:.8>

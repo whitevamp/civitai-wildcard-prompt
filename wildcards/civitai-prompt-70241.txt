@@ -1,0 +1,1 @@
+<lora:n_StrongPikachu_v1:0.65>, a photo of pokemon\(pikachu\), (yellow fur covering body:1.25), muscular, ripped, yellow skin, (lightning background:1.2), ultra high res, high quality, <lora:PIKAPOKE:1.2>, <lyco:GoodHands-beta2:1.0>, manly hands

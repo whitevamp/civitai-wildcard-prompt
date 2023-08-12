@@ -1,0 +1,5 @@
+best quality, masterpiece, liquid clothes,
+1girl, annoyed, looking at viewer, straight-on, from below, wide long sleeves, 
+storm, rain, waves, ocean, dark clouds,
+long hair, (blue skin:1.2), colored skin, slime girl, slime \(substance\), translucent skin, liquid hair,
+<lora:LiquidClothesV1:0.7> <lora:LowRA_Dark:0.6>,

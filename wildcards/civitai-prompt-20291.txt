@@ -1,0 +1,7 @@
+photorealistic:1.49,(masterpiece),(intricate details),1girl,mature female,huge breasts:1.5
+BREAK 
+mizuharachizuru, <lora:mizuharachizurutest:1>, mizuhara chizuru, (brown eyes:1.5), brown hair, long hair, (one side up:1.2), BREAK bare shoulders, collarbone, pink shirt, puffy short sleeves, puffy sleeves, red bow, shirt, short sleeves, skirt, white skirt
+BREAK
+moon,night,meteor,hanabi,((cumulonimbus)),
+((walking on the stairs)),((portrait)),smile,
+from above:1.1,depth of field,looking at viewer

@@ -1,0 +1,1 @@
+(epoxy_skull:1.128), closeup, closeup, shot, Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, smiling, excited, ballgown, a woman in a blue dress posing for a picture , wearing a ballgown, <lora:ballgown:0.7> <lora:glowingSkullLora_v10:1>

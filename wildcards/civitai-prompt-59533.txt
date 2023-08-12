@@ -1,0 +1,4 @@
+(<lora:jabbaTheHutt_v45:0.3>jabba,on back,)   ADDCOL
+1girl, full body of re4ashley, arms up, orange jacket, scarf, black plaid skirt, pantyhouse, boots, athletic, dark old room, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, realistic, <lora:sxz-ashley-graham:0.8>
+<lora:obeseGirlsConcept_v10:0.3>fat,
+<lora:sxz-ashley-graham:0.8>

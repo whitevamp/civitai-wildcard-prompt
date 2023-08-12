@@ -1,0 +1,5 @@
+full body view, fetal position,
+(8k:1.1), realistic, masterpiece, best quality, hugely detailed, hyperrealism, RAW photograph,
+naked fat chubby middle age man, hairy, bald-head, hairy pubes, hairy breasts, hairy ass
+from behind
+ <lora:zyd232_StasisPod_v1_0:1>(stasis pod:1.5),  full body, (floating:1.5), (sleeping), (in container:0.5), liquid, bubbles, cable

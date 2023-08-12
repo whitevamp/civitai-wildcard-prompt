@@ -1,0 +1,4 @@
+vignette,cinematic lighting,backlight,soothing tones, hyperrealistic,concept art,fantasy, fantasy background, mysterious,whimsical,adventurous,magic,wonder, imagination, fantasy culture, mythology, fairy tales, folklore, legends,magical creatures, fantasy worlds,looking afar,looking at the viewer, half body, curvy, skinny,
+1girl, classy woman in black wedding dress looking outside the window at war-torn city, from behind, to the side, rule of thirds, drapes, (window),
+detailed outdoor setting with a stormy city scape, on top of skyscraper balcony, strong wind, sparks, (particle flames),embers,lightning in sky, rain, water splash, speed, movement, energy,
+<lora:pureInnocentGirl_v20:0.2><lora:japaneseDollLikeness_v15:0.4>,

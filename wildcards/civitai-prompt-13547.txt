@@ -1,0 +1,1 @@
+hll,  ((Best quality)), ((masterpiece)), (highly detailed:1.3),3D blessedtech holy cyber nun wearing blessed angel armor with aura of zealous power, legion of heaven, defender of faith,god rays,<lora:nun:0.8> <lora:BlessedTech:1> <lora:hll_20230617094651:0.4> <lora:paladin2_5-128:0.6>

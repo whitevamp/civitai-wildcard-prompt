@@ -1,0 +1,1 @@
+1girl,dancer,( face veil:1),,masterpiece, high quality,people,light particle, looking at viewer,(masterpiece:1.2),(best quality:1.2),green clothes,upper body,realistic,detailed background,,nsfw,smile,see-through, nipples<lora:HaremDancer_v1:0.8>

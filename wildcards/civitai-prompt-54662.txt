@@ -1,0 +1,1 @@
+bestquality,(photorealistic:1.2),1girl,solo,detailed face,(full body),sitting on desk,white hair,cat ears,(hair ornament:1.35),(looking at viewer:1.5),black eyes,lips,<lora:koreanDollLikeness_v15:0.2>,PureErosFace_V1,<lora:tifosemix_v1064s(1):0.6>,tifa lockhart\(cosplay),white clothes,super plugsuit, nippleless clothes,window,

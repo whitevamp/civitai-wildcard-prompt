@@ -1,0 +1,1 @@
+((masterpiece)), ((realistic)),<lora:mayusi-v1:0.9>, beautiful face

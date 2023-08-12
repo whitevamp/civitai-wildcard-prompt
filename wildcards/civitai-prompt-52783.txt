@@ -1,0 +1,4 @@
+steampunk woman, highly detailed face and body portrait by wlop. fantasy art from dnd extremely beautiful style of ilya kuvshinov on greg rutkowski in the shell 1 9 7 0 s oil painting full length illustration sharp focus norman rockwell trending pixiv fanbox concept quality cinema model madison beer as ariana grande popart thomas
+
+<lora:epiNoiseoffset_v2:1>
+<lora:garterBelts_v11:0.55>garterbelt, black fabric, fabric straps,red floral embroidery, multiple iron chains attached, woman wearing a white garterbelt with red embroidery and multiple leather straps, multiple ribbons,

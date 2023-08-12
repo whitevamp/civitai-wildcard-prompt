@@ -1,0 +1,10 @@
+photorealistic, long_hair, realistic, solo, long_hair, (photorealistic:1.4), best quality, ultra high res, teeth, 1girl,
+
+sitting,  warm and inviting lighting, natural colors, green plants, bookshelves, cozy blankets, 
+
+1girl,
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, 1girl, solo,no makeup,
+
+best quality, ultra high res, (photorealistic:1.4),
+ultra detailed,
+masterpiece, best quality, <lora:futuaner:0.9>

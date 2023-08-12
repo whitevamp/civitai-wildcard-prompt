@@ -1,0 +1,6 @@
+(masterpiece, best quality, 8k, absurdres, highres, very detailed, intricate details, chiaroscuro:1.4), full body view, deep in the (lush, green, gnarly forest, flowers:1.3) a (stunningly beautiful elf girl:1.2) is lifting her leather skirt, looking at the viewer, smirking, (topless, puffy nipples:1.2), (purple skirt:1.2), naked pussy, (view from below:1.4), black thighhigh boots, long ornate gloves, black corset, captivating green eyes, beautiful eyes, beautiful face, medieval fantasy style, (at dawn, sunbeam:1.2)
+<lora:hairstyle-ponytail_weave:1> ponytail_weave_hairstyle, jet black hair, very long hair,
+<lyco:envy-elegance:1.0> 
+<lora:skirtlift:1.0>
+<lora:bjd_dolls:0.4> bjddolls
+<lora:cameltoe_realistic:0.36> cameltoe

@@ -1,0 +1,1 @@
+nsfw, (1girl) (digital) ( sitting on toilet in detailed bathroom (nude)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> paperbag, <lora:paperbag:1>

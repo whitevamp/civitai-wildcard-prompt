@@ -1,0 +1,4 @@
+(extremely detailed:1.3), (masterpiece:1.3), illustration, Intricate illumination, Fine shadows,  sharp focus, ((best quality)), <lora:more_details:1>, <lora:sharpen-soften:-0.25>, <lora:realistic:0.25>,
+1 girl, adult jewish woman,  silver eyes, gray lob hair,
+portrait, looking up, solo, (full body:0.6), detailed background, (<lora:Unholy:0.5>, Sc3pt4, scifi theme:1.1), light smile, witch hat, witch, magical atmosphere, hair flowing in the wind, yellow trimmed light colored clothes, dynamic pose,  whirlwind of swirling elemental spell in the air,  dark magic, (style-swirlmagic:0.8), floating particles, frozen landscape background,   dim light,
+<lora:fantasy00d:0.3>,

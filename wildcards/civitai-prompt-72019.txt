@@ -1,0 +1,3 @@
+<lora:CaptainAmelia_character-10:0.91> AmeliaCapWaifu, pointy_ears, 
+(blue uniform, thighhighs, thigh boots, gloves, hat, epaulettes, pants)
+space, ship, battleship, pointing_forward, sail,wide_shot,, 1girl, solo, wide_shot,, insane details, intricate details, hyperdetailed, ultra detailed, extreme detailed, highest detailed, high_detail, colorful, beautiful, hdr, photorealistic, highres, ultra_high_res, photography, aesthetic, extremely_delicate,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear,

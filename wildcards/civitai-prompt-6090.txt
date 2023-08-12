@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), <lora:koreanDollLikeness_v10:0.4>, <lora:arknightsNearlNearlThe_v10:1>, 1girl, professional lighting, photon mapping, radiosity, physically-based rendering, radiant_knight, original_outfit,armor. nhead, golden eyes, ponytails, wavy hair, messy hair, hairs between eyes, caucasian, finnish

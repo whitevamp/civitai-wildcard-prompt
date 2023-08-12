@@ -1,0 +1,1 @@
+<lora:tifaMeenow_tifaV1:0.5>, <lora:koreanDollLikeness_v10:0.2>, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, cute, (tifa lockhart), (huge breasts),(beautiful detailed eyes), smile, erotic pose, ((red_eyes)), nsfw, perfect breasts, (((((white swimsuit))))), <lora:extendedDownblouse_v10:1>

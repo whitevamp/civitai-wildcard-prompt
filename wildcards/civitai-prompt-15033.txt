@@ -1,0 +1,1 @@
+a photograph of a (beautiful woman), complex robot, biomechanical, science fiction aesthetic, very detailed, intricate, fine details, ultra sharp focus  Zeiss Supreme Prime, Arriflex 535B, art by WLOP  <lora:insanobot:0.6>  <lora:WLOP1:0.5>

@@ -1,0 +1,2 @@
+<lora:add_detail:1> add_detail, masterpiece, best quality, detailed,
+<lora:Capoo:1.0> Capoo, yelling,

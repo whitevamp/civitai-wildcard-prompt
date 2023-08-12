@@ -1,0 +1,4 @@
+masterpiece, 
+1girl, 1boy, hetero,
+<lora:sakuraba_koma-v2:0.8>sakuraba koma,
+ <lyco:front view doggystyle(arm grab):0.7>front view doggystyle,facing viewer, arm grab,

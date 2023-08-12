@@ -1,0 +1,5 @@
+(anime, highly detailed:1.4), best quality, masterpiece,
+woman, grinning, purple hair, slimy, long tail, pushing up, leaning forward, bright, daylight
+((huge breasts))
+<lyco:sluggirl-v2:0.3>
+((sluggirl, slug, slug skin):1.4)

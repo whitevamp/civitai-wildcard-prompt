@@ -1,0 +1,10 @@
+RAW photo, sharp, 8k, masterpiece, highres, (full body shot, dynamic pose:1.1), 
+(nsfw, exposed breasts, huge breasts, nipples, navel), (bastard_face_002:1.2),
+"style overwatch tracer, a girl with black hair, with a very beautiful symmetrical face, a smile on her face, tanned skin, in a yellow bikini, against the background of a sea beach, in art style, high detail, digital painting"
+ultra realistic professional photograph,
+BREAK
+hyper detailed background, (extremely detailed CG unity 8k wallpaper), full shot photo of the most beautiful artwork of a (Los Alerces National Park , rainbow), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
+BREAK
+(analog:1.2), (high sharpness), (painting:1.1), (digital painting:1.1) flawless, clean, masterpiece, cinematic lighting, cinematic bloom, soft lighting, indirect lighting (top quality, Alessandro Casagrande, Greg Rutkowski, Sally Mann, concept art, 4k)
+__sex-act__, __image-detail__, (__image-quality__:1.1), (__light__:1.2) __image-detail__, __fine-detail__ __adj-beauty__ __female__ __eye-color__ __hair-length__ __hair-style__,  __image-detail__, (__color__ cloak), tight bodysuit, midriff, thong, __body-fit-female__ showing bare thighs and sideboob, (__fine-detail__ and __fine-detail__ samurai armor), thigh boots, (long gloves), (__color__ layered armor), __color__, medium breasts, cherry blossom trees, garter belt, red ribbons, ((Greg Rutkowski)), (Ilya Kuvshinov), (Rembrandt), ((Robert Hagan)), (Alphonse Mucha), (William Morris) __sex-pose__,
+ <lora:GoodHands-beta2:1>

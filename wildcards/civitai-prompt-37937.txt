@@ -1,0 +1,1 @@
+<lora:RaidenShogun-hands:0.6>, raiden shogun, simple background, purple_background, 1girl, portrait, upper body, hat, purple_eyes, large breast, purple_hair,  cleavage, sexy, <lora:breastinClass:0.3>

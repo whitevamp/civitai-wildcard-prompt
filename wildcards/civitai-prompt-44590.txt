@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), solo, 1girl, elie macdowell, flustered, looking at viewer, hair ribbon, hairband, nude, starfishbreasts, pasties, beach <lora:elie-nvwls-v2-zero:0.8> <lora:starfishbreasts-concept-richy-v1:1.0>

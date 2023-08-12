@@ -1,0 +1,8 @@
+flaccid penis,
+8k raw photo of a muscular man wearing leather harness , cowboy shot,( blue eyes:1.1), sunset, beautiful landscape, looking at viewer, 
+digital painting, game_cg,
+standing,
+facial hair,
+1boy, solo,
+muscular man,  male only,masterpiece,best quality,detailed,  beard,   detailed, intricate detail,  highres ,
+<hypernet:EasyNegative:1> <lora:TurbomaleV7_128:.99>      <lora:superFlaccidPenis_v20:.69>

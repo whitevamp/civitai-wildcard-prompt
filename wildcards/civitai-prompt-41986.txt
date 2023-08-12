@@ -1,0 +1,5 @@
+((micro bikini)), (cowboy shot:1.3), smile, small breasts, navel, (fringe scarf:1.3), (short fur gloves), posing for photo, 
+Japanese temple, nandina, ((snow)), ((snowfall)), winter, Japanese stone lantern,  
+bokeh, depth of field, film grain, intricate detailed background, 
+((masterpiece)), best quality, absurdres, nsfw, photo-realistic, a beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, black hair, (bangs), bob, 
+ <lora:microbikiniv1:0.8>

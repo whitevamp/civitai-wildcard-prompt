@@ -1,0 +1,5 @@
+masterpiece, best quality, <lora:Character_Kobeni:0.7>, 1girl, brown eyes,black hair ornament, hairclip, black hair,  bukkake, outdoor:1.5,
+<lora:flat2:-1><lora:bukkake_v2:0.5>
+<lora:ultimateAhegao_v10A:0.5>naughty face, rolling_eyes, cross-eyed, ahegao, open mouth, tongue out,
+nude, cum, body writing:1.5, bukkake, (empty eyes), pussy, tears, cum drip, collar, cum on breasts, cum on hair, facial,
+<lora:publicToiletGirl_v10:0.7>

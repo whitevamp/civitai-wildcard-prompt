@@ -1,0 +1,3 @@
+cute tusuncub, showcasing its best quality features such as a big head, fluffy fur, and beautiful eyes, all while maintaining perfect anatomy,
+winter scene,
+ <lora:TUSUN:0.6>

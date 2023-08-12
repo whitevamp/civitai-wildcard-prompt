@@ -1,0 +1,1 @@
+best quality, masterpiece, a portrait of a person <lora:pearlCreature_sd1520:0.5> mix_\(tiger\), red

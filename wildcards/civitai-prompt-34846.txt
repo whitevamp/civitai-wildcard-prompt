@@ -1,0 +1,7 @@
+(highres, high quality:1.1), intricate details, vibrant image,
+(SaltBaeMeme, salt, sunglases:1.1), (grill:1.1), smoke, blue sky, grass, arm up, arm at side, cooking, grilling, meat,
+Ingrid, solo, Helloutfit, mature female, dark skinned female,
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, yellow eyes, perfect eyes, detailed face,
+large breasts, covered nipples, curvy, thighs, navel,
+(highleg panties:1.3), underboob, black turtlenack, halterneck, red cape, (center opening:1.1), bodysuit,  elbow gloves, thighhighs, boots,
+<lora:Ingrid:0.85>  <lora:SaltBaeMeme:1>

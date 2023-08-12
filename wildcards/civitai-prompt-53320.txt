@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),  <lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.8>,  <lora:whiteBodysuit_v15:0.6>,white bodysuit,see-through,nsfw

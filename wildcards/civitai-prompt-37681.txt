@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 1girl, medium breasts, red hair, short hair, kneeling on the floor, demon wings, demon horns, nude, emotionless, looking at viewer, 
+ <lora:kidnap_v0.2:1>, bdsm, bondage, bound, restrained, bound wrists, bound arms, bound legs,
+<lora:blacksclera-v1.5-lora-naivae-32dim-6ep:0.9>, black sclera, colored sclera,
+abandoned building, dark environment,

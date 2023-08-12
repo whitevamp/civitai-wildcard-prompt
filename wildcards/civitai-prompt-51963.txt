@@ -1,0 +1,12 @@
+best quality, intricate details,
+
+
+1girl, long hair, red hair, messy hair, red highlights, mouse ears, white shirt, black highlights, red writing, 
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>    
+
+ <lora:gachaSplashLORA_v40:0.8> [(white background:1.5),::5] (isometric:1.0), double exposure, bubble, mid shot, full body, // masterpiece, best quality, 1girl, (colorful),(finely detailed beautiful eyes and detailed face),cinematic lighting,bust shot,extremely detailed CG unity 8k wallpaper
+
+((lightning bolt)),(destroyed city) sky, stormy sky,  destroyed buildings, apocalyptic, (dark theme:1.3), smoke, fantasy,looking at viewer, <lora:surprisedblankeyes_v10:1> (blank eyes, surprised:1.3) <lora:cryTearyFace_v10:0.8> teary,tear,sad,sorrow,crying,open mouth,,

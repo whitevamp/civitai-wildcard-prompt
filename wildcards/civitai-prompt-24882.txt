@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors,   <lora:add_detail:0.5> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman,  dark brown eyes, medium blonde medium hair,
+ solo, (full body:0.6), looking up, detailed background, detailed face, (<lora:FrostRaceTech:0.5>,  frostracetech theme:1.1) middle-eastern desert noble, black berber armor, ornate amulet, turban, crescent motifs  smile, arabic culture, middle-eastern city in background,   dry climate, cinematic atmosphere,
+<lora:Elixir:0.8>,

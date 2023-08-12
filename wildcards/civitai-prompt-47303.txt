@@ -1,0 +1,7 @@
+Random posture, 
+(raw photo,8k,photorealistic:1.3),(masterpiece, best quality),  (from below), 35mm shot, looking at viewer, highres, 
+((a girl, solo)) , (detailed beautiful face, beautiful detailed pink eyes,  detailed perfect skin), 
+((flat chest)), high ponytail contorted, eyes visible through hair, (blush), wet hair,
+sitting, white|black kimono, topless, (leg crossed) , arms behind back, water, hair ornament, lace trim, 
+<lora:CuteG:0.7> 
+ <lora:ShojoVibe:0.1>

@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, scenic shot
+BREAK
+<lora:TonraqTLOK-000007:0.9>TonraqTLOK , muscular male, dynamic pose
+blue coat, fur trim, belt, waistband, bracers, necklace
+BREAK
+winter, gorgeous view

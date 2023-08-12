@@ -1,0 +1,4 @@
+((Masterpiece, best quality,photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,close up))
+1girl, (((big boobs)))
+crop top,underboob
+ <lora:crop_shirt_underboob:0.77>

@@ -1,0 +1,3 @@
+nsfw, european woman, focus on a face, beautiful face, blush, eyes closed, (without wrinkles), (after sex), (professional photo, cinematic, hyperrealistic, photorealistic, hyperdetailized, high quality, high resolution, low light, soft light), facial, realistic sperm, cumshot, smile, (shy, lucky girl),
+(realistic skin texture, realistic hair, realistic lips texture, realistic teeth texture, realistic eyebrows, realistic eyelashes)
+<lora:CumFacial:1.3>,<lora:MS_Real_Facial_Lite:1.0),

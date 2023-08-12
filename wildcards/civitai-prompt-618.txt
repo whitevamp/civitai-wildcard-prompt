@@ -1,0 +1,4 @@
+<lyco:MultipleGirlsGroup:1>, multiple girls, harem, (5 girls), NSFW, (naked:1.4), (lying:1.2), supermodel figure, 4k, high-res, masterpiece, best quality, ((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, (detailed face:1.2), colorful background, extremely detailed face eyes lips areolas, random hair color and hair style,
+ (narrow waist:1.2), perfect skin,(natural breasts), (detailed nipples, pussy), indoor,  bedroom,  bokeh, beautiful lighting, model posing,
+<lora:shojovibe_v11:0.4>
+<lora:LowRA_2:0.4>

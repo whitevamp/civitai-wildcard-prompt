@@ -1,0 +1,1 @@
+(masterpiece),(best quality),high details, f1.8,blurry background, (a man is wearing a Full coverage cyberhelmet with a halo face_mask:1.1), upper body,brown short hair, LED light, Yellow uniform,neck ring, a room full of wires and electronics ,(Crossed laser light:1.1),light and shadow effect,<lora:cyberhelmetWearable_v07:1>,

@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format, (depth), (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman,  red eyes, chestnut sleek hair,
+portrait, (bloody scars:0.7), looking at viewer, focus on character, solo, (full body:0.6), detailed face, (<lora:CyberPunkAI:0.6>, neon, CyberpunkAI theme:1.1), bandit, wild west hat, tilted hat, pocket-watch, belt, vest, bolo tie, walking,  19th century wild west,  wild west era empty town with post office in background, cacti, nighttime,  cinematic atmosphere, arid,

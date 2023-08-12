@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), 3D character, 1 girl, Miku Hatsune, cyan hair, very long hair, (full body:1.2), transparent background, <lora:3dcharacter:0.5>

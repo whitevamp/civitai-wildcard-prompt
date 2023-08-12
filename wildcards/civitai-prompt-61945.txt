@@ -1,0 +1,5 @@
+(masterpiece,best quality:1.3),(ultra-detailed),(absurdres),
+1girl,milf,(nsfw),(upper body),huge breasts,
+skinny, glasses, smile, breast focus,
+<lora:godNeko_n3k0V1:0.5>,
+<lora:backwardsVirginKiller_v10:1>,backwards virgin killer sweater,

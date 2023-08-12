@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, woman posing for a photo, (wearing crop_top_clothing,wearing kimono_clothes:1.3),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), collarbone, night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((5 stars hotel))), outside,   <lora:crop_top_clothing:0.3>,<lora:realistic_kimono_clothes:0.3>

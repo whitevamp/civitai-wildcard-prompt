@@ -1,0 +1,7 @@
+(kawaii:1),(looking at viewer:1),focused,(cowboy shot:1),masterpiece, best quality, highres,8k, intricate, elegant, highly detailed,dynamic lighting,(blurry background:1),(half updo:1),(blunt bangs:1),(sidelocks:1)
+BREAK
+extremely detailed eyes and face and skin,(symmetrical clear eyes:1.2), (slim face:1.2)
+BREAK
+She has long flowing hair, reaching down to her waist, with bunny ears adorably attached to a headband. Her hair is colored a soft pastel pink, and she has big, expressive, and sparkly brown eyes that give her a lively and endearing appearance. The bunny girl outfit she wears consists of a frilly and short pastel blue dress, with a fluffy white bunny tail attached to the back. The dress has a sweetheart neckline and is adorned with small heart-shaped buttons along the front. The skirt flares out slightly, giving it a playful and charming look. Her outfit also includes cute white thigh-high stockings with lace trim and a pair of pink Mary Jane shoes. She playfully lifts the hem of her dress to reveal her belly button, showing off her youthful and carefree spirit. Her pose exudes confidence and a touch of innocence, as she stands with one foot pointed forward and her hand gently touching her bunny ear. The background of the illustration can be a magical birthday party setting, with colorful decorations, balloons, and a birthday cake adorned with bunny-themed decorations.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.6> <lora:detailed_eye:0.5> <lora:hanntoumeibani:0.7>

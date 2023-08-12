@@ -1,0 +1,2 @@
+<lora:Muscle2:1>,<lora:Breast_Expansion>,
+1girl,dark skin,red eyes,long white hair,ponytail,white dress,park,(betorn:1.2),large breasts,torn shirt, motion lines, surprised, embarrassed,

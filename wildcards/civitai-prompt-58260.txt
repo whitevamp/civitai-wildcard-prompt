@@ -1,0 +1,1 @@
+(close-up portrait photo of Emily as a 42 y.o. American diplomat) (squatting over a table, naked, thighs open:1.2) (wet:0.9) (background office, classical furniture) (dark and moody light:1.2) <lora:epiNoiseoffset_v2:1>

@@ -1,0 +1,8 @@
+1girl, solo, (8k, highres, best quality, masterpiece:1.1), from below,
+an illustration of a cute girl,
+ <lora:unexptits_v15:-1>
+(gigantic breasts,  breast expansion), so surprised, upset, (looking own breasts:1.1),
+nature, outdoors, detailed background, 
+<lora:flat2:-0.8> 
+<lora:tailblue_ver1.1:0.7>
+tailblue,blue eyes, twintails, (armor:1.1),gradient hair,blue hair,very long hair,

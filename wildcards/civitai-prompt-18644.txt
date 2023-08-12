@@ -1,0 +1,4 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+shirtlift, school uniform, pleated skirt, braids, 2 arms,
+thigh socks,
+ <lora:shirtliftv1:0.7>

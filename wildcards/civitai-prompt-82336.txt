@@ -1,0 +1,5 @@
+Subtle narrative, enigmatic atmosphere, atmospheric perspective, fluid movement, ethereal quality,mythic fantasy,
+solo,breasts,nsfw,
+Peace,
+(Glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),
+<lora:OC:0.25>    <lora:LowRAv2:0.5>

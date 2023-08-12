@@ -1,0 +1,4 @@
+zydink, ink sketch, (best quality, masterpiece:1.3),1boy,
+silver hair, bright pupils, short hair, hair slicked back, floating hair, black robe, 
+ (abstract ink splash:1.2) ,<lora:zyd232_ChineseInkStyle_v1_0:1>
+He held the glowing blue bird in one hand,  He looked up at the sky, flames surrounded him body,

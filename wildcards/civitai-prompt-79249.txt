@@ -1,0 +1,2 @@
+Photo of a black woman (wearing a white shirt:1.2) in an abandoned barn, skinny, tall, tshirt, (rusty roof:1.4), dirty roof, short hair, (transparent shirt:1.2), young, (evil:1.3), tight shirt, (from below:1.5), (open legs:1.4), (white thong:1.2), pussy, poor quality photo, (blurry:1.1), metal roof, rusty sheet metal, angry, wet skin, perfect face, (looking to the camera:1.1)
+<lora:povsitting:0.7>

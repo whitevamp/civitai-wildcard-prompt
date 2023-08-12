@@ -1,0 +1,1 @@
+concept art, white background   <lora:artdecoai10:.75> artdecoai church , gold

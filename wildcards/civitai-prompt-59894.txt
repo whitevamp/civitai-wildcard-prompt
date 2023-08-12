@@ -1,0 +1,1 @@
+concept art ,  <lora:crystallineai_v10:0.3>, CrystallineAI goddess, divine,  <lora:fairytaleai_v10:0.>, fairytaleai,  <lora:conceptLoongChinaDragon_v10:1>, loong

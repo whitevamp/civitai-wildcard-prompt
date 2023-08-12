@@ -1,0 +1,5 @@
+(((masterpiece))),best quality, illustration,beautiful detailed glow,
+flowers,white background,
+paper_cut,  <lora:KK_paperCut_v5:0.8>
+Negative prompt: easynegative,badhandv4,
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2494046001, Size: 768x1024, Model hash: d725be5d18, Model: 2插画_A1_revAnimated_v11, Clip skip: 2, ENSD: 31337, Hashes: {"vae": "f921fb3f29", "model": "d725be5d18"}

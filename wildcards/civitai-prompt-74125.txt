@@ -1,0 +1,1 @@
+<lora:WindBlownFace:0.8>, windblownface,  <lora:onePieceWanoSagaStyle_v2Offset:0.8> wanostyle, luffy, 1 guy, red shirt,

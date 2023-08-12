@@ -1,0 +1,9 @@
+((one male)) ((1boy)) (((front view))).
+Very detailed flawless face, detailed open eyes, very handsome, epic, heroic, gigachad, (muscular) bodybuilder, (big muscles), (big pecs) (big pectorals), large prominent nipples, narrow waist. (homoerotic). (Long hair). Realistic face, realistic eyes, (detailed facial features), (smile).
+(nude) (completely naked), (very large penis) glans frenulum (very large testicles), ((male pubic hair)) ((dense curly pubes)), ((uncensored)), ((nsfw))
+wet hair, wet body
+Standing under a waterfall in a lush remote foliage tropical jungle, line cloud, light rays from the cloud.
+High Contrast, High Saturation, Highly detailed, high quality, masterpiece, volumetric light, light rays, vibrant colors, depth of field.
+<lora:BulkedUpAIR1.5:0.2>
+<lora:zovyaWetHairLORA64_V1:0.75>
+<lora:lightV1:1>

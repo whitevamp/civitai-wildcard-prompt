@@ -1,0 +1,2 @@
+masterpiece, best quality, vehicle, cyberpunk,(3d:1.2),
+ <lora:Vehicle:0.8>

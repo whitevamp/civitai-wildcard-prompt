@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
+sexy, cleavage, horny,
+long pleated skirt, white shirt, classroom background, (full body),school uniform,braids,sitting on table,
+thigh socks,
+ <lora:3DMM_V7:1>

@@ -1,0 +1,3 @@
+wanjian, multiple weapon (glowing weapon)
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece, best quality, photorealistic, (zentangle, mandala, tangle, entangle), extreme detailed, dynamic angle, the most beautiful form of chaos, elegant, a brutalist designed, vivid colours, romanticism
+zhongfenghua <lora:zhongfenghua:0.6> <lora:oc_v10:0.2> <lyco:fairyworld:0.3> <lora:lowra_v10:0.3>  <lora:wanjian01:0.8:MIDD>

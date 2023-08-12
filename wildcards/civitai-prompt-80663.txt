@@ -1,0 +1,4 @@
+(full torso:0.5), realistic:0.77, line art:0.35, spikes hair , woman standing,  beautiful, sharp focus, masterpiece, facing viewer, fashion photoshoot, net,
+blond hair, goth style, latex,
+[(colorful explosion psychedelic paint colors:1.2)::0.15],
+centered, realistic, professional, black background, plain black background

@@ -1,0 +1,3 @@
+((Masterpiece, best quality,photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,close up)),
+edgEarPiercing, blonde woman,  solo,1girl, piercing, ring, heart shaped ear piercing, wearing edgEarPiercing,
+ <lora:edgEarP:0.7>

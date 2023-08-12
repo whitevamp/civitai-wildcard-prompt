@@ -1,0 +1,1 @@
+1girl, solo, full body shot ,masterpiece, best quality, (photorealistic:1.4), a photo of a beautiful girl, (secretary, buiness scenario, office:1.2), sexy pose, brunette hair, cornrows hair, evening, smiling, red lips, lip gloss, black  skirt, <lora:add_detail:0.8>, crop shirt underboob, crop white top, underboob, <lora:crop_shirt_underboob:0.7>

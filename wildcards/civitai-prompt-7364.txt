@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting,
+
+, makima \(chainsaw man\), (red hair)+(long braided hair)+(bangs), yellow eyes, golden eyes, (ringed eyes), (white shirt), (necktie), 
+
+RAW photo, 8k uhd, film grain <lora:makima_offset:1>

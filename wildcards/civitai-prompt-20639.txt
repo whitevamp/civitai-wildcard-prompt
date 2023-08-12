@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, slingshot swimsuit, black one-piece swimsuit, pubic hair, standing, cowboy shot, hand on hip, smile, <lora:micro_slingshot_v1:0.9>, aaisuzu, 1girl, ponytail, brown eyes, <lora:sento_isuzu_v1:0.7>

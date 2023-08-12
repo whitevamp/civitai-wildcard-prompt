@@ -1,0 +1,1 @@
+male model, black suit, seductive, Florence, Italy background, night, bokeh, depth of field, (upper body:1.0), best quality, intricate details, detailed eyes, masterpiece, film grain, 1980s, kodakchrome,  flashlight  <lora:flashlight_v10:1>

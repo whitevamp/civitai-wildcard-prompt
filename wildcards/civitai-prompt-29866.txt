@@ -1,0 +1,1 @@
+A woman,thick,wide hips,photorealism,looking at viewer,red hair,shot on iphone x,((wearing a tight black and yellow suit, futuristic)),<lora:add_detail:0.5>,<lora:LowRA:0.6>,a woman,((bangs)),at street at night,city lights,((masterpiece)),looking at viewer,((waist-up)), highres, ((best quality)), futuristic suit, sexy, cute, romantic, <lora:my_gf:0.4>, portrait

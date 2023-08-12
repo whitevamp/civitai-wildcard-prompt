@@ -1,0 +1,2 @@
+portrait photo of ewt woman , (holding a big fish:1.15), solo, in a river
+ <lyco:Emma2017Dogu:1.0>

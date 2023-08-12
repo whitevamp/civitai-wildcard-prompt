@@ -1,0 +1,1 @@
+<lora:M4rbleSCNEWCIVIT(1):0.8> <lora:d3fr0:0.6> side portrait, M4rbleSC female

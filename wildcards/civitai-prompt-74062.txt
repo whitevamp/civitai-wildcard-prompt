@@ -1,0 +1,1 @@
+(1girl:1.3), ((black and white)), geisha, ((zen)), (masterpiece, top quality, best quality:1.3), extreme detailed background, zen calligraphy, unique visual effect. from behind, seductive, <lora:add_detail:0.5>

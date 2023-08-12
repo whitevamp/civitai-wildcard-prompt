@@ -1,0 +1,1 @@
+(masterpiece, top quality, beautiful and aesthetic:1.2), 1girl, solo, cyberpunk, (cyberpunk red long blade), jaket, dynamic posture, black hair, (big breasts:0.7), <lora:BetterGuns-V1:1>, night , <lora:koreanDollLikeness:1>

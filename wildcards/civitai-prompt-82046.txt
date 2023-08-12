@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),ultra detailed,(photo realistic:1.4),solo,cute girl,indoor,Cabaret_Dress, <lora:CabaretDress_v1:0.5>,light_particles, <lora:KiraKiraEffect_v1:0.5>,

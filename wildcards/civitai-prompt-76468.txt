@@ -1,0 +1,3 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,  (abstract:1.2), (zentangle:1.2),    visual chaos,  captivating patterns, creative experimentation, highest detailed, <hypernet:sxzBloom_sxzBloom:0.1>
+(1man,  old  male:1.2), frail,  grey-blue eyes, white hair, fade with goatee,
+  solo, half shot, looking down, detailed background, detailed face, (<lora:Neonpunkai-8:0.4>, Neonpunkai, neon theme:1.1), bubble-mage, smiling, dynamic pose, colorful sorcerer robes, surrounded by magical purple bubbles, rainbow,   wisps of magic,  floating sparkling particles,   glowing bubbles, swirling bubbles, mystical,  bubbles in background,  bright colorful lighting, whirlwind, jovial magical atmosphere,

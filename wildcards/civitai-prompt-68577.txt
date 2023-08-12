@@ -1,0 +1,6 @@
+sam yang,
+
+1girl, bird, black eyes, black hair, blurry, blurry background, cherry blossoms, lips, long-tailed tit, looking up, medium hair, profile, scarf, solo, tit (bird)
+
+, ((masterpiece))
+<lora:sam_yang_offset:1>

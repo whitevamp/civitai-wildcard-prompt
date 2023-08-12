@@ -1,0 +1,5 @@
+masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper, ultra high res, ultra detailed, realistic, (photorealistic:1.4), soft light, depth of field, professional lighting, physically-based rendering, 
+1girl, cute, young, long Brown hair,twin braids,parted bangs,ponytail,gold round thin rimmed eyewear,blue eyes, half-closed eyes,pleasure face,charming smile,alluring blush,detailed lips,enchanting red lipstick,sitting,(Skin is tender fair and clear:1.2),Milky white,shiny skin, 
+(looking at viewer),Open shirt,(breasts out:1.3),small areolae,pink nipples,((spread legs)),(skirtlift,cameltoe:1.3),(female_masturbation:1.3,grabbing_own_breast:1.3,fingering:1.2),(enjoy:1.4),trembling,Panting,open mouth,drooling saliva,puffy nipples,
+(school uniform:1.5,unbuttoned student jacket,collared shirt inside,pleated plaid miniskirt),cross-laced neckerchief,(slim),small breases,(Stockings(pantyhose)),high heels,animal ears,jewelry,earrings,red nail polish,(library),
+<lora:femaleMasturbationBoob_v1:0.8>,<lora:fashionGirl_v20SmallFileSize:0.2>,

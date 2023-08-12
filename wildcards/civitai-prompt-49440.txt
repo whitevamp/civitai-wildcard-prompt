@@ -1,0 +1,2 @@
+((masterpiece, best_quality, High-resolution, anime, )), (looking at viewer, ), 
+((1girl, solo,  <lora:longtu-000014:0.8:MIDD>, longtu face, bang, frown, evil smile, )), (close up, ),

@@ -1,0 +1,4 @@
+(tgiantll:1.4) woman in white dress and white hat standing in the middle of a dark street, abandoned,
+(dark background, black background, backlit, night:1.2), <lora:lowkey11:1>
+(HASSHAKU-SAMA:1.2)
+HASSHAKU-SAMA \(CUSTOM\) <lora:Hasshakusama:0.6>

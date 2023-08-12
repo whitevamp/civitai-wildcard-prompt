@@ -1,0 +1,7 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, perfect skin, female,  (looking at viewer:1.6),solo, perfect illumination, distinct, (1girl:1.4), perfect face, detailed face,  perfect body, beautiful eyes, pretty face, soft light, (blue eyes:0.7),
+bare shoulders, 
+ slim, cleavage, white hair,
+red glasses, hair ornament,  short modern dress,
+purah, ((center)),
+(standing), selfie,
+ <lora:purah-nvwls-v2-final:0.75>

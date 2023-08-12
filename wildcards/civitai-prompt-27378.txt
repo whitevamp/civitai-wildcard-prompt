@@ -1,0 +1,1 @@
+1girl, judy, posing, white dress, crossed legs, prison cell <lora:JudyHopps_v1:1> <model:423dc55b3f:non-realism_anime_flat2DAnimerge_v30>

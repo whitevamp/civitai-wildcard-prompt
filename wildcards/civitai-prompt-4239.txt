@@ -1,0 +1,11 @@
+(korean k-pop idol:1.4),(Best quality details:1.2),(only one person:1.1),realistic,8K UHD,High definition,hyperdetailed,High quality detailed texture,High quality shadow,Detailed beautiful delicate face,Detailed beautiful delicate eyes,Depth of field,Ray tracing,perspective,20's,
+
+indoors,chinese_hotel,
+
+(on couch:1.4),(lying:1.3), (head_tilt:1.2),(spread_legs:1.2),(leg_up:1.2), (m_legs:1.2), (close-up:1.3),
+
+(light_smile:1.2),
+
+(ponytail:1.2), (wavy_hair:1.0), (hair_stick,hairpin:1.3),(hair_up:1.2),(very long hair:1.2),Lovely face,(bangs:1.2),(black_hair, black+long straight hair:1.3),(Pretty Kpop girl group:1.2)+korean ulzzang face,slender face,tall,fair white skin,Glow Eyes,blush,glossy lips,perfect body,lean body,bags_under_eyes,(black slightly hair :1.2), pale pink lip, pale skin, beautiful eyes, eyelashes, medium breasts,Thin lips,(noble girl),beyeshadow, makeup, eyeliner, floating hair,(thin waist,wide hips:1.2),
+
+(shawl,hagoromo:1.4), ([white_clergy_dress:hanfu:0.8]:1.1),(white_clergy_dress:0.9),(china_dress:0.9),(china_clothes:0.8),(hanfu:1.3), (ribbon), (hair ornaments), (detailed cloth),(lace),(see-through:1.2),

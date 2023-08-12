@@ -1,0 +1,1 @@
+<lora:pov_deepthroat_v0.1:1.0> 1girl, deepthroat, pov hands, irrumatio, wide-eyed, constricted pupils, naughty face, runny makeup, blonde hair, twintails,  indoors, Train Station, masterpiece, best quality, highly detailed, absurdres, <lora:add_detail:0.3>  <lora:GoodHands-beta2:1> <lora:constricted_pupils_v0.2a:1>

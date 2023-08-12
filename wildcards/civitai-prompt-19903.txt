@@ -1,0 +1,1 @@
+<lora:HNKstyle:1>,HNKStyle,muscular,crossdressing, toki_\(hokuto no ken\), white hair,long hair,beard,<lora:bunny_toki:0.6:MIDD>,(playboy bunny:1.2),leotard, cuffs, bowtie, halo,blonde hair,(rabbit ears:1.1), headband,off shoulder, expressionless

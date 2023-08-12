@@ -1,0 +1,1 @@
+1girl,smirk,curly hair,no<lora:actressSatomi_v10:0.4:FACE>,rejuvenation,retro,film grain

@@ -1,0 +1,3 @@
+portrait of pretty elf girl , wearing green clothes, on fantasy forest background, (green eyes:1),
+(masterpiece), (best quality), (full body:0.6),
+ <lora:more_details:0.5>

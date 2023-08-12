@@ -1,0 +1,4 @@
+<lora:cozy couples:0.5>
+a couple of lovers, man and woman,
+cozy cafe background, mid-20s, intimately holding close, dialog, uncropped, the lovers
+soft light, exposure blend, medium shot

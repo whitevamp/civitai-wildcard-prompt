@@ -1,0 +1,6 @@
+photo of a woman Selest18 climbing on mountains, smiling, sunset, 
+(mountain outfit), 
+(masterpiece, dramatic and cinematic lighting, key light, fill light),
+((short hair)), 
+(((Dutch angle))), (((from above))),
+<lora:skinny_new_skin:0.15> detailed skin, <lora:detailed_eye:0.2>

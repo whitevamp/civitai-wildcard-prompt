@@ -1,0 +1,5 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, perfect waist to hip ratio, (natural skin texture, hyperrealism, soft light, sharp), full body, from above, nsfw,
+a 20 yo woman, cute, pretty, sexy, BREAK
+(layered bob, white hair), nice hands, perfect hands, perfect fingers, ((lying on back, wide spread legs, breast grab)), lace-up leather underbust corset, sheer lace blouse with high neck and ruffled sleeves, high-waisted leather pencil skirt, over-the-knee lace-up boots, lace garter belt, fishnet stockings, lace-up black leather Panties, BREAK
+realistic face and body, medium breasts, narrow waist, glamorous body, thigh gap, long legs, parted lips, makeup, long eyelashes, pale skin, (alluring smile), in luxurious bedroom, dim lights, (looking at viewer, ass focus),
+<lyco:GoodHands-beta2:1.0>, <lora:breastinClass:0.2>, <lora:add_detail:0.3>

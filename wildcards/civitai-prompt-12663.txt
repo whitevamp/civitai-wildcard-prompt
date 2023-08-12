@@ -1,0 +1,11 @@
+(masterpiece, best quality),lantern, ultra detailed, official art, golden hour, (rim lighting):1.2, warm tones, sun flare, soft shadows, vibrant colors, painterly effect, dreamy atmosphere,multicolored background, 
+1girl, solo, looking at viewer,serene expression,long hair, breasts, black hair,hll,poised posture, porcelain skin, subtle blush, crystal pendant,((pantyhose)),watery eyes,
+hair ornament, hair flower, paper lantern, bangs, architecture, east asian architecture,outdoors, tassel,
+scenic lake, distant mountains, willow tree, calm water, reflection, sunlit clouds, peaceful ambiance,zentangle, mandala,
+(facing away),
+(orange theme),
+(pantyhose),
+(hands in pockets:1.3),
+pixie cut,
+black hair,
+<lora:hll_20230617094651:0.4>

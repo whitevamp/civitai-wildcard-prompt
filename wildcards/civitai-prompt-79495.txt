@@ -1,0 +1,7 @@
+Style: { (masterpiece:1.2, best quality) },
+Composition: { pov male masturbation, penis, projectile cum, ejaculation, cum on face, <lyco:pov male masturbation:0.8>, night, moonlight, 1girl, cute from above },
+Hair: { long_blonde_hair },
+Appearance: { mature female, slim, slender, fit, small_breasts, flat_chest, sharp_eyes, green_eyes, one breast out, nipples },
+Clothing: { bath robe },
+Behavior: { lying, on bed, (annoyed:1.2), closed mouth, one eye closed, looking at viewer },
+Location: { bed sheet, pillow }

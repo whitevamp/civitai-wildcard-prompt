@@ -1,0 +1,28 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (realistic:1.2), (award-winning photography),
+Intricately detailed, professional erotic photo of (sexy pale woman with beautiful black hair),
+extremely detailed CG unity 8k wallpaper, 8k uhd, HDR, 8k resolution, RAW photo, best quality, high quality, ultra detailed, finely detail, beautiful detailed, dslr, ultra highres, (instagram most viewed:1.3), trending on CGSociety,
+(looking at viewer:1.4), (facing camera:1.4), (cowboy shot:1.2, from below:1.2), (cinematic angle),
+(photographed on a Sony a9 II Mirrorless Camera , 50mm prime lens, F/1.4, (highly detailed), cinestill 800, 8mm film grain),
+(absurdres:1.2, film grain:1.2, Fujifilm XT3, Kodak portra 400, bokeh:1.2, vibrant color:1.2, dappled light on face, dramatic overhead lighting, professional lighting, studio lighting, cinematic lighting, side light, soft lighting, dramatic shadows, photon mapping, radiosity, physically-based rendering, depth of field, highly detailed background, intricate background, beautiful background, complex background, blurry background), (caustics:1.2), (lens flare:1.2), beautiful lighting, best shadow, best illumination, cold attitude,
+
+(1girl:1.4), (model:1.2), (posing for a picture), 
+(perfect body:1.4), (curvy body:1.1), (skinny body:1.2), (tall body:1.1), (goutou:1.3),
+(attractive:1.4), (seductive:1.3), (alluring:1.2), (supermodel:1.3), (superstar:1.2), (model posing:1.3), (kpop idol:1.1), (beautiful woman:1.3),
+(high detailed skin:1.2), real skin texture, (shiny skin:1.1), (skin pores:1.3),
+
+(make up:1.4), (detailed face:1.4), (detailed stunning innocent symmetry face), (finely detailed beautiful eyes and detailed face),
+(thin face:1.3), (the pointed face:1.3), 
+
+(heavy eye makeup:1.5), shiny eyes, big beautiful eyes, (detailed eyes:1.2), beautiful eyes, eyelines, brown eyes, puffy eyes, detailed eyeshadow, red eyeshadow, fog eyebrow, rendered eyes,
+beautiful earrings, lip gloss, (smile:1.3), (smug:1.2), (smiled mouth:1.1), blush, 
+(straight hair:1.4), (long hair:1.3), (hair blowing in the wind:1.2),
+(hair ornament, necklace, jewelry),
+
+(natural breast:1.2), (wide shoulders:1.3), (slender waist:1.4), (slim waist:1.2), (abs:1.2), 
+
+(beautiful legs, tall female, skinny, slim_legs, thigh_gap),
+
+<lora:hoodiesLoraVersion_v10:0.4>hoodie, a woman posing for a picture , chinese style, intricate design, intricate embroidery, wearing hoodie, a crop top,
+<lora:sneakers_v10:0.6>a woman in a white shirt and multicolor sneakers with cool design and gold soles, sneakers inside the frame, feet closeup, crossed legs,
+
+<lora:hankyu3000SeriesTrain_v1:0.6>Hankyu3000, train interior,

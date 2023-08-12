@@ -1,0 +1,5 @@
+<lora:add_brightness:0.5><lora:add_detail:0.7> <lora:quiron_MilkingTable:1>
+8k,highres,
+(MilkingTableQuiron pose:1.2),(penis is banana,banana is banana),(penis is banana,banana is banana),(penis is banana,banana is banana),(penis is banana,banana is banana),
+woman,green jacket, closed eyes, t
+banana focus, shiny banana, have a sheen

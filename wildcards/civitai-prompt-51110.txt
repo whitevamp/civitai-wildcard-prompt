@@ -1,0 +1,3 @@
+from side,(Multicolored hair:1.3),Pink hair,Light blue hair,Colored inner hair,blue hair,green hair,light green hair,aqua hair,white hair,Orange hair,red hair,((disheveled hair)),Short hair,Big hair,Ahoge,Parted lips,(baggy clothes:1.2),solo,(upper body),cowboy shot,standing,grey background,simple background,
+(drawn by Pomu:1.4),NanaseKurumi,solo,(upper body),Standing,cowboy shot,off-shoulder,street wear,
+(splatter background:1.5),simple background,outline,watercolor (medium),concept art, masterpiece, best quality,  <lora:animeLineartMangaLike_v30MangaLike:1>

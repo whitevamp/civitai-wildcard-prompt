@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), 1girl, solo, bathing, nude, blush, wet, bath, partially submerged, steam, convenient censoring, soap bubbles, kanu unchou, hair over one eye, knee up, 
+takada akemi, painting \(medium\), retro artstyle, traditional media, watercolor \(medium\), 1980s \(style\), <lora:KanuUnchouV5-000012:1>, <lora:akemiTakada1980sStyle_1:0.6>

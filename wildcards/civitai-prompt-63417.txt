@@ -1,0 +1,6 @@
+((best quality)), ((masterpiece)), (detailed),
+1girl lean on desk, office_lady, formal, black mini skirt, white blouse, black jacket, eyelashes, purple lips, (makeup:1.2), lipstick, blue lips, blue eyes,multicolored eyes, long_haire, blonde_haire, choker, high heels, seductive look, 
+torne clothes, npclearly, obviously no panties, lifting skirt, thighhighs
+office room, huge window,
+front view, looking at viewer, full body, 
+<lora:npm-v11t-000005:1>, hidden privates, hidden by clothes, upthigh

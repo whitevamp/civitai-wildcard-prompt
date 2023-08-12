@@ -1,0 +1,17 @@
+beautiful, (masterpiece:1.2), (best quality:1.2),
+perfect eyes, perfect face, perfect lighting, highly detailed, realistic,
+sharp focus, absurdres, ultra detailed,
+1girl, solo,
+breasts out, breasts, big breasts,
+((((dark-skinned female)))),
+(sweaty body, wet body, sweat), cum on face, bukakke, cum on body ,
+(muscular, muscular female, broad shoulders, abs),
+(sauna, steam),
+( 99::naked towel, towel over shoulder),
+looking at viewer, female focus,
+((sex, pov)),
+(1boy:0.5, penis), 
+((vaginal, cowgirl position)), (arms around viewer, arms hugging viewer,)   
+white  hair, long hair,  rabbit ears, rabbit tail, red eyes,
+mirko, <lora:Mirko:0.65>
+choker, earring},

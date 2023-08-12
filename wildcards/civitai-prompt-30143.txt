@@ -1,0 +1,1 @@
+beautiful, (masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, demi(humanoid robot) :p, looking at viewer, simple background, smile, solo, teardrop, tongue, tongue out, upper body, white background, arms up, elbow squeeze, medium breasts, breasts squeezed together, <lora:Elbow Squeeze LoRA:0.75> <lora:demi:0.8> <lyco:GoodHands-beta2:1.0>

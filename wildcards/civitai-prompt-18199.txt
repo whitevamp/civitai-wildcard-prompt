@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,huge breasts
+BREAK
+yorbriar, <lora:yorbriar:1>, yor briar, black hair, (red eyes:1.5), earrings, ((gold hairband)), hairband, long hair, sidelocks, BREAK bare shoulders, collarbone, dress, long sleeves, off shoulder, off-shoulder dress, off-shoulder sweater, pantyhose, red sweater, sweater, sweater dress, thighs,
+depth of field,looking at viewer,((sit on the , Comic_book_convention,)),((full body)),polka dot panties,smirk
+BREAK
+day,sun,rainbow,bus stop,((cumulonimbus)),from above:1.4,

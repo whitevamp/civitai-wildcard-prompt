@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2),
+1girl,Cheeky bitch, finely detailed face,looking at viewer,smile,outdoors,street,
+huge breasts,Hanging Breasts,(beige sweater:1.2),high heel,black thighhighs,bare shoulders,strapless, long hair, necklace,20d,
+brown eyes,black hair, long hair,
+<lora:20d_v10:0.3> , <lora:LoconHangingBreasts_v1:0.5>

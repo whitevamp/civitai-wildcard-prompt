@@ -1,0 +1,1 @@
+realistic, realistic details, detailed, (((1girl, slender, full body, skrg, alien, wings, claws, destroyed cityscapes, perspective, sharp focus, depth of field, detailed background))) <lora:CG_Kerrigan_SC2:0.65>

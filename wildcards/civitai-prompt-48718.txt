@@ -1,0 +1,1 @@
+<lora:breastinclassBetter_v141:0.5>,1girl,lying,cute,cityscape,cyberpunk,  night,bed,nude,((naked)) (best quality),(masterpiece:1.2),(colorful:0.2),(ink splashing),(color splashing),((watercolor)),clear sharp focus,elegant blue colored hair,beautyfull detailed face and eyes,elegant goddess clothing,spring forest background ,<lora:Colorwater_v4:0.5>

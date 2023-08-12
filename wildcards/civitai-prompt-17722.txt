@@ -1,0 +1,14 @@
+(Absurdres:1.2), beautiful and aesthetic, masterpiece, best quality, extremely detailed,Nikon AF-S Nikkor 85mm f/1.4G lens,
+photo realistic:1.4 , delicate pattern, (intricate detail,extremely intricate:1.2),70mm telephoto lens,
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, <lora:more_details:0.6>,
+------
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1), (idol),
+<lyco:GoodHands-beta2:1.0> nice hands, perfect hands
+(detailed clothes features),Exquisite Makeup, Realistic Skin, beautiful detailed eyes, symmetric eyes,
+------
+(1girl,solo:1.2), woman, girly, bright eyes, (detailed eyes), 
+Floating hair, wind, hair accessories,
+------
+ <lora:kanakoyasaka:1> 1girl,yasaka kanako,rope,mirror,red eyes,purple hair,short hair,leaf hair ornament,shirt, long skirt,anklet, sandals,(grey background:!.2), shimenawa, onbashira
+------
+(<lora:AntimatterTech-20:0.5>, antitech, antimatter theme:1.1),

@@ -1,0 +1,4 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (middle shot:1.2, center focus, symmetrical), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Knit dress, tights, Siren, Short, Wide Hips, Round Face, Fair Skin, Golden Blonde Hair, teal Eyes, Narrow Nose, Full Lips, Sharp Chin, Long Hair, Wavy Hair, Blunt Cut Bangs, firm breasts, Dangle earrings, berry gloss lipstick, Doing yoga,
+Moroccan rooftop terrace with cushioned seating areas and panoramic city views,
+<lora:beautylegs_v01:0.6>, beautylegs, <lora:tanRealStockings_v10:1>, visibile TanRealStockings top lace bands, sand color TanRealStockings, <lora:tonedandtallmodels_v10:0.6>, toned, tall female, choker, abs, six pack abs, slim waist, gigantic breasts, huge breasts, cleavage,

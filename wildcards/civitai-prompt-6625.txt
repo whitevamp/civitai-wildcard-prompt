@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, sitting, indoors, standing, cowboy shot, dutch angle, looking away, blush, embarrassed, covering crotch, covering breasts,
+mizuki yukikaze, hair ribbon, one-piece tan, completely nude,  <lora:MizukiYukikazeV1_1:1>,  <lora:more_details:0.2>,  <lora:qqq-covering_breasts_crotch-v1-000015:0.6>

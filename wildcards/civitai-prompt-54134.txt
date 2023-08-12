@@ -1,0 +1,1 @@
+<lora:baroqueai_v10:.75>, baroqueAI, imperial stormtrooper

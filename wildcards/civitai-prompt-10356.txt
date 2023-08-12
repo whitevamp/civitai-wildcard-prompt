@@ -1,0 +1,2 @@
+<lora:SilverSapphireAI:.9> SilverSapphireAI
+coffee machine   , detailed, intricate

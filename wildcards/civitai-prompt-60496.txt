@@ -1,0 +1,1 @@
+(masterpice:1.1), 1girl, ( detalied face:1.3), dress, (LegsUpMS:1.2), legsupms, golden hour,  <lora:murkysLegsUpLora_1:1>

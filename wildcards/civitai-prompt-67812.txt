@@ -1,0 +1,3 @@
+(Realistic:1.5), masterpiece, photorealistic, best quality, colorful, vibrant colors, detailed face, perfect lighting, perfect shadows, perfect eyes, girl focus, perfect hair, blue eyes, perfect face, flat chest, gorgeous body, hourglass body, shiny body, 1girl, solo, center focus, Renamon, fox ears, tattoo, fox tail, facial mark, fox girl, claws, furry, colored sclera, furry female, black sclera, body fur, white fur, yin yang, animal nose, long snout, two-tone fur, digimon (creature), yellow fur, upper body, cropped torso, steaming, (one tail:1.8) <lora:Renamon-10:0.8>
+night, dark, moon
+(((fur skin, seductive pose, bridal gauntlets, fox smile, eyes gloves, cowboy shot, flat chest))) (tattoo:1.8)

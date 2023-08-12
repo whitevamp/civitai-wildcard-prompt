@@ -1,0 +1,1 @@
+nsfw, (1girl) (digital) (in detailed art gallery, (monster, bikini, covered eyes)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> facehugger, <lora:facehugger:0.8>

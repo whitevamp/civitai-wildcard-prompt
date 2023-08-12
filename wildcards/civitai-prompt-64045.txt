@@ -1,0 +1,1 @@
+(masterpiece), white hair, long hair, gray eyes, town background, <lora:gachaSplashLORA_v40:1>, [(white background:1.5), ::5], (long shot), full body,  isometric, bronya, adult,<lora:bronya-silverwing_lion_optimizer_dim64_loraModel_1e-1noise_token2_5-3-2023:1.0>

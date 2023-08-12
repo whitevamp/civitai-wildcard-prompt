@@ -1,0 +1,1 @@
+1girl, solo, full body shot ,masterpiece, best quality, (photorealistic:1.4), a photo of a beautiful girl, sexy pose, white hair, sleek hair hair, dusk, perfect breast, (inside hospital, hospital bed in the back:1.2), smiling, red lips, (lip gloss:1.1), white skirt, <lora:add_detail:0.8>, crop shirt underboob, crop top, underboob, <lora:crop_shirt_underboob:0.7>

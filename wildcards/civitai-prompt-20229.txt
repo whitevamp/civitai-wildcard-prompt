@@ -1,0 +1,1 @@
+ANIMAL FOCUS, standing, sky and cloud,  <lora:YaeMikoFox:1> YaeMikoFox, holding, holding animal, no humans, multiple tails, smile, <lyco:Animorphs4-40:1.0>, <lora:CursedTails:0.3>TAILSTHEFOX, ANIMAL, ANIMAL FOCUS, fox,

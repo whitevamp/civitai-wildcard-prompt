@@ -1,0 +1,1 @@
+<lora:UraniumTech-20:0.8>,uraniumtech , radiation, transparent , scifi,   nuclear, <lora:Mecha:0.8>, mecha, big mecha, sword

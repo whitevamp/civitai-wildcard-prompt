@@ -1,0 +1,1 @@
+highres, <lora:butterfly:0.7>, flowers, 1girl, butterfly style, butterflies, soft moon light, look at viewer, <lora:add_detail:0.7>, ultra detailed, <lora:FenW-000012:0.7>

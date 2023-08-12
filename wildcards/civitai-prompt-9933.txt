@@ -1,0 +1,1 @@
+3dmm style, 8K, (masterpiece*high detailed*highres), sharp focus, Natural volumetric lights, soft lighting, animal_onesie, fuzzy_onesie, hood, animal_kigurumi, brown_eyes, black_hair, smiling, looking_at_viewer, symmetric_eyes, detailed_eyes, outdoor, forest, string_lights in trees, night, fireflies, evening,  barefoot, view_from_above,  <lora:3DMM_V11:0.8>

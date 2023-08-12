@@ -1,0 +1,1 @@
+<lora:glitchR01:0.4>,<lora:cyberhanfu_20230617014620:0.6> , glitchR01,Best quality, masterpiece, ultra high res, (photorealistic:1.4), 1girl, full_body , cyber_style_girl,vibrant concept art,Neon Dreams,fcPortrait, <lora:more_details:1>,

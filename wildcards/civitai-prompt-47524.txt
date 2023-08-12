@@ -1,0 +1,2 @@
+(masterpiece:1.3), (realistic:1.2), (extremely detailed CG:1.0), (intricate details:1.2), (1girl,:1.3) (pale skin:1.1), symmetrical background, blurry background, (perfect anatomy:1.2),
+thin waist, lustful expression, (18 y.o beautiful cute Korean girl:1.2), <lora:irene_V70:0.6>, short split ponytail, natural sagging breasts, Brunch outfit: maxi dress, wedges, floppy hat, crossbody bag, statement earrings., portrait,

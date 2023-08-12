@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.4),
+1girl, (sitting on wall:1.2), upper body, furry female, body fur, (white fur, white skin:1.4), digitigrade, from behind,
+white hair, long hair,
+black mask, (blue eyes, glowing eyes:1.4), looking back,
+nude, small breasts, (ass:1.2), (animal tail, white tail:1.2), hooves,
+(blue nipples, blue anus, blue pussy, glowing nipples, glowing anus, glowing pussy;1.2),
+<lora:kindred:1>
+BREAK,
+bricks, nature, jungle, magical forest, fantasy forest, grass, purple leaves, plants, glowing flowers, rocks, day,

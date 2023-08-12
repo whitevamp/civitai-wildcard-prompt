@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality,  SMTPixie, red hair, fairy wings, fairy, forest, front view, looking at viewer, seiza, <lora:PixieSMT:0.9>,  <lora:meryl-nvwls-v1:1.0>,  <lora:more_details:1.0>

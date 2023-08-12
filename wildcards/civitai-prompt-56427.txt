@@ -1,0 +1,1 @@
+(vtubermodel:1.2) fullbody , 1girl,  with black hair and orange eyes, smiling , (green hoodie:1), fluffy cat ears, fluffy cat tail , high quality , extra detailed , rendered, sharp face, symmetrical , facing viewer ,A-pose, (white background:1.5), looking at viewer <lora:vtubermodel_2700_lora:1.2>

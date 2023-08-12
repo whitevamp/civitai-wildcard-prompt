@@ -1,0 +1,1 @@
+((realistic, photorealistic)), ((best quality)), ((masterpiece)), ((detailed, extremely detailed)), Estonian monster, Estonian national monster, Estonian folklore monster,  <lora:more_details:0.5>

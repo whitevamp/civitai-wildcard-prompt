@@ -1,0 +1,3 @@
+Masterpiece, absurdres,award winning photo, extremely detailed, amazing, fine detail, extremely detailed eyes and face, by lee jeffries nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten, supermodel, tiny waist, excited, smiling,
+Urban_Gal, a woman with blonde hair and a turquoise top , (woman wearing Urban_Gal:1.12),
+gymtastic_yoga_croptop, turquoise, cleavage, multiple straps, woman wearing the gymtastic_yoga_croptop,  <lora:aug_gymtastic:0.75>

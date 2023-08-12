@@ -1,0 +1,1 @@
+1girl, naughty face, (rolling_eyes), (cross-eyed), (ahegao), open mouth, tongue out,  <lora:Ying_V10:0.45>, <lora:lydia_v1_35_50:0.2> , <lora:LingYanHuan_v1_31_10-000016:0.4> , <lora:ultimateAhegao_v10A:1>

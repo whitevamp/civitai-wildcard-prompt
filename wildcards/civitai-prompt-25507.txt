@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,forest,close-up,dutch braid, Passion Pink Tulle wedding dress,depth of field, day,Lying on the side, arm supporting head
+ <lora:slg_20:1.0>

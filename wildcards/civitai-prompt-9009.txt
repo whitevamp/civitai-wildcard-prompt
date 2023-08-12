@@ -1,0 +1,1 @@
+muscular man wearing baggy jeans and hoodie bettermalebody <lora:bettermalebody_v1.0:0.7> <lora:osirisd3_v7a:0.7>

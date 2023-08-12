@@ -1,0 +1,6 @@
+best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,warm color, black, 
+half naked,(see-through|areola slip|nipple_slip:0.9), (full body:1.2), 
+(1girl,solo),grey hair,brown hair, 
+((serenity, meditation, mindfulness), watercolor art, zen garden, minimalist design, bird's eye view, harmonic balance, impressionism, a touch of wabi-sabi, muted colors, contemplative art, inspired by Claude Monet, the fusion of simplicity and complexity:0.9),
+(lifelike rendering, immersive atmosphere, moody lighting,glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),
+<lora:lowra_v10:0.5>   <lora:dreamyGirlsFace_dreamyFace:0.45:FACE0.5> <lora:pantyPullPantyDrop_pantypullPantydropV1:0.85>, Pull Panty Drop

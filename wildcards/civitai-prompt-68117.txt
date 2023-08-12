@@ -1,0 +1,2 @@
+<lora:sung02:0.8>, photo of a woman, (wearing tennis_outfit, wearing tennis_hat, blue outfit:1.3), 
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts,(((tennis field))), outside,  <lora:tennis_outfit:0.5>

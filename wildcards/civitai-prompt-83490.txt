@@ -1,0 +1,4 @@
+selfie shot, 1girl, (messy hair in buns), ((blue hair)), pale skin, bare pale legs, wearing sneakers, (orange skirt), small chest, ((freckles)), ((looking at camera)), choker, tattoes, standing,
+shirtlift, <lora:shirtliftv3:1> ,  lifted shirt, ((orange bra)), lingerie, breasts, <lora:Perky-Breasts-V3:1> ,
+((mountains)), ((sunset)), (orange light), natural light, counter light,
+8k, hd, lots of detail, detailed, colorful, super detailed, dark studio, rim lighting, two tone lighting, spreading, (best quality, masterpiece), DSLR, high quality, Fujifilm XT3, film grain, award winning, stunning, analog style,

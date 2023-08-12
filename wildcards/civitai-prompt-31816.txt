@@ -1,0 +1,4 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1), detailed, extremely detailed 4K, perfect eyes, perfect face, perfect lighting, <lora:tool_addDetail:0.25>,(1girl, solo, adult female, mature female), <lora:detailed_eyes:0.7> ,
+[muscular], thin, thigh muscles, leg muscles,
+<lora:character_harunoSakuraNaruto_lykon:0.6> , pink hair, red eyes, haruno sakura, forehead mark, slit pupils, fangs, evil grin, horns, side slit, blood tear marks, 
+<lora:style_demonicTech_(demonictech):0.9>, demonictech, [demonictech japanese village background], (blood red moon), glowing red runes,

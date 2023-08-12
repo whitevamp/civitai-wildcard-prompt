@@ -1,0 +1,1 @@
+masterpiece, best quality, official art, 8k wallpaper, highly detailed, illustration, ((1 man)), detailed eyes, blue eyes, green gradient hanfu, intricate filigree,  dynamic pose, (iridescent colored long hair:1.1), (white hair:1.2), floating hair,  east asian architecture, chinese street, scenery, morning,<lora:Moxin_10:0.35> <lora:Moxin_Shukezouma11:0.35>

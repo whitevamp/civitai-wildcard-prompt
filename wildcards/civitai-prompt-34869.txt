@@ -1,0 +1,1 @@
+nsfw, (1girl, cyan eyes, <lora:shihaku-eye:1.5>, open mouth) (digital) ( lying in detailed shack (see-through, swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

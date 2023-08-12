@@ -1,0 +1,3 @@
+(high quality, best quality:1.2), masterpiece,extremely detailed, intricate detail, 
+BREAK <lora:GirlHidingFromTerminator:0.35>, (HidingFromTerminator:1.2), (sitting:1.1), (under table:1.1), [crying:horrified smile:5], wide open eyes, skeleton drinking coffee,
+BREAK a

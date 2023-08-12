@@ -1,0 +1,2 @@
+<lora:add_detail:0.5> <lora:copax_charm_eu:0.0> (1girl,3d, photorealistic,masterpiece, best quality, skin indentation), amused, upper body, seductive pose,
+aunt cass <lora:aunt_cass_dis:0.7>

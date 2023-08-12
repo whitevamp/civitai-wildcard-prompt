@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (ultra detailed:1.2), <lora:add_detail_v5:1>, <lora:sharpen-soften:-0.25>, <lora:realistic:0.3>, <lora:kittew_v0.1:0.4>,
+1 girl, adult  woman, freckles, amber eyes, blonde fishtail braid,
+(style-swirlmagic:0.7), looking at viewer, solo, (full body:0.6), detailed background, detailed face, (eastern dragon theme:1.1),   monk, dynamic pose, fighting stance, clenched fist, striking, fingerless gloves, wristwraps,  martial arts themed clothes, monk robes, underground cellar in background, swirling floating particles, dust cloud,  dynamic composition, epic eastern medieval atmosphere,

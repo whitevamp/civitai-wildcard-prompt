@@ -1,0 +1,2 @@
+A man walking out of a dark cave with a torch,
+<lora:pixelbuildings128-v1:1>

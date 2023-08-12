@@ -1,0 +1,1 @@
+1girl,lion dance,fractal art,colorful picture,film composition,white light source,depth of field,Film Lens,<lora:add_detail:-0.5>,

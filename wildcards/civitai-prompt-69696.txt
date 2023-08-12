@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl,dynamic pose, 
+softlight,realistic, photorealistic, character portrait, 
+cinemagraph, sony, depth of field, soft focus, 
+ <lora:oc_v10:0.5> <lora:FilmG2:0.4>

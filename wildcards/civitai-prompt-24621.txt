@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+<lora:fran-nvwls-v3:0.85> fran, viera, revealing clothes, high heels
+(wearing sexy latex bodysuit), leaning back, sitting, front view, looking at viewer,  inside a dining room, noon, midday, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.1> (hyper realism, soft light, dramatic light, sharp, HDR)

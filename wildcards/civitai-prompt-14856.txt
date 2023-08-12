@@ -1,0 +1,1 @@
+(best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (8k, RAW photo:1.2), portrait of beautiful spider-gwen, big butt, blonde hair, wearing spider gwen costume, (wearing hood:1.1), full bodysuit <lyco:spider_gwen:1.0>, <lora:hi_top_fade_hairstyle:0.5>, (hi_top_fade_hairstyle:1), (full body), skyscrapers background,  looking at camera,

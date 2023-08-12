@@ -1,0 +1,1 @@
+ultra-detailed, dark theme, dark, horror, eyes covered, morbid, ominous, solo, 1boy, male focus, alucard, tongue, smile, dark, evil smile, blood,  lightly blurry, film portrait photography, 35mm film, filmg, <lora:STYLE_FilmG3:0.25> <lora:improve_backgrounds:0.2>  <lora:HorrorBundleAI:0.4>  <lora:STYLE_LowRA:0.3> <lora:alucardserasintegra:0.8>

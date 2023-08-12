@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1), (realistic, photo-realistic:1), soft light, 1girl, breasts, long hair, cleavage, solo, black hair, hair ornament, petals, sash, jewelry, looking at viewer, parted lips, chinese clothes, dress, flower, lantern, sitting, indoors, Slender legs,  <lora:hanfu_v28:0.5> <lora:hanfuSong_v31:0.7> <lora:japaneseDollLikeness_v10:0.2>

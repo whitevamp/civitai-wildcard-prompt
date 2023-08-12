@@ -1,0 +1,1 @@
+best quality, masterpiece, highres,1girl,beautiful face,1girl,beautiful,upper body, very_long_blonde_hair,white dress,off-shoulder jacket,   extremely_clothes, miniskirt, ((pleated skirt)),<lora:breastinclassBetter_v13:0.5>, (cutout:1.3),wet, <lora:fashionGirl_v40:0.2>, (((no panties))),, <lora:koreanDollLikeness_v15:0.5>

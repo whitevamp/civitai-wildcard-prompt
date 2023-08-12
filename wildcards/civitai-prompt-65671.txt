@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),absurdres,
+Iris blossom in the pot, fantasy creature,
+ CircuitBoardAI, <lora:CircuitBoardAI:0.9>

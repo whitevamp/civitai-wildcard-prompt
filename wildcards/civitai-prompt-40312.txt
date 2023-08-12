@@ -1,0 +1,2 @@
+Cowboy shot, (best quality, masterpiece, perfect face), 1girl, elf, DARK_Glam, pointed ears, red eyes, heavy makeup, black hair, black lips, gothic armor, fishnet stockings, dark castle, night, (hyper realism, moonlight rays, sharp, HDR)
+ <lora:Goth_DRK:0.7>,  <lora:add_detail:0.5>

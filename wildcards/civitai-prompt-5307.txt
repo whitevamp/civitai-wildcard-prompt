@@ -1,0 +1,5 @@
+<lora:pasties:0.6> <lora:epi_noiseoffset-v2:1> (photorealistic:1.5), 
+(cowboy shot, extremely beautiful, perfect face, masterpiece, best quality, absurdres, 8k:1.2), 
+(1girl, iridescent blue hair, long hair, twin tails, twintails, punk, 20yo, captivating eyes, hourglass figure, thick eyelashes, black makeup, black eyeshadow, eyeliner, happy, model pose:1.1), 
+(leather miniskirt, leather jacket, rivets, spiked collar, bare midriff, small breasts, boobs out, black pasties:1.1),
+cityscape, rainsoaked street at night, city lights, Tom Bagshaw

@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), hyper detailed, 4K, raw photo, 1girl, natural skin texture, full body, (blonde hair:1.2), wearing wedding dress, modeling for playboy, white, film grain,  outdoors, modern architecture, Hollywood, high fashion, top model, bauhaus, <lora:InstantPhotoX3:0.6>  <lora:ClothingAdjuster3:0.2>

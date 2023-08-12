@@ -1,0 +1,1 @@
+(fashion photography), Best quality, (half body view), masterpiece, ultra high res, (photorealistic:1.2), raw photo, uhd, 1woman, natural skin texture, realistic eye and face details, ((dreamy)), cinematic lighting, Italian city, black mini skirt, snowing <lora:JapaneseDollLikeness_v15:0.2>  <lora:AV_Suzumura:0.4>

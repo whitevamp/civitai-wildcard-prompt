@@ -1,0 +1,2 @@
+anime,solo,masterpiece, best quality, detailed,looking at viewer,full body,perfect female body
+ <lora:girlsFrontlineOts14_v30:1>redgown

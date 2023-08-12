@@ -1,0 +1,3 @@
+([Anna Kournikova:Nyusha:0.6]:0.1) Female Russian Young Adult, Petite Body, Flat Chest, Blue Eyes, Freckles, Blonde,Black High Collar Skin Tight Biker Suit With Gold Accent Color, lightning
+A place with a very vast nature with big trees and lots of vegetation, 
+ <lora:PenSketchStyle_v13:1> penSketch_style, monochrome, ink sketch

@@ -1,0 +1,1 @@
+detailed face,  blue eyes, <lora:epi_noiseoffset2:0.6>, colorful

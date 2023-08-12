@@ -1,0 +1,1 @@
+analog style, modelshoot style, portrait of sks woman, feminine, epic (photo, studio lighting, hard light, sony a7, 50 mm, matte skin, pores, colors, hyperdetailed, hyperrealistic), <lora:locon_maisie_v1_from_v1_64_32:1.4>

@@ -1,0 +1,9 @@
+masterpiece, best quality, highres,
+BREAK
+,
+ (spoken hearts:1.2),(sweat:1.2),(deep breathe:1.2),on bed,(steam:1.2) 
+ , [<lora:POV_KISS:0.35> #decrease],( 1boy), 1girl, breasts, collarbone,  girl on top, hetero,pov,solo focus,(straddling), thighs,outstretched arms,looking at viewer,cleavage, 
+BREAK
+, 
+, <lora:yuigahama_yui-01:0.8>, yui, pink hair, short hair, side hair bun, pink eyes,
+ sobu high school uniform, black blazer , white shirt, red ribbon, plaid skirt, ,

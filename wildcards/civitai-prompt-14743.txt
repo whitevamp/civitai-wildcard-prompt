@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.2), (retro artstyle, 1990s \(style\):1.2), intricate details, vibrant image, sharp focus, trending on pixiv
+HayamiAyuko, solo, mature female, 40yo, milf, (dark skinned female:1.2), (dark skin:1.1), posing, pool, 
+black hair, short hair, (makeup:1.05), brown eyes, perfect eyes, perfect face, detailed hair, detailed face,
+swimsuit, one-piece swimsuit, 
+curvy, thighs, large breasts, cleavage,
+ <lora:HayamiAyuko:0.9>

@@ -1,0 +1,1 @@
+1girl,paimon \(genshin impact\),white hair, <lora:childrensDrawingLora_v10:1.2> <lora:paimonGenshinImpact_v10:0.6>

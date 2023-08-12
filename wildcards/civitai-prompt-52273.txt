@@ -1,0 +1,1 @@
+1girl, solo, standing, brown eyes, straight hair, sidelocks, medium hair, light smile, closed mouth, outdoors, intricate background, male school uniform, (brick:1.1), antique, (shopping:1.2), rotting billboard, bottle, <lora:tenma_kiruko-Lion-V1-000015:1>  <lora:LoconLoraAirconditioner_loraVersion:0.6>

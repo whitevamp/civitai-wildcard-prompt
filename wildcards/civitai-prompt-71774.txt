@@ -1,0 +1,2 @@
+wide shot,<lora:sd-No.405v2-000002:0.9>, (masterpiece,best quality, 8k, RAW photo,beautiful and aesthetic:1.4), 1girl, solo, skinny, lighting, very short hair,  uncensored,  mechanical parts,  <lora:reelmech>, cyberpunk, foreshortening, dynamic view, torn tight supersuit, navel_focus, from above, cyber car. looking_up
+scenery, outdoors, building, sky, cloud, sunset, city, downtown, Street,

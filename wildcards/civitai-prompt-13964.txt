@@ -1,0 +1,1 @@
+old man, looking at viewer, smile, closed mouth, upper body <lora:DisintegrationEffect:0.75> DisintegrationEffect, sunset

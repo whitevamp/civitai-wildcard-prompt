@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, (wearing demon_cosplay_outfit:1.3), full red moon, covered in blood, demon_wings,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts, outside,  <lora:demon_cosplay_outfit:0.6>

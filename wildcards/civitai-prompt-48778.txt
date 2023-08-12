@@ -1,0 +1,1 @@
+tarot style,big sun,stone pillar,1girl,solo,censored,looking at viewer,sun,bright,flat view,sitting in the golden throne, <lora:animeTarotCardArtStyleLora_v31:0.8>,Symmetries, <lora:eyeLora_eyesV10:0.75>,beautiful eyes, <lora:Japanese-doll-likeness:0.4>,masterpiece, best quality, day, in spring, sun, sky, background, full body,high heel,

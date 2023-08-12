@@ -1,0 +1,1 @@
+masterpiece, best quality,highres, a girl wearing origami styled functional design clothing, <lora:Newspaper:0.4>, (newspaper background:0.8), thick hair, (smile:0.3),Excellent head-to-shoulder ratio, bangs,detailed face, <lora:more_details:0.7>, full body, colored hair

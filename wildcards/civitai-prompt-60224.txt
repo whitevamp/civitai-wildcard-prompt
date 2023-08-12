@@ -1,0 +1,2 @@
+modern photograph, voluminous scene, sunny detailed jungle, high resolution texture, low key
+<lora:lowra_v10:0.6>

@@ -1,0 +1,1 @@
+<lora:karrambabyV1:0.8>, karrambaby, short_hair, looking at camera, portrait,

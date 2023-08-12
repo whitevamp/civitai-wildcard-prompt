@@ -1,0 +1,8 @@
+1girl, sitting(edge), boat deck, sailing,
+eyelashes, red eyeliner, makeup, earrings, bracelets,
+soft pastel colors, soft lighting, low key,
+RAW phot, 8k, best quality, ultra high res, beautiful,
+official art, unity 8K wallpaper, utra detailed, beautiful and aesthetic,
+(photorealistic:1.4), (extremely intricate:1.2),
+(exquisitely detailes skin), perfect anatomy, best shadow, delicate,
+tindal effect, shade, bloom, backlighting, depth of field, hard focus, film grain, <lora:epi_noiseoffset2:1>

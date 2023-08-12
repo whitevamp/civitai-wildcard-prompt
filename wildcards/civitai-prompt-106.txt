@@ -1,0 +1,2 @@
+(best quality, masterpiece),  dramatic,
+1girl,  princess peach, park, bunnies,   leafs , <lora:peach:0.6>, (best quality, masterpiece), <lyco:GoodHands-beta2:1.0>, <lora:blindbox_v1_mix:1>

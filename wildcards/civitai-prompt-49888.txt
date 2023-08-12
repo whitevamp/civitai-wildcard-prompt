@@ -1,0 +1,1 @@
+(1girl),gigantic_breasts,cleavage,solo, best quality, masterpiece,face close-up,indoors,red dress,standing,light to body,<lora:mix_3:1>, ,<lora:zekiaAruRinh_v10:0.5:faceL>, <lora:fashionGirl_v50:0.3:faceL>,<lora:yaeMikoRealistic_yaemikoMixed:0.5:faceL>, <lora:shojovibe_v11:0.5>

@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.4), colorful, vibrant image, sharp focus, highly detailed, intricate, digital art, HDR, 8K, 
+Morathi (is casting dark purple fire spells by her hands:1.1), twilight sunset (purple sky:1.2) and (dark purple wasteland fields:1.1) complex background, evil smile glance, (tricky glance:1.1), looking at viewer, (cowboy shot:1.05), (side view:0.75), 
+black hair, very long hair, braid, lipstick, makeup, black eyeshadow, smokey eyes, detailed hair, detailed face, (realistic perfect eyes:1.1), perfect face, 
+horns, ultra detailed symmetric balanced helmet, dark magenta symmetric bikini armor, pauldrons, pelvic curtain, vambraces, 
+[pale | purple skin], mature female, 30yo, curvy, (Large Breasts:1.1), cleavage, <lora:Morathi:0.9>, <lora:epi_noiseoffset2:1>, <lora:GoodHands-beta2:1>,

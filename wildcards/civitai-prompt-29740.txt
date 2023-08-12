@@ -1,0 +1,10 @@
+girl with (Brawny,Athletic body:1.2),
+nsfw, (bottomless:1.2),
+(geta,over-kneehighs:1),
+(Gobo,Soft frost filter:0.8),
+(Dazzling,Fine:0.8),
+<lyco:LowRA:0.1>
+<lyco:add_detail:0.4>
+<lyco:breastinclassBetter:0.4>
+<lyco:GodPussy1 v3:0.2>
+, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2]

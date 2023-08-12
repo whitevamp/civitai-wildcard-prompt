@@ -1,0 +1,1 @@
+<lora:liuyifei:0.92> <lora:shojovibe_v11:0.2>,upper body,swimsuit, middle breasts, 8k,(realistic, photo-realistic:1.1),physically-based rendering,radiosity,professional lighting, photon mapping ,

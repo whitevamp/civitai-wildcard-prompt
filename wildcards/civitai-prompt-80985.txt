@@ -1,0 +1,1 @@
+1girl, solo, android 18, blonde hair, blue eyes, short hair, jewelry, earrings, jacket, denim, denim jacket, upper body:1.0, lingerie, closed mouth, cloud, sky, day, {{looking at viewer}}, blue sky, collarbone,<lora:android18DragonBall_one:1.0>,indoor,{{black eyeline:0.0}},{{black eyeshadow:0.0}},arrogant expression,sharp chin,big eyes,

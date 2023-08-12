@@ -1,0 +1,1 @@
+RAW, 1girl, colorful, full body shot, <lora:CrysisNanosuit:0.3>, (masterpiece, best quality), (detailed skin:1.3, detailed face:1.3), dslr, realistic, looking at viewer, sharp focus, delicate, soft colors, cinematic lighting

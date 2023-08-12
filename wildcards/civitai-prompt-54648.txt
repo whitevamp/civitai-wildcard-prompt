@@ -1,0 +1,5 @@
+<lora:20d_v10:0.6>,20d,<lora:mix4.QQgS:0.4>,mix4,,saika1,look_at_viewer, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,(full body),
+Prompt: 1girls,silver long hair, sexy, see-through skirt,lowleg skirt,black high_heels,(unbuttoned clothes),
+high waist ,slim body,stovepipe,
+standing,legs together,
+evening,outdoors, Bustling city, road,facing viewer,wide shot,  night sky, night,running, rain, rainy, (wet:1.1)

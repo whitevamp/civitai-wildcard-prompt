@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece, <lora:add_detail:1>,
+0.35 :: medium shot , angled shot from the side , from below ,
+1girl, sophitia,  <lyco:Sophitia_LoCon:0.3>,  an extremely beautiful 25-year-old Caucasian milf,  blonde hair,  long hair, low-tied_long_hair, hair_ribbon, blue_ribbon,  single_braid, green eyes, shiny skin, flawless skin, fair skin, cleavage, jewelry, wedding ring, (large breasts:1.35), light blush,  solo  , looking at viewer,
+nipples show through the clothes, sweat, seduction, nsfw,
+((crop shirt underboob, crop top, underboob, nipples show through the shirt, <lora:crop_shirt_underboob:0.7>) :1.2),
+(0.05 :: gravure pose :1.3),
+at dawn ,
+Banks of the Seine ,

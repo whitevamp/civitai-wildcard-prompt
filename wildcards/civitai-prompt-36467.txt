@@ -1,0 +1,4 @@
+(((masterpiece, best quality, illustration, finely detail))),((extremely detailed cg unity 8k wallpaper, highres)),amazing,
+,solo,
+mecha, (red:2),<lora:不是青花瓷第三代-但是机甲:0.8>
+,high saturation,low brightness,

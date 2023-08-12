@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, highres:1.2), (realistic, photo-realistic:1.37) , chinese male, chinese, cape, armor, holding weapon,solo, 1boy, strong, muscular male, wide waist, fire, black suit armor, (big eyes), riding, helmet, wide face, random face, eyes, loyalty, bravery , martial prowess, facial hair,<lora:TheThreeKingdoms_v0999:0.8>, <lora:LoraThreeKingdoms_loraV10:0.8>

@@ -1,0 +1,7 @@
+best quality, intricate details, full body,
+
+
+1girl,   
+
+ <lora:VillageSuccubus_v2:0.8>Village_Succubus, obscenity_tattoo
+ <lora:sarashiFundoshi_v10:1> (sarashi, fundoshi:1.3)

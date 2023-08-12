@@ -1,0 +1,2 @@
+((masterpiece, best quality;1.3)), ultra detailed, 1girl, solo,Lain Iwakura (Serial Experiments Lain),school uniform, looking at viewer,cute girl, lying, cyber punk, lots of computers, <lora:LainIwakuraSerialExperimentsLain0:1> 
+lots of large CRT monitors, hacker's room, lots of power cordS,lots of power keyboards, FROM above, <lora:add_detail:1>, white board,

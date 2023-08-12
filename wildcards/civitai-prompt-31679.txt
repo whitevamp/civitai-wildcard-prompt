@@ -1,0 +1,8 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), (sitting under tree:1.2), under tree,
+black hair, (short hair, long sidelocks:1.2),
+red eyes, looking at viewer,
+smile,
+medium breasts,
+white t-shirt, sleeveless,
+outdoors, forest, nature, grass, tall grass, detailed grass, rocks, flowers, plants,
+<lora:Tomboy:1>  

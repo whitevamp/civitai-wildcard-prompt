@@ -1,0 +1,1 @@
+highly detailed, <lora:epiNoieseOffsetV2:1>,

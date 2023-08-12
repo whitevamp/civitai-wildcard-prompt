@@ -1,0 +1,6 @@
+realistic photo, masterpiece, high quality, best quality, hyper detailed, HDR,
+Canon50, Rendered by octane, 8k, By art germ, Vivacious
+1girl (solo:1.1), (cute:1.1), stunningly attractive, perfect feminine face, (happy:0.7), playful, 
+excited, 
+upper body <lora:sxzLuma_098VAE:0.3> <lora:Style NijiexpressiveV1 v10:0.45> <lora:revAnimated_v122:0.45>
+<lora:dana-nvwls-v2:1> dana iclucia

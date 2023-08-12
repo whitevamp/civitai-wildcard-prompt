@@ -1,0 +1,7 @@
+<lora:mbj:0.7:FACE>
+Character	The man, his figure is fit and athletic, his eyes are focused and determined, reflecting his dedication to fitness.
+Expression	His eyes are intense and forward-looking, reflecting his concentration, and his lips are set in a firm line of determination.
+Outfit	He is dressed in running gear, a moisture-wicking shirt, running shorts, and sports shoes. He wears a sweatband on his forehead, and his hair is tousled from the run.
+Action	He is seen jogging up a mountain trail, his stance balanced, his body moving rhythmically with each stride.
+Foreground	The foreground shows the rocky mountain trail, the man's sneakers kicking up dust, and his water bottle secured in a belt pouch.
+Background	The backdrop is a picturesque mountain trail, the rising sun casting long shadows, birds in flight against the pastel sky, and a breathtaking view of the valley below.

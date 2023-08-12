@@ -1,0 +1,1 @@
+masterpiece, best quality, (colorful), (delicate eyes and face), volumetric light, ray tracing, extremely detailed CG unity 8k wallpaper, dark theme, low key, <lora:Serana_10_10:0.5> serana, red glowing eyes, black hair, (looking at viewer:1.1), nude, nipples, captivating pose, dark background,  <lora:lowra_v10:0.5>

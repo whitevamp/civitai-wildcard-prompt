@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (highly detailed:1.2),(detailed face:1.2), (detailed background),detailed landscape, (dynamic pose:1.2), <lora:anna:0.7>anna, 1girl, solo, long hair, smile, blonde hair, green eyes, freckles <lora:more_details:0.5>

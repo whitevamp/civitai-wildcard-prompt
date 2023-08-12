@@ -1,0 +1,3 @@
+((Masterpiece, best quality)),edgQuality,smirk,smug, hair inside the hood,
+edgCultist, 1girl, solo,  looking at viewer, hood, glowing eyes , black background, portrait, glowing eyes, cloak, dark, hooded cloak ,wearing edgCultist_hood,ominous,dark
+<lora:edgCultistHood:1>  <lora:MarinKitagawa:0.65>gradient blonde hair color, piercings, choker,red eyes,

@@ -1,0 +1,2 @@
+(1girl:1.2),(boltedonbutt,happy,aroused:1.5),narrow_waist,skinny,looking_at_viewer,(clothed,covered,elegant_dress,detailed_dress,long_dress,red_dress:1.4),BREAK,(detailed_pretty_face,pretty_eyes,looking_at_viewer,very_long_Hair,multicoloured_hair,bracelet,necklace,earrings:1.1),big_lips,gigantic_hips,huge_ass,(small_boobs:1.3),(dark_sky,city,street,wall,neon,blurry_bakground:1.1), <lora:add_detail:0.9>,
+ <lora:boltedonbuttV9:0.4>

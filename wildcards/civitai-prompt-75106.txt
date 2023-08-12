@@ -1,0 +1,1 @@
+[Robots:blackhawk:0.3] ,  blurry lens, studio, <lora:FINAL Robort:0.5>,  <lora:nijiMecha:0.6> , ((bokeh))  ((leds lights)),  AnaD Style-Petal

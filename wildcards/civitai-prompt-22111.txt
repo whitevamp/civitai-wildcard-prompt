@@ -1,0 +1,1 @@
+best quality, masterpiece, <lora:more_details:0.3>,<lyco:GoodHands-beta2:1>, nijistyle lara croft, single braid, blue tank top, brown shorts, fingerless gloves, holster <lora:sxz-niji-v2:0.5> <lora:tombraider_classiclaracroft:0.6>

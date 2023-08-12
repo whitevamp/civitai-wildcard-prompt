@@ -1,0 +1,3 @@
+1 elf girl, silver hair, very_long_hair, skin blemish, detailed skin, shiny skin, massive mammaries, hourglass figure, naked, nude, legs,  
+masterpiece, best quality, high resolution, 8K , HDR, bloom, sun light, raytracing , detailed shadows, intricate tree shadow, bokeh, depth of field, film photography, film grain, glare, (wind:0.8), detailed hair, beautiful face, beautiful girl, ultra detailed eyes, cinematic lighting, naked, (hyperdetailed:1.15), outdoors, river, ancient civilizations architectures, 
+<lora:polyhedron_skinny_all:0.6> <lora:tangbohu-detailer_1.0:1> <lora:detailed_eye-10:0.6> <lora:very_long_hair-10:0.6> <lora:MyBreastHelperReducedRS:1>

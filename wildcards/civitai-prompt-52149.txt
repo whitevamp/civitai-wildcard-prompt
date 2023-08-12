@@ -1,0 +1,5 @@
+((full body:1.5))
+delicate, masterpiece, beautiful detailed, colourful, finely detailed, intricate details,detailed lips,elegance,pornography,(1 girl:1.1),solo, (a beautiful 30 age years old sexy Korean girl:1.2), instagram, (kpop idol, korean mixed), (black hair+tied up:1.3), (50mm Sigma f/1.4 ZEISS lens, F1.4, 1/800s, ISO 100, photograpy:1.1), (large breast:0.75), (photorealistic:0.8),(dark hospital basement room:1.5), (medicine storage:1), (medical instrument storage:1), (shelves with syringes:1) (gloomy:1.5),standing,(sexy tight latex nurse, latex nurse cap :1.75),sexy smile,earrings, (black ripped sexy pantyhose:1.1), (slim girl:1.75)
+
+ <lora:epiNoiseoffset_v2:1.8>
+(rim light:1.75)

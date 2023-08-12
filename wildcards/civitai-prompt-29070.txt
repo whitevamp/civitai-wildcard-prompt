@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:RPGWarforged:0.8> warforged, armor, rusty, dented, damaged, red eyes, warlock, casting spell,( arcane sigils, magic,  glowing aura:1.2), breastplate, female, 
+ <lora:GlowingRunesAI:0.4> glowingrunesai,  <lora:EnergyVeins:0.4> <lora:Unholy:0.5> sp3ct4,
+  <lora:Elixir:0.4> <lora:more_details:0.6> <lora:JourneyLoRA:0.3> <lora:add_detail:0.45> <lora:LowRA:0.4>

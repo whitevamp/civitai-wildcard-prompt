@@ -1,0 +1,1 @@
+Cu73Cre4ture, corgi wearing armor, crystallineai_armor,meadow,bow <lora:CuteCreatures:0.9> <lora:crystallineai_v10:0.4>

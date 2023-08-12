@@ -1,0 +1,5 @@
+headless, transformation, 1girl, (8k, highres,  masterpiece, best quality, perfect lighting, realistic, instagram),full body, 
+a photo of a beautiful girl, (lying on back:1.1), on bed, at interior design store, detailed background,
+BREAK 
+<lora:flat2:-0.8> 
+huge breasts, narrow waist, (white school uniform, serafuku, black collar, pleated miniskirt:1.2), short sleeves, cotton panties,  <lora:Headless-v1:1>,   <lora:sex_toy_transformation:1.2>

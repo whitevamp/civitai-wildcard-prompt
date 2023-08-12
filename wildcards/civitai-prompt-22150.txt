@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed skin:1), , absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose,
+
+beautiful blonde haired girl, shopping, white leggings, off shoulder, holding bags, skin focus, high fashion, belted, cleavage, glistening skin,
+
+<hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1>

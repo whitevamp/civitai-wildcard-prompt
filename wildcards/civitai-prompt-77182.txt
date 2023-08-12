@@ -1,0 +1,1 @@
+splash00d, zombie, (very long ropes:1.3), bold <lora:splash00d-000008:1>

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:Saitama:1>, saitama, anime, one punch, 1boy, white cape, red gloves, belt  , <lora:BaldifierW2:-2> ,

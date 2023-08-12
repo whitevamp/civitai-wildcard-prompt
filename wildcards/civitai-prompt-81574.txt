@@ -1,0 +1,4 @@
+(sexy white oversized_hoodie:1.0) BREAK
+[1boy:1girl:0.3], tomboy, solo, very short black hair, messy hair, pixie cut, tan, (muscular:0.9), (large breasts:1), (medium breasts: 0.25), full-face blush, choker, BREAK
+new york city sidewalk, dramatic lighting, absurdres, best quality, clouds, golden hour, sunlight
+<lora:GoodHands-vanilla:1><lora:oversized_sweater:.5>

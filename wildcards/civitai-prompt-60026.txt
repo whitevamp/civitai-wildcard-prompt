@@ -1,0 +1,4 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+lifelike rendering, immersive atmosphere, chiaroscuro, moody lighting, premium artwork,
+1girl,solo,(half-naked:0.8),emotional expressions,(greasy skin:0.5),outdoor,
+<lora:lowra_v10:0.5>  <lora:oc_v10:0.25>

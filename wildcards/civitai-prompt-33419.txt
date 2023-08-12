@@ -1,0 +1,8 @@
+<lora:add_detail:0.5>,<lora:style 1:0.6>,
+best quality,masterpiece,ultra-detailed,illustration,detailed light,an extremely delicate and beautiful,extremely detailed wallpaper,incredibly_absurdres,ray tracing,Wide Shot,panorama,trim,
+(nature:1.1),(scenery:1.4),(beautiful sky:1.2),starry sky,(mountain:1.1),(valley:1.1),(lake:0.8),(forest:1.1),(cloud:1.1),grass,fog,flower,stone,rock,peak,(castle on the mountain:1.1),
+solo,1girl,a beautiful girl,full body shot,white coat,grey extra long hair,standding,travel backpack,facing away,Belts,leg loops,
+AND (spring:1.5),(light green style:1.2),
+AND (summer:1.5),(vivid color style:1.2),
+AND (autumn:1.5),(light yellow style:1.2),
+AND (winter:1.5),(grey style:1.2),

@@ -1,0 +1,6 @@
+masterpiece, best quality, RAW photo ,   stunningly beautiful ,  
+( <lora:sxz-worgen:0.7>, shedrn, hedrn : 0.8 ) ,  kneeling  ,
+ bodycon  , 
+Riding a motorcycle across country ,at A dark, labyrinthine cave system filled with precious gems and deadly creatures  , 
+  ink drips , graffiti art , insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr , faded    , 
+ <lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:1>  ,  white background  ,  POV, nikon d850, film stock photograph ,4 kodak portra 400 ,camera f1.6 lens ,rich colors ,hyper realistic ,lifelike texture, dramatic lighting , cinestill 800 , <lora:add_detail:0.3>  ,  <lora:ClothingAdjuster:-0.3  >

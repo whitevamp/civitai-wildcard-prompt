@@ -1,0 +1,1 @@
+<lora:LatexAIV2:.8> LatexAI_black   shoes

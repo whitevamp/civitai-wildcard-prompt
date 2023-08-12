@@ -1,0 +1,1 @@
+full body photo of CCindyJaneDoe:0.8, garterbelt, bdnc, blindfold, <lora:CoolWear:0.8>, <lora:VividColorDetail_v1:0.6>, <lyco:BDNC:0.7>, <lora:blindfold_lora01:0.8>

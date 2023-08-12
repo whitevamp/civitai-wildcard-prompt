@@ -1,0 +1,1 @@
+(masterpiece, best quality, ultra-detailed, highres),1 girl,solo,full body,maiShiranui,black hair, <lora:maiShiranui_v1:0.6>,huge torii,floating ofuda,(floating colorful {wind|water magic|ink|crystals|fire|ice|flame|lightning|web|rocks|sand|particles|sparkles|blood}:1),

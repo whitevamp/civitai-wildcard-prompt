@@ -1,0 +1,2 @@
+silver dragonborn, male, horns, solo, scales, armor, tail, shoulder armor, pauldrons, upper body, closed mouth, black background
+, ((masterpiece, best quality)), art by greg rutkowski  <lora:dragonborn_offset:1>

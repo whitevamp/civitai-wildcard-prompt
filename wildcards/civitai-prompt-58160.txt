@@ -1,0 +1,5 @@
+lucy \(cyberpunk\),
+
+1girl, naked, ice, ice cubes, nipples, cyborg, (robot joints:0.5) , neon palette, nude, science fiction, short hair, solo, indoors, bathtub, cables, night, half body, submerged in water, dark room, close up, ((mechanical parts))
+cyberpunk edgerunners,
+<lora:lucy_offset:1>

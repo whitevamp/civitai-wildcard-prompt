@@ -1,0 +1,9 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (photoreal:1.5),
+BREAK
+1 girl  with a bunch of candy and a candy machine in her hand and a pink background with stars, full body,smiling
+break
+Alice Prin, photo, a detailed painting, pop surrealism, (neon color hair:1.5),strong wind,giant marshmallow candy machine
+break
+needlework, intricate designs, textile art, handmade details, creative expression, colorful threads, cyberpunk, neo-dada
+BREAK
+<lora:lovely_himeno:0.7>, <lyco:toysea-000015:1.0>

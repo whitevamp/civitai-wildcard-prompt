@@ -1,0 +1,4 @@
+masterpiece, best quality, higher,Photograph, high resolution, 4k,high quality, volumetric lighting, 8k,realistic, Bokeh, 
+
+ beautiful detailed eyes, beautiful detailed face,  beautiful face, 
+1girl, <lora:liuyifei_10:0.8>,long face,black eyes, black pupils,

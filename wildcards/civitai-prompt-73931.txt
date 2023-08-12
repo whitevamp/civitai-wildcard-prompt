@@ -1,0 +1,2 @@
+masterpiece, best quality, toon,3d,town
+  <lora:toon_mix:0.6>

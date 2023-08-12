@@ -1,0 +1,2 @@
+(2girls), smile, child, nahidadef, upper body, holding hands, forest
+AND (2girls), smile, child, kleedef, upper body, holding hands, forest <lora:genshinfull1:1>

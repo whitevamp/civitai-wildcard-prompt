@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed), 1girl, solo, towel over breasts, shiraki meiko, upper body, indoors, bathroom <lora:towel_over_breasts_v0.1:1> <lora:more_details:0.3> <lora:ShirakiMeikoV21-000004:1>

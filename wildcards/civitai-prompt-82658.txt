@@ -1,0 +1,8 @@
+(masterpiece, best quality, high quality, highres:1.2), ultra high res, absurdres, sharp focus, detailed,
+standing, cowboy shot,
+1girl, neuro-sama, brown cardigan, bowtie, sailor collar, buttons, ahoge, heart hair ornament, open mouth, (happy:1.1), (eating, ice cream:1.1),
+blue eyes, (finely-detailed eyes:1.1), sharp pupils, perfect hands, skinny,
+detailed skin, shiny skin,
+outdoors, park, daytime,
+detailed background, brilliant colorful, subsurface scattering, volumetric lighting, extremely detailed 
+<lora:NeuroTEST:0.6> <lora:add_sharpness:-0.6>

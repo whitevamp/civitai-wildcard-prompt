@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo cute girl, nude, large breasts, (covering breasts:1.2), silver short hair, blush, (covering crotch:1.2),
+upper body,
+onsen, outdoors,
+<lora:qqq-covering_breasts_crotch-v1-000015:0.6>

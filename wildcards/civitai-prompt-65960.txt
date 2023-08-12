@@ -1,0 +1,2 @@
+(realistic:1.4), 
+<lora:OC:0.25>, <lora:nwsjmajic-10:0.55>

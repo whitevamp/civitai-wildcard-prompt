@@ -1,0 +1,4 @@
+1girl, solo, jewelry, necklace, blue-beaded earring,YunaFFX,one_eye_green, one_eye_blue,
+ultra high res, photo, photorealistic, highly detailed, detailed face, solo cute woman, castle balcony,
+medium  breasts, (masterpiece, high quality),looking at viewer, gorgeous goddess, bob cut, shiny skin,
+charming, alluring, dreamlike, royal cloak, ((thick bangs)), <lora:YunaFFX-V2:0.8>,(((completely nude))),

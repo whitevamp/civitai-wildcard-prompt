@@ -1,0 +1,11 @@
+(8K RAW photo, best quality, sublime masterpiece:1.3), (realistic, photo-realistic:1.5), extremely delicate and beautiful photograph, ((full body)), CG, unity, extremely detailed, finely detail, ultra-detailed, extremely detailed, high res, absurdres, incredibly absurdres,
+1girl, pretty beautiful girl, nude, naked, ((nsfw)), ((sexy pose, spread legs, showing pussy)), (smile), looking at viewer,
+long hair, (silver hair), bangs, asymmetrical bangs, short bangs,
+extremely detailed eyes and face, beautiful detailed eyes, ((aqua-blue eyes)), long eyelashes, beautiful nose, thin lips,
+slim waist, perfect female figure, collarbone, (large breast:1.2), areola nipples, perfect nipples, (godpussy1, front pussy), shaved pussy, high thighs, smooth skin, white skin, (wet skin),
+lace, (black lace collar, black lace thongs),
+(indoors background), studio lighting, in the dark, low key, dim light, depth of field, full-body sharp focus,
+<lora:GodPussy1 v3:0.3>
+<lora:FilmVelvia2:0.6>
+<lora:epi_noiseoffset2:0.6>
+<lora:add_detail:0.5>

@@ -1,0 +1,3 @@
+(by taran fiddler), (by darkgem:0.8), (by chunie:1), masterpiece,
+detailed fur, portrait, seductive, looking at viewer, smirk, grin, (mudsdale:1.2), horse, (detailed pixar eyes:1.2), detailed eyes, male, anthro, hair, (tail), blue jeans, farmer outfit,
+(detailed farmland background), (day), <slora:add_detail:0.3>,   <lora:LoraMudsdaleBY_mudsdale:1>, fence, barn

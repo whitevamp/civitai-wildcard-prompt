@@ -1,0 +1,3 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed <lora:XenoDetailer:0.5>, <lora:kittew_v0.1:0.8>, <lora:realistic:0.85>,
+(1man, wrinkled face, old italian male:1.2),   teal eyes, graying hair, french crop,
+ portrait, looking at viewer, solo, (full body:0.6), detailed background, detailed face, (<lora:ChronomancyAI:0.5>, ChronomancyAI, chronomancy theme:1.1) evil wizard, tattered dark brown magical robes, determined expression, purple color scheme, dark crimson light, library, bookshelves, glowing magical runes, evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by blue lightning <lora:LightingVFX:0.1>,    yellow arcane symbols, corrupted by eldritch power, power-hungry eyes,

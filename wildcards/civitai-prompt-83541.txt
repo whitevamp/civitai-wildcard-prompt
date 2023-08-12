@@ -1,0 +1,1 @@
+shorts, from_side, srfc, <lora:srfc-v2:0.7>, stunning intricate full color portrait, wearing a black turtleneck, epic character composition, by ilya kuvshinov, alessio albi, nina masic, sharp focus, natural lighting, subsurface scattering, f2, 35mm, film grain

@@ -1,0 +1,2 @@
+<lora:more_details:0.8>, <lora:unhorny_v01:-1>, <lora:Squeezer2:0.4>,  (small breasts:1.3), <lora:chocoskin:1>, <lora:epi_noiseoffset2:0.6>, <lora:litlights:0.2>
+(Masterpiece, best quality, highest detailed, waist-up shot, front view, fierce Zulu queen, battle setting, war paints and markings, (naked:1.3), (hyperdetailed:1.15), early morning light enhancing her body, official art, extreme detailed, highest detailed)

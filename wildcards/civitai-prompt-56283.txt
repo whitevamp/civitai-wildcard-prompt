@@ -1,0 +1,1 @@
+sword, weapon, katana, bubble, water_drop, holding_sword, holding_weapon, sheath, black_hair, earrings, wide_sleeves, air_bubble, 1boy, solo, japanese_clothes, jewelry, male_focus, holding, long_sleeves, water, haori, holding_sheath, sheathed, unsheathing <lora:OC illustration:1>

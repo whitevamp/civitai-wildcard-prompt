@@ -1,0 +1,2 @@
+(best quality, masterpiece, perfect face, beautiful and aesthetic:1.2, colorful, dynamic angle, highest detailed face)(Jinx, Legue of Legends, Arcane) full body photo, fashion photography of sexy, intense blue long hair, Jinx , Legue of Legends, Arcane, 35mm, bokeh, 9:16, (intricate details, hyperdetailed:1.15), detailed, sunlight passing through hair (high contrast, official art, extreme detailed, highest detailed),
+ <lora:jinxLeagueOfLegends_v10:1>

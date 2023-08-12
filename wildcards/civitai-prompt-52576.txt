@@ -1,0 +1,1 @@
+jar jar binks, in WKHW1 Beautiful Art Style, 1girl, young woman, frame grid, 1girl, arms behind head, multiple views, arms up, skirt,  <lora:jarJarBinksGunganStar_v3:0.8> <lora:easilyAnimatedHipSwayDanceZeroTwo_v10:0.3>

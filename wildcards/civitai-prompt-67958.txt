@@ -1,0 +1,8 @@
+(nradiowave:1.4), (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), (Red Skin, Horns:1.2), Standing,
+Black Hair, Short Hair, Bangs, (Pointy Ears, Big Ears:1.2),
+(Big Eyes:1.4),
+(Off-Shoulder Shirt:1.2), Black Bra, Bra Straps, 
+(Medium Breasts:1.2), (Thick Thighs:1.2), Nipples, Cleft of Venus, Pussy,
+Indoors, Room, Bedroom, Bed, nradiowave, 
+<lora:last:1.4>

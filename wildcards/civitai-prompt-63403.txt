@@ -1,0 +1,3 @@
+arni,(photorealistic:1.4),Best quality, masterpiece, ultra high res,looking at viewer,(dynamic perspective), library background,(1girl),dynamic pose,(white shirt short sleeves),((black skirt)),belt, (intricate details:1.1),light on face,dynamic light , 
+<lora:arnilora:1>,cute, innocent, (smile), (innocent smile)
+ <lora:mahalaiuniform-000001:0.7>

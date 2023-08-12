@@ -1,0 +1,1 @@
+ASCIImasterpiece,extreme detailed,top quality,cutaway view,(Giant male robot:1.2),(full face mask:1.2),(cockpit:1.2),Factory,Assembly platform,scaling ladder,huge Power core,many Pipelines,many Wires,Interface,Machinery,ultra wide shot,<lora:add_detail:1>,<lora:nijimecha:0.4>,

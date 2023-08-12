@@ -1,0 +1,4 @@
+(masterpiece, best quality, ultra-detailed), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, <lora:more_details:0.75>, <lora:realistic:0.3>, <lora:sharpen-soften:-0.25>,
+1 girl, adult  woman,  black eyes, yellow quiff hair,
+Style-GravityMagic, (focus on character:1.1), portrait, solo, half shot, detailed background, detailed face, (<lora:GlyphTech:0.5>, glyphs, scifi,   glyphtech theme:1.1), aristocratic pose, smiling, ruling class, elegant clothing,  looking over floating (cloud city:1.1),  cloudtop sky-city, floating platforms, floating buildings, tower, balcony, railing, bridges, propellers, clouds in background, zeppelin in background, wind blowing, epic atmosphere,  
+<lora:FujiVelvia50:0.4>,

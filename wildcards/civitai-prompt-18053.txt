@@ -1,0 +1,5 @@
+takamaki anne(persona 5),blue eyes,twintails,blonde hair,long hair,underboob, no bra, poncho, arms up, Hands behind the waist, 
+blush,passion, desire,
+(from below:1.4),full body,
+realistic, masterpiece, best quality,
+<lora:takamaki_anne:0.7>

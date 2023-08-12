@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl and 2boys, street, ADDBASE
+1girl and 2boys, 1boy, black suits, body guard, sunglasses, standing, ADDCOL
+1girl and 2boys, 1girl,  <lora:WomanBusinessSuit_v10:1>, white business suit, white coat, (black bra:1.2), long hair, black hair, serious expression ADDCOL
+1girl and 2boys, 1boy, black suits, body guard, sunglasses, standing,

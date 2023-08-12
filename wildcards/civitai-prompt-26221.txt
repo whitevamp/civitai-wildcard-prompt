@@ -1,0 +1,15 @@
+Aesthetic: ((fauvism, vibrant, expressive, color, avant-garde, abstract art):1.4)
+BREAK
+Composition: <lora:pov_deepthroat_v0.1:0.8> 1girl, kneeling, on knees, ((deepthroat)), pov,  looking at viewer, ((sucking penis, penis in mouth, penis deep inserted into mouth, mouth all the way down the entire penis,  gagging, from above)), perfect face, perfect eyes, perfect lips, perfect mouth, 1boy, pov, ((male abs, male stomach, male pubic hair)), hetero,, <lora:unhorny_v01:-1> ((orgasm, insanely aroused, insanely greedy for sex)), solo focus, up close view, zoomed in, <lora:Deepthroat:0.3>, ((pov))
+BREAK
+Lighting: <lora:backlighting:0.5> (soft_light, backlighting), backlit,
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.995),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

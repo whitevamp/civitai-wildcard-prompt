@@ -1,0 +1,3 @@
+cinematic over the shoulder shot  of 1 Persian princess, dark skin,  cyan royal clothing ,off the shoulder, heavy  makeups , jewelries, laying on a chair in the palace,  crossed legs, 
+analog style, bokeh, depth of field, photorealistic, 35mm films,   film grains,  cinematic lighting, 
+<lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

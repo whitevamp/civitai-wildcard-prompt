@@ -1,0 +1,1 @@
+<lora:Kongou_Aoki:0.7>, 1girl, serious,red eyes, blue lips, solo, standing, leaning forward, downblouse,  breasts,  city street, night, <lora:downblouseForBoobs_v1:1>

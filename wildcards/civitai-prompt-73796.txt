@@ -1,0 +1,1 @@
+<lora:gaige:0.8>, gaige, masterpiece, best quality, 1girl, green eyes, solo, goggles, jewelry, twintails, brown hair, dirty, necklace, breasts, dirty face, bandaid, bandaid on face, robot, smiling,  lips, prosthesis, sky, collar, choker, mechanical arms, upper body, small breasts, sign  (bloom, HDR:1.2), <lora:detailmaker:1> <lora:_beautiful_detailed_eyes:0.7>

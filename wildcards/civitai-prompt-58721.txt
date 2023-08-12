@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), 1girl, tinker bell, short ponytail, two fairy wings, (flying:1.2),green fairy outfit ,in the cloudy sky, arms at sides, looking at viewer, colorful, high contrast <lora:TinkerBell_v1:1>

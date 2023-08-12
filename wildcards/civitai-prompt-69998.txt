@@ -1,0 +1,1 @@
+raw photo, <lora:Shrek_remasteredV1:1>, a photo of (shrk:1.0), (harold:1.1), (green skin:1.4), (bald:1.1), <lora:Hide_da_painV2:1.0>, <lyco:GoodHands-beta2:1.0>, ultra high res, vibrant colors, looking at viewer, <lyco:locon_harold_v1_from_v1_64_32:1.0>, (sks person:1.0), (brown eyes:1.1), standing

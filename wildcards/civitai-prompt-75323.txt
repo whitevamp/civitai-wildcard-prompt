@@ -1,0 +1,1 @@
+8k, high-res, best quality, (masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, from below, beautiful woman, <lora:Euro-AmericanDollLikeness_V20:0.3>, naked, (pale skin:1.1), dark, makeup, dark studio, rim lighting, two tone lighting, dimly lit, low key<lora:epi_noiseoffset2:1>

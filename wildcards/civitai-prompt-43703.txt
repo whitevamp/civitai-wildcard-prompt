@@ -1,0 +1,2 @@
+masterpiece, best quality, stage, 1girl, solo,outdoor,
+ <lora:mamiV1:0.75>mami,

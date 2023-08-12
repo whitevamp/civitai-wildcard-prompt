@@ -1,0 +1,1 @@
+<(photorealistic:1.4), (extremely intricate:1.2)>, <(exquisitely detailed skin), cinematic light, ultra high res, 8k uhd, film grain, perfect anatomy, best shadow, delicate, RAW>, (Ray Tracing)  cute girl, full body, long hair, blonde, sexy lingerie, bedroom,(Big boobs:2), <lora:add_detail:0.5>,woman,european,blonde,open legs,  <lora:povsitting:1> ulzzang-6500-v1.1

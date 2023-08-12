@@ -1,0 +1,6 @@
+1girl,, pubic hair, (looking at viewer, light smile, ), brown hair, brown eyes,  long hair, hair_flying, Fluttering hair, flying_hair, ((Transparent glasses, glasses, glasses_on_nose)), wind coat, black_coat,
+((nfsw, expose,  nude, breasts out, nipple, small breasts, )), sexy, charming, stunning,  enhance, delicate, (pale skin, real_skin), sunlight, 
+autumn, wind, tree, fallen leaves, outdoor,
+best quality, high quality, highres, 8k, photo realistic, raw photo, cannon, nikon,
+<lora:add_detail:0.1>
+<lora:Broken:0.6>, lifeless, <lora:MS_Real_Deepthroat_Lite:0.7>, <lora:hair_grabbing_v1:0.4>, (grabbing another's hair), (cheerleader uniform), skirt, <lora:balls_deep_v1:1>, cum dribble, drooling, saliva, <lora:Gradient:0.5> <lora:RM_v0.1:0.4>, gagging, running makeup <lora:ClothingAdjuster2:-0.3> <lora:cheekbulgefellatio:0.6>

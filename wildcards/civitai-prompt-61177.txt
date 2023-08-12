@@ -1,0 +1,6 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+cute, extremely feminine elf, pale, white long hair, ((chastity cage)), sweating, scared,  looking at viewer, perfect eyes,  ball gag, shibari,   ultra-detailed facial features, testicles, naked, on back, bed, 
+intricate, 
+skin pores, detailed skin
+(realistic:1.2), UHD, dramatic shadows, global illumination, high contrast 
+<lora:chastey_v03:0.7>

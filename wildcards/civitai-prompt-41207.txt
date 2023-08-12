@@ -1,0 +1,1 @@
+<lora:UnlimitedBladeWorks1.6:0.9>,KatanaOneHand,woman,  darl background,flower armor,,exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation,<lora:LowRA:.5> smoke,<lora:r1ge - AnimeRage:.4> shining sword,cluster amaryllis,wind,s

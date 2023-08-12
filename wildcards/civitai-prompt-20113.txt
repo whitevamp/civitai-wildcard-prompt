@@ -1,0 +1,9 @@
+building,city,cityscape, v0id3nergy mistajones the primordial void shattering through into the univ<lora:kVoidEnergy:0.9>,
+naked bandages, <lora:attire_nakedbandage:0.67> , ((best quality, masterpiece)), dramatic, arms bound, ((spider-gwen<lora:spider_gwen:0.9>blush,short hair,blue eyes,blonde hair,medium breasts,skin tight,superhero,spider web print,hooded bodysuit,smile,spider web,parted lips,cleavage,black bodysuit,eyebrow piercing, >)),
+(suspension:1.3), legs spread, suspended in the air, v0id3nergy_bands,
+(tiny breast:1.3), (flat chest:1.3) thin, (skindentation:1.5), (underboob:1.3), looking at viewer, surprised, focus,
+(masterpiece, best quality), impactful, intricate details, blushing, bdsm,
+blonde hair, short hair, long bangs,sexy, alluring,
+<lora:add_detail:0.3>
+<lora:spider_web_v0.3:0.8> cobwebber,
+lipstick, hairbrush, mirror, makeup <lora:sundries:0.03>

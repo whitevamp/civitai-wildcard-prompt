@@ -1,0 +1,2 @@
+bj_Fault art,Pikachu,solo,blue eyes,glowing,animification,Jacket,zipper,glitch,
+cinematic lighting,strong contrast,high level of detail,Best quality,masterpiece,White background,<lora:Fault_art:0.7>,

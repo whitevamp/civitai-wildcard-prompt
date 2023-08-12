@@ -1,0 +1,2 @@
+((masterpiece)),((best quality)),(ultra-detailed),(illustration),((an extremely delicate and beautiful)),(dynamic angle),chinese dragon,china,1girl,(beautiful detailed eyes),cute pink eyes,green pupil,detailed face,upper body,messy floating hair,disheveled hair,focus,perfect hands
+<lora:Dream:0.65>

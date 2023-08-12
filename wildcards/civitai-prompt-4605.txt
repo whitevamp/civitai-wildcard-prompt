@@ -1,0 +1,1 @@
+((masterpiece)), (high quality), (best quality), (detailed), hd, perfect lighting, detailed face, detailed body, (1 adult woman), solo, (black hair gathered in a bun:1.2), blue eyes, (Chinese long dress with an open neckline:0.9), blush, medium chest, (on the background of a Chinese castle:1.1),  <lora:beautifulDetailedEyes_v10:0.8>,  <lora:add_detail:1>

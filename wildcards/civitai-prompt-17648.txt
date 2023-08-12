@@ -1,0 +1,6 @@
+outfit-bladenun, 1girl, solo, short hair,(blindfold:1.3), blush,large breasts, blue hair, open mouth, very long hair, no panties, habit,
+(wide hips:0.4), (thick thighs:0.4)
+lifelike,nsfw,
+Dreamlike Atmosphere, Soft Hues, Luminous Glow,
+beautiful and aesthetic, masterpiece, best quality,
+<lora:outfit-sword_maiden-pynoise:1.1>

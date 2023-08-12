@@ -1,0 +1,3 @@
+,(Masterpiece:1.2, high quality),
+no humans, cat, :3,  simple background, animal focus, animal, brown background, looking at viewer, open mouth, leaf, grey background, smile, plant
+<lora:cat_20230627113759:0.8>

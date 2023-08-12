@@ -1,0 +1,1 @@
+masterpiece,best quality,scifi,starship,(3d:1.2),<lora:mVehicle_v10:0.7> <lora:spaceship_:0.7> spaceship,

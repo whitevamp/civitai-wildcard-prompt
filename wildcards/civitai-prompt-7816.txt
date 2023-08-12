@@ -1,0 +1,2 @@
+<lora:NecromancyAI:0.9>, NecromancyAI
+computer , detailed, intricate

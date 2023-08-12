@@ -1,0 +1,1 @@
+mushroom, teemo, fur, fluffy, furry, solo, smile, 1boy, hat, holding, closed eyes, weapon, male focus, nature, best quality, masterpiece <lora:teemo:1>  <lora:arcaneStyleLora_offset(1):0.5>

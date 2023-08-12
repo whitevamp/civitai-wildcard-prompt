@@ -1,0 +1,8 @@
+(night:1.5),1girl,oiled body,smooth skin,shiny skin, reflections skin,Holographic skin,global color lillumination,Glossy reflective,
+8k, (masterpiece), best quality, highest quality, (full legs: 1.5),(long legs:1.5), (detailed face: 1.3),original,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork, ((perfect female figure)),young girl, Microwaist, Folded tied hair,simple diamond earrings,detailed skin, looking at viewer,solo, NSFW, Sitting on the sofa, ulzzang-6500,glowing skin Behavior: horny,lust eyes, lustful face, shy face,
+<lora:microwaist_03Lora:0.8>
+ <lora:Taiwan-doll-likeness:0.2>
+ <lora:Korean-doll-likeness:0.2>
+ <lora:glassSculptures_v05SomeDallEWatermarks:0.4>
+ <lora:shinyOiledSkin_v1:0.7>
+ <lora:wetTShirtLORA_10:0.5>

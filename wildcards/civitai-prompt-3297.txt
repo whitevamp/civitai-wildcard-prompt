@@ -1,0 +1,1 @@
+best quality, masterpiece, image of <lyco:quiron_SorceressofCastleGrayskull_v1:1.0>, (SorceressofCastleGrayskullQuiron character), retro artstyle, outdoors, epic landscape in the background, award winning, <lora:add_detail:1>

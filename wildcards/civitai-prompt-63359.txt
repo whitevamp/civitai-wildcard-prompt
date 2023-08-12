@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo cute girl wearing sexy sailor outfit, black long straight hair, large breasts, pink bra and panties,
+on bed, seductive smile, 
+window, cityscape,
+ <lora:sexySailorOutfit_v10:0.6>

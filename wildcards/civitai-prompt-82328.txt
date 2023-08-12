@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:GreenLora:0.8> green \(pokemon\), 
+ <lora:Milky:0.8> breasts, horns, 1girl, cow girl, animal ears, solo, cow horns, cow ears, bell, cowbell, huge breasts, cow print,

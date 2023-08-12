@@ -1,0 +1,1 @@
+masterpiece, best quality, 8K, 1girl, souryuu asuka langley,  <lora:souryuuasukalangleyV9:1>, fangs,  <lora:fangs:1>, full body, chibi, unhappy, <lora:blindbox_V1Mix:0.5>, (from above), looking at viewer, hands on hip

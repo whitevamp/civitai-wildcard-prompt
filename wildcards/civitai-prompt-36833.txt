@@ -1,0 +1,5 @@
+(masterpiece, top quality, best quality), ultra detailed, star(sky), scenery, starry sky, night, night sky, outdoors, cloud, milky way, ((hell ruins horizon)), ((red sky)), realistic, yellow eyes, 
+maximum hight colors, landscape, ((full naked)), ((burning lava fields behind)), smile, vampire fangs, big sky,  brilliant colors, detailed toes, perfect toes, detailed feets,
+naked demon girl, sitting on her kneels, ((red demonic skin)), ((dark fantasy)), small breast,  grim dark, hell landscape, ((small horns)), ((darkness)), pierced nippets,
+ <lora:add_detail:0.8>
+ <lora:Synth_V1-Manityro:1>

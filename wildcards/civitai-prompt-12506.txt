@@ -1,0 +1,3 @@
+1girl,,lob, (floating hair),black see-through bodysuit,beautiful long legs,
+Ho Fan,large breasts, 
+<lora:tangbohu-detailmaker_v2.5:0.7> <lora:tangbohu_saturation_v1.0:-1> <lora:luckday_20230620102442:0.6:POSE>  <lora:Black_See-through_Bodysuit:0.6>

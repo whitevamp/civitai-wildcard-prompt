@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, Ranni, <lora:Ranni:1>, 1girl, solo, wavy hair, blue skin, cowboy shot, cracked skin, extra arms, own hands together, <lora:Style_ThickCoatCG:0.8>, starry, strry light, night, colorful, cloud, star \(sky\), <lora:VFX_lightAndShadow:0.7>

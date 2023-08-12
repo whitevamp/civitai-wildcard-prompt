@@ -1,0 +1,5 @@
+(masterpiece), (extremely intricate:1.3), (realistic), portrait a girl standing in a baroque room, wearing a dark laced Victorian dress, (cleavage:1.1), skindentation, serious face, dark theme, jewelry, earrings, necklace, gothichorrorai,
+long blonde stylish hair, realistic blue eyes, beautiful symmetrical face, perfect sparkling eyes, well-defined pupils, high contrast eyes, vellus hair, finely detailed features, upper body, big breast, (detailed skin texture:1.3), (blush:0.5), (goosebumps:0.5), subsurface scattering, film grain, depth of field, bokeh, low illumination, low key, night time, illuminated by flickering candles and a soft halo of light filtering through an arched window, (candles:1.1), sharp focus,
+<lora:MarryQ:0.7>
+<lora:LowRA:0.5> <lora:victorian:0.2>
+<lora:GothicHorrorAI:0.3> <lora:add_detail:0.5>

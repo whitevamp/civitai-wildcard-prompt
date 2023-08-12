@@ -1,0 +1,2 @@
+drow, female, pointy ears, solo, long hair, jewelry, earrings, feathers, braid, red eyes, colored skin, looking at viewer, upper body, white hair, facial mark, breasts, elf,  ear piercing, fur trim, single braid, blue skin, dark skin, dark background
+, ((masterpiece, best quality)), art by greg rutkowski <lora:drow_offset:1>

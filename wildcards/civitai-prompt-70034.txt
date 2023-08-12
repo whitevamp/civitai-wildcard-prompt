@@ -1,0 +1,3 @@
+((masterpiece, best quality)),
+st. louis \(luxurious wheels\) \(azur lane\), highres, highest quallity, illustration, cinematic light, ultra detailed, detailed face, (detailed eyes), best quality, hyper detailed, masterpiece, (detailed face), large breasts, hair ornament, earrings, necklace, portrait, silver dress, revealing clothes,highest details, luminous eyes, (hotel:1.2), sitting in bed, sitting, bed, window, night sky, backlighting, light rays, (high contrast), (colorful),
+<lora:st louis epoch5:0.7>

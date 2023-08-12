@@ -1,0 +1,3 @@
+(masterpiece, best quality),
+1girl,uniform,black,twin-tails,classroom,looking-outside,maple-leaves,(uniform:1.5),(black:1.3),(twin-tails:1.3),(classroom:1.2),(looking-outside:1.2),(maple-leaves:1.2)
+<lora:Ogipote:1.1>

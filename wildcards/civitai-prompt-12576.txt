@@ -1,0 +1,7 @@
+Style: (masterpiece:1.2, best quality) ; BREAK
+Composition: 1girl, multiple boys, body hair, (fat man, ugly man:0.1), gangbang, ahegao, sex, sex_from_behind, (spanking:1.3)  BREAK
+Appearance: (milf:1.15), (reieneris:1.1), fit, muscular, v abs, slender, slim, skinny, small_hips, small_breasts, flat_chest, bright_eyes ; BREAK
+Hair: medium_hair, black_hair ; BREAK
+Clothing: nude ; BREAK
+Behavior: confident, smile ; BREAK
+Loras: <lora:fat_man_v5.4a:0.75><lora:fechin:1.0><lora:saggingBreasts_v10:0.8><lora:LR:0.5><lora:DW-000008:0.25><lora:fantasyV1.1:0.1><lora:lasto_v1:0.25> ;

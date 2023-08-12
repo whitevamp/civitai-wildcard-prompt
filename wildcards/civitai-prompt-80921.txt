@@ -1,0 +1,2 @@
+masterpiece, highres,high-resolution,4k, 4l,4k portrait, 8k,8k portrait,unity 8k wallpaper, extremely detailed CG,unity 8k wallpaper,realistic, RAW photo, real person,
+portrait photography,photorealistic,detailed skin, (best quality, Ultradetailed:1.2),one girl,anime <lora:NosehookV5:0.9>stand up,long shot,( full body,shoulder bust, waist ,hip,thigh,arms,hands,red hair:1.2)

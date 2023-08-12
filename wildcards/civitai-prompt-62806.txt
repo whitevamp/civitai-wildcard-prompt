@@ -1,0 +1,3 @@
+best quality, (masterpiece:1.2), highly detailed, day, water park, pool, clouds, sun rays,
+1girl, solo, <lora:chara_AmagiBrilliantPark_Latifa_v1:0.8>, latifa fleuranza, open mouth, surprised, looking at the viewer, standing,
+blonde hair, long hair, very long hair, drill hair, blue eyes, pink bikini, frilled bikini, sarong, white hairband

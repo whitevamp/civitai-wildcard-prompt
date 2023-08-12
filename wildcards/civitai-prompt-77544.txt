@@ -1,0 +1,5 @@
+absurdres, highres,  (1 young woman:1.3),grey hair, villetta_nu, dark skin:1.8, see-through_dress, very long hair, pony tail,
+BREAK
+,best quality, masterpiece,(photorealistic:1.4), RAW photo, cowboy shot, 
+BREAK
+, Create an image in the style of pop art, with bold colors, strong contrasts, and references to popular culture.

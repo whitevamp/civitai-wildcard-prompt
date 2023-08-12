@@ -1,0 +1,1 @@
+masterpiece, best quality,(much detail:1.6), (hd, 8k:1.2), (18 year old:1.6), (sexy:1.2), chinese girl, cute face, on the bed, (transparent pink|red|white|yellow sexy lace pajamas: 1.2), slim, wet dress, light blush, <lora:taiwanDollLikeness_v10:0.01>, <lora:koreandolllikeness_V10:0.1>, <lora:cuteGirlMix4_v10:0.1>

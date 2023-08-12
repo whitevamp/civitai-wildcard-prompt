@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, hmmr1, minamoto no raikou (fate), high collar, gloves, loincloth, ribbed sleeves, rope, (purple bodysuit:1.2), <lora:minamoto_no_raikou_v1:0.7>, standing, outdoors, cowboy shot, smile, snow, forest

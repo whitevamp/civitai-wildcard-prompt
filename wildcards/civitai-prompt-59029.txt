@@ -1,0 +1,2 @@
+(masterpiece:1.2, best quality), 1girl, slim, slender, green eyes, embarrassed, long blonde hair, pulled by another, pov, fisheye, breast grab,
+ <lora:breastsUndress_v13:1>

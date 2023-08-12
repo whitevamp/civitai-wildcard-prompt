@@ -1,0 +1,1 @@
+masterpiece, 1girl, solo, smile, pink hair, girl,  pov,<lora:aniya:1> <lora:add_detail:-0.2>, full body, open mouth,jumping, flying high,

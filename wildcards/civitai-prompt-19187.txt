@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed), <lora:GiftInBoxV1:1>, in box, full body, cat,on back, lying,

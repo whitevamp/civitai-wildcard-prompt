@@ -1,0 +1,1 @@
+smallame,solo,1girl,<lora:smallame:0.8>,watson amelia,upper body

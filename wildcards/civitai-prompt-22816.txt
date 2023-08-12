@@ -1,0 +1,2 @@
+(magazine cover:1.6), back view, 1girl, long hair, big breasts, flying hair, nude, in bedroom,
+<lora:add_detail:0.4>, <lora:Magazine:0.8>,, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, vibrant colors,gorgeous light and shadow

@@ -1,0 +1,2 @@
+nsfw, (masterpiece, ultra high res, best quality:1.3),
+1girl,dcelf, blonde hair, pointy ears,twin braids, hood, brown cloak, green tunic, gloves, belt, brown shorts, thigh boots,<lora:dcelf-nvwls-v1-final:0.9>, one light in the darkness, dark forest, night, sitting, spread legs,cleavage

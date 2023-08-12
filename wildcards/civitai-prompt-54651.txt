@@ -1,0 +1,4 @@
+<lora:chilloutmixss_xss10:0.8>, <lora:koreanDollLikeness_v10:0.4>, 1girl, 
+(underwear:1.2), (long blonde hair:1.2), (rooftop), (bathtub), (medium breasts:1.2), (light smile:0.8), (looking back), (beautiful ass:1.5), (bent over), 
+charming expression, beautiful eyes, green eye pupil, fairy ears,  cute,delicate face, delicate figure, Fine collarbones,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,

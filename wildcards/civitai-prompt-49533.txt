@@ -1,0 +1,3 @@
+(detailed face:1.5), (NSFW:1.5), <lora:taiwanDollLikeness_v10:0.2>, <lora:cuteGirlMix4_v10:0.3>, <lora:Lora_v10:0.6>, <lora:koreanDollLikenesss_v10:0.1>, <lora:saikaKawakita_saikaV30:0.2>, <lora:pantyhose_v10:0.3>,
+(transparent white pantyhose:1.5), (feet focus:1.5), (toes), (full legs:1.5), (toes:1.1), (standing), (show breasts:1.5),  
+8k,((1 girl)), ((1 person)), (realistic:1.5), (masterpiece), best quality, highest quality, (full legs:1.5), original,highres, unparalleled masterpiece, ultra realistic 8k, ((perfect female figure)), milf, narrow waist, small breasts, black hair,hair pulled back, Folded tied hair,simple diamond earrings,detailed skin, looking at viewer,solo, school girl,

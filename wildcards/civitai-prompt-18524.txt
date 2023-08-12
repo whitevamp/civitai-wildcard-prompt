@@ -1,0 +1,1 @@
+Best quality,masterpiece,(photorealistic:1.4),Highly detailed,ultra-fine painting,sharp focus,solo,glass,broken glass,sunlight,(cat:1.1),<lora:极光V1:0.7>,

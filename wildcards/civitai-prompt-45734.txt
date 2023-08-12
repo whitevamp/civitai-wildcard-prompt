@@ -1,0 +1,9 @@
+character concept art, oil painting by Greg Rutkowski, 
+ kristennobodysd15,
+(D&D tavern wench:1.2), ginger woman with auburn hair, (updo:1.1), lusty, drunk, happy, bawdy, milf, round face, (freckles:0.5), carrying drinks, spill, splash, wet shirt,
+skirt, corset, push-up, cleavage, rosy cheeks,
+detailed background, 
+(large breasts:1.1), (masterpiece), (best quality), (detailed), (8k), (wallpaper), (cinematic lighting), (sharp focus), (intricate),
+
+(Style-Autumn:0.5),
+<lora:aToZovyaRPGArtists_sd15V1:1.0>

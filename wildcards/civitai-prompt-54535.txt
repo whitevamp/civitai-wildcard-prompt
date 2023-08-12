@@ -1,0 +1,1 @@
+(8k, RAW photo, highest quality, masterpiece), High detail RAW color photo professional close-up photo, (realism, photo realism:1.3), (highest quality), (best shadow), (best illustration),Girl, hoodie limegreen neon hair,pink eyes,surreal,fluorecent paint, neon night, neon, night sky city, middle street, buildings  <lora:senyamiku_v10:0.4> <lora:russianDollLikeness_v3:0.3>

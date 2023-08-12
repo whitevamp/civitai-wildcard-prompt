@@ -1,0 +1,1 @@
+from Game of Thrones  <lora:game_of_thrones_offset:1>,  photo of a woman with dark red hair, naked, dark room, 8k, high definition

@@ -1,0 +1,1 @@
+<lora:tendouAlice_v1:0.85>, aris, halo, white jacket, white shirt, blue necktie, pleated skirt, halo, :>, <lora:fumoLikeAnimeStyle_v10:0.95>, fumo, doll, sitting, (best quality, masterpiece:1.4), 1girl

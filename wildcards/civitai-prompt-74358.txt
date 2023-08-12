@@ -1,0 +1,6 @@
+ASCII(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:missmartianyj-000009:0.8> MissMartianYJ, green skin, short hair, 1girl
+<lora:wearing gymnast_outfit:0.4=""> wearing gymnast_outfit
+BREAK
+(contest, stadium, indoors,  gorgeous view)

@@ -1,0 +1,9 @@
+(night:1.5),1girl,oiled body,smooth skin,shiny skin, reflections skin,Holographic skin,global color lillumination,Light-blue and pink neon,Glossy reflective,
+8k, (masterpiece), best quality, highest quality, (full legs: 1.5),(long legs:1.5), (detailed face: 1.3),original,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork, ((perfect female figure)),young girl, Microwaist,simple diamond earrings,detailed skin, looking at viewer,solo, NSFW,  ulzzang-6500,glowing skin Behavior: horny,lust eyes, lustful face, shy face,red tights,suspension, down, rope,bound arms,bdsm, shibari, arms behind back, restrained, navel, leaning forward, feet,
+<lora:microwaist_03Lora:0.8>
+ <lora:Taiwan-doll-likeness:0.2>
+ <lora:Korean-doll-likeness:0.2>
+ <lora:glassSculptures_v05SomeDallEWatermarks:0.2>
+ <lora:shinyOiledSkin_v1:0.8>
+ <lora:wetTShirtLORA_10:0.5>
+  <lora:bondageSuspension_v11:1.8>

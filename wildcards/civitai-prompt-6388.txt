@@ -1,0 +1,2 @@
+Cthulhu grasps the burning Earth, mountains shattered, the prison of stone broken, ([purple background:overlapping swirling color purple gold white:5]), (black stone frame, black edges), ancient stone border, bat wings, dripping, flames, eldritch revelry, abstract, ocean waves, ancient spires rising from the sea, the stars are right, the sleeper awakens, in the style of b1nk.
+<lora:add_detail:0.1> <lora:b1nk3CIVIT:0.7> <lora:Stylora:0.7> <lora:cthulhu-beta4-clipskip2-000009:0.9>

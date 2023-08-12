@@ -1,0 +1,1 @@
+cartoon, superflat,  1girl, undressing top, sport outfit, sweat, locker room, detailed background,  <lora:undressing_top.v1.0:1>

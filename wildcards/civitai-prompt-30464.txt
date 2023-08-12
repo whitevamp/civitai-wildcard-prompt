@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  j3s1c4,<lora:jes-04:0.75>, shirt, skirt , closed mouth, holding red cup

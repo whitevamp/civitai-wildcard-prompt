@@ -1,0 +1,7 @@
+<(photorealistic:1.4), (extremely intricate:1.2)>,
+
+pale skin, flawless skin,  (from below:1.35),POV, 1girl, blonde_hair, (huge breasts:1.1),blue_eyes,  cleavage, earrings, gradient, gradient_background,  luxury hotel, lips, long_hair, looking_at_viewer, swimsuit, necklace, solo, (legs open:1.2),  BREAK, 
+
+ <(exquisitely detailed skin), cinematic light, ultra high res, 8k uhd, film grain, perfect anatomy, best shadow, delicate, RAW>,
+
+ <lora:povFacesitting_v10:0.8>  <lora:breastinclassBetter_v13:0.3>

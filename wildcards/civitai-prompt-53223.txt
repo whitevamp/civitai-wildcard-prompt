@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2),miniature, isometric, landscape,
+1girl,chibi,cute, smile,
+night,bonfire, fire fly, amusement park,green beret, jacket, blush,  shirt, short hair, cherry blossoms, green headwear, blurry, pinkhair, blush stickers, long sleeves, bangs, headphones,
+(beautiful detailed face), (beautiful detailed eyes),
+<lora:blindbox_V1Mix:0.8> , <lora:figmaAnimeFigures_figma:0.5> figma, <lora:miniatureWorldStyle_v10:0.5>,mini\(ttp\)

@@ -1,0 +1,1 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) (1girl), solo, floating_hair, <lora:animetarotV51:1>, <lora:helltakerLora_10:0.6>

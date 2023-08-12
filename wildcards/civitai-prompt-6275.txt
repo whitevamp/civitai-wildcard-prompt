@@ -1,0 +1,1 @@
+(AS-YoungerV2) masseffectliara, sitting on sofa modern living room (masterpiece:1.2) (photorealistic:1.2) (bokeh) (best quality) (detailed skin:1.3) (intricate details) (8k) (cinematic lighting) (sharp focus) <lora:masseffectliara:0.55>

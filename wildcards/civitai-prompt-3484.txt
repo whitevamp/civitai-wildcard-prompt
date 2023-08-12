@@ -1,0 +1,3 @@
+A photo of Darth Talon meditating in a serene and mystical ancient temple.
+blurry
+ <lora:DarthTalon:0.8>

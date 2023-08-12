@@ -1,0 +1,3 @@
+masterpiece, best quality, HDR, UHD, 64K, 
+
+(original: 1.2), 1girl, ((in a white cyberhelmet with a glowing ring on it)), wearing bikini with halo, iron gloves, ((clavicle)),posing for a picture, long legs, indoor, (studio light:1.3), (((grey background))), (portrait:1.5), (big breast:1.3), <lora:cyberhelmetWearable_cyberhelmetv02:0.9>

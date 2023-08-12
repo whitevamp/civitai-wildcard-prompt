@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus, 
+ 1girl, solo,    <lora:MomoAyase:0.8>  white shirt, choker, earrings,

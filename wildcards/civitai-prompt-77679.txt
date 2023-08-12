@@ -1,0 +1,2 @@
+(1girl backlighting, looking at viewer, (black sneakers), wearing blue jeans, jacket, striped shirt, train, sitting on train, passing the sea, calm sea, sitting down on bench), (masterpiece, high quality, detailed background), light smile, peaceful, golden hour,
+<lora:zelda_shorthair_v5:0.4>,zelda\(princess\), short hair, blonde hair,

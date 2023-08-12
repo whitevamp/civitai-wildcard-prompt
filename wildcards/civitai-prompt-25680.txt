@@ -1,0 +1,2 @@
+1girl,slg,(Dramatically lit),Floral lace bralette with a scalloped hem,depth of field,Lying on the stomach, pretending to fly like superman
+<lora:slg_20:1.0>

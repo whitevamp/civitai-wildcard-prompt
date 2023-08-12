@@ -1,0 +1,1 @@
+absurdres, best quality, <lora:Chair:1>, plastic chair

@@ -1,0 +1,3 @@
+man, portrait of leninvi, low key, dark
+<lora:leninvi:0.7> 
+ <lora:LowRa:0.5>

@@ -1,0 +1,2 @@
+1girl , very long hair, best quality, masterpiece, portrait, a photography of a beautiful girl, detailed face, sweet smile, (blush:1.2), ((torso)),pov, (((depth of field))), pale and lustrous skin, <lora:chocoskin:-0.4> 
+skyscraper, heavy rain, raining, yorha no. 2 type b, (nier \(series\):0.8), short hair, white hair, (black blindfold:1.1)<lora:2bYorhaNo2TypeBNier_v1:0.6:TT>, animal ears, oiled, fantasy outfit, sitting on couch, Eugne Atget, attraction, best quality, sidelighting

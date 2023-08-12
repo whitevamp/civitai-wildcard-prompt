@@ -1,0 +1,5 @@
+(22 years old woman), medium breast, small waist, brown flowing hair glamour, (green glowing eyes), beautiful face, perfect illumination, beautiful detailed eyes, looking at viewer, stunningly beautiful woman, detailed hairstyle, detailed background, (industrial area with dead zombies), (apocalyptic), ((wearing flowing skirt and over-sized shirt with shoulders showing)), shiny skin, (nice leg line:1.3)
+BREAK
+thighs, thinness, high-tops, thigh socks, blood on cloths, blood dripping from hands
+BREAK
+Pathway, depth, looking at viewer, (walking towards viewer, upper body, full body shot), <lora:more_details:0.6>

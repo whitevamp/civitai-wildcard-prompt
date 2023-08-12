@@ -1,0 +1,7 @@
+masterpiece, best quality,bright color,vivid color, (extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed, best shadow), (chromatic aberration),(girl:1.5),(ultra-detailed),((cute face)),((full body)),
+((
+girl repairing mecha, titan fall mecha, robot repair shop background,Impressionist Painting,Mary Cassatt style painting,Alphonse Mucha,
+((
+((Best quality)), ((masterpiece)), ((realistic)), Girl repairing a mecha inspired by Titanfall, skillfully engaged in mechanical repairs in a vibrant robot repair shop background. The artwork, painted in the style of Alphonse Mucha, combines Impressionist techniques with the ornamental elements of Art Nouveau. Created using oil on canvas, the painting captures the bustling industrial atmosphere of the repair shop, with machinery and tools surrounding the girl as she works. The color palette features vibrant hues and metallic accents, adding a sense of energy and technological prowess. The brushwork is highly detailed, showcasing the artist's mastery. This artwork is a captivating and dynamic masterpiece on eye level
+)), ((caustic)), dynamic angle,beautiful detailed glow,
+<lora:more_details:0.5>,

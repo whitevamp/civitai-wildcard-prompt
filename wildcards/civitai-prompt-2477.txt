@@ -1,0 +1,3 @@
+a woman with long red hair wearing a blue scarf, 1girl, scarf, looking at viewer, ponytail, upper body, 
+beautiful lighting, deep shadow, best quality, masterpiece, ultra highres, photorealistic,
+  <lora:FilmVelvia2:0.7>

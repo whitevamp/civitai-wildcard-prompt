@@ -1,0 +1,1 @@
+1girl,(<lora:lucky_star_offset:1.3> lucky star),(izumi konata:1.7),<lora:Smug:0.5> (smug:0.7),sailor suit,blue hair,, ((ultra-detailed)), ((illustration)), ((masterpiece,best quality,cute,kawaii)),<lyco:GoodHands-beta2:1.0>,nice hands,

@@ -1,0 +1,2 @@
+waist up photo, (raiden), long hair, (woman:1.2), big breasts, sexy, curved body, (lens distortion:0,7), (chromatic aberration:0.7), (fim grain:0.7), intricate, unreal engine 5, volumetric lighting, realistic, cinematic, 4k, cinematic lighting, depth of field, masterpiece, perfect, hyper-detailed, hard lighting, intricate details, stop motion, hyperfocus, tonemapping, sharp focus, hyper detailed
+<lora:RaidenDoguV2:0.84>

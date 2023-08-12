@@ -1,0 +1,5 @@
+(intricate details:1.3, masterpiece:1.3, best quality:1.3, absurdres:1.3), official art,
+ <lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor] (1):.7>, 
+(multicolored mechanical bodysuit), (mechanical vertebra attaching to back), (blood vessels connected to tubes), mechanical limbs, (wires and cables around body), 
+outdoors, night, cyberpunk city, dynamic background, neon lighting, 
+realistic, photorealistic, professional lighting, (from side), ((1mechanical girl)), looking back, looking at viewer,  dynamic expression, sitting, from below,

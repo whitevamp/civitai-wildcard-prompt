@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details, <lora:add_detail:1>
+(1man, wrinkled face, old ukrainian male:1.2), frail,  silver eyes, graying hair, medium hair,
+(style-rustmagic:0.8), portrait, solo, (full body:0.6), looking up, detailed background, detailed face, (<lora:MahabharataPunkAI:0.6>, MahabharataPunkAI theme:1.1), grinning, tech-wizard, technomancer,  [magic|technology], union of witchcraft and clockwork, pink detailed [enchanted clothes|mechanical gear], arcane tattoos, implants, mystical circlet,  [cogs|magical sparks],   arcane energy conduit, [scientific|ethereal] aura, arcane planet in background,  glowing  lights, 
+<lora:NebulaDream_v1:0.5>,

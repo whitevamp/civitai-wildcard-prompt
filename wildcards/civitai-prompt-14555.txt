@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details,
+(1girl),  <lora:scarlet:1> Maximoff,  cleavage, cape, gloves, helmet, red hair,   
+nude, nipples, pussy, red pubic hair,  <lora:excessiveSparsePubic_v10:0.8> sparse pubic hair, <lora:RuinedMakeup_v0.1:0.5> ruined makeup, crying,  <lora:whipMarks:0.8> whip marks,

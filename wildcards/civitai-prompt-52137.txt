@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, lineart, monochrome
+portrait of a girl, (face:1.2), pray, floating hair, wind, cloud, sunlight, cinematic light, bangs, white hair, hanfu
+<lora:koreanDollLikeness_v15:0.3> <lora:animeLineartMangaLike_v30MangaLike:0.9>

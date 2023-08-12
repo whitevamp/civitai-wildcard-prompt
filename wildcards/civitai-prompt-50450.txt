@@ -1,0 +1,1 @@
+realistic, <lora:scene:0.8>, beautiful girl in messy bedroom, full body, poofy hair, (realistic face, perfect eyes, perfect face:1.1), colourful hair

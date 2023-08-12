@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12E 16Dim Locon Cosine3:0.8>,  <lora:upshirtUnderboob_v10:1>,standing, upshirt, underboob,

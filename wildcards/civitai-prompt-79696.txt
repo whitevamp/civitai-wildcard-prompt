@@ -1,0 +1,1 @@
+cybginger_girl1, color photograph, close-up, a realistic photo of a beautiful girl, grin512, light, glowy skin, looking_at_viewer, (fit body:1.0), high ponytail, high quality, realistic, very detailed face, (to8contrast style), <lora:theovercomer8sContrastFix_sd15:0.65>

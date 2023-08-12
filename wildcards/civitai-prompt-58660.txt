@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), 1girl, solo, (sketch:1.1), paper, monochrome, cropped torso, portrait,
+shuten douji, headpiece, revealing clothes, bare arms, evil smile,  <lora:oldSketchStyle_v1:1>,  <lora:shutenDoujiFateGrand_v10:1>

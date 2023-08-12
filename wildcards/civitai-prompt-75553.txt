@@ -1,0 +1,1 @@
+1girl,basketball,red_basketball_uniform, black_eyes, black_hair, clothes_writing_10, grey_background, holding_ball, jersey, lips, long_hair, realistic, solo, <lora:blindbox_v1_mix:0.85> <lora:zipai:0.35>

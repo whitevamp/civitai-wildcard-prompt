@@ -1,0 +1,1 @@
+simple background, red_background, 1girl, beautiful face, beautiful woman, portrait, upper body, crop shirt underboob, crop top, underboob, large breast, cleavage, muscular belly, green eyes, blonde hair,  <lora:breastinClass:0.3>  <lora:crop_shirt_underboob:0.5>

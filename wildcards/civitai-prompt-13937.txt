@@ -1,0 +1,2 @@
+masterpiece,(best quality:1.3),
+<lora:linglong_20230624163918:0.7>,full body,ling_long

@@ -1,0 +1,1 @@
+<lora:LowRA:0.6>, dark theme, absurdres, best quality, androgynous,  <lora:Bao-000010:1>, red hair, long hair, red eyes, expressionless, suit, short sleeves, necktie, eye focus,

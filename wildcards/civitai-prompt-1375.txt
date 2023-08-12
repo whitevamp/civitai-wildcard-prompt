@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,(front:1.2),upper body,
+1girl,(worried:1.2) ,1hamster,
+across table,pov,(spoken question mark:1.1),(speech bubble:1.1),head down,
+(hamster ride on head:1.1),
+<lora:blindfold_lora01:0.7>, blindfold,
+ <lora:flat2:-0.5>,

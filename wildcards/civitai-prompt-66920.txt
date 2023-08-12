@@ -1,0 +1,1 @@
+<lora:MultipleGirlsGroup:0.6> multiple girls, face focus, 3girls, standing, <lora:Bigmouthv2:0.7> open mouth

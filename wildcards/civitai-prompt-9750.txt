@@ -1,0 +1,4 @@
+(masterpiece, top quality, best), 1girl, green eyes, curl  blonde hair,
+long face, jacket, cowboy suit, belt, justice police, cool, 
+shot, on the street, 
+light background,  <lora:Ever garden:0.2>

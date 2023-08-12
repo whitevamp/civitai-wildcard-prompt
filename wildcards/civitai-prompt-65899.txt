@@ -1,0 +1,5 @@
+grainy,(masterpiece:1.3), best quality, absurdres, (extremely detailed:1.1), evening,natural light,<lora:LowRA:1>, (dark theme:1.0),
+BREAK
+(girl, detailed skin, detailed hair,grinning, red glowing eyes,:1.2)
+BREAK
+forest background,

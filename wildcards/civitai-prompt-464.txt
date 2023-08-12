@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,(upper body:1.1),
+1girl,
+<lora:AyanamiReiV6-000010:0.8> ayanamirei, plugsuit,
+<lora:cultivation_tank_lora01:0.7> cultivation tank, underwater, Institute,orange light,in the tank,orange water,(beer mug:1.1) ,
+<lora:anime_minimalist_v1-000020:-0.1>,
+<lora:flat2:-0.5>,

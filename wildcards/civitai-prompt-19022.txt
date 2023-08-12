@@ -1,0 +1,8 @@
+((realstic)),(masterpiece),(intricate details),1girl,mature female,large breasts
+BREAK
+yoimiya, <lora:yoimiyatest:0.7>, yoimiya, arm tattoo, choker, hair ornament, light brown hair, long hair, (orange eyes:1.5), red choker, sidelocks, BREAK arm tattoo, bandaged arm, bandaged leg, bandages, bracelet, chest sarashi, chest tattoo, cleavage, collarbone, fingerless gloves, fish tattoo, gloves, hadanugi dousa, japanese clothes, jewelry, kimono, kinchaku, obi, orange kimono, rope, sarashi, sash, shimenawa, single fingerless glove, tattoo, vision (genshin impact), wide sleeves
+,barefoot,depth of field,looking at viewer,((reclining on the Pet store: Animals, pet food, toys, adoption, grooming)),((full body)),
+BREAK
+sweat, 1boy, sex, vaginal, girl on top, spread legs, sitting, hug, face-to-face, kiss, french kiss, drooling, from side
+BREAK
+day,sun,rainbow,((cumulonimbus)),from below:1.3,<lora:more_details:0.3>,<lora:Tsurime3:1.3>,

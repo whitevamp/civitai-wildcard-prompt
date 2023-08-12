@@ -1,0 +1,1 @@
+CroissantStyle iPhone 14, cel phone on an empty surface <lora:CroissantStyle:0.7>

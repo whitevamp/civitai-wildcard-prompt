@@ -1,0 +1,2 @@
+<lora:add_detail:1>, <lora:GirlfriendMix2:1>, 
+1girl, 8k, RAW photo, best quality, masterpiece, realistic, photo-realistic,

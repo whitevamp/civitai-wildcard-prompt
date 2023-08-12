@@ -1,0 +1,1 @@
+An astronaut takes the first step on the moon, spacesuit, (shirtlift:1.3) <lora:shirtlift:1>

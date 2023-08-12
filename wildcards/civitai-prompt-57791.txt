@@ -1,0 +1,4 @@
+masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, colorful, extremely detailed face, 1girl, 1boy, pov, naizuri, penis, looking at viewer, from above, [cum, (cum_covered:1.5), (cum_on_face:1.5), cum in mouth, (facial:1.5), (ejaculation:1.5), smile:0.2],<lora:naizuriConcept_v1:0.7>
+Appearance: {mature female, small_breasts, flat_chest, green eyes, sharp eyes, slender, slim, fit, thick lips, moisture lips, red nails}
+Accessories: {simple hoop earrings}
+Hair: {long hair, blond_hair:1.2, messy hair}

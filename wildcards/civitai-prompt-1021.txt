@@ -1,0 +1,1 @@
+tigerseven,blue spandex bodysuit, red muffler, red gloves, <lora:tigersevenLoRA_v1:0.8>,(tentacles)

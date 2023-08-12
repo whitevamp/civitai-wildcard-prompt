@@ -1,0 +1,6 @@
+Masterpiece, Ultra-detailed 3d Render of Realistic TwilightHuman, 1girl,  Solo, 8k Resolution,
+long blue hair, hair pulled back, Pony-tail hair style,  purple eyes, {glasses}, blunt bangs, {Lavender skin}, Smiling, Facing viewer, Looking at Viewer, 
+Lab Coat, Shirt, Skirt, Stockings, Shoes,
+Mad Science Laboratory, Technology, Monitors, Computers, Machines,
+Dynamic Lighting, Cinematic Lighting,
+<lora:TwilightHuman:1>

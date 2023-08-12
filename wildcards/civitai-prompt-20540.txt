@@ -1,0 +1,1 @@
+<lora:mocha style:0.8>,mocha style,star,milk galaxy,night:1,no human

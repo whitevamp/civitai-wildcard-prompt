@@ -1,0 +1,2 @@
+cyborg in cyberhelmet wearing techwear jacket lies, crowd, cyberpunk market stalls, neon lights, movie still, 90mm lens
+<lora:techwear_clothes:0.7>  <lora:cyberhelmetWearable_cyberhelmetv02:0.9> <lora:webcams:0.3>

@@ -1,0 +1,1 @@
+(best quality,masterpiece:1.2),ultra detailed,(photo realistic:1.4),virtual doll,<lora:VirtualDoll:0.6>,bikini,beach,

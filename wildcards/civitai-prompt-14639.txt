@@ -1,0 +1,1 @@
+masterpiece, best quality,   <lora:lxz-000010:1> ,1boy and 1girl,smile,(black background:1),blue cape, simple background, standing, sitting, (kbxll:0.8)

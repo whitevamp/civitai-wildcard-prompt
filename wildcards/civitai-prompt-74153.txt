@@ -1,0 +1,9 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.4),(highres),reflection,a beautiful detailed girl,cowboy shot,
+1girl,mature female,30 years old,standing,(holding a flower:1.2),white lily,
+orange_hair,short_hair,(half-closed_eyes:0.8),earrings, jewelry,
+red apron,short_sleeves,white_shirt,pants,
+(bakery:1.3),bread,indoor,
+<lora:Berah_Ronah_Crossbone-KK77-V1:0.7> ,
+<lora:flat2:-0.6>
+<lora:anime_minimalist_v1-000020:-0.2> 
+ <lora:LowRa:0.2>

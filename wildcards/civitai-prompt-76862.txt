@@ -1,0 +1,2 @@
+absurdres, highres, ((astronaut)), ultra detailed, BREAK vibrant colors, soft focus, light leaks, dreamy atmosphere, experimental charm, nostalgic appeal BREAK psychedelic composition, surreal concepts bordering on absurdity, (fractal patterns in the landscape:1.3), LSD, (forest:1.2),
+<lora:_L2090:0.2>

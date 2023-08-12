@@ -1,0 +1,2 @@
+boy,  art, nty, drawing,  
+ <lora:Test1:0.8>

@@ -1,0 +1,9 @@
+(masterpice, best quality, high quality, highres:1.4), extremely detailed, detailed skin, ambient soft lighting, 4K,
+1girl, solo, mature female, milf, sitting on throne, (face focus, face close-up, close-up face:1.4), close-up,
+blonde hair, long hair, high ponytail, hair intakes, long sidelocks, tiara,
+red eyes, glaring, contempt, disgust, looking at viewer,
+closed mouth,
+black dress, cleavage, long sleeves, puffy sleeves, juliet sleeves, ornate dress, jewelry, red gemstone, gem, necklace,
+small breasts, bursting breasts,
+indoors, (renaissance:1.2), vintage, window, massive throne, gold throne, flower pot, red curtains, black walls, 
+<lora:Milf:0.5> <lora:hamichichiB:0.5>

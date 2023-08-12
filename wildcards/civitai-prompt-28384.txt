@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.4),ultra high res,full body,front,
+1boy,
+ <lora:King:0.85> king, anime, one punch, shirt,blond hair,
+<lora:ApproachingMe:0.7> ,text, 
+ <lora:flat2:-0.5>, 
+ <lora:LowRa:-0.2>,

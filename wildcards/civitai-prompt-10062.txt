@@ -1,0 +1,6 @@
+masterpiece, best quality,
+dark background,
+1boy, friedrichnietzsche, huge mustache, wrinkled skin, from side, very short hair, reading book,
+upper body, glasses, fading border, 
+ <lora:FriedrichNietzsche:0.8>
+<lora:LowRA_Dark:0.4>,

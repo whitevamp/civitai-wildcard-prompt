@@ -1,0 +1,1 @@
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (highly detailed CG illustration), cinematic light, intricate detail, full body, chibi , <lora:blindbox_v1:0.9>,  , brown hairs, red eyes, full body, fox ears, beach and sea background,   <lora:holoSpiceAndWolf_v3:1>, apple tree, apples

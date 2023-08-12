@@ -1,0 +1,2 @@
+Twilight Sparkle,solo,((derpibooru_p_95)), sitting, pony, open mouth, ((safe)), 
+ <lora:twilightSparkleFlat_v10:1>

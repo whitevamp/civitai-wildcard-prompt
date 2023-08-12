@@ -1,0 +1,1 @@
+girl,samurai,(traditional_media,illustration:1.4),flowers in hair,kimono,wielding katana,normal_breasts,(oni, horns, detailed_eyes),fighting_pose ,(masterpiece,detailed,highres,cinematic,atmospheric:1.4), (hotify:0.6), <lora:generalIllustrationLora_lycoSafetensors:0.6>

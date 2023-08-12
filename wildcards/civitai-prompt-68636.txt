@@ -1,0 +1,1 @@
+photorealistic, (one pretty girl:1.1), highres, ultra clear, sharp focus, <lora:miko:0.3>,cosplay,slim,yellow and white cloth,white hair

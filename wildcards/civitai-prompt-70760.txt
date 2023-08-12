@@ -1,0 +1,1 @@
+black hair, 1girl, beautiful face, beautiful eyes,<lora:beautifulDetailedEyes_v10:1> , long_hair, solo, jewelry, ancient art, chinese, <lora:Qianjinghui_v10:0.8>,<lora:dunhuang_v20:0.4>, <lora:OilPaintStyle_v1:0.5> <hypernet:desolation_2:1>, BREAK, wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile,wosile, wosile,wosile,wosile,wosil

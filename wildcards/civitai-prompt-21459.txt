@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+slender, gloria_sol,
+night, pub, nightclub,
+short dress, cleavage,
+ <lyco:PS_Gloria_Sol:0.6>

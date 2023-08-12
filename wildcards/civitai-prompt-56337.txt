@@ -1,0 +1,1 @@
+<lora:artdecoai_v10:1>, ArtDecoAI, aerial view of an art deco city

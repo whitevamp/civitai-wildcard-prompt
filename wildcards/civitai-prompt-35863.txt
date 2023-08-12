@@ -1,0 +1,4 @@
+(bare shoulders:0.85), ((nude:1)),(boobs naked:0.55), (Glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),1girl, masterpiece,best quality, 1girl,
+(in smoke:1.1),(dynamic smokeanywhere:1.4),<lora:smokeanywhere:0.55>,(upper body:1.2),((nipples:0.55)),(1 Chinese patterns in the middle of the girl's forehead),girl with a weak temperament,
+epic cinematic, soft nature lights, rim light, absurd, amazing, funny, itricate, hyper detailed, ultra realistic, soft colors,
+<lora:oc_v10:0.8:PALETTE> <lora:lowra_v10:0.2>  white flower<lora:anxiang:0.65>, slg <lora:slg_v22:0.4>

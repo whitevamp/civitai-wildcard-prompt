@@ -1,0 +1,1 @@
+<lora:more_details:0.6>, rev-cow-graphos, <lora:rev-cow-graphos-v2:0.7>,rev-cow-graphos, photograph of a blonde girl with wearing latex garters sitting on man,reverse cowgirl position, (penis in anal), anal sex, anal penetration, by window in luxurious hotel room, <lora:Gradient:0.7> <lora:ClothingAdjuster2:-0.8> <lora:large_insertion_v0.1:0.8>, sharp

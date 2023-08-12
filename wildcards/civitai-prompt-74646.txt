@@ -1,0 +1,4 @@
+(masterpiece), (best quality), (official art, extremely detailed CG unity 8k wallpaper), (highly detailed), ((absurdres)),
+1 girl, adult (elven:0.7) woman, freckles, amber eyes, natural blonde straight hair,
+(style-swirlmagic:1.0),  portrait, (<lora:boneyardai_v10:0.4>, BoneyardAI, bone theme:1.1) (bloody scars:0.7), looking down, solo, (full body:0.6), dynamic pose, detailed background, madness in eyes, hovering in the air, sovereign of the night, corrupted, runny makeup, dim lighting, casting a spell, curse of undeath, hooded vestments of the night, dark circlet, abandoned ruins, sinister atmosphere,, bringer of the false light,   dark magic, dark clouds, floating shards of ice,   decadence,   dark aura, chains, consuming darkness,  evil symbols, summoning circle,
+<lora:hipoly3DModelLora_v10:0.1> <hypernet:sxzBloom_sxzBloom:0.1>,

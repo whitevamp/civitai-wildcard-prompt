@@ -1,0 +1,1 @@
+kitten,gundam\\(rx78\\),  <lora:gundamRX782OutfitStyle_v10:0.1>

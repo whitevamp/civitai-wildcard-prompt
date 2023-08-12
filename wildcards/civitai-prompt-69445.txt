@@ -1,0 +1,1 @@
+gacha splash mid shot, <lora:beautifulDetailedEyes_v10:0.5>, <lyco:vividImpactfulStyleYoneyamaMai_v40hLocon:0.3>, (masterpiece),white hair, long hair, blue eyes, japanese temple background, <lora:gachaSplashLORA_v40:1>, [(white background:1.5), ::5], (long shot), full body,  isometric, adult, 1 girl, kamisato ayaka,<lora:kamisato ayaka:1.0>

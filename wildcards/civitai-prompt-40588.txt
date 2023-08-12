@@ -1,0 +1,1 @@
+detailed,  action-packed, fire, ashes, Ringed_Knight,  ruins, <lora:Ringed_Knight:0.8>

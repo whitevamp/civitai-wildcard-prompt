@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:Hinata shippuden, hooded jacket, fishnet:0.8>Hinata \(shippuden\), 1girl, looking at viewer, dynamic pose
+<lyco:wearing gymnast_outfit:0.4> wearing gymnast_outfit
+BREAK
+(stadium, gorgeous view)

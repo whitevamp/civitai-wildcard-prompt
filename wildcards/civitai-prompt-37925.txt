@@ -1,0 +1,1 @@
+<lora:Arm_cannon-10:0.1> 1boy with ((arm cannon)),   <lora:Jetstream_Sam-09:0.9> Jetstream Sam, smile, teeth

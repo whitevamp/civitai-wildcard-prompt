@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  A stunning intricate full color picture of (natalia dyer:1), wearing explorer outfit and hat in the jungle pushing away a plant, epic character composition, sharp focus, natural lighting, subsurface scattering, bokeh, f2, 35mm, film grain, <lora:natalia:1> <lora:LowRA:0.4>

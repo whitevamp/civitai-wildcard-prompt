@@ -1,0 +1,16 @@
+robot, gynoid, Ana de Armas, anadea69, (arma1:0.65), woman android, solo,   (looking at the viewer:1.1), (straight long black hair :1.2)  , (upper body:1.5), 
+scifi, scyfi, 
+at night,  
+action pose, white skin,
+ glowing , metallic reflection, slick,  clear white skin, skin, smooth, 
+[(
+4K, 8K, highres, absurdres, sparks, 
+motion blur, slow motion, low brightness,
+muted colors, soft light, bloom, bokeh,
+film grain, 85mm, focus,
+<lora:FilmG2:0.66>
+<lora:lit:0.5>
+<lyco:GoodHands-beta2:0.75> <lora:uv:0.7>
+ <lyco:Ana de Armas:0.29> <lora:AnaDeArmasv2:0.1> <lora:anaarmas2:0.25>
+):8]
+  <lora:cyborgbot:0.69>

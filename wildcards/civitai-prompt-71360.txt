@@ -1,0 +1,1 @@
+<lora:LowRA:0.65>, monster boy, djb, sharp teeth, chainsaw, blood on clothes, blood on weapon, collared shirt, black pants, <lora:denji_v2:0.9>, tongue out, movie poster, legible bold text, intricate detail, masterpiece, best quality, highres, film grain, chromatic aberration,  (fighting:1.2),

@@ -1,0 +1,1 @@
+<lora:RocksEyebrowRaise:0.8>, RocksEyebrowRaise, portrait, raised eyebrow, thick eyebrows <lora:Zenigata:0.7>, zenigata

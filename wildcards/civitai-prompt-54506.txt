@@ -1,0 +1,5 @@
+Lilith is a classic character in the Diablo series, and she's one of the leaders of the demon clan. She has a beautiful, mysterious, and eerie appearance. Her body is slim, and her skin is pale. Her eyes are deep purple and very enchanting. Her hair is jet black, long and flowing, creating a striking contrast with her pale skin. Lilith's attire is also very seductive. She usually wears a tight black outfit with some red accents, making her look even more charming,
+absurd res,HDR,delicate, masterpiece,shiny skin,beautiful detailed, (colourful:1.1),Hyperrealism,H. R. Giger style,,(wearing a full-body outfit that covers all skin:1.8),(spread legs:1.7), (evil smile:1.5), (evil:1.8)
+
+,finely detailed, intricate details,detailed lips,elegance,(The background should be a  ominous environment:2.1),
+<lora:fashionGirl_v50:0.6>

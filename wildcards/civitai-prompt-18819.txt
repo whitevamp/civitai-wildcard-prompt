@@ -1,0 +1,2 @@
+photorealistic, analog, realism, 21 years old Rome girl, detailed blue eyes, pure face, sexy body, (bend over:1.3),  cleavage, off-shoulder flower dress, (lean forward:1.3), Rome vintage train, D800, Zeiss lens,
+ <lora:add_detail:1>

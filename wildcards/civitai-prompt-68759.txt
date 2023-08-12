@@ -1,0 +1,1 @@
+fantasy, character solo focus, realistic, absurdres, intricate, <lora:epiNoiseoffset_v2:0.5>

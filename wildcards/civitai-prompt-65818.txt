@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+(Solo:1.2), Squatting, Medium Shot, (Full Body:1.1), (Astolfo:1.2),
+Medium Hair, Pink Hair,
+(Purple Eyes:1.2), Long Eyeslashes, Thick Eyelashes, Looking at Viewer, 
+Thick Thighs, (Small Breasts:1.2), 
+(Erection, Large Penis, Large Erect Penis, Large Testicles, Sagging Testicles:1.2), 
+(Pink Skirt, Pink Miniskirt, Pink Hoodie, Striped Thighhighs, Pink Stiped Legwear:1.3) (Flat Chest:1.2),
+(White Background, Simple Background:1.4),
+ <lora:EquineCock:1>  <lora:Fate - Astolfo:0.5>

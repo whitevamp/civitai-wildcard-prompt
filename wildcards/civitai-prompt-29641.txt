@@ -1,0 +1,1 @@
+upper_body, hatsune_miku, street, food, crying_with_eyes_open, sad, <lyco:apuspill:0.8>,, <lora:add_detail:-1>, intricate, absurdres, insane details, 8k uhd, professional color correction, post-processing, full body,

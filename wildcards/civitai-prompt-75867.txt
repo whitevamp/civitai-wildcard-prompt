@@ -1,0 +1,9 @@
+absurdres, highres, ultra detailed, (1girl:1.3),(NSFW:1.2), upper body shot,
+BREAK
+, bokeh, dusty, ray tracing,
+BREAK
+, Create an image of a purple  micro bikini girl, purple hair, purple eyes, red side hair ribbon, (gigantic hanging breasts:1.2) and (gigantic hip:1.2), dewy skin, sweaty skin, blunt bangs, glowing gray eyes, chubby, milf, mature, bbw, fat, hand on face, 
+BREAK
+, <lora:SoxStar_v3:0.5:FO>,
+BREAK
+, <lora:bb:1>

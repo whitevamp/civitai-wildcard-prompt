@@ -1,0 +1,5 @@
+(best quality, photorealistic, masterpiece), 20 year old girl, cute and adorable, very long hair, (princess dress:1.3), character focus portrait, solo, (full body:0.6), looking at viewer, detailed background, detailed face, serene expression, cybergirl calm posture, glowing orbs, nature magic, (style-swirlmagic:0.8),  rock, glowing red flowers, violets,   rays of light,  dense forest in background, ethereal  atmosphere, earth tones, highly detailed textures, intricate details,
+<lora:KawaiiTech-20:0.4>, kawaiitech, pastel color,
+<lyco:ellefanning_lycor_02-000003:0.8>, ellefanning-smf,
+<lora:BlessedTech-20:0.4>, blessedtech ,holy, scifi,
+<lora:3DMM_V12:1>

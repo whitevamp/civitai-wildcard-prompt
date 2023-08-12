@@ -1,0 +1,5 @@
+(masterpiece, best quality, highres),in school,classroom,day,
+BREAK,
+<lora:Detail_Tweaker_LoRA:0.8>,1girl,elf,white hair,short hair,blush,embarrassed,open mouth,tongue out,half-closed eyes,tears,school uniform,miniskirt,thighhighs,lingerie,(bra lift:1.2),nipples,pussy juice,
+BREAK,
+<lora:RSCongress:0.5>,1boy,penis,reverse suspended congress,anal,

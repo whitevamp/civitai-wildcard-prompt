@@ -1,0 +1,2 @@
+1girl,ringlets,Crochet lace blouse with a scalloped hem and three-quarter sleeves,
+,rule of thirds,<lora:slg_v11:1.0>

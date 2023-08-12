@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2), (detailed eye:1.2), intricate detail, depth of field, 1girl, sitting, Playing with the ((1dog, animal)),  smile, blonde, looking at viewer, shorts, shirt  <lora:girlAndAnimal_v10:0.8>

@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed), realistic, ultrarealistic, hyperrealistic, masterpiece, 8k, official art, absurdres, highres, high quality, ultra detailed, beautiful and aesthetic,
+(1girl:1.5), <lora:AI_hh-ka:0.75>  ,cyberpunk, chinese clothes, cheongsam, mechanical parts,, (masterpiece,best quality:1.5)

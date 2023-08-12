@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1boy,    <lora:handsome-squidward:1> Handsome-squidward, (blue skin:1.3), bald,, pink lips, blue, muscular, 
+ <lora:saltbae:0.8> saltbae,  sunglasses,

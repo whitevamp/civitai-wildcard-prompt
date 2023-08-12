@@ -1,0 +1,14 @@
+ultra detailed 8k cg, 
+BREAK , 
+Illustrate a miniature planet scene, with a tiny world surrounded by a vast cosmos and celestial bodies. 
+BREAK ,
+ Create a panoramic image, capturing a wide field of view and showcasing expansive landscapes or cityscapes. 
+BREAK , 
+Create an image of a desolate, distant view, with barren landscapes, dramatic skies, and a sense of isolation. 
+BREAK , 
+The pose should be dynamic, as if she is preparing to launch the planet into space or unleash its power, with her free arm raised towards the sky
+BREAK , 
+The woman's clothing should be futuristic and sleek, with metallic or iridescent elements that suggest advanced technology or space travel
+BREAK ,
+Generate an image of a person standing in front of a large, glowing circle of light. The person should be facing forward with their arms extended out to the sides, as if they are embracing the light. The light should be bright and radiant, but not blindingly so. It should have a soft, ethereal quality to it, as if it is a manifestation of the person's inner radiance. The person should have a serene and peaceful expression on their face, as if they are communing with a higher power. The overall effect should be one of beauty, grace, and spiritual enlightenmentsuper model, super idol, perfect face, beautiful face, mature female , beautiful eyes , white light color eyes , milf face 
+ <lora:beautifulDetailedEyes_v10:1>

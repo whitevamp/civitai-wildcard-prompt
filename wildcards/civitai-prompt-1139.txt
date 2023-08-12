@@ -1,0 +1,6 @@
+masterpiece, best quality, detailed, intricate,
+1boy, sport tights, white bikesuit, white socks, torn clothes,
+muscular male, 6 pack abs, big pectoralis, shiny skin,
+detailed face, naughty face, black eyes, short black hair, shiny blue necklace, eye reflection,
+outdoors, street, shops, sunlight
+<lora:handsomeMan_v10:0.3> <lora:cute boys3:0.68>

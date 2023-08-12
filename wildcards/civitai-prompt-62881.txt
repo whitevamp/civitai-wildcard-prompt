@@ -1,0 +1,7 @@
+rainbow hair, wearing metallic iridescent dress,
+young ([Jennifer Lawrence|Emma Watson]:0.9) round cute face,  sexy,
+ green eyes, detailed clothes, skinny, shinny glossy skin, subsurface scattering,
+(gothic:0.8), double bun, bangs, frills, skirt,
+[(colorful explosion psychedelic paint colors:1.21)::0.2], (boorish:0.7),
+(darkness:1.1), cyberpunk, award winning photo, extremely detailed, amazing, fine detail, absurdres,
+nikon d850 film stock photograph kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten, Style-Neeko

@@ -1,0 +1,5 @@
+priapus, 1boy, skinny, greek temple, flying, renaissance,
+short curly hair, handsome masculine face, detailed eyes,
+muscular chest, (narrow waist), bubble ass, topless, golden chain belt, draping cloth shorts, arm ring, detailed skin,
+realistic, style of pino daeni, [style of Daniel F. Gerhartz::0.5],
+uhd image, hires, 8k, epic lighting, sharp focus, realistic, romantic,  <lora:priapus_v1:0.7>

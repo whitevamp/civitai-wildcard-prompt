@@ -1,0 +1,2 @@
+best quality, <lora:concept_changeACharacter_Succubus_(SuccubusT):0.8>, SuccubusT, neon horns, (1girl, solo), <lora:style_cyberPunkAI_(CyberpunkAI__Neon):1>, CyberpunkAI, Neon, (1girl, solo),  glowing eyes, neon facial lines,  
+neon hair, __bangStyles__,

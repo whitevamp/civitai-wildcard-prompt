@@ -1,0 +1,4 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres,  pov,(1boy:1.4), (1male:1.4), (Daoist_robe),  ((chinese long beard)), green daoist_robe, outdoor, Chinese Ancient,  looking at viewer, landscape,  golden accessories,  
+<lora:Daoist_Robe-000005:0.65>, 
+ulzzang-6500:0.7, 
+<lora:locsChinaLandscapes_locsChinaLandscapes:0.5> Chinese, mountains, ancient chinese style landscape painting, mountains in front, beautiful winding green river behind, high resolution,epic composition , <lora:Chinese_Long_Beard_v2-000002:0.5>

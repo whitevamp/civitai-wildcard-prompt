@@ -1,0 +1,1 @@
+(best quality:1.2), woman holding a white kitty, smile, red bow, looking at camera, soviet union, poster, <lora:soviet-poster:0.7>

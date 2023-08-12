@@ -1,0 +1,2 @@
+<lora:VictorianPunkAI:.9> VictorianPunkAI
+battle mech , detailed, intricate

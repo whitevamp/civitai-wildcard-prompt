@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:mercedes_maplestory:0.8> mercedes \(maplestory\), 1girl, dress, hair ornament, blonde hair, thighhighs, pointy ears, 
+<lora:zelda_botw_outfit:0.8> zelda botw outfit,

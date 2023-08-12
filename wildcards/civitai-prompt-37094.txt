@@ -1,0 +1,1 @@
+8K raw photo, Best quality, masterpiece, ultra high res, 1girl, sexy, medium breast,(ninja,mask,armor, ninja clothes,holding katana),high ponytail, detailed face, bamboo forest, japanese temple, rooftop,  <lora:add_detail:0.45> <lora:FilmG4:0.5> <lyco:ShinyOiledSkin_v20-LyCORIS:0.35> <lora:ninjagirl:0.6>

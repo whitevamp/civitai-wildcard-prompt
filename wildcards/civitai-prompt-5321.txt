@@ -1,0 +1,2 @@
+masterpiece, high quality, grainy, extremely detailed, 4k, 8k,dynamic lighting,
+BREAK <lora:phcrystal:0.75>, fluffy white cat behind purple phcrystal,

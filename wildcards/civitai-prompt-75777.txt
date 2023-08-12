@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper), 1 girl solo, dance, dunhuang_dress, dunhuang_style, dunhuang_background, smoke, <lora:keji:0.5>

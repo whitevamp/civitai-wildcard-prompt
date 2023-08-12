@@ -1,0 +1,1 @@
+1girl, <lora:SleePeace2:1.1>, sleepeace,  <lora:aurora-01:0.9> aurora, princess dress, castle indoors, night_sky, red moon, lie_on_bed, head_tilt,

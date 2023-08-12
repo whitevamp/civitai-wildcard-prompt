@@ -1,0 +1,14 @@
+((masterpiece)) ((sfw))
+(blurry_background) (depth_of_field)
+<lora:ainoku_HatsuneMiku:0.25>
+(Hatsune Miku) (twintails)
+(brown:1.6) (small_hat)
+(holding_matches) (fire_on_head) (on_fire) (burning)
+(sitting)  (confused)
+(crossed_arms)
+                                 <lora:thisisfineV3:0.5>
+(burning room) (smoke) (flames) (fire:1.6)
+                                 <lora:teriderp:0.65>
+(teriderp) (chibi)
+                                 <lora:on_fire10:0.55>
+(human on fire)

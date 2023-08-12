@@ -1,0 +1,2 @@
+a woman standing and posing for a photo,(wearing flounce_dress:1.3), yellow flounce_dress, shiny flounce_dress, 
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts,(((in a bar))),  <lora:betterCuteAsian03:0.3>,  <lora:flounce_dress:0.5>

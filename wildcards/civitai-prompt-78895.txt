@@ -1,0 +1,2 @@
+masterpiece, best quality, sharp focus, extremely detailed, intricate, hyper detailed, nagatoro hayase, brown eyes, black hair, bangs, long hair, dark skin, hairclip, white shirt, blue skirt, no socks, uwabaki, standing, arms behind head, cowboy shot, looking at viewer, outdoors, evil grin
+<lora:loLoRA_v1:0.4>  <lora:nagatoro hayaseV2:0.8>

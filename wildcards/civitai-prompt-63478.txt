@@ -1,0 +1,1 @@
+(Masterpiece Photo:1.3) of (Realistic look:1.3) <lora:perfecteyes-000007:0.85> perfecteyes, red eye, close up, ambient lighting

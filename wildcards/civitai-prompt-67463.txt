@@ -1,0 +1,4 @@
+<lora:zombie_v1.3:1> 
+1girl, scared, wide-eyed, :o, shock, torn clothes, dress,
+multiple boys, zombie, motion blur, perspective, blood,
+<lora:miyamoto_rei_v1.5:1> miyamoto rei, school uniform, torn shirt, torn skirt, against wall, looking back, scared, drop shadow, silhouette, pov hands, trapped, game over, solo, hand on wall, from behind, green skirt, pleated skirt, torn clothes, horror \(theme\), undead,, masterpiece, best quality, highly detailed

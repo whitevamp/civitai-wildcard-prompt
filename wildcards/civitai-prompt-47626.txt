@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra-detailed,8K,detailed light,detailed shadow,RAW, (detailed skin),(realistic:1.2),
+1girl,face,
+pilyeon, black nails, jewelry, Long hair, looking at viewer, choker, necklace,piercing, white background, heart, closed mouth, grey eyes, nail polish, simple background, black hair, ear piercing, black choker, smile, eyelashes, lips, hand on own cheek, bangs, bracelet, beads, gem, earrings, fingernails
+<lora:noobLeyon_v1:0.6>

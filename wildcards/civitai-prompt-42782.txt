@@ -1,0 +1,4 @@
+MeriSonny  walking in the school ,(1girl, school uniform, bare legs, navel:1.2), (katana),(topless),(short hair, black hair, brown eyes), looking at viewer,(skinny, medium breasts, thick thighs), from side, sexy, school, day, sky, (YakuzaTattoo in body, chest, both arms tattoo:1.2)
+(detailed ladscape:1), (dynamic_angle:1), (dynamic_pose:1.2), 
+(masterpiece:1.2), (best quality, highest quality), (ultra detailed), (8k, 4k, intricate), (cowboy shot:1), (highly detailed:1.2),(detailed face:1),(gradients),(ambient light:1.3),(cinematic composition:1.2),(perfect_anatomy:1.2),
+<lora:XenoDetailer:0.5> <lora:YakuzaTattoo_Concept:0.55> <lora:Meri_influencer-20:0.8>

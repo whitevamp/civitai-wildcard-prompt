@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, 8k,extremely detailed,intrcate detailes,1boy, night,school uniform, outdoors, rim lighting, dimly lit,dio brando, <lora:dioKujoWithStandDIO_v10:0.3>, <lora:epiNoiseoffset_v2:1>,

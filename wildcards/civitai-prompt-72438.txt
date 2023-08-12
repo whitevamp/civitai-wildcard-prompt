@@ -1,0 +1,4 @@
+masterpiece, glory wall, stuck, wooden wall, through wall, stationary restraints, chinese vase , 
+paper, photo(object), 1girl, solo, happy, soft smile, detailed eyes, looking at viewer, hanfu,
+nsfw, ass focus, from behind, spanking ass, standing, uncensored, (detailed anus:1.2), detailed pussy, 
+<lora:glory_wall:0.8> <lora:MoXinV1:0.5> <lora:shukezouma_v1_1:0.7> <lora:spanking:1.0>

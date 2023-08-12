@@ -1,0 +1,4 @@
+best quality, intricate details,
+
+
+1girl,      <lora:pokimaneLora_v1O:0.8> girl, woman,

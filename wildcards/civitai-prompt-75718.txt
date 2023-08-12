@@ -1,0 +1,4 @@
+A sketched desaturated SteampunkSchematics exploded assembly drawing of the head of a pale-faced Mark Zuckerberg automaton, his face in a book,
+construction lines, handwriting, calligraphy, filigree, measurements.
+highres, high resolution, sharp focus, detailed.
+<lora:LowRA:0.5> <lora:SteampunkSchematicsv2-000009:1>

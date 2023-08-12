@@ -1,0 +1,1 @@
+1boy, photograph of Donald Trump, the_trump, business suit, ahegao face, tongue out, upper body,  <lora:act.tonguedropAhegaoALoraIn_tonguedropV1:1> best quality, masterpiece, intricate details, highly detailed, bokeh, depth of field <lora:dont.donaldTrump_v1:.5>,

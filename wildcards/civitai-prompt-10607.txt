@@ -1,0 +1,1 @@
+dramatic lighting, 1girl, hm2b, black blindfold, covered eyes, mole under mouth, <lora:y2b_v2-1:0.7>, lingerie, navel, forest, trees, looking at viewer, <lora:add_detail:0.3>

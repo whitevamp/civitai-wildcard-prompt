@@ -1,0 +1,5 @@
+1 woman , rogue , dungeon 
+(ink sketch   by  Adrian Smith , 	Gustave Moreau)
+fantasy, DnD
+best quality, masterpiece, realistic, hyper-realistic
+  <lora:add_detail:1>

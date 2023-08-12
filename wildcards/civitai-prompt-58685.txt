@@ -1,0 +1,6 @@
+((cartoon)), oil painting, female medieval knight, (nsfw), sexy hot,
+(moss skulls), sunset
+long fluffy curly white hair,
+(cheeky smile), beautiful face, (detailed skin, skin texture), (muscular:1.4), 
+gloomy color, dark color, ultrarealistic, best quality, extremely detailed, huge breasts, eyelashes, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, George Bain, Betty Churcher, Almada Negreiros, Andreas Franke, Marsden Hartley
+<lora:lowra_v10:0.2>

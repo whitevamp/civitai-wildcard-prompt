@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,realistic,
+1girl,<lora:low_angle_human-10:1> ,form below,low_angle_human,sky,cloud,grass,blurry foreground, full body, (green:1.2),sun,(dandelion:1.1),,barefoot,

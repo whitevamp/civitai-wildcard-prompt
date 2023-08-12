@@ -1,0 +1,1 @@
+<lora:silenceSuzuka_v10:0.7>,masterpiece, best quality,  silence suzuka \(umamusume\),<lora:LoconLoraTorinoStyle_loraV11:0.3>,(style),black gloves, white skirt, pleated skirt, black pantyhose, layered sleeves, puffy short sleeves, short over long sleeves, black bow, running,  flowing grass,  ((runway)),sunset, evening

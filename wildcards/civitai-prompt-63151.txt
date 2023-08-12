@@ -1,0 +1,1 @@
+masterpiece,best quality,  <lora:Pokemon:1>,animal,1girl,

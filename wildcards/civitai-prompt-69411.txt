@@ -1,0 +1,1 @@
+upper body, 1girl, white hair, ponytail, purple eyes, (ninja), short sword, medium breats ,scarf, wallpaper, magic circle background, light particles, blue fire, <lora:zltest:0.2> <lora:shojovibe_v11:0.2> <lora:fashionGirl_v54:0.3> <lora:daili_v20:0.25>

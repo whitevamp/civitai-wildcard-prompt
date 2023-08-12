@@ -1,0 +1,1 @@
+<lora:eula_slingshot:0.8>, eula_genshin, 1girl, bangs, short blue hair, hairband, slingshot swimsuit, high heels, sitting, spread legs, upper body, indoors, living room, sofa, decorations, from below, <lora:Euro-AmericanDollLikeness_V20:0.65>

@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.37), medieval city street, river, shipyard, miniature, landscape, (isometric:0.5), sky, planets, red moon, clouds, <lora:miniatureWorldStyle_v10:1>,

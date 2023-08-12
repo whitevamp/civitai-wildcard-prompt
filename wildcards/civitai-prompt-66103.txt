@@ -1,0 +1,2 @@
+<lora:AsukaV1-000016:0.8>, souryuu asuka langley (wearing red micro bikini), 1girl, (breast hold:1), small breasts, closed mouth, angry, highly detailed, highres, masterpiece, beach, blue sky, looking at viewer, 
+<lora:exMicroBikini_v1:0.5>, shiny skin, curvy

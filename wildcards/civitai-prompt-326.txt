@@ -1,0 +1,1 @@
+(watercolor \(medium\):1.2),masterpiece, best quality, 1girl, casting fire magic, painting of  <lora:tina-nvwls-v1:0.8>,  tina branford, green hair, cape, earrings, red dress, detached sleeves, hair ribbon, clothes around waist, print legwear, red boots, energy swirling,  [( in the style of <lora:IrisCompietStyle:0.7>):0.4]

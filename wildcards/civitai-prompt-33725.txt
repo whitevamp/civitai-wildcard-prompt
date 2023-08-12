@@ -1,0 +1,3 @@
+(reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, extremely beautiful detailed face, best shadow, forest, evening time, 
+medium breasts, black hair, long hair, female in her Late twenties, Russian, brown eyes, looking at viewer, bound, bondage, arms behind back, glaring, bdsm, tape gag, tape, tape bondage, Disappointed facial expression, gym uniform, 
+AS-Adult, <lora:add_detail:0.6>, <lora:TapeGagV7:1>,

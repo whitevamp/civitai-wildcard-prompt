@@ -1,0 +1,16 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,
+(solo:1.2),
+(teasing smile:1),
+(looking at viewer:1.4),fullbody,(hip level shot:1.2),
+
+(standing:1.2),(supermodel:1.4),
+
+(simple background:1.4),
+(holding skirt:1.6),
+
+(gothic maid,maid apron,long sleeve,long skirt,boots:1.4),(lace trim,frilled:1.6),
+(black hair),(medium length hair),
+(wide_hips:1),(milf,mature,35 years old:1.2),
+
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:Cnbeauty4_v1:0.4>,

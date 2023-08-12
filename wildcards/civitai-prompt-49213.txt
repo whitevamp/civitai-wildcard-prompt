@@ -1,0 +1,8 @@
+best quality, intricate details, laughing, 
+
+1girl, long hair, green hair, messy hair, gold eyes, sharp eyes, twigs,
+
+
+<lora:ceresFaunaHololive_v1:0.8> 1girl, ceres_fauna,
+
+ <lora:conceptPaintedClothes_v10:1.1> painted clothes,fake clothes,form fitting,swimsuit, bodypaint, cameltoe, tattoo,

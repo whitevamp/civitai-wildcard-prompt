@@ -1,0 +1,6 @@
+((masterpiece, best quality)),
+1girl, darknessrises-luna,
+upper body, looking at viewer,
+short hair, blonde hair, blue eyes, black hoodie,
+luxurious skyscraper interior background
+ <lora:Darkness Rises' Luna:0.2>

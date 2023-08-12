@@ -1,0 +1,4 @@
+(masterpiece, realistic, ultra high res, high quality:1.2),
+1girl, (young),(no make-up), black hair,
+portrait, old photo, 80s style , dynamic pose, studio,
+((akinanakamori)) <lora:akinanakamori:0.7>

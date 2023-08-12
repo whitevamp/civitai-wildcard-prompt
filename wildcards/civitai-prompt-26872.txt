@@ -1,0 +1,9 @@
+nude, solo, anthro, kemono, mature, aged up, muscular, (hands behind back, arms tied), cock_ring, (dildo_sitting), anal_object_insertion, kneeling, (womb_tattoo, glowing tattoo), nipples,
+dog tag, (aphrodisiac):1.3, leather 
+blush, tongue_out, (((drooling))), orgasm face,
+(sweat):1.4, wet, steam, fog,
+penis, erection, (genital_fluids, precum drip, precum string):1.3,,cum_in_ass,
+by lindong, by null-ghost, by munax-od,
+masterpiece, hires, 8k hd, extreme detail, detailed background, extreme detail, best quality, anime, kemono,
+ <lora:CultivationTank[in_container]V3:1>,  (in_container, stasis_tank, stasis_chamber, (behind glass)):1.3, 
+ <lora:drumbunkerdragon-000012:1>, (drum bunker dragon):1.3,

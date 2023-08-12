@@ -1,0 +1,1 @@
+<lora:hutao_v2:1>, hutao (genshin impact), simple background, red_background, 1girl, portrait, upper body, hat, red_eyes, large breast, black_hair,  cleavage, sexy, <lora:breastinClass:0.3>,

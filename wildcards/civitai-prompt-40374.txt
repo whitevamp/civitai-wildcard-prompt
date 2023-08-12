@@ -1,0 +1,2 @@
+masterpiece, best quality, highest quality, perfect anatomy, perfect face, perfect eyes, (8k, best quality, masterpiece:1.2),  outdoors, solo,
+<lora:ranfandargonball_smf_lora_02:0.8>,  1girl, rfandball-smf, 1girl, purple hair, short hair, smile, blue eyes, curly hair, medium breasts, makeup, lipstick, lips, retro style, fighting pose, underwear, bra, solo, navel, cleavage, pink bra, underwear only, pink lips

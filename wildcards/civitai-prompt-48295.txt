@@ -1,0 +1,1 @@
+masterpiece, high quality, best quality, absurdres, 1 girl, depth of field, chinese-girl-v1.0 , cowboy-shot , looking at viewer, skinny face , closed mouth, blue jacket,cityscape,  street,  neon lights ,  <lora:chinese-girl-000008:0.0.8>

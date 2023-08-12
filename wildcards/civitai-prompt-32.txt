@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1girl,Himiko Toga,(from side behind),from above,blonde hair,yellow eyes,glowing eyes,(psycho smile),gesugao,looking at viewer,(dark alley),night,darkness,(blood splater:1.6),standing,full body, <lora:TogaHimikoLoRA:1>, <lora:GesuGao:0.8>, <lora:add_detail:0.5>

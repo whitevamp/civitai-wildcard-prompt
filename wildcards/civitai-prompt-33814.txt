@@ -1,0 +1,3 @@
+nsfw, {masterpiece, best quality, highly detailed:1.4}, 1girl, big ass, ass focus, detailed, extremely detailed, stunning color gradient, 4K, fellatrix artstyle, city background,
+JuriMS , sfvi , multicolored hair, black hair, hair horns, bangs, puffy asshole, wet pussy, looking over shoulder, blush, sweat, purple eyes
+<lora:bukkake_v0.4:1>  <lora:multiple_penises_v0.4:1> <lora:Juri:.75> <lyco:GoodHands-beta2:1.0>  <lora:FELLATRIX:.75>

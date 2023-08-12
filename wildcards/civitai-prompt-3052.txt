@@ -1,0 +1,5 @@
+(masterpiece:1.2),(best quality:1.2),(Low saturation:1.2),(Light colors:1.2),(Isometric:1.1),<lora:LoraColorsTabiStyle_v10:0.8>,
+good lighting,(outdoors:1.2),(facing the door:1.3),
+convenience store,doorway,potted plant,watering,wooden fence,
+bicycle,Windows,(Red brick wall:1.2),autumn,
+AI is SB

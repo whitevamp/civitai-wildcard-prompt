@@ -1,0 +1,7 @@
+(masterpiece:1.1), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.2),(realistic:1.0),(ultra detailed1:0), (sharp focus1:0), (RAW photo:1.1), (lighting:1:1), Tokyo street, (night:1:1), Shibuya_\(Japan\), 
+
+marin_\(My Dress-Up Darling\), 1girl, ass, bangs, bathroom, bathtub, bikini, black_bikini, blonde_hair, blush, breasts, brick_wall, ceiling, closed_mouth, indoors, long_hair, looking_at_viewer, medium_breasts, red_eyes, shower_\(place\), shower_head, side-tie_bikini, side-tie_panties, smile, solo, swimsuit, tile_floor, tile_wall, tiles
+(Blonde to pink gradient long hair1:1.1), small breasts, sex smile, (ear piercing:1:1), earrings, looking_at_camera, 
+panties, nail_art, nail_polish, 
+
+ <lora:Marin_v1.2:1>

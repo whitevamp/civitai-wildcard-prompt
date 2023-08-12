@@ -1,0 +1,9 @@
+(nogizaka girl:1.3),(fair skin:1),(perfect body:1),(athlete:1),(nude:1.3),(curvy body:1),(model:1.3),(large breasts:1.2),(incoming kiss:1),(looking at viewer:1.3),(ultra high resolution:1.2),(best quality:1.2),(masterpiece:1.2),(realistic:1.2),(photo realistic:1.2),(professional lighting:1),(professional photo:1.1),(perfect anatomy:1),(sharp focus:1),(highly detailed:1.1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1),(bondage,leather leotard:1.3)
+BREAK
+(face:1),(half updo:1)
+BREAK
+(extremely detailed eyes and face and skin:1)
+BREAK
+The room is adorned with colorful decorations,balloons,and string lights. The women are sitting or lying on the bed,wearing comfortable pajamas of different colors and patterns. They are laughing,joking,and engaging in playful activities like pillow fights or tickling each other. Some may be holding gifts or balloons,adding to the festive atmosphere. The room is filled with joy and excitement,as they celebrate this special occasion together.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lora:add_detail:1>

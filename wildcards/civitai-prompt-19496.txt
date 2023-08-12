@@ -1,0 +1,3 @@
+masterpiece,best quality,(Night:1.7),china,shanghai,CityView,outdoors,city lights,skyscraper,street,close up
+1girl,Standing at attention,pose,large breasts, <lora:more_details:0.5>,
+ <lora:Dunhuang apsaras dudou_20230702114522:0.7> dress,underwear, see-through, chinese clothes, panties,

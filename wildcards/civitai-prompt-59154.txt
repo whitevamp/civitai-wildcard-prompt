@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:csm_yoru-20:0.8>, <lora:concept_yamchapose-10:1>, solo, 1girl, yoru \(chainsaw man\), yamachapose, lying, on side, closed eyes, school uniform, pinafore dress, shirt, neck ribbon

@@ -1,0 +1,1 @@
+RAW, symmetrical,High detail RAW color photo professional close photograph, slow motion, (sexy:1.2),(mid breasts),(beautiful:1.1),(attractive),perfectly detailed eyes,<lora:hanfuMing30:0.7>, (ming hanfu, ming style outfits, 1girl wearing  long shan and mamian skirt, standing collar:1.2),(full body: 1.3),<lora:taiwanDollLikeness_v10:0.2>,<lora:koreanDollLikeness_v15:0.1>

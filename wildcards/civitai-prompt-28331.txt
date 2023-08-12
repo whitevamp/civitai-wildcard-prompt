@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, playboy, 1950s, (RSEEmma:1.5),<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, nude, naked, breasts, nipples, vivid green eyes, thick eyebrows, parted bangs, black hair:pink hair, freckles, long flowing hair, :), smile, <lyco:playboy_v2.1:1.0>

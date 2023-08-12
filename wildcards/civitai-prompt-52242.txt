@@ -1,0 +1,7 @@
+masterpiece, best quality, highres, (photorealistic:1.4), (depth of field:1.8), a russian girl, (full body:1.4), (large breast), smiling, (looking at viewer:1.2),
+
+1girl, short hair, volleyball uniform, tall, realistic, indoor stadium,
+
+(pureerosface_v1:0.4), (aegyo sal:0.2),<lora:koreanDollLikeness_v15:0.3>, (ulzzang-6500-v1.1:0.2),
+
+<lora:volleyballUniform_v10:0.8>, <lora:byoru_10:0.0.5>

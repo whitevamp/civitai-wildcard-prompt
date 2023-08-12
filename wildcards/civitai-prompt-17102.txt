@@ -1,0 +1,15 @@
+Aesthetic: ((sovietwave, retro, nostalgic, USSR, synthwave, Soviet aesthetics):1.4)
+BREAK
+Composition: <lora:legslyside:1> 1girl, full body, laying on the side, ass focus, low camera angle, legs together,, pretty face, perfect face,, perfect breasts, fully clothed, wearing clothes, skirt, frilled skirt, (panties), pussy , thick thighs
+BREAK
+Lighting: <lora:difConsistency_photo:0.5> film photo,, film grain, vintage photo with film grain,, <lora:LOMO LC-A MINITAR:0.3> lml, film grain
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.991),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

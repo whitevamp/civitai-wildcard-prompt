@@ -1,0 +1,1 @@
+masterpiece, best quality,highres, (dramatic_light:1.5), 1girl,keqing,look_at_viewer, foral_background,crop_top_overhang,keqingdef,keqingopulent,keqingrnd,laboratory,lantern_background, <lora:keqing1:1>,keqingdef,Golden wheat, <lora:add_detail:0.7>, halo,

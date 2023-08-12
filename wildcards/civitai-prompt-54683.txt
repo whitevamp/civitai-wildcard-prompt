@@ -1,0 +1,3 @@
+concept art ,
+<lora:ArtNouveauAI:.8>, ArtNoveauAI,
+coffee maker, in kitchen

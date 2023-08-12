@@ -1,0 +1,8 @@
+8k hd, real life, ultradetailed pen oil pastel Impressionism painting on bristol paper,
+post-processing, colorgrading, vivid color, 60-30-10 color ratio,
+volumetric lighting, crepuscular rays, dynamic lighting, subsurface scattering,
+intricate details,(detailed expressive orange eyes:1.2),perfect eyes, perfect hands, perfect teeth,
+anatomically correct, anatomically correct genitalia,
+<lora:add_detail:0.7>,
+<lora:goblin_datasets_pruned:0.7>, cute goblin girl, female kneeling on stone, on front, hero view, nude, natural large breasts, presenting, looking at viewer, (long black hair:1.2), full-length portrait, black nipples, cute fangs, white claws, (5 fingers:1.2), erect nipples,
+matte green skin, dirty feet, tribal tattoo, tribal clothing, loincloth, seductive,half-closed eyes, bedroom eyes, 

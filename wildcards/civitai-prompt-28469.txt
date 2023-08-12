@@ -1,0 +1,7 @@
+(fantasy ice world, ice castle side background:1.4), (milky way, nebula:1.25), starry sky, shooting stars, vivid color, (glitters),
+kawaii cute princess 1girl standing, solo, cowboy shot, from below, light particles, light rays, (warm light in windows), looking at viewer,
+(detailed glowing light blue eyes), symbol-shaped pupils, ice tiara, long shining gray hair, [:(delicate fingers and hands):0.7], (left palm), large breasts, 
+detailed beautiful skin, gorgeous luminous crop top, off-shoulder transparent white dress, (purple or white ice flowers below:1.3),
+(masterpiece, best quality, high resolution, absurdres, intricate details:1.3), illustration, lens perspective, feminine,
+hyper detailed, highly detailed, ultra detailed, small details, trending on artstation, award-winning, good anatomy, 
+nice hands, perfect hands, <lyco:GoodHands-beta2:1>, <lora:flatBG:-1.4>

@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, Johnny,  <lora:HereIsJohnny:1>, broken wall, face only, gesugao, gesugao facial expression, sadistic smile, <lora:Expression_Gesugao:0.8>, makima \(chainsaw man\), <lora:Char_ChainsawMan_Makima:1>

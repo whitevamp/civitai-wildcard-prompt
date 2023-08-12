@@ -1,0 +1,1 @@
+<lora:ectoV5:0.8>, (ecto a younger woman, beautiful face, transparent torso, cyan hair, perfect face, close up, looking at viewer:1.3, navel, long hair, elegant), outside, graveyard, mansion, haunting, spooky, (masterpiece, best quality, absurdres, intricate, epic realistic, ultra-detailed, photorealistic), <lora:add_detail:1>

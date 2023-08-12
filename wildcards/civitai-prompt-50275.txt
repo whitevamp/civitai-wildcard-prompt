@@ -1,0 +1,5 @@
+masterpiece, high quality, 1girl, solo,  <lora:exusiaiArknightsV1:0.55>, exusiaioriginal,
+balck shorts, black pantyhose, halo,
+from behind,back,
+looking back, 
+cowboy shot, simple background,

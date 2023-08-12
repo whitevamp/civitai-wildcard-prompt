@@ -1,0 +1,1 @@
+absurdres, best quality, androgynous, solo, looking at viewer, <lyco:GoodHands-beta2:1.0>,   <lora:crona:0.5>,  Crona, (nervous:1), (scared:0.75), (hand on own arm:0.5), cuff links,  hair between eyes, black dress, purple hair, blunt bangs, closed mouth, hair flaps, long sleeves, solid circle pupils, black eyes,

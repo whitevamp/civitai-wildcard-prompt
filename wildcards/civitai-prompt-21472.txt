@@ -1,0 +1,2 @@
+((masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1girl, solo, Calming Palette, Tranquil Mood, Soft Shading,
+<lora:Egyptgodpunkv.8-000010:0.7>  <lora:Futuristicbot4:0.6>

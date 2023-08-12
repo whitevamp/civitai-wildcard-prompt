@@ -1,0 +1,1 @@
+valorantviper, green bodysuit, elbow gloves, belt, gasmask, looking at viewer, face, portrait, close-up, glowing eyes, green smoke,masterpiece,best quality, masterpiece, (photorealistic:1.4), <lora:koreanDollLikenesss_v10:0.2> ,<lora:viper-nvwls-v1-final:0.8>

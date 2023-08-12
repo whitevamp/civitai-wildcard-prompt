@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.2),1girl, solo,(arms behind back:1.2) (cowboy shot:1.3), (from front,breasts, navel:1.3),[swimsuit:(leopard print:1.2):0.2]<lora:Slingshot_AllLayer:1>,(pubic hair:0.8),

@@ -1,0 +1,5 @@
+(finely detailed beautiful face), (finely detailed beautiful widening eyes:1.1), (8k eyes), (8k pupils),(photorealistic:1.4), masterpiece, ultra quality, insanely detailed, (ultra high res), absurdres,raw,(standing, full body:1.2),
+girl, (18 yo:1.2), (_ hanfu,ming style),(tulle,translucent, see-through),stifled laugh,
+(pureerosface ,ulzzang-6500:0.5),
+Submissive,Innocent, seductive face,kawaii,
+<lora:汉服 关键词：明风汉服_ hanfu, ming style 宋风汉服_ hanfu, song style 唐风汉服_ hanfu, tang style 晋风汉服_ hanfu, jin style 汉风汉服_ hanfu, han style。hanfu_v30:0.5:1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0>

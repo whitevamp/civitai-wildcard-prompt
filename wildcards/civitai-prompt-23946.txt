@@ -1,0 +1,7 @@
+1girl, solo, (8k, highres, best quality, masterpiece:1.1), (full body:1.2),  (from above:1.2), looking up, looking at viewer,
+an illustration of a girl,
+ <lora:unagedown_V20:-1.5> age regression, suddenly turned into small child, ( oversized clothes:1.1), 
+(surprised:1.1), standing, fighting stance, at gardens, outdoors, detailed background, 
+BREAK
+<lora:flat2:-0.3> 
+ <lyco:ffvii_tifalockhart-10:0.9>tifadef, low-tied long hair, black hair, red eyes, straight hair, white tank top, suspender skirt, thighhighs, fingerless gloves, elbow pads, jewelry, earrings, midriff

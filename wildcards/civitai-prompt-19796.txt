@@ -1,0 +1,7 @@
+outfit-Implacablenun,white hair, very long hair,
+lifelike,nsfw,
+palace,
+Dreamlike Vibe, Surreal Beauty, Whimsical Glow,
+love, magical, romantic, joyous, unforgettable, passion, desire, devotion, bliss, forever, soulmate, forever,
+masterpiece,best quality, beautiful and aesthetic,
+<lora:outfit-Implacable-pynoise:1.1>  <lora:lowra_v10:0.35> <lora:OC:0.2>

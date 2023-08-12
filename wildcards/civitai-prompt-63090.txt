@@ -1,0 +1,3 @@
+1girl, long hair, (Nylon stockings:1.2), in a protective suit with, in a respirator, bed sitting, rust, an (abandoned room:1.3),
+8k, (detailed:1.15), (chromatic aberration:1.2)
+<lora:Dark:0>, (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded, slate gray atmosphere

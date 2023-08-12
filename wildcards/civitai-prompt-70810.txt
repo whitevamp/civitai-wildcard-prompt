@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,
+the lady dressed in a traditional chinese kimono sitting on a flower arrangement,, in the style of dark skyblue and light maroon, fujifilm eterna 400t, bold patterned quilts, fairycore, high quality photo, cult party kei, colorful muralist,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), Fujifilm XT3,((zentangle, mandala, tangle, entangle)),((entoptic patterns,multi-dimensional,multicolored)), <lora:add_detail:1>

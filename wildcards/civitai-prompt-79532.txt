@@ -1,0 +1,5 @@
+photo, 1girl, petite, delicate elven woman,  detailed eyes, radiant eyes, thin, thigh gap, thin waist, small breasts, transparent tunic, elaborate, lace, ornate, silver, necklace,  jewellery, silver belt, leather boots,
+winter landscape, forest, cold, chill, snow, falling snow, mysterious, fantastic, serene,  golden light, peaceful, backlight, golden rays, (from behind, backview)
+ (Award winning), (realistic, photo-realistic:1.4), (nsfw:1.1), bottomless
+(Good Highlights)), (Perfect Proportions), (dynamic), ((dramatic)), (intricate),
+photorealistic, realism,  natural colors, desaturated, sharp, high details, insane details, <lora:epi_noiseoffset2:0.3> <lora:add_detail:1>

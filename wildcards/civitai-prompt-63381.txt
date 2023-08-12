@@ -1,0 +1,8 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), soft light, night light, slim,raw photo,
+ass up wait, (photorealistic:1.6), 
+medium hair, brown hair, pantyhose, ((braids)),
+facing away, (dress:1.4),
+fit ass, 
+restaurant, standing, black panties,
+nsfw,
+ <lora:ass_up_wait.v1.3-sd:0.75>

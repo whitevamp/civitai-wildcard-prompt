@@ -1,0 +1,3 @@
+A medieval city gate flanked by stone towers, (reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, solo, extremely beautiful detailed face, outdoors, best shadow, 
+chainmail loincloth upper body, medium breasts, platinum blonde hair, long hair, female in her Late twenties, Russian, blue eyes, 
+<lora:crop_shirt_underboob:0.6>, AS-Adult, <lora:chainmail:1>,

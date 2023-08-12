@@ -1,0 +1,3 @@
+1girl, green hair,(gold eyes:1.2), ceres fauna,<lora:ceres fauna:0.8>
+
+<lora:takanashi kiara elegant:0.8>  <lora:jackOChallengePoseLora_jackoposefront:0.8> jack-o' challenge, flexible, spread legs, top-down bottom-up,

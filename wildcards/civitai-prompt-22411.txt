@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:Nidalee:0.8> nidalee, basic_skin, 
+ <lora:add_detail:0.4> <lora:Elixir:0.4> <lora:more_details:0.4>  
+jungle, nude, nipples,  <lora:excessiveSparsePubic_v10:0.8> sparse pubic hair <lyco:GoodHands-beta2:0.8>

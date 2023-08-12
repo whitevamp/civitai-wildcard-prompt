@@ -1,0 +1,2 @@
+(masterpiece, absurdres,  :1.2), best quality, extreme detail, perfect face, 4k, 1girl, standing, cowboy shot, nude, blush, embarrassed, 
+<lora:0.coveringBreastsAnd_v1:0.5>, covering breasts, covering crotch, street,

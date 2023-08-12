@@ -1,0 +1,1 @@
+a HDR full body shot photograph of (((cutest young smiling samourai cat intricate detail)))((cooking fish soup:1.2)), ((intricate cyberpunk cyborg:1.2)), detailed eyes, soft bokeh, (atmospheric light), (sharpen light and shadow), <lora:wowifierXL:0.7>  <lora:offset_0.2:0.4>

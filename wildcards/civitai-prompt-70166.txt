@@ -1,0 +1,1 @@
+best quality, 1boy, solo, frieza, male focus, colored skin, red eyes, (objection), (pointing:1.4), courtroom, indoors, <lora:Frieza:0.9> <lora:objectionAceAttorney_objection:0.5>

@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, realistic, bibleblack, 
+YukikoMinase, 1girl, 1boy, from side, penisface, penis on face,  facial, large penis, worship, bukkake, cum on face, room background, floor,
+open mouth, (tongue out:1.2),  ahegao, rolling eyes, happy, smile,
+[black hair:green hair:26], short hair, lipstick, eyelashes, yellow eyes, detailed eyes, detailed face, jewelry,
+nude, 
+curvy, huge breasts, 
+<lora:YukikoMinase:0.85> <lora:bb-style:0.25> <lora:penisfacev1:0.5>

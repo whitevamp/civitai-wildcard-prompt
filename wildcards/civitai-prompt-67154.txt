@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, sharp focus,
+1girl,  
+ <lora:logo_v1-000012:0.8> logo, white background,simple background, positive and negative space  
+<lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, gura_atlantis, gradient dress, laurel crown,

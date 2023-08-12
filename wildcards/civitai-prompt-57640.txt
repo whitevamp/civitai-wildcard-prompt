@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:hazbin_morningstar-10:0.8>, cowboy shot, solo, 1girl, charlie morningstar, smile, looking at viewer, red suit

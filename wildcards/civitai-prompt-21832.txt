@@ -1,0 +1,1 @@
+space, moon, constellation, crescent_moon <lora:universe:0.8>

@@ -1,0 +1,2 @@
+<lora:MongolPunkAI:.8> MongolPunkAI
+coffee machine  , detailed, intricate

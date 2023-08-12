@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, 1girl, full body shot, <lora:shirtliftALORAFor_shirtliftv1:0.85>, shirtlift, (gray sweater:1.2), (black thong:1.2), black hair, (bear feet), light green pupils, looking at viewer, smirking, blush, standing seductively, in the living room,

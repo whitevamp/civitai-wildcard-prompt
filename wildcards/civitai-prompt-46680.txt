@@ -1,0 +1,1 @@
+(photorealistic:1.4), (masterpiece:1.2),Lucy \(cyberpunk\), lying submerged in bathtub, naked, plugged in, sleeping, cables coming from body,  close up, <lora:lucyCyberpunk_42Epochs:0.7>

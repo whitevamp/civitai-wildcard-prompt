@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), looking at viewer, smile seductively, <lora:russianDollLikeness_v3:0.45>, 1GIRL, RUSSIAN

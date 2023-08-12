@@ -1,0 +1,2 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:14.52:1>pixai, woman,grin, closed eyes, brown hair, bob cut, hair ornament, cropped jacket, glitter, 
+fullbody

@@ -1,0 +1,6 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,
+40K, HDR, highres,sharp focus, portrait,upper body, depth of field,cowboy shot, 
+(There is a castle in the distance on a prairie,blond and long ponytail:1.2),
+1girls,standing,Corset, cat earrings, jacket, leather, gloves, leather shoes, tight jumpers, necklace,
+large breasts ,cleavage,
+ <lora:20230526163633-000002:0.9:1,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0>

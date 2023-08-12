@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, 2girls, pointing, open mouth, :o, soyjack, risky, blue skin:0.6-0.8, pirate hat, choker, wrist cuffs, hoop earrings, bustier, purple pants, high heels, standing, ((solid white background)), upper body, up close  ,  <lora:soyjaks:1> <lora:risky-nvwls-v1-final:0.8>

@@ -1,0 +1,1 @@
+Best quality,masterpiece,ultra high res,(photorealistic:1.4),raw photo,1girl, (full body), (wearing satin red dress:1.2), city street at noon, good hand,4k, high-res, masterpiece, best quality, head:1.3, wearing oversized_fur, in the dark, deep shadow, low key, cold light, <lora:LowRA:0.5> <lora:oversized_fur:0.65>

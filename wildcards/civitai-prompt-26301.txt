@@ -1,0 +1,4 @@
+(one male) (portrait) (headshot).
+Very detailed masculine face, heroic, detailed realistic open eyes, (muscular:1.5), (big muscles), (big pectorals), (slight smile). (shirtless) (topless male)
+Realistic, photoreal, studio portrait, high definition, high contrast, high saturation, highly detailed, high quality, masterpiece, rim lighting, backlit, volumetric light, vibrant colors.
+<lora:BeautifulEyes:0.9>

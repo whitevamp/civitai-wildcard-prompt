@@ -1,0 +1,5 @@
+(masterpiece, best quality),  intricate details,
+1girl,  blue hair, blue eyes, elf, 
+black leather armor,  explorers satchel, 
+<lora:SteamPunkAI:0.5>  steampunkai,   <lora:postapocalypse5MBLora_5MB:0.8> postapocalypse,  rugged, gritty, dirty,  
+fantasy, debris, destroyed village,

@@ -1,0 +1,1 @@
+onoff, night scene, dark, side-by-side photo of a pretty African woman, in pink t-shirt and shorts, (sleeping in bed:1.4), sleeping pose, shiny skin, photorealistic, realistic skin, (best quality), (extremely sharp focus), full body shot, dark night scene, stunning photo with high color saturation, <lora:onOff3:1>  <lora:DatBush:0.2>

@@ -1,0 +1,1 @@
+a robot,solo,rich color,Gradient,(glow:1.2),complex background,Helmet,Horns,<lora:MG_jijia:0.8>,

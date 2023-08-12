@@ -1,0 +1,3 @@
+nsfw, (dynamic pose), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, dust particles, rim light, 
+1girl, upper body, bathing, river, reeds, lens flare, shade, bloom, light smile, double hair bun, blonde hair, green eyes, nipples, pussy,
+<lora:add_detail:1> <lora:FilmVelvia2:0.4>  <lora:watervfx:0.8>,

@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, light rays, sunrays, perfect skin, female, looking at viewer, (RSEEmma:1.5), smile, blue eyes,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, freckles, dark skin, long hair, breasts, nude, naked, <lora:coils_v0.1:1>, (coils), (snake:1), python, anaconda, boa, jungle, waterfall,

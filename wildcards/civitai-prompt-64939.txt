@@ -1,0 +1,5 @@
+masterpiece, best quality, cute and beautiful boy, highly detailed beautiful face and eyes,highly detailed skin,
+(1boy:1.4), solo, ((full body)),  ((18 years old)),
+Kaworu Nagisa, short hair, red eyes, gray hair, Background is beach, 
+looking at viewer, abs:0.8, muscled:0.7, (bule, short swim trunks), choker,
+<lora:MISC_pantybulge_v1:0.8>,  <lora:EVA_NagisaKaworu_v1:0.8>

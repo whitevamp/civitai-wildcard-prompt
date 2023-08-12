@@ -1,0 +1,4 @@
+1girl, 
+Hair flowing freely, donning a casual, denim-based outfit that combines classic style with modern twists, her eyes reflecting the laid-back charm of the city, standing within a popular, urban shopping district lined with trendy boutiques and vintage stores, her hair ornamented with a subtle, city-inspired hair charm, leisurely exploring the city's fashion scene as she hunts for the next big trend, her attire capturing the spirit of the city's ever-evolving fashion scene, alone, BREAK,
+Harmonious composition, distinctive style, naturalistic representations, poetic melancholy, striking juxtapositions, narrative elements,
+ low key,deep shadow,<lora:epiNoiseoffset_v2:1>

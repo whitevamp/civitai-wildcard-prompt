@@ -1,0 +1,4 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (a high detail RAW color professional full body photo), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+([catfor'sReality_v1.3 : 1girl : 5]),
+Vintage photography studio with a darkroom and antique cameras,
+<lora:simplePointedToeHeelswithoutStrap:0.4>, beautylegs, slim legs, long legs, high heels, <lora:edg_swedishDollLikeness:1>, beautiful edgSwedish_woman,perfect edgSwedish_face, perfect edgSwedish_body,

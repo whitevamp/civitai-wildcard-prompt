@@ -1,0 +1,9 @@
+1girl, standing, upper body, double v, v, toga himiko, 
+blonde hair, hair bun, messy hair,
+yellow eyes, looking at viewer,
+smile,
+black microskirt, cardigan,
+eqcok, (erection, large penis, large testicles, sagging testicles:1.2), (blunt tip, urethra:1.2), cock sheath, (thick penis:1.2),
+black testicles, pink penis,
+street, afternoon, sunset, alley,
+<lora:Horse Erect:1>  <lora:Rabbit (wlsdnjs950):1>  <lora:himiko-toga-locon:1>

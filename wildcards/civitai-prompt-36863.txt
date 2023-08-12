@@ -1,0 +1,1 @@
+nsfw, (1girl,  short white hair, red eyes, snake eyes, <lora:snake-eyes:1>, worried) (digital) (resting in bed, from above, legs spread in detailed bedroom, (nude, one-piece tan)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> swimtan  <lora:swimtan:1>

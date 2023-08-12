@@ -1,0 +1,3 @@
+1girl, open mouth, close-up, uvula,
+
+<lora:concept-face_poser-v4:1>,

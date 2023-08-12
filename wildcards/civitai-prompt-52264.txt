@@ -1,0 +1,4 @@
+best quality, intricate details,
+
+
+1girl,      <lora:hannahOwo_v1:0.8> hannahowo,

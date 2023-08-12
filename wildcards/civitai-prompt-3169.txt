@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (a high detail RAW color professional full body photo), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+A fusion of organic and inorganic elements, blurring the boundaries between nature and art, Malachite, Cloaked, Heiress, Short, Wide Hips, Heart-Shaped Face, Fair Skin, Light Brown Hair, aquamarine Eyes, Narrow Nose, Pouty Lips, Round Chin, Long Hair, Thick Hair, Triple Braided Crown, round breasts, , hot pink gloss lipstick, In a secret enclave, a mystical garden reveals, its ethereal blossoms exuding a captivating aura of magic,
+<lora:sxz-niji-v2:0.4>

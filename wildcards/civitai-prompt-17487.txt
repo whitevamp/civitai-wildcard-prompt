@@ -1,0 +1,3 @@
+masterpiece, best quality,white hair,long hair,spread legs,white pantyhose,white bra,straight-on, shiny skin,pussy juice,wet,sweating,body tattoo,Vaporwave,huge breasts,loli,bathroom,pink hair, purple eyes,<lora:Oilgorl-000012:1>,oil skin.
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry，bad feet,EasyNegative
+Steps: 18, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2904330282, Size: 448x768, Model hash: 67a5cb1ced, Model: 自由熔炉68-2042-2296-0325, Denoising strength: 0.53, Clip skip: 2, ENSD: 31337, Version: v1.2.1, Hires upscale: 1.8, Hires upscaler: Latent (nearest)

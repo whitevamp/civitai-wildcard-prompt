@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:RavenTT-000007:0.7> RavenTT, dynamic pose, forehead jewel
+sweater vest, plaid skirt, white collared shirt, long sleeves, thighhighs
+BREAK
+gorgeous, view

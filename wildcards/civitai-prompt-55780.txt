@@ -1,0 +1,1 @@
+negative space, portrait of a woman standing , willow branches, (masterpiece, best quality:1.2), traditional chinese ink painting, modelshoot style, peaceful, (smile), looking at viewer, (wedding dress:0.8), (mechanical exoskeleton:1),song, willow tree in background, wuchangshuo, <lora:Moxin_Shukezouma11:0.7> <lora:Moxin_10:0.65>

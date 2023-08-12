@@ -1,0 +1,3 @@
+best quality, <lora:add_detail:0.3>, <lora:character_lucyHeartfilia_(lucy heartfilia):1>, lucy heartfilia, (1girl, solo), blond hair, large breasts, brown eyes, <lora:concept_burstingBreasts_LOCON_v1:1> 
+<lora:concept_costume_grisSwimsuit_v10:1>, gris swimsuit, cameltoe, thigh gap, [covered nipples], smirk, smug, teeth, seductive smile, horny, light blush, leg muscles, abs, biceps, partially submerged, standing, hand on hips, v, seductive pose,  
+beach, sunny, in the water, wet, wet hair, tropical, splashing water, (pussy slip:1.6, clitoris slip, areola slip)

@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo, looking at viewer, eye focus,  <lyco:GoodHands-beta2:1.0>,  <lora:rei_evangelion:0.5>, rei_evangelion, light blue hair, red eyes, long hair, absurdly long hair, kinky hair, plugsuit, pilot suit, interface headset, white bodysuit, white pilot suit, white plugsuit, (messy hair:1), (expressionless:1)

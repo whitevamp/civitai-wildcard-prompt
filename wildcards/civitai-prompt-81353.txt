@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.4),
+1girl, standing, full body, furry female, body fur, (white fur, white skin:1.2), digitigrade,
+white hair, long hair,
+black mask, (blue eyes, glowing eyes:1.4),
+hooves, white thighs,
+<lora:kindred:1> <lora:epiNoiseoffset_v3:2>
+BREAK,
+nature, jungle, magical forest, fantasy forest, grass, purple leaves, plants, glowing flowers, rocks, day,

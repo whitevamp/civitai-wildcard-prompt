@@ -1,0 +1,6 @@
+spikes hair , woman standing,  beautiful, sharp focus, masterpiece, facing viewer, fashion photoshot, net,
+
+blond hair, goth style, latex, close, intimate,
+[(colorful explosion psychedelic paint colors:1.2)::0.15],
+
+centered, realistic, professional, black background, plain black background

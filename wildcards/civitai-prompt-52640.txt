@@ -1,0 +1,4 @@
+best quality, intricate details, 
+
+
+ <lora:KukiShinobuLORAGenshin_v4:0.8> KShinobuV4,  <lora:bdsmPilloryLora_v1:0.8> pillory,  from front, chained, tied, standing,

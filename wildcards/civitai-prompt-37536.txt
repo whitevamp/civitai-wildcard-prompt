@@ -1,0 +1,6 @@
+(highres, best quality:1.3), intricate details, vibrant image, colorful,
+KarenVenus, solo, 1girl, mature female, milf, (full body:1.1), (1boy:1.1), skirt lift, (ass grab, hand on ass:1.3), chikan, street cityscape, city lights, night, starry sky,
+blush, shy, annoyed, open mouth, brown hair, long hair, makeup, blue eyes, perfect eyes, perfect face, detailed face, hoop earrings, glasses,
+suit, open shirt, pencil skirt, (pantyhose:1.1), high heels,
+(curvy:1.1), huge breasts, cleavage, lace panties, ass
+<lora:KarenVenus:0.85> <lora:graa:0.7>

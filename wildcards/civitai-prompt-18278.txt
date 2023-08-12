@@ -1,0 +1,2 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality
+(Olden Vietnamese village:1.3),(Grand banyan tree:1.2),(Picturesque water well:1.4),(Traditional communal hall:1.3),(Authentic rural architecture:1.2),(Enchanting village setting),(Crystal-clear water in the well:1.3),(Gentle rustling of the banyan leaves:1.2),(Charming countryside ambiance),(Sentimental allure:1.3),(Tranquility of rural life:1.2),(Legacy of the past:1.4),(Captivating panorama:1.3))<lora:add_detail:1.0>

@@ -1,0 +1,1 @@
+<lora:Style - Nadegata:0.6>, demon tail, <lora:Race - Succubus:0.6>

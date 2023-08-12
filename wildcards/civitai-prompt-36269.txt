@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, night, dark, cinematic lighting, adult, female, looking at viewer, cowboy shot, (RSEEmma, gaz:1.5), <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>,  short purple hair, closed eyes, sharp hair, pointy hair, sharp bangs, spiky hair, gagoth, black dress, skull necklace, striped thighhighs, striped sleeves, <lora:Gaz:0.8>

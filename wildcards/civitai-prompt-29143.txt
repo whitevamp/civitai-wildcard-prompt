@@ -1,0 +1,8 @@
+masterpiece, best quality, ultra-detailed, illustration,
+(1girl),beautiful detailed eyes, 
+<lora:titaniafrost-lo-richy-v1:1> titaniafrost, blue hair, glowing eyes, red eyes, huge breasts, BREAK
+v-shaped eyebrows, (frown:1.1), cruel, evil, closed mouth, (head tilt:0.8),
+<lora:WomanBusinessSuit_v10:0.8>, red business suit, pencil skirt, coat, street, solo , looking at viewer, cleavage, jewelry, choker, large breasts, mature female, bag, phone,
+looking at viewer, modelshoot style, (fcDetailPortrait:0.8), beautiful scenery, cowboy shot,
+striding away[::1],  <lora:more_details:0.3> ,
+<lora:GoodHands-vanilla:0.5>

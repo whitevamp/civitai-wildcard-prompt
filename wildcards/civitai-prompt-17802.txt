@@ -1,0 +1,3 @@
+(raw photo photographed by Canon EOS 1DX mark II and ZEISS Planar 85mm Lens and Aperture f/16 and Shutter speed 1/1000s and ISO 100:1.05),  depth of field, 
+ the most beautiful skinny korean idol at redcarpet wearing Deep V neck dress and droptop, 
+(ulzzang-6500:0.8), (detailed face: 1.05), <lora:chinaDollLikeness_v10:0.4> <lora:deep_v-neck_dress:0.3> <lora:droptop:0.35>

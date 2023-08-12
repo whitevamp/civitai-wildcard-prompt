@@ -1,0 +1,1 @@
+(masterpiece),high quality,super detailed,focus sharp,4k,best quality,1girl,white hair,short hair,(shiny) golden eyes,angry eyes,(angry expression),big mouth,red light face,tongue out,long tongue,(saliva),uvula,throat,face,head,(closeup),(good teeth),inner mouth, <lora:sweat_lotion_v2:0.7>, <lora:concept-face_poser-v4:0.4>, <lyco:Bigmouthv2:0.2>,  <lora:verylongtongue:0.4>,

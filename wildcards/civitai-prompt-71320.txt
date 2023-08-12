@@ -1,0 +1,6 @@
+(Masterpiece, Best Quality, High Quality:1.4), professional artwork, Intricate Details, field of view, sharp focus, detailed painting, photorealistic lighting, trending on pixiv, (vivid lighting, vibrant colors:1.05), realistic shadows, ambient occlusion, by Takato Yamamoto
+Marie Mamiya, mature female, milf, solo, (curvy:1.1), sitting on sofa, crossed legs, luxury room, (cowboy shot:1.1),
+(red hair:1.05), hair ornament, lipstick, makeup, (mole under eye:0.9), choker, ultra detail hair, ultra detail face, (yellow eyes:1.05), perfect eyes, perfect face, earrings, (seductive look, blush:1.2),
+(main dress:1.2), choker, (black thighhighs:1.1),(highheels:1.2), bare shoulders, necklace, fingernails,
+(Large Breasts:1.15), Cleavage, big ass, thighs
+ <lora:MarieMamiya:0.85>

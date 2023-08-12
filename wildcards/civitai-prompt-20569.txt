@@ -1,0 +1,4 @@
+1girl, (1boy, fat man, old man), hetero, front view doggystyle,facing viewer, arm grab, <lora:front view doggystyle(arm grab):0.8>
+cute girl, cute face,  Sena Kashiwazaki, long hair, butterfly hair ornament, st. chronica academy school uniform, green jacket, plaid skirt,  <lora:SenaKashiwazakiLORA-000007:0.6>, 
+glowing eyes, heart shaped pupils, open mouth, shouting, drooling, (breath), (peeing,(orgasm), screaming, ahegao:1.2), crying, tears, panting,
+detailed background, forest,  shading eyes, contrapposto, low angle shot, beautiful detailed girl,

@@ -1,0 +1,1 @@
+(photorealistic:1.4),Best quality, masterpiece, ultra high res ,(1girl), sitting pose, indoor, library background, on sofa,  beside window,<lora:koreaface10:0.8>, beautiful korean girl, smile, look at viewer, white shirt short sleeves, black pleated skirt, belt, <lora:mahalaiuniform-000001:0.8>

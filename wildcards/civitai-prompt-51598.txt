@@ -1,0 +1,2 @@
+<lora:cuteGirlMix4_v10:0.5>, mix4, (raw photo),(best quality), (photorealistic:1.1),(realistic, photo-realistic:1.1), 
+ a girl, upper body, high detail face, smile,[ash blonde | ginger | brown gray hair], Fujifilm XT3, create a polished and powerful look, cityscape, formal wear, night, cityscape

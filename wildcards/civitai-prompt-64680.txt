@@ -1,0 +1,2 @@
+<lora:tendertroupe_v2.2:1> <lora:jabba_v4.5:1> 
+jabba, solo, 1boy, cartoon, chibi, sitting, living room, (fire:1.0), smoke, burning, before and after, funny, bored, looking at viewer, smile, drinking,  cake, happy birthday, birthday party, burning, (flames:1.2),, masterpiece, best quality, highly detailed

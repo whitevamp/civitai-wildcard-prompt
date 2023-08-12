@@ -1,0 +1,5 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5>  <lora:AbstractPortrait_50_R:1>
+pxint, illustration, 8k,highres, 
+ woman, smug,evil smile,  large breasts, smirk,eyelashes,necklace, hairpin, 
+abstract,  white,blue,green, ink ,splashing, vortex,
+portrait,pov, three-tone background,

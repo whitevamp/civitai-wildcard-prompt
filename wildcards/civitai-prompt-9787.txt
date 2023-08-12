@@ -1,0 +1,1 @@
+(realistic, photo-realistic:1.4),extremely delicate and beautiful,finely detail,masterpiece,ultra-detailed,highres,best shadow,boke,very long sideburns,kasuga,brown eyes,blonde hair,short hair with long locks,open bodysuit,fishnets,gloves,brelet,cowboy shot,outdoor,looking at viewer,(japanese temple:1.5),dynamic pose,<lora:enako-v2:0.1> <lora:kasugaV2:0.7>,

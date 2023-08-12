@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl, solo,   <lora:CeresFauna:0.8> Ceres Fauna, antlers, long hair, braided bangs, hair flower,   green hair, 
+ <lora:39_KneesToChest:0.8>sitting, knees to chest, breast press, hugging own legs, medium breasts, nude, sideboob, from side,

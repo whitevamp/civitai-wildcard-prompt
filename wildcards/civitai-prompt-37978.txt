@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, backlighting,
+1girl, solo, sitting, upper body, kindred, lamb, white fur, white hair, lamb ears, black mask,
+blue eyes, 
+blue nipples,
+eqcok, big penis, big testicles, cock sheath, resting testicles, black teesticles, (blue penis:1.2), urethra,
+outdoors, nature, forest, (plants:1.2), flowers, trees, rocks,
+ <lora:Erect Horse Penis:1> <lora:Kindred:1>

@@ -1,0 +1,2 @@
+anime, all red background,girl in center, 1girl, album cover, paint, oleo, oleo paint, album cover, girl back watching behind, white formal shirt, collar wing, Fechin oil painting, medium shot, paint, <lora:MatoiRyuukoV3:0.7>,  matoi ryuuko, open shirt,
+ <lora:fechin:1> 

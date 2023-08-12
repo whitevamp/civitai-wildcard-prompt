@@ -1,0 +1,1 @@
+female,cyberpunk scene,woman yakuza gangland boss wearing trendy vest, oversized baggy trousers, cool overcoat,japanese tattoos <lyco:WomanBusinessSuit_v10:0.6>  <lora:MG_jijia:0.8>

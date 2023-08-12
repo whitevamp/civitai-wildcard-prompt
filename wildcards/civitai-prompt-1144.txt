@@ -1,0 +1,3 @@
+(anime:1.2),best quality, masterpiece, swimming, dynamic pose, water, ocean,
+1girl, hana, red hair, short hair, medium breasts, one-piece_tan, tan, green eyes,black micro bikini, looking at viewer, outdoors, beach, happy, (crowd:0.65), palm tree, (blush:1.3),
+<lora:Kizuki - Solmi Channel - Hana:0.95>

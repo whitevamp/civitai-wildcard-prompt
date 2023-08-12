@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:maid_bikini:0.8>
+ woman,solo, large breast, embarrassed ,blush, smile, closed eyes,  forehead, bob, black hair,  glasses, MAID BIKINI,MAID HEADDRESS, beach, reaching out,reaching towards viewer,
+close-up, cowboy shot, 
+nsfw

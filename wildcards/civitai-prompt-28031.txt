@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  <lora:GoodHands-vanilla:1>, 1girl, sheer white crop top, long hair, <lora:sheer-05:1>, (nipples:1), epic character composition, sharp focus, natural lighting, subsurface scattering, (city bg), bokeh, f2, 35mm, film grain, <lora:LowRA:0.3>

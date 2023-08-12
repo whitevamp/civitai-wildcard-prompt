@@ -1,0 +1,15 @@
+Aesthetic: ((normcore, mainstream, simplicity, unpretentious, blending in, anti-fashion):1.4)
+BREAK
+Composition: 1girl, beautiful woman, legs spread, perfect body, presenting, <lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),, ((tank top, short shorts)) , skin tight, top of head in frame
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.996),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

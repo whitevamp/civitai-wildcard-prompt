@@ -1,0 +1,15 @@
+Aesthetic: ((cyberdelic, mind-bending, psychedelic, cybernetics, altered states):1.4)
+BREAK
+Composition: pretty girl, standing, presenting, (pretty face, perfect face, perfect eyes),, <lora:CatholicSchoolUniformDogu:0.5> ((wearing catholic school uniform, red pleated skirt, white button up shirt, red neck tie)), ((wearing clothes, fully clothed, covered breasts)), big breasts
+BREAK
+Lighting: Bright Daylight, Sunny, Cheerful
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lyco:ShinyOiledSkin_v20-LyCORIS:0.5> (glossy skin, smooth skin),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

@@ -1,0 +1,5 @@
+isometric,(masterpiece,best quality,highres,ultra_detailed:1.2),illustration,
+1girl,solo,flat_chest,petite,detailed_face,ahoge,(fullbody),
+(black_hair,short_chopped_hair:1.4), (cat_ears:1.1), (black_serafuku:1.2),white_shirt_short_sleeves,
+road,grass,flowers,plants,small_butterflies, dark_blue_background,starry sky,night
+ <lyco:isometric_128dim_locon_20epo:1.0> <lora:lightAndShadow_v10:0.4>

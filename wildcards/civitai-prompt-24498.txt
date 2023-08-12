@@ -1,0 +1,1 @@
+<lora:more_details:0.6>,   <lora:ClothMaid1:0.7>,((looking down)), girls in traditional maid outfit standing with hands clasped in front of them and looking at the floor in shame,<lora:unhorny_v01:-1>, 2girls

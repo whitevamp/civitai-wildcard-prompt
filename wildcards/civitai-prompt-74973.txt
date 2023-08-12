@@ -1,0 +1,1 @@
+Dark_Fantasy,Cyberpunk,(chain saw,chain saw man,Red:1.1),1man,Mechanical marvel,Robotic presence,Cybernetic guardian,<lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.2>,<lora:warframe_v1-000012:0.2>

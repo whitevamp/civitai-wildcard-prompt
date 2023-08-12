@@ -1,0 +1,3 @@
+masterpiece, 
+1girl,
+ <lora:otafuku:-2.5>face,

@@ -1,0 +1,1 @@
+chibi, full body,  <lora:blindbox_V1Mix:0.8>,  <lora:6o9Face_v1:1.1>,  <lora:hitoriGotohBocchiThe_v1:0.5>, <gotou:1>, pink hair,

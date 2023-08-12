@@ -1,0 +1,5 @@
+<lora:piperperrimeme_v1.1:1.0>
+(piperperrimeme:1.0), multiple boys, surrounded, sofa, 6+boys, 5boys, 
+1girl, solo, sitting, indian style, 
+<lora:animeScreenshotLikeStyleMixLora_v10:0.4>, 
+<lora:sono-bisque_v4.0b:0.85>, rizu-kyun, puffy sleeves, navel, v_arms, detached sleeves, horns, grin, white ribbon,, masterpiece, best quality, highly detailed

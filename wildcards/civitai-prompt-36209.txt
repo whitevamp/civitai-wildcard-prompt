@@ -1,0 +1,2 @@
+<lora:yurikaeroV1:0.4>yurika_misumaru, nadeshiko, breasts, large breasts,long hair, blue hair, navel,naked, sitting, spread legs,:d,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile

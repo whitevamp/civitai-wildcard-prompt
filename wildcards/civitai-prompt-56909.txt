@@ -1,0 +1,6 @@
+masterpiece, best quality,
+1boy, sex from behind,
+1girl,sole,(ymFace:1.2),short hair, white haire,black hairband,black bow,  black bowtie, 
+medium breasts, nipples, milking machine, (lactation:1.2),
+ <lora:youmuLike:0.8:PERSON>,
+ <lora:milkingMachine_v14:1:UNSTYLE>, <lora:doggystyleFromSide_dsv02:0.8>

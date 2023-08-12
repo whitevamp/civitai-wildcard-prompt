@@ -1,0 +1,1 @@
+RAW photo, exterior frontal shot, building, straight precise lines, white sky, (diffused light:1), (big reflective glass windows), wood frames, minimalist style, fog, (warm interior light:1), (open plaza full of people) <lora:MIR-v3:0.5> <lora:BRUTH3R:0.5> architecture photography, hyper realistic, super detailed, 8k, Nikon Z6 Mirrorless Camera, film grain

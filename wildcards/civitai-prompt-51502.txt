@@ -1,0 +1,6 @@
+[Image] 
+[Color]  
+[style]
+[Other elements]
+[highres] masterpiece, best quality, absurdres
+<hypernet:femaleTonguesAnd_femaleTonguesAnd:0.5>

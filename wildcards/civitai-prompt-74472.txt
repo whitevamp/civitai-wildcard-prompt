@@ -1,0 +1,1 @@
+(best quality, masterpiece, illustration:1.1), 1girl, female knight, full metal armor, red hair, grey eyes, holding sword, castle, sidelighting, (cowboy shot:1.2), <lora:HarvestBeta:0.8>,

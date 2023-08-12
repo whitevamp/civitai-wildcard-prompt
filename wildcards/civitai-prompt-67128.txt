@@ -1,0 +1,5 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), realistic, 8k, raw photo, panorama, cowboy shot, dynamic angle, beautiful detailed face, intricate details, ultra detailed, FilmG, (film grain:1.4),
+(1girl), (solo), (young), (blonde hair), (hair ornament:1.1), slim body, perfect skin, shiny skin, detailed face, makeup, pink lips, medium breasts, necklace, earrings, (intricate lace corset:1.2), (lace choker), detailed cloth texture, looking at viewer, happy,
+((((low key, dark scene, dimly lit)))), (((soft lighting:1.4))), best shadow, depth of field,
+<lora:FilmgirlLora_v40:0.55>
+<lora:Dreamy face:0.4:FA>

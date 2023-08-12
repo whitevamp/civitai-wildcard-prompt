@@ -1,0 +1,6 @@
+lucy fleming, lucy, fleming, inkcolor,
+1girl, solo, long hair, blush, smile, freckles,flying leaves, flying flowers,
+a girl leaning on a polar bear ,
+bird, cat, 
+2d, lineart,
+illustration,   <lora:animeLineartMangaLike_v30MangaLike:0.4> <lora:lucyfleming11-02:1.35>

@@ -1,0 +1,5 @@
+cloud, cloudy_sky, day, sky, blue_sky, scenery, ancient ruins, flower, gras, deep canyon, high ground  <lora:Stylized Ruins:1>,  <lora:add_detail:1>
+//
+,((1girl, 1boy, walk, travel, migration, fantasy)), 
+//
+, ((, Point of View Shot, POV, Aerial Shot, Helicopter Shot)), CGI, Realism, RTX, Tone Mapping, SSAO, Shaders, Moonlight, Volumetric Lighting, Volumetric Light, Volumetric, Sunlight, Natural Lighting, landscape, outdoors, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, super resolution, ultra hd, megapixel, , ((, Point of View Shot, POV, Aerial Shot, Helicopter Shot)), CGI, Realism, RTX, Tone Mapping, SSAO, Shaders, Moonlight, Volumetric Lighting, Volumetric Light, Volumetric, Sunlight, Natural Lighting, landscape, outdoors, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, super resolution, ultra hd, megapixel,

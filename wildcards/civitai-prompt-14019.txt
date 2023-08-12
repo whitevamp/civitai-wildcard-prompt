@@ -1,0 +1,1 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 1 girl, full body, fallen, in the sky, headphone, (cloudy:1.1), lofi color, neon color, <lora:LofiColor:0.65>

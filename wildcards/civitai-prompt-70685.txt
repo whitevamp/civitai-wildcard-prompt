@@ -1,0 +1,7 @@
+RAW photo, best quality, realistic,masterpiece,illustration,
+Harpy witch, bird wings, talon spell, harpy familiar, legendary creature,
+rainforest, waterfall, vibrant,
+(from below),
+Dramatic Lighting, Bold Coloration, Vibrant Warmth,
+depth of field,sharp focus,
+<lora:zhongfenghuaxiyou-000018:0.4>

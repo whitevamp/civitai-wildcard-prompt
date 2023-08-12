@@ -1,0 +1,6 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+nsfw, from behind, male pov, leaning over, all fours, bed, solo, mature female:1.3, lips long eyelashes, toned body, platinum hair, bob cut, blue eyes, pointy ears, huge breasts, cupless lace bra, nipples, crotchless lace panties, red panties, wide hips,  pussy, dark skin, ass, anus, gaping, pussy juice, cum, heavy breathing, heart,  blush, sweat,  <lora:cuplessCrotchless_v120:1>
+intricate, 
+skin pores, detailed skin
+(realistic:1.2), UHD, dramatic shadows, global illumination, high contrast 
+ <lora:krekkovStyleLora_v10:0.5> <lora:animeLineartMangaLike_v30MangaLike:0.5>

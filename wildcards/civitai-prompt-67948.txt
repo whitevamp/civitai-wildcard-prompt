@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:Wrise_Sombra:0.8> medium breasts, side shaved hair, purple outfit, 
+cowboyshot, facing viewer, frontal,  <lora:Futuristicbot4:0.6> futobot, cyborg,

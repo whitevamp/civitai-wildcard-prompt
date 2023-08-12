@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best qualit:1.4), (high resolution:1.4), anna of arendelle, surprised, black and yellow dress,long hair, <lora:anna_of_arendelle_v2:1> looking at viewer,

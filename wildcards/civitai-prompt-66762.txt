@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl, wrap_hip_one_piece_dress, cute, tight black dress,  close-up, seductive, erotic, sexy, in grant ball room, night, wet,professional lighting, photon mapping, radiosity, physically-based rendering, full body,thighhighs,legs together, huge breast, ponytail, NSFW, (cute face:1.1), (pretty eyes),(smile), 
+ <lora:WrapHipOnePieceDress:0.8>  <lora:koreandolllikenessV20_v20:0.2>

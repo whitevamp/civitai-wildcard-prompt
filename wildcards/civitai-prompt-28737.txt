@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+ <lora:tf2soldierlorav1:0.8> tf2soldier, redteam, bluteam,  1boy, male, helmet,

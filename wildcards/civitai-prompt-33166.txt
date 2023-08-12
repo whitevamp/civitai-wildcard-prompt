@@ -1,0 +1,5 @@
+masterpiece, mokdai, cream face, male, furry, 1boy,
+biceps, pecs, navel, black eyebrows, speedo, looking at viewer, big belly, 
+by kiyosan, (by Pino Daeni:0.9), anime, masterpiece, hi res, best quality, perfect anatomy,
+water splash, water drops, sunlight, (halo:0.6), detailed background,
+kneeling, teasing, <lora:111656:0.8>  <lora:mokdaiv1xy.safetensors:1>

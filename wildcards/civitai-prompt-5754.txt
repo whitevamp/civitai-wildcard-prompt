@@ -1,0 +1,3 @@
+masterpiece, best quality, ultra-detailed, illustration,
+MH2, 1girl, swimsuit, solo, bikini, brown hair, long hair, smile, grin, water, butt crack, white bikini, ass, side-tie bikini bottom, pool, brown eyes, sitting, looking at viewer, looking back, teeth,
+ <lora:hanketsuV2_0.6_MID5:1:XYZ>

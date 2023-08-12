@@ -1,0 +1,1 @@
+armor, wavy_hair, curly_hair, orange_hair, long_hair, 1girl, solo, helmet <lora:OC illustration:1>

@@ -1,0 +1,7 @@
+<lora:virtualgirlRin_v30:0.2>, <lora:upshirtUnderboob_v10:1>,
+(RAW photo:1.2),(photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res, HDR,8k resolution,
+dreamlike, check commentary, commentary request, scenery,((no text)),
+1girl, solo, (real human skin:1.3), (topless:1.5), (cleavage:1.4),(big breast:1.3),  (full body), (looking down at viewer:1.5),(wind blowing hair),
+(detailed eyes),(detailed facial features), (detailed clothes features), (black boots), (black bob hair)
+
+trending on cg society, plasticien, very long snow colored hair, (strong and toned abs), ((beautiful woman)), wearing turtleneck, very pale white skin, in snow, feminine and muscular, smiling

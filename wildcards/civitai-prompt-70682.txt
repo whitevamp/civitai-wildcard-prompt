@@ -1,0 +1,1 @@
+<lora:Tarotv0.2:0.9>, tarot card, the hierophant, man, religious robes, triple crown, scepter, throne, columns

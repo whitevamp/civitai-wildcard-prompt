@@ -1,0 +1,2 @@
+1girl, portrait, realistic, bare shoulders, sidelighting, wallpaper, nsfw, skirt, 
+ <lora:exposepanty-strong:1>

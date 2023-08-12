@@ -1,0 +1,3 @@
+multiple characters,1girl,1boy,<lyco:THINKMARK-v2:1>
+masterpiece, best quality, cloud strife, shoulder armor, sleeveless turtleneck, suspenders, belt, gloves, bracer, Close eyes, pain expression
+,crossover,ayanami_rei leaning on floor with eyes closed,outdoor,city ruins  <lora:cloudstrife-nvwls-v1-final:1>

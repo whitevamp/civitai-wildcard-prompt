@@ -1,0 +1,3 @@
+(masterpiece),(best quality),(ultra-detailed), (photorealistic), (full body:1.2), simple background,  dim colors
+1girl,chibi:0.8,   furry, nanachi \(made in abyss\), nanachihat, nanachipants,hands_on_hip:2.0, 5 black_fingers:2.0
+<lora:nanachiMadeInAbyss_charNanachi:1>, standing on a stand, <lora:blindbox_V1Mix:0.8>

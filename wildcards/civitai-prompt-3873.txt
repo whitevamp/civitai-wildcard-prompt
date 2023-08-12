@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), (extremely intricate detail), extremely delicate and beautiful,
+beautiful and aesthetic, (cute, pretty), full body, dynamic angle, ((a female model gracefully strutting down the runway)), ((spectators in awe, marveling at the glamorous runway)), 
+(chic, sophisticated, Contemporary runway fashion_show:1.2), Runway extravaganza, Designer fashion labels showcased on the runway, Model strutting confidently on the stage, walking to runway, walking forward, Dazzling lights illuminate the runway, cinematic lights, spotlight, Captivating runway performance,
+light smile, (gigantic breast:1.2), mature_female, very long hair, (shiny skin, pale skin:1.2)
+<lora:add_detail:0.5>,

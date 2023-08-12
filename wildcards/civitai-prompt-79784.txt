@@ -1,0 +1,4 @@
+extremely delicate and beautiful,Amazing,finely detail,masterpiece,ultra-detailed,highres,(best illustration),(best shadow),intricate,
+an anime painting that is populated with many people,in the style of macabre fantasy,ornate complexity,prismatic portraits,mindbending sculptures,detailed facial features,trompel'Sil illusionistic detail,neogeo,(blue eyes:1.4),
+sharp focus,volumetric fog,8k UHD,high quality,black and red tone impression on background,
+<lora:add_detail:1>,

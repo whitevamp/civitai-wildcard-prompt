@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), (extremely intricate detail), extremely delicate and beautiful, beautiful and aesthetic, (( nsfw:1.4,   large breasts,   pubic hair:1.5, muscular:1.2, smile:1.5, dark nipples, wet clothes,, ,, wet,looking at viewer,  blush,hand up,after sex,  ))  ,long hair, black hair, hair flower,  
+ (photorealistic, realistic ,)
+ <lora:LowRA:0.3>,((dark theme)) , <lora:epi_noiseoffset2:0.2>
+<lora:add_detail:0.3>,
+((1girl))

@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format,  (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman, freckles, ruby eyes, light blonde lob hair,
+(style-swirlmagic:0.9),  looking down, solo, half shot, detailed background, detailed face,  eyes ablaze with dark power,   vampiric hemomancer, red  clothes, capelet,   malicious expression, red sigils swirling in the air,  crimson color scheme, hemomancy, suspended ball of blood, blood swirls in background,  blodd haze, dim light, symmetrical composition, cinematic atmosphere,
+<hypernet:sxzBloom_sxzBloom:0.2>,

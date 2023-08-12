@@ -1,0 +1,2 @@
+oil painting, best quality, masterpiece, ultra high res,
+<lora:FilmVelvia2:0.4>,

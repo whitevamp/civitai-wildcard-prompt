@@ -1,0 +1,1 @@
+(AS-YoungV2:1), <lora:Squeezer2:0.2>, <lora:more_details:0.6>, girl in toga and sandals standing on one leg leaning back against marble column,  blushing,<lora:fantasy_toga:0.8>  <lora:unhorny_v01:1>  <lora:ClothingAdjuster2:-0.4>, medium breasts,   pov,  legs together, ((clenched fists))

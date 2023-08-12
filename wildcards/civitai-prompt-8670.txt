@@ -1,0 +1,1 @@
+(sony A7),(85mm film),((natural blurry)),best quality,masterpiece,(photorealistic:1.4),1girl,light smile,shirt with collars,waist up,dramatic lighting,from below,outdoor,looking at viewer,updo haircut,curvy,short sundress,flower field,blue sky,beautiful lighting,ultra highres,<lora:XM_1_1:0.9:FACE>,<lora:Analog Style Fuji:0.5>,(((bokeh))),macro shot,

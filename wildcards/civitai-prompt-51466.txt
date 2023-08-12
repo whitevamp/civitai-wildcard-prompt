@@ -1,0 +1,1 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2),1girl,chibi, artoria pendragon \(fate\), armor, dress, ((sitting on a throne)), (beautiful detailed face), (beautiful detailed eyes:1.12), (looking away), <lora:blindbox_V1Mix:1>, <lora:ironcatlora1Artoria_v10:1>, reflection, excalibur \(fate/stay night\), (holding sword:1.1),  (from below),

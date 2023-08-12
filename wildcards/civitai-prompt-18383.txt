@@ -1,0 +1,1 @@
+char-kokona,outfit-inori, 1girl, solo,breasts, hair ornament, large breasts <lora:outfit-inoriv2-pynoise:1>

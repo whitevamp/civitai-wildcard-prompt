@@ -1,0 +1,1 @@
+masterpiece,1girl, <lora:blushyspicy-16:.9> blushyspicy, cowboy shot, white background, <lora:jinxLeagueOfLegends_v10:1> jinxlol

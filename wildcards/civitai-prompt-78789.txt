@@ -1,0 +1,11 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.2),(highres),(upper body:1.4),front,
+(1girl:1.1),standing,waving,open hands,
+<lora:akanev2:0.7> akane, long bob,white shirt, sweater vest, black vest, blue necktie,
+ <lora:hoshino_ai_v0.1a:0.6> ,
+star pupils,glowing eyes, star-shaped pupils,
+smile,open mouth,evil smile,
+indoor,classroom,
+<lora:anime_minimalist_v1-000020:-0.1>
+<lora:flat2:-0.2>,
+<lora:LowRa:0.2>  ,
+ <lora:star-shaped pupils Ai Hoshino:0.4>

@@ -1,0 +1,4 @@
+(masterpiece, best quality:1.2), (tsurime:1.2),
+1girl, female, solo, face focus, face close-up, close-up face, 
+1girl, mordred (fate), blonde hair, mordred (memories at trifas) (fate), shorts, mordred (fate/apocrypha), solo, breasts, jewelry, ponytail, looking at viewer, necklace, belt, squatting, simple background, white background, denim shorts, denim, braid, cutoffs, red scrunchie, boots, cleavage, navel, bangs, hair ornament, scrunchie, medium breasts, green eyes, bandeau, short shorts, long hair, bare shoulders, hair scrunchie, collarbone, black footwear, parted bangs, midriff, bracelet, french braid, thighs
+ <lora:Tsurime:1>

@@ -1,0 +1,1 @@
+hero, leader, woman, blonde hair bun, weapon, full body, looking at viewer, smile, science fiction, (action:1.2), (shell casing:1.2), cloak, (Gatling gun:1.2), glowing, ruler of the land, wasteland, alien environment , dark studio, rim lighting, <lora:add_detail:0.3> <lora:epi_noiseoffset2:0.5> <lora:nijiMecha:0.5>

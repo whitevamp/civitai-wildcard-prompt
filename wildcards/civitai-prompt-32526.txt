@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, 1girl, solo, fantasy, night sky, outdoors, magic, moon, stars, clouds, fantasy culture, <lora:add_detail:0.6>, <lora:epi_noiseoffset2:1>, white hair, floating hair, warrior , knight, holding a sword,

@@ -1,0 +1,4 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, perfect waist to hip ratio, (natural skin texture, hyperrealism, soft light, sharp), (full body shot, from below), nsfw,
+solo, sexy woman, cute, pretty, BREAK
+(layered bob, white hair:1.1),  (night time, night view, dark night, midnight),
+<lyco:GoodHands-beta2:1.0>, <lora:breastinClass:0.3>, <lora:add_detail:0.35>

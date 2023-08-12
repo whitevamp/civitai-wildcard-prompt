@@ -1,0 +1,1 @@
+onoff, split screen, photo of a woman in a dress walking up stairs looking back at viewer, photo-realistic, photograph, Kodachrome, highly detailed, sharp focus, 4k, analog style, <lora:flashlightphoto_v1.5a:1> <lora:onOff3:1>

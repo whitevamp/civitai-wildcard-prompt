@@ -1,0 +1,5 @@
+,2d, masterpiece, best quality, anime, highly detailed face, highly detailed eyes, highly detailed background, perfect lighting, {{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {cinematic lighting}, {illustration}, {beautiful detailed eyes}, {1girl} 
+//
+sera, marron marron, gaki ni modotte yarinaoshi, 1girl, solo, long hair, looking at viewer, blush, smile, open mouth, skirt, brown hair, black hair, thighhighs, bow, ribbon, school uniform, hair ribbon, yellow eyes, white shirt, short sleeves, :d, hair bow, thighs, cowboy shot, pleated skirt, small breasts, serafuku, solo focus, fang, indoors, dark skin, miniskirt, bag, covered nipples, white thighhighs, dark-skinned female, two side up, blue skirt, zettai ryouiki, skindentation, chair, arms behind back, suspenders, desk, tanlines, suspender skirt, classroom, school desk, chalkboard, tan, thick thighs,
+//
+<lora:marron_marron:0.4>, marron marron, gaki ni modotte yari naosh,

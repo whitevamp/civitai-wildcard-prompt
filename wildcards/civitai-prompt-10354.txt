@@ -1,0 +1,6 @@
+masterpiece, best quality, extremely detailed CG unity 8k wallpaper, soft lighting, curvy, large breasts, round hip,
+ambient city lights, rain, wet hair , looking up waiting for headpat, from above,
+wide angle view, Standing with one hand touching the chin,
+<lora:Outfit_slingshot2:0.95> slingshot swimsuit,
+happy,
+<lora:Taimanin_Ingrid:0.8> ingrid, long pink hair, dark skin, hair intakes, forehead, yellow eyes

@@ -1,0 +1,2 @@
+art by (DEN_barbucci_artstyle:0.8),  DEN_elle_alexandra, (flat chest:1.2), (no breasts:1.2), (flat breasts:1.2), (petite:1.3),
+ <lora:add_detail:1>

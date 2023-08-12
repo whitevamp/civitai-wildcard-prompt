@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed),50mm lens,1girl, (detailed face), (detailed  eyes), mecha,ninja,upper body,wallpaper,blue fire,gear, holding a gun,cyberpunk girl, (beautiful face),small breasts ,by style ArtStation, bright blue-green eyes,yellow blue hair, nice pose,gloves,
+ <lora:OC illustration:0.4><lora:koreandolllikeness_V10:0.2> <lora:urbansamuraiv0.14-000002:0.4>

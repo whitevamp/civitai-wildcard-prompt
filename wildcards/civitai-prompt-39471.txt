@@ -1,0 +1,3 @@
+Portrait photo of woman in a worn mech suit, ((light bokeh)), intricate, (steel metal [rust]), elegant, sharp focus, photo by greg rutkowski, soft lighting, vibrant colors, (masterpiece), ((streets)), (detailed face:1.2), (glowing red eyes:1.1)  
+ <lora:more_details:0.5>, long black hair,
+ <lora:tifaMeenow_tifaV2:0.6>

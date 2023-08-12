@@ -1,0 +1,1 @@
+Kowloon Walled City, overcrowded city levels, lots of bridges, balconies, air conditioners, gloomy mood, super colors, hyper realistic, mysterious lighting, oversaturated, pipes, wires, utility mechanisms, <lora:add_detail:1>, <lora:epiNoiseoffset_v30:1>, <lora:IndustrialMachinesV1:0.4>

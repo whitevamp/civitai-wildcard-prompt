@@ -1,0 +1,2 @@
+no humans, outdoors, sky, night, moon, plant, building, star (sky), night sky, scenery, city, sign, potted plant, wide shot, crescent moon, neon lights 
+ <lora:Iso-Pixel:1>

@@ -1,0 +1,1 @@
+headband,efflorescehorn, 1girl, solo, dress, white dress, sitting, sandals, looking at viewer, simple background, full body, knee up, bare shoulders <lora:efflorescehorn-pynoise-000008:1>

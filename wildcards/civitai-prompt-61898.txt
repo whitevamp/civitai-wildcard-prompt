@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), 1girl, mirabel madrigal, glasses, smile, looking at viewer, white blouse,green skirt, <lora:MirabelMadrigal_v1-000024:1>

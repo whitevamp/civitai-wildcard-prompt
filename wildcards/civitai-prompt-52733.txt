@@ -1,0 +1,4 @@
+masterpiece, best quality, official art,extremely detailed CG unity 8k wallpaper, extremely detailed, ultra high res, (photorealistic:1.4), 1girl, solo, (6 years old:1.4), lovely, cute, adorable, beautiful, laughing, school uniform, skirt, brown eyes, long black hair, floating hair, small breasts, blush, hair ornament, trees, grass, (sakura petals in air:1.2), flowers, natural light, light on face, looking at viewer,
+<lora:koreanDollLikeness_v10:0.2>
+<lora:chilloutmixss_xss10:0.3>
+<lora:japaneseDollLikeness_v10:0.2>

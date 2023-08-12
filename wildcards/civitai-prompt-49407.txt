@@ -1,0 +1,1 @@
+mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute, cityscape, twin braids, professional lighting, photon mapping, radiosity, ( (blue ombre hair, blue to white Ombre wig:1.2) ), physically-based rendering, <lora:cuteGirlMix4_v10:0.5> <lora:iu_V35:0.8>

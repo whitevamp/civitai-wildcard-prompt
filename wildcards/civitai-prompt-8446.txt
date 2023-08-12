@@ -1,0 +1,5 @@
+Double, short blonde hair, medium breasts, solo, red eyes, glowing eyes, evil smile, scary, transforming.
+DBnun, long blue habit, cross necklace, long sleeves. in ancient cathedral.
+DBthing, scary, transforming.
+(tentacles:1.2), dynamic pose, cowboy shot.
+ <lora:Double:0.9>

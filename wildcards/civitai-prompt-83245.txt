@@ -1,0 +1,2 @@
+(best quality, masterpiece),
+(princess peach), mansion, ((red leotard):1.3),<lora:peach:0.5>

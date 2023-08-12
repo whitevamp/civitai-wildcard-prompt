@@ -1,0 +1,1 @@
+(((best quality))),3d,building, detail,house, cloud, day, no_humans, outdoors, scenery, cartoon,single build,sky, tree,3d,zbrush,atmosphere,ar,scenery,high detail,octane render,no human , <lora:ConceptScene_B:0.5>, <lora:Ghibli_SSS:0.5>

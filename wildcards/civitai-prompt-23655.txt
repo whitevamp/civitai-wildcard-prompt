@@ -1,0 +1,4 @@
+Photo of fulgrim, full armor, full metal armor, wearing intricate ornamented metal armor, smug face, very pretty face, flowing hair, fur trim, twink, 
+solo, (male:1.2), epic, reflective metal, armor gold trimmings, bronze trimmings, violet eyes, tall stature, white hair, androgynous look, 
+((upper body:1.3)) focus, close-up,
+<lora:tool - add_detail:1> <lora:Fulgrim MK1 by CARAXES:0.8>

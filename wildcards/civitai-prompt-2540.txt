@@ -1,0 +1,2 @@
+1girl, portrait, realistic, bare shoulders, sidelighting, wallpaper, nsfw, skirt,
+<lora:exposepanty-strong:1> <lora:zl_2023-05-18_133642-000001:0.3> <lora:koreandolllikenessV20_v20:0.3> <lora:ran:0.3>

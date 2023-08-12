@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl, solo, asian, long hair, ((grey hair)), (looking at viewer:1.2), natural skin texture, (fire:1.2), fire, half-sitting, black high heels, wings, horns, wearing black high heels, demon girl, demon horns, demon wings, Devil angel:1.3, <lora:ClothingAdjuster3:0.7> <lora:InstantPhotoX3:0.8>

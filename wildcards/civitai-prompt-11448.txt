@@ -1,0 +1,1 @@
+(best quality:1.4), (high resolution:1.4), 1girl, solo, portrait, vaiana, medium breasts, tropical beach, rock, palm tree , embarrassed, happy, smile, looking at viewer, pose, necklace,  <lora:Vaiana_v1:1> <lora:tools_more_details:0.35> portrait, playing with own hair,

@@ -1,0 +1,3 @@
+portrait, (masterpiece:1.1), (highest quality:1.1), (HDR:1.0), <lora:add_detail_v5:1> <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult (elven:0.7) woman, freckles, turquoise eyes, black fishtail braid,
+portrait, solo, upper body, looking down, detailed background, detailed face, (<lyco:DecorationBundlev2:0.6>, SilverSapphireAI theme:1.1), gladiator,  charging, dynamic pose, ferocious expression,   green gladiator armor, greaves,   battlefield in background, (crowd cheering in background:0.7), sand,  sunshine, legendary gladiatorial atmosphere,

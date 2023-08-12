@@ -1,0 +1,1 @@
+<lora:ZhouShuyi:0.9>,   (8k, RAW photo, photorealistic:1.25), ZhouShuyi, 1girl, Long blonde hair,  (looking at viewer with a serene and goddess-like happiness:1.2), ( lipgloss, eyelashes, gloss-face, best quality, ultra highres, depth of field, chromatic aberration, caustics, Broad lighting, natural shading,  85mm, f/1.4, ISO 200, 1/160s:0.75)

@@ -1,0 +1,1 @@
+1girl,  <lora:chilloutmixss_xss10:0.4> photorealistic, <lora:zhou:0.7> naughty face, rolling_eyes, cross-eyed, ahegao, open mouth, tongue out, <lora:uag:0.6>

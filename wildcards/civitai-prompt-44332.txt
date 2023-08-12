@@ -1,0 +1,2 @@
+<lora:malice-nvwls-v1:0.8> feMalice, purple hair, headband, eyepatch, white shirt, red vest, black bowtie, black pants
+masterpiece, best quality, absurdres, casino

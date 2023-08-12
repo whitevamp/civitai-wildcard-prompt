@@ -1,0 +1,1 @@
+(sw33tief0x),  <lora:sw33tief0x:0.7> looking back, beautiful face, (micro shorts, ass focus),  <lora:micro_shorts_v0.6:0.7>, (ass support),  <lora:ass_support_v0.1:1>, ((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>,

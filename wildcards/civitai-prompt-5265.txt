@@ -1,0 +1,2 @@
+((best quality, masterpiece)), dramatic, 
+2\1girls, running, soccer team uniform, sports uniform, blonde hair,  soccer field, crowd, <lora:more_details:0.5>  <lora:COOLKIDS_MERGE_V2.5_2:0.7>

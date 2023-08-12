@@ -1,0 +1,7 @@
+(masterpiece: 1.4), high quality, highres, negative space, traditional Chinese ink painting, chinese ink painting,
+full body, modelshoot style, peaceful, baboon and lily flower in the background, portrait of a woman, beautiful face, looking at the viewer, from the side, ((smile)), playing with child,
+<lora:hanfu_v30:0.3> hanfu, han style,
+<lora:MoXin-1.0 :0.6>, shuimobysim,
+<lora:shukezouma_v1_1:1>,shukezouma,
+<lora:xrs2.0:0.25>,
+beautiful frd_woman, perfect frd_face,

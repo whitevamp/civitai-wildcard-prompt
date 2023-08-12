@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:Albedo_Overlord_v_1_2-000017:0.6> albedo_overlord, horns, golden eyes, 
+ armor,   <lora:Ringed_Knight:0.8> Ringed_Knight,

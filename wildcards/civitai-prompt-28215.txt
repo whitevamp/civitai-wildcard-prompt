@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details,
+ 1girl,       <lora:Reze:0.8> Reze,green eyes, choker, hair between eyes, multicolor hair, purple hair, black hair, hair bun, short hair, 
+<lora:more_details:0.6> <lora:add_detail:0.6> <lora:boldline2:0.6>

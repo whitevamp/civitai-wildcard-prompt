@@ -1,0 +1,3 @@
+portrait, (masterpiece:1.1), (highest quality:1.1), (HDR:1.0), <lora:add_detail_v5:1> <lora:3DMM_V12:0.25>, 3DMM,
+(1man, masculine adult portuguese male:1.2),  grey-blue eyes, medium brown hair, textured fringe,
+ focus on character, portrait, looking up, solo, half shot, detailed background, detailed face, (<lora:BohoAI:0.6>, bohoai, boho theme:1.1)  priest,  veiled,  mitre, bishop hat,  casting spell, symmetrical composition, temple,  divine light,  religious icons, incense, (hovering candles:0.8), mural, floating particles,  filigree,   chalice,  petals, ethereal atmosphere, medieval high fantasy style, gold,  holy fire,

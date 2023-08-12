@@ -1,0 +1,5 @@
+1 beautiful female  ,elf, druid, staff,  
+  methurlant
+Adrian Smith
+ fantasy
+ <lora:methurlant:1>

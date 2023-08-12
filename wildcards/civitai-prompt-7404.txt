@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+1girl,long bob,standing,looking back,high school,window,
+school uniform,
+classroom,bokeh ,lens flare ,silhouette ,sunset,
+<lora:flat2:-0.8> ,
+<lora:LowRa:-0.3> ,
+<lora:red_theme01:0.3>

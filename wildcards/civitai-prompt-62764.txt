@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, (RSEEmma:0.8), <lora:MISC-GlossyFace:0.3>, <lora:MISC-BreastInClass:0.2>,  smile, :),  <lora:CHAR-LunaLovegood:0.35>, (Luna Lovegood:1.2), blonde hair, long hair, knitted pink, pink shirt, (PLACE-Hogwarts:0.6), hogwarts,

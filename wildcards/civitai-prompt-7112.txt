@@ -1,0 +1,3 @@
+Photo of doomimp playing rubik's cube.
+doominp body, cube.
+<lora:doomimpv2:0.8>

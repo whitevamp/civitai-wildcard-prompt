@@ -1,0 +1,7 @@
+<lora:extendedDownblouse_v10:1.0>, <lora:oversizedShirt_v10:0.7>, <lora:LoconHangingBreasts_v1:1>, masterpiece, best quality, ultra-detailed, illustration,
+
+(downblouse, extended downblouse:1.1),
+
+hanging breasts, sagging breasts, leaning forward, (beautiful mature woman, mature, milf:1.2), (kind smile, wink:1.2), oversized shirt, loose shirt,
+
+look at viewer,  indoor, messy short hair

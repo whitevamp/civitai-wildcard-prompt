@@ -1,0 +1,2 @@
+fantasy,1girl,detailed face,full body,elf dress,,forest,sitting
+, <lora:elf dress:0.7>

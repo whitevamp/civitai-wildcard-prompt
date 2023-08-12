@@ -1,0 +1,1 @@
+Ghibli Style, pipes <lora:howlbgs:0.3>,  <lora:studioGhibliStyle_offset:0.5>

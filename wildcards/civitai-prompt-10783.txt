@@ -1,0 +1,4 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
+sexy, cleavage, short hair,
+((center)), corset, demon horns, hell, black angel, black panties, fire,hell background,
+ <lora:3DMM_V7:1>

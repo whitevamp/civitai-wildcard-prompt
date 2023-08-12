@@ -1,0 +1,3 @@
+Photo of a young Justice(helltaker) in an ancient temple with demon horns and white hair and large breasts wearing a red shirt and black jacket on shoulders, pants, grin, necktie.
+(fingerless gloves:1.2), (sunglasses:1.1), short hair, smiling, jacket, shirt collar.
+ <lora:justice:0.85>

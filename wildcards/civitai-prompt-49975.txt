@@ -1,0 +1,8 @@
+masterpiece, best quality,
+
+full body,small breast,
+
+2 young girls,jirai fashion with pink and black, looking at viewer,
+<lora:jirai_v2:0.8>,
+
+night, street, shop, store, neon,

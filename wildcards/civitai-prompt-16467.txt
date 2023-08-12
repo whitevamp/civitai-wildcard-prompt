@@ -1,0 +1,1 @@
+masterpiece, best quality, enkidu, white robe, upper body, serene smile, sitting, looking at viewer, forest <lora:enkidu-nvwls-v2-000010:0.9>

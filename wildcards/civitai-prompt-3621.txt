@@ -1,0 +1,5 @@
+(masterpiece, best quality), intricate details, (Best quality)), ((masterpiece)), fractal art:1.2), 
+(1girl), <lora:Riven-000016:1> riven \(league of legends\), folded ponytail,  white hair,black eyeshadow, white face mark,  bare shoulders,yellow eyes,white hair, smirk, seductive smile, 
+extreme detailed eyes, colorful, highest detailed, vibrant colors, high contrast,
+<lora:add_detail:1>, 
+ <lora:bl8ckIC-1CIVIT:0.8> in the style of bl8ckIC, bl8ckIC, dark skin, tribal, tattoos,

@@ -1,0 +1,1 @@
+(portrait:1.1), gagarinya <lora:gagarinya:0.8>

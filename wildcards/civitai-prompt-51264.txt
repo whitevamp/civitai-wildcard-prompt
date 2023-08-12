@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best quality:1.4), realistic, <lora:Dragons-000018:0.6> dragon, breathing fire, mountain,

@@ -1,0 +1,10 @@
+1girl
+(standing, from below)
+(stage)
+((heels on feets)), black mini skirt, black bra,
+shiny-skin
+(((from below))), (((in front)))
+<lora:DDCrossedLegs_ddcV2:0.2>
+<lora:Lisa Blackpink:0.7>, lisa blackpink,lisa
+solo, from below, looking down
+ <lora:MS_Real_POVPussyFromBelow_Lite:0.7>

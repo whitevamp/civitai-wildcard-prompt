@@ -1,0 +1,14 @@
+Appearance: 1girl, ((detailed face and eyes)), (sharp eyes, realistic face), (22 years old), cute face, pretty face, white girl, american girl, ((blonde hair))
+BREAK
+Aesthetic: ((funk art, funky, groovy, pop culture, humor, unconventional materials))
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k, realistic face
+BREAK
+Composition: {<lora:Four-StationaryRestraintsV1:1>, ((sex machine:1.3), (vaginal object insertion:1.2), object insertion, stationary restraints, (forced orgasm:1.3)), ((((her arms spread apart))) and stuck in the machine, milking machine, breast milking ,Machine tubes around her waist, bondage, bound, restrained by machine)}
+(good quality:0.995),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.45>
+<lora:to8contrast-1-5:0.6> 

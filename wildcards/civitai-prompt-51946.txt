@@ -1,0 +1,3 @@
+(best quality,masterpeace),anime poster /(composition)/,(colorful, dynamic pose), beautiful detailed eyes ,beautiful detailed face, looking at viewer,
+girl ,intricate medieval clothing, blue hair, elegant short haircut , determined,  medieval street background,
+,warm lighting,(dark theme:1.1),  extremely detailed CG unity 8k wallpaper, <lora:graphicNovelStyle_v1Bright:1>

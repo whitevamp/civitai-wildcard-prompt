@@ -1,0 +1,2 @@
+mature female,forehead, plump,black hair, red eyes,blush,embarrassed, smile,collar, 
+masterpiece,best quality,ultra_detailed,highres,absurdres, <lora:vectorer:1> ,

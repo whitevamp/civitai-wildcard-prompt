@@ -1,0 +1,2 @@
+A 3d render of a A young ukrainian, eyeliner,blonde long, straight hair and a bohemian style, wearing a kimono, standing in front of a traditional japanese wall in a dojo, with a desperate look on her face. Use a high-angle shot and pay attention to the play of light and shadow on her face and clothing. highly detailed, 8K, stunning, hdr, subsurface scattering, global illumination, film still, Film-like, bokeh, 3d, with a (tattoo under her eye) (film grain, vivid colors, film emulation, kodak portra 800, 35mm, canon50 f1.2)
+  <lora:petiteu3:.5>

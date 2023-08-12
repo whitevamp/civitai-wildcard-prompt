@@ -1,0 +1,3 @@
+(8k, raw ohoto:1.4), ultra high-resolution:1.5, photorealistic:1.5, 
+(a Portuguese supermodel underwater:1.6), swimming to camera, cowboy shot, incredibly high-resolution skin texture:1.4, (bright pupils),(shinning skin), sunshine:1.5, luxurious lace Lingerie:1.2,  <lora:awportrait_v10:1>,
+many water bubbles:1.8, smooth skin texture:1.1,

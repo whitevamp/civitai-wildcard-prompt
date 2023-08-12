@@ -1,0 +1,1 @@
+<lora:translucentSkin_v10:1.3> translucent skin, mechanical, ((purple body suit))

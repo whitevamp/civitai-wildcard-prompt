@@ -1,0 +1,4 @@
+professional photo of Bloom, Fairy Outfit, red hair, blue croptop, sleeveless, blue skirt, sparkling clothing, wings, tiara, looking at viewer,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:WinxClubBloom-10:0.78:MIDD>

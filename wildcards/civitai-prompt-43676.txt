@@ -1,0 +1,7 @@
+(1girl, woman, solo, sexy, gorgeous, elegant, (slim:1.2), (nsfw, nude, naked), green eyes, eyelashes, puffy lips, black hair, long hair, straight hair, makeup, smooth body, soft skin, large breasts, bare breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+chains, necklace, black gloves,
+BREAK
+looking at viewer, outdoors, wooden wall, standing,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

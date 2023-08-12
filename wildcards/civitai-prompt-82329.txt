@@ -1,0 +1,4 @@
+Shion 
+<lora:ShionV1:0.7>
+upper body, looking at viewer, masterpiece, best quality,
+<lora:add_detail:0.3>

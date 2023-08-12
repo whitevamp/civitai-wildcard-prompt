@@ -1,0 +1,4 @@
+grainy, masterpiece,detailed illustration,
+BREAK <lora:Switchchan:0.7>, switch-chan walking towards menacingly tilting head grinning widely with glowing eyes and torn clothing,
+BREAK fire tornado
+BREAK ice spikes

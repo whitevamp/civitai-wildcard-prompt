@@ -1,0 +1,5 @@
+woman, solo, standing, naughty face, naughty smile,
+wearing isf,
+([Julianne Hough|Megan Fox|Christina Hendricks]:0.8), (sexy dress:0.8),
+masterpiece, professional, high quality, beautiful, amazing, Getty Images, 
+photoshoot, 4k, realistic, detailed background, real life, <lora:isf:1>

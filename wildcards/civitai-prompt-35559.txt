@@ -1,0 +1,6 @@
+(highres, high quality:1.2), intricate details, vibrant image,
+(DealWithIt:1.3), solo, portrait, 
+dark skinned female, Ingrid, makaikishiingrid, OVA, mature female, looking at viewer, smirking, (side view:0.7),
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+(formal suit:1.1), black jacket,  (cleavage:1.1), (large breasts:1.2), nipple slip, 
+ <lora:Ingrid:0.85>  <lora:MakaiKishiIngrid:0.3>  <lora:DealWithIt:0.95>

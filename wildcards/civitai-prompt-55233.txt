@@ -1,0 +1,7 @@
+1girl, pov, belly_grab, pov hands,
+clothes lift, sweater lift, lifted_by_self, 
+belly, stomach, navel, deep skin, open_mouth, 
+breath, sweat, (trembling:1.2), ^^^,
+(out_of_frame:1.2), upper body, standing, solo_focus, 
+best quality, gradient, grey background, pink_background
+<lora:belly-14:0.75>

@@ -1,0 +1,1 @@
+best quality, masterpiece, photo realistic, intricate details, raw photo, photon rendering, octane render, absurdres, ultra detailed, detailed face, detailed skin, trending on artstation,8k masterpiece,cinematic lighting, weapon,Miao nationality, Miao village, silver ornaments, <lora:HmongCostume_Cyan:0.4>, <lora:HmongCostume_Horns:0.6>, artist name

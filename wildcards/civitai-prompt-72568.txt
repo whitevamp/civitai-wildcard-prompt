@@ -1,0 +1,7 @@
+arcane style,
+
+solo, letterboxed, 1boy, yordle, pointy ears, male focus, blonde hair, blue eyes, beard, facial hair, upper body, outdoors, uniform, jacket, white jacket
+
+, ((masterpiece))
+
+<lora:arcane_offset:1>

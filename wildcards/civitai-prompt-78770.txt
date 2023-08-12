@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl,off shoulder,(matter:1.2), (fire:1.25), (star:1.4),<lyco:GPTS4 dreamwave full_478773:1.0> <lora:FilmG4:0.7> <lora:add_detail:0.3>

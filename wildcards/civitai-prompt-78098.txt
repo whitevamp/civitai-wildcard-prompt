@@ -1,0 +1,4 @@
+best quality,<lora:add_detail:0.3>,<lora:concept_costume_slingshot_(sl1ngsh07__slingshot bikini):1.1>, (sl1ngsh07:1.6, red clothes, slingshot bikini),
+<lora:character_harunoSakura_ByKonan_(haruno sakura):0.5>, haruno sakura, green eyes, pink hair, coy smirk, (muscular), abs, leg muscles, standing, hands behind head, low angle, cameltoe, pussy peek, wedgie, clitoris slip, long hair, wet hair, wet, shiny body, (tan lines:1.1)
+BREAK,
+beach, ocean, sunny, detailed background, in the water

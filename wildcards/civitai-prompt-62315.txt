@@ -1,0 +1,2 @@
+(masterpiece),(best quality),(ultra-detailed), 
+(full body:1.2), (studio background),(clean background), 1girl, chibi, (beautiful detailed face), (beautiful detailed eyes),hanfu, standing in riverside,tree <lora:blindbox_V1Mix:0.7> <lora:elegantHanfuRuqun_v10:0.7> <lora:cuteGirlMix4_v10:0.4> <lora:japaneseDollLikeness_v10:0.6> <lora:jingyijujingyi_juJingyiv10:0.5>

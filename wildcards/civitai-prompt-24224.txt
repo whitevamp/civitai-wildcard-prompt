@@ -1,0 +1,1 @@
+1man, front, portrait half body of muscular ludenskojima, science fiction, skull mask, hose, black gloves, debris, ruins, detail, realistic, ornate, half upper body, bokeh, blurry background, blue and orange light, <lora:ARWLudensKojima:1>  <lora:add_detail:0.6>

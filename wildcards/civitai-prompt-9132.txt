@@ -1,0 +1,5 @@
+(masterpiece), (best quality:1.0), (ultra highres:1.0), <lora:detailed_eyes:0.4>,  <lora:more_details:0.5>
+BREAK
+<lora:MitsukiMHA_1024test-000007:0.7> MitsukiMHA, mature female, red eyes,
+<lora:womb_tattoo:0.6> Pubic tattoo
+ <lora:GGAS_Box:0.4> box

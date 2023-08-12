@@ -1,0 +1,14 @@
+Aesthetic: ((cyberdelic, mind-bending, psychedelic, cybernetics, altered states):1.4)
+BREAK
+Composition: <lora:BigBooty-V2:1> ass, 1girl, petite, ((huge ass, fat ass)), wide hips, perfect thighs, perfect legs, skinny waist, huge breasts , perfect face, looking at camera, seductive, perfect eyes, perfect nose, ((full face in view)), perfect ass, ((looking back at viewer, both eyes)), top of head in frame,, wearing clothes, bikini, thong, bikini straps, , big ass
+BREAK
+Lighting: Dramatic Spotlight, Theatrical, Captivating
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

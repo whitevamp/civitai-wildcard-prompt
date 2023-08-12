@@ -1,0 +1,2 @@
+masterpiece,best quality,ultra-detailed, , 1girl,solo,long hair, Gradient hair,(yellow|grey|blue)hair,,,, mecha musume, mechanical parts,robot joints, ,standing,cowboy shot, ,sakamata,twin tails
+<lora:mecha_v1:0.6>

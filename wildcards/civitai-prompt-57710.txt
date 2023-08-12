@@ -1,0 +1,3 @@
+masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper, ultra high res, ultra detailed, realistic, (photorealistic:1.4), soft light, depth of field, professional lighting, physically-based rendering, 
+1girl, solo, (half body),standing,  young, ponytail, smile, teeth, grin, slim, basketball uniform,  shorts, detailed clothes features,medium breasts, realistic skin, basketball court, sun, trees, 
+<lora:Pure_Innocent_girl2:0.4>

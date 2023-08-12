@@ -1,0 +1,4 @@
+(best quality, masterpiece, intricate detail), (glamour shot of girl, best Feminine pose:1.2), (nsfw, nude:1.2),
+delicate skin texture, slender body, well proportined figure,
+(very long hair:1.2), (high heels),
+largewindow,  <lora:largewindow_20230531163119:0.65>,

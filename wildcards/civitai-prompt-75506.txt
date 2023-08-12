@@ -1,0 +1,1 @@
+masterpiece, best quality, maria traydor, green eyes, white jacket, black shirt, armor, fingerless gloves, white skirt, black pantyhose, upper body,in space, looking at viewer, (8k),wide hips,  ,holding gun, gun,grip <lora:maria-nvwls-v1-final:1> ,<lora:AyaseFuukaLORA-000007:0.5>, <lora:flat2:-0.8>, <lora:BetterGuns-V1:0.5>

@@ -1,0 +1,9 @@
+((masterpiece)), best quality, ultra detailed, intricate details, rich colors, sharp focus, volumetric lighting, dramatic atmosphere,
+1boy, ((solo)), solid snake,
+looking at viewer, serious expression, facial hair,
+sneaking,
+military, military uniform, military jacket, blue bodysuit,
+headband, gloves, holding gun, gun, 
+muscular, abs,
+((detailed background)), jungle, ruins,
+<lora:solidsnake-nvwls-v1-final:0.75>, <lora:yojiShinkawaStyle_offset:0.65>

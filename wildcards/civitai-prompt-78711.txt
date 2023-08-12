@@ -1,0 +1,1 @@
+(best-quality:0.8), perfect anime illustration, portrait, cleavage, damaged chainmail armor, fierce,  <lora:zeldaALBWAlttp_zeldaALBWV1:0.8>,the legend of zelda, albw, blonde hair, <lora:gunAimingAtYouV1:0.7> gunatyou, gun, aiming at viewer, holding gun,  <lora:add_detail:1>

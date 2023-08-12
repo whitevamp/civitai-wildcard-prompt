@@ -1,0 +1,3 @@
+(Best quality:1.4), (masterpiece:1.4), ultra high res, (painterly:1.4), 8k raw photo,  cinematic lighting, rim lighting, intricated detailed, official art, flawless, sharp focus, deep shadow, deep of field, delicate and beautiful, beautiful elegant face, detailed eyes, godly, full body,(( baroque style,  fechin)), queen, royal, 
+perfect female figures, (huge breasts:1.2), slim waist, royal, jewelry, bracelets, necklace, earrings, diamond, castle, indoor, fantasy, chamber, castle hall, medieval, middle shot, center focus, symmetrical, royal red sexy dress, gold ornament, lace type dress, high heels, fantasy, fantasy theme, smiling,  
+ <lora:add_detail:1>  <lora:fechin:0.8> <lora:Tarotv0.2:0.6>

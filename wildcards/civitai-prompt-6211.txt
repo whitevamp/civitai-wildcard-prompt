@@ -1,0 +1,1 @@
+tall russian girl,( breasts on tray:1.2),standing, masterpiece, best quality, highly detailed <lora:breasts-on-tray-v2:1> <lora:3breasts-default-lr-1640steps-fixeddata:1> <lora:lactationConv2D2.5e-5_BF16:1>,(lactation:1.3)

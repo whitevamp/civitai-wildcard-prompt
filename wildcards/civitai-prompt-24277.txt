@@ -1,0 +1,2 @@
+2girls, princess carry, bodysuit, 
+<lora:princess_carry_v0.1:1>, masterpiece, best quality, highly detailed

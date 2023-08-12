@@ -1,0 +1,11 @@
+RAW photo, sharp, 8k, masterpiece, highres, (full body shot, dynamic pose:1.1), 
+(nsfw, exposed breasts, huge breasts, nipples, navel), (bastard_face_002:1.2)
+"render as a very beautiful daz 3d anime aiko girl selena gomez, wearing assamese bihu mekhela sador gamosa dress, long braided black hair, hazel eyes, full round face, short smile, assam tea garden setting, diffused soft cinematic HDRI lighting, medium shot, mid-shot, highly detailed, trending on Artstation, Unreal Engine 4k, daz studio genesis iray ultra hd, cinematic wallpaper by Stanley Artgerm Lau, anime masterpiece,"
+ultra realistic professional photograph,
+BREAK
+hyper detailed background, (extremely detailed CG unity 8k wallpaper), full shot photo of the most beautiful artwork of a (Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island , rainbow), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
+BREAK
+(natural skin texture, hyperrealism, soft light, sharp:1.2), (intricate details:1.12), hdr masterpiece, best quality, (highly detailed photo:1.1), 8k, photorealistic (top quality, Alessandro Casagrande, Greg Rutkowski, Sally Mann, concept art, 4k)
+__sex-act__, watermark, 8k, hires, masterpiece, highest quality, close-up head, facing camera, realistic digital painting photo of a __fantasy-character-adjective__ __fantasy-character-class__ (__fantasy-race__:1.2) (__female__:1.2), __hair-length__ __hair-style__ hair,  (Dungeon and Dragon:1.3), __fantasy-universe__, __fantasy-armor-material__ __fantasy-armor-outfit__ armor with __fantasy-element__ and __color__, __fantasy-armor-style__ in __fine-detail__ details, (__fantasy-setting__:1.2), (__overlay__:1.1), (__skin__:1.2), (__inspired-style__:1.2), (depth of field:1.3), global illumination,  art by hoang lap and fuji choko and artgerm and greg rutkowski and viktoria gavrilenko, __sex-pose__,
+ <lora:GoodHands-beta2:1>
+ <lora:murkyPorn:1>

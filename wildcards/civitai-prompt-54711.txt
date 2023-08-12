@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.2,ray tracing, ultra high res,ultra-detailed, perfect detail, sharp focus,photorealistic:1.2,finely detailed, intricate details),charming eyes, charming mouth, charming nose, charming face,detailed hand, perfect lighting,shiny skin,automatic white balance,big breasts, (slim thigh:1.5),Ambient light reflection,
+black stocking,nail polish,
+ ulzzang-6500-v1.1:0.3 <lora:shinyOiledSkin_v1:1>

@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra high res, highly detailed, (style of David Downton:1.4), (abstract art:1.4), ukiyo-e, otherworldly, mutated nature woman, branches and vines intertwined with her limbs, blossoming flowers as hair, celestial backdrop, ethereal glow, captivating transformation, perfect lighting, perfect shading, <lora:Ukiyo-e:0.3> <lora:more_details:0.7>

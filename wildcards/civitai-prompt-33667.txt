@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful,
+Aliya, mature female, 1girl, solo, standing, arms up, armpits, bound wrists, tied, rope, cowboy shot, dungeon, red moon, red sky, night sky,
+scowl, blush, open mouth, purple hair, very long hair, lipstick, makeup, half-closed eyes, looking down, purple eyes, perfect eyes, detailed eyes, detailed hair,
+red shirt, vambraces, purplr breastplate,  white armored boots, armored dress, 
+curvy, thighs, gigantic breasts, cleavage, wet,
+<lora:Aliya-000009:0.9>   <lora:tiedArmsUp:0.8>

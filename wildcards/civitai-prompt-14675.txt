@@ -1,0 +1,1 @@
+<lora:Inter_Dimensional_Portal-10:0.9>, 1boy, portal, <lora:ARWArnoldYoung:0.8> arnoldyoung , stepping out of glowing circle, topless, facing at viewer, <lora:gatling_gun_lora01:1> gatling gun, gun, holding gun <lora:GlowingRedEyeMeme:1> Glowing Eyes Meme, (Glowing Eyes Meme:1.2), glowing eyes, glowing, epic, <lora:MenacingJojo:0.7> MenacingJojo, text,

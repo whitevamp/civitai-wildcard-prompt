@@ -1,0 +1,4 @@
+Scene Description: A winter landscape featuring the Northern Lights. The sky is lit up with vibrant colors of green and pink, illuminating the snow-covered ground below. In the distance, there is a frozen lake surrounded by snow-capped mountains.
+Modifiers: Cold, ethereal, vibrant, highly detailed, sharp focus, majestic, mystical, aurora borealis, snow-covered mountains, frozen lake.
+Artist or Style Inspiration: Art by Alexei Butirskiy, Ivan Shishkin, or Albert Bierstadt. Landscape paintings from the Romanticism or Realism art movements.
+Technical Specifications: 4K UHD image, realistic textures, natural lighting, Unreal Engine 5.

@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.2), Detailed, Intricate Details, 4K, 
+1boy, solo, squatting, astolfo \(fate\), 
+pink hair, short hair,
+purple eyes, looking at viewer,
+smug, 
+naked, nude, 
+erection, big erect penis, big penis, (big testicles:1.2), cock sheath,
+(white background, simple background:1.4), yabby,
+<lora:Erect Horse Penis:1>  <lora:Fate - Astolfo:1>

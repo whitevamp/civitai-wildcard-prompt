@@ -1,0 +1,4 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,style of sk3ll3t0n,
+40K, HDR, highres, alpine field beautiful scenery,
+<lora:riding_a:1:1,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0>, airflow speed,Wear goggles ,
+boy explorer  wrestler riding   Corgi on sea of clouds,Wear  bomber jacket, dragging the rainbow,

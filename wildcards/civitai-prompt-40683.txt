@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), ultra detailed, 1girl, <lora:rinshibuyatest:1> , shibuya rin, black hair, long hair, small breasts, 
+white shirt, necktie, pleated skirt, open sweater, long sleeves, 
+<lora:ama_mitsuki_v0.1:0.8>, on bed, lying, 
+<lora:EraseGroinSkirt:1>
+<lora:bra_visible_through_clothes_4:0.5>, bra visible through clothes, black bra,

@@ -1,0 +1,7 @@
+takada akemi,
+
+lucy \(cyberpunk\), 1girl, against railing, arm rest, bangs, bare shoulders, belt, black belt, black leotard, black pants, blurry, bob cut, breasts, building, cityscape, clothing cutout, cropped jacket, cyberpunk, depth of field, from side, gradient eyes, grey eyes, grey hair, holding, jacket, leotard, lips, long sleeves, looking afar, looking ahead, mechanical parts, medium breasts, multicolored eyes, multicolored hair, night, night sky, off shoulder, open clothes, open jacket, outdoors, pants, parted lips, railing, red eyeliner, science fiction, short hair with long locks, short shorts, shorts, sidelocks, sky, smoke, smoking, solo, standing, teeth, thigh cutout, upper teeth only, white jacket, white shorts, cyberpunk \(series\), cyberpunk edgerunners,
+
+1980s \(style\), painting \(medium\), retro artstyle, watercolor \(medium\),
+
+<lora:takada_akemi_offset:1>  <lora:lucy_offset:0.8>

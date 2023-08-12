@@ -1,0 +1,5 @@
+absurdres, highres, ultra detailed, (1girl:1.3),
+BREAK
+, <lora:Ingrid:0.9>, ingrid, ultra detailed irises, (devious:1.2), (lusty expression:1.2), pink hair, very long hair with hair intakes, forehead, (purple lipstick:1.4), black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.3), perfect eyes, perfect face, detailed face, mature female, (dark skinned female:1.15),
+BREAK
+, standing, cowboy shot, dutch angle, looking away, blush, embarrassed, covering crotch, covering breasts, (completely nude:1.3), <lora:more_details:0.2>, <lora:qqq-covering_breasts_crotch-v1-000015:0.6>

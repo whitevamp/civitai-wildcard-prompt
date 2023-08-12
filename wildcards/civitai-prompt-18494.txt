@@ -1,0 +1,2 @@
+((best quality, masterpiece)),
+1girl,  looking at viewer, nurse, (white and red leather nurse uniform), skirt, white gloves, nurse hat, ((hospital)),  blonde hair, ((soft lighting):1.4), <lora:more_details:0.5>,  <lora:3DMM_V12:1>

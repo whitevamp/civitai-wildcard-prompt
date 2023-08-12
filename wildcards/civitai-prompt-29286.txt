@@ -1,0 +1,1 @@
+(1girl) (digital) ( in detailed bell tower,  (armor)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> khorne, <lora:khorne:0.7>

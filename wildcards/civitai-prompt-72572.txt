@@ -1,0 +1,7 @@
+arcane style,
+
+ahri, ahri \(league_of_legends\), 1girl, portrait, animal ears, black hair, breasts, detached sleeves, distr, facial mark, fox ears, fox tail, hand up, highres, large breasts, league of legends, long hair, long sleeves, looking at viewer, magic, multiple tails, orange eyes, parted lips, solo, tail
+
+, ((masterpiece)), absurdres
+
+<lora:arcane_offset:1><lora:ahriLeagueOfLegends_ahri45:0.4>

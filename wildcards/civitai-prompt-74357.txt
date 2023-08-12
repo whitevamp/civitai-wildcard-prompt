@@ -1,0 +1,17 @@
+(bright rainbow hair,white shirt,short skirt,thigh highs,stockings,high heels,:1.2),
+BREAK
+(sitting on table,looking at viewer,:1.2),
+BREAK
+(library:1.2),
+BREAK
+(detailed 8k,cgi,uhd,sharp focus,digital art:1.0),
+BREAK
+(whole body:2.0),
+BREAK
+(detailed hair,smooth skin,oiled skin, glistning skin, shiny skin:1.8),
+BREAK
+(gorgeous female,huge breasts,perfect female body,sexy, narrow waist,skinny body,young:1.1),
+BREAK
+(makeup, eyeliner,eyelashes,detailed eyes,lipstick,puffy lips,botox,pursed lips,thick lips,big lips:1.4),
+BREAK
+ <lora:add_detail:1>, fakelips7-2500

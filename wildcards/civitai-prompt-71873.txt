@@ -1,0 +1,2 @@
+masterpiece, 1girl,<lora:patchouliKnowledge_v10:0.7>patchouli_knowledge, crescent hat ornament, standing,
+ightning <lora:add_detail:0.8> <lora:estheticUrushihara_uruv1:0.65>  urushihara satoshi, LIBRARY,

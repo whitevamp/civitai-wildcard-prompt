@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),
+<lora:GreenSlimeAI:0.9>, GreenSlimeAI, 
+Snapping Turtle, fantasy creatures,

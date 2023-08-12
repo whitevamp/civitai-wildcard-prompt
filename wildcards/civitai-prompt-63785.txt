@@ -1,0 +1,3 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting,
+half body, closeup portrait of a beautiful 21yo female with (a little DragonScaleAI in her arms), surrounded by white clouds, looking away, piercing eyes, ultra wide angle, ((dream)), hd
+,(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3), <lora:DragonScaleAIV3:0.8>

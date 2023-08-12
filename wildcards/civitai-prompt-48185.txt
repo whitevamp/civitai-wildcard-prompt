@@ -1,0 +1,2 @@
+boxer sitting on bench in dimly lit locker room, head hanging low, defeated look on face, (sweaty:0.3), red boxing gloves, lens flare, black eye, scratches, bruise on face, wet short hair, shade, bloom, backlighting, depth of field, natural lighting, hard focus, film grain, photographed with a Sony a9 II Mirrorless Camera, by Laurence Demaison<lora:epiNoiseoffset_v2:1.0>,
+photon mapping, physically-based rendering, RAW photo, highly detailed background, high res, perspective, (ulzzang-6500-v1.1:0.7)

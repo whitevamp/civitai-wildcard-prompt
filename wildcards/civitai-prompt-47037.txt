@@ -1,0 +1,5 @@
+(masterpiece), best quality,
+
+1girl, <lora:murkysSidewayAssLora_1:0.7>, sidewayassms,
+
+white stocking,

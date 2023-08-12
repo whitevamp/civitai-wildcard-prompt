@@ -1,0 +1,1 @@
+masterpiece, best quality, BrianFroudStyle, glowing faeries wearing leaf dress surrounded by  creatures  in a forest, flowers, <lora:BrianFroudStyleV1:0.9>

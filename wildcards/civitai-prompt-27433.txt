@@ -1,0 +1,1 @@
+<lora:DreamArtV1.2:0.8>, crystal,  <lora:miyakoV1.1:1>, miyako, halo,

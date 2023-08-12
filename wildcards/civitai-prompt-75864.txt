@@ -1,0 +1,1 @@
+(selfie:1.3) of RoxieCipher with blonde curly hair, smiling, wearing a halter top, at a bar, analog style (look at viewer:1.2) (skin texture), close up, cinematic light, sidelighting, Fujiflim XT3, DSLR, 50mm <lora:add_detail:0.4> <lora:LowRA:0.5>

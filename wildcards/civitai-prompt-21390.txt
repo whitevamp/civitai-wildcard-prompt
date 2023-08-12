@@ -1,0 +1,1 @@
+(best quality, masterpiece),1girl, seiza, white shirt,open mouth,hearts in eyes, tongue out, cum, facial,   <lora:shirtliftv1:1> <lora:add_detail:0.6> <lora:MS_Real_Facial_Lite:1>

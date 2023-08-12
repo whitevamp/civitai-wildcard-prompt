@@ -1,0 +1,1 @@
+best quality, masterpiece, kleedef, gunatyou, gun, aiming at viewer, ((happy)), closed eyes, open mouth, holding gun, explosion, <lora:gunAimingAtYouV1:0.7>,  <lora:klee1-000009:0.7>

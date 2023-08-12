@@ -1,0 +1,5 @@
+best quality, intricate details, full body,
+
+
+
+ <lora:girlInTheBottleLocon_v10a:0.8> in bottle,in container,  <lora:superMarioLora_genesis:0.8> supermario,

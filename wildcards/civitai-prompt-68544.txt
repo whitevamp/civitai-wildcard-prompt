@@ -1,0 +1,4 @@
+sam yang,
+1girl, backlighting, bird, black eyes, black jacket, black pants, brown hair, closed mouth, crossed arms, day, dual wielding, from side, grass, holding, jacket, japanese clothes, jewelry, katana, long hair, long sleeves, messy hair, outdoors, pants, pendant, samurai, solo, standing, sword, weapon
+, ((masterpiece))
+<lora:sam_yang_offset:1>

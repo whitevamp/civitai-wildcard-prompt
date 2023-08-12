@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,
+1girl,(floating:1.3),standing,in_ice_cube,looking at viewer,table,(on table:1.2),mint,half green lemon,miniature,tilt shift, barefoot, <lora:in_ice_cube-10:0.8> ,full body, closed eyes,(ice cube), blur,(girl in bowl:1.2),floating ice,(translucent:1.4),

@@ -1,0 +1,1 @@
+RAW photo, a WW1 French soldier sitting on demolished buildings and holding a pipe with his hand, brown (beard:1.3), brown (mustache:1.3), looking down, dirty, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, <lora:ww1_french_soldier_v0.2:0.6>

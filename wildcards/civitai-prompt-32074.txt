@@ -1,0 +1,3 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ), <lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,
+realistic mutual masturbation,2girls, blush,pussy juice, standing,lying,spread legs, masterpiece,1girl,cute,pubic hair, vaginas,nsfw,(1gril, blush, ),kiss, sex,  <lora:hipoly_3dcg_v7-epoch:0.2>, <lora:InstantPhotoX3:0.6>,
+<lora:ass_up_wait_feet.v2:0.8>,ass up wait feet, <lora:New_ChineseDollLikenessV3.0:0.3>,feet,socks,white socks,

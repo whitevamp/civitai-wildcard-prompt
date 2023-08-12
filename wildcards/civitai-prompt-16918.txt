@@ -1,0 +1,1 @@
+<lora:Pussy_Peach_Front_v2:1>pussy_peach_front <lora:add_sharpness:0.5> <lora:add_saturation:0.5> <lora:more_details:0.5>, (teardrop pussy:1.1), white blanket

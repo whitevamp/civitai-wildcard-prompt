@@ -1,0 +1,1 @@
+(finely best quality illustration:1.2), (kawaii girl:1.0), (1girl, solo:1.0), (blue hair, 2 horns:1.0), (playboy bunny, rabbit ears, bare shoulders, bare arms:1.0), ((embarrassed:1.5), open mouth, (:D:0.8), (crying:0.2):0.65), (ganyudef:0.85), (upper body:1.1), (white background:1.0), (ultra-detailed, highres:1.0),  <lora:GanyuGenshinImpact:1>,

@@ -1,0 +1,4 @@
+masterpiece, best quality, detailed, realistic, dynamic angle,
+1girl, mature female, (smile:0.5), big breasts, standing at the beach,
+(choker, sun hat, sundress), (film overlay, film grain:1.2),
+<lora:Heavy_grain:0.5>, <lora:Amee_V12:0.4>, <lora:BeautyNwsjMajic2-01:0.6>

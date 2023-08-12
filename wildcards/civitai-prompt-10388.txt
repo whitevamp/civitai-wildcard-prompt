@@ -1,0 +1,7 @@
+(one male) (front view:1.6), (portrait) (head shot)
+gigachad, Very detailed masculine face, detailed realistic open eyes, bodybuilder, (big muscles), (big pectorals), narrow waist, (long hair).
+Wearing a thong with a large bulge.
+Standing on a beach, sea, waves, palms. Magnificent sunset.
+Realistic, photoreal, High contrast, high saturation, highly detailed, high quality, masterpiece, rim lighting, volumetric light, vibrant colors, depth of field.
+<lora:Gigachadv1:0.9>
+<lora:BulkedUpAIR1.5:0.3>

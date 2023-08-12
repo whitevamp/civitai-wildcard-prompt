@@ -1,0 +1,1 @@
+pen_sketch_style, 1girl, solo, ink, sketch,  <lora:PenSketchStyle_penSketchStyleLoraV1:0.7>

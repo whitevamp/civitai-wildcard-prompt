@@ -1,0 +1,1 @@
+fruitynightmare <lora:fruitynightmare_model:0.7>  Eggplant

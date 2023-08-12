@@ -1,0 +1,2 @@
+masterpiece, ultra realistic 8k CG, photorealistic, cinematic lighting, face portrait, 
+1girl, hestia (danmachi),detailed pure face, (smirk, looking at viewer, parted lips), shiny pupils, black hair,detailed skin texture, naughty,<lora:hestiaDanmachiLora_v10:0.8>

@@ -1,0 +1,1 @@
+masterpiece, best quality, purah, red glasses, hair ornament, hair stick, red headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings, high heels, gmodcrowbar, holding crowbar <lora:purah-nvwls-v3-final:1> <lora:Crowbar:1>

@@ -1,0 +1,1 @@
+1girl,himiko toga,blonde,yellow eyes,fangs,shocked expression,shocked face,(teary),(crying),teary eyes, hands on cheeks,bedroom,night,dark,darkness,(child:1.4),young,crouched,from front side,masterpiece,extremely detailed CG unity 8k wallpaper, best quality,32k,focus sharp, <lora:TogaHimikoLoRA:1>, <lora:add_detail:1>, <lora:Light and Shadow:0.6>

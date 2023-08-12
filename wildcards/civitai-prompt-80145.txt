@@ -1,0 +1,2 @@
+highres, sharp focus, pixiv masterpiece, ((intricate details)), highly detailed, 1girl, aqua hair, long hair, sidelocks, blunt bangs, twintails, blue eyes, blue jacket, black necktie, hair ornament, rkn symbol, nsfw, 1boy, sex from behind, 
+  <lora:None:0.9> <lora:fucsil1:0.8>

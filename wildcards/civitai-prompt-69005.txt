@@ -1,0 +1,2 @@
+(queen maeve),  portrait photo, sexy, outdoors, sunny, 4K, HQ, depth of field, bokeh, 4K, HDR.
+ <lora:MaeveDogu:0.9>

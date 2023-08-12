@@ -1,0 +1,8 @@
+absurdres, (masterpiece:1.2), (best quality, highest quality), intricate detail, sharp focus, (anime style), aesthetic, extremely beautiful, 
+transparent color PVC clothing, transparent color vinyl clothing, prismatic, holographic, chromatic aberration, 
+<lora:edgWalkureXL:0.99>, (angel wings), wearing walkure, (dual wielding:1.3), (holding sword:1.5), from below, (full body:1.2), light particles, glowing light, bloom, ambient occlusion, 
+<lora:Seraphins XL v1.0:1>, seraphins, mystical creature, the shape of sphere sorrounded by layer of hoops full of eyes, angelical, a giant eyes in the center, hundreds of hoops around the body,
+(mature female), seductive smile, blush, spoken heart, puffy nipples, large areolae, curvy, groin, huge breasts, girl on top, cowgirl position, happy sex, cameltoe, clitoris, pussy, vaginal, cum in pussy, pussy juice, cumdrip, (pubic tattoo:1.5), glowing tattoo, invisible penis, cum on legs, cum on legwear, (see-through), skindentation,
+armpits, looking at viewer, symbol-shaped pupils, ejaculating while penetrated, ejaculation,
+lace-trimmed armor, wearing (ripped pantyhose:1.2), wearing lace-trimmed skirt, high-waist skirt, 
+SimplePositiveXLv1

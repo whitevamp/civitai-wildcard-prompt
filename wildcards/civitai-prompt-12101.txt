@@ -1,0 +1,5 @@
+professional photo of girl, Embroidery, russia, red blue white, intricate, detailed,
+detailed skin, detailed eyes,
+photo made with Canon EOS, volumetric light, wheat field, 
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:Embroidery:1>

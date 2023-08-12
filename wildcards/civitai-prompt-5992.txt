@@ -1,0 +1,1 @@
+<lora:largewindow_20230531163119:0.50>,1 girl,(from behind,looking at viewers:1.3), black_hair,full body, long_hair, sliding_doors,(Sunset, fiery sky, silhouettes, peaceful atmosphere:1.4), (wedding dress,red rose flowers:1.3)

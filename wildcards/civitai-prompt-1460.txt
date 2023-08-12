@@ -1,0 +1,2 @@
+Laurence Fishburne, morpheus, glass
+ <lora:LowRA:0.7> <lora:chaV3:1>

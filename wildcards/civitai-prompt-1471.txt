@@ -1,0 +1,1 @@
+nijistyle,rfktr_technotrex,cyberpunk (sorceress:1.2) casting spells wearing armor, robes, cape, blend fantasy and science fiction together, techno-mancer inspired by D&D, Shadowrun, forgotten realms, wizards of the sword coast, fantasy flight,<lora:NijiExpressV2:0.3> fcPortrait <lora:sxz-niji-v2(1):0.6> <lyco:EnvySorceress:0.7> <lora:circrex:0.4>

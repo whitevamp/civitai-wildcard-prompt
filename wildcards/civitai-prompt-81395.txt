@@ -1,0 +1,2 @@
+High detail RAW color photo professional photograph,(photorealistic:1.4),best quality,realistic,extremely detailed,reality,highres,real human skin,film grain,photographed with a Sony a9 II Mirrorless Camera,natural lighting,depth of field,backlighting,lens flare,shade,[:(highly detail face: 1.2):0.1],shiny skin,Swimming Pool,There are windows in the background,
+1girl,wet body,orgasm,frown,pianful face,look_up,long hair,sweat,(jumpsuit:1.2),<lora:muscleGirl_v1:0.7>,<lora:FilmG4:0.8>,(krface1:0.5),(lynaritaa:0.8),(tights:1.2),

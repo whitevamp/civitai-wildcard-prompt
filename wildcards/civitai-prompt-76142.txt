@@ -1,0 +1,1 @@
+robot, robot joints, hardsurface, sci-fi_helmet, girl_face, concept_art,1girl,  <lora:nijiMecha:0.8> <lora:LowRA:0.4> <lora:hipoly_3dcg_v7-epoch-000012:0.7> <lora:FilmG4:0.4>,{in the cyberpunk city}, cityscape, <lora:PerfectNwsjMajic_4:0.6>,PerfectNwsjMajic

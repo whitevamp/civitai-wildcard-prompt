@@ -1,0 +1,2 @@
+mature male,1man,solo,(penis:1.01),(frenulum:1.1),detailed face,glans,testicles,muscular man,cowboy shot,male only,masterpiece,best quality,detailed,realistic face, 
+ <lora:turbomale_LoraV6:0.5> cum,abs, full body,masterpiece, best quality, 1boy, male focus, solo, nipples, abs, thighs, penis, testicles, anus, uncensored, short hair, bara, muscular male, male, handsome, looking at viewer,sitting on chair,with feet facing forward,full body,wearing rugby uniform, wearing white legwear,  easynegative <lora:asianmale_v10 (1):0.5>

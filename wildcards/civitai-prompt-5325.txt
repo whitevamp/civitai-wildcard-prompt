@@ -1,0 +1,1 @@
+<lora:Pyramid lora_Ghibli_n:1>,best quality,Spiderman,Ghibli,hayao miyazaki,

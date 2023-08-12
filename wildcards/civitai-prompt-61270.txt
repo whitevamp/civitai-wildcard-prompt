@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, hanfu,look up to,,looking up,  green eyes,green hair, green flowers clothes,beauty eye,backlighting, simple background, full body,chibi,  <lora:blindbox_V1Mix:0.9>,perfect ratio,chin grab,<lora:epiNoiseoffset_v2:1>

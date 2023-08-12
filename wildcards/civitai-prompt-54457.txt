@@ -1,0 +1,11 @@
+best quality, intricate details,
+
+
+1girl,<lora:ahriLeagueOfLegends_ahri45Suggested:0.8> ahri, ahri \(league of legends\),  red and white kimino, cleavage, marks on face, yellow eyes, fox ears, fox tails, long black hair, messy hair,
+
+ (flaming fox tails:1.3),  space, stars, clouds, shiny, celestial, woman, goddess, wavy, purple cosmic dust, serenity, distinct, outerspace 
+
+
+<lora:planetSimulatorLora_:0.8> earth,milky_way,starry
+
+ <lora:alexFloresStyleLOL_v10:0.8>

@@ -1,0 +1,4 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, HDR, RAW photo, dslr, 
+[:(intricate details):0.2], detailed_background, 1girl, highly detailed face and eyes, perfect hands, perfect fingers, full body focus:1.2, smile, indoor, at the (night time:1.2),
+(Haute_Couture:1.15), woman wearing a [Haute_Couture|wifs]_((designer dress:1.1),(drape with embroidery:1.2)), <lora:edg_lycorisCouture_indien:0.85>
+ <lora:sxz-style-niji:0.2>, niji style,

@@ -1,0 +1,1 @@
+RAW photo, photo, best quality, high quality, masterpiece, high resolution, 4k, hd, dslr, soft lighting, ultra high res, Fujifilm XT, no humans, burger, plate, beautiful, two tone lighting, <lora:epiNoiseoffset_v2:1>, advertisement, foodphoto, <lora:foodphoto:1>

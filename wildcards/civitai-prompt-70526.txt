@@ -1,0 +1,1 @@
+(masterpiece, realistic), 1girl, astaroth, red eyes, pink hair, twintails, horns, (glowing eyes:1.2), tail,  astarothdress, (astarothguitar:1.2), playing electric guitar, heavy metal stance, <lora:AstarothV2:0.9> , full moon, city ruins, burning city, fire, night, full moon, thunderstorm, InfernalAI, NightmarishAI <lora:InfernalAIv8:0.4> <lora:NightmarishAIv2:0.4>

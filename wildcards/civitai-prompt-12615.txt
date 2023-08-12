@@ -1,0 +1,7 @@
+best quality, (masterpiece:1.2), illustration, absurdres,
+(1girl, solo), (beautiful detailed girl),
+<lora:WangYuanjiDW8:0.9>, Wang Yuanji, blonde hair, ponytail, brown eyes, large breasts,
+aqua dress,  ornate dress, cleavage, aqua skirt, black thigh boots, thighhigh boots, high heels,
+looking at viewer, calm, relaxed,
+in bamboo forest, chinese architecture, stream,
+((arms behind head)), (upper body, portrait),

@@ -1,0 +1,8 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, bibleblack,
+YukikoMinase, 1girl, solo, full body shot, sitting on couch, spread legs, masturbation, fingering, female masturbation, grabbing own breast, female orgasm, 
+(blush:1.1), naugthy, open mouth, sweat, ahegao clenched teeth, 
+[black hair:green hair:30], short hair, lipstick, eyelashes, closed eyes perfect face, jewelry,
+(two-tone white purple tank top:1.3), (multicolored clothes:1.1), wet clothes, (covered nipples:0.9), 
+curvy, midriff, navel, large breasts, cleavage, (female pubic hair:1.1), pussy, 
+<lora:YukikoMinase:0.9> <lora:bb-style:0.35>
+ <lora:masturbation-v1:0.7>

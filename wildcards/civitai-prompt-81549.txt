@@ -1,0 +1,1 @@
+masterpiece, best quality, <lora:begging_pose:1.0>, eager pet pose,  <lora:nekogasaki_natsuho_v1:1> nekogasaki natsuho

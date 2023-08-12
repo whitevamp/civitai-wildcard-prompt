@@ -1,0 +1,2 @@
+aunt cass, as a doctor, white coat, sthethoscope, [cleavage:0.3]
+ <lora:AuntCassDoguv1:1>

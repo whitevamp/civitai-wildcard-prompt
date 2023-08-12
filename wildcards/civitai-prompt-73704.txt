@@ -1,0 +1,1 @@
+grainy,raw,natural lighting,dynamic lighting,<lora:FilmG4:1> ,filmg, detailed, girl , with lot of expensive detailed clothes, snowy futuristic city with light billboards,  evening

@@ -1,0 +1,11 @@
+(1girl:1.3), elsa of arendelle posing on a bed, (black_lingerie), long white_hair, thin waist, wide hips, suspenders, (stockings), seductive, pale_skin,
+playful, flirtatious, perfect petite breasts, cinematic_light, necklace, (breast_grab), goth, breast_focus,
+(masterpiece, best quality), 4k, realistic, dark_makeup, close-up, mole, navel, shiny_skin,
+extremely detailed face,
+extremely detailed eyes,
+beautiful detailed eyes,
+extremely detailed pussy,
+extremely detailed background,
+detailed beautiful skin,
+<lora:elsa_of_arendelle_v1:0.8>,
+<lora:Corset:0.3>

@@ -1,0 +1,4 @@
+professional photo of, slingshot swimsuit, white one-piece swimsuit, 1girl,
+detailed skin, detailed eyes, detailed face, action pose,
+high quality, volumetric light, highrez, masterpiece, best quality,
+<lora:micro_slingshot_v1:1:MIDD>

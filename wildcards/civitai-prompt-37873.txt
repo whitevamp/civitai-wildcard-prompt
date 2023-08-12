@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, leotard, sleeveless, knee boots, haigure pose, open hands, standing, spread legs,<lora:haigure_pose_v2:1>, cowboy shot, outdoors, street,, mafuyu1, 1girl, long hair, pink hair, blue eyes, hair between eyes, braid, <lora:kirisu_mafuyu_v10:0.6>

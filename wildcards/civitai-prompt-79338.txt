@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.2), solo, 1girl, green eyes, official, two tails, paw,
+shaded face, expressionless, sweat, looking at viewer, sweat, sitting, (box), storehouse,
+:3, (foot focus), paw shoes, from below, 
+panties,
+<lora:Genshin_Kirara_AP_v3_Pumpkinhn:0.75>

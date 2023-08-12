@@ -1,0 +1,1 @@
+(shot from below:0.9),(cinematic look:1.55),night, [[soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed]], Wasteland, complex background, (depth of field), epic realistic, mystical haze,  (by alan kenny, agnes cecile:1.2), <lora:add_detail:1>

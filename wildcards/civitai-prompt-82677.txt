@@ -1,0 +1,2 @@
+masterpiece, best quality,(cgi, realistic),photo, extreme detail, 8k, detailed face,34yo woman ,((mature)), (beth_pacen:1.25), blonde hair, short hair, retro hairstyle,medium breasts, jumping, futuristic armor, outside, action pose, destroyed city, city ruins, rubble, fire, apocalypse, cleavage, midriff, from below, dutch angle, action shot, 
+<lora:BethPacen_v1:1>  <lora:nanosuit_v10:0.6>, nanosuit

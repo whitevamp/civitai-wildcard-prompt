@@ -1,0 +1,8 @@
+[(white background:1.5)::5], (intricate details),
+brown boots,  
+low lvl boots,
+light boots for human, 
+symmetrical boots,
+<lora:game icon institute-xuezi:0.3>,, ufotable official art, pastel_colors,
+<lora:nomura_tetsuya_offset:0.4>, <lora:ff16style:0.4>, 
+<lora:akagi_shun_offset:0.4>,  <lora:amano_yoshitaka_offset:0.4>

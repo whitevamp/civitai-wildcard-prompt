@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),solo, open clothes, white background,
+upper body, (nude, nsfw, nudity), light smile, teeth,
+skinny body, brown eyes , medium breasts, <lora:clarityAndTuningSkin_v1:0.3>,
+yeji , <lora:YejiV6:0.6:KEEPCHAR> , <lora:YejiV6_4-000007:0.3:KEEPCHAR> , <lora:detailed_eye_V2:0.7> ,

@@ -1,0 +1,2 @@
+masterpiece, best quality, close up, face shot, running, city,
+narita taishin \(umamusume\), umamusume, animal_ears, horse_ears, hair_ornaments, closed mouth, serious, torn jeans, (asymmetrical clothes:1.2), belt, fur-trimmed jacket, pink jacket, jacket around waist, clothes around waist, midriff, long sleeves, tied shirt, open clothes, yellow shirt <lora:narita_taishin_lora:0.9>

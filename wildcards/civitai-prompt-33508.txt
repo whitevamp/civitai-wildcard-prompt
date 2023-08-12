@@ -1,0 +1,3 @@
+masterpiece, best quality, hyperrealism, soft light, sharp,
+1 girl,cute, kawaii,smile, blush, rouge,(small breasts), dark violet hair, fluffy short hair, long hair, detailed face,jewelry,
+(nude, nipple), dynamic pose, <lora:circle-glasses_v1.1:1>, circle-glasses, in library

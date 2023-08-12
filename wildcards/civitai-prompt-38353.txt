@@ -1,0 +1,1 @@
+1girl, nilou (genshin impact), red hair, fake horn, bright smile, beautiful smile, beach, blue bikini, sun, woman, standing, upper body shot,  <lora:nilou_1024_Lion_dim64_kohyaLoRA_fp32_3e-2noise_token2_20-3-2023:1>

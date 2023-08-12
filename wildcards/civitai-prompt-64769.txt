@@ -1,0 +1,3 @@
+masterpiece, best quality, 2girls, (fire), burning, messy kitchen, (flame), heavy fire on the background
+AND masterpiece, best quality, 2girls, cerberus \(helltaker\), white hair, red eyes, pancakes, maid outfit, animal ears, demon girl, (fire), messy kitchen, (burning), (flame)
+AND masterpiece, best quality, 2girls, cerberus \(helltaker\), closeup, white hair, red eyes, pancakes, maid outfit, animal ears, demon girl, speech bubble, (fire), messy kitchen, (burning), (flame)  <lora:CerberusV1:0.9>

@@ -1,0 +1,1 @@
+(masterpiece:1.43), (absurdres:1.49), (realistic, photo-realistic:1.37), (hires:1.39), (8k:1.39), (best quality:1.39), (Deadpool), showing a heart with hands, indoors, dynamic lighting, detailed background, <lora:add_detail:1>

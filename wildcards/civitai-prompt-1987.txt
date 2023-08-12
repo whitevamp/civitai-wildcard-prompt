@@ -1,0 +1,4 @@
+masterpiece, best quality, high quality, (futuristic:1.1), (cyberpunk clothes), cinematic lighting, (exquisite future), beautiful and aesthetic, ultra detailed, great composition, floating, depth of view, (extremely detailed CG, unity 8k wallpaper), (beautifully detailed background), beautiful hair details, dramatic lighting,  1girl, (medium breasts:0.8), nsfw, white hair, mecha,
+<lora:FluidHair:0.65> liquid hair,
+<lora:YuShui:0.7>yushushui, water, waves,
+<lora:sunAndShadow_v10:0.4>

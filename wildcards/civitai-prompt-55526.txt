@@ -1,0 +1,6 @@
+(8k, RAW photo, best quality, masterpiece:1.4), (realistic, photo-realistic:1.2), (ultra_highres), (ultra-detailed), absurdres,
+1girl, solo, jirai kei, twin tails, ((silver hair, eye shadow, dark lips)), supermodel,  
+symmetric eyes, complex pupils, extremely detailed eyes and face, light on face, nose blush, drastic hair ornaments, gothic,
+skirt, frills, band, shiny skin, skin pore, highly detailed skin, medium breasts, lace rims, choker, slim legs, fishnet stockings, slim waits, platform shoes,
+[magazine title, english texts, japanese texts, magazine cover, FashionMagCover <lora:FashionMagazineStyle_v10:0.65>::0.5],
+best lighting, detailed background, detailed shadow, sharp focus,

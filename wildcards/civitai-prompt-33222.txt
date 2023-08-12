@@ -1,0 +1,4 @@
+(bare shoulders:0.85), ((nude:1)), (Glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),1girl, masterpiece,best quality, 1girl,
+(in smoke:1.1),(dynamic smokeanywhere:1.4),<lora:smokeanywhere:0.55>,indoors,(full body:1.2),((in the sky:0.45)),
+dramatic lighting,epic cinematic, soft nature lights, rim light, absurd, amazing, funny, itricate, hyper detailed, ultra realistic, soft colors,
+<lora:oc_v10:0.5:PALETTE> <lora:lowra_v10:0.4> (joshua middleton comic cover art:1.1),  white flower<lora:anxiang:0.55>,

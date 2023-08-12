@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, gotou1, gotou hitori, solo, skirt, pink jacket, track jacket, bangs, hair between eyes, long sleeves, <lora:gotou_hitori_v1:0.7>, stage, holding instrument, guitar, sweat

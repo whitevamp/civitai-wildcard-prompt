@@ -1,0 +1,3 @@
+,aitako, 1 girl, masterpiece, best quality,ultra high res,  facing front, 
+ <lora:aitako:1.5>
+ <lora:instantCumshot_v1:0.5>,cum on face:0.5,taking a cumshot on her face:0.5

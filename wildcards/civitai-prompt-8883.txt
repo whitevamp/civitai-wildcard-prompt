@@ -1,0 +1,3 @@
+8k, real picture, intricate details, ultra-detailed,(photorealistic), confident,  simple background, symmetric,
+<lora:EVA_HorakiHikari:0.8> HorakiHikari, school uniform,
+<lora:3DMM_V11:1.0> 3DMM

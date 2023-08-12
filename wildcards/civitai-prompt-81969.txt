@@ -1,0 +1,5 @@
+best quality,(beautiful detailed face:1.0), (detailed deep eyes),
+,1girl, style,girl,solo,
+, single_braid,cowboy shot, , RanmaChan, RanmaUnderwear,smile, , clenched teeth ,
+,indoors on bed bedroom,(large breasts:),  stocky legs,kneeling, 
+,<lora:ST_inokiv3:0.7> <lora:ST_ikezaki:0.3> , <lora:CH RanmaChanV2:0.7>

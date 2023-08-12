@@ -1,0 +1,1 @@
+hand <lora:GoodHands-vanilla:0.9>

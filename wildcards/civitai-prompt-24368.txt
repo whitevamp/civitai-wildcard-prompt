@@ -1,0 +1,3 @@
+1girl,slg,(little birds),
+pointy hair,Cold shoulder dress,depth of field, dusk
+<lora:slg_v11:1> <lora:FilmVelvia3:0.6>

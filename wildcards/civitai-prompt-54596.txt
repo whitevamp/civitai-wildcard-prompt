@@ -1,0 +1,1 @@
+ masterpiece, best quality, highres, best quality, highres, girl , flowers, yellow eye, red hair, masterpiece, (photorealistic:1.4), best quality, beautiful lighting, (ulzzang-6500:0.4), makima \(chainsaw man\), (red hair)+(long braided hair)+(bangs),<lora:makimaChainsawMan_offset:1>

@@ -1,0 +1,3 @@
+1girl, pure, <lora:beautifuleyeslikeness_halfBody:0.15>, (white hair:1.3), (on a canoe:1.3), floating on water, looking at viewer, naked, nsfw, (female ejaculation:1.3), (water pump ejaculation from vagina),
+<lora:epiNoiseoffset_v2Pynoise:0.55><lora:theovercomer8sContrastFix_sd15:0.45>, (pureerosface_v1:0.2), shaved_pussy, small breasts,legs_up,
+(RAW photo, 8k, film grain), (photorealistic, realistic), (real person, real life:1.2), DarkFantasy

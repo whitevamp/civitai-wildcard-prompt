@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:sandy:0.8> sandy, brown fur, furry, squirrel ears, 
+ <lyco:GoDoACrime meme:0.8> godoacrime,  from above, chibi, pov, holding grenade,

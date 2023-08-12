@@ -1,0 +1,6 @@
+best quality, intricate details,, best quality, intricate details,
+1girl, white hair,  blue eyes, sharp eyes,messy hair, blue highlights, sharp teeth,multicolored_hair,long hair,
+virtual_youtuber, gawr_gura, <lora:gawrGuraHololive_v3:0.8> gawr gura,
+ shark teeth design, bare legs, shark girl, shark print, shark hair ornament,
+   flowing water, space background, black background, nebula 
+ <lora:sunAndShadow_v10:0.8> cloud,colorful, starry,stars,

@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.4),(highres),reflection,(cowboy shot:1.2),spell,(from above:1.2),looking up,
+1girl,
+<lora:emma-nvwls-v1-final:0.8> emma millstein, glasses, newsboy hat, braided ponytail, purple sleeveless coat, white shirt, green skirt, belts, white boots,glowing eyes,
+(magic circle:1.5) ,(hologram:1.3),(Quadruple Oblong:1.3),compass,fire magic,(zentangle:1.1) ,
+ancient castle,
+<lora:anime_minimalist_v1-000020:-0.5>
+<lora:flat2:-0.5>

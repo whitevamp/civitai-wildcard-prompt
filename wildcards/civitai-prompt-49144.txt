@@ -1,0 +1,7 @@
+masterpiece, best quality,
+
+danniashe, 1girl, nipples, solo, jewelry, 80s haircut, female pubic hair, realistic, large breasts, looking at viewer, navel, necklace, long hair, large areolae, lips, red nails, nail polish, cardigan, coat, nude, precise tanlines,
+
+
+,(natural lighting:0.5), Nikon D850, sharp colors, ISO3200, EF 70mm, CINESTILL, intricate details
+<lora:danniashe-#r.768,768#d.256#a.256#l.1#u.1#t.1#s.cosine#e.-000005-36075s-rs0128:0.50>

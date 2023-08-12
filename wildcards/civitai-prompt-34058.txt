@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful,
+Bitch, 1girl, mature female, milf, glory wall, through wall, stationary restraints, uncensored, ass focus, solo, photo (object), 1girl, restrained, portrait \(object\), ass focus,
+red hair, long hair, lipstick, makeup, green eyes, perfect eyes, detailed eyes, detailed hair, diadem, 
+(completely nude, nude, naked:1.2)
+curvy, ass, thighhighs, cum, cumdrip
+ <lora:malty_melromarc:0.8> <lora:glory_wall:0.85>

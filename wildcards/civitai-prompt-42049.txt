@@ -1,0 +1,4 @@
+masterpiece, (photorealistic:1.5), best quality, beautiful lighting, real life, 
+nami \(one piece\),
+1girl, architecture, cherry blossoms, east asian architecture, falling petals, gold, japanese clothes, kimono, log pose, long hair, looking at viewer, open mouth, orange hair, petals, shoulder tattoo, solo, tattoo, teeth, upper teeth only
+, intricate, high detail, sharp focus, dramatic, beautiful girl , (RAW photo, 8k uhd, film grain), caustics, subsurface scattering, reflections   <lora:nami_final_offset:1> <lora:koreanDollLikeness_v10:0.2>

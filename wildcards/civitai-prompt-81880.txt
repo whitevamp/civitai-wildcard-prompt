@@ -1,0 +1,2 @@
+(masterpiece, best quality;1.3), ultra detailed, Looking at viewer, 
+rem_re_zero, blue hair, short hair, hair ornament,maid bikini,   cleavage, maid headdress, detached sleeves, ribbon  <lora:Rem_ReZero_v1_1:0.9>  <lora:maid_bikini-clothes:0.8>beach, walking, <lora:add_detail:0.5>,

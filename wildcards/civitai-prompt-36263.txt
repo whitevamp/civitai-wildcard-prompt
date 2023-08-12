@@ -1,0 +1,2 @@
+<lora:Sophia_FE-10:0.8>, sophia fe, long sleeves, dress, jewelry, very long hair, collarbone, braid, cape, blue dress, cloak,
+masterpiece, best quality, absurdres, <lora:concept_yamchapose-10:1> yamchapose, lying, on side, closed eyes

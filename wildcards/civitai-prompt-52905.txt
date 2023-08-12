@@ -1,0 +1,3 @@
+branch, plum bossom, pink_flower, petals, 1girl, pink theme, long_hair, solo, petals_on_liquid,portrait,
+
+lace ,lace trim, <lora:linghuaInkLoraJX3_v10:0.7>

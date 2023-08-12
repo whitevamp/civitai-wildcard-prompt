@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),ultra detailed,(photo realistic:1.4),sexy_ballerina,<lora:SexyBallerina_v1:0.6>,

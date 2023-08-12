@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, petite, extremely beautiful, tanned skin, detailed skin complexion, nsfw, transparent night gown, spread legs, pussy
+break
+indoor, bedroom
+break
+perspective, artistic photography, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)  <lora:IG_Imazhai:0.2>

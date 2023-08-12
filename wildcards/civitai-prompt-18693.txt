@@ -1,0 +1,1 @@
+<lora:difConsistency_photo:0.75> <lora:Neonpunkai-8:0.6>, Neonpunkai, neon, woman, 1girl <lora:EkuneSideDoggy:1.0> ((1girl, 1boy,((sex)), sidedoggystyle, ass, standing sex, torso grab, from side)) BREAK (photorealistic), realistic face, medium breasts, beautiful woman, detailed eyes_and_face, beautiful face, detailed eyes, perfect body, smooth skin , (photorealistic), wallpaper

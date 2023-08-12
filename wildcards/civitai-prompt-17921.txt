@@ -1,0 +1,5 @@
+Best quality, masterpiece,  ultra high res ,  RAW photo,  (photorealistic : 1.4 ) , 
+ sunlight   , full body portrait of  stunningly beautiful ( <lora:yaeMikoRealistic_yaemikoMixed:0.7>  ), 1girl, solo , dynamic posing,
+ <lora:hll_20230617094651:0.4> , hll, pantyhose  ,
+(  alternate hair  : 1.2 ) ,  round ass , (detailed face), vibrant eyes  ,  (view from_above  ) ,   She wielded a chainsaw sword, brutal warrior    ,  at [ A distant planet with strange alien life forms : A planet where the inhabitants have evolved to live in total darkness : 0.75 ]  , ( very detailed background, detailed face, detailed complex busy background : 0.8 ) ,
+ messy, intricate , ornate,  Pearlescent colors , ((high detailed skin, realistic skin details)),  sharp focus, volumetric fog, 8k uhd, dslr, high quality, film grain,    fair skin, photorealism, lomography ,   from above ,  Pearlescent colors , iridescent , 4k uhd , tone mapping ,   (HDR:1.2)

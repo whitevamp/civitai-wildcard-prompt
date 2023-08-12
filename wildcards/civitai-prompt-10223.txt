@@ -1,0 +1,1 @@
+woman wearing magic-fantasy-mech armor flowing cape, standing on a barren planet, planet in the sky, fcPortrait <lora:magic-fantasy-mech-v1:0.6> <lora:testre3(0.7):1.0>

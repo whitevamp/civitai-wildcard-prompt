@@ -1,0 +1,4 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, nsfw,
+perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), dreamlike, science fiction, 1girl, sweat, pussy, ((pink nipples)), huge breasts, breasts out, arms up, ((sitting with legs apart, m legs pose)), corset:1.5,
+(maid:1.2), (((lace wet micro panties:1.1, lace trim, lace-trimmed legwear, intricate detail, delicate pattern))), high heel, sexy, charming, alluring, seductive, erotic, enchanting, (rope, shibari, lactation, milking machine:1.2)
+<lora:hipoly3DModelLora_v10:0.2> <lora:bondageSuspension_v11:0.6> <lora:milkingMachine_v13:1> <lora:mLegsPoseLora800_v10:0.6> <lora:corset_v10:0.5>

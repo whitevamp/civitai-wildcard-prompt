@@ -1,0 +1,1 @@
+1girl, photo, masterpiece, sweetlolita at bedroomgothic gothic interior, silver curly hair, pink gown fabric, heart shape on cheek, blush pink makeup, gloves, smile, pastel color, ornate, broderry, holding stuffed teddy bear, bokeh,  <lora:ARWSweetLolita:1>  <lora:ARWBedroomGothic:0.4>

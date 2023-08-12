@@ -1,0 +1,3 @@
+<lora:motion_blur_v0.3:1.30>
+motion blur, 1girl, penis, sex,
+<lora:orczor_v4.0:1> green skin, masterpiece, best quality, highly detailed

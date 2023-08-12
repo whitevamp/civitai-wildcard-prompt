@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, 1girl, long hair, black hair, high ponytail, full body shot, (lift up skirt:1.2), show pantie, 
+ <lora:maid_cosplay:0.75>, maid cosplay, maid, medium breast, muscular, slim and petite body, black pantie, standing seductively, black pantie, show cleavage, (black stockings:1.2), smile at viewer,
+ in the luxurious living room, <lora:koreanDollLikeness_v20:0.45>

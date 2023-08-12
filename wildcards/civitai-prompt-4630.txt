@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, gorgeous view
+AND
+<lora:RavenTT-000007:0.6> RavenTT, clothed female
+AND
+<lora:TonraqTLOK-000007:0.7>TonraqTLOK , clothed male, 
+<lyco:breast grab NTR4-000014:1.0> breast grab, 1girl, 1boy, TonraqTLOK grabbing RavenTT

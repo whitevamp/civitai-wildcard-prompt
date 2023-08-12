@@ -1,0 +1,1 @@
+1girl, sunbathing, topless, alluring, thin, beautiful face, outdoor(crowded beach), highly detailed, wide-angle lens, hyper realistic, low key, soft lighting, vivid colors, everything in sharp focus, <lora:add_detail:0.7>,<lyco:GoodHands-beta2:0.4>

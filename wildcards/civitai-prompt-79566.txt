@@ -1,0 +1,2 @@
+1girl,aerial fireworks, astronaut, aurora, milk way, festival,  Chinese traditional painting style, Tang Dynasty painting style, Fisheyes, masterpieces, top quality, best quality, official art, beautiful and aesthetic, animation, 8k raw,minimalism , simple background, 
+<lora:NijiExpressV2:0.5>   <lora:lovestar:1>

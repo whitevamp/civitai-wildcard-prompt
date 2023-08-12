@@ -1,0 +1,1 @@
+best quality, masterpiece, ultra-detailed, bow, bare shoulders, collarbone, cardigan, camisole, pleated skirt, head tilt, long hair, brown hair, wavy hair, looking at viewer, 1girl, blush,(photorealistic:1.4) , <lora:mix4:0.4>, <lora:NegStd1:0.5>, <lora:BeautyNwsjMajic2-01:0.8>,

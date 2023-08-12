@@ -1,0 +1,1 @@
+masterpiece, extremely detailed, (realistic:1.1), 1girl, naniwaifu, (dark-skinned female:1.2), (abs:-1), (thick thighs:1.1), (striped blue bikini), straw hat, hair flower, wet skin, (sweatdrop:1.1), standing, spread legs, presenting crotch, (from below:1.2), looking at viewer, beach, <lora:Nani_character:0.6> <lora:squeezer:-0.69> <lora:dtl-key:-0.4> <lora:addDetail_v1:0.7>

@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, anime style, cg, pretty face, 1girl, far shot, medium breast, <lora:Omega-F Kangaxx:0.7>, omega_tpa, black armor, elbow gloves, lipstick, earrings, (pale skin:1.2) pony tail, looking at viewer, emotionless, kneeling, (arms tied up by chain:1.4), 
+(inside the abandoned underground building), (dark environment:1.2),

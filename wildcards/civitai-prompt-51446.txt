@@ -1,0 +1,2 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.2), 1 beautiful girl, shiny eyes,  long hair
+ <lora:proneboneSideView_v10:0.8> proneposition, prone bone, sex from behind,  1boy, ass, lying

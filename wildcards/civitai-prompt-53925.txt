@@ -1,0 +1,1 @@
+<lora:ironcatlora5Sphynx_v10:0.8> <lora:ironcatlora2Dragons_v10:0.7> gundam sphynx cat with dragon wings breating fire, fire in the background, (intricate details), hdr, (intricate details, hyperdetailed:1.2), (gundam), (gundamfight)

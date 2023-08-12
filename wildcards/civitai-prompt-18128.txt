@@ -1,0 +1,1 @@
+woman,elite ranger, wearing hitech armor bodysuit, scifi scene,<lyco:EnvyBeautyMix11:1.0> <lora:CnArmorMix:1>

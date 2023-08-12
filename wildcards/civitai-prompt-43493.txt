@@ -1,0 +1,3 @@
+1girl, 3d, bodysuit, breasts, chain-link fence, fence, fishnet bodysuit, fishnet legwear, fishnets, hair over one eye, honeycomb \(pattern\), long hair, makeup, ninja, rooftop, solo, spider web print, white hair,
+/ High quality texture,  a realistic representation of the face, Detailed beautiful delicate face, Detailed beautiful delicate eyes, a face of perfect proportion, Depth of field,perfect body,muscular, muscular female, realistic, solo, toned, /
+(((slim waist, (wide hips:1.2),slim stomach, six-pack abs ,detailed ab line, detailed transverse abdominal , detailed external abdominal ,detailead rectus abdominal ))),<lora:FakeBreastsV8:0.3>, fake breasts, (huge breasts:1.2),(gigantic breasts:1.2), <lora:more_details:0.35>

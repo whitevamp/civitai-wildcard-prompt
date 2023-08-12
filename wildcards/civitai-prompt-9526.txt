@@ -1,0 +1,2 @@
+(ultrarealistic, extreme detail),(realistic:1.2),render, (masterpiece), (best quality), detailed face, 1girl,(hollie would woman:1.25) standing, wearing a garderbelt, living room, (blonde hair:1.2),hair bun, side bangs, lingerie, negligee, white panties, garder straps, white stockings, blue eyes, medium breasts, natural breasts, cleavage, side bangs, cameltoe, makeup, window, couch, potted plants, tv, wardrobe
+ <lora:holli_would_v1.0:0.6> , <lora:Garterbelt2:0.85>

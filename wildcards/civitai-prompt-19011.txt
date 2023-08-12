@@ -1,0 +1,1 @@
+masterpiece,best quality,1girl,chuatury panlunch,puffy hair,serious,(bruceleejumpsuit),action pose,<lora:CHAR-Gundam The Witch from Mercury-Chuatury Panlunch (Chuchu)-v1-NoteKaga:0.8>,<lora:BruceLee's_JumpsuitV1[bruceleejumpsuit]:0.5>,

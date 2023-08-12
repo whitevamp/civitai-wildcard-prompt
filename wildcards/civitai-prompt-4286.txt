@@ -1,0 +1,3 @@
+<lora:koreanDollLikeness_v10:0.5>,<lora:taiwanDollLikeness_v10:0.2>(8k, RAW photo, best quality, masterpiece,nsfw:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(full body naked),
+1 girl,cute, solo,beautiful detailed sky,detailed tokyo street,night,
+medium detailed breasts,beautiful detailed eyes,(collared shirt:1.1),(long hair:1.2),floating hair

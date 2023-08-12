@@ -1,0 +1,5 @@
+<lora:hipoly3DModelLora_v20:0.5>,  masterpiece, best quality,
+1girl,  looking at viewer, 
+latex battlesuit with intricate details, shiny clothes, holographic clothes, science fiction, bare legs, 
+rim lighting, side lighting, cinematic light, ultra high res, 8k uhd, film grain,best shadow, delicate, RAW, 
+detailed skin texture, detailed cloth texture,  beautiful detailed face, intricate details, ultra detailed

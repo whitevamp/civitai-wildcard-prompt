@@ -1,0 +1,5 @@
+masterpiece, best quality,   <lora:fashionGirl_v30ForSD15AndWaifu:0.3>
+cowboy shot, 
+simple background,
+<lora:virtualgirl-rin:0.2>,virtualgirl-rin,big breasts,short hair,brown hair,brown eyes,happy,schoolgirl,
+school uniform

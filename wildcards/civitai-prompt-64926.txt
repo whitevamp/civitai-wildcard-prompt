@@ -1,0 +1,7 @@
+mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),soft light, professional lighting,
+((camera from distance)), ((full body)), (((whole body))),
+view from below, between legs, seductive pose selfie,
+ultra-detailed, ultra detailed skin, beautiful detailed face, extremely detailed eyes and face, beautiful detailed nose, beautiful detailed eyes, (perfect eyes), thin thighs, beautiful detailed girl, detailed fingers, beautiful detailed breast, narrow waist, (((beautiful vaginal))), ((show legs)), (((gigantic breasts:0.7))), 
+blouse, leather, (((miniskirt))), garter belt, black stocking, high heels, shoulder bag, ((luxurious earrings)), big earrings, ((luxurious necklace)),
+street, tree, night, 
+ulzzang-6500-v1.1:0.15,  <lora:koreanDollLikeness:0.15>

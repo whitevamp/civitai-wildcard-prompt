@@ -1,0 +1,1 @@
+best quality, masterpiece, 1girl, walking, (looking at viewer), portrait, solo, (looking over shoulder), KENA, (kena outfit), sitting on rock, crosslegged, barefoot, soles, arms raised, necklace, poncho, midriff, spine, upper body, deep forest, grass, bushes, stones  <lora:3DMM_V12:0.8> <lora:Kena_v1:0.8>

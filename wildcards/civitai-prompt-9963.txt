@@ -1,0 +1,1 @@
+<lora:FriedrichNietzsche:0.7> friedrichnietzsche, thick moustache, forehead, coat, white shirt, (standing by the fountain:1.1), (intricate details:0.9), (hdr, hyperdetailed:1.2), (natural skin texture, hyperrealism, soft light, sharp), (intricate details:0.9), (hdr, hyperdetailed:1.2), (natural skin texture, hyperrealism, soft light, sharp)

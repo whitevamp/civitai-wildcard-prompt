@@ -1,0 +1,1 @@
+((best quality)), (masterpiece), photorealism, realistic, real life, uhd, 8k, to8contrast style, dark scenery, rtx, ray tracing, atmospheric fog, moonlight, futuristic city, dirty streets, trash, run down buildings, (postapocalyptic city:1.3), dark clouds, <lora:theovercomer8sContrastFix_sd15:0.65>

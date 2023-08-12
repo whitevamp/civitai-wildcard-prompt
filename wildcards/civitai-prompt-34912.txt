@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, cowboy shot, (photorealistic:1.3), 8K, raw photo, 1girl, (Nintendo:1.1), (gamer girl:1.1), gaming, wearing hoodie, playing video game, dynamic pose, red lipstick, full body, dynamic pose, rouge,  film grain, closed mouth  <lora:ClothingAdjuster3:-0.7>  <lora:InstantPhotoX3:0.5>

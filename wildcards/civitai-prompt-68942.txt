@@ -1,0 +1,2 @@
+(masterpiece, best quality:1.2),ultra detailed, highest detailed, (body horror:1.4), (biomachine:1.3), (bloody:1.2), living being, (colorful:1.2), Hans Giger,  many hands, (zentangle:1.2),
+<lora:add_detail:1>,

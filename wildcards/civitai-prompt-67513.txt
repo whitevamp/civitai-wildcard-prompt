@@ -1,0 +1,5 @@
+masterpiece, 1girl, realistic, raw photo, (((((full body))))), large breasts, brown hair, black eyes, fitness, 26 years old, (wet hair:1), 
+wearing white shirt, wearing shorts, sunset lighting, perfect lighting,
+((singing)), ((carring guitar:1)), ((((laughing)))), (((looking to the sky))), ((one hand hoding mike)),((jumping)), ((spread legs)),
+((((from below)))), outdoor concert, summer festival, huge crowd, crowded, 
+ <lora:BetterBodyinClass:0.5> <lora:chilloutmixss_xss10:0.3>

@@ -1,0 +1,9 @@
+((8k,  masterpiece, best quality, ultra-detailed)), (an extremely delicate and beautiful, beautiful detailed eyes, hyperrealistic)
+, cute, kawaii, smaller face, long hair, bangs, pointy ears, large breasts
+, slit pupils,  glowing eyes, big eyes
+, nipples, navel, (pussy), completely nude, wet
+, (looking at viewer:1.2), sitting
+, (smile:0.5), (shy:1.2)
+, dungeon, pond
+, from side ,dark lighting
+, lamia, <lora:LAMIA-SERY-CONCEPT:1>, <lora:dungeon_v2.0:1>

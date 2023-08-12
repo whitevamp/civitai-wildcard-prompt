@@ -1,0 +1,2 @@
+1girl, standing, light blue jacket,  looking up, side view, sneakers, schoolbag, sketch,
+a owl ,<lora:Kid_Illustration:0.75> janemassey, massey, ( lineart,white background,illustration, cute, 2d:1.4),

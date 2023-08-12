@@ -1,0 +1,6 @@
+(flat color:1.3),(colorful:1.3),(masterpiece:1.2), best quality, masterpiece, original, extremely detailed wallpaper, sitting, extremely detailed wallpaper, absurdres, highres, illustration, 1girl, solo, (expressionless, emotionless), active pose, creative background, (abstract background), (long eye lashes), hair ornament, piercing, facial tattoo, fangs, blacklight, full body, neon, gray skin, punk, multiple belts, <lora:uv:1> <lyco:add_detail:0.5>, girl with (petite hot  body:0.8),
+(high angle shot:1), [(detailed:1)::0.2], (crepuscular rays:0.6), 
+(tiny waist:0.8), (feminine :1), (perfect face:1), 
+(she feels in love:1), 
+<lyco:LowRA:0.2> <lyco:add_detail:0.2><lyco:breastinclassBetter:0.2>
+ [best quality, masterpiece, sharp, detailed, crisp, noise-free, accurate:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2]

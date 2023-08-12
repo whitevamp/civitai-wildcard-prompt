@@ -1,0 +1,1 @@
+origin, shorts, bandages, torn pantyhose, hood, midriff, crop top, jacket  <lora:flint-pynoise:1>

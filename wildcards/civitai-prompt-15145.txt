@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:zerotwo:0.8> zerotwo, hairband, horns,red horns, 
+ <lora:OutfitCerestiaV1:0.8> breast curtains, pelvic curtain, no panties,

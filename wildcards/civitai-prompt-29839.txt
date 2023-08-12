@@ -1,0 +1,1 @@
+best quality, masterpiece, BioPunkAI2, Mummy, <lora:BioPunkAI2:.8>, white background, <lora:topo_v4:1>, wireframe

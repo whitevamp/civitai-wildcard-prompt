@@ -1,0 +1,2 @@
+masterpiece, best quality, 1boy,  ultra detailed,  pastel_style, ((male)), synthwave,detailed background, pastel sunset, upper body, ultra detailed, :3, catmouth, ;3, smug, smile, closed mouth, ((carrying books)), jumper, university, mature male, young adult, centred,  Sparkly space, nebula, colourful, vibrant, detailed background, stars in eyes, starry eyes, detailed eyes
+  <lora:3_v20:1>

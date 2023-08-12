@@ -1,0 +1,5 @@
+(1girl:1.2),(no bangs pink hair:1.3),long hair, black eyes, light pink hair ornament, portrait,
+(beautiful white dress:1.6), outline,cute smile,small pink flower,
+(Holding a big cake :1.4)
+(white background:1.3), (Brownish red branches full of small white flowers:1.25), (upper body:1.3), (A splash of colored paint1.15), Movie poster,
+<lora:makotoShinkaiSubstyles_offset:0.1> <lora:tachi-e:1.2>

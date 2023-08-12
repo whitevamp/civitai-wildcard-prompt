@@ -1,0 +1,1 @@
+SFW,1woman, solo, (blonde hair, blue eyes, short twintails, pigtails), (dress, sky-blue sleeveless dress, black belt, white thighhighs, black footwear), (detailed face, detailed eyes, perfect skin) standing, office  <lora:Bubbles:0.9>

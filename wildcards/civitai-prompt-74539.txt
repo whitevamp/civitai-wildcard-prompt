@@ -1,0 +1,1 @@
+<lyco:UnlimitedBladeWorks:0.6> Unsheathing katana,  <lora:devilMayCry5Vergil_v10:0.8>, vergil(dmc5), young man, yamato katana

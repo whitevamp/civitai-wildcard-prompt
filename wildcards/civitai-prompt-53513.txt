@@ -1,0 +1,1 @@
+<lora:ironcatlora2Dragons_v10:0.5> <lora:guitarsElectricAnd_v10:1> textless, photo, a dragon playing (guitar:1.1), tundra, multiple wings,

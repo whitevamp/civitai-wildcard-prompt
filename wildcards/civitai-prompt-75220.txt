@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3), colorful, highest detailed, cinematic light, illustration, HDR, flower field, (1girl), realistic face, upper body, shiny skin, <lora:japaneseDollLikeness_v15:0.2>, <lora:taiwanDollLikeness_v15:0.4>

@@ -1,0 +1,4 @@
+Photo_Comparison,
+kongou,kancolle, breast, standing,  white shirt,pants,
+phone, cellphone, smartphone, holding, holding_phone, sex, vaginal, picture
+<lora:photoComparisonBETA_v10:1>

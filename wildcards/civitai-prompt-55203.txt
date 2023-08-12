@@ -1,0 +1,1 @@
+cinematic lighting, adult,  female, looking at viewer, portrait, upper body, (RSEEmma:0.7), <lora:MISC-GlossyFace:0.4>, (ElsaWaifu:1.2), blue dress, <lora:CHAR-Elsa:0.6>, snow, <lora:POSE-BreastFocus:0.5>, cleavage, breasts, blue eyes, ice castle, hills, magic, hair, forehead, crystal tower

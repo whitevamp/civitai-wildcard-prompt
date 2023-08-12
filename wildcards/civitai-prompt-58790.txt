@@ -1,0 +1,1 @@
+jar jar binks, Beautiful Art Style, 1girl, young woman, looking at viewer,  shaggy hair, swimming pool, fidgeting, jack-o-lantern costume, <lora:jarJarBinksGunganStar_v3:0.6>, Generate a magnificent, best quality illustration, fabled, troll, werewolf, a colorful coral reef teeming with marine life, crystallineAI,  <lora:crystallineai_v10:1>

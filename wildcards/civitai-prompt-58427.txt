@@ -1,0 +1,1 @@
+(photo realistic:1.55), <lora:sung02:0.6>, (SWSD:1.2), (FLWR:1.5), masterpiece, best quality, detailed, blurry, depth_of_field, blurry_background, blurry_foreground, 1girl, gloves, white_gloves, motion_blur, photo_\(medium\), solo,  <lora:sexy_wedding_short_dress:0.4>

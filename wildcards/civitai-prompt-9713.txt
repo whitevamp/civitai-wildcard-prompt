@@ -1,0 +1,6 @@
+masterpiece, best quality, 
+yellow background, polka dot background, 
+(chibi:1.2),
+1girl, full body, (jitome:1.2), jumping, v-shaped eyebrows, big mouth, open mouth, happy, coke, soda bottle, 
+doma umaru, orange hood, white shirt, red shorts
+ <lora:himoutoumaru-chan_doma-10:0.8>

@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  <lora:GoodHands-vanilla:1>, <lora:LowRA:0.4>, 1girl, sheer white dress ,<lora:sheer-05:1>,nipples, epic character composition, sharp focus, natural lighting, subsurface scattering, night, (city bg), bokeh, f2, 35mm, film grain

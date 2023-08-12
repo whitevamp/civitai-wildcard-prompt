@@ -1,0 +1,6 @@
+nsfw,  masterpiece, (Authentic photography:1.1), delicate, beautiful detailed, finely detailed, Real light,(RAW photo, best quality), (realistic, photo-realistic:1.3), best quality ,masterpiece, 
+(masterpiece, best quality, intricate details, chromatic aberration), (realistic), ((intricate detailed)), ((Hyperrealistic)),absurd res,highly detailed,Real light,
+(1girl), mixed-race beauty,(Naughty:1.2),gentle, sexy pose,romantic, dynamic view,standing, (oily:1.2),(flushed:1.2),perfect nose,Elastic ass,
+(long legs:1),no panties,no bra,milf, big breasts, beautiful detailed eyes, earrings, detailed background, perfect eyes, seductive eyes,Gentle smile, ass focus, 
+wearing  (colourful:1.2) (kitchen_apron:1), wearing nude_kitchen_apron,Fruit, (flowers), (vases),
+<lora:add_detail:0.8>, <lora:FilmG4:0.7>.

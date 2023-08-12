@@ -1,0 +1,5 @@
+8K, (best quality:1.3), (masterpiece:1.3), (detailed:1.2), distinct image, ((portrait shot)), ((photogenic, rule of thirds)), RAW photo, (realistic art style:1.2)
+(Photorealistic Natural Human Body), sharp focus, deep colors, deep shadows
+BREAK
+Solo, looking at viewer, impressive expression, Tapered body, ((Side-set breast)), High Cheekbones face, Tapered Cut Light Ash Brown hairs, Amber eyes, 1920s Flapper costume,
+natural volumetric lighting,

@@ -1,0 +1,1 @@
+<lora:baroqueAI:.75>, baroqueAI, car

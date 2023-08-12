@@ -1,0 +1,2 @@
+<lora:KunihiroHajime:1>hajime02, black hair,ponytail,blue eyes,star (symbol),revealing clothes,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile

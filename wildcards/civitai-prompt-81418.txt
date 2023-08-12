@@ -1,0 +1,1 @@
+<lora:add_detail:1>Best quality, (masterpiece:1.1576), (high resolusion:1.2155),(ultra detailed 8k art:1.05),  kawaii,  (fluffy), (micro size:1), micro size pigs, semi-realistic, multiple cute pigs, out door, lots of micro sized pigs <lora:Silicon-landscape-isolation:1>

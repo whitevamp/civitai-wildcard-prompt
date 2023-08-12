@@ -1,0 +1,8 @@
+masterpiece, best quality, ultra-detailed, illustration, vibrant details,cinematic lighting,moody lighting
+(1girl), solo, perfect anatomy, beautiful detailed eyes, sharp focus, glowing eyes, detailed 4k eyes,
+<lora:neon-nikke-richy-v1:1>  neonswim, grin, glasses, sailor collar,
+mature female, milf, breasts, huge breasts, gigantic breasts
+(barbecue, grill, grilling, holding, holding skewer:1.2), beach, sand, palm trees, waves,
+candid, modelshoot style,(fcDetailPortrait:0.8), [simple background:beautiful scenery:0], (best illumination, beautiful detailed glow),
+<lora:more_details:0.3> ,
+<lora:hairdetailer:0.5>,

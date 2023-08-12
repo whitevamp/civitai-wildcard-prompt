@@ -1,0 +1,5 @@
+masterpiece, perfect face, (thick lines:1.0), (ultra-detailed:1.2), (oil painting:0.9), (extremely detailed CG unity 8k wallpaper:1.2), soft lighting, masterpiece, perfect face, (thick lines:1.0), (ultra-detailed:1.2), (oil painting:0.9), (extremely detailed CG unity 8k wallpaper:1.2), soft lighting, arona, 1girl, mechanical halo, solo, short hair, single braid,
+school uniform, barefoot, blue shirt, long sleeves, white bowtie, white choker, white hairband, white sailor collar, white skirt, long skirt
+smile, blush, feet, toes, looking at viewer, sitting, midriff, knees to chest
+BREAK water, ruined classroom, blue sky, cloud, day, reflection, reflective water, shallow water
+<lora:chara-arona-v1:1>

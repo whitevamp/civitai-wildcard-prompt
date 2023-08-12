@@ -1,0 +1,6 @@
+(cowboy shot),  sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:MitsukiMHA:0.7> MitsukiMHA, mature female, red eyes, seductive
+<lyco:pantynet, sleevemesh, sheertop, nettedthighs:0.8>  sleevemesh, fishnet sleeves, denim miniskirt, purple tank top
+BREAK
+(street, gorgeous view)

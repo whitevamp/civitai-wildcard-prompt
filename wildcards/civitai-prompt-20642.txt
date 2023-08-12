@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, slingshot swimsuit, white one-piece swimsuit, pubic hair, standing, cowboy shot, outdoors, <lora:micro_slingshot_v1:0.9>, nm1, headphones around neck, <lora:nakano_miku_v10:0.7>

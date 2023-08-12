@@ -1,0 +1,2 @@
+Photo of a woman in a public bathroom, graffiti on walls, (concrete:1.2), dirty walls, sexy black dress, (open back:1.4), (readhead:1.7), short hair, skinny, tall, neon sign on wall, dark, DSLR photo, Raw photo, 8k, contrast, detailed, intricate, looking in mirror, (green lighting:1.3), UndergroundClub, soft lighting, realistic, hard shadow, masterpiece, best quality, (fog:1.2), wet hair, red lips, close up
+ <lora:UndergroundClub:0.5>

@@ -1,0 +1,5 @@
+Photo of a beautiful redhead woman with short hair next to a huge robot, lace bra, minskirt, slender, flirting with the camera, from side
+masterpiece, detailed clothes, best shadow, detailed face, (blurry:1.4), muted colors, (photorealistic:1.3), poor quality photo, evil,
+huge robot, robot wings, copper and metal, in the jungle, red lips, leather skirt, metalic face
+<lora:shitu-mechaV1:0.6>
+<lora:Detail Tweaker:1>

@@ -1,0 +1,8 @@
+official art,best quality,masterpiece, photorealistic, ultra-detailed,cute,glamourous, elegant,sparkling eyes,seductive eyes,
+1girl,solo,full body,
+research station,
+indoor,
+Growth,
+attic, musty, forgotten,
+Glowing Environment, Enchanting Luminescence, Dramatic Colors, Ethereal Radiance
+ <lyco:gpts4 lite dreamwave_278580:0.5>  <lora:lowra_v10:0.5>

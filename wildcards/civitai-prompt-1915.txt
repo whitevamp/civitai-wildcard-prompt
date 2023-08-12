@@ -1,0 +1,4 @@
+2d, pastel color, watercolor, low color saturation,
+illustration, lineart, 
+ankymoore, 1girl, bouquet, black hair, camellia, (closed_eyes), flower_ornament, hair_flower, hibiscus, lipstick, makeup, profile, red_flower, red_lips, red_rose, rose_petals, rose_print, short_hair, solo, backless dress, thorns, upper_body, vase, necklace, 
+<lora:ankymoore-04:0.95>

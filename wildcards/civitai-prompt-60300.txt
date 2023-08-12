@@ -1,0 +1,1 @@
+closeup, (red hair Scottish fold cute cat:1.2), (wet hair, sad512:1.35), sitting on a road, after rain, night, hyperdetailed, cinematic, (dark theme:0.75), <lora:lowra_v10:0.75>, <lora:zovyasWetHair_v1:0.75>

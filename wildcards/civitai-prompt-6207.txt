@@ -1,0 +1,5 @@
+1 beautiful female
+Alyssa Monks
+glowing
+dark, dim light
+realistic, photorealistic  <lora:epiNoiseoffset_v2:1>

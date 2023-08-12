@@ -1,0 +1,5 @@
+(grainy:0.8), (extremely detailed:1.2), (sharp:0.8)
+BREAK 
+<lora:glowingrunesai_v10:0.75>, glowingrunesai, levitating girl, glowing eyes, runestones all around
+BREAK
+forest,

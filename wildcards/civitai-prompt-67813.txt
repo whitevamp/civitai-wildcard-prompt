@@ -1,0 +1,1 @@
+solo, black hoodie, jeans, goblin girl, red hair, (green skin:1.2), wide hips, small, midget, lineart, detailed, illustration, (streets background:1.3), <lora:ravnikaV2:0.5>, <lora:TwtxV1:0.3>, <lora:shortstack_v2_7:0.3>, <lyco:Zet13V3B:0.2>, <lora:goblin_lora:1>

@@ -1,0 +1,1 @@
+landscape, a tiger in front of candijateng at dawn, epic, fog, temple stone, ornament, ornate, details, forest, dim light, mountain, forest <lora:ARWCandiJateng:1>, advntr,  <lora:sceneConcept_s_v2:0.6>

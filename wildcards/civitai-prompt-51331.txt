@@ -1,0 +1,1 @@
+Fantz cartoon (creature:0.6)|(turtle:0.5) design,  ultra detailed, random colors, steampunk, and punk costume,  <lora:Small_Mostersv2:0.3>   <lora:Creature_Design2_V1:0.6>

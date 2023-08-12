@@ -1,0 +1,2 @@
+photorealistic,realistic, solo, photorealistic, best quality, ultra high res,4k, 8k, cool face, solo focus, (full body), (purple hair:1), blunt bangs, braid, hair ornament
+,beautiful, (masterpiece), best quality, extremely detailed face, extremely detailed eyes, perfect lighting, solo,1girl, ultra detailed, beautiful face, beautiful eyes, outside in the park with lake, running, mecha armor, depth of field, motion lines, <lora:RaidenShogun-hands:0.8>,  <lora:RX78_V1:0.8>, <lora:koreanDollLikeness:0.2>

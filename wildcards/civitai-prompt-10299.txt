@@ -1,0 +1,3 @@
+Photo of the ED-209 robot browsing through racks of fashionable attire in a trendy clothing store.
+(reflective metal:1.2), intricate robot, metalic helmet.
+ <lora:ed209:0.8>

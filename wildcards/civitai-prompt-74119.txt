@@ -1,0 +1,1 @@
+1girl, (short-sleeved JK_shirt),JK_style,(dark blue JK_skirt) ,(bow JK_tie), Brown eyes ,FACE,  <lora:FilmG4 :0.6> ,<lora:asianGirlsFace_v1:0.4> ,<lora:jk uniform:0.1>, <lora:sd-No.155:0.5>

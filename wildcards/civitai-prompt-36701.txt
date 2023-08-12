@@ -1,0 +1,1 @@
+forest, sunlight:1.3, sunset, SHISHKIN, best quality, ultra_detailed, landscape, <lora:SHISHKIN(LANDSCAPE)_V1-000001:1>, realistic, oil painting, scenery, water, warm tone, path, puddle, humans, warm color:1.4, high contrast, HDRI

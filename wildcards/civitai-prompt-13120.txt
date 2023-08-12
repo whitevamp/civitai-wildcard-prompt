@@ -1,0 +1,1 @@
+a photo of kuplinov,<lora:kuplinov2:0.9>, realistic,

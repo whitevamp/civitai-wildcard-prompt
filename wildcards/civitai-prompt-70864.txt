@@ -1,0 +1,1 @@
+drip jacket,white background, shirt, jacket, closed mouth, open clothes, black pants, pants, 1girl,  black shirt, looking at viewer, open jacket, solo, own hands together <lora:drip_jacket:0.8>,mudrock(arknights), horn , white hair , long hair , <lora:mudrock:0.8>,

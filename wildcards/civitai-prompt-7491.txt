@@ -1,0 +1,5 @@
+professional photo of hmmarnie, (smiling:0.8), aqua eyes, black choker, red ribbon, pink dress, jewelry, black jacket, long sleeves,
+detailed skin, detailed eyes,disco,
+photo made with Canon EOS in naturalistic style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:marnie_v1:0.88:MIDD>

@@ -1,0 +1,8 @@
+realistic, detailed,
+break,
+1girl, extremely beautiful, slender, detailed skin complexion, seductive face, casual clothes, looking at viewer
+break,
+simple background
+break,
+cowboy shot, perspective, rule of third, depth and dimension, depth of field 
+break, <lora:IG_Valezka:0.8>

@@ -1,0 +1,1 @@
+<lora:MoXin-1.0:0.7> <lora:shukezouma_v1_1:0.8>,shukezouma, negative space, , shuimobysim , (masterpiece, best quality:1.2), necklace,1boy,basketball,

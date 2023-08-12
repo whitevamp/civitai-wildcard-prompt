@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+ <lora:shyvanaClassicLora_shyvanav1:0.8> The_Half_Dragon_Shyvana, Purple_skin, Long_hair, 
+
+ <lora:penisOnFaceConcepts_v3:0.8>penis on face, penis over one eye, 1girl, 1boy, pov, large penis, facejob, penis between eyes,

@@ -1,0 +1,4 @@
+((robot girl, mecha)), broken armor,  mechanical halo, mechanical arms,
+white hair, long hair, ceramic body, thigh gap, small breast,
+cyber background, extreme detailed city, (translucent body, reflection skin),
+8k, best quality, ultra detailed, (hyperrealistic:1.4), <lora:glassSculptures_v20CompletelyRedone:0.3>,

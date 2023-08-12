@@ -1,0 +1,2 @@
+<lora:LowRA:0.7>
+gargoyle statue in iron sneakers, sneakers inspired by gargoyle, (intricate details:0.9), (hdr, hyperdetailed:1.2)

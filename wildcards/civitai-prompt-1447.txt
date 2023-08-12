@@ -1,0 +1,1 @@
+(photorealism:1.3), finely detailed, quality, rembrandt lighting, (masterpiece:1.2), (photorealistic:1.2), (best quality), (detailed skin:1.3), (intricate details), dramatic, ray tracing, portrait, john snow, by Lee Jeffries, details <lora:LowRA:0.5>

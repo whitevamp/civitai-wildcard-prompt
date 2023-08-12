@@ -1,0 +1,8 @@
+(masterpiece, sidelighting, ultra-detailed, finely detailed beautiful eyes:1.2),
+cinematic light,
+
+(1girl, solo:1.5) ,17yo ,kwaii, casual, skirt, (medium hair:1.4), (french braid ,pink ranged hair:1.3) ,(black hoodie:1.4),black legwear,glow blue eyes,zettai ryouiki,light smile,:3,
+circle-glasses,thin glasses, <lora:circle-glasses_v1.1:1.0>,
+put one's hands in one's pocket,
+
+(cafeteria,city:1.4), cowboy shot,(wind, sakura, floating petals, floating hair:1.2), walking,

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, black hair, solo, school uniform,  detailed face, detailed eyes, floating hair,  (black legwear:1.6),(mary_janes), <lora:mary_janes_v0.2:0.5>, (black_shoes),sitting, outdoors, sunlight,

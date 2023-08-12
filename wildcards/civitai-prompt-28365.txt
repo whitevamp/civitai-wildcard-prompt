@@ -1,0 +1,4 @@
+wolf,multi dimensional paper quilling, art, chibi,
+yang08k,  beautiful,  colorful,
+masterpieces, top quality, best quality, official art, beautiful and aesthetic,
+<lora:add_detail:1>, (masterpiece,best quality:1.5)

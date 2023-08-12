@@ -1,0 +1,8 @@
+realistic, detailed, realistic details, intricate detail
+break,
+nsfw, 1girl, tanned skin, slender, petite, elf ear, transparent dress, realistic skin, detailed skin complexion, looking at viewer, seductive, sitting, spread legs, ((aftersex, cum in pussy, cum dripping))
+outdoor, detailed background, fantasy world, mystical forest, mythical vibe, (((night, dark, fireflies, volumetric fogs, elven ruins, intricate architecture, lake)))
+break, 
+portrait, perspective, f/1.4, 56mm, depth of field, proportion, sharp focus, light and dark contrast, depth and dimension,
+break,
+ (ulzzang-6500-v1.1:0.2) <lora:C_RV:0.2>

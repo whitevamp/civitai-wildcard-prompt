@@ -1,0 +1,5 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), (fractal art:1.3), 
+solo, athena97,
+purple eyes, purple hair, long hair, earrings, red shoes, red hairband, star hair ornament,(white socks:1.1), squatting,
+ medium breats, red open vest, white turtleneck, white puffy sleeves, short sleeves, red pleated skirt, deep red pantyhose,yellow belt,(puple spherical necklace:1.3), red fingerless gloves,
+(outdoors),  sunlight, cosplay photo,  (cinmatic:0.4),street simple background,<lora:Athena97final:0.7>

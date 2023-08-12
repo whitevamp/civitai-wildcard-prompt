@@ -1,0 +1,6 @@
+(highest quality, best quality:1.2), masterpiece, 8k, color contrast,
+avatar \(series\),
+mai, tylee, azula
+ (black hair:1.3), short hair, twin buns, blunt bangs, braided ponytail
+blue fire in background, pillars
+ <lora:PovGroupSex_v10:1>  multiple girls,1boy, pov, sex, 3girls, cowgirl position, straddling,

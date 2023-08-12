@@ -1,0 +1,6 @@
+ultra high res cg,ultra res photo,(best quality, masterpiece:1.2),realistic, ultra-detailed,bright,warm light,full_body,style of a idol,((nsfw)),
+1girl,Beauty police,black hair,(long A-curl perm hair:1.2),brown eyes,blush,red lips,(pleasure face:1.3,enchanting smile),tall,slim,(large breasts,F cup),curvy,(fair skin:1.3),
+standing,looking down viewer,open legs,(WombTattoo:1.3),(cameltoe:1.2,bottomless,side boob,cleavage),
+(police uniform:1.3,police suit), police hat,police jacket, open jacket,short skirt,lace-trimmed fishnet Stockings,garter belt, high heels boots,shoulder board,jewelry,necklace,earrings,choker,necktie,handcuffs,police pistol,police badge,whip,
+outdoors,at street,ground vehicle,police car,blue sky,
+<lora:photorealisticWombTattoos_401:0.4>,<lora:fashionGirl_v45:0.6>,

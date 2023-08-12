@@ -1,0 +1,6 @@
+(ink sketch, methurlant,  Syd Mead,   )
+realistic face
+1 beautiful woman,  silver armor, complex,  intricate , neon light, 
+complex background, city
+futuristic , detailed, realistic face,
+hyperrealism, surreal <lora:add_detail:1> <lora:methurlant:1>

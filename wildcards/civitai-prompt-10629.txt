@@ -1,0 +1,6 @@
+<lora:Emiru_v1:1>, ((looking at viewer))
+nsfw,best quality,masterpiece,ultra high res,(cowboy shot),(photorealistic:1.4),8K raw photo,cinematic lighting,official art,night, 
+1girl, natural skin texture, full lips, parted lips,medium breasts, skinny,slim legs,(looking at viewer:1.2),dynamic pose,
+The ((background is full of flowers and roses)), ((roses)), detailed background,  castle room,  squating, back view,  roses
+wearing see trough dress, white silk lace nightgown),<lora:seeThroughDress_v10:0.6>, <lora:FilmG3:1> , <lora:add_detail:0.5> 
+spread leg

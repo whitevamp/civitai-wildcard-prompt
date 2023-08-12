@@ -1,0 +1,1 @@
+<lora:alice_cartelet-v2:0.8>alice cartelet, white thighhighs, cardigan, open cardigan, striped bow, hair ornament, blue pleated skirt, white collared shirt, indoors, window, mary janes, full body, smile, looking at viewer,<lora:LECO_LessCrotch:1>

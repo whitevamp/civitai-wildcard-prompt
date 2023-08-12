@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, <lora:add_detail:0.8> <lora:epiNoiseoffset_v2-pynoise:0.8>

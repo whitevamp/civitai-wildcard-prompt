@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), ((ultra-detailed)), (illustration), (detailed light), (an extremely delicate and beautiful), a girl, cute face,plant house,glass <lora:animeLineartMangaLike_v30MangaLike:0.7>,[(white background:1.5),::5],simple background, wreath, (round floral framed:1.5),cropped shoulder, <lora:CarolV4.0b:0.8>, upper body,

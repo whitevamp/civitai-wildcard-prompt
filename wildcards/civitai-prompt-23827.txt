@@ -1,0 +1,1 @@
+<lora:AnalogDistortion:0.5>, AnalogDistortion, close up of a woman in a dark room, dynamic angle, distortion, fujicolor, neon

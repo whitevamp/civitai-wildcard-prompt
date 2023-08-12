@@ -1,0 +1,3 @@
+masterpiece,best quality,8K,intricate details,eaba,
+wide-angle,cinematic lighting,(1boy, male general standing up on the hill:1.2),wearing full armour,Gold and red armor,Soldier,protect the city walls,((clenched fist of the right hand)),hand gloves,blood on the face,blood on armour,golden ratio,exaggerated facial expressions,classic scene,
+<lora:East Asia Battle armor_v1:0.5> <lora:wh_chi_armor:0.5>,

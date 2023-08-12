@@ -1,0 +1,2 @@
+<lora:Amee_V12:0.2>, <lora:BeautyNwsjMajic2:0.6>, <lora:add_detail:1>,
+(best quality, masterpiece, 8k, realistic:1.2), wide angle, BREAK 1girl sitting on sofa, white hair, very long hair, big breasts, light smile, BREAK wearing blue dress sparkling, BREAK white high heels, BREAK in bedroom, BREAK gorgeous light and shadow ,soft lighting ,

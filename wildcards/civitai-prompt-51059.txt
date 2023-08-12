@@ -1,0 +1,3 @@
+(close-up shot:1.2), girl in her bedroom, wearing green thai_girlscout_uniform, soft, (warm:1.2) and (cinematic:1.3) light filtering through the blinds, half-opened eyes, tousled hair, crumpled sheets, book lying on her chest, framed photographs on the wall, vintage decor, empty coffee mug on the bedside table
+
+<lora:epiNoiseoffset_v2:1>,<lora:THgirlscout_v6-000007:0.85>,

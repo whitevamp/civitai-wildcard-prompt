@@ -1,0 +1,4 @@
+<lora:FilmVelvia3:0.65>,(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece,(nsfw:1.25),1girl, Supermodel figure, (Dark brown hair:1.3), 
+Retro-inspired look with a polka dot blouse, pencil skirt, and headscarf, Airplane, interior, (Very crowded background:1.2), 
+Straight breasts,(big breasts, round breasts, breasts out:1.2), pussy, pubic hair,
+(deep shadow:1.1),  (wide angle:1.2), public, <lora:add_detail:0.6>

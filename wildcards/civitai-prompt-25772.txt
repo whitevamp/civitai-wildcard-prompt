@@ -1,0 +1,1 @@
+masterpiece,best quality,highly detailed, (ahegao:1.15), 0 android (Audrey Tautou:0.5) weared in (translucent:1.3) organza with silicone fibers, from the chaos of the universe, elegant, biopunk, by Jason Engle, Carlos Huante, Charlie Bowater,<lyco:GoodHands-beta2:1>,<lora:LowRA:0.25>,(exm close-up:1.2)

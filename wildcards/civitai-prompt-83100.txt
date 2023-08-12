@@ -1,0 +1,6 @@
+((masterpiece)), (best quality), (detailed), 1girl, freckled face,
+looking at viewer, light smile, (lipstick:0.75), standing split,
+very long blonde hair, ponytail,
+intricate underwear,
+thermal bath,
+ <hypernet:sxzBloom_sxzBloom:0.3>

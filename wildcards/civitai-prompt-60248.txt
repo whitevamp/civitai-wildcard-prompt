@@ -1,0 +1,2 @@
+portrait of beautiful woman, origami tropical flowers, [alphonse mucha|surrealism], minimalism, (nude:0.8), dynamic pose ,
+npzw, (text:1.2), monochrome,<lora:oldNewspaperStyle_v10:0.8>

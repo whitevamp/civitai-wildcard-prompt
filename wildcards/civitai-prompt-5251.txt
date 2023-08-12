@@ -1,0 +1,2 @@
+masterpiece, best quality, (doomrevenant:1.2), solo,  full body, simple background, white background, pixel
+  <lora:doomrevenant-16:0.7> <lora:pixel_f2:0.5>

@@ -1,0 +1,5 @@
+(masterpiece, best quality), intricate details, (Best quality)), ((masterpiece)), ((realistic)), (hyperrealism:1.2), (fractal art:1.2), 
+1girl,<lora:ffvii_tifalockhart:0.8>  tifa, red eyes, gauntlet, elbow pad, skirt,  tifa lockhart,  topless, nipples, 
+extreme detailed eyes, colorful, highest detailed, 
+vibrant colors, high contrast,
+<lora:add_detail:1>, (8K UHD:1.2), (photorealistic:1.2),    <lora:GoodHands-vanilla:0.8>

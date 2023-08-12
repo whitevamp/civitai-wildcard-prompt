@@ -1,0 +1,4 @@
+(masterpiece, best quality:1.2), (looking at viewer), (wavy hair:0.8),
+1girl, (upper body:0.85), (black theme:1.2), {indoors|outdoors}, dark eyes, dark hair, 
+({happy face|peaceful face|shy face|curious face}),
+long dress, cleavage, frills, fantasy, {castle|palace},

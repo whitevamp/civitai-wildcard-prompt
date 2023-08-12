@@ -1,0 +1,1 @@
+masterpiece, best quality, glamour fisheye shot (from below:0.9) of forest covered in (blue swirling magic:1.3), swirling magic, purple hue, leaves, flowers, night sky, cloudy sky, moon, mist, fog, style-swirlmagic, (photorealistic), <lora:misty of forest:0.4>, <lora:add_detail:0.4>, <lora:epiNoiseoffset_v2-pynoise:2>,

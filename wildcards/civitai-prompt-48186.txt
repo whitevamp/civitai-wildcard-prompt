@@ -1,0 +1,3 @@
+woman in pool, (breasts:0.3), (cleavage:0.3), (nipples:0.8), very long hair, straight hair, detailed face, cool face, (smooth chin:0.85), shy smile, long eyelashes, sharp eyes, eyes closed, beautiful eyes, detailed eyes, thick eyebrows, red eyeshadow, symmetry eyes, (from above:1.1), (infinity pool:1.5), (star \(sky\):1.3),
+ wet clothes,  wet body, wet hair, tindal effect,lens flare,shade, bloom, backlighting, depth of field, natural lighting, hard focus, film grain, photographed with a Sony a9 II Mirrorless Camera, by Laurence Demaison<lora:epiNoiseoffset_v2:1.0>,
+photon mapping, physically-based rendering, RAW photo, highly detailed background, high res, perspective, (ulzzang-6500-v1.1:0.7)

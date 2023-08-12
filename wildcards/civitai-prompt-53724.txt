@@ -1,0 +1,3 @@
+1girl,solo, light smile,  police uniform,policewoman,pencil skirt,thighhighs ,
+skyline, cloud,sunset, own hands together, looking at viewer, realistic,      
+   <lora:EvanRachelWood23Apr:0.6>

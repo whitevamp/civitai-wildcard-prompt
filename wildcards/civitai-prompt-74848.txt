@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality), pixel,pixel art, tree, outdoors, no humans, grass, scenery,  day, flower, bush, pond, cloud, rock, nature, buliding, fence, clay pot, wooden house,<lora:toon2:1:MIDD> <lora:pixel_f2:0.5:AUTOALL>

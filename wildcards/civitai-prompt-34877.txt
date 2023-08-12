@@ -1,0 +1,1 @@
+nsfw, (1girl, aqua hair long hair side ponytail, purple eyes, <lora:eye-test2:0.6>, troll face) (digital) ( dynamic pose in detailed floating castle (see-through, swimsuit, one-piece swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

@@ -1,0 +1,3 @@
+(ring:1.3), glass. Art, masterpiece, best quality, landscape, <lora:RingArt_Sora:0.8>, (style of Delphin Enjolras:1.3)
+(masterpiece, best quality:1.5), 
+Pork pie hat, The Appalachian Trail, Stars in the sky,

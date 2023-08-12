@@ -1,0 +1,3 @@
+Masterpiece,best quality,ultra-detailed illustration,
+1girl,
+<lora:libbg_v16:0.7> lib_bg,big,depth of field,<lora:MengX girl_Mix_v30:0.8>,

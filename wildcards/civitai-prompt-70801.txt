@@ -1,0 +1,6 @@
+masterpiece, ultra detail face, shiny skin, 
+<lora:add_detail:1><lora:latin_dance_dress:0.5> WEARING LATIN_DANCE_DRESS, 
+(multiple girls, 2girls),hug,  breasts, curvy, long hair, long latin gloves,  narrow waist, 
+ DANCE FLOOR, outdoors, wind,
+extreme close-up, pov, 
+dynamic lighting,

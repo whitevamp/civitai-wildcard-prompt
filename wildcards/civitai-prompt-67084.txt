@@ -1,0 +1,2 @@
+1girl, hugging, capybara, kneeling, closed eyes, :d, akko,
+<lora:capi-09:0.75>  <lora:akkoepoch9:0.75>

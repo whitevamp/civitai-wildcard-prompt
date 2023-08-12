@@ -1,0 +1,1 @@
+masterpiece, best quality, gatekeeper, helmet, full armor, gauntlets, armored boots, bed, seiza, arms behind head <lora:gatekeeper-nvwls-v1-000012:0.9>

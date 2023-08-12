@@ -1,0 +1,7 @@
+masterpiece, best quality,, intricate detail, sharp, perfect anatomy, finely detailed, 
+noon, vivid colors,add_detail,
+BREAK
+cute girl, detailed eyes, from behind,red shirt,  long white hair,
+detailed trees, autumn,  tall grass, (solo:1.3), smiling
+BREAK
+Rural city background

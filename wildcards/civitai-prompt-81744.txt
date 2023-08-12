@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4),ultra-detailed,(nose blush:1.2), extremely beautiful, eyes and face with great detail, slim waist, blurry backgorund, sunlight,ultra high res, (long straight hair), red lips, (big breasts), (thick thighs), stockings, cashmere jacket, boats, sunglasses on head, modern museum, smooth white wall, cleavage, hands in pocket,
+<lora:add_detail:0.7>,

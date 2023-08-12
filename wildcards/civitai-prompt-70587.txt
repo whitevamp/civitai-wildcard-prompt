@@ -1,0 +1,5 @@
+(masterpiece,best quality:1.3), (ultra-detailed:1.3), (highly detailed CG illustration), (an extremely delicate and beautiful), (highly detailed worn metal texture:1.3),(( mechanical background)), mood light, lens flare
+(((cinematic look))), cinematic light, RAW photo, cinematic masterpiece, majestic epic composition, character focus, science fiction, (movie scene), full shot, epic dynamic frame, dynamic pose, motion blur, sci-fi, cyber, , rim light, film grain, natural skin texture, 24mm, 4k textures, (dirty:1.4)
+(machine made joints), metal mechanical limbs, blood vessels connected to tubes, ((mechanical vertebra attaching to back)), ((mechanical cervical attaching to neck)), wires and cables attaching to neck and body,
+(1mechanical girl), (((full body))), expressionless, from side,
+ABS, <lora:muscleGirl_v1:1>

@@ -1,0 +1,4 @@
+1girl portrait, pov, wearing school blazer, 
+1980s \(style\), painting \(medium\), retro artstyle, watercolor\(low\),  
+takada akemi,<lora:takada_akemi_offset:0.5>  
+((seikomatsuda)) <lora:seikomatsuda:0.8>

@@ -1,0 +1,4 @@
+masterpiece, best quality, hyper detailed, good anatomy, illustration, highres, detailed background, high resolution
+, nsfw, 1girl, looking at viewer, (blush:1.2), nude, spread legs, (pussy juice), from below
+, mylene rapha holfort, sliver hair, long hair, blue hairband, hair behind ear, blue eyes
+, standing, indoors, <lora:mylene_rafa_holfort_V1:0.8>

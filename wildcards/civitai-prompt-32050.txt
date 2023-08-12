@@ -1,0 +1,1 @@
+RAW photo, pretty face, detailed face and eyes, (big breasts:1.3), (22 years old), white girl,shiny skin, american girl, ((blonde hair)), (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3 BREAK <lora:microwaist:0.8> ,<lora:add_detail:0.4> <lora:URPMv1.3_LORA_296:0.4> <lora:oil2.0_2-512-64:0.4>

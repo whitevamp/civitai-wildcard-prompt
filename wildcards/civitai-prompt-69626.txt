@@ -1,0 +1,1 @@
+<lora:FantasyClassics:1> fantasyclassics, mermaid [tarot card], <lora:theovercomer8sContrastFix_sd15:0.75>, [to8contrast style]

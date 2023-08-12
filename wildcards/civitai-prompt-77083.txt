@@ -1,0 +1,1 @@
+1girl,solo,light_blue_hair,liquid hair, long hair,floating hair, full body, standing,sundress, liquid clothes, water,waves, tsunami,tide,sea,water dress,fantasy, high contrast, ink strokes, explosions, over exposure, purple and red tone impression , abstract, ((watercolor painting by John Berkey and Jeremy Mann )) brush strokes, negative space, <lora:LiquidClothesV1:1>

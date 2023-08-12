@@ -1,0 +1,3 @@
+(contre-jour, side lighting, volumetric, crepuscular rays, dynamic contrast), ((dark scene, dim light)), 
+1girl, long hair, smile, woolen sweater,
+outdoors

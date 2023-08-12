@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), 8K, highly detailed, intricate, colorful, vibrant image, sharp focus, trending on pixiv
+Ingrid, (Helloutfit:1.2), holding yellow glowing sword, mature female, (dark skinned female:1.15), star sky, skyscrapers, night city background, scowl, looking at viewer, full body shot,
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.7), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+black (halterneck, turleneck:1.22), underboob, cape, center opening, (elbow gloves:1.01), (black panties:1.1), thighhighs, boots,
+large breasts, (covered nipples:1.1), nipple slip, areola slip, cleavage, curvy
+<lora:Ingrid:0.9>

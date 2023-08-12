@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+upper body, muscular, huge breasts, wide hips, narrow waist, abs, black hair, ponytail, pointy ears, sophia loren, dark skin, blue eyes, tiny microbikini,
+intricate,
+skin pores, detailed skin
+(realistic:1.2), UHD, global illumination, high contrast  <lora:krekkovStyleLora_v10:0.5>  <lora:animeLineartMangaLike_v30MangaLike:0.5> <lora:OUTFIT_miniature_microbikini_v1e12:1>

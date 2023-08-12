@@ -1,0 +1,1 @@
+1girl, portrait, upper body, revealing breast, large breast, low-cut, star-kafka, purple hair, pink eyes, eyewear on hair, sunglasses, hair between eyes, simple background, purple_background, <lora:kafka-v1.6-lora-anylora-128dim-block:0.6>,   <lora:breastinClass:0.3>

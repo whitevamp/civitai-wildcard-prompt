@@ -1,0 +1,5 @@
+(photorealistic: 1.4), hyper-realistic, (8k raw full body photo), panoramic, ultra precision, best quality, visually striking, sublime masterpiece, ultra high res, 1girl, pretty young girl, (sitting 'on the hood' of a muscle car), (nude), nsfw, extremely detailed face, beautiful elegant face, curly hair, (brown hair:1.2), realistic hair, detailed short hair, hair ornament (beautiful and aesthetic:1.2), detailed eyes, beautiful nose, thin lips, collarbone, slim waist, perfect female figure, (huge breasts:1.4), areolas nipples, perfect nipples, shaved pussy, (medium full body shot:1.3), (looking at viewer), (smile),
+(skyscrapers in the background), detailed background, deep shadow, rim lighting, dim lit, low key, in the dark, eclipse moon, froggy, starry sky,
+<lora:JapaneseDollLikeness_v15:0.4>,
+<lora:epi_noiseoffset2:1>,
+<lora:flat2:-1>

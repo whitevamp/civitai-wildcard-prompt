@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), retro artstyle, 8K, highly detailed, intricate, colorful, vibrant image, volumetric lighting, sharp focus, hentai, 4K,
+Agatha, 1girl, hands behind head, armpits, (blush:1.1), shy, hotel room background, blue sky, window, skyscrapers, full body shot, looking at viewer,
+black hair, long hair, blunt bangs, hair ornament, hair stick, bow, lipstick, makeup, ultra detailed hair, detailed face, brown eyes, perfect eyes, perfect face, earrings, jewelry,
+white shirt, covered nipples, (open clothes:0.9), necktie, panties, no pants,
+(mature female, 30yo:1.1), breasts, thighs, nipples, (areola:1.1),
+<lora:Agatha:0.9>

@@ -1,0 +1,1 @@
+<lora:RPGSpectre:1> photo of a spectre, ((flying)), billowing cape, darkness, realistic,in a victorian mansion, <lora:Style Alloldrpgarts1 1990s alloldrpgarts1 V1:0.4> alloldrpgarts1 <lora:Style RpgRiftingInThe90s, follynobodysd15

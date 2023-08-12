@@ -1,0 +1,3 @@
+photo of a skinny young redhead woman, swim team, at school pool, low angle shot,  bending over at edge of the pool, (tiny little ass:1.2) shot, pubic mound, voyeur, wearing one piece swimsuit, wearing swim cap, dripping wet, clingy fabric, crotch, cameltoe, incredibly detailed, 8K, HD, imperfect skin, pores, freckles,  <lora:add_detail:1>
+
+Steps: 35, Sampler: DPM2 Karras, CFG scale: 6, Seed: 1042706083, Size: 512x720, Model hash: aa78bfa99c, Model: epicrealism_newEra, Denoising strength: 0.5, Clip skip: 1, ControlNet 0: 

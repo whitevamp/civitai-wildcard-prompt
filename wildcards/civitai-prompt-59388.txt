@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:style_tarakanovich-20:1>, <lora:wendyCorduroyLora_v10:0.7>, cowboy shot, solo, 1girl, wendy corduroy, freckles, smile, closed mouth, long hair, hat, collared shirt

@@ -1,0 +1,1 @@
+tttattoo,dragon,full body_tattoo,barefoot,full body,nude:1.2,1girl, solo,front, black hair, seductive smile,jewelry, earrings, long hair, looking at viewer,outdoors,beach,skycraper <lora:rishi_20230615204840-000004:0.8>,rishi,<lora:tttattoo_20230627140317:1>

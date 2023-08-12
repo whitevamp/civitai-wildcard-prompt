@@ -1,0 +1,1 @@
+<lora:dmc_nero-10:0.5> , nero \(dmc5\), coat, gloves, <lora:IdiotSandwichP2:0.9> IdiotSandwichP2, 1boy, kitchen, sad, crying <lora:IdiotSandwichP1:1> IdiotSandwichP1, 2girls/2boys, kitchen,

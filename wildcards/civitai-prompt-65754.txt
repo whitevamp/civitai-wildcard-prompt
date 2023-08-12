@@ -1,0 +1,1 @@
+<lora:dunhuang_v20:1>,masterpiece, traditional chinese ink painting, 1 girl, long hair, look at viewer, tease, Spirit, loong, dunhuang_style, dunhuang_cloths, UHD  < <lora:loong2-000015:0.7> <lora:style_dunhuang:0.8>, Dragon horn, A dragon is flying, 4k, best quality, super detail, award winning, high quality, best quality, high details

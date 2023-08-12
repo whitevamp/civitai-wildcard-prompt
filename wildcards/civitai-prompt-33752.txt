@@ -1,0 +1,2 @@
+((masterpiece, best quality)), 1girl, mature, floating hair, light purple hair, ancient empress, jewelly, head jewelly, long sleeves, collarbone, outdoor, cloud, sky, nature, fantasy, mysterious, fullbody, heaven, peach petals
+ <lora:Ancient_Empress:0.65>

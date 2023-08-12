@@ -1,0 +1,2 @@
+RAW photo, best quality, (photorealistic:1.4), ultra high res, 8k, realistic, film grain, soft lighting, sharp focus, ultra detailed background,
+1girl, (smile:0.6), high cut bodysuits, room, japan, <lora:hanazawakana_lora:0.8>

@@ -1,0 +1,13 @@
+(masterpiece:1.2, best quality), highres, ultra-detailed,
+uzumaki kushina,
+1girl, solo, 
+huge breasts, mature female, 
+blue eyes, red hair, long hair, gradient_hair, 
+
+navel, 
+lingerie, bar,  bow bra,  side-tie panties, bow panties , thighhighs, lace thighhighs,  covered nipples, hairclip, 
+
+open mouth, blush, hand on own chest, 
+indoors,  japanese room,
+
+<lora:uzumakiKushinaNARUTO_v1:0.8>

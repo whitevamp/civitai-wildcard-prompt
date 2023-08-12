@@ -1,0 +1,1 @@
+(best quality, masterpiece, ultra high resolution),(photorealistic:1.4),1girl,adult face,slim,(shiny skin),(profile,looking at another,dusk), white hair, long hair, dark eyes,(large breasts),top fashion,((White plush coat)),(Snowing:1.5,Walking street, city in winter), <lora:oc_v10:0.2:bodyh>,  <lora:add_detail:0.5>,

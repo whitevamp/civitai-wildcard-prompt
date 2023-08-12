@@ -1,0 +1,1 @@
+realistic, <lora:InfernalAI-1nf3rnalAI:1.0> 1nf3rnalAI office, a man working on PC, the display on the PC shows a spreadsheet, multiple monitors, energy drink, coffee mug, house plant

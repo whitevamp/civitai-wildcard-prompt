@@ -1,0 +1,3 @@
+<lora:supergirlTVSeries_v10:0.61> supergirl,
+blue eyes, blonde hair, long hair, cape, pantyhose, superhero, skirt, boots, 
+wariza, top of skyscraper, from_above, bokeh, (v:1.6,) left hand, 5fingers,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),, 1girl, solo, wide_shot,

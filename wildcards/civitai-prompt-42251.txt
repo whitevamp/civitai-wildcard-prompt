@@ -1,0 +1,3 @@
+Masterpice,High Quality,
+ <lora:PE_CourtRoomSketch:0.8> PECourtRoomSketch,courtroom,
+thanos

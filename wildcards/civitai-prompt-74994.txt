@@ -1,0 +1,1 @@
+masterpiece,best quality,higher,   <lora:jukujo:1>, (mature_female_lady:1), armpit

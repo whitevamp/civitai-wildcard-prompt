@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, low color saturation,
+lineart, ankymoore, 
+official art, Best quality, masterpiece, ultra high res, photorealistic, raw photo, extremely delicate, intricate details, vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions, zentangle, mandala, tangle, entangle, the most beautiful form of chaos, elegant, a brutalist designed, vivid colors, romanticism, by james jean, roby dwi antono, ross tran, francis bacon, michal mraz, adrian ghenie, petra cortright, gerhard richter, takato yamamoto, ashley wood, atmospheric, ecstasy of musical notes, streaming musical notes visible, jomon, taro okamoto, 1girl, beauty, red wine, greenhouse with many flowers, outdoor, creativity, ruin, crumbling, forlorn,
+ <lora:ankymoore-04:0.9>

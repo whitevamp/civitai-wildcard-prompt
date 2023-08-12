@@ -1,0 +1,2 @@
+anthro, insect, honeybee, honey lactation, (dripping honey into bowl, filling bowl with honey, holding bowl with two hands:1.2), nude, naked, topless, standing, 1girl, solo, sexy pose, pinup, voluptuous woman, small waist, thick thighs, wide hips, gigantic breasts
+ <lora:Honeymilk:.7> <lora:GoodHands-beta2:1> beegirlz,  <lora:beeGirlzV5E2:.4>

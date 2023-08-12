@@ -1,0 +1,1 @@
+masterpiece, best quality, alisab, multicolored hair, hair flower, dress, cleavage, detached sleeves, white gloves, short shorts, asymmetrical legwear, cowboy shot, looking at viewer, DisembodiedHead, holding head, headless, futuristic city <lora:alisab-nvwls-v1-000010:0.9>  <lora:DisembodiedHeadV2:1>

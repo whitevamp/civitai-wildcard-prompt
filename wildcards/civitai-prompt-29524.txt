@@ -1,0 +1,1 @@
+masterpiece, best quality, elie macdowell, blue ascot, red coat, white dress, black hairband, black hair ribbon, NoBitches, face focus, close-up <lora:NoBitchesMeme:1.2> <lora:elie-nvwls-v1:1>

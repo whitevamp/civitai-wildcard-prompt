@@ -1,0 +1,3 @@
+highest quality, best quality, masterpiece, highly detailed, absurdres,
+1girl, Olivia Wilde, robot girl, cyberpunk, wearing bodytape, neon trim, reverse bikini armor,  letter pose, <o> <o>, fisheye, holography,beautifully lit,glow in the dark, bokeh, dof,
+<lora:bodytape500FollowersSpecial_v10:0.7:CLOTHING>,  <lora:beautifulDetailedEyes_v10:0.7:FACE>, <lora:perkyBreasts_v10:1.2:BODY0.5>

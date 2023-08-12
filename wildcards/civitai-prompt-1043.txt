@@ -1,0 +1,1 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed),  <lora:faputaretrain:0.8> faputa, flat chest, wide hips, big goggles covering chest, fur, furry female, fluffy, monster girl, white hair, navel, (4 arms, extra arms:1.1), looking at viewer, all fours, :d, room, <lora:yuzusoft-chibiV2:0.3> <lora:add_detail:-0.5>

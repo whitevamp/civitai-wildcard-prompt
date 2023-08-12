@@ -1,0 +1,2 @@
+8k, masterpiece, upper body, 1girl warhammer 40k imperial guardsman, female, badass, intense facial expression, determined, fires in the background, dramatic lighting, in the rain, dripping wet
+ <lora:warhammer40kImperial_v10:1> <lora:epiNoiseoffset_v2:1> <lora:warhammer40000AddonFor_wh40k:0.15>

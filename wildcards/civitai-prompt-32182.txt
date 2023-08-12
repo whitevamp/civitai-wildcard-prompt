@@ -1,0 +1,6 @@
+masterpiece, best quality, ultra-detailed, illustration, ((picture perfect)),
+(1girl), solo, beautiful detailed eyes, cowboy shot,sharp focus, glowing eyes, detailed 4k eyes, reflection in eyes,
+<lora:titaniafrost-lo-richy-v1:0.7> titaniafrost, blue hair, white hair, short hair, glowing eyes, red eyes, 
+v-shaped eyebrows, (frown:1.1), angry
+<lora:FairArguementButV3-000110:1>, FABL,  gigantic breasts, upper_body motion_lines, ^^^, trembling,  breast rest,
+<lora:GoodHands-vanilla:0.5>,

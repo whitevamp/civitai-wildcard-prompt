@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, masterpiece:1.2, best quality, 1boy, zombie, ahetobleh, from above, hands on own head, closed eyes, tongue, ugly man, glowing eyes, blood, guro, horror or horror \(theme\) <lora:zombie_v1.3:0.9>,  <lyco:ahetobleh-nvwls-v1-final:0.9> full body,

@@ -1,0 +1,5 @@
+<lora:CyanCapsule-LoCon-V2:1>, cyancapsule style  <lora:helen:0.6>
+helen Parr, showing her ass at camera, (from behind), (from below)
+street city background
+ highres,perfect lighting, rim light, hyper realistic, highly detailed, (masterpiece:1.2) (best quality) (mid shot) (intricate details) (8k) (detailed skin:1.3)(detailed nose) (detailed face) (detailed deep eyes) (sharp focus)
+(flat chest:1.1), (thick lips) (heart lips), (blush), (gray eyes:0.5) (dimple lips )(smile)

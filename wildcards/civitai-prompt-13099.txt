@@ -1,0 +1,8 @@
+1girl, young,  uniform 
+close up 
+hand 
+crystal 
+fireflies
+Andy Kehoe
+fantasy surreal
+(masterpiece:1.2)  (best quality)    (dramatic lighting ) (sharp focus)    <lora:add_detail:1>

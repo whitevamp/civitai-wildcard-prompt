@@ -1,0 +1,4 @@
+masterpiece, best quality,
+SakamotoRyuichi, with glasses,At the piano, silver hair, night, starry sky, bald, face, half body, body, high detailed skin, skin pores, coastline, overcast weather, wind, waves, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
+，blurry, depth_of_field, motion_blur, realistic, solo, 
+<lora:SakamotoRyuichi_02:0.7>

@@ -1,0 +1,1 @@
+masterpiece, best quality,(cgi, realistic),photo, volumetric lighting, god rays, extreme detail, 8k, perfect face, woman wearing a garterbelt standing in cathedral,   <lyco:edgGothGB:1.0>, [(GothGal|Garterbelt)::0.5], metal, skirt, frills, ribbons,detailed catherdral , vanishing point, from below, pov, stained window

@@ -1,0 +1,1 @@
+<lora:N64 Lowpoly:1>  n64-lowpoly style, gigachad portrait, closeup, 3d  <lora:gigachadDiffusionLora_v69:0.8>

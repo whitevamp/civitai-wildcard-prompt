@@ -1,0 +1,1 @@
+nsfw, (1girl, split-color hair long hair multi-tied hair, hexagon eyes, <lora:siitake-eye:1>, ^^^) (digital) ( standing in detailed alley (see-through, swimsuit, one-piece swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

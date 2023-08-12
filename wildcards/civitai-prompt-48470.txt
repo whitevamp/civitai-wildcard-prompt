@@ -1,0 +1,2 @@
+masterpiece, best quality, girl, solo, squat down, hood cloak, bare leg, look at viewer, huge ice, blue background, from above,
+<lora:IsekaiOjisan-Mabel-release-v1.0:0.7>, [:hair flower: 0.5],

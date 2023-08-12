@@ -1,0 +1,1 @@
+(best-quality:0.8), perfect anime illustration,1girl, adult, medium breasts, fishnet stockings, black hair, goth, necklace, multiple belts, city, night, <lora:gothicPunkGirl_v10:0.8> Goth_punk, <lora:DetailedEyes:0.7> short hair, wavy hair,

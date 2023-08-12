@@ -1,0 +1,7 @@
+arcane style,
+
+1girl, hoodie, arm tattoo, portrait, asymmetrical bangs, bandaid, short hair, bangs, breasts, freckles, grey eyes, large breasts, looking at viewer, neck tattoo, nose piercing, pink hair, scar, scar on face, solo, tattoo on face, upper body, detailed background, town, alley, dark alley, portrait, hood on head, night, angry, close up, closed mouth, 
+
+, ((masterpiece)), absurdres
+
+<lora:arcane_offset:1>

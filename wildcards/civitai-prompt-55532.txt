@@ -1,0 +1,1 @@
+1girl,Brown hair (city:1.2),maiShiranui_face,jeans,<lora:maiShiranui_v1:0.5>, best quality, ultra high res, (photorealistic),

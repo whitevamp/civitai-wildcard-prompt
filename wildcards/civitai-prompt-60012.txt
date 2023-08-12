@@ -1,0 +1,1 @@
+group picture,multiple girls,5girls,beautiful face,looking at viewer ,realistic,(serafuku:1.1) ,(masterpiece, high quality:1.2)  <lora:MultipleGirlsGroup:1>

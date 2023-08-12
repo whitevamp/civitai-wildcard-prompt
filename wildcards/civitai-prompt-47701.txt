@@ -1,0 +1,1 @@
+highres,masterpiece,best quality,extremely detailed,1girl, <lora:piaolianga-000014:0.7>,full body,

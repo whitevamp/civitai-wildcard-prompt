@@ -1,0 +1,4 @@
+realistic, beautiful female,long hair, 
+ long sleeves, shirt,jeans,sitting,outdoors,ivy,table,cityscape,glass,from above  , looking at viewer, 
+office,(parted lips:1:1), (light_smile),
+shiny skin, skindentation  <lora:ZhaoJinmai-3.5:0.65>,

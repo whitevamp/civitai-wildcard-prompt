@@ -1,0 +1,1 @@
+1girl, obese:1.3, fat:1.4, fat rolls, fat face, rainbow hair, green eyes, ugly, messy hair, crying, tears, angry, screaming, hands on own head, streaming tears:1.3, wrinkled skin,   <lora:Concept - ScreamingAngryShouting:0.85>, medium breasts, mascara running, jeans, sitting, computer desk,  <lora:Concept - Fat:1>

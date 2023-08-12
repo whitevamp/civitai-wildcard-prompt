@@ -1,0 +1,1 @@
+(from below:1.2), (furry:0.8), gadgethackwrench, a girl mechanic,  solo, mouse girl, long hair, (purple jumpsuit:1.2), (short shorts:1.2),  looking at viewer, blonde hair, bangs, (hands on hips:1.1), googles on head, arching, smiling<lora:gadgethackwrench-v2-locon:0.7><lora:add_detail:0.1>  <lora:3DMM_V12:0.8>

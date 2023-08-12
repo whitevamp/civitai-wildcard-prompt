@@ -1,0 +1,4 @@
+cowboy shot, bokeh:1.2, (small_head), outdoors, 1980s \(style\), beijing, China, vintage details, streetscape of beijing in 1980s, 
+1 girl,fit, solo,  dress, (long skirt:1.2), short sleeves, 
+medium_breasts:1.2, black_hair, floating_hair,  ponytail,  tiny_waist, realistic_detailed_skin_texture,  good hands, good feet,  <lora:koreanDollLikeness:0.35>, This scene should be captured on 35mm film, with a beautiful depth of field and a slightly blurry, nostalgic background, film portrait photography, 35mm film, filmg, <lora:FilmG3:0.7>, 
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, ((Hasselblad photography)),physically-based rendering, professional soft lighting, light on face,<lora:GoodHands-beta2:1.3>,

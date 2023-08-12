@@ -1,0 +1,8 @@
+Best quality, ((masterpiece, ultra high res)), (photorealistic:1.4), raw photo,
+sunlight, light on face, face to light, light source contrast, Cinematic Light, Lens Flare, Ray tracing, perspective, fantasy, 
+1girl, lying, on water, lying on water, nude, real skin, ((areola, real nipple)), sexy, wet body, water on body, lipstick, sweat, hair ornament, 
+areola, real areolae, white face, perfect face, glowing skin,
+breast out, full lips, milf, mature, sweat, bbw, fat, blush, pale skin, adult, tall, solo, sagging breasts, shiny skin, large breasts, open clothes, wet clothes, real, ((pale skin)), ((charming)), 
+(looking at viewer:1.2), (smile),
+sky, island,
+ <lora:add_detail:0.4>  <lora:LowRA:0.2> <lora:epi_noiseoffset2:0.2>

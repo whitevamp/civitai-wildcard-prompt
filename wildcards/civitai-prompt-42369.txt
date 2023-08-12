@@ -1,0 +1,3 @@
+HDR,UHD,8K, best quality, masterpiece, Highly detailed, Studio lighting, physically-based rendering, 1girl, solo,
+queen of fairy, long dress with flowers, (light red dress), butterfly wings, with ornaments and flowers on top, high heel, high socks, earrings, necklace, flowers background, 
+<lora:ButterflyQueen:0.6>

@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3), (abstract:1.2), (zentangle:1.2), dynamic streaks, luminous effects, colorful, visual chaos,  captivating patterns,  highest detailed,
+1 girl, adult  woman, freckles, green eyes, natural blonde textured hair,
+ portrait,  looking at viewer, solo, half shot, detailed background, close up, detailed face,  futuristic shining   adamantium armor, light mobile armor, striped pattern, cape, high-tech, rivets, modules,  bionics,  (small high-tech goggles:0.8),   epic  futuristic city in background,  lens flare,  lasers, sparks,  explosions,   cinematic atmosphere,
+scg, <lora:stylized3DModelLora_v20:0.2>,

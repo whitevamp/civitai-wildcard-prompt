@@ -1,0 +1,2 @@
+urushihara satoshi, (8k, RAW photo, best quality), looking at viewer, 1girl, solo, 1990s \(style\), retro artstyle, confused, cowboy shot, <lora:Uruv1:0.55>,
+<lora:esdeath1:0.7>, long hair, very_long_hair <lora:add_detail:1.8>, light-blue hair, blue eyes, medium breasts, white military uniform, over-knee boots, white long boots, high heels, military cap, full-arm-gloves, black gloves, black_cross_ornaments, black collar,

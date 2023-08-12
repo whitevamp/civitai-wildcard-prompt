@@ -1,0 +1,4 @@
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (highly detailed CG illustration), ((an extremely delicate and beautiful)),((NSFW)),
+, 1girl, indoors, changing room,bare feet,feet focus,
+<lora:AsukaV1:0.8>, souryuu asuka langley, interface headset, red bodysuit, cool, wind blowing hair,
+ <lora:add_detail:0.6> <lora:oil2.0_2-512-64:0.6>

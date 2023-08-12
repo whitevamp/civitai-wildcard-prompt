@@ -1,0 +1,6 @@
+woman,  blue eyes, priest, aqua hair,
+black pantyhose, edgJumpsuit, embroidery,
+([Jennifer Lawrence|Rachel Weisz|Alicia Vikander]:0.9),  smiling,  sexy, edgPantyhose, facing looking at viewer, facing viewer, 
+middle shot, 
+masterpiece, professional, high quality, beautiful, amazing, DeviantArt, Paletot, absurdly long hair, 
+masterpiece, highres,  4k, detailed background, complex, (noxious:0.8), <lora:edgPantyhose:0.8>

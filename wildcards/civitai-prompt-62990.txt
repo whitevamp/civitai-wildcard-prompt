@@ -1,0 +1,4 @@
+houseki no kuni,
+girl, upper body, glass debris, cracked skin, glowing cracks,
+ <lora:Cracked Skin:-2> 
+<lora:flat2:-1>

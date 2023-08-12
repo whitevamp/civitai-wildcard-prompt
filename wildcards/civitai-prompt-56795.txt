@@ -1,0 +1,2 @@
+(masterpiece:1,2), 1girl, best quality, scared expression,  green hair, chinese bun hair, panties, <lora:scaredExpression_v18:1.2>
+((tape gag))  <lora:tapeGag_v10:0.8>, perfect composition, hyperrealistic, super detailed, 8k, high quality, trending art, trending on artstation, sharp focus, studio photo, intricate details, highly detailed, by greg rutkowski

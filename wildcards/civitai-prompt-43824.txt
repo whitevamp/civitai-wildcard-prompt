@@ -1,0 +1,4 @@
+(masterpiece, best quality, high resolution), ass support, ((mature female)), beautiful body, Beautiful Nose, Beautiful character design, perfect eyes,perfect face, alluring, wallpaper,perfect lighting, Colorful,ultra highres, photography, 8K, HDR,
+<lora:add_detail:1>
+<lora:ass_support_v0.1:1>
+ <lora:shikimorisanv3:1>

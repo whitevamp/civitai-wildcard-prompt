@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,        <lora:41_ArcaneJinx:0.8> ChopioArcaneJinx,

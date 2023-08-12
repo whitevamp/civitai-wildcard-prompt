@@ -1,0 +1,10 @@
+masterpiece:1.5, best quality:1.5, aesthetic, 1girl, sidelocks, cinematic lighting, sharp focus,large breasts , mature female, horny ,16k, glowing eyes, detailed 4k eyes,
+playground,seduction,sexy lips, parted lips,detailed lips,
+red lips, high detailed background,green eyes, ((big green eyes)), detailed face,
+stacy_zr2,
+club,disco ball, disco,
+((huge veiny penis)),((riding a penis)),squatting,((sex)),
+1girl, breasts, solo, cleavage, green eyes, jewelry, smile, earrings, skirt, navel,striped shirt, multicolored hair, midriff, blonde hair, pink hair, striped,, looking at viewer, crop top, striped skirt, huge breasts, apron, waitress, miniskirt, parfait, makeup, hairband, large breasts, front-tie top,, vertical stripes, lips, suspenders, short sleeves, two-tone hair, cowboy shot
+<lora:add_detail:1> 
+ <lora:oil2.0_2-512LORA:0.7>
+ <lora:Violet_ZR2:0> <lora:Stacy_ZR2:0.5>

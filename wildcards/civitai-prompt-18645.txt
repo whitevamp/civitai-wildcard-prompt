@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+shirtlift, 2 arms,
+black thong, white hoodie, 
+thigh socks,
+ <lora:shirtliftv1:0.7>

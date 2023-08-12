@@ -1,0 +1,5 @@
+ultra realistic 8k cg,best quality, picture-perfect face, flawless, clean,realistic, masterpiece, professional artwork, famous artwork,photorealistic lighting, volumetric lighting,cimeatic bloom,ultra detail texture,
+
+((Red hair,alluring green eyes)),perfect face, beautiful face,pale skin, gorgeous queen,goddess, godlike, divine,fantasy, ((perfect female body, narrow waist)),very long curly hair,floarting hair, messy hair,hair over one eye,layer hair,ultra detail hair, ultra detail face, medium breasts,big ass,caucasian,european,mature woman, milf, ulzzang-6500-v1.1:0.3 <lora:fashionGirl_v20SmallFileSize:0.3>
+
+(a crowd medieval street background),outdoor,detailed skin,(rich:1.4), prestige, luxury, jewelry, diamond,pearl, gem, sapphire, ruby, emerald, intricate detail, delicate pattern,charming,alluring,cape,heavy armor,pauldrons, boobplate,muscular,queen crown,wearing ((tights pant)),beautiful dress,<lora:shinyOiledSkin_v1:0.4>,<lora:hipoly3DModelLora_v10:0.3>,confident facial expression,((detailed facial features)), smiling,

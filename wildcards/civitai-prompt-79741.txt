@@ -1,0 +1,1 @@
+bicolor, asian japanese chinese rexouium portrait, female, painting <lora:vrcfurry_v2-000001:0.8>  <lora:gachaSplashLORA_gachaSplash31:1>

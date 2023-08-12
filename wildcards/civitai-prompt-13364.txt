@@ -1,0 +1,7 @@
+Best quality, masterpiece, ultra high res, RAW photo, (photorealistic:1.4),
+1girl,  detailed face, long hair, evil smile, glasses,
+(looking at camera:1.6),(full body),
+in (white shirt, navy blue skirts, yellow pant)  , (narrow waist:1.2),spread legs:1.2, 
+shirtlift,
+perfect skin,(natural breast),
+in the classroom, sitting on chair, bokeh, beautiful lighting, model posing,<lora:shirtliftv3:0.7>shirtlift,

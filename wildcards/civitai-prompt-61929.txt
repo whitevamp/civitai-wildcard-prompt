@@ -1,0 +1,2 @@
+masterpiece, best quality, demon_kisara, glowing eyes, cyberpunk, city, skyscraper, skyline, night sky, neon lights, 
+<lora:kisara3:0.9>

@@ -1,0 +1,2 @@
+[sadcatmeme <lora:SadCatMeme_V10:1>:sad cat:0.8], (mukbang:0.95), [[[closeup]]], (porridge:1.2)
+<lora:Mukbang:0.95>, [32k|16k|best-quality], professional photo, (centered-in-frame:1.2)

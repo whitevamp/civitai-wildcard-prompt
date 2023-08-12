@@ -1,0 +1,3 @@
+cute boy, gothic, silver long hair. beautiful face. beautiful hair.
+cinematic lighting, sharp focus, professional photoshoot
+ <lyco:loha_gothic2:0.3>

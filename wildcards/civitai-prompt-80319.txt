@@ -1,0 +1,1 @@
+(masterpiece),(best quality), (ultra-detailed), (full body:1.2) ((alisaie leveilleur (final fantasy))), ((chibi)),  cute, , low ponytail, red jacket, white shirt, white shorts, thigh boots,  open eyes, outdoors, (beautiful detailed face), (beautiful detailed eyes),  (beautiful detailed hair)  <lora:blindbox_v1_mix:0.8>,   <lora:lora:1>

@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, belle delphine, ahegao, plaguemarine, armor, power armor, skull, slime, :), smile, slime on face, <lora:plaguemarine:0.7> <lora:DI_belle_delphine_v1:0.7> <lora:ahegao,rolling_eyes:0.8>

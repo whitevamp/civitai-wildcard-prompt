@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, absurdres, Cloud Strife, crossdressing, twin braids, male focus, frilled dress, hair bow , <lora:HeadpatPOV:1.0>, HeadpatPOV,  pov,  headpat, futuristic city, gloomy, streets, view from above, centered, arms behind back, , blushing <lora:cloudstrife-nvwls-v1:0.8>

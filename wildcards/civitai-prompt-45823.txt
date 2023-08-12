@@ -1,0 +1,3 @@
+highres, masterpiece, best quality, ultra-detailed unity 8k wallpaper, extremely clear, Best quality, masterpiece, 1 girl, brown hair, red eyes, full body portrait, detailed face, beautiful eyes, high ponytail, in autumn ginkgo forest, ancient Chinese architecture, ancient architecture of Tang dynasty, very detailed background
+
+ <lora:xiaoqing:0.5>

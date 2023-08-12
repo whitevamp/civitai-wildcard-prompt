@@ -1,0 +1,3 @@
+necromancer, (white wispy hair), skull crown, ([gray robe|tattered gown]:1.3), [shadow_cape::10], dark ([hood:bone trim:0.4]:1.7) shrouding on ([death cloak:spirit cape:0.4]:1.5), forehead, resurrecting, blue eyes, corset, skeletal gauntlets, tombstone, bone scepter, [messy, tangled_braid:0.1], [gloves, bone_armor, tattered skirt:0.4],
+thighs,offshoulder,(ass:0.8),
+ <lora:oc_v10:0.25>

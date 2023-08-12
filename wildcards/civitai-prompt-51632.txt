@@ -1,0 +1,10 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), panda,chibi, (beautiful detailed face), (beautiful detailed eyes), (Simple and clean style_1.5),
+priest, White top  and red hakama skirt, Symbolic adornments, 
+Headdress,
+ holding Staff,
+adorn their hair with flowers,
+Shrine,
+fireplace,
+Die Brcke,
+
+, <lora:blindbox_V1Mix:1> ,

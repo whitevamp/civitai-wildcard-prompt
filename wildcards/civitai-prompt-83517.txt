@@ -1,0 +1,5 @@
+masterpiece, best quality, ultra high res,
+1girl, (cleavage:1.2), White shirt,(sling:1.2),(white camisole:1.5),slingshot, Black hair, long hair, straight hair,beauty esys,beauty face,(shiny skin:1.2), shiny hair, shiny clothes, soft clothes,see-through, 
+looking at viewer,upper body, Lateral face,
+rim lighting,Subway car,Top light,
+ <lora:add_detail:1>, <lora:FilmG4:0.5>

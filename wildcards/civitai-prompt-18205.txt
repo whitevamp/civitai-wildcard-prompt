@@ -1,0 +1,1 @@
+1girl, looking at viewer, <lora:Chinese style_20230607154437:0.2>,best quality, (masterpiece:1.35), silk cloth as background,detailed face, detailed background,<lora:hairdetailer:0.2>

@@ -1,0 +1,1 @@
+oboro, (masterpiece:1.2), (best quality:1.3), (ultra-detailed:1.2), (illustration:1.2),(Cinematic Lighting) ,(train:1.3), star and moon, fantastic,plant,grasslands, night,scenery, landscape,<lora:oboro-pynoiseloha-000008:1>

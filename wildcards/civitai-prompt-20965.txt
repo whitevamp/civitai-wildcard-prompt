@@ -1,0 +1,2 @@
+(RAW photo, 4k), masterpiece, best quality, ultra detailed, golden hour, (medium shot:1.3), techwear, a woman, egypt, shibuya tokyo, long hair, pale face, accessories, necklace 
+ <lora:add_detail:.6>  <lora:Egyptgodpunkv.4:.9>

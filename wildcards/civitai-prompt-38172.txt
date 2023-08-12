@@ -1,0 +1,4 @@
+<lora:add_detail:0.7>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.3>
+solo, full_body, extremely delicate and beautiful, front view, beautiful face, perfect face,
+sharp focus, delicate,pussy, detailed skin
+<lora:GodPussy1 v4:0.2>, <lora:MS_Real_POVPussyFromBelow_Lite:0.65>,( from below, nude, pubic hair,looking down, clitoris, ass, anus), pleated skirt, legs together, narrow waist, narrow hips, panty pull, undressed

@@ -1,0 +1,10 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.15), realistic skin,realistic, (photorealistic),  woman, soft light, real skin texture,
+(freckles:0.9),slim, beautiful girl, 20 years old,playful,horny,
+red lips, bangs,
+white hair, short hair, 
+hands on table,
+ ((black flared skirt)), stockings, upskirt,
+((night)), nightclub,pub,
+full body,
+ass up wait,
+ <lora:ass_up_wait.v1.3-sd:0.6>

@@ -1,0 +1,1 @@
+masterpiece, best quality, leanne, wings, long white dress, upper body, smile, tired, looking at viewer, spring, clouds, trees, field <lora:leanne-nvwls-v1-000011:0.9>

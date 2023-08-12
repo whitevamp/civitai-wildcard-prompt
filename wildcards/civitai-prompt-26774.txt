@@ -1,0 +1,7 @@
+masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres, dramatic lighting, extremely detailed, highly detailed, intricate details, (product image:1.4), (dark background:1.4) excessive energy,
+ADDCOMM
+<lora:style-ultrablackholetech:1.2> <lora:add_detail:1.0> <lora:epi_noiseoffset-v2:1.0> side view of a beautiful (ulblackholetech cocktail:1.1) served in a (round bodied cocktail glass:1.2),
+ADDBASE
+(decorative mint leaf:1.6), black hole releasing purple (excessive energy:1.2), (swirly:1.3), (milky way, moon, saturn:1.1), (fractal art:1.6),
+ADDROW
+(raspberries, black berries:1.6), (decorative mint:1.3), scifi, science fiction, (futuristic tabletop:1.4)

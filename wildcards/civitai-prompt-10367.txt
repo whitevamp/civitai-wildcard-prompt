@@ -1,0 +1,1 @@
+(masterpiece, best quality), IvoryGoldAI android geisha, reelmech, in a (cultivation tank), <lora:IvoryGoldAIv2:0.9>, <lora:reelmech1v2:0.5>, <lora:cultivation_tank_lora01:0.8>, <lora:fractalized:0.2> fractal_environment, ((lineart)), ((plain black and white)), intricate detailed linework, <lora:animeoutlineV4_16:0.3>, medium shot, front view, symetrical composition

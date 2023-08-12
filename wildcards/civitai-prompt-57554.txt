@@ -1,0 +1,1 @@
+(vanessa:1.0) (detailed eyes:0.8)  (twilight) (highly detailed skin), butt, (heavy shadows and dark), (wearing a jacket) (looking to the side and smiling and flirting with the camera) at (golden sunset)  <lora:VanessaDogu1:0.85> (background is a city street) <lora:epiNoiseoffset_v2Pynoise:2.4>

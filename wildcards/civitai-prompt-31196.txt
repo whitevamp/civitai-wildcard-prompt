@@ -1,0 +1,1 @@
+((1girl)),cute girl,  Cozy, 35mm, short lighting, Generative Art, dramatic lighting, field, photolab, dark black details, (hemp garden:1.3) , Crushing, Fuji superia 400, Disgusting, absurdres, highly detailed, masterpiece, <lyco:ichikamatsumoto01V1:1.0>,  <lora:add_detail:0.7>, <lora:polyhedron_skinny_all:0.3>, <lora:LowRA:0.2>

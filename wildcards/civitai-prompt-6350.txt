@@ -1,0 +1,4 @@
+View in a (spring) wildflower meadow with groups of flowers in it, grasses, bushes, big oak and maple trees, (butterlies).
+High Contrast, High Saturation, Highly detailed, high quality, masterpiece, volumetric light, light rays, vibrant colors, depth of field.
+<lora:landscapes-6-2023-04-27-120356-6faaedf2:0.8>
+<lora:lightV1:1>

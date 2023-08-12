@@ -1,0 +1,1 @@
+Frostpunk, (by Ruan Jia:1.2), 4K wallpaper<lyco:GoodHands-beta2:1>, <lora:lowra_v10:0.85>,  <lora:siberian_atmosphere_v1:1> siberian atmosphere,

@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), hyper detailed, 4K, raw photo, 1girl, natural skin texture, natural light, full body pose, street fashion photography, dark, black, (gold:1.2), bride, egypt in the background, streets of egypt, sand, modeling for playboy, film grain,  top model, <lora:InstantPhotoX3:0.5>  <lora:ClothingAdjuster3:0>

@@ -1,0 +1,1 @@
+(masterpiece:1.4), photorealistic, best quality, beautiful lighting, ((corgi dog)), (chasing butterfly), outside, park, green, flowers, summer, intricate, high detail, sharp focus, dramatic, (RAW photo, 8k uhd, film grain), subsurface scattering, reflections, <lora:add_detail:1.2>

@@ -1,0 +1,2 @@
+(masterpiece), (best quality), highres, ultra detailed, 1girl, short hair, gray hair, black dress, feathered sleeves, blue eyes, missile_surfing, street, city, traveling on a missile, foreground, animal ears, cat ears, slit pupils, :3, bangs, chibi, antenna hair, cat girl,
+ <lora:neco-arc:0.8> ,  <lora:Missile_surfing_v2:0.8>, neco-arc,  <lora:Eternal2Bv2:1>

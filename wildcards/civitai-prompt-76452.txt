@@ -1,0 +1,5 @@
+(best quality:1.2) (4k:1.) (very high resolution:1.1) (realistic photograph:1.1) , (ultra detailed CG illustration:1.1) ,
+1girl elf solo (small breasts:1.) (detailed face:1.) , (silver ponytail:1.1) ,
+<lora:painted clothes5-000006:1> (painted clothes:1.1) , fake clothes , form fitting , exhibitionism , open jacket , (body painting:.9) , blue shorts , navel ,
+upper body , cameltoe , blush grin ,
+(detailed background:1.1) , outdoors , street , architecture , pedestrian , (cinematic lighting1)

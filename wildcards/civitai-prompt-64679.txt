@@ -1,0 +1,2 @@
+hands
+<lora:asianGirlsFace_v1:0.25>  <lora:filmgirlFilmGrain_v40:0.6>

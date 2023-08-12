@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lyco:GoodHands-beta2:0.8>
+1girl,   <lora:Diana_LOL:0.8> diana \(league of legends\), 1girl, bodysuit, armor, makeup, white hair, 
+ <lora:micro_slingshot_v1:0.8> slingshot swimsuit, white one-piece swimsuit, (white pubic hair:1.2),

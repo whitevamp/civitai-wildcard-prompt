@@ -1,0 +1,1 @@
+<lora:minimal_vector_style:0.8>,  <lora:BeautyNwsjMajic2-01:1>,1girl,black hair,, (masterpiece, best quality, high quality, highres, ultra-detailed),

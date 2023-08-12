@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, trending on pixiv
+AishwaryaRay, solo, mature female, 40yo, (dark skinned female:1.2), (dark skin:1.1), lying, on back, on bed, luxury room, arms up, spread legs, pussy_focus,  flirting, blush, (ahegao:0.7), looking at viewer, upper body, (from above:1.2),
+purple hair, long hair, ponytail, (hair over one eye:0.8), (circlet:1.05), purple lips, makeup, green eyes, hoop earrings, collar, chain, perfect eyes, perfect face, detailed face,
+breasts out, naked, nude,
+detailed body, curvy, huge breasts, cleavage, dark areolae, (nipples:0.9)
+<lora:AishwaryaRay-000009:0.85>

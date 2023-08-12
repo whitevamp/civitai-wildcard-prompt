@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl,   <lora:divineSwordIreliaLora_divineSwordIreliaV1:0.8> Divine_sword_Irelia, 
+ <lora:clampTsubasaStyle_v10:0.8>

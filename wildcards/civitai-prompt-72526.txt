@@ -1,0 +1,1 @@
+Photo of a woman in a big bulky futuristic armor in the desert, blonde woman, serious looking, running, reflective metal, teslapunkai, electricity, (rocket propulsion, glass tesla coild propulsion:1.2), (blurry:1.1), metal arms <lora:ParrleyFLEX:0.8>  <lora:TeslaPunkAInew:0.7>

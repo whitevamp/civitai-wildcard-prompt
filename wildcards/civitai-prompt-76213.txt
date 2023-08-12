@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best qualit:1.4), (high resolution:1.4), ogino chihiro, ponytail, long arm shirt, shorts, yellow shoes, outdoors, east asian architecture, smile, ;D ,colorful, high contrast <lora:chihiroOgino_v11:1>

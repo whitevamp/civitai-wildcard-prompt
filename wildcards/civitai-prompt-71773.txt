@@ -1,0 +1,3 @@
+wide shot,<lora:sd-No.405v2-000002:0.9>,full-body portrait,(masterpiece,best quality, 8k, RAW photo,beautiful and aesthetic:1.4), 1girl, solo, skinny, lighting, very short hair,  uncensored,  mechanical parts, 
+wired with electricity, complex circuit,  plug suit, <lora:reelmech>, cyberpunk, foreshortening, perspective, dynamic view, torn tight supersuit, looking_outside, from above:1.4, cyber car. looking_up
+scenery, outdoors, building, sky, cloud, sunset, city, downtown, Street,

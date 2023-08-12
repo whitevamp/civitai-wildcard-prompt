@@ -1,0 +1,7 @@
+RAW photo, side view, ((front lines)), (standoff), war, guns, ((highly detailed background, award winning scene)), (high detailed skin:1.2), 8k uhd, soft lighting, high quality
+AND
+RAW photo, side view, ((soldiers)), ((front lines)), (standoff), war, guns, ((highly detailed background, award winning scene)), (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+AND
+RAW photo, side view, many naked women, ((shirtlift)), ((highly detailed background, award winning scene)), (high detailed skin:1.2), 8k uhd, soft lighting, high quality <lora:shirtliftv3:0.9>
+AND 
+(shirtlift)

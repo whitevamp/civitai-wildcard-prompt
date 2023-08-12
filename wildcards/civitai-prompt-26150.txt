@@ -1,0 +1,15 @@
+Aesthetic: ((70s science fiction, space exploration, dystopia, alien encounters, psychedelic, retro-futurism):1.4)
+BREAK
+Composition: <lora:GodPussy1 v4:0.5>,  godpussy1, 1girl, solo, 1girl, solo, lying on back, laying in bed, perfect face, perfect eyes, pretty face, big breasts , perfect pussy, naked, nude, big breasts, perfect nipples, detailed human skin
+BREAK
+Lighting: Bright Daylight, Sunny, Cheerful
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.991),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

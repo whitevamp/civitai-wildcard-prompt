@@ -1,0 +1,4 @@
+(((picture perfect))), (absurdres), 1girl, solo, small breasts, blushing, nude, shy, full body view, <lora:add_detail:0.35>,
+legs, feet, space, inside mecha, mecha, slender, nude, barefoot,
+jack-o' challenge, flexible, spread legs, top-down bottom-up, <lora:JackOPoseFront:1>,
+ <lora:zerotwo-ditf:0.8>, zero two, smirk, smug, looking at viewer

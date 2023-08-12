@@ -1,0 +1,1 @@
+portrait, masterpiece,  best quality,  highres, crystal eyes, crystal, full body, <lora:dreamart:1>, 1girl,

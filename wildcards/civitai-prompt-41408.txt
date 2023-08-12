@@ -1,0 +1,5 @@
+masterpiece, best quality, cowboy shot, 1girl, large breasts, black lips, [silver | black hair], long hair, off shoulder tshirt, exotic black bra, neck strap, showing breasts, showing navel, black mini skirt, black boots, abs,
+<lora:Gun2HeadV4:1>, fg2h, fingergun,
+<lora:punk_v0.2:0.55>, punk,
+<lora:Crazy_ExpressionsV2:0.35>, crazy face, crazy eyes, (crazy smile:1.2),
+standing, seductive pose, abandoned building,

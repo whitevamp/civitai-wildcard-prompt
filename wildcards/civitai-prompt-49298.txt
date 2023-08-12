@@ -1,0 +1,2 @@
+flat color, limited palette, low contrast, 1girl, serafuku, long straight black hair, lycoris flower, (red, black) ,mandarava,yuri,bana in the background, a lot of flowers
+ <lora:kobeni_v10:0.9>

@@ -1,0 +1,3 @@
+grainy, masterpiece, extremely detailed,
+BREAK
+ <lora:kakashi_v1:0.8>, <lora:leveractionrifle-AOM2:0.75>, (kakashi:1.2), leveraction, antique firearm, holding weapon, trigger discipline

@@ -1,0 +1,2 @@
+polar bear, falling from great height, fear in its eyes, sky backdrop, snow covered ground approaching fast <lora:falling_blur:0.6> <lora:volibearV1:1>
+<lora:scenery-000016:0.4> mirror image

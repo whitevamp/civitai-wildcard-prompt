@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,  (Authentic skin texture:1.3), (film grain:1.3),  panorama, character portrait,  very wide shot, half body, narrow waist, cowboy shot, in the dark, deep shadow, low key, cold light, night,
+indoor, a beam of light, dust, Tyndall effect, sad, disappointed, gloom (expression), hollow eyes, against window, 
+1girl, beautiful detailed eyes and face, white jabot, off shoulder, head down, brown eyes,
+<lora:FilmgirlLora_v30:0.6> <lora:asianGirlsFace_v1:0.4:FACE>

@@ -1,0 +1,1 @@
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, gwen stacy, solo, blonde hair, short hair, undercut, animefication, asymmetrical hair,  blue eyes, jack-o' challenge, flexible, spread legs, top-down bottom-up, <lora:JackOPoseFront:0.9>,  <lora:gwen_stacy_v1.1:0.65>, outdoors, at night, rooftop,

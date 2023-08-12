@@ -1,0 +1,1 @@
+<lora:FilmVelvia3:0.6>,Best portrait photography,RAW photo,8K UHD,film grain,cinematic lighting,elegant 1girl,pixie cut,Perfect female body,silky long hair,(natural skin texture),natural pose,cinematic texture,35mm lens,shallow depth of field,necklace,look at the audience,(Cowboy Shot),hood,<lora:LowRA:0.5>,<lora:NegStd1:0.5:PALETTE>,

@@ -1,0 +1,5 @@
+masterpiece, best quality, highly detailed, 1girl, solo,
+<lora:fubukiOnePunchMan_v10:0.5>, fubuki, green eyes,
+toned, detailed skin,
+yoga pants, crop top, yoga mat,
+indoors, living room, studio lighting, cowboy shot, dynamic pose

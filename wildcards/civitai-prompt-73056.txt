@@ -1,0 +1,4 @@
+VeronicaCipher, WARFRAME, intricate pattern,  energy lines,red  glowing eyes, long silver hair, wind blown hair,  elegant, intense, biomechanical , transparent armor, bloody wings, solo, desert, sunny, bright,  claws, veins, 
+dramatic lighting,
+(masterpiece:1.2), best quality, high resolution,   beautiful detailed, extremely detailed, perfect lighting,  mshn
+<lora:warframe_v1-000012:0.6>  <lora:add_detail:1>  <lora:mshn:0.5>

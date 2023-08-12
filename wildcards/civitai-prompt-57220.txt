@@ -1,0 +1,1 @@
+((masterpiece, best quality):1.0), anthro (male sergal:1.2), leather jacket, close-up, bare chest, claws, eyes closed, black:white fur, chest tuft, clothed, simple background, digital sketch, vibrant, gloomy, dynamic light, ((by pino daeni, greg rutkowski, thomas kinkade):1.0), <lora:sergals_v.1-000001:0.6>

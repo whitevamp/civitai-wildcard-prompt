@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed), comic, story, illustration, best composition, art station, concept art, sky, ship, fantasy, cyberpunk city,  <lora:duobackground:1>,  <lora:add_detail:0.7>

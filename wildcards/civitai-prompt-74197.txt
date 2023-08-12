@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (detailed background), (ultra detailed), realistic, under the moon, (moon light:1.2), (night time:1.2), (dark environment :1.2), 8k, 1girl, <lora:ahri_v10:0.8>,  ah1, facial mark, multiple tails, white fox tails, (red korean clothes:1.2), bare shoulders, big boobs, smile seductively at viewer,
+sitting on a stone, in front of lake,  shrine in the back ground, <lora:Elbow Squeeze LoRA:0.7>, arms down, elbow squeeze, breasts squeezed together

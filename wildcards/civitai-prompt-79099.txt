@@ -1,0 +1,3 @@
+(( full body shot,beautiful detailed eyes, detailed face, perfect composition,
+professional model pose ,casual hoodie, 1girl, solo, akane,short blue hair, small breasts, light blue hair, bright blue eyes, night rooftop, looking at viewer,  sad expressions, 
+ <lora:akanev2:0.7> <lora:add_detail:0.75> )), Anime, , Dramatic Lighting, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, super resolution, ultra hd, megapixel, Medium Shot, Single Shot, Deep Focus, Hip Level Shot

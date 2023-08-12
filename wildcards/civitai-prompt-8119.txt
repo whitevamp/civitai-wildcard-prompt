@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), 1girl,(long hair:1.2), green eye, Brown hair, wuxia, colorful, upper body, nijijourney, ,A dynamic posture, color contrast, rim lighting , jpeg artifacts, bloom,  looking at viewer,  bare shoulders, cleavage, barefoot, bare legs, hand up, solo, 
+<lora:tangbohu-line_1.0:-0.6>, <lora:wuxia:0.6>, , <lora:niji_20230529141232:0.6>,  <lora:asianGirlsFace_v1:0.6>

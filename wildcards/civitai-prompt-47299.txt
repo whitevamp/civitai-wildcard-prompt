@@ -1,0 +1,1 @@
+body_unite ,(green mechanical tentacles:1.1), plant, (flowers:1.3), <lora:ConceptBodyUnite_v1:1>, 1girl,solo, long straight brown hair ,nude, (huge breast:1.3), nude,<lora:milkingMachine_v12:0.9> ,milking machine

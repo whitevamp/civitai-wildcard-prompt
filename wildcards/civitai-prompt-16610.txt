@@ -1,0 +1,3 @@
+soldart  illustration of soldier man in millitary camuflage uniform, in destroyed city ruins
+style by giger, by ghibli, by mucha, by rutkovski, by bilibin, by manara,masterpiece , artstation, high quality, intriciate details, sharp, in focus, volumetric, cinematic
+<lora:soldart34-000007:0.7>

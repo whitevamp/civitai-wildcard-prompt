@@ -1,0 +1,1 @@
+oboro,fantasy,from_behind,1girl,cyberpunk,scenery,wide shot,rain,science fiction,ruins,shadow,sunlight,backlight,depth of field,dragon,pokemon_\(creature\),bird,digital_dissolve,glitch,digital_rain,eyes,black_sun,dark_sun,dark_souls_\(series\) <lora:oboro-pynoiseloha-000008:1>

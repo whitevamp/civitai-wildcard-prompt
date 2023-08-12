@@ -1,0 +1,1 @@
+absurdres, best quality, masterpiece,[1boy:1girl:0.2], very short hair, pixie cut, (muscular:0.5), <lora:tattoo_lora01:0.5>, tattoo, (large breasts:0.75), (medium breasts:0.25), looking at viewer, seiza,  <lyco:GoodHands-beta2:1.0>

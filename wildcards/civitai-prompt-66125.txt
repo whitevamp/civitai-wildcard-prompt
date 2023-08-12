@@ -1,0 +1,1 @@
+portrait, solo, half shot, detailed background, detailed face, (<lora:stonepunkai_v10:0.8>, stonepunkAI, stone theme:1.1), wise, shaman, mystical, Seafoam Green frayed clothes, beads, obsidian, floating particles, embers, trees in background, ritual, whirlwind, foreboding atmosphere

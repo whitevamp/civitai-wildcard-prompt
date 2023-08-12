@@ -1,0 +1,1 @@
+<lora:titania-nvwls-v1-final:.8>, titania, 1horse, white horse, (riding a horse:1.2), braided ponytail, armor, red dress, belt, gauntlets, gloves, armored boots, from below, backlit, silhouette, lens flare, looking down at viewer, fortress, tower, stone fortress, banners, medieval, spear, holding, holding spear, lance, holding weapon

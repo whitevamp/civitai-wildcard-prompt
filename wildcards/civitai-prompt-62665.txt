@@ -1,0 +1,2 @@
+1girl, solo, raiden shogun, raiden_genshin, default_dress, purple hair, purple eyes, purple flower, sakura, cherry tree,
+(masterpiece:1,2), best quality, masterpiece, highres, original, extremely detailed wallpaper, perfect lighting,(extremely detailed CG:1.2), vibrant details, bokeh,  <lora:(raiden_genshin,default_dress)Raiden:0.7>

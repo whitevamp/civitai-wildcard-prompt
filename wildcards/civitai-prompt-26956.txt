@@ -1,0 +1,15 @@
+Aesthetic: ((atompunk, atomic age, retro-futurism, technology, nuclear power, Cold War):1.4)
+BREAK
+Composition: <lora:breastinClass:0.35> 1girl, sitting , naked woman, perfect body, big breasts, perfect thighs, perfect stomach, pretty face, perfect face, perfect eyes, erotic, sexy, nsfw,  (wearing jewelry, gold chains, gem stones ) good quality}
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

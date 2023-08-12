@@ -1,0 +1,1 @@
+(style of hendrik willem mesdag),,1girl ,humanoid robot wearing a veil, mystic,storm,wind,tiger,,acid aurora mystical, robot body, , highly detailed, , sharp focus, cinematic lighting, digital painting, ,,.<lora:LowRA:1>,elegant,<lora:GPTS1 lite:0.3>,<lora:gpts4 lite dreamwave_278580:0.2>galaxy,(transparency:0.2),black  background,

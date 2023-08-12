@@ -1,0 +1,1 @@
+1 girl, gorgeous, cowboy shot, (martinisuit:1.5), hotel room, near window, swimming pool, detailed beautiful face, realistic eyes, perfect skin, slim waist, (night:1.4), makeup, intricate details, masterpiece, high quality, (ultra highres), beautiful lighting, ray tracing, realistic, physically-based rendering,   <lora:doasMartiniSwimsuit_v10:0.7>,   (ulzzang-6500-v1.1:0.5)

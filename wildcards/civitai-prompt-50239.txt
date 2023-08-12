@@ -1,0 +1,9 @@
+(symmetry!:1.2),facing viewer,
+(half_body:1.1),
+
+twintails,24yo girl,(short hair:1.1), 
+PureErosFace_v1, [:(detailed face:1.1):0.3],shiny eyes,looking at viewer, 
+(wedding dress,bridal veil|(qipao:1.2)),indoors,
+
+depth of field,blurry background,
+telephoto lens, soft focus, 8k canon RAW, art photography,

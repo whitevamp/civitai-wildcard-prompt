@@ -1,0 +1,6 @@
+<lora:hand_on_anothers_head_v0.1:1.0> 1girl, 1boy, (hand on another's head:1.2), top-down bottom-up, head grab,
+ (spoken hearts:1.2),(sweat:1.2),(deep breathe:1.2),(on bed:1.2),(steam:1.2) 
+, <lora:takarada_rikka_v1:0.6>,rikka1, takarada rikka, black hair, blue eyes, long hair, bangs
+wrist scrunchie, school uniform,white sweater,orange scrunchie, red bow, white cardigan, long sleeves, bowtie, 
+white shirt, miniskirt, red socks,pleated skirt,black skirt,
+, masterpiece, best quality,BREAK,

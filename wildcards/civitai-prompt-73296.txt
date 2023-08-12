@@ -1,0 +1,2 @@
+masterpiece,  best quality,   extremely detailed CG,( Zen atmosphere),  anime screencap, long white beard, 1 boy\(immortal\),  Daoist uniform,  jewelry,  long sleeves,   solo, Chinese long beard, <lora:Chinese_Long_Beard_v2-000002:0.3>,  (Touji), <lora:xuanxue_v2.0:0.6>.
+ cloud,   sky,fantasy,

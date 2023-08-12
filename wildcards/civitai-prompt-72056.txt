@@ -1,0 +1,10 @@
+RAW photo, best quality, (photorealistic:1.4), ultra high res, 8k, realistic, film grain, soft lighting, sharp focus,
+1girl, (24 years old:1.2), refined woman, famous korean idol,
+looking at viewer, from front, standing,
+big breasts, realistic body, wide hips, fair skin, shiny skin, slender body, good figure,
+black hair, long straight hair, (ponytail, blunt bangs:1.2),
+smile, cute, cute face, realistic face, beautifully detailed eyes, drooping eyes,
+(VaultJumpsuit:1.1), unzipped_jumpsuit, long sleeves, blue_Vault_Jumpsuit, boots, skin tight, blue_and_yellow_Vault_Jumpsuit,
+outdoors, wasteland, fallout, ruined landscape,
+dynamic lighting,
+<lora:VaultJumpsuitV7-000035:0.85> <lora:koreandolllikenessV20_v20:0.2>

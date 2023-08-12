@@ -1,0 +1,9 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+1girl,sucking a dick, ((blowjob)), ((penis inside mouth)),sucking a cock with a cock in her mouth,kneeling, pov view,
+(sharp eyes:1.1), green eyes, ((blonde hair)), eyeliner, blush, red lips, ponytail,, (freckles:0.8), 
+bukkake, cum on face, cum,
+outdoors,
+perfect hands, perfect fingers,
+((from above:1.2)), 
+<lora:povbj_scopecreep_b1-000010:0.4>
+ <lora:Bukkake:0.4>

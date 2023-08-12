@@ -1,0 +1,8 @@
+(masterpiece), (extremely intricate:1.3), (realistic),  stunning photorealistic portrait of  a vampire woman with long blonde stylish hair, porcelain skin, piercing eyes, set in a dimly lit Victorian parlor, bathed in warm candlelight, wearing a dark elaborate Victorian gown adorned with lace and velvet, intricated detailed, cleavage, skindentation, conveying both elegance and an underlying sense of danger, dark theme, gothichorrorai, beautiful symmetrical face, vellus hair, finely detailed features, upper body, big breast, (detailed skin texture:1.3), (blush:0.5), (goosebumps:0.5), subsurface scattering, film grain, depth of field, bokeh, convey her timeless beauty and enigmatic allure through meticulous attention to detail and exquisite lighting, night time, sharp focus, vivid colors,
+<lora:LowRA:0.5>
+<lora:MarryQ:0.7>
+<lora:GothicHorrorAI:0.5>
+<lora:add_detail:0.5>
+<lora:PerfectFullBreasts-fCV3:0.5>
+<lora:epi_noiseoffset2:0.2>
+<lora:dpep:0.1>

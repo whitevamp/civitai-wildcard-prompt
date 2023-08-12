@@ -1,0 +1,1 @@
+1girl, masterpiece, realistic, upper body of musketeerdress woman in palace gothic, blue dress, details, hat, cross symbol, boots, <lora:ARWAMusketeerDress:1> <lora:ARWBedroomGothic:0.65>

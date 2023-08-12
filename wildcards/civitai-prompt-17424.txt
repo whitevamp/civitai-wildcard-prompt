@@ -1,0 +1,1 @@
+realistic, photorealistic, masterpiece, best quality, 1girl, solo, smile, looking at viewer, long black hair, cns_dress, standing, arms behind back, full body, (china jiangnan water town style:1.1), river, beautiful sky, netural lighting, <lora:cns_dress_style2_v2:0.7>,  (pureerosface_v1:0.7)

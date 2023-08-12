@@ -1,0 +1,5 @@
+ultra realistic 8k cg, picture-perfect face, masterpiece, professional artwork, famous artwork, ray tracing, realistic details, depth of field, detailed face, beautiful face, detailed hair, beautiful hair, beautiful eyes, dewy skin, nsfw, intricate detail, delicate pattern, (sexy, charming, alluring, seductive, erotic, enchanting), wet skin, steaming body, wet hair
+BREAK, 
+1 woman, (perfect female body, narrow waist, slender), split-color hair, (hair slicked back), short hair sicked back, damp hair, shiny hair, silky hair, huge breasts, earrings, naked, pussy, beautiful pussy, <lora:koreandolllikenessV20_v20:0.2>,  <lora:japanesedolllikenessV1_v15:0.2>, <lora:shinyOiledSkin_v1:0.3>, 
+BREAK, 
+looking at viewer, posing, full of confidence, naughty face,  <lora:breasts_on_glass:1>, breasts on glass, nipples, breast press, against glass, navel, shower cabinet, against glass, shower, wet, taking a shower, showering,

@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting, HinataNS, solo, looking_at_viewer, smile, hood, simple_background, upper_body, collarbone, hoodie, shirt, border, pink_shirt, purple_background, from_side, RAW photo, 8k uhd, film grain <lora:HinataNS:1>

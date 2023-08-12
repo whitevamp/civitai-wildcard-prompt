@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, vibrant image, colorful, 
+Ingrid, 1girl, solo, mature female, dark-skinned female, dark skin, looking at viewer, standing, crossed arms, full body, rooftop, cityscape, skyscrapers,  night, city light, sky, 
+serious, 
+pink red hair, very long hair, hair intakes, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, detailed eyes, perfect face,
+business suit, formal, skirt suit, jacket suit, high heels,
+large breasts, areola slip, nipple slip, 
+<lora:IngridV2:1>

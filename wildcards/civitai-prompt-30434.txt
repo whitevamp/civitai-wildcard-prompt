@@ -1,0 +1,1 @@
+<lora:stuck_in_washing_machine_v0.1:1>, ((stuck)), ass, <lora:VendingMaschine:0.4> VendingMaschine, vending machine, 1girl, cropped jacket,  black gloves, belt, denim shorts, black stockings, white boots, (from behind), machine interior, lots of drinks, can drinks

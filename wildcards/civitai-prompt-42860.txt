@@ -1,0 +1,2 @@
+bright scene,(fullbody shot) of a girl,deep scene depth,japanese idol,kawaii,cute, 23 years old, withdrawn, in Glacier National Park Glacier Bay National Park and Preserve , doing Weightlifting_, by yousuf karsh , shot by Leica M3 Double Stroke Camera , ((SFW)):1.5 , <lora:epi_noiseoffset2:0.6>,silver  choppy bob hair,nude:1.0,idol shashin ,<lora:PinkNipples:0.4>,cleft of venus, shiny glossy skin, subsurface scattering, (sharp:0.7), detail hairy pussy,public hair,
+ <lora:EmilyPussy_v05:0.3>

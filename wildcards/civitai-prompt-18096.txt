@@ -1,0 +1,3 @@
+best quality, ultra high res, (photorealistic:1.4), luminescent, illusion, atmospheric scene, (detailed beautiful face, detail skin texture, ultra-detailed body:1.1),
+<lora:PAseerEasternDragonV3:0.8> super huge dragon, solo, sky, landscape, glowing,  on the sky, clouds, atmospheric, thunders,
+<lora:AntimatterTech-20:0.8>, antitech, light particles, detailed background, scifi

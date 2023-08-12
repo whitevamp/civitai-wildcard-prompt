@@ -1,0 +1,7 @@
+NSFW, masterpiece, best quality, novel illustration, bedroom, absurdres, 
+hermione granger, 1girl, 1boy, full body, 
+perfect body, perfect face, digital media player, closed eyes, leaning back, bright pupils, white skin, 
+high ponytail, medium breasts, bare shoulders, nose blush, tears, heavy breathing, saliva, 
+black legwear, long hair, blonde hair, torn clothes, torn legwear, sparse pubic hair, 
+suspended congress, sex, breasts apart:0.8, penis, pussy juice, cum in pussy, cum on upper body, spread legs, 
+ <lora:qqq-suspended_congress-v1:0.7> <lora:excessive_pubic_hairConv2D:0.4>

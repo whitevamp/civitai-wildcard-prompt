@@ -1,0 +1,11 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:1),
+(1girl,1dog:1.2),(German Shepherd beside her:1.6),
+(fullbody:1.2),
+(landscape,outdoor,desert,daylight,wind:1.2),(sandstorm:1.6),
+(holster,full face gas mask,distressed trench coat,utility vest,glove,cargo pants,boots:1.2),
+(black hair,ponytail),
+(wide hips:1),(muscular:1.2),(supermodel:1.4),
+<lora:hipoly3DModelLora_v10:0.3>,
+<lora:Cnbeauty4_v1:0.4>,
+<lora:flat2:-0.5>,
+<lora:postapocalypseAI:0.6>,postapoAI

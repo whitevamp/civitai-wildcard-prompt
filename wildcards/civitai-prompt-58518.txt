@@ -1,0 +1,1 @@
+outdoors, power lines, scenery, building, utility pole, ((horizon)), street, sky, road, city, cityscape, cinematic lighting, light pole, sunset, sunlight, shadow, extremely detailed, <lora:LoconLoraAirconditioner_loraVersion:1>

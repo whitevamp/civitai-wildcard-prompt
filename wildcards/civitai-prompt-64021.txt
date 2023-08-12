@@ -1,0 +1,1 @@
+analog style, modelshoot style, portrait of alexandradaddario wearing a scientist experimenting with teleportation technology, bold, bright colours, <lora:alexandradaddario:0.8><lora:epiNoiseoffset_v2Pynoise:1.0>

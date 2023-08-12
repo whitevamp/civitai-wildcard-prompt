@@ -1,0 +1,1 @@
+abstract, illustration, woman, ZaUm, elysiumChar, hazy, atmospheric, digital art, awarding winning, artstation <lora:DiscoElysiumStyle_v1:1>   <lora:epiNoiseoffset_v2:0.4>

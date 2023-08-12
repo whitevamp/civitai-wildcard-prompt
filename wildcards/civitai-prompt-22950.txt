@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl,full body, 
+ <lora:pixel_f2:0.5>  <lora:reiayanamitest:1> rei ayanami, blue hair, short hair, (red eyes:1.5), blue dress, dress, neck ribbon, pinafore dress, red ribbon, ribbon, school uniform,

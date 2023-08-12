@@ -1,0 +1,2 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, 2 cute girls wearing cheerleader outfit, (posing for a photo, dancing:0.1), large breasts, (skirt lift, lifted by self:1.2), showing off (see-through) panties, embarrassed smile,
+<lora:realisticCheerleader_v10:0.7>  <lora:skirtliftTheAstonishing_skirtliftv1:0.7>

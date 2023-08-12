@@ -1,0 +1,2 @@
+Dappled Light, (look at viewer), (skin texture), (realistic texture skin), cinematic light, side lighting, 
+AnalPOVFrontQuiron  pose, <lora:quiron_AnalPOVFront_V1_Lora:0.77>

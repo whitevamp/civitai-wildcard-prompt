@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female),  <lora:concept_goodHands:1>, <lora:detailed_eyes:1>, AS-Adult,
+<lora:character_rainbowdashHuman_(mlpdash):0.9>, mlpdash, pink eyes, (rainbow hair:1.1), muscular, biceps, abs, leg muscles, (small breasts), seductive smile, 
+(slime girl, rainbow slime), <lora:concept_slimeGirl_v10:0.9>, (rainbow skin:1.4, multicolored skin), dripping slime, shiny skin, rainbow pussy juice, seductive pose, cowboy shot, covered in rainbow slime, visible pussy, thighs, hips, rainbow breasts, rainbow nipples, rainbow abs, rainbow gloves, rainbow arms, nude

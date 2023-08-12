@@ -1,0 +1,3 @@
+(masterpiece), (best quality),(ultra_highres),(8k resolution),(realistic),(ultra_detailed),(((realism:1.4))),finely detail,high res,colorful,intricate detail,HDR,hand of Guido Daniele,huge breasts,smile, cool & sexy \(idolmaster\),
+half body, Looking at the viewer,slim_legs, younger,beautiful_girl,1 girl, beautiful tooth, 18 yesrs old, ((beautiful eyes)), ((beautiful face)), ((focus on face)),camp, Environmental portrait,outdoor
+<lora:aiBeautyIthlinni_ithlinniV1:0.4>, <lora:CelicaMS:0.5> celicams, (((ponytail,long hair,light brown hair,blunt bangs, ribbon, cape, school uniform, skirt, vest)))

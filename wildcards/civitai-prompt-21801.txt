@@ -1,0 +1,2 @@
+c4d,cute,3D,<lora:C4D:0.7>,house,white cat ,cat lie near the house,  sun,flower
+, Cinematic  Lighting, best quality, masterpiece, Highly detailed, ultra-fine painting, sharp focus, extreme detail description,<lora:cat_20230627113759:1>,no humans, (((colorful  bubble))),Nobody,no person,no people

@@ -1,0 +1,3 @@
+highest quality, masterpiece, (ultra-detailed),
+<lora:Character - Noir (NIKKE) v1.0:0.6>, noir \(nikke\), brown hair, yellow eyes, playboy bunny, rabbit ears, black pantyhose, black leotard, fishnets, lace-trimmed legwear, dark-skinned female (((see-through bunny suit))), ((simple background, green gradient background)), holding card, ace of spade, (((Poker Chips between breasts))), casino chips, blushing, smiling, tounge, sitting on poker table,  <lora:NSFW Concept - One Breast Exposed:1>, (((one breast out))), nipple, nsfw, (((pulling clothes, undressing))), (((lifting breasts, showing off breasts))), pushing breasts together, errect nipples, beautiful nails,  
+<lora:NSFW Style - Ishikei:0.5>

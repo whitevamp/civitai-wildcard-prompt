@@ -1,0 +1,2 @@
+masterpiece, best quality, 4k, ultra detailed, finely detailed face and eyes, cinematic lighting, sunlight through window, viewer on top,
+ <lora:ganyu2:0.5>, ganyu \(genshin impact\), blue hair, pajamas, ((dark circles around eyes)), a sleepy girl yawn from bed in bedroom, clock,

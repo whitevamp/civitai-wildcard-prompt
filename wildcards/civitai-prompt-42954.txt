@@ -1,0 +1,2 @@
+((masterpiece)),((best quality)),8k,high detailed,ultra-detailed,anime,CG,
+1boy,short hair,grey hair,bara, feet out of frame, summer,sky,beach, boxer briefs, see-through tank top, yellow eyes,see-through boxer briefs,damao,limp penis,   <lora:damaov4:0.6> <lora:zifuv10:0.6> <lora:frenulum_w2:0.45>

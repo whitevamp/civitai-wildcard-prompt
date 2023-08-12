@@ -1,0 +1,3 @@
+Platinum, bib necklace, Enchantress, Average Height, Firm, Oval Face, Tan Skin, Gray Hair, Hazel Eyes, Narrow Nose, Pouty Lips, Prominent Chin, Shoulder-Length Hair, Straight Hair, Low Chignon, natural breasts, Cuff earrings, black gloss lipstick, Gold Mesh Bra and Panty Set with Garter Belt,
+(full body),
+<lora:add_detail:0.6>

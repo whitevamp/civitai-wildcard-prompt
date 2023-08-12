@@ -1,0 +1,4 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(highres),elaborate ,baroque , cowboy shot,1girl, sidelighting
+<lora:maou-nvwls-v2:0.8>, maou, red hair, red eyes,  choker, horns, huge breasts, <lora:LWclothLora:0.7>, LuxuriousWheelsCostume,  silver dress ,hanging garden, night sky, skyscrapers, lying, on back, confused,
+<lora:anime_minimalist_v1-000020:-0.2>,
+<lora:flat2:-0.3>,

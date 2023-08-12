@@ -1,0 +1,1 @@
+(masterpiece), (high quality), the_observer, minimalistic office, concrete and shiny metal, fog, mist, fujifilm, photorealistic, details, texture, film grain, symmetric, dynamic light, color grading, (disturbing:1.2),  <lora:the_observer:1>, indoor, neon lights, reflections, <lora:FilmVelvia3:0.5>, <lora:Better Portrait Lighting:0.5>,  <lora:epiCRealismHelper:0.5>

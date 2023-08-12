@@ -1,0 +1,7 @@
+(MeridaWaifu:1), 1girl, smile, :D, sexy, looking at viewer, (dress:1.2), from below, magic, (fight pose:1.2), (big breasts), curvy, holding bow,
+
+(realistic:1.2), (realism), (masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1),(Cowboy-shot:1.2), (85mm),light particles, lighting, (highly detailed:1.2),(detailed face:1.2), (gradients), sfw, colorful, (detailed eyes:1),
+
+(detailed ladscape, castle, fild, grass, mountains, flowers, arrows:1.2), (sky, clouds:1.2),(detailed background),detailed landscape, (dynamic angle:1.2), (dynamic pose:1.2), (rule of third_composition:1.3), (Line of action:1.2), wide shot, daylight, solo,
+
+ <lora:MeridaBrave_character-20:0.6>

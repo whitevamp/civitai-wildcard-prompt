@@ -1,0 +1,3 @@
+tsuruta ichiro, ichiro,  1girl, solo, cowgirl, hat, jeans, revolver, sunglasses,  ((medium  tits)),  smile, (super long hair:1.2), blue grey eyes, random color hair, gloves, dress, bare shoulders, jewelry,  upper body, earrings, black gloves, elbow gloves, hand up, random color, random color dress, from side, black headwear, makeup, lipstick, sakura petals pattern, bamboo leaves pattern,
+rim light, back light,
+pastel color,  <lora:ichirov3-04:0.0.3>

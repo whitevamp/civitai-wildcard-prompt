@@ -1,0 +1,4 @@
+(highly detailed:1.3),
+yamraiha, looking at viewer, smile, large breasts, scenery, hair ornament, dress, cleavage, bare shoulders, detached sleeves, witch hat, staff, between breasts, front ponytail, shell, shell bikini,
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,
+(highly detailed face and eyes:1.3), <lora:Yamraiha:0.8>

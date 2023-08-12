@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, petite, extremely beautiful, dynamic pose, tanned skin, detailed skin complexion, small breast, gladiator, cape, valkyrie helmet, bronze buckler shield, sword enchanted with magic, full body, looking at viewer,
+break
+fantasy, colosseum arena, dust particle, empowering and heroic vibe, sparkle particle effect, volumetric fogs, glowing fx, cgi
+break
+from above front, aerial perspective, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, proportion, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)

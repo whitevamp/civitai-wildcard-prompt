@@ -1,0 +1,3 @@
+(( masterpiece, detailed, high quality, )), natural lighting, fanbingbing, war_glam armor, edgMothKnight, a woman in armor, moth_woman, long hair, red hair, moth swarm, (medium breasts:1.2), necklace, sakura falling petals, RootsBranchesAI cherry blossoms background <lora:RootsBranchesAIv5:0.8>, dynamic pose, dynamic angle, full body, (wings, feathers, shining brass armor, shining brass helmet, shining brass breastplate, full armor, insect wings:1.3), <lora:edgMothKnight:1>
+<lora:Fan_Warrior:1>
+ <lora:add_detail:1>

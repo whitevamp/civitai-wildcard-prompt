@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, realistic,high details,high detailed skin, natural skin texture,indoors,
+mature male,casual outfit,  side-by-side,  onoff,  <lora:onoff_side-by-side:1>, <lora:bettercocks_v1Flaccid:0.6>

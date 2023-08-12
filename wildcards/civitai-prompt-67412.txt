@@ -1,0 +1,1 @@
+<lora:MatoiRyuukoV3:1>,  matoi ryuuko, school uniform, black serafuku, suspender skirt,<lora:merrytail_forex-meme_v02-13:0.9>,blue eyes

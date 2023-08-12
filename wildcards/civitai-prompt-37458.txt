@@ -1,0 +1,1 @@
+sky city,building floating on air,(((masterpiece,best quality))),((good structure,Good composition,good atomy)), ((clear, original,beautiful)),see color,  ,cloud,<lora:floatingmix2:0.8>, <lora:shashab_20230719005306:0.2>,giant tree,World Tree, tree world,green theme,, (((masterpiece,best quality))),((good structure,Good composition,good atomy)), ((clear, original,beautiful)),

@@ -1,0 +1,9 @@
+(Absurdres:1.2), beautiful and aesthetic, masterpiece, best quality, extremely detailed,
+photo realistic:1.4 , delicate pattern, (intricate detail,extremely intricate:1.2),
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, <lora:add_detail:1>, 
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1:0.5),    
+smaller head, beautiful face, shaded face, smaller face, 
+------
+night, moon, mutant-hunting grounds, dangerous creatures, deadly encounters, survival of the fittest, Balancing on one foot, pretending to be a scarecrow,  <lyco:fitgirl_v10:0.8>
+------
+solo, 1girl, white hair, red eyes,scarf, standing,huge breasts, <lora:LatexBikesuit:1>,latex bikesuit,cross-laced, very long hair, very long hair, navel,latex gloves,

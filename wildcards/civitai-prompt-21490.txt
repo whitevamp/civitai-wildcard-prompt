@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2), (photorealistic:1.4), 1girl, (20 years old:1.2), cute girl, pretty girl, perfect idol, kawaii, <lora:BeautyNwsjMajic2:0.7>, huge breast,  <lora:breastinClass:0.4>, light and shadow,  <lora:epi_noiseoffset2:0.8>, full body,  <lora:add_detail:0.8>,

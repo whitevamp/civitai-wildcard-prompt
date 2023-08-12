@@ -1,0 +1,1 @@
+computer center, (((robot))), ((blue CapitaI C logo)), (melting robot), (((typing on computer))), ((smiling)), keyboard on fire, orange flame, lots of smoke <lora:on_fire10:0.6> , (lots of computers in background), (fire in background), emergency warning, red light, speech bubble on top

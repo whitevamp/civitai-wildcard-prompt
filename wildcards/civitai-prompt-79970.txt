@@ -1,0 +1,5 @@
+diffused soft cinematic lighting, the best quality,backlighting, 12k surrealism, ray tracing,
+Classic Hollywood glamour, girl in a stunning red evening gown, dazzling accessories, (captivating eyes, red lips, flawless skin), 
+luxurious backdrop, velvet curtains, dramatic pose, interesting composition, spotlight illumination,
+ rich shadows, shallow depth of field, sparkling bokeh, exquisite details, high-resolution, 35mm film, timeless elegance.
+ portrait photography, 35mm film, natural blurry, filmg, <lora:FilmG4:0.7>

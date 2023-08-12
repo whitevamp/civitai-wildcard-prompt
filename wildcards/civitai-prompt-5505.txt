@@ -1,0 +1,1 @@
+nsfw,1girl,(best quality:1.1),(masterpiece:1.1),(realistic:1.1),ultra highres,(photorealistic:1.1),8K,(RAW photo:1.1),<lora:add_detail:0.7>,<lora:_manguri:0.5>,look at viewer,<lora:cuteGirlMix4_v10:0.7:ALL>,(out breasts:1.2),(big breasts:1.2),High waist stockings,

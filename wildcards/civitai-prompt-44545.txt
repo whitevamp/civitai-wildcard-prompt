@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),<lora:crayons:0.8>,

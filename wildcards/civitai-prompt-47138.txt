@@ -1,0 +1,2 @@
+asterpiece),(best quality:1.0), (ultra highres:1.0), detailed illustration, detailed, girls, detailed beautiful skin,confusion expression,(detailed beautiful eyes:1.2),nude,naked,looking at viewer,perfect lighting,(solo:1.6),medium breast,beautiful abdominal muscle,(long wavy brown hair:1.2),(messy hair:1.2),(background is hot spring:1.4),clean body,sharp focus,vaginal,looking from back
+<lora:lightAndShadow_v10:0.3>,(beautiful and complex background:1.2), <lora:fashionGirl_v47:0.2> <lora:iu_V35:0.35>

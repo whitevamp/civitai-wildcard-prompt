@@ -1,0 +1,6 @@
+(cowboy shot), sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:Supergirl_Galatea:0.7>  Supergirl, 1girl, long blonde hair, midriff,
+blue crop top, long sleeves, blue pleated skirt, red cape, knee-high boots
+BREAK
+(starry sky, outer-space, gorgeous view)

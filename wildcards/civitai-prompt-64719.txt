@@ -1,0 +1,4 @@
+(implied sex, see-through silhouette:1.1), pov, see-through, black gown, sex from behind, doggystyle sex, jewelry, tiara, white elbow gloves, black choker,
+1woman, 24yo, whitehair, braided hair, blackeyes, impish grin, blush, bare back, bare shoulders, full lips, braid over back,
+ballroom, crowd, dancers
+masterpiece, best quality, sharp, <lora:concept-implied_sex-see-through_silhouette-v1:0.8> <lora:GoodHands-beta2:1>

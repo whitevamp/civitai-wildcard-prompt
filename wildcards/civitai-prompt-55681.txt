@@ -1,0 +1,3 @@
+portrait,1girl, heart choker, ponytail, window, solo, night, stars, collarbone, topless,
+ahegao, open mouth, blush, tongue, tongue out, saliva, rolling eyes
+<lora:ahegao_v11-ahegao, open mouth, blush, embarrassed, tongue, tongue out, saliva, rolling eyes:.8>

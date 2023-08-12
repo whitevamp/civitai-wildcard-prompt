@@ -1,0 +1,4 @@
+((masterpiece)), (best quality),1girl, blue hair,long hair,twin drills,pointy ears, yellow eyes,hood,bare shoulders,detached sleeves,long sleeves, gloves,pale skin, (medium breasts), looking at viewer, (sadness, loneliness),
+soft light, faded, misty soft colors, (soft focus:1.2), (from below:0.6), nice hands, white leggings,
+sitting, outdoors, field, horizon, road, clouds, dark theme, night, stars, 
+<lora:layla:0.7>   <lyco:GoodHands-beta2:1.0>

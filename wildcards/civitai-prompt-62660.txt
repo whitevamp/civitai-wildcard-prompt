@@ -1,0 +1,4 @@
+masterpiece, best quality, (3girls:1.2), ADDCOMM
+narmaya, white bikini, very long hair, smile, large breasts, standing, cowboy shot, partially submerged, ocean, outdoors <lora:Narmaya (Granblue Fantasy):0.8> ADDCOL
+anila, white bikini, sheep horns, hair flower, detached sleeves, hair flower, very long hair, smile, large breasts, standing, cowboy shot, partially submerged, looking at viewer, ocean, outdoors  <lora:Anila (Granblue Fantasy):0.8> ADDCOL
+kumbhira, halterneck bikini, horns, dark skin, very long hair, grin, large breasts, very long hair, standing, cowboy shot, ocean, looking at viewer, partially submerged, outdoors, sun <lora:Kumbhira (Granblue Fantasy):0.8>

@@ -1,0 +1,11 @@
+{extremely detailed CG unity 8k wallpaper}, {{{only background}}},
+{{masterpiece}}, {{{best quality}}}, {{ultra-detailed}}, {best illustration},
+{best shadow}, {{an extremely delicate and beautiful}}, {{{dynamic
+angle}}}, {{{glow white particles}}}, {{cinematic light}}, {{{cloud}}}, {cloud
+flows upside}, night, bright night sky, nature, bloom, sketch, painting,
+luminous particles, rotating star sky,Cloud,
+{1girl}, {solo}, {{{{dynamic hair}}}},{{{masterpiece}}}, {{{beautiful detailed hands}}},illustration, {{{{{beautiful detailed sky}}}}}, {{{{{beautiful-detailed eyes}}}}},{{cinematic light}}, ultra detailed,
+{extremely detailed CG unity 8k wallpaper},{{{only background}}}, {{masterpiece}}, {{{best quality}}}, {{ultra-detailed}},{best illustration}, {best shadow},
+<lora:Takashima_Yuna-10:0.7>,1girl, solo,short hair, hair ornament, red eyes, school uniform, jacket, hair ribbon,red hair, hairclip, hair flower, black skirt, white thighhighs, blazer,
+<lora:Futanari-10:1>,futanari masturbation,cum, excessive cum,hetero,erection,ejaculation, futanari,(projectile cum,large penis, huge penis,veiny penis,penis,testicles, huge penis, gigantic testicles,wrinkled testicles),
+<lora:ahe-07:0.8>,masterpiece, best quality, 1girl,solo,ahg, rolling eyes, tongue,licking,saliva, sweat, on ground, (wavy mouth:1.2), tears

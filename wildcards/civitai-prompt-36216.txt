@@ -1,0 +1,1 @@
+masterpiece, perfect light, bloom, waist-deep girl in water, silver hair, adult, slim body, small breasts, (white see-through bodysuit:1.3), (wrapped in white tape:1.5), (ribbons:1.3), <lora:GlossyFace:0.3>, bright green eyes, bun hair, lake, nature, frightened,  (from side:0.8), (from below:1.1),  (graceful:1.9), (looking at the viewer,:1.1), smiling, <lora:add_detail:0.3>

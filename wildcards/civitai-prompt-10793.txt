@@ -1,0 +1,1 @@
+cyberhanfu,cheongsam,robot, female cyborg , busy cyberpunk tea house, robotic patrons, dim lighting, neon signs,fcPortrait  <lora:add_detail:0.3> <lora:cyberhanfu_20230617014620:0.6> <lora:NijiExpressV2:0.5>

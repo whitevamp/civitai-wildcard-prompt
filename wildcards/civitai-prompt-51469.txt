@@ -1,0 +1,1 @@
+mini\(ttp\), gundam\(rx78\), (8k, RAW photo, best quality, masterpiece:1.2),solo,cybertron,RX-78-2, (full body), mask, dancing, (isometric), miniature,<lora:miniature_V1:0.7>, ((simple background))

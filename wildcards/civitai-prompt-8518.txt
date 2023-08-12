@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed), <lora:add_detail:1>, (vivid colors:1.5), studio quality, soft lighting, (JessicaWaifu),  (red hair, purple gloves), <lora:JessicaRabbit_character:0.7>, skin indentation, (breast smother:1.2),  <lora:breasts_smother_v0.1:1> (bunny, rabbit, rabbit between breasts:1.3)

@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+ShioriNishimura, (dark skin, dark-skinned female:1.1), tan, mature female, milf, 1boy, woman is lying on bed and taking in pussy, penis, spread legs, missionarypose, missionary, vaginal, (blush, horny face, open mouth, ahegao:1.1), looking at viewer,
+brown hair, short hair, makeup, brown eyes, perfect eyes, perfect face, detailed face, (choker:1.1),
+naked, nude,
+sweat, curvy, huge breasts, ass
+<lora:ShioriNishimura:0.85>  <lora:POVMissionary:0.4>

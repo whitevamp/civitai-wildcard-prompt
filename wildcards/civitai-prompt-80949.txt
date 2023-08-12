@@ -1,0 +1,3 @@
+illustrate a fat cat jumping between car
+,BREAK,
+illustrate simple background with flame and smoke, (masterpiece, best quality;1.3), extreme detailed,4k, <lora:add_detail:1>

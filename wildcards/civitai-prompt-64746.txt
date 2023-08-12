@@ -1,0 +1,1 @@
+cropped-fC, <lora:cropped-fC_v1.0:0.5>, glasses

@@ -1,0 +1,7 @@
+<lora:SelfBreastGrab:0.3>, (RAW photo, best quality, masterpiece:1.2),
+1girl, Beautiful_japanese, cute_face, young,  (grab_breast:1.4), sbg, breast grab, breast lift, nipples, (standing on street),
+(Luxury_Jacket), navel, Hotpants, open_pant, Down_pants, no panties, showing_puccy,
+Detailed facial expressions, (expression of excitement, anticipation, thrilled, elated,  excitement, passion), (looking at viewer), open_mouth,
+black long hair,
+Small_hips, thin thigh, Thin calf,
+night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering, depth of field, bokeh,

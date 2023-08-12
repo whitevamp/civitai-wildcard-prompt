@@ -1,0 +1,1 @@
+masterpiece,best quality,(samurai:1.2),(skeleton:1.2),glasstech,cyberlight,transparent<lora:GlassTech-20:1.5>,

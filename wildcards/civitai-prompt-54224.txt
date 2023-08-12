@@ -1,0 +1,1 @@
+photography portrait of macron <lora:emmanuelMacron_v10:1>,  in street of Paris, front of french police, riots, fire, 8K, masterpiece <lora:French_riots:1>

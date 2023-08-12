@@ -1,0 +1,3 @@
+masterpiece, best quality,photo, nikon camera, 35mm lens, 
+mature female, women, 28yo, big breasts, black hair, brown eyes :1.1), 1girl, (cleavage:1.2), simple background, looking at viewer,(depth of field,blurry background, bokeh:1.3),SagittariusArmor, armor, golden armor, reflection armor,helmet, long metal wings,
+ <lora:saintSeiyaSagittarius_v10:0.6>,   <lora:c-japaneseDollLikeness_v10:0.5>,

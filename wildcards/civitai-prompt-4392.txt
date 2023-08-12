@@ -1,0 +1,2 @@
+editorial photograph of woman, wearing gym outfit , blonde flowing straight hair, nice hands, perfect hands, medium breasts, long legs, thick thighs, extremely detailed, finely detailed face textures, rim light, soft lighting,  <lora:GoodHands-beta2:1>  breastout, realistic, best quality, photo-realistic, (best quality:1.3), realistic, photo-realistic
+<lora:more_details:1>   <hypernet:sxzBloom_sxzBloom:0.5>  <lora:breastsout24_rvkwi:0.6>, nice hands, perfect hands,  <lora:GoodHands-beta2:1> <lora:lit:0.9>

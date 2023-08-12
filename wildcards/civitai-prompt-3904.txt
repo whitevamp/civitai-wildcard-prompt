@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2), 1girl, running, scared face, wearing red cape, torn clothes, white skirt, long hair, ((scars on clothes)), blood, in the forest, lighting storm, ((fog)), (((monster in the background))), 4k res, 8k, higly detailed textures, intricate details, photoreal, <lora:add_detail:0.8>,

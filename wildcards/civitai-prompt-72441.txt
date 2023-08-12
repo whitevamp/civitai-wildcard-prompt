@@ -1,0 +1,13 @@
+(film grain:1.3),35mm film for added charm. film portrait photography, 35mm film, filmg,  filmg, nsfw, raw photo, Best quality, masterpiece, ultra high res, 1girl, looking at viewer, natural skin texture, realistic eye and face details, full lips, lipstick, rouge \(makeup\), red eyeshadow, 
+Pose staring at us,
+One shoulder strap is hanging down,
+looking at viewer,short jaw,
+very cute, big eyes, cute face, japanese cute round small face, 18 years old,
+Blue sky background,
+long  black hair,
+solo,
+little smile,
+tall female, skinny, (enormous breast:1.4), cleavage, slim body,
+beautiful legs, thigh_gap, slim_legs, long legs,
+white dress, 
+ <lora:Lora_v20:0.7>,<lora:ran:0.4>,  <lora:babaF:0.3>, <lora:JapaneseDollLikeness_v15:0.3>

@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, hmmikasa,wearing VR glasses ,wearing vision pro,  short hair, black eyes, scarf, emblem, belt, thigh strap, red scarf, white pants, brown jacket, long sleeves, <lora:mikasa_ackerman_v1:0.5>, holding weapon, sword, dual wielding, three-dimensional maneuver gear, fighting stance, sky,
+<lora:vision_pro_v2:0.6>,

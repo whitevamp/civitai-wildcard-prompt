@@ -1,0 +1,4 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures,
+1girl, (young), face highlight, detailed face, tear mole, white skin, silver hair, ponytail, braid hair, looking at viewer, big eyes, earrings, small breasts, slim body, luxury room, 
+ wet clothes, see-through clothes, nipples, wet body, wet hair, bare leg,
+royal palace, professional lighting, photon mapping, radiosity, physically-based rendering, <lora:fashionGirl_v52:0.3>, <lora:shojovibe_v11:0.7>

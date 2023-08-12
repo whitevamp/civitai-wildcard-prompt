@@ -1,0 +1,1 @@
+1girl,white hair,hair flower,upper body, masterpiece,best_quality, simple background,    <lora:DIno-000008:1>

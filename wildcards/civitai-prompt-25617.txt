@@ -1,0 +1,2 @@
+hospital , (pink nurse outfit:1.5) , long sleeves, full sleeves, nurse , (Wearing Glasses:1.3), latex,(nurse clothing:1.2) , 1girl , huge breasts , (full clothing:1.2) , (white hair:1.5) , long wavy hair , (shiny skin:1.5) , Glistening skin , High contrast ,Perfect lighting , 8k detailed ,cleavage , office , (stethoscope:1.3), small dark red lips,blue eyes, partially visible nipples, mature female, 
+ <lora:zumi:0.2> <lora:ShinyOiledSkin_v20-LoRA:0.7>

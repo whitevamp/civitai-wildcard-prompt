@@ -1,0 +1,3 @@
+<lora:baggy_jeans_v0.9:1>
+1girl, jeans, 
+<lora:sono-bisque_v4.0b:1> rizu-kyun, crop top, torn jeans, arms behind head, window, kneeling, sneakers,, masterpiece, best quality, highly detailed

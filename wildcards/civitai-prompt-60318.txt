@@ -1,0 +1,1 @@
+girl, [black|yellow] hair, slime, sidelighting,  <lora:suggestiveLiquid_v11:1>

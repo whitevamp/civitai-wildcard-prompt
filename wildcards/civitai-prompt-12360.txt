@@ -1,0 +1,15 @@
+Aesthetic: ((x-ray photography, medical imaging, bones, transparency, radiology, artistry):1.4)
+BREAK
+Composition: <lyco:Saya-mutual masturbation(yuri):0.8>, ((2girl)), (mutual_masturbation), (fingering), pussy juice, fingering, looking at another, spread legs, (pretty face, detailed face and eyes)
+BREAK
+Lighting: Twinkling Starlight, Peaceful, Tranquil
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+(good quality:0.998),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

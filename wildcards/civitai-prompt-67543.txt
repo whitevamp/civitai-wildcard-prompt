@@ -1,0 +1,4 @@
+Photo, (sharp focus:1.2), attractive young woman, (beautiful face:1.1), detailed eyes, (smile:0.7), (body freckles:0.9), (large breasts:0.8), (toned body:1.2), shiny (brown hair:1.1),  depth of field. 4K, HDR. by (James C. Christensen:1.2|Jeremy Lipking:1.1), full body, slender, skinny, thin, freckles, olive eyes, large eyes, thin face, pink nipples, abs, toned stomach,
+<lora:OliviaCasta-v2:1> 
+shirt ripped open, crop top, clothes pulled apart, no bra, open mouth, ((shirt pull, bouncing breasts, motion lines, spoken exclamation mark, !, bare shoulders, showing boobs):1.3), bare neck, hand pulling clothes down
+<lora:FRONT1-000025:1>

@@ -1,0 +1,3 @@
+((masterpiece)), (best quality),official art, extremely detailed CG unity 8k wallpaper, highly detailed, Depth of field, vivid color, detailed background, best illumination,unity 8k wallpaper, ultra detailed, (photorealistic:1.4), perfect lighting,
+1girl, sailor uranus, mature woman, smll breasts, aqua eyes, blonde hair, sailor senshi uniform, sailor collar, chest bow, back bow, face up,close up, explessionless, front light, detailed eyes, detailed iris, detailed face, from below,
+<lora:Kizuki - Sailor Moon - Sailor Uranus:0.9>

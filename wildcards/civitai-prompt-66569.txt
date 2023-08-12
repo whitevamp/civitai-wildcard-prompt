@@ -1,0 +1,4 @@
+distinct image , realistic , 4K , ((depth of field)) , shape focus , (8K UHD:1.2) , no make-up , light layer , (Lens Flare):0.4 , highres ,  ultra hi res , photoreaslistic , (Professional lighting:1.2)
+,
+1girl,solo,sign around neck, wariza,nude,outdoors,cityscape, cleavage, navel,blush,completely nude, (v-arms ),sideboob,barefoot, neck bell, small breasts,  Lake, (hand between legs),long hair, Silver hair, pussy, tears,cum in pussy, cat ears,  <lora:PetShamingV1[sign around neck]:1>,
+extremely fine and beautiful,best illumination,highly detailed latex

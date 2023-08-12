@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed), 1girl, advanced-female-guerilla-fighters, <lora:improve_backgrounds:1>, <lora:GoodHands-beta2:1>, <lora:add_detail:1>

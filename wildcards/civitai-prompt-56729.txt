@@ -1,0 +1,4 @@
+(realistic, photo-realistic:1.37),(8k, RAW photo, best quality, masterpiece:1.2), 
+1girl,Emma Roberts,extremely detailed eyes and face, beautiful detailed eyes,
+cinema light,
+<lora:dreamyGirlsFace_dreamyFace:0.3>,  <lora:chilloutmixss_xss10:0.2>, <lora:epiNoiseoffset_v2:1>, <lora:oft1_V1:0.2>

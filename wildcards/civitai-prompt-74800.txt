@@ -1,0 +1,1 @@
+character: 1girl , <lora:YaeMiko_Test:.6>, pink hair,  purple eyes, blush, BREAK, location: balcony, night, festive, cowboy shot,  BREAK, quality: best quality,  intricate details, kpop star, vibrant

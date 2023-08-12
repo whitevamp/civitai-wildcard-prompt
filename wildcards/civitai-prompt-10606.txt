@@ -1,0 +1,1 @@
+<lora:AMechaSSS[color_theme,mecha musume, mechanical parts,robot joints,headgear]:0.8>,science fiction mecha knight,robot joints,cyan theme,(Medieval Armor:0.7),floating capelet,daylight,full armor,full body,outdoors,far shot,from above,vanishing point,fighting stance,energy flow,High-altitude overlooking,

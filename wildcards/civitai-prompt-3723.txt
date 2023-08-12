@@ -1,0 +1,10 @@
+p realistic, 1girl, slit eyes, breasts, nude, parted lips, blush, nsfw,
+sitting ,
+in a living room ,
+full body portrait,
+green hair ,
+messy hair,
+green eyes ,
+sad ,
+leg tattoo,
+blue tattoo, <lora:AG-yan:0.6>

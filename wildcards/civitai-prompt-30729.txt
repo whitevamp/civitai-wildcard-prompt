@@ -1,0 +1,2 @@
+a stunning photo with beautiful saturation, ultra high res,(realistic:1.4)),deep shadow,(best quality, masterpiece), dimly lit, shade, highly detailed, film grain, 
+<lora:undersea-000008:0.7>, undersea, sea monster, boat,, (masterpiece,best quality:1.5)

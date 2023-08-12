@@ -1,0 +1,4 @@
+masterpiece,best quality,honda_city,retro artstyle,1980s \(style\),album cover,
+a lot chibis riding honda_city,(giggling,happy:1.2),closed eyes,open mouth,animal ears and tail,
+beach,
+<lyco:honda_city_v10:0.6>

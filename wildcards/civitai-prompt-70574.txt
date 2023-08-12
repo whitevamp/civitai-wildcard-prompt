@@ -1,0 +1,2 @@
+(masterpiece:1.6, best quality), (finely detailed beautiful eyes: 1.2), phyami, yamisch, 1girl, long hair, solo, school uniform, hair ornament, hair between eyes, two side up, blonde hair, very long hair, skirt, red eyes, thigh strap, sweater vest, plaid skirt, plaid, socks, two side up, hair ornament, pleated skirt, kneehighs
+, <lora:yami-1:0.9>,

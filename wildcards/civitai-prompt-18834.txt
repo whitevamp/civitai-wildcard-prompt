@@ -1,0 +1,1 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,sharp_eyes,1girl,portrait,from above,white hair,red eyes,heterochromia,<lora:sharp_eyes:0.9>

@@ -1,0 +1,5 @@
+Masterpiece,best quality,ultra-detailed illustration,(monochrome,:1.3),
+(1fat girl:1.2),60yo,writing,
+<lora:more_details:0.55>,<lora:lit:0.2>,full body,
+<lora:libbg_v11:1> lib_bg,desk,smoking,
+library,

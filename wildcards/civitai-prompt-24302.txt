@@ -1,0 +1,3 @@
+princess carry,  2girls, 
+<lora:princess_carry_v0.1:1>
+<lora:mieruko-chan_v0.3b:1> yotsuya miko, yurikawa hana, school uniform,, masterpiece, best quality, highly detailed

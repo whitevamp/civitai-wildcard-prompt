@@ -1,0 +1,5 @@
+<lora:hipoly3DModelLora_v10:0.4>, <lora:shojovibe_v11:0.4> <lora:koreanDollLikeness_v15:0.4>,
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), fantasy, dreamlike, unreal, science fiction,
+1girl, latex catsuits, corset, (shinny skin and hair:1.4), big breasts, nsfw, silky stockings, high-heeled shoes,
+intricate detail, delicate pattern, sexy, charming, alluring, seductive, erotic, enchanting, smile,
+(masterpiece:1.2, best quality), (mature female:1.4), (milf:1.25), (masterpiece, best quality, ultra-detailed, best shadow)

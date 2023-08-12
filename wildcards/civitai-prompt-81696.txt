@@ -1,0 +1,1 @@
+Cute, small Fox, fox tail,smiling, gras field, cozy lighting, detailed,  <lora:90sv1:0.7> ,  <lora:studioGhibliStyle_offset:0.6>, night sky

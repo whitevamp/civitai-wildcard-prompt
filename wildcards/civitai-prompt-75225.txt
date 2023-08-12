@@ -1,0 +1,1 @@
+<lora:lowra_v10:0.5>,Panda Wearing Hanfu,1.8 aperture,8k,<lora:汉服唐风_v3.1:0.5>,

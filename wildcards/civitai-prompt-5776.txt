@@ -1,0 +1,10 @@
+isabelmoner-smf,  bandeau, petite, face focus, 1girl, ((underboob)), sideboob, braless, micro cropped top,  messy  hair, looking at viewer, (tight gap:1.4), wide hips, curvy, 
+, dora the explorer,
+dora, purple backpack, (backpack straps:1.4) ,micro  pink top, brown hair, sneakers, shoulders, (orange micro shorts:1.3), bangs, smirk,  3/4 view,
+ankymoore,  
+((shortstack:1.5)), (skindentation:1.9)
+posing, makeup,
+temple ruins, moss, debris, stone,
+flat breast, flat chest, straight hair,  looking at viewer,  (masterpiece), (best quality:1.2), absurdres, intricate details,  (midriff:1.4) ,
+(masterpiece, best quality), ((blushing)),
+<lora:ankymoore:0.35> <lyco:isabelmoner_lycoris_01-000003:0.86> <lora:Bandeau-fC-V1:0.75>, <lora:LowRA:0.6>

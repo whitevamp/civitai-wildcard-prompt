@@ -1,0 +1,5 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1 girl,
+Tinkerwaifu, single hair bun,( strapless green dress:1.3), fairy wings, (cowboy shot, small breasts, flowers, petals in the air, plants, trees,  seductive pose, great lighting, volumetric fog, forest, small body, detailed face, detailed eyes, magical photograph, godrays, morning light, high contrast, intricate detail,  <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.1>, (RSEEmma:0.2), symetrical wings, intricate wing pattern, dynamic pose, shining eyes, glowing pixie-dust, fireflies, (yellow light:1.2). transparent wings, small hands, light blue eyes, spread legs, leaning back, panties, thong, small feet, petite, portrait, perfect hands,
+standing in a meandering stream, skirt lift, green panties with intricate pattern,
+extremely detailed eyes, (looking at viewer:1.1),
+<lora:tinkerbell_character:0.9> <lora:skirtlift-v4:0.8>

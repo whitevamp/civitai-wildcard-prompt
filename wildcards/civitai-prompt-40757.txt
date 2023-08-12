@@ -1,0 +1,1 @@
+red train on street in city,sunday,sunrays, <lora:LowRA:0.15>, RAW photo, full sharp, wallpapper 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

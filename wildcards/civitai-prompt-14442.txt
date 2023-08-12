@@ -1,0 +1,3 @@
+(8k, best quality, master:1.2), (realistic, photo-realistic:1.37), (real person,photograph), looking at viewer, 
+1 girl, (white pink hair, brown eyes), smile, wearing a straw hat, very long hair, (very big breasts:1.3), (black bra, white shorts, pink jacket), oil skin, (sunflower field, Butterflies flying around),
+ <lora:Amee_V12:0.4>. <lora:BeautyNwsjMajic2:0.6>. <lora:add_detail:0.5>, <lora:oiled skin:0.2>,, gorgeous light and shadow ,stunning environment ,soft lighting

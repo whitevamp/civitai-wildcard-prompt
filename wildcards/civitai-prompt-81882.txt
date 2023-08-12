@@ -1,0 +1,1 @@
+1girl,weapon,long hair,black hair,white background,solo,arm guards,looking at viewer,black eyes,tabi,floating hair,full body,blood on face,red armor,fractal art,abstract background,ink wash painting, <lora:wuxia:0.8>, (style-swirlmagic:0.7), <lora:tshee00d:0.5>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality

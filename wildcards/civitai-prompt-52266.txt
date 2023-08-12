@@ -1,0 +1,1 @@
+<lora:chilloutmixss_xss10:0.8> <lora:cuteGirlMix4_v10:0.15> a, young,<lora:japaneseDollLikeness_v10:0.05> face to front  ,dress white t-shirt, black  hair, jeans, big mouth, Solid background, slim body, White background

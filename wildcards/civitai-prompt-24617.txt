@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, standing, burger, <lora:McDonaldsUniform:0.6> mcdonaldsuniform, black shirt, black pants, uniform, plate, visor cap, cashier, behind counter, <lora:concept_choccymilk-10:1> choccymilk, holding, cup

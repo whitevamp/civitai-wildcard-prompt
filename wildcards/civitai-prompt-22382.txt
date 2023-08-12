@@ -1,0 +1,1 @@
+a girl,sci-fi,marron_marron,amazing body,spaceship,Vintage 90's anime style,by kaethe butcher,hajime sorayama, greg tocchini,virgil finlay,colors,neon lights, <lora:add_detail:0.7>   <lora:maou-nvwls-v2:0.7>

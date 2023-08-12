@@ -1,0 +1,5 @@
+RAW photo, high detail,film grain, masterpiece,
+ghost white color hair with ombre , despues,  (beautiful face),
+<lyco:NegStd3:0.3>,
+lying on her back, 
+solo, naked vagina, <lora:GoodHands-vanilla:0.4>,   <lyco:InsPX:0.1>

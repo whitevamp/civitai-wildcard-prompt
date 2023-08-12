@@ -1,0 +1,2 @@
+<lora:WoodIronAI:.9> WoodIronAI
+dirigible, clouds  . detailed, intricate

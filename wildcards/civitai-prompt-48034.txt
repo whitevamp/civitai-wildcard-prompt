@@ -1,0 +1,5 @@
+wrestler,from above, full body, full shot, wide shot,  leg up, solo,
+on back, spread legs, open legs, (anus:1.1), gaping anus, blush,(penis ,glans, frenulum,testicles:.98), (bara:0.9),
+(wrestling singlet),(underwear:1.1), wrestling ring, white socks
+orgasm,
+muscular man,  male only,masterpiece,best quality,detailed,  beard,  game_cg,lying, on back,open legs, detailed, intricate detail, (cum, cum on boy, cum on self,cum on legs, excessive cum, cum on pectorals, cum in ass, drenched in cum,cum on body,creampie:1.2),leaking cum,    (broken:1), highres ,<lora:TurboMaleV5_64:0.4>  <hypernet:EasyNegative:1> <lora:animePenisLORA_animePenisV3:.1>  <lora:animemale_v1_2-000010:.56>

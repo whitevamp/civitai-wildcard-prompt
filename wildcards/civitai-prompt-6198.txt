@@ -1,0 +1,9 @@
+realistic, detailed, realistic details, intricate detail, 8k, unity wallpaper, cgi, unreal engine, best illustration, masterpiece
+break,
+nsfw, 1girl, slender, small breast, long hair, black hair, petite, transparent white t-shirt, wet, sweat, detailed skin complexion, seductive face, thigh gap,
+break,
+detailed background, school gymnasium
+break,
+wide perspective, rule of third, depth and dimension, depth of field, proportion, light and shadow contrast,
+break,
+ <lora:C_RV:0.4>

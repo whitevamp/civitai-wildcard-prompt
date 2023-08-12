@@ -1,0 +1,6 @@
+(best quality, masterpiece, ultra high resolution),(photorealistic:1.37), (immersive atmosphere, chiaroscuro:1.5, bright light:1.2,luminous lighting),
+1girl, cute,slim,(pale skin,shiny skin),(looks at the viewer), very long hair,  (medium breasts), top fashion, detailed clothes, lace, sleepwear, small head,upper body, 
+night,(Floor-to-ceiling windows, city),
+(byDylanKowalski), steampunk,ornaments,prosthesis,clockwork,porcelain, pearl, holographic, titanium, diamond, ruby, sapphire, gemstones,
+<lora:OC:0.3>, <lora:add_detail:0.25>, <lora:LowRA:0.25>  
+ <lora:dylanKowalski:0.4>, <lora:hiqcg_body_epoch:0.6> <lora:tutu_20230530092930-000005:0.7>

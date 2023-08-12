@@ -1,0 +1,11 @@
+action shot of a white crusader spaceship on the ground, with passengers waiting to board, in a vibrant dystopian cyberpunk city at dawn
+view from below shot, dynamic angle, science fiction style,
+
+intricate details, highly detailed, high quality, sharp focus Professional photography, bokeh, natural lighting, cinema composition, film framing, dramatic sunset cloudy sky, J. M. W. Turner sunset, cinemascope, moody, Bronze indoors, Hazy conditions
+
+(masterpiece, top quality, best quality, beautiful and aesthetic:1.2), cinematic light, volumetric lighting, rim lighting, , lens flare, soft bokeh, by boris vallejo, by artgerm, science fiction, cyberpunk city, far perspective, art by Dan Dos Santos, art by Jean-Léon Gérome, Airbrush painting, Canon EF, 35mm, Vibrant Color,
+cinematic Rim illumination, epic, breathtaking, dramatic, completed artwork, sunset,
+<lora:offset_0.2:0.7> <lora:wowifierXL:0.3> <lora:Cloudify-SDXL:0.8> <lora:starcitizen-lora:1> <lora:SDXL Science Fiction :0.5>
+
+-------------------------
+Model: sdxlUnstableDiffusers_v4Grimorium

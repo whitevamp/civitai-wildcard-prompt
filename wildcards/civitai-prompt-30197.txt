@@ -1,0 +1,5 @@
+portrait, 
+Belleodd, 1girl, pony tail, brown hair, makeup, lipstick, looking at viewer, 
+medium breasts, collar bone, revealing shoulders, loose knit white sweater, 
+daytime, volumetric lighting, realistic, blurred background
+<lora:Belle_ODD:0.65>

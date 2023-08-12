@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1boy,  <lora:ninomaeInanisHololive_v1:0.8> ninoma ina'nis, tentacle hair, 
+ <lora:bandaidOn:0.8> bandaids on nipples, bandaid on pussy,

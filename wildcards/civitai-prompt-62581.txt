@@ -1,0 +1,1 @@
+high quality, , realistic photo movie still of   (swampstyle monster:1.1) (druid  wizard man:1.1) (wearing a tunic:1.2)  , in a (dark forest:1.2), close up  ,   , cinematic lighting,   high res,  insane details,   hyper realistic,   , masterpiece, 8k uhd,  <lora:epiNoiseoffset_v2:0.8> <lora:swampstyle:0.5>

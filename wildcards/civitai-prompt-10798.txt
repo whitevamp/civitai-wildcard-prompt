@@ -1,0 +1,4 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
+sexy, cleavage, 
+long pleated skirt, white shirt, park, full body,
+ <lora:3DMM_V7:1>

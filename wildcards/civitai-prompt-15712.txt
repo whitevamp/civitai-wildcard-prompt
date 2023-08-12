@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, 1girl, portrait, <lora:Sakura[Boruto]V2:0.6>, haruno sakura, side bangs, forehead mark, red hairband, pink medium hair, green eyes,  puffy lips, <lora:constricted_pupils_v0.2a:1>, constricted pupils, wide-eyed, open mouth, :o, parted lips, surprised, tears

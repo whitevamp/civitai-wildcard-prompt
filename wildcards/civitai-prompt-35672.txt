@@ -1,0 +1,2 @@
+remove extra nipple, osira
+ <lyco:GoodHands-beta2:1.0> <lora:Erect Horse Penis:1> <lora:FELLATRIX:.5> <lora:minotaur_v0.1b:1> <lora:orczor_v4.0:1> <lora:osira:1.2>

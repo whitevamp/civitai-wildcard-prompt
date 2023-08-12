@@ -1,0 +1,2 @@
+1girl, 16k, best lighting, best quality, ultra high res, ultral detailed face and eyes, (photorealistic:1.4), 18 years old girl, ((gym background)), ({black|white|green} yoga pants:1.2), (light grey:black hair:1.4), looking at viewer, smiling, cute, small ass,(long legs),small breasts, narrow waist, <lora:breastinclassBetter_v141:0.3>, ulzzang
+ <lora:cuteGirlMix4_v10:0.3> mix4, perky nipples,  pureerosface_v1:0.3,  ulzzang-6500-v1.1:0.001

@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl,long_hair,light smile, blunt bangs,looking at viewer,selfies,cowboy shot,(shot_hair:2),(Boho_printed_dress:1.5),(Straw_wedge_sandals:1.4),(Beaded_bracelets:1.3),
+(realistic:1.5), cinemagraph,<lora:2023-05-26_114104:0.6> <lora:BeautyNwsjMajic2-01:0.4>

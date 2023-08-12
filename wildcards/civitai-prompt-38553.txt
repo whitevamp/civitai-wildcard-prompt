@@ -1,0 +1,1 @@
+vivid tone,best shadow,1girl,upper body,(Light on the face:1.2,bright lighting),(bunny girl),Hip,(slim),white hair,rabbit ears,bad-girl,(closed mouth:1.2), (long hair), (bedroom),stately, character focus, cleavage,(long legs:1.3),(huge breasts:1.1),low key,<lora:lowra_v10:0.4>, <lora:add_brightness:0.2>,

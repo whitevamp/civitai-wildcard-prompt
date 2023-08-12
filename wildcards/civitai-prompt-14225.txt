@@ -1,0 +1,1 @@
+photorealistic, (hyperrealistic:1.2), beautiful, masterpiece, best quality, perfect lighting, <lora:derpd - DerpdeedooStyle:1>, derpd,      mask, horns, cloak, faceless, katana, holding sword,  detailed hands and fingers,

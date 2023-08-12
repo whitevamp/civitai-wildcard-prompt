@@ -1,0 +1,1 @@
+(waist up:1.2) (male:1.4), wide shoulder, big shoulder, scar, mascular, bodybuilder, ancient chinese background, half naked, kungfu, masterpiece, best quality, highres, Man with long black hair,young,Handsome face,(Lateral face) ,solo,sad  <lora:GFman:0.6>

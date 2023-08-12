@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, outdoors, day, street, hand on hip, :o, from side, looking at viewer,
+mizuki yukikaze, hair ribbon, school uniform, green shirt, serafuku, pleated skirt, black skirt, black thighhighs, (white neckerchief), long sleeves, <lora:MizukiYukikazeV1_1:1>,  <lora:more_details:0.3>

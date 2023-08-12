@@ -1,0 +1,3 @@
+masterpiece,4K,best quality,absurdres, white background ,smiling,(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, colorful, highest detailed, (watercolour painting:1.3), optical mixing, playful patterns, lively texture, rich colors, unique visual effect, (masterpiece, top quality, official art), (light painting), (long exposure:1.2), dynamic streaks, extreme detailed, black paintings, red and black, candid moments captured, slumped, draped, 
+hc_gown, a woman wearing a chic blue dress decorated with shiny jewels, cowboy shot,
+<lora:edgHC_GOWN:0.75>

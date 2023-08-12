@@ -1,0 +1,1 @@
+girl, cow bikini, <lora:cowBikiniClothes_v10:1>, <lora:exMicroBikini_v1:0.8>

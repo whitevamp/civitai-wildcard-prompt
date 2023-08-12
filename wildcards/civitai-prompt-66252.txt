@@ -1,0 +1,1 @@
+(1girl:1.5), full body, MarsAttacks!, <lora:MarsAttacks:1.8> (MarsAttacks! 1950's sci fi poster art forbidden planet style UFO bridge:1.3), giant robot, <lora:koreanDollLikeness:0.5> <lora:fashionGirl_v50:0.4> <lora:nwsjmajic-10:0.3> war,skeleton, (science fiction:1.5),

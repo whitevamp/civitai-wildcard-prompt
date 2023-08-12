@@ -1,0 +1,2 @@
+<lora:clarice53:0.6> wearing purple dress
+ <lora:ckrdress-fc-v2:0.2> ckrdress-fc, cleavage, choker

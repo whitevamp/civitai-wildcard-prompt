@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed),
+milim nava, <lora:MilimNavaMerge1:0.7>

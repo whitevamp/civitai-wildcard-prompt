@@ -1,0 +1,7 @@
+High Detail RAW color Photo,hyperrealistic,digital painting,wide shot,Full Shot,(lens flare:0.5), (bloom:0.5), portrait,(highly detailed, fine details, intricate), incredibly absurdres,(luxurious  cyberpunk:1.4,Dystopian,sci-fi),  concept art,ornate,
+1girl,Lucy \(cyberpunk\),(cute female arterial intelligence,robot, cyborg:1.5),HQ, angelic,grey eyes,asymmetrical hair,toned physique,slender,(pale skin),(detailed skin, diffused skin pores),pov (seductive pose),(breasts out:1.3,medium breasts),small areolae,pink nipples,((spread legs)),large ass, (Pudendal exposure,vulva),erotic (suggestive pose),(sex toy,dildo:1.4,(squatting,bottomless)),(looking at viewer),sweat,wet body,trembling,Panting,open mouth,drooling saliva,puffy nipples,(enjoy:1.4)(female ejaculation),pussy juice,
+(robotic parts,augmentations,mechanical arms, mechanical legs,silver halmet),decorations, embellishments,hard edge,(cybernetic implants:1.4,cable electric wires, microchip,metal,silicone),belt,(shiny tight soft light suit),(wearing see-through white chemise),covered navel, detached sleeves,hip vent, open jacket,metallic bone exposed,
+breathtaking,outdoors, (in surreal planet Raphael Lacoste),night, (electricity, bright neon colors,sprawling cyberpunk city skyline), turbulent storm, rain,smog,tendrils, spirals,  dust,(flying ships), (badlands, observitory)
+<lora:pureInnocentGirl_v20:0.3><lora:koreanDollLikeness_v20:0.3>,
+<lora:ridingDildoSexActLora_v10:0.6>,
+<lora:murkysAfterSexLying_1:0.3>,

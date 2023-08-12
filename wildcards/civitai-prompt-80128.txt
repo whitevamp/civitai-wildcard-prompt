@@ -1,0 +1,1 @@
+1 girl  ,all fours,(top-down_bottom-up), from above, looking up <lora:AllFoursFromAboveV1:0.9>, masterpiece, high quality, best quality, beautiful, perfect lighting, detailed face, detailed body,, (((photorealistic, hyper-realistic, RAW photo:1.2))), intricate details, 8k uhd, perfect face, perfect eyes,, <lora:starlightFromTheBoys_v10:0.8>,starlight

@@ -1,0 +1,14 @@
+(ultra realistic 8k CG:1.2),perfect artwork,delicate pattern,intricate detail, cel shading,
+(unparalleled masterpiece,best quality:1.2),(extremely intricate:1.2),70mm telephoto lens,
+-------------------------------
+kpop idol,korean beauty,korean mixed,
+(1girl,solo:1.2),woman,girly,bright eyes,(wet skin,nsfw:1.1),
+(absurdly long hair:1.4),Floating hair,wind,gale,hair accessories,
+-------------------------------
+(silk and Ribbon in front:1.3),earrings,filigree,detached sleeves,wide sleeves,
+(see through clothes,translucent clothes,armlet:1.2),(revealing clothes),jewelry,
+(cleavage,bare shoulder,strapless,Simple Choker,tube dress,no bra:1.1),
+-------------------------------
+(sky,idle animation,simple background,Leaves and plant in front :1.2),
+-------------------------------
+ <lora:meishaonv:1:fz1>,(meishaonv,gun:1.1)

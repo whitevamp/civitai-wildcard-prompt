@@ -1,0 +1,2 @@
+1girl,solo,garden, a lot of peach blossom, a sea of flowers, , black hair, delicate and beautiful features, perfect body proportion, long legs, realistic,Detailed beautiful delicate eyes, DOF, beauiful woman,pink eyes, hanfu, ming style, (white hanfu), , looking looking looking at viewer,8K Ultra Detailed,High quality texture,detailed texture,finely detailed,high detail,extremely detailed cg,High quality shadow,beautiful face,Detailed beautiful delicate eyes, DOF, (silver hair:1.4), (hair flower:1.4),smile,
+ <lora:koreanDollLikeness:0.7>

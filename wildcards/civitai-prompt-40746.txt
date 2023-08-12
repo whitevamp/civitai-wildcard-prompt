@@ -1,0 +1,1 @@
+(dynamic pose:1.2),(dynamic camera),close-up an handsome Tom Cruise ,perfect eyes , (in a worn mecha exosuit),(bokeh:1.2), intricate, (steel metal [rust]), elegant, sharp focus, soft lighting, vibrant colors, ((streets)), detailed face, <lora:LowRA:0.15>, RAW photo, full sharp, wallpapper 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

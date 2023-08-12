@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, beautiful and aesthetic:1.2), 1girl, solo,  extremely detailed, highest detailed, brown hair,white shirt, blue skirt, blue sky, roma city, roman holiday,shiny skin, 
+looking at viewer,Audrey Hepburn, , walking, hepburn hairstyle,  <lora:add_detail:0.3> <lora:666:0.6> standing rooftop, from above, smile,

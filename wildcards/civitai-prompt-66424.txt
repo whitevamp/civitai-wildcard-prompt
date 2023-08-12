@@ -1,0 +1,3 @@
+electric fan,  crew, airplane, clothes lift, floating hair, hot, closed eyes, from below, close-up,  female pubic hair,  open mouth, vaginal view, super long hair, 
+absurdres, highres, best quality, stewardess, uniform, skirt, 1girl, standing,  high heels (panty pull:1.5), lifted by self, pussy, closed eyes, large breasts,
+<lora:RussianStewardess_v10:1> <lora:electric-fan:1> <lora:inniesBetterVulva_v11:0.2>

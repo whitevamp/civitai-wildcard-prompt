@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Build a stunning, ultra-detailed masterpiece, (  wearing  Indoor jacket leggings ), Luminary, Tall, Firm, Heart-Shaped Face, Olive Skin, Strawberry Blonde Hair, black Eyes, Wide Nose, Thick Lips, Prominent Chin, Long Hair, Curly Hair, Fishtail Crown Braid, saggy breasts, Hoop earrings, golden stain lipstick, Pastel Painting, enigmatic, Haze,
+ <lora:sxz-style-niji:0.4>

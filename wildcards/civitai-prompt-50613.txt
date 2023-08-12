@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.37),(1girl in bathroom with bikini), miniature, landscape,  (isometric), in a bottle <lora:miniature_V1:0.8>

@@ -1,0 +1,1 @@
+beautiful, masterpiece, best quality, hiqcgbody, anime, 1girl, sam yang, olympic swimmer, competition swimsuit, portrait shot, looking at viewer, partially submerged, outdoor pool, wet skin, intricate details,<lora:hipoly3DModelLora_v10:0.5> <lora:samdoesartsSamYang_normal:0.5>  >

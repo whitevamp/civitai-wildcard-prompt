@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,
+1girl,backless black dress,(playing piano:1.2),sitting,chair,(Entranced:1.3),realistic,dim light,light beam,performance,(god rays:1.1),(floating papper:1.3),music score,(floating long hair:1.2),closed eyes,Black high heels,blury,<lora:classic_piano-10:0.7>, floating clothes,,hell,lava,fire,

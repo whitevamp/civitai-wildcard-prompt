@@ -1,0 +1,1 @@
+LoRA weight: 0.6 (UNet: 0.6, TEnc: 0.25),[realistic], [3d], (3dcg), ((octane render)), [fisheye] in positive prompt for realism,simple background, grey background in negative prompt,purple gradient hair,ahegao,Booty shorts,Crop top sweater,off-shoulder, open mouth,stick out tongue,plump body,naughty body,((heart eyes:1.2)),<lora:figmaAnimeFigures_figma:1>

@@ -1,0 +1,3 @@
+grainy, evening,natural light,
+BREAK
+illustrated cat ANIMAL CAT ANIMAL CAT I WANT CAT GIVE ME CAT CAT CAT CAT, <lora:InequalitySignSmileyExpression:1.0>, (> <:1.3), :d,

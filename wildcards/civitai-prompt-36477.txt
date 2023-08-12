@@ -1,0 +1,6 @@
+(hoshino yumemi:1.2), planetarian,  art by komatsu eiji
+BREAK 1girl, solo, blue very long  floating twintails hair,  green eyes, full body
+BREAK blue dress with red necktie and ribbon, screencap, neon trim, ,blue footwear, long sleeves, blue long open skirt with extra long side pieces
+BREAK own hands together,looking up
+BREAK outdoors, planetarium ,cloudy sky
+BREAK intricate detail, smooth, masterpiece, hyper detailed, illustration,  <lora:add_detail:0.45>

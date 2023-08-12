@@ -1,0 +1,3 @@
+best quality, masterpiece, 8k, ultra high res, (photorealistic:1.4), highly detailed, intricate detail, delicate and beautiful, good lighting, professional lighting, sharp focus, detailed shadows, exquisite details and textures, depth of field, unity 8k wallpaper,
+Dark background, swirling clouds and smoke, a beautiful girl, traditional Chinese costume jewelry, floral patterns, dark Hanfu, elaborate costumes, traditional costumes, eye-catching details, best quality, dim lighting, (nudity:1.5), flowers,(big breasts:1.2),full body, 
+<lora:zhongfenghuaxiyou:0.45> <lora:OilPaint:0.35>   <lora:kVoidEnergy:0.65>  <lora:anxiang:0.45>  <lora:OC:0.2>

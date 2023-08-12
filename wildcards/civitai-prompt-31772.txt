@@ -1,0 +1,2 @@
+a man, closeup, art, nty, drawing,  miniature, 
+ <lora:Test1:0.88>     <lora:fedor1:0.76>

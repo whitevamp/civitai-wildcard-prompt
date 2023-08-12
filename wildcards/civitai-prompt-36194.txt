@@ -1,0 +1,1 @@
+(only sky background:1.4), highres, masterpiece, perfect ligthing, spread (legs:1.1), (from below:1.4), cinematic lighting,  young, silver hair, white sheer bodysuit, wet_clothes, see-through, (RSEEmma:1.3), <lora:GlossyFace:0.3>, bright eyes, bun hair, frightened, (smiling:0.3), looking at the viewer, (stockings:1.2)

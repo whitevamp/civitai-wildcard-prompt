@@ -1,0 +1,4 @@
+(bbc-facial, hand on another's head), 1girl, long hair, blue eyes, Caucasian woman, brown hair, 1boy, medium breasts, nipples, hetero, nude, penis, solo focus, cum, mole, lips, uncensored, testicles, cum on body, facial, male pubic hair, cum in mouth, realistic, after fellatio, beautiful face, seductive face, seductive look, beautiful skin, perfect skin, perfect face
+ <lora:add_detail:0.3> 
+<lora:bbc-facial:0.65>
+<lyco:locon_perfecteyes_v1_from_v1_64_32:1.0>

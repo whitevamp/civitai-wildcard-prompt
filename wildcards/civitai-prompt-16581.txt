@@ -1,0 +1,2 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>(photorealistic:1.35)
+<lora:add_sharpness:0.75> <lora:more_details:2>

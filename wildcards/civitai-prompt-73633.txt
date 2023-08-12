@@ -1,0 +1,3 @@
+detail,
+<lora:wet_white_shirt.v1.0:1> <lora:MultipleGirlsGroup:1>2girls,dotted with,  breast,   hair,  wet blue shirt, wet skin, wet hair, 
+pool, close-up, sunlight,

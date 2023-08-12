@@ -1,0 +1,1 @@
+embarrassed, detailed beautiful face, (beside window:1.2), girls, dating in a cafe, cinematic light, smile, sunlight from the window, light aura, bokeh,  <lora:FilmVelvia3:0.5>   <lora:GoodHands-vanilla:2>

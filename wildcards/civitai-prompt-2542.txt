@@ -1,0 +1,6 @@
+realistic, 1girl, beautiful eyes, parted lips, blush, makeup, light smile, (bikini:1), lake, (flower field background), flower petals flying, sky, beautiful sky, colorful sky, clouds, trees, sweat skin, wet skin, light rays, glow, thighs, collarbone, narrow waist, (masterpiece), wallpaper, sexy pose, (abs:0.7)
+white hair,
+long hair ,
+white eyes ,
+happy ,
+at noon, <lora:LUMI06:0.3> <lora:koreandolllikenessV20_v20:0.3> <lora:zl_2023-05-18_133642-000001:0.3>

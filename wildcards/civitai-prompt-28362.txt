@@ -1,0 +1,2 @@
+masterpiece of glass sculpture with plants inside, water, glowing, fantasy, high quality, high detail, best quality, rtx, 4k, 8k,
+ <lora:add_detail:1>, (masterpiece,best quality:1.5)

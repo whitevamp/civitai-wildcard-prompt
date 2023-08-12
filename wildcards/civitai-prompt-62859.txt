@@ -1,0 +1,3 @@
+a 3/4 front view of ((futuristic cyberpunk muscle car)) (with glowing tires), (zeekars:0.7)
+
+Model: RealisticVision

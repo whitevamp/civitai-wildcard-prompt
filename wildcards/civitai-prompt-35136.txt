@@ -1,0 +1,7 @@
+1 girl, cowboy shot, (soft focus:1.5) on the Foreground, (Bokeh-filled Foreground:1.2), Shallow Depth of Field, Delicate Blur, Subtle Transitions, Depth and Atmosphere, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality
+BREAK
+1 girl, blonde hair
+BREAK
+1 girl, (Pikachu crop top), <lora:Pokemon_croptop:1:MIDD>
+BREAK
+1 girl, (white skirt:1.2)

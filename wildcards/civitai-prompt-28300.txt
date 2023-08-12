@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:tow-concept-richy-v2:1> towlauncher, aiming, standing, leaning forward, <lora:genshinfull1-000006:1>, noelledef

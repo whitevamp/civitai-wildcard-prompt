@@ -1,0 +1,11 @@
+best quality, intricate details, full body, standing, cute pose, smirking, evil look,  
+
+1girl, long hair, red hair, messy hair, red highlights, hair over one eye, blue eyes, sharp eyes,sharp teeth, fiery eyes,
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>  
+
+ <lora:strapOnDiffusionNow_v102:0.8> strapon penis, 
+
+background is a bedroom, clutter, bed, anime figures, bookshelf, video games, computer, chair,

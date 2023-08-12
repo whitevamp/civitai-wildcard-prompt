@@ -1,0 +1,1 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:eager_pet_pose_v1:1>eager pet pose,1 woman, (large breast, embarrassed , (blush:1.1),forehead, big messy black hair,  glasses),

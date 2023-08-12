@@ -1,0 +1,2 @@
+masterpiece, best_quality, 1girl, dark-skinned_female, blonde_eyes, red_eyes, large_breasts, gyaru, makeup, shorts, denim_shorts, crop_top, navel, midriff, toned, (abs:0.8),
+<lora:samdoesartsSamYang:0.4> <lora:pastelmix-lora:0.3>

@@ -1,0 +1,4 @@
+beach, sand, horizon, highly detailed, absurdres, masterpiece
+AND shinomiya kaguya, 3girls, wet, red eyes, black hair, smile, closed mouth, small breasts, looking at viewer, standing, hair ribbon, swimsuit, highly detailed, absurdres, masterpiece, <lora:love is war:0.8>
+AND fujiwara chika, 3girls, wet, blue eyes, pink hair, smile, closed mouth, pink hair, looking at viewer, standing, hair bow, swimsuit, highly detailed, large breasts, absurdres, masterpiece, <lora:love is war:0.8>
+AND hayasaka ai, 3girls, wet, blue eyes, blonde hair, smile, closed mouth, blue scrunchie, looking at viewer, standing, one-piece swimsuit, highly detailed, breasts, absurdres, masterpiece, <lora:love is war:0.8>

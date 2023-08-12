@@ -1,0 +1,1 @@
+raw analog, [Babylon 5]  <lyco:UFOMaker:0.4> , flying, plasma engines, Anti-universe, cinematic, rimlight, misty, red dusty dramatic clouds, sun low on horizon  <lyco:Cloudify:0.25> <lora:entropy-alpha:0.1> <lora:LowRA:0.5> green yellow light, ultra detailed, Hyperrealistic, sharp focus, octane render

@@ -1,0 +1,7 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,
+1girl,solo,
+greenhouse,
+outdoor,
+Adaptability,
+ruin, crumbling, forlorn,
+<lora:LowRAv2:0.6>  <lyco:GPTS7 comic_443703:0.4>

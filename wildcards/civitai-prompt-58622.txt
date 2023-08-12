@@ -1,0 +1,1 @@
+1girl,  full body, scylla，Volumetric Lighting, Best Shadows, Shallow Depth of Field, Stunningly Beautiful Girl, Petite, Delicate Beautiful Attractive Face，masterpiece, best quality,      <lora:xishisFmvpSkinInHonor_v10:1>

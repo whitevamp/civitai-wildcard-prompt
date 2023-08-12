@@ -1,0 +1,5 @@
+Best quality, masterpiece, ultra high res, (photorealistic, detailed face :1.4), 1girl, deep shadow, shiny skin, smile, 
+medium breast, slim leg, 
+filmg2, 
+<lora:FilmG2:0.6> 
+ <lora:yurisaLora_v40:0.3> <lora:sexylegs_v10:0.3> <lora:HaremDancer_v1:0.3> <lora:breastinclassBetter_v141:0.3>, As she continues sprinting through the rainforest, the young female spy is dressed in all black, from the combat boots to her sleek braid

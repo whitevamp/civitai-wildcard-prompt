@@ -1,0 +1,1 @@
+masterpiece, best quality, hapi_academy, white jacket, crop top, amulet, white skirt, cowboy shot, garden, exasperated, sigh, open mouth, closed eyes, (dark skin:0.8) <lora:hapi-nvwls-v3-000014:0.9>

@@ -1,0 +1,3 @@
+1girl, solo, Hoshino Ai, long hair, purple hair, streaked hair ,purple eyes, star-shaped pupils, hair ornament, pink theme, stage lights, pink dress, no shadow facial, no bra, narrowed eyes, wet clothes, glowing eyes, see-through skirt, 
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),  quality, masterpiece, (photorealistic:1.4),
+<lora:HoshinoAi_v9-000007:1>,

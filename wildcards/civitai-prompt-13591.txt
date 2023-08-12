@@ -1,0 +1,2 @@
+a 20 yo woman, outdoors,smile,  assertive female, {yellow|purple|red} hair, 
+(hi-top fade:1.3), dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp) <lora:A-RandomSuper[mecha musume,mechanical parts,super robot joints,headgear,full armor]:1>

@@ -1,0 +1,4 @@
+ultra detailed,masterpiece,photorealistic,sharp details,8k,octane render,
+(adorable kawaii 1girl:1.2), purple eyes, angry, agressive,(sfw:1.3),cute dress,(demon tail:1.2),(small skinny body),
+(simple white background:1.4),
+<lora:Kizuki - To Love Ru - Momo Velia Deviluke:0.8>,MOMO VELIA DEVILUKE,bob cut,short pink hair, hair ornament,

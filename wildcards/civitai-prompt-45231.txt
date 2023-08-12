@@ -1,0 +1,1 @@
+long_hair,  1girl,  solo,<lora:HairCensorV1-000008:1>,hair censor, ((mermaid)),sitting,red hair, topless

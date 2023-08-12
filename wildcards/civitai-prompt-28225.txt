@@ -1,0 +1,1 @@
+highres, <lora:Style-add_detail:1>,High quality,(Beautiful), ((masterpiece)),vibrant colors, solo,1boy, male focus, manly, muscular, muscular male, red hair, solo, spiked hair,shirtless, from behind, <lora:YujiroV1.5:1>

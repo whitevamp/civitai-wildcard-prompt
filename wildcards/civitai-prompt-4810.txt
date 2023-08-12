@@ -1,0 +1,5 @@
+(masterpiece, best quality), intricate details, (Best quality)), ((masterpiece)), ((realistic)), (hyperrealism:1.2), (fractal art:1.2), 
+1girl,   <lyco:ffvii_tifalockhart-10:0.8>7rtifa, crop top, arm guards, fingerless gloves, suspenders, pleated miniskirt, black thighhighs, red boots 
+extreme detailed eyes, colorful, highest detailed, 
+vibrant colors, high contrast,
+<lora:add_detail:1>, (8K UHD:1.2), (photorealistic:1.2),

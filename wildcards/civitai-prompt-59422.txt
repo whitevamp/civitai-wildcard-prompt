@@ -1,0 +1,2 @@
+(VeronicaCipher:0.5) Best quality, masterpiece, ultra high res, (photorealistic:1.4), 1girl, offshoulder, in the dark, deep shadow, low key
+ <lora:FilmgirlLora_v30:0.6> <lora:epiNoiseoffset_v2:1>

@@ -1,0 +1,6 @@
+portrait of a human male wizard,
+a young wizard stands tall with his staff held high, conjuring an array of magical energies around him. He wears an naked robe with shimmering jewels and revealing his penis, and a pointed hat adorned with a golden emblem. His youthful face is filled with determination, as he focuses his magical energy onto his staff. In one hand, he holds a glowing orb of arcane energy, while in the other hand, he wields his staff, which crackles with lightning. The background is a fantastical landscape filled with lush greenery, cascading waterfalls, and majestic mountains, all illuminated by a warm, golden sun,
+
+
+fantasy, magic,  casting a spell, arcane, sancturary, detailed background, epic, arcane background,
+bara, (penis:1.05),(frenulum,glans,testicles,erection:1.06)  ,(mage robes:1), staff,       muscular man,  cowboy shot, frontal view,facing viewer,straight on,full frontal, looking at viewer,male focus, male only,masterpiece,best quality,detailed,  beard, short hair, mature male, game_cg,  standing ,  intricate detail,smooth, ,     <hypernet:EasyNegative:1>,  <lora:TurboMaleV6_64:.9> <lora:animemalet-000014:.6> <lora:animePenisLORA_animePenisV3:.15>

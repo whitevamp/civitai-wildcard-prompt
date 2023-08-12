@@ -1,0 +1,1 @@
+nahida_genshin, cross-shaped pupils, default_dress, green cape, dramatic lighting,   holding a gun, AK47, cowboy shot,aiming gun, <lora:bettergunAK47WIP_betaWIP:0.7>  <lora:yetAnotherNahidaGenshin_nahidav3:1>

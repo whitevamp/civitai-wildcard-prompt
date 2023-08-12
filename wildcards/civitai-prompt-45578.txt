@@ -1,0 +1,1 @@
+<lora:Moxin_10:0.6> ,<lora:Moxin_Shukezouma10:0.65>,<lora:elegantHanfuRuqun_v10:0.4>,masterpiece, best quality, official art, 8k wallpaper, highly detailed, illustration, 1 girl, pink hair, long hair, detailed eyes, forrest, bare shoulders, hanfu,lakes, pure, soft smile,bamboo

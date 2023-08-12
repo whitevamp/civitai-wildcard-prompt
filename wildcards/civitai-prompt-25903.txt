@@ -1,0 +1,1 @@
+<lora:anime pose(final):1.5>full body, anime pose ,white background,sketch, light gray shadows, light setting, spotlight, from behind, glossy skin

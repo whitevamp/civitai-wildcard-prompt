@@ -1,0 +1,5 @@
+Style-Japan, structurezoov15, southofthebordersd15,  kkw-hdr, 
+<lora:methurlant:1> methurlant, 
+<lora:AllPunk:0.5> AllPunk,
+<lora:KK_Container_building_v1:0.75> container building, 
+<lora:add_detail:1> <lora:add_sharpness:1> <lora:tangbohu-detailer_1.0:1> <lora:epiNoiseoffset_v2:1>

@@ -1,0 +1,7 @@
+1girl,ultra high res,8k,(best quality, masterpiece:1.2),ultra-detailed,full body,portrait,style of a idol,(pleasure face:1.3,enchanting smile),cinematic light, professional lighting,(ultra realistic,photo-realistic:1.3),realistic skin texture,detailed skin texture,((nsfw)),(fair skin:1.2,Soft and tender skin),
+<lora:fashionGirl_v45:0.2>,<lora:cuteGirlMix4_v10:0.6>,((ass, from behind)),
+nurse,light pink hair,short hair,(charming blush,alluring red lip),(slim body),medium breast,slim hip:1.3,thin thighs,(full legs:1.2),
+pov (seductive pose),opened clothes,(breasts out:1.4),small areolae,pink nipples,(skirtlift,Pudendal exposure,vulva),
+erotic (suggestive pose),(looking at viewer),sweaton full-body,trembling,Panting,open mouth,drooling saliva,puffy nipples,(enjoy:1.5)
+<lora:skirtliftTheAstonishing_skirtliftv1:0.6>,((bottomless,dildo, sex toy,squatting)),((spread legs)),<lora:ridingDildoSexActLora_v10:0.7>,
+(nurse uniform:1.3(underboob),lace-trimmed fishnet,High heels),hair ornament,(choker),jewelry,necklace, earrings, diamond,bracelet,rings,in the hospital,ward, clinic,

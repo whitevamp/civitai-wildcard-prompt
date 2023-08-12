@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), indoors, changing room,
+<lora:AsukaV1-000016:0.8>, souryuu asuka langley, interface headset, red bodysuit

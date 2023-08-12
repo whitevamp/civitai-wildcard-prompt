@@ -1,0 +1,1 @@
+masterpiece, best quality,cgi, (realistic), extreme detail, 8k, 1girl, perfect face, extreme detail,  <lora:RHG:1>,red intricate RHG with embroidery, young beautiful woman walking in forest wearing RHG, cape, hood, (werewolf) in background <lora:werewolf_v0.2:1.1>

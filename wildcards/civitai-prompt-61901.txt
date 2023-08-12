@@ -1,0 +1,1 @@
+(extremely detailed, 8k, wallpaper:1.2), wonderfull landscape, ruined village atmosphere, dark ambiance, high details, volumetric light, thunder sky <lora:lowra_v10:0.3>

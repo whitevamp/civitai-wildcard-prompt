@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, indoors, prison, dark, sitting, knees up, handcuffs, from above,
+shiraki meiko, striped, midriff, prison clothes, glasses, hair bun, penSketch_style, monochrome, ink sketch, <lora:ShirakiMeikoV21-000004:1>, <lora:pensketch_lora_v2.3:0.7>

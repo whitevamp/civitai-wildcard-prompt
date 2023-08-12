@@ -1,0 +1,14 @@
+Aesthetic: ((retro-futurism, nostalgia, vintage, futuristic, past, throwback):1.4)
+BREAK
+Composition: <lora:spp_spreadpussy-W-V1:0.2> realspreadpussy, stretching pussy, open pussy, uncensored, 1girl, spreading legs, showing pussy, NSFW, nude, naked, lying, on back, from front,, perfect face, perfect eyes,, perfect pussy, perfect body, huge breasts wearing clothes, crop top, naked pussy, exposed pussy  ((pussy))
+BREAK
+Lighting: Bright Daylight, Sunny, Cheerful
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

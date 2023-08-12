@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.2),(highres),(from below:1.2),selfie,(red moon:1.2),looking at viewer,
+1girl,standing,elegant ,silhouette ,short stature,(teenage:1.1),smile,closed mouth,one Scythe,
+<lora:renne-nvwls-v1:0.8> renne_sen,(large Scythe:1.2),(medium hair:1.1) , white gothic,hair ribbon,shirt, long sleeves, white skirt, thigh band, cross-laced boots,
+night,old castle,Bat flying,(purple fire:1.4),abstract,(mist:1.2),fog,
+<lora:anime_minimalist_v1-000020:-0.5>,
+<lora:flat2:-0.5>,
+<lora:LowRa:0.4>

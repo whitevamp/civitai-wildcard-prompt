@@ -1,0 +1,5 @@
+a woman <lora:povFacesitting:0.5> povsitting, view from below, (black jal uniform:1.3), panties, upskirt,
+a woman in a uniform standing between passenger seats,
+8k, 4k, uhd, masterpiece, extremely detailed
+ <lora:lowra_v10:0.2> night, dark theme 
+ <lora:jaluniform_lora-10:0.9>

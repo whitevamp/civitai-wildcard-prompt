@@ -1,0 +1,1 @@
+masterpiece,1girl, <lora:riju_zelda-08_v3:1> riju_zelda, (hair rings, long hair)

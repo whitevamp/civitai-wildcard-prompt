@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharp focus, colorful, 
+SaekiSayoko, mature female, milf, (1boy:1.2), male focus, (breast smother, head between breasts:1.1), hug, 
+[brown|purple|black] hair, long hair, hair ribbon, hair bow, ponytail, choker, makeup, perfect face, detailed face, blue eyes, perfect eyes, smile, happy,
+(nude:1.1),
+curvy, huge breasts, cleavage, ass, thighhighs,
+ <lora:SaekiSayoko-000010:0.5>   <lora:breasts_smother_v0.1:0.9>

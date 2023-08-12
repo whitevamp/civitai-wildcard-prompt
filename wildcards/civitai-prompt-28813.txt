@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, absurdres, 1boy,  Cloud Strife, crossdressing, twin braids, male focus, frilled dress, hair bow, HowDoYouDoFellowKidsMeme, holding, skateboard, holding skateboard, <lora:cloudstrife-nvwls-v1:0.8>, <lora:HowDoYouDoFellowKidsMeme:1.0>, ((smirk))

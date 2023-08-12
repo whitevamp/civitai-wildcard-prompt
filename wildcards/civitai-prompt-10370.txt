@@ -1,0 +1,2 @@
+1 girl, solo, cyberhanfu, long sleeves, chinese_clothes, in red and black, cyberpunk city, dynamic pose, Headdress, hair ornament, long hair, cyberpunk, a high-tech city, full of machinery and futuristic element, futurism, technology 
+<lora:cyberhanfu_20230617014620-000010:0.8>

@@ -1,0 +1,4 @@
+analog style, model shoot style, photo ((close portrait:1.4)) of a girl, 1girl, (albino girl:1.5, long white hair), (shiny body, smile),
+((cute face: 1.7, perfect face:1.5)), (best quality:1.5, hyperrealistic:1.5, photorealistic:1.3, Madly detailed CG unity 8k wallpaper:1.5,
+masterpiece:1.3, Madly detailed photo:1.2), (hyper-realistic lifelike texture:1.4, realistic eyes:1.2), (octane render, unreal engine 5),
+(ecstasy of light and shadow:1.5, deep shadow:1.5), (sony a7, 50 mm, film grain:1.5, 4K UHD HDR), (photo by lee jeffries, greg rutkowski and magali villanueve)  <lora:Better_Portrait_Lighting:0.5>

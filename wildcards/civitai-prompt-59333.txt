@@ -1,0 +1,7 @@
+8k raw photo of a naked  muscular man, cowboy shot, (flaccid penis:1.1), blue eyes, sunset, beautiful landscape,
+digital painting, game_cg,
+standing,
+facial hair,
+1boy, solo,
+muscular man,  male only,masterpiece,best quality,detailed,  beard,   detailed, intricate detail,  highres ,
+<hypernet:EasyNegative:1>       <lora:superFlaccidPenis_v20:.69>  <lora:bulkedupAIHugeMuscles_bulkedupAIR15:.4> <lora:128dimTurbomaleV7_128:1>

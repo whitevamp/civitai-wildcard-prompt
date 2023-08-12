@@ -1,0 +1,1 @@
+muscular man wearing baggy jeans and hoodie, commandforce sneakers <lora:commandforce_v0.1:1> <lora:osirisd3_v7a:0.7>

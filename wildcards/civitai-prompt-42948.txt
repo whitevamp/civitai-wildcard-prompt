@@ -1,0 +1,3 @@
+Masterpiece, 1girl,
+(woman, solo, sexy, gorgeous, elegant, (slim:1.2), (nsfw, naked, nude), seductive smile, red eyes, eyelashes, puffy lips, red hair, hair over one eye, straight hair, makeup, smooth body, soft skin, large breasts, bare breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>, BREAK covering breasts, hands on own breasts, parted lips, BREAK looking at viewer, concrete wall
+<lora:MilaAzul_1.0:0.5>

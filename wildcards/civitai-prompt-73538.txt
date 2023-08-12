@@ -1,0 +1,1 @@
+masterpiece, best quality, girl, <lora:Healing:0.6>,animals, <lora:papercraft,:0.5>,chibi,dark night,outdoor

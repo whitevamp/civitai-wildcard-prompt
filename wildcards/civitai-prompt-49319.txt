@@ -1,0 +1,5 @@
+illustration,unparalleled masterpiece, highres,ultra realistic 8k CG, perfect artwork, official wallpaper, official art,volumetric lighting,soft lights,cinematic lighting,cinematic effects,Megapixel,Intricate details,perfect female figure, mature female,
+
+(detailed face: 1.3), ((perfect female figure)), milf, narrow waist, small breasts, black hair,hair pulled back, Folded tied hair,simple diamond earrings,detailed skin, Slim Body,
+nsfw,nude,
+ <lora:lora-hanfugirl-v1-5:0.8>,hanfu

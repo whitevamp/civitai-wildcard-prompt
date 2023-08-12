@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (close-up shot:1.2), 1girl, <lora:POVBREASTGRAB_V2_b_:0.9>, 1boy, guided breast grab, guiding hand, pov hands, closeup shot and male grabbing breasts,
+ <lora:erza_v1:0.8>, fairy tail, 1girl, long hair, red hair, ponytail, white ribbon, hair over one eye, brown eyes, large breasts, collarbone, chest sarashi, bandage, bare arms, midriff, red hakama, red pants
+standing, in the bar,

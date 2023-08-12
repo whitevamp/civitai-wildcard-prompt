@@ -1,0 +1,1 @@
+<lora:NijiExpressV2:0.8>,  <lora:add_detail:0.5>,(panorama,landscape:1.2),(underground city,underground,:1.2) ,waterfall, ruins, masterpiece, best quality, highly detailed, (8k), (4k), HDR, bilgewater,   gl0w1ngR, glowing mushrooms, hydrotech , scifi,  <lora:HydroTech:0.9>,(darkness:1.4), the beating rays of the sun from the ceiling

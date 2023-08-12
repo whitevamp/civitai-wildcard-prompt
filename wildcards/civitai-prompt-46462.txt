@@ -1,0 +1,5 @@
+masterpiece, best quality, ultra-detailed, illustration, detailed face, highres, 8k, detailed hair, detailed skin, detailed face,
+1girl, solo, female, <lora:tifaLockhartLora_tifaLockhartV1:0.5>, long hair, black hair, red eyes, blush, gasp, orgasm, open mouth, crying with eyes open,
+gloom (expression) depressed,naughty face,>:),
+sports bra, suspender skirt, suspenders, tank top, white tank top, elbow gloves, elbow pads, fingerless gloves,
+<lora:povBreastGrab_v2:0.7>, povbreastgrab, pov hands, breast grab, (ass grab:1.6), 1boy, (from behind:1.6),

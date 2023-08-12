@@ -1,0 +1,1 @@
+night, street, city, futuristic, scifi, science fiction, (police), guns, neon, bike, bicycle, android, robot, people, blue, green, massive <lora:nomomassive:1>

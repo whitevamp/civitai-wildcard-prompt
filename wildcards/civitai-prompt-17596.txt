@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(highres),elaborate ,1girl, solo, sidelighting,
+<lora:sagiriyuuko-nvwls-v1-final:0.8>, sagiri yuuko, abs, huge breasts, shiny skin, <lora:heartShapedMaebariPasties_v10:0.7:TT>heart pasties, sky,sea,beach, outdoors , 
+(embarrassed:1.1),
+<lora:basement_v0.2:1> basement, dimly lit, heavy rain, raining, wet, drenched, wet hair,
+candid modelshoot style, fcPortrait, [(standing[::2]:1.1)::0.8],
+<lora:add_detail:0.5>,
+<lora:GoodHands-beta2:0.5>

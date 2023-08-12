@@ -1,0 +1,1 @@
+pokemon, normal and ground pokemon, cat, cute, masterpiece, high quality, best quality, high-definition, ultra-detailed, simple background, <lora:pokemon_v3_offset:1>

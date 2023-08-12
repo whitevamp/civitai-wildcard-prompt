@@ -1,0 +1,4 @@
+1girl,slg,(river),
+choppy bob,
+depth of field, evening
+<lora:slg_v11:1>

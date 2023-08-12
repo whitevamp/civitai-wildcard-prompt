@@ -1,0 +1,2 @@
+(wood carving:1.2), (sexy young woman:0.8), detailed, autumn forest, hard light, trending on artstation, masterpiece
+ <lora:lowra_v10:0.3>

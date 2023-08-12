@@ -1,0 +1,12 @@
+(RAW photo, 4k, realistic, exquisitely detailed skin), masterpiece, best quality, official art, unity 8k wallpaper, ultra detailed,(dark scene,low key,soft lighting:1.3), cinematic look,high saturation,best anatomy,volumetric fog,
+a samurai girl, slim body, sexy, charming, seductive,upper body,
+1girl,weapon,sword,long hair,black hair,holding,solo,holding weapon,blood,holding sword,arm guards,simple background,blood on weapon,looking at viewer,black eyes,tabi,floating hair,
+vivid illumination,
+harmonious composition,
+enchanting elegance, 
+atmospheric depth,
+cinematic lighting,
+immersive atmosphere,
+exceptional detail,
+(stunning visuals),
+<lora:wuxia:0.8>

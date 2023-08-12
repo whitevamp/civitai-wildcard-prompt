@@ -1,0 +1,1 @@
+<lora:add_saturation:1.5> <lora:add_detail:0.5> ((masterpiece)), highest quality:1.3, <lora:giselleNew5:1>, front view, smile, breasts, bang red streaked hair, headband, twintails, shoulders, fox ears,

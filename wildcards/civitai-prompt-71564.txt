@@ -1,0 +1,6 @@
+closeup shot of jane_noexist,cyborg,  (blood vessels connected to tubes),hairs connected to tubes, black tissues, 
+((masterpiece),(best quality),(ultra-detailed),    
+fantasy, sci-fi,  horror,   , aliens, glowing eyes, 
+realistic, hnsrdlf style intricate biomechanical detail
+masterpiece, award-winning photo, analog style, dark room, dim light ,  sideview, 
+<lora:Biomechanicals_v2_lora1500:0.7> <lora:epiNoiseoffset_v2:1>

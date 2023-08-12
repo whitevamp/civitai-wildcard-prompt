@@ -1,0 +1,3 @@
+1girl,   <lora:belleDelphine_shurikv4:1.1> belledelphine,  looking at viewer, smiling,
+8k, 4k, detailed, attractive, beautiful, impressive, photorealistic, realistic, cinematic composition, volumetric lighting, high-resolution, vivid, detailed, stunning, professional, lifelike, crisp, flawless, DSLR, 4k, 8k, 16k, 1024, 2048, 4096, detailed, sharp, best quality, high quality, highres, absurdres
+ <lora:recruitSuit_recsuitVer2:0.8> simple black suit, simple black pencil skirt, black pumps, nude pantyhose, rst,

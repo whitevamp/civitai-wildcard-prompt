@@ -1,0 +1,1 @@
+(masterpiece), (best quality:1.4), HDR, 8K, dramatic lighting, a girl, <lora:popularTrainedOnTheMost_v10:1>, smile, school uniform, school, upper body, hair blowing in the wind, action pose, ((detailed skin)), <lora:gakkiAragakiYui_v2:0.9>, (pureerosface_v1:0.8)

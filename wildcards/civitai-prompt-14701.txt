@@ -1,0 +1,1 @@
+<lora:LORAChineseDoll_chinesedolllikeness1:0.1>, <lora:taiwanDollLikeness_v10:0.5>,<lora:koreanDollLikeness_v10:0.8>,best quality, ultra high res, (photorealistic:1.4), 1girl, blazer, button T-shirt, black skirt, office, large breasts, (black thighhighs:1.4), (high heel:1), (dark blonde hair:1), looking at viewer, smiling, makeup, (sit: 0.3)

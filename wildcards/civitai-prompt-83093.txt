@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best quality), (detailed), 1girl,   <lora:invisible-14:1>, ((invisible)), no humans, faceless, headless, cheerleader outfit

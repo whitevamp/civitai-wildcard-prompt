@@ -1,0 +1,3 @@
+destroyed robot covered in moss, plants, creak, tropical, wet,
+masterpiece, best quality, high quality, highres, intricate,
+<lora:add_detail:0.3>

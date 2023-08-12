@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.4), colorful, hyper detail, particles, depth of field, portrait, [sketch], volumetric light, ((atmospheric light)), wide angle, flawless face, flawless skin,
+<lora:lastorigin_blackwyrm-09:0.8>, red eyes, maid headdress, gigantic breasts, ribbon, braided ponytail,  apron, green apron, sweat, looking at viewer, holding cup, coffee cup, blush,  apron, cafe, barista, <lora:breast_milk_latte:0.7>, breast milk latte, lactation through clothes, lactation, areola slip, 
+<lora:add_detail:0.3>, <lora:epiNoiseoffset_v2:0.4>, <lora:LowRA:0.6>

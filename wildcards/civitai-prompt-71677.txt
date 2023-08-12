@@ -1,0 +1,2 @@
+woman on tropical, (wearing mini_dress:1.3),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), collarbone, night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], outside,   <lora:mini_dress-10:0.5>

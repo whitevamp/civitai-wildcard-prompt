@@ -1,0 +1,1 @@
+robort derpd, Saint Celestine elite corporate enforcer patrolling the streets, wearing detailed (gold armor:1.2) red robes red cape, iron halo,wings,scifi mega corporation,  cyberpunk scene, busy street, neon lights,  <lora:FINAL Robort:0.5> <lora:derpd - DerpdeedooStyle:0.6>  <lora:Saint Celestine MK1 by CARAXES:0.7>

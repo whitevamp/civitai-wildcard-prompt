@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,soloe,earrings, jewelry, looking_at_viewer, midriff,milft<lora:Makima:0.6> <lora:tokugirlReika_v10beta:0.4> <lora:Tifa_meenow:0.2>

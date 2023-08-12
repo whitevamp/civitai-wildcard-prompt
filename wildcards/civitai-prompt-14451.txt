@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.1>, (1girl, solo, child:1.2, little girl), <lora:concept_goodHands:1>,<lora:detailed_eyes:1>,
+<lora:concept_kawaiiTech_(kawaiitech--pastel--kawaii):0.9>, kawaiitech, kawaiitech police, kawaiitech police hat, pastel jacket, cute smile, salute, kawaiitech utility belt, kawaiitech bulletproof vest,

@@ -1,0 +1,1 @@
+<lora:c4ttitudeflexver:0.8>, close-up photography of (grey tabby cat:1.2), cooking fish, (c4ttitude:1.3), in glasstech kitchen, hyper realistic, intricate detail, (foggy:1.1), <lora:GlassTech-20:0.8>, pov from below

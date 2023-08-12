@@ -1,0 +1,1 @@
+(bread) creature in a bakery, (fx-monsters), full body, highly realistic skin texture, 8k, high quality,  <lora:fx-monsters:1.0>

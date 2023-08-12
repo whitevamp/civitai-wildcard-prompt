@@ -1,0 +1,1 @@
+[:(realistic, detailed face, detailed hair, deep eyes, shiny skin:1.2):0.3], 1girl, from behind, back, (blue eyes), dark hair, wet lips, sweat, (open mouth, orgasm:0.7), (blush, embarrassed), saliva, <lora:fashionGirl_v47:0.5>,  <lora:ahegao_v1:0.15>

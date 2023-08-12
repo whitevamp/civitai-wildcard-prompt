@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:shuten_douji:0.8> shuten douji, horns, 
+ <lora:bandaidOn:0.8> bandaids on nipples, bandaid on pussy,  
+blushing,  <lora:full-face_blushConv2D2.5e-5_BF16:0.5> blush, embarrassed,  <lora:hohoaka:0.6>

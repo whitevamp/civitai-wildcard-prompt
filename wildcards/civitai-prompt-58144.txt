@@ -1,0 +1,11 @@
+(masterpiece:1.2),best quality,illustration,beautiful detailed girl,
+(3girls:1.2),(girl sandwich:1.2),
+(looking at viewer),(sweat:1.2),(embarrassed:1.0),smile,open mouth,
+large breasts,(standing,tachi-e,full body:1.1),school,
+(buruma:1.2),(gym uniform:1.1),
+(long hair:1.1),blunt bangs,(crown braids:1.0),
+{mix-fus-of-(light blown hair)-(bob cut:1.0)-black eyes-ribbon},
+{mix-fus-of-black hair-straight hair-(brown eyes)},
+{mix-fus-of-(blond hair:1.1)-(multiple braids)-blue eyes},
+ass,clothes lift,
+<lora:trueBuruma_v25:0.3>

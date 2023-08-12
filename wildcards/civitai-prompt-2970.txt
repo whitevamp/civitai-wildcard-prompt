@@ -1,0 +1,8 @@
+[(woman upper body, woman, looking at viewer,  solo, centered,   eye, nose, breasts, black hair :1.2)::0.25], 
+[(illustration of young [Sophia Loren|Vanessa Hudgens|Candice Swanepoel] :1.2)::0.65], 
+[(short hair, hair ornament, night, dark, nature, darkness, cowboy shot :1.2)::0.25], 
+[:fantasy art, multiply, combined, stacked, symmetric, magic, intricate, abstract, multi layer effect, after effect,:0.30], 
+[:in focus, glowing, star sky,   fantasy, planets, sky, dark, night, mountains, magic, giant,  reflection, light particles, surreal, :0.30], 
+[:(colorful explosion psychedelic paint colors:1.3):0.35], looking at viewer,  
+[:mature woman face, solo, glowing eyes:0.65], 
+ [:star (symbol), moon, scenery, starry sky,  backlighting, , forest, outdoors, cloud, nature, constellation,  space, night sky, mountain, sparkle,:0.30],

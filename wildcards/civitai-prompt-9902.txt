@@ -1,0 +1,1 @@
+<lora:MEME_LevitatingPizza_v10:0.95> <lora:ANIME_CodeGeass_CC_v20:0.9>1girl, green hair, bangs, c.c., long hair, breast, cleavage, manlevitatingpizza, solo, sitting on bed, bed sheet, spacecraft interior background, floating pizza, instant transmission, fingers pointing to temple, 64K, f1.2, 800mm, UHD, dynamic lighting

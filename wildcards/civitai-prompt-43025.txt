@@ -1,0 +1,1 @@
+<lora:zeekars:0.6>,  ((badass offroad hot rod zeekars)), wide tires, color accents, <lora:ballpointpen:0.8>,ballpoint pen drawing

@@ -1,0 +1,1 @@
+onoff, side-by-side photo of a pretty Korean woman, wearing a white sheer nightgown, (sleeping:1.4), (on red silk sheets:1.2), (eyes closed:1.5), shiny skin, long hair, photorealistic, realistic skin, (best quality), (extremely sharp focus), full body shot, dark night scene, stunning photo with high color saturation, <lora:onOff3:1>  <lora:DatBush:0.2>

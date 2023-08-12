@@ -1,0 +1,2 @@
+{best quality}, masterpiece, {highres}, original, extremely detailed 8K , photorealistic,intricate detail,, highlydetailed, ultra-detailed,ray tracing,
+<lora:conceptLoongChinaDragon_v10:1>,(loong midair, flying,Looking at the camera,misty,fog,  ), Dark clouds cover the sky,misty , 

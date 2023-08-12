@@ -1,0 +1,3 @@
+Monolithic Mecha-Horse, devoid of human life, silver chrome body, sapphire blue eyes, medieval futurism, thunderstorm, plasma hoof stampede, clan war, pandemonium, devastated feudal castle background, 
+sharp focus,depth of field
+<lora:Niji:0.6>  <lora:3DMM_V10:0.2>

@@ -1,0 +1,3 @@
+masterpiece, high quality, 1girl, child, solo, 3d face,walking, cowboy shot, long hair, solo,
+Hermione Granger,kimono, japanese kimono, realistic,lustrous skin, front view, shiny skin, lying, many flower,
+highly detailed beautiful face and eyes, beautiful skin,perfect anatomy <lora:add_detail:0.3> school, <lora:Fonglets_Hermione_Granger:0.68>  simple backgorund,

@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed:1.2), (detailed skin:1.0), 1girl, 10 years old, peace sign, dark hair, evil grin, (house on fire at background:1.4), back light, <lora:lora-dim8-peace-v0-3_sd-1-5:0.7>

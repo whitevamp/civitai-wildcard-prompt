@@ -1,0 +1,4 @@
+professional photo of Alyonushka,
+detailed skin, detailed eyes, detailed face,
+high quality, volumetric light, highrez, masterpiece, best quality,
+<lora:Alyonushka:0.72:MIDD>

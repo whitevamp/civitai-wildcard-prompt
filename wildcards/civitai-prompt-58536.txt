@@ -1,0 +1,7 @@
+masterpiece, hyperdetailed, best quality, ultra-detailed, 
+ lens flare, glare,
+ colorful flower, loraeyes
+<lora:beautifulDetailedEyes_v10:0.9>
+photoreal, backlighting, 
+girl, translucent skin, subsurface scatter, supermodel, slender,
+taken off clothes, undressing, black longhair

@@ -1,0 +1,8 @@
+(masterpiece),(intricate details),1girl,mature female,shiny_skin,large breasts
+BREAK 
+<lora:katou_megumi_v1:0.7>,hmkm1, short hair, white headwear, beret, red cardigan, white dress, frills, ribbon, long sleeves, open clothes, 
+Folded Socks,converse,depth of field,looking at viewer,((lying on the Stadium: Crowd, cheering, sports, athletes, scoreboard)),((full body)),
+BREAK
+sweat, lying on back, in bed, spread legs, leaning back, sex, vaginal, missionary, pov
+BREAK
+moon,night,meteor,hanabi,((cumulonimbus)),from below:1.3,<lora:more_details:0.3>

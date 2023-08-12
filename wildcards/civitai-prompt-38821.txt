@@ -1,0 +1,1 @@
+(masterpiece, HIGH RES, best quality:1.4), Medium Shot of a super mario, moustache, big sideburn, blue eyes, brown hair, red hat, plumber's pants, braces, (((muscular))), smile, Glimmering, award-winning, Technicolor <lora:epi_noiseoffset2:0.3> <lora:more_details:0.8> <lora:perfecteyes:0.3>

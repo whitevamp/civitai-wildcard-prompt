@@ -1,0 +1,1 @@
+masterpiece, best quality, (colorful), (delicate eyes and face), volumetric light, ray tracing, extremely detailed CG unity 8k wallpaper, <lora:Serana_5_10:0.7> serana, 1girl, red eyes, cape, long sleeves, portrait, raised eyebrow, thick eyebrows, RocksEyebrowRaise, white background, <lora:RocksEyebrowRaise:1>

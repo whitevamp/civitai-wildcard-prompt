@@ -1,0 +1,4 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(highres),elaborate, cowboy shot,1girl,
+breasts, nipples, solo, lips, large areolae, upper body, long hair, looking at viewer, huge breasts, areolae, black hair, smile, brown hair, brown eyes, realistic, breasts outside, dark nipples, cleavage, forehead, photorealistic, (huge nipples:1.2), sagging breasts, <lora:jpboobsmilf:0.6>, <lora:lactation_v11:1>, (lactation:1.2),
+<lora:anime_minimalist_v1:-0.2>,
+<lora:flat2:-0.5>,

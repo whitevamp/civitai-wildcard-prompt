@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+ShioriNishimura, (dark skin, dark-skinned female:1.1), tan, mature female, milf, arms behind head, 1boy, faceless male, licking armpit, tongue out, breast grab, blush, shy, ahegao, open mouth,
+brown hair, short hair, makeup, brown eyes, perfect eyes, perfect face, detailed face, (choker:1.1),
+naked, nude,
+sweat, curvy, huge breasts, ass
+<lora:ShioriNishimura:0.85>  <lora:qqq-armpit_licking-v2:0.4>

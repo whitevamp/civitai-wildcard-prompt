@@ -1,0 +1,5 @@
+waist shot, ((completely naked)), detailed large breasts, detailed areolae, navel, thin pubic hair, standing, (smile), good hands, (bottomless:1.5), 
+retrobigguns, <lora:bigguns_v121:0.7>, posing for a photo,
+(masterpiece), best quality, absurdres, nsfw, (photo-realistic), a beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed skin, ((black short cut hair)),
+outdoor, pool, daylight,
+<lyco:GoodHands-beta2:0.8>, <lora:GirlfriendMix2:0.6>

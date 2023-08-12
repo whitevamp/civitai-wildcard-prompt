@@ -1,0 +1,1 @@
+1girl, portrait, upper body, pale skin, blonde_hair BREAK tip of pink hair, multicolored_hair, expressive face, beautiful woman, simple background, yellow_background, beautiful eyes, from front, looking at viewer,  <lora:add_detail:1>

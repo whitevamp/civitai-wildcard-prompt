@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, 1girl, looking at viewer,  pink leotard, sleeveless, haigure pose, open hands, standing, spread legs, pubic hair, elbow gloves, knee boots, <lora:haigure_pose_v2:1>, full body, <lora:Sakura[Boruto]V2:0.6>, haruno sakura, side bangs, forehead mark, red hairband, pink hair, medium hair, light smile, indoors, bedroom

@@ -1,0 +1,1 @@
+<lora:treebark-SDXL-s-exp:1>, a detailed cat made of tree bark, standing, detailed face, hands behind back, bark skin, treant, green hair, wood skin, brown skin, wood shirt <lora:PerfectEyesXL:1>, brown eyes, young, , full body shot, leaf hair, wood person, doll, cinematic photo

@@ -1,0 +1,10 @@
+best_quality, highres, extremely_detailed,
+1girl, beautiful_face, navel, white_hair, gradient_hair, multiple_braids, coiled_hair, hair_ornament, (crying_with_eyes_open:1.2),
+<lora:VillageSuccubus_v4:0.3>, obscenity_tattoo, icemage, chest_tattoo, waist_tattoo,
+hanfu, mountaintop, 
+BREAK
+sumi-e style, ink style,
+(expressive brush strokes):1.2, 
+ink wash, gradation, monochromatic, 
+poetic atmosphere, delicate balance, 
+fluid motion,

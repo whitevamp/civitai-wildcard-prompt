@@ -1,0 +1,3 @@
+,[32k|16k|best-quality], professional photo, (centered-in-frame:1.2) , [[[closeup]]] <lora:volibearV1:0.6> illustration," 1 polar bear, eastern dragon, real-life appearance, photorealistic bear, highly detailed dragon, bear's fur with visible individual strands, dragon's scales with individual texture, sharp claws of bear reflecting light, dragon's eyes with realistic gleam, icy ground with detailed texture, vibrant yet realistic colors, clouds with real-life fluffy appearance, dragon's body casting realistic shadows, snowy landscape with detailed ice patterns.
+
+<lora:PAseerEasternDragonV3:1>

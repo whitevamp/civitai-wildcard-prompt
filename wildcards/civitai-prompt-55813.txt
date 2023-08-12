@@ -1,0 +1,2 @@
+masterpiece,best quality,landscape,ghibli Style,big house,trees,grass,shadow, light,sunset,
+<lora:ghibliStyleConcept_v40:0.6>

@@ -1,0 +1,5 @@
+masterpiece, best quality, highres, (photorealistic:1.4), (depth of field:1.8), beautiful Japanese girl, (20 years old:1.5), 1 girl, small_head, open_mouth, short hair, pale_skin,
+
+(Soccer_uniform:1.5),  soccer_short_shorts, Running on the football stadium,
+
+(full body:1.4), (large_breast:1.4), narrow_waist, (pureerosface_v1:0.5), (ulzzang-6500-v1.1:0.2), (from center:1.4),   <lora:koreanDollLikeness_v15:0.41>

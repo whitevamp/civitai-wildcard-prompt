@@ -1,0 +1,1 @@
+(( masterpiece, detailed, high quality, )), absurdres, realistic, <lora:add_detail:0.2>

@@ -1,0 +1,8 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),(highres),
+(1boy:1.3), (solo:1.3),in the ball,(jumping:1.1),floating,bend legs,
+<lora:kakashi_v2:0.7> kakashi,boots,
+<lora:WaterBall:1> water ball,large water ball,water circle,
+<lora:bubblerealm_model:0.6> bubblerealm,(fog:1.3),
+mountain,grass field,simple background,
+<lora:anime_minimalist_v1-000020:-0.2>
+<lora:flat2:-0.5>, <lora:LowRa:0.1> ,

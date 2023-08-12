@@ -1,0 +1,2 @@
+(ultrarealistic, extreme detail),(realistic:1.2),render, (masterpiece), (best quality), detailed face, 1girl,(hollie would woman:1.25) sitting on large bed, bedroom, (blonde hair) , white leotard, cleavage, blue eyes, medium breasts, natural breasts, cleavage, white leotard, side bangs, cameltoe, crowd, makeup, window, pillows, potted plants, 
+ <lora:holli_would_v1.0:0.55>

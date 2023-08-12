@@ -1,0 +1,1 @@
+<lora:RPGSkeleton:0.75>, skeleton <lora:moonSora:0.75> sitting moon, moon, stars, cloud,  <lyco:guitarsElectricAnd_v10:1.0>, anime_guitarv1, guitar

@@ -1,0 +1,1 @@
+8k,(masterpiece:1.4)(best quality:1.4),(top quality), 1girl,(solo:1.2),suwatee,smile,green hair,blue eyes, long hair, braid,hair ornament,earrings, boots, bow,bedroom,   wariza,(shiny skin), <lora:suwatee:0.7>

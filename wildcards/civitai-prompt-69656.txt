@@ -1,0 +1,3 @@
+1girl,(white_latex_bodysuit:1.2),solo,(tall:1.1),black_hair,long_hair,bangs,(red_innerhair:0.7),red_eyes,medium_breasts, large_areolae,(delicate_muscle_line:0.8), cameltoe, arm behind back,smile,white_collar, full body, latex gloves,white_boots,full_body_latex,
+scenery,tunnel,brick wall,sunlight,
+<lora:latex_v055:0.35>,<lora:add_detail:0.3> ,, masterpiece, best best quality,ultra_detailed,

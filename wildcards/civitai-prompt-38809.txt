@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, realistic, bibleblack, 
+YukikoMinase, 1girl, 1boy, (penis, oral:1.2), (penis in mouth:1.1), (stage four, deepthroat:1.1), pov,
+open mouth, ahegao, rolling eyes, happy, 
+[black hair:green hair:26], short hair, lipstick, eyelashes, yellow eyes, detailed eyes, detailed face, jewelry,
+nude, grey thighhighs, garter straps, garter belt, 
+curvy, huge breasts, cleavage, 
+<lora:YukikoMinase:0.85> <lora:bb-style:0.25> <lora:concept-staged-deepthroat-v3:0.4>

@@ -1,0 +1,2 @@
+(a beautiful woman), from (An enchanted forest where magical creatures and plants abound) ,  riding (Giant Clam),ultra realistic, nude:1.0, style of irving penn , shot with Plaubel Makina W67 Camera , shiny glossy skin,beautiful landscape,
+,pink  updo hair,<lora:PinkNipples:0.4>, <lora:epi_noiseoffset2:0.8>,,Volumetric Lighting, Beams, Magic, Rembrandt Light

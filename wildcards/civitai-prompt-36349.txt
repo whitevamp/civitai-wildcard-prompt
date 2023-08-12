@@ -1,0 +1,2 @@
+black dragonborn, upper body, barechested, male,  ((masterpiece, best quality)),  <lora:more_details:0.3>, cracked skin, electricity coming through cracks, muscular male,
+outdoors, detailed background <lora:dragonborn_offset:0.8> <lora:r1ge - AnimeRage:0.8> <lora:Cracked Skin:1.1>

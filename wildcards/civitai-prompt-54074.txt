@@ -1,0 +1,1 @@
+<lora:vkolmakova:0.85>,{best quality}, Ultra HD, cinematic ray, depth of field, (upper half body shot:1.2) of beautiful woman vkolmakova, winter, cloud over mountain, mountains, cloud, starry night sky, cinematic ray, sharp details, <lora:CyanCloudyAnd_v20:0.8>, CGSociety, ArtStation, hdr, <lora:theovercomer8sContrastFix_sd21768:1.3>

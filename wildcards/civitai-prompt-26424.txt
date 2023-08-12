@@ -1,0 +1,1 @@
+1male,clark,superman,penis((ultra-detailed)),(illustration),detailedlight,dramatic_shadow,ray_tracing,<lora:clark:1>, masterpiece, best quality,

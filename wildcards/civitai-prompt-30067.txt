@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl,outdoor,
+ <lora:TimeGalV1:0.7>timegal

@@ -1,0 +1,24 @@
+((masterpiece)) ((sfw)) ((official art))
+
+(fisheye) (close-up) (cowboy_shot) (symmetry:1.3) (from_below)
+
+(white lights) (white stage_lights)
+(futuristic city in background)
+
+(yellow hair) (full-body)
+(looking_at_viewer:1.3) (naughty_face) (floating) (floating hair) (hand_on_hip)
+
+(yellow body suit) (black stars)
+
+<lora:[OUTFIT] A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.5>
+(headgear) (mecha musume:1.0) (robot joints) (mechanical_wings) (detached_wings)
+
+<lora:[CONCEPT] conceptColoredInner_v10:0.5>
+(black inner hair)
+
+<lora:[OFFSET] (DARK) epiNoiseoffset_v2:1>
+(dimly lit) (dim lighting)
+
+<lyco:[EFFECT] (Particles) Cinerite火山灰 Concept:0.3>
+
+<lora:[STYLE] Blacklight_v1:0.1>

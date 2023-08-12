@@ -1,0 +1,1 @@
+<inversion:theallys-wholesomegrannies:0.7> wholesomegrannies-all, <lora:quokka:0.5>, woman holding an adorable quokka, jungle, masterpiece, high resolution, hd, 8k, shallow depth of field

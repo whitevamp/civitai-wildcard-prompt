@@ -1,0 +1,4 @@
+(masterpiece:1.2),(best quality:1.2),highly detailed,absurdres,intricate,volumetric lighting,cinematic lighting,award-winning,macro vivid colors
+mature woman, breefree, long hair
+long white dress, upper body, portrait
+<lyco:breefree_v15:0.6>

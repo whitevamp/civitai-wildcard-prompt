@@ -1,0 +1,1 @@
+(masterpiece, best quality, absurdres:1.2), 1girl, photo of a highly detailed (figma:1.2) of (koharu:1.2),halo, pink eyes, ringed eyes, head wings, low wings, pink hair, blue archive school uniform, off shoulder, hat, red skirt, wariza,closed mouth,[realistic], <lora:figmaAnimeFigures_figma:0.8>, <lora:BlueArchivea_koharuV10:1>

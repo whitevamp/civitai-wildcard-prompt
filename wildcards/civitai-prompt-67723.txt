@@ -1,0 +1,1 @@
+<lora:ChikaF:0.9>, <lora:BloodSkelterStyle-30:0.6>, Blood_Skelter, pink blood, glowing eyes, fire

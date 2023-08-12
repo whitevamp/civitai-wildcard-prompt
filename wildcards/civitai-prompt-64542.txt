@@ -1,0 +1,7 @@
+(RAW photo), best quality, realistic, photorealistic, extremely detailed, an extremely delicate and beautiful, RAW photo, professional lighting, light on face, depth of field,
+a 18 years old girl,1 girl, ((((topless)))), blue hair, brown eyes, smaller head, (full body), hair covers ears, hair ribbon, beautiful eyes, natural breast, (((nipples))), real face, real skin, realistic face, realistic skin, detailed eyes, detailed facial features, detailed clothes features, detailed face and breast, (ulzzang-6500:0.1),
+<lora:chilloutmixss30_v30:0.1>,
+<lora:koreanDollLikeness_v10:0.2>,
+<lora:fashionGirl_v47:0.15>,
+<lora:breastinclassbetter_v141:1>,
+beach, under water, head floating, sunbeams, sunbeams, girl standing in water, wind blowing hair, 20s, abs, beach, big ass, black hair, fairer skin, front view, miss universe model, muscular, oiled body, perfect boobs, pouting lips, spanish, spreading legs

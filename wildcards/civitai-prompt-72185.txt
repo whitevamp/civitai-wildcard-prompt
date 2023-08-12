@@ -1,0 +1,3 @@
+bissett, illustration, ink watercolor, white background, nipples, 
+1girl, solo, simple background, white background, signature, lips, eyelashes, makeup, traditional media, lipstick, eyeshadow, eye focus,
+ <lora:bissett-02:1>

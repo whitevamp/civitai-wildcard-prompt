@@ -1,0 +1,3 @@
+Image quality: masterpiece,(best quality:1.2),(highly detailed:1.2),(absurdres:1.3),(8k resolution:1.2),(highly resolution:1.2),(high pixel resolution:1.2),
+Subject:1 girl,(realistic:1.1),(photorealistic:1.1),looking at viewer,cleavage,
+sit down,hime cut,<lora:xuner:0.5>,xuner,hair ornament,

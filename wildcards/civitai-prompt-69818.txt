@@ -1,0 +1,1 @@
+((masterpiece)), ((highly detailed)), (best quality), 1girl,  <lora:coils_v0.1:1>,coils, snake, breasts, shocked, tongue out, blue eyes, (spiralwash eyes:1.2), @ @ <lora:spiralwash_800:1>

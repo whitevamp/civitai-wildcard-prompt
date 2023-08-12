@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.25>, (2girls, duo, adult female, mature female),<lora:detailed_eyes:1>,
+<lora:style_yinYangTech_(yinyangtech--flow--scifi):1>, yinyangtech, flow, 
+<lora:concept_coloredSkinLoha:1>, black skin, white skin,  (black and white face:1.2, vertical symmetry:1.5, opposite colors), (yuri, almost kissing, groping, looking at each other), open mouth, lidded eyes, in love

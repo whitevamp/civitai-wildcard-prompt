@@ -1,0 +1,2 @@
+<lora:WhippedCreamTopStyle:0.51> WhippedCreamTopStyle, on_ground, steam,  soil, 
+a dog walk away, in_background,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear,, insane details, intricate details, hyperdetailed, ultra detailed, extreme detailed, highest detailed, high_detail, colorful, beautiful, hdr, photorealistic, highres, ultra_high_res, photography, aesthetic, extremely_delicate,

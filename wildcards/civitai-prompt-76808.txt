@@ -1,0 +1,1 @@
+highres, masterpiece,(photorealistic),  perfect ligthing, bloom, night, cinematic lighting, adult,  supermodel, woman, perfect skin, female, (medium breasts,oversized hoodie,white thong, looking at viewer:1.4), realistic skin, eyeliner, realistic,auburn long hair, shoes, ((crowded subway)), standing,<lora:Oriental_Beauty_2:0.5>

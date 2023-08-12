@@ -1,0 +1,1 @@
+1girl, photo upper body of panniersdress girl, france, silver big (wig:1.1), fan hand, necklace, pointy ears, silk, satin, bokeh, dim light, bokeh background, gothic palace interior, <lora:ARWBedroomGothic:0.6> <lora:ARWPanniersDress:1>

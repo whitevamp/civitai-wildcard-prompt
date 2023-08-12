@@ -1,0 +1,1 @@
+1girl,  holding knife, <knife-holding>,  bulging eyes, slightly smile, sweat, nervous, crazy,  constricted_pupils, small breasts, perky breasts, business suit, closed mouth, blushing, blazer, black necktie, white collared shirt, (brown eyes), crazy background <lora:crazyExpressions_:1> <lora:kobeni_v10:1>

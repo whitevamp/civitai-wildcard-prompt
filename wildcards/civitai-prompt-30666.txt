@@ -1,0 +1,2 @@
+real, photoshoot, realistic, luminescent, atmospheric scene, masterpiece, best quality, (detail skin texture, ultra-detailed body:1.1), RAW photo, (high detailed skin:1.2), 8k uhd, dslr, film grain, Fujifilm XT3,
+<lora:melissabenoist_smf_lora_02-000001:0.9>, 1girl, melissabenoist-smf, glasses, parted lips, long hair, indoors, realistic, sweater, holding, blurry, solo, window, lips, long sleeves, brown hair, blurry background, solo focus, chair, computer, blonde hair, upper body, black-framed eyewear, office, brown sweater, shirt, book, laptop

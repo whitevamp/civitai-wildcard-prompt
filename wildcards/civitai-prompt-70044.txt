@@ -1,0 +1,2 @@
+(real person,fashion photography portrait,photograph),<lora:Oriental_Beauty_1:0.45>,hibiscus Moon with water drops,neon glow, random background, sun rise, bokha mood,upper body,(((hanfu,chinese style))),smile,
+1girl, street,night, cityscape,city lights, upper body,close-up, 8k, RAW photo, best quality, masterpiece,realistic, photo-realistic,

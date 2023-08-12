@@ -1,0 +1,3 @@
+<lora:sandwiched_v1.1:1.0> 2girls, sandwiched, 2boys,
+<lora:busujima_saeko_v1.0:1> busujima saeko, school uniform, green skirt, pleated skirt, 
+<lora:miyamoto_rei_v1.4:0.6> miyamoto rei,, masterpiece, best quality, highly detailed

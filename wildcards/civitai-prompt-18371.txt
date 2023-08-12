@@ -1,0 +1,10 @@
+(photo-realistic,ultra realistic 8k CG:1.2),perfect artwork,delicate pattern,
+(best quality,intricate detail,extremely intricate:1.2),70mm telephoto lens,
+perfect lighting,detailed lighting,dramatic shadows,ray tracing,bloom,
+-------------------------------
+(ulzzang6500V),(idol),(detailed clothes features),Exquisite Makeup,the pose,
+(1girl,solo:1.2),woman,girly,bright eyes,(detailed eyes),(wet skin,nsfw:1.1),
+(very long hair,Floating hair,Flamboyant hair,wind,gale,hair accessories:1.4),
+-------------------------------
+-------------------------------
+(after sex,cum,lying,cumdrip,vaginal,pov vaginal,on bed,sweat,spread legs,cum pool:1.4),full body,<lora:AfterSexMS:1.2>

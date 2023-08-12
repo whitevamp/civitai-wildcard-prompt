@@ -1,0 +1,2 @@
+mevis, 1girl, short hair, black hair, solo focus, black eyes,  stretching, makeup, lipstick, black lips , <lora:mevis:0.55>
+bikini,

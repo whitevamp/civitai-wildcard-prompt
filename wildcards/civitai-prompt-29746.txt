@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:asukalangley:0.8> asuka langley soryu, blue eyes, hair between eyes, headgear, interface headset, (orange hair:1.2)
+ <lora:khorne:0.8> khorne, red armor, skull, chains, spikes, blood, evil, warhammer 40k,  battlefield, debris, <lora:add_detail:0.8>

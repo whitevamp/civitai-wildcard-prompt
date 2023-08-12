@@ -1,0 +1,4 @@
+Comic art, Flat-colors,
+1 girl, adult (elven:0.7) woman, freckles, grey eyes, gray shaggy hair,
+(style-swirlmagic:1.0),  portrait, (<lora:gothichorrorai_v10:0.5>, gothichorrorai, gothic theme:1.1) (bloody scars:0.7), looking up, solo, upper body, dynamic pose, detailed background, dark expression,  sovereign of the night, demonic, eye shadow, midnight,  hooded armor made of bone, dark circlet, dark tomb, ,    dark lightning, dark clouds, floating shards of ice,  death, decadence, evil energy emanating, dark magic black lightning in the air, dark aura,  consuming darkness, candles,  summoning circle,
+<lora:marker:0.5>,

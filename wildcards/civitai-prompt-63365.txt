@@ -1,0 +1,1 @@
+<lora:albedoOverlord_v11:0.8>, high quality, highres, masterpiece, good artist, 1girl, albedo \(overlord\), white dress, hair between eyes, white horns, black wings, low wings, large breasts, looking at viewer, ahegao, (arms behind back), white background,  <lora:albedoOverlordLora_v1:0.75>

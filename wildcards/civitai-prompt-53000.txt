@@ -1,0 +1,7 @@
+([Gina Carano|Emma Stone]:1.1),young woman,1girls, solo, aftershower, detailed face,  symmetric, glossy braids, cute,  plunging neckline,  large round breast,  lips, in the shower,  bath towel,
+aftershower, a woman (steam, wrapped in a towel is posing ,woman getting out of the shower wet and naked:1.2),
+centered, looking aside, standing, centered, skin pores, subsurface scattering, detailed skin,midriff,
+[(colors psychedelic explosion colorful paint:1.2)::0.25],(freckles:0.67),realistic proportions,
+
+
+masterpiece, best quality, realistic, hyperrealistic,  sharp focus, absurdres, good anatomy, <lora:afterShower_v11:0.8>

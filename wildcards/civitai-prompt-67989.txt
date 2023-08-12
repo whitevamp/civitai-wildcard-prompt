@@ -1,0 +1,8 @@
+(masterpiece:1.2, best quality), 1girl, mid host
+Appearance: {slender, slim, fit, green_eyes, small_breasts, flat_chest, (excessive pubic hair:1.2) <lora:excessiveSparsePubic_v10:0.8>}
+Clothing: {naked, nude, barefoot}
+Accessories: {simple hoop earrings, shell necklace, <lora:nipplerings4:0.8>, (nipple_piercing:1.2, nipple_rings:1.2)}
+Hair: {long blonde hair}
+Makeup: {natural}
+Behavior: {smirk}
+Location: {dreamy landscape, with a glistening white castle town perched atop a tall cliff stretching out over the ocean. White capped waves wash up against a sandy shore with dreamy white clouds drifting across the crystal clear blue sky. The sun casts warm shadows across the scene. A gentle refreshing summer breeze blows through the trees.}

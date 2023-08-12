@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, beach, waving, seductive smile, sitting, (covered nipples:0.7),
+mizuki yukikaze, short hair, white choker, see-through, halterneck, casual one-piece swimsuit, <lora:MizukiYukikazeV1_1:0.9>,  <lora:more_details:0.3>

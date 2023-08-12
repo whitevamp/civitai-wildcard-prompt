@@ -1,0 +1,10 @@
+(RAW, best quality, masterpiece:1.5), (realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, solo, upper body,
+black eyes, thin eyes, symmetric eyes, extremely detailed eyes and face, light on face, hair ornament, earrings,
+twin tails, (dark hair:1.2),
+medium breast, slim waist, slim legs,
+shiny skin, skin pore, highly detailed skin,
+smile, 
+(long cheongsam, sexy cheongsam:1.2), wooden table, steaming, tea pot,
+fantasy, luxurious, rim lighting, flowers,
+best lighting, detailed background, detailed shadow, sharp focus, <lora:sd-No.405v2-000002:0.25>

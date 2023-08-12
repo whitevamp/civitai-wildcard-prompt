@@ -1,0 +1,4 @@
+Photo of a sexy woman sitting in the seat of an airplane wearing a stewardess uniform, pleated skirt, (black pantyhose:1.3), tight clothes, small breasts:1.3, wide hips, skinny, red lips, green eyes,(perfect fingers:1.4),(good hand:1.3),
+(evil:0.9), crossed legs, (textured fabric:0.9), looking at viewer,  (smiling:0.8), flirting to the camera, (metalic fabric:0.5),
+extremely intricate, (photorealistic, raw:1.5), sidelighting, (blurry:0.9), detailed face, poor quality photo, high contrast,
+airplane interior, slender, bow, (moles:0.4)  <lora:yuju02:0.4> <lora:aiGRAVNASHIKOXxX_v1:0.4>

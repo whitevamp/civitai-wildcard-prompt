@@ -1,0 +1,1 @@
+white background, scenery, ink, ink painting, (1girl:1.5), (girl portrait:1.5), sunset in the background, orchid, jellyfish, bioluminescent, symmetrical artwork, GemstoneAI, <lora:GemstoneAI:1>, (<lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>:1.5)  <lora:Add_more_details_more_details:0.5>

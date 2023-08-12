@@ -1,0 +1,1 @@
+absurdres, best quality, motivatedchair,  <lora:Chair:0.5>, motivatedchair, sitting, 1girl, solo, from below, midair, flying, sky, floating object, floating

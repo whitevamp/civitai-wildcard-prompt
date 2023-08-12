@@ -1,0 +1,1 @@
+8k, best lighting, masterpiece, best quality, best luminosity, best shadow, particles, bloom, extra lights, cinematic lights, neko, cat ears, fluffy ears, white hair, short hair, 1girl, cute girl, school uniform, stocking, <lora:GlowingRunesAIV6:0.5>, <lora:眼睛双:0.3>, <lora:add_detail:0.5>, <lora:OC:0.3>

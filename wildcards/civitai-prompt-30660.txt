@@ -1,0 +1,1 @@
+<lora:raiden_shogun:0.8>,(1girl), raiden_shogun,  purple eyes, mole under eye, purple hair, hair ornament, obi, sash, shoulder armor, cleavage, (large breasts:1.2),looking at viewer, long hair, (purple kimono:1.2), thighhighs, standing, upper body, outdoors, park, lawn,stone stairs, (flowers:1.2),lake,sunshine,mountains, <lora:Euro-AmericanDollLikeness_V20:0.65>

@@ -1,0 +1,3 @@
+(photorealistic:1.4), (masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, 
+ganyu \(genshin impact\), 1girl, ahoge, architecture, bangs, bare shoulders, bell, black gloves, black pantyhose, (blue hair), blush, breasts, chinese knot, detached sleeves, flower knot, gloves, horns, long hair, looking at viewer, medium breasts, neck bell
+ <lora:ganyuGenshinImpact_offset:0.5>

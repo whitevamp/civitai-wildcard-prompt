@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:darkmagiciangirltest:0.8> dark magician girl, blonde hair, choker, (green eyes:1.5), long hair,, bare shoulders, blue footwear, blush, blush stickers, cleavage, collarbone, duel monster, hat, off shoulder, pentacle, wizard hat, 
+starry sky, night,

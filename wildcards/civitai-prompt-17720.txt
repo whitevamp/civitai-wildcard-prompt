@@ -1,0 +1,1 @@
+masterpiece,best quality,highres,realistic,handsome,photogenic,big muscles,<lora:syahnkV4-08:0.7>,syahnk,as ( a 20 years old  man, (chav,pecs),muscular handsome male,(wearing long white socks), looking at viewer, (best quality, masterpiece, high res, hdr:1.2), detailed face, upper body, (sweaty),(wearing Jockstrap),sweaty, bokeh),<lora:add_detail:1>,<lora:jockstrap_v2:0.7>,

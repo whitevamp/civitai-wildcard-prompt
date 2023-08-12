@@ -1,0 +1,2 @@
+bright scene,(fullbody shot) of a girl,deep scene depth,japanese idol,kawaii,cute, 23 years old, determined, in Voyageurs National Park , doing Snowshoeing_, by martin parr , shot by Yashica T4 Camera , ((SFW)):1.5 , <lora:epi_noiseoffset2:0.6>,white  braided hairstyle hair,nude:1.0,idol shashin ,<lora:PinkNipples:0.4>,cleft of venus, shiny glossy skin, subsurface scattering, (sharp:0.7), detail hairy pussy,public hair,
+ <lora:EmilyPussy_v05:0.3>

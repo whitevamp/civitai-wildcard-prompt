@@ -1,0 +1,1 @@
+masterpiece, best quality, rydia, hair ornament, green jacket, white shirt, jean shorts <lora:rydia-nvwls-v1-final:0.9>

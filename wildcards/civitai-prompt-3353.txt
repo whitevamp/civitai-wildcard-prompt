@@ -1,0 +1,3 @@
+Kuno, red eyes, ponytail, long hair, dark blue hair, ninja mask, red hair ribbon, full body, KNgear, bandages, red scarf, ninja, gloves, pants
+nighttime, moonlight, action, (white bandages on arms:1.2)
+<lora:Kunoichi:0.6>

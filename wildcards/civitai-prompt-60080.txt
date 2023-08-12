@@ -1,0 +1,2 @@
+a woman, (wearing sexy sailor outfit:1.3), pink outfit,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts,(((on a boat))), <lora:sexy_sailor_uniform04:0.7>, <lora:betterCuteAsian03:0.3>

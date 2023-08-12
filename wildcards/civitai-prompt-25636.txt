@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed), an italien village at the sea, restaurants, busy, market, seaside, vespa, building facade, tourism <lora:add_detail:0.4>, hand holding vespa handle

@@ -1,0 +1,10 @@
+Realistic, realistic details, detailed masterpiece, award winning illustration by Alex Ross, 8k resolution, backlight, muted colors, futuristic sci-fi style, distant future, H R Giger
+ADDCOMM
+(interior of a hi-tech biomechanical alien base, tubes, cables, fog, mist:1.6)
+ADDBASE
+ADDCOL
+Fine detail, hicgbody, intricate and complex (white and blue) full body mech warframe, in a dynamic and menacing pose
+Glossy, reflective materials, cables, tubes, moving parts
+Epic camera angle
+ADDCOL
+<lora:warframeLora_v10:0.6> <lora:biomechanicalsHRGiger_v2:0.6> <lora:hipoly3DModelLora_v10:0.4> <lora:add_detail:1>  <lora:epiNoiseoffset_v2:2>

@@ -1,0 +1,1 @@
+<lora:CARAVAGGIO V1:0.6>, best quality, masterpiece, realistic, (oil painting:1.1), portrait, Caravaggio, indoors, ((old man sitting)), on chair, ((solo:1.4)), dark background, reading,  <lora:epi_noiseoffset2:0.8>, looking down, eyes half closed,  <lora:add_detail:0.2>

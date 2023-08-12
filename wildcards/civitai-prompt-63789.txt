@@ -1,0 +1,5 @@
+1girl, an extremely delicate and beautiful,cinematic angle, xifu,danjue,masterpiece, top quality, best quality,zentangle ,
+abstract background,
+(watercolour painting:1.3),
+fractal art,
+,( beautiful and aesthetic:1.2), extreme detailed,(fractal art:1.3),colorful,highest detailed,concept art,full body,incredibly_absurdres, <lora:xifuV4:0.7>

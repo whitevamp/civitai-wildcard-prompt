@@ -1,0 +1,5 @@
+nude 30yo Japanese naked woman very thin pussy, cat-ears, large breasts, smiling, dimples, spread legs
+<lora:JapaneseDollLikeness_v15:0.3>  <lora:very_thin_pussy.v1.0:0.5>
+((silhouette))
+detailed hands
+<lyco:GoodHands-beta2:1.0>

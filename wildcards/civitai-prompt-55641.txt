@@ -1,0 +1,5 @@
+corneo_makima, adult woman, adult face, adult body, medium breast, medium hips,(  black tight business trousers, white shirt,:1.2) leash around the neck, 
+
+ <lora:changeACharacterPetPlay_pplayv10:0.7>, (PPlay, PPUP, PPB, Paw pose:1.2), squatting, tongue out, open mouth, spread legs, gagged, 1girl, looking at viewer, (top down view:1.1), 
+
+Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting

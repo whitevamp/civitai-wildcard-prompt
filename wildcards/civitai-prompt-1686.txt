@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), pretty face, 1girl, close shot, medium boobs, long hair, black hair, black coat,
+ <lora:exhibitionismV_Conv2D:0.95>, exhibitionism, white stockings, white garters, black white bra, navel, fit body, looking at viewer, smile seductively, breathing heavily,
+standing at the corner of the library, in the library

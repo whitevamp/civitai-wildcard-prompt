@@ -1,0 +1,2 @@
+masterpiece, detailed, high quality, absurdres,
+<lora:yareli-10:1> yareli, 1girl, solo, faceless, dynamic pose, surfing on fishes, sunny,

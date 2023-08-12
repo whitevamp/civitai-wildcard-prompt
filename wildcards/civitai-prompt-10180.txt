@@ -1,0 +1,17 @@
+Appearance: 1girl, ((detailed face and eyes)), (sharp eyes, realistic face), (22 years old), cute face, pretty face, white girl, american girl, ((pink hair))
+BREAK
+Aesthetic: ((steampunk, Victorian, retro-futuristic, steam power, gears, brass))
+BREAK
+Lighting: Twinkling Starlight, Peaceful, Tranquil
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k, realistic face
+BREAK
+Composition: <lora:shibari_v20:0.8>, (shibari, bondage, rope, woman in bondage, slim, slender, fit, exotic sitting),
+BREAK
+Action: <lora:PSCowgirl:0.8>, (squatting position, vaginal), (1boy, real penis, pov)
+BREAK
+(good quality:0.997),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.45>
+<lora:to8contrast-1-5:0.6>

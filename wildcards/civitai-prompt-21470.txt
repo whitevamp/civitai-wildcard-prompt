@@ -1,0 +1,1 @@
+(AI_Misaki),((best quality)), ((masterpiece)), (detailed), 1girl, egypt,white hair, breaded hair, walking in street, long pants, by night, wet, ((cyberpunk mega city)), skyscrapers, robot arm, robot chest, neon environnement, dynamic movement, heavy rain, very detailed, octane render, gas mask,  <lora:add_detail:0.8><lora:Egyptgodpunkv.8-000010:0.8>

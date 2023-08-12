@@ -1,0 +1,3 @@
+(full_body, photo-realistic:1.30), (Classic Hollywood glamour, spotlight illumination, rich shadows, shallow depth of field, sparkling bokeh, exquisite details, high-resolution, 35mm film), (palace interior, luxurious backdrop, velvet curtains),
+(1girl solo, dynamic pose, blushing, floating long hair, long legs, lovely smile), (posh, wedding dress, dazzling accessories, Jewelry necklace, diamond ring, captivating eyes, red lips)
+(medium_breast, nipple perky), <lora:add_detail:1.6>, <lora:weddingdress:0.4>

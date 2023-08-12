@@ -1,0 +1,2 @@
+best quality, outdoors, street, 1girl, serafuku, pleated skirt, skirt lift, (upthigh:1.2), (sidethigh:1.2), (groin:1.2), probably no panties, hidden crotch, hidden by clothes, 
+<lora:npm-v7-000005:0.8:TT>

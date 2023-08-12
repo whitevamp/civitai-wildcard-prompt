@@ -1,0 +1,2 @@
+((best quality, masterpiece)), (
+(style-swirlmagic):0.3), ((white leather futuristic spacesuit)), headphones, neon lit, (smiling), 1girl, red hair, wavy hair, a white parts of mechanical female, looking at viewer, (cameltoe:0.8), soft colors, black background, <lora:more_details:0.5> , <lora:LowRA:0.25> <lora:3DMM_V12:0.8>

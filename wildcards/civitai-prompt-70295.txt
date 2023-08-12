@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, HDR, ultra-detailed, highres, extremely detailed CG unity 8k wallpaper, perfect artwork, perfect female figure, 1girl, age 22, aerith gainsborough, very long hair, hair ribbons, hair flowers, strapless red dress, high heels, looking at viewer, sexy pose, skirt lift up, light smile, midnight town
+<lora:aerith-nvwls-v1-final:0.7>  <lora:flat2:-0.5>

@@ -1,0 +1,5 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (award-winning photography), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, HDR, RAW photo, dslr, 
+artist style, (Fashion Magazine Cover:1.5), ([ water effects | Light Effects | Feathers effects ]:1.3), material effects, 
+art by tim burton,
+(photographed on a Canon 5D, 105mm lens, F/1.4 aperture),
+<lora:garterBelts_v20:0.55:clothing> garterbelt, black fabric, fabric and metal straps, leather straps, embroidery, woman wearing the garterbelt, lower body focus, front picture

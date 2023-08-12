@@ -1,0 +1,1 @@
+red jellyfish,jellyfishforest, 1girl, long hair, dress, solo, white hair,red hat,mushroom, nature, outdoors, tree, walking, forest, water<lora:jellyfish-noise:1>

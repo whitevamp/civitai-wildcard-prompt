@@ -1,0 +1,2 @@
+masterpiece, best quality, photorealistic ,fashionmonkey, gorilla,   blurry, book, cable, cyberpunk, gloves, green coat, holding, hood, solo,
+ <lora:fashionmonkey:1>

@@ -1,0 +1,1 @@
+(AliceWonderlandWaifu:1), masterpiece, cute, smile,(dress:1.2), castle background, grassy fields,  flowers, medium closeup, (dynamic pose:1.2),realistic, detailed, cinematic lighting, ,<lora:aliceInWonderlandBy_v10:0.7>

@@ -1,0 +1,1 @@
+golden marble king in the style of M4rbleSCNEW <lora:MISC_MARBLE:1> , 1 men, solo,, <lora:MISC_ADD_DETAIL:1> <lora:MISC_LOWRA:0.4>

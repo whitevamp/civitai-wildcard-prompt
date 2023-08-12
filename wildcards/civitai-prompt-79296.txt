@@ -1,0 +1,1 @@
+a composition in the style of Wes Anderson, you can see a huge music studio integrated into a jungle, warm moody light,fantasy, high contrast, ink strokes, explosions, over exposure, purple and red tone impression , abstract, ((watercolor painting by John Berkey and Jeremy Mann )) brush strokes, negative space,<lora:add_detail:1> <lora:FilmGX2:0.1>

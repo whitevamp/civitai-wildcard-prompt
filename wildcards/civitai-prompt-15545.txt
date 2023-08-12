@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), perfect face, beautiful face, beautiful eyes,<lora:VioletParr:0.8>, cowboy shot, arms up, VioletParr, long black hair, large breasts, hourglass figure, wide hips, masterpiece, bikini, huge breasts, navel, beach background, palm trees,  <lora:epi_noiseoffset2:1> <lora:add_detail:0.2>

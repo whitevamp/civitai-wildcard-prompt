@@ -1,0 +1,2 @@
+Masterpiece, 1girl, black bodystocking, yellow ribbon,
+<lora:MilaAzul_1.0:0.5>

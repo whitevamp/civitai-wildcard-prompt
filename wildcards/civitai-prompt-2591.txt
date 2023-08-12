@@ -1,0 +1,1 @@
+(best quality:1) , (masterpiece:1), (ultra detailed:1)  <lora:lora_TLOU_EW_5thAnyLORA-000022:0.6>

@@ -1,0 +1,3 @@
+1girl,straight hair,Green turtleneck, brown skirt,beautiful long legs,((thin:1.1)), (naked thighs),
+, thigh-highs,peep-toe heels,
+fill the frame,tsurime,   <lora:tangbohu_saturation_v1.0:0.65>

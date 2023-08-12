@@ -1,0 +1,8 @@
+official art, unity 8k wallpaper, ultra detailed, masterpiece, best quality, surreal, (photorealistic:1.3), hyperrealistic, dynamic lighting, global illumination,horror \(theme\),
+BREAK,
+a female zombie,
+<lora:Winter_Hanfu:0.75>,Hanfu, (Winter hanfu), (cloak:1.1), crawling, 
+BREAK,
+<lora:rottingZombies:1.8:FACE>,rotungwoka person female wearing china dress,zombie, glowing eyes, (no pupils:1.5), rotting, 
+looking at viewer,
+(snow, red flowers, chinese outdoors:1.2),

@@ -1,0 +1,8 @@
+best quality, realistic, highres,masterpiece,photorealistic,uncensored,raw photo,intricate details,
+1girl,gorgeous goddess, deity,queen,flawless,sexy,charming,seductive,erotic, alluring, enchanting,
+perfect female body,mature female,shiny skin, skindentation, narrow waist,full body,
+picture-perfect face,perfect face, beautiful face,beautiful  eyes, huge breasts, black short hair,
+(black turtleneck sweater,round-rimmed glasses,blue denim trousers:1.2),sleeves rolled up, black leather shoes,
+(standing on stage),(holding iphone:1.2),looking at viewer, speak to viewer,
+spotlight, conference,
+<lora:koreanDollLikeness_v15:0.2>, <lora:shojovibe_v11:0.4>, ulzzang-6500-v1.1, <lora:zltest:0.4> <lora:kmodel:0.4>

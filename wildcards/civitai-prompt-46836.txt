@@ -1,0 +1,6 @@
+masterpiece, best quality,
+1girl, sex, on bed, pov, <lora:povWaistGrabConcept_v09:0.5>, missionGrab, missionary,  shirt, naked shirt, (shirt tug:1.4),  
+bursting breasts, low ponytail, purple hair, parted bangs, sidelocks, pointy hair, multi-tied hair,
+wince, parted lips,,
+ implied orgasm,  orgasm denial, (cum:1.4)
+<lora:sophieLoraMyKingdomSilent_v10:0.7>,  <lora:shirtTugPoseLORA_shirtTug:1>

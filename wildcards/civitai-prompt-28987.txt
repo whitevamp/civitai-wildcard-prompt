@@ -1,0 +1,4 @@
+LeeK, curly orange hair, freckles, hair over both eyes:1.2,  standing, cowboy shot, hands on hips, smug expression,  solo,  covered eyes, 
+LeeATT, denim pants, white shoes, earrings, polka dot shirt, belt , white shirt, 
+picket fence,morning  cartoon, 
+(insanely detailed, beautiful detailed face, masterpiece, detailed eyes, best quality)     <lora:LeeKanker:0.8>

@@ -1,0 +1,2 @@
+aunt cass, wearing a black tshirt, leaning on a kitchen counter, [cleavage:0.3], happy
+ <lora:AuntCassDoguv1:1>

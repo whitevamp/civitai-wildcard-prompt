@@ -1,0 +1,1 @@
+<lora:add_detail:0.6> <lora:OxideTech:0.8> (masterpiece, best quality, realistic, detailed, sharp:1.2), intricate details, oxidetech, (half shot photo of ohearn), wearing overalls, (hands inside pockets:1.2), dirty, post-apocalypse, <lora:BabyDontHurtMeDogu:0.8>

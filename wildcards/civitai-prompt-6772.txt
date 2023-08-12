@@ -1,0 +1,4 @@
+<(masterpiece:1.3), (best quality:1.2)>,,unity 8k wallpaper ,, 1girl,,sakuragi mano ,  blush, looking at viewer, 
+undressing shirts,shirt ,pink bra ,, upper body,skirt, from side, close-up, 
+simple background,
+<lora:undressing shirts:0.7>    <lora:sakuragiManoTHEIDOLM_v10:0.7>

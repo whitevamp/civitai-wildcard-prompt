@@ -1,0 +1,3 @@
+nsfw,1boy and 1girl,vaginal peniss,(sex:1.2),best quality,masterpiece,ultra high res,cinematic lighting,dynamic lighting,absolutely resolution,
+BREAK
+bottomless,clothes lift,skirt lift,(missionary:1.5),POV, <lora:katapan2:0.6>,(panties around one leg:1.4),

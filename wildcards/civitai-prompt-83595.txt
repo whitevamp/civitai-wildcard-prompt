@@ -1,0 +1,3 @@
+half portrait, Best quality, masterpiece, ultra high res, (photo realistic:1.4), surrealism, dream-like, beautiful little ears, looks at the viewer,
+1 girl, absurdly long hair, starry sky, night,stars, galaxy, flower, Big moon, soft moonlight, flat horizon in the background, milky way, (pink, green, red, blue, yellow, purple, stars)
+<lora:FenW-000012:0.8>, <lora:epi_noiseoffset2:0.4>,, (pascal campion:0.38), vivid colors, (painting art:0.06), [eclectic:clear:0.8]

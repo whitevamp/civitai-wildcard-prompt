@@ -1,0 +1,7 @@
+masterpiece, best quality,real,realistic, photo,photorealistic,
+airplane interior,
+1girl, 1boy,(breast sucking:1.2), lactation, breast grab, <lora:qqq-breast_sucking-v1:0.7>, 
+japanese mature female,japan_airlines_flight_attendant,
+black hair,diagonal bangs, hair bun,
+white shirt, ascot, medium breasts,covered nipples,lactation, blush,
+ <lora:koreanDollLikeness_v15:0.3>

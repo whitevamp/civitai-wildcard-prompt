@@ -1,0 +1,3 @@
+(masterpiece, best quality, high quality, detailed,:1.2), 
+BREAK  inside ice castle, snowy, icy,
+BREAK <lora:edgEuropean_Vintage:0.7>  ,edgEV, girl wearing (icy:1.2) edgEV_vintage dress with (bioluminescent details:1.3), sitting on ice throne, grinning widely, messy long windy white snowy hair,natural lighting, detailed face detailed hair, intricate details, snowy, icy,

@@ -1,0 +1,11 @@
+8K raw photo, Best quality, masterpiece, ultra high res,
+1girl, looking at viewer,
+natural skin texture, realistic eye and face details, full lips, lipstick, rouge \(makeup\), red eyeshadow, fluffy short hair, messy hair, little smile, beautiful legs, tall female, skinny, slim_legs, solo, upper body,
+(hard light, studio light, light rays, dappled light, reflection, shadows, ray tracing:1.0),
+Flower Patterned yukata, wa girl, japanese traditional clothes, flower yukata, (informal summer kimono:1.3), (Flower ornament on the head:1.3), (background a vibrant night sky filled with colorful many fireworks:1.3), many fireworks, celebrations, and a festive atmosphere,traditional building in japan,
+blurry background, blurry,
+bangs, parted lips, lips,
+depth of field, black hair,
+cute pose,upper body,
+looking at viewer,
+<lora:Lora_v20:0.7>,   <lora:LoRA_train:0.4>, (pureerosface_v1:0.1)

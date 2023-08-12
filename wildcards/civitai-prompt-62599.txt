@@ -1,0 +1,3 @@
+don quixote\(limbus company\), masterpiece, best quality, (((1girl))), messy hair, (((solo))), :d, badge, bangs, black_jacket, blonde_hair, blush, breasts, collared_shirt, dress_shirt, eyebrows_visible_through_hair, gradient, gradient_background, hair_between_eyes, jacket, jacket_on_shoulders, long_sleeves, looking_at_viewer, medium_breasts, necktie, open_clothes, open_jacket, open_mouth, red_necktie, shirt, short_hair, smile, solo, upper_body, white_shirt, ((Men's dress long pants)), Black pants, Attacking:1.3
+<lora:don-08:1> <lora:alpha-nyang-i v2:0.1>, a portrait of a woman (scared:crying louder:screaming)
+<lora:gmod:0.8>

@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, Insertion mouth, banana, indoors, simple background, DOF blur, perfect lighting <lora:Insertion:0.5>

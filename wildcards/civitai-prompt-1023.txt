@@ -1,0 +1,7 @@
+masterpiece, best quality, incredibly detailed eyes, incredibly detailed face, sparkling eyes, long eyelashes, 
+girl in a space suit waving at the camera with his hand up in the air and a hand in the air
+1girl, smiling, happy, surprised, raised eyebrows
+spacesuit, space helmet, gloves, 
+indoors, shrine, japanese shrine, temple, japanese temple,
+wood, column, window
+ <lora:spacesuit3:1>

@@ -1,0 +1,1 @@
+<lora:GothicHorrorAI:.8>, GothicHorrorAI cathedral , stylized, (architecture), landscape, (haunted, desolate, night, dark), (GothicHorrorAI fractals)

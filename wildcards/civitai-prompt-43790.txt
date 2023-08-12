@@ -1,0 +1,1 @@
+masterpiece,best quality,ultra detailed,intricate details,8k,hiqcg, 1girl, blonde hair,beautiful detailed face,beautiful detailed blue eyes, (((full body))),(cleavage),detailed cloth texture,hiqcgbody,black thighhighs,luxurious,noble,solo, <lora:hipoly3DModelLora_v10:0.5>

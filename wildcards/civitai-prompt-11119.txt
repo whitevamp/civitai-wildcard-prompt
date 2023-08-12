@@ -1,0 +1,2 @@
+masterpiece, 1 young male, Look at me, Line of sight focusing, naked, male_pubic_hair, The penis, Tethering, Glans, testicles, Outdoor, (Light blue sky:0.8), Clouds, Garden, (White flower:1.1), Cherry blossom, Sit on the throne, Wear a crown, Mid-range, Genre painting, textured skin, super detail, best quality, 4K,
+<lora:frenulum_w2:0.5> <lora:cute boys3:0.5>  <lyco:takahirosi-33:0.2>

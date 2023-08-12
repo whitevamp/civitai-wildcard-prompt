@@ -1,0 +1,5 @@
+1 girl, cowboy shot,centered,(from below),(from behind:1.2),from the side,looking to the side,(legs apart:1.5),hands on hip
+,wide hips,(panty:0.3),thick thighs,big breasts,(toned thighs),tall girl,imposing
+,junketsu, epaulettes, school uniform, (long pleated white skirt), white thigh,white panties,(peeking pubic hair:0.6),pantyshot,camel toe
+,podium,angry
+,<lora:Rizdraws v6:0.4> <lora:ibuo:0.3><lora:KiryuinSatsuki:0.7> <lora:female pubic hair3:0.4>

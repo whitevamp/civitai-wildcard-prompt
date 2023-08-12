@@ -1,0 +1,7 @@
+(male (humanoid android:1.1)), metallic body, stargatehorus, warrior of  horus, futuristic Egypt, glowing eyes,
+((dynamic pose, over the shoulder view)), solo, dark detailed chamber, dim light,
+muted color, realistic,
+photorealistic,
+depth of field,
+(masterpiece, best quality:1.3), intricate, hdr, intricate details, hyperdetailed, cinematic,
+stargate  <lora:add_detail:1> <lora:stargateHorus:0.5>

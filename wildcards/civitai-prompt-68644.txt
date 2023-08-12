@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, ultra detailed, 8k, anime, portrait, art nouveau, extremely detailed lighting, cinematic lighting, white hair, hair flower,  short hair, <lora:a_xxxholic:1>,looking at viewer, upper body,  <lora:Chinese_style:0.5>

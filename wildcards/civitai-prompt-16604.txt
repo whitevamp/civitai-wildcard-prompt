@@ -1,0 +1,5 @@
+masterpiece,best quality, depth of field, (close-up:1.3), lens flare, cinematic lighting, absurdres, 
+
+car, car light, 
+
+ <lora:skylineR34-000014:0.9>

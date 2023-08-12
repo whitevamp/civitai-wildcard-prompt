@@ -1,0 +1,1 @@
+<lora:LowRA:0.4> amy adams, muscular woman,  six-pack abs, <lora:Muscle:0.4>  sexy, lace bra, small breast, narrow waist, thick legs, muscular, sexy cloth, living room interior,, morning light, monsetra plant <lora:epiNoiseoffset_v2:1>, RAW photo, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

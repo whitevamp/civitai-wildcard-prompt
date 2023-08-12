@@ -1,0 +1,3 @@
+illustration,infinite landscape, frigid illumination, ingeniously designed, fascinating elegance, peerless craftsmanship,deep penumbra, subdued luminosity,Machinery,Installation Art,Metal,
+solo,Nezha sorceress, lotus root magic weapon, fire spell, Nezha familiar, Chinese mythology,Neck,nsfw,
+<lora:OC:0.25> <lora:add_detail:0.5> <lora:LowRAv2:0.5>

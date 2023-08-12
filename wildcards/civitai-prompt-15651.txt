@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, (slender legs), (beautiful hands), (normal body shape), dynamic pose, 1girl, solo, school uniform, in the dark, deep shadow, low key, cold light 12000K, <lora:Lora_v20:0.4:PALETTE>, <lyco:GoodHands-beta2:1>,

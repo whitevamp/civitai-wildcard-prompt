@@ -1,0 +1,4 @@
+masterpiece, perfect lighting, (beautiful, best quality:1.3), perfect eyes, absurdres, 8k,
+1girl, solo, (absurdres), finely detail, smile,
+<lora:Ilulu MaidDragon V1:0.7>,  ilulu_maiddragon, red hair, long hair, huge breasts, red eyes, twintails, horns, teeth, huge breasts,
+black t-shirt, thighhighs, short sleeves,  black thighhighs,

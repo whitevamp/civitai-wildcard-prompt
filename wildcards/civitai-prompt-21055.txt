@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details,(fractal art:1.2), 
+<lyco:GoodHands-beta2:1>
+1girl,  <lora:wraithloratwo:0.8> wraithdefault hairstyle, white eyes, 
+nude, on knees,   nipples, large breasts,  <lora:HeadpatPOV:0.8> HeadpatPOV, pov, headpat,  <lora:RuinedMakeup_v0.1:0.8> ruined makeup,

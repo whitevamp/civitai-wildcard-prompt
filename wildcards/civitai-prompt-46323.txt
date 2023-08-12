@@ -1,0 +1,14 @@
+(masterpiece:1.3), (2D:1.0), (anime:1.0), (illustration:1.0), (sharp:1.2),
+(hard light:1.0), (shadow:1.0),(reflection, refraction:0.8), (light rays, dappled light, light glare, lens flare, Tyndall effect:1.0),
+(clear, shiny:1.0),
+(best quality:1.2), (ultra-detailed:1.0), (extremely intricate:1.0),
+(blurry foreground,cinematic light,ray tracing:1.1),
+(bright_colors,dark_intense_shadows:1.1),
+(impasto,colorful:1.2),
+(warm_light_from_below,glow_white_particles:1.1),
+(Ensemble_Stars!_\(style\):0.95).
+wolf_boy,anthro,uploaded_on_e621,solo,upper_body,cowbow_shot,male_focus,furry_kemono,furry_male,cub,young_male,bishounen,11_years_old,kawaii,cute,fancy,fragile,cool,handsome.
+detailed_fluffy_fur,tuft,(white_fur,body_fur,oil_skin,skin_with_fluffy_fur:1.3),animal_nose,animal_ear_fluff,fluffy_paws,pawpads,animal_hand,fluffy_big_tail.
+blue_clothes,(hooded_cloak,hood_up:1.5),male_short_hair,white_hair,blue_eyes,one_eye_closed,bangs,closed_mouth,smile,light_blush,hands_up,holding_star,bottomless,(knees_together_feet_apart,sitting:1.2),looking_at_viewer.
+(night,starry_sky,crescent_moon,star_\(sky\),gem,plant, star_\(symbol\),sparkle),outdoors, scenery.
+<hypernet:furry_kemono:0.65>

@@ -1,0 +1,3 @@
+best quality,ultra detailed,<lora:MultipleAsses_v1:1>,ass,from behind,(2girls:1.5),masterpiece,high quality,(white skin:1.2),
+ADDBASE <lora:chisatonishikigitest:1>,nishikigi chisato,short hair,bangs,blonde hair,(red eyes:1.5),hair ribbon,one side up,bob cut,
+ADDCOL <lora:takinainoue:1>,inoue takina, long hair, bangs, black hair, (purple eyes:1.2),

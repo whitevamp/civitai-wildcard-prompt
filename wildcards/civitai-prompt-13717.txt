@@ -1,0 +1,3 @@
+(masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),
+1girl,mechanical arms, 
+steampunk,  <lora:SteamPunkMachineryv2:0.8>

@@ -1,0 +1,2 @@
+<lora:2b leotardV2:0.8>,masterpiece,best quality,covered eyes,hair over eyes,white hair,short hair,large chest,black blindfold,looking at viewer,hand on hip,
+P_nurse:1.3,

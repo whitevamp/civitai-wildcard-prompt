@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl, <lora:IWR-BelleDelphineUltimate:1> Belle Delphine,  face focus, portrait, shoulders up,  <lora:egirlAesthetic_v10:0.4> makeup,

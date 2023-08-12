@@ -1,0 +1,1 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), GoingInsane, close-up, <lora:GoingInsane:0.9>,<lora:remReZero_v10:0.6> 1girl, rem_re_zero, (horn), light blue hair, blue eyes, hair ornament

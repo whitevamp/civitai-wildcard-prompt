@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra detailed, ((illustration)), 2girls, raiden shogun, yae miko, raidenshogundef, yaemikodef,  <lora:raidenshogun1-000009:1> <lora:yaemiko1-000008:1>, medium breasts, sagging breasts, tall female, upper body, forest, shade, light rays, looking at viewer, ray tracing, light smile,  <lora:more_details:0.6>

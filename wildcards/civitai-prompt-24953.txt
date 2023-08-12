@@ -1,0 +1,4 @@
+(by kenket:0.7) (by  photonoko:0.5) (by Arthur Lismer:0.6), (by pixelsketcher:0.4), BREAK,
+solo <lora:thelamb:0.8> (cute:1.3) (the lamb:1.2),  close-up, cute,  neck bell, horizontal pupils, black eyes, black skin, furry, sheep horns, sheep, white hair, red cape, animal ears, (crown:1.2), sheep ears, goat, tail,
+detailed background, outdoors, cinematic lighting, sexy, animated movie, artistic, adorable, young
+highest quality, photo, 8k hd, hyperrealistic (detailed fur:1.1) (furr detail, fluffy:1.1), <lora:add_detail:2.2>, depth of field,  apocalypse, fire, (detailed:1.2)

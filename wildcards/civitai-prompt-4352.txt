@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors,   <lora:add_detail:0.5>
+(1man, muscular adult  male:1.2),  purple eyes, light blonde hair, straight hair,
+portrait, solo, half shot, looking down, detailed background, detailed face, ( 1920s art deco theme:1.1),   dilated pupils, summoner, possessed,  necromancer clothes, amulet, channeling,  evil smile, ritual,      skull symbols, dark energy,  green  necrotic energy, (style-swirlmagic:0.7), calling forth forbidden power, shadowy dark room background,  dark clouds, ethereal atmosphere,
+(tangbohu-buff:1.0),

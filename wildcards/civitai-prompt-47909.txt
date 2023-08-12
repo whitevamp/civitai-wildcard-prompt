@@ -1,0 +1,4 @@
+((masterpiece,best quality, detailed)),
+(realistic:1.3) ,
+
+(best quality, masterpiece:1.2), 8k, highres, accent lighting, ambient lighting, Exquisite details and textures, 1girl, mature woman, black lace-trimmed dress, white, gold trim, from front, focus on face, looking at viewer, shinny skin, glowing eyes, glowing skin, detailed face, blonde hair, ponytail, blue eyes, elf ears, smokey eyes, mole under eye, slim body, breasts, choker, light smile, royal palace, luxury, candles, glass ceiling,cowboy shot,  <lora:skintexturedreamlike_Lora300:0.5>

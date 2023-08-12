@@ -1,0 +1,5 @@
+Highly detailed, High Quality, Masterpiece, beautiful, 3girl,
+BREAK cave, torch, <lora:Other_MoreDetails:0.75>, detailed background, hell, nether, dark, dark red, molten rock, hot,
+BREAK Ghast-chan, dress, white dress, white hair, <lora:Char_Meme_Ghastchan:1>, sitting, looking to the side, 3girls,
+BREAK mcskeleton, twintails, grey hair, grey eyes, hat, underboob, grey shorts, thighhighs, gloves, <lora:Char_Meme_Skeleton:0.9>, sitting, blush, looking at viewer, 3girls, 
+BREAK slim3, green skin, slime girl, green hat, green dress, large breasts, <lora:Char_Meme_Slime:0.9>, sweat, worried, sitting, 3girls,

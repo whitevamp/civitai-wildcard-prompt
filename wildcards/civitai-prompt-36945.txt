@@ -1,0 +1,3 @@
+<lora:chilloutmixss_xss10:0.7>,
+ <lora:koreanDollLikeness_v10:0.2>,
+(RAW photo, best quality,high quality,highres), (realistic, photo-realistic), ultra-detailed,(front lighting), closed up portrait photo,physically-based rendering, 1girl,20 years old,(stand,pose,front full body),(highly detailed skin:1.3),laughing out loudly,head tilt, very very long longest hoodie,detailed hoodie,bare legs,hands in hoodie pocket, detailed eyes,air bangs,

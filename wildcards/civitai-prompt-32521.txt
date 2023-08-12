@@ -1,0 +1,5 @@
+<lora:add_detail:0.4>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ),
+solo,full_body,(best quality, masterpiece, absurdres:1.2),extremely delicate and beautiful,front view,beautiful face,perfect face,
+sharp focus,delicate,smooth skin,huge_breasts,(thick thighs:1.4),blush,<lora:hipoly_3dcg_v7-epoch:0.3>,<lora:New_ChineseDollLikenessV3.0:0.6>,
+gym,sports bra,bra,no underwear,nude,shiny skin,black hair,short hair,(,sweat, sweatdrop, ),makeup,futanari woman,
+<lora:1ani_TGIRL_e30_n32:0.6s>,large penis,erect penis,large erect penis,tucked penis,bury head in hands,hands up,(no panties),closed eyes,open mouth,wet clothes, see-through, nipples,

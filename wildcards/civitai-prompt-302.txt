@@ -1,0 +1,3 @@
+(masterpiece), best quality, absurdres, (photo-realistic), professional lighting, a 28 years old beautiful Japanese woman, (perfect detailed beautiful face), complete elegant face, detailed eyes, detailed mouth, detailed pale skin, glossy lips, intricate details, black hair, (forehead:1.3), (messy braid long hair), large breasts, (smile:0.6), graceful 
+BREAK LuxuriousWheelsCostume, (silver dress:0.5), earring, necklace, (cowboy shot:1.5), posing for photo, standing, holding a cocktail glass, penthouse, night view, bright lighting, (from below), 
+<lora:LWclothLora:1>, <lyco:GoodHands-beta2:0.7>, <lora:breastinclassbetter_v141:0.5>, <lora:add_detail:0.3>

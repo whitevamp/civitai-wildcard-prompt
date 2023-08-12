@@ -1,0 +1,1 @@
+masterpiece, raw photo, film photo, 90s flash photo,  <lora:pureInnocentGirl_v25:1> , 1girl, beautiful girl, sin front of camera, best quality, model, in the bed <lora:epi_noiseoffset2:0.7> <lora:Renhang_20230622161247:0.7>,(flat chest), black lingerie, messy hair, wet skin, sweat

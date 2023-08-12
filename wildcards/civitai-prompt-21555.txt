@@ -1,0 +1,16 @@
+yellow sleeveless  Onesie, hood on, pikachu hoodie, leotard:1.2,  bared tights,  bared shoulders, bared arms, bared legs, 
+portrait, solo,   (looking at the viewer:1.1), long hair hair , (blond:1.4),
+color corrected, from above, bed,
+[(
+night,
+smirk,choker, peach fuss,
+motion blur, slow motion, low brightness,rule of thirds,
+muted colors, soft light, bloom, bokeh,
+film grain, 85mm, focus,
+<lora:FilmG2:0.76>
+<lora:Onesie:0.66>
+<lyco:GoodHands-beta2:0.75>
+ <lora:PIKAPOKE:0.7>
+ <lora:Blacklight_v1:0.5> <lora:LowRA:0.5>
+):8]
+<lyco:locon_millyalcock_v1_from_v1_64_32:0.45> <lora:Milly-Alcock-Lora:0.3>

@@ -1,0 +1,2 @@
+a photo of a tusuncat with its mouth open, blurry, open mouth, fangs, photo background, looking at viewer, tongue, full body, solo, (cute and lovely:1.4), Beautiful and realistic eye details, perfect anatomy, (Nonsense:1.4), (pure background:1.4), Centered-Shot, realistic photo, photograph, 4k, hyper detailed, DSLR, 24 Megapixels, 8mm Lens, Full Frame, film grain, Global Illumination, (studio Lighting:1.4), Award Winning Photography, diffuse reflection, ray tracing,
+ <lora:Tusuncat:0.6>

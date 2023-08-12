@@ -1,0 +1,4 @@
+(masterpiece, best quality, extremely detailed, grainy:1.3) natural lighting, highres, girl, sitting on golden throne, detailed hair, sitting on egyptian throne, egyptian thomb, (golden hieroglyphics:1.2), ancient egypt, summer dress, dusk, gold black intricate details, (golden sclera:1.2)
+[<lora:GirlsReactingToBikinisMeme:1> ::57] (GirlsReactingToBikinisMeme:1.3)
+[[<lora:more_details:0.35>::65]:10] 
+[<lora:suckerforlove_nyanlathotep-11:1.0> #cmd\(1 if step < 50 else  sin(life\)\)] (nyanlathotep:1.1), (colored skin:1.2), (detailed eye:1.2) (one-eyed:1.1) egyptian, clothes,  white dress, fluffy tail,

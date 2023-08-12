@@ -1,0 +1,7 @@
+(upper-body shot, masterpiece, best_quality, ultra-detailed, immaculate:1.3), epic, illustration,
+BREAK
+<lora:KatATLA_Cosine_Mod_LearnDiff-000025:0.9> KatATLA, dark skin, woman, hair_tubes, single-braid ponytail, seductive smile, posing for photo, waving,
+<lora:sexy_wedding_short_dress:0.4>  swsd, white dress, veil, embroidery,
+<lora:more_details:0.5>
+BREAK
+garden

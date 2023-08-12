@@ -1,0 +1,13 @@
+((masterpiece))((sfw))
+(best_quality)
+(blurry_background) (depth_of_field)
+(caustics)
+(breast_focus)
+(upper_body)(fisheye) (from_above)
+(outdoors) (rooftop) (sunrise) (backlighting) (sunlight)
+(arms_behind_head:1.3) (seductive_smile)
+<lora:makima_offset:0.8>
+makima \(chainsaw man\)
+(golden_eyes)
+(red_hair) (bangs) (braided_ponytail)
+(white_shirt) (necktie)(black_pants)(belt)

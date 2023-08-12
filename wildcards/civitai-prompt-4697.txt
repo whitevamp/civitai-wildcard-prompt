@@ -1,0 +1,2 @@
+A vibrant stylized modern art of CandyLandAI [cloudport::10] smiling Willy Wonka in an explosion of candy, raining sprinkles, dripping melted chocolate, lollies, jellybeans, (([white splatter background::5])). 
+<lora:Willy Wonka:0.9> <lora:CandyLandAI:0.4>

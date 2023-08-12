@@ -1,0 +1,2 @@
+real, photoshoot, realistic, perspective, luminescent, illusion, atmospheric scene, masterpiece, best quality, (detailed beautiful face, detail skin texture, ultra-detailed body:1.1),
+<lyco:livtyler_lycoris_01-000003:1>, livtyler-smf, 1girl, solo, realistic, earrings, jewelry, long hair, blue eyes, smile, brown hair, portrait, lips, looking at viewer, closed mouth, black hair

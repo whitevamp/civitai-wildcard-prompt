@@ -1,0 +1,6 @@
+masterpiece, best quality, extremely detailed, intricate, full length shot,
+1man, topless, wearing torn underwear, white socks, dirty face,  black short hair, black eyes, shiny necklace, choker, blush, looking at viewer, from below,
+muscular body, big pectoralis, abs, extremely handsome  guy,
+outdoors,
+soft side light,
+<lora:chineseMaleLikeness_chineseMaleLikeness3:0.6>  <lora:asianmale_v10:0.25>  <lora:hanfuMale_hanfum10:0.4>

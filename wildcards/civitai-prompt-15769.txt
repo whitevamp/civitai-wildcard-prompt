@@ -1,0 +1,4 @@
+Mitsuki, red hair, ponytail, bangs, brown eyes,  standing, smiling,  hands on hips,  solo, upper body, 
+MitNin, tight black bodysuit, fingerless gloves, hood down, fishnets, fishnets, kunai strap,
+on Japanese building,  nighttime, moon, Sengoku period,
+(insanely detailed, beautiful detailed face, masterpiece, best quality) <lora:Mitsuki-05:0.7>

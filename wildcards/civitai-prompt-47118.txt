@@ -1,0 +1,1 @@
+<lora:Biomechanicals_v2_lora1500:0.7> style, hnsrdlf style, (low angle photo:1.1) of giant intricate biomechanical creature at the beach, (shiny wet dark surface:0.8), head in (dramatic:1.2) overcast sky, (high contrast:1.4), photo realism, award-winning photo, analog style, underexposed, vintage

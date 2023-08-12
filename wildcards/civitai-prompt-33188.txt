@@ -1,0 +1,1 @@
+masterpiece, best quality, realistic, 8k, official art, cinematic light, ultra high res, cowboy shot, (photorealistic:1.4), fashion photography, shooting for h&m cloth brand, raw photo, official art, 1girl, natural skin texture, <lora:add_detail:1>, <lyco:GoodHands-beta2:1.0>

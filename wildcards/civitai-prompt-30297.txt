@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,best quality, cowboy shot
+edgSDress, 1girl, solo, long hair, breasts, looking at viewer, skirt, brown hair,  navel, brown eyes, jewelry, jacket, midriff, black skirt, lips, no bra, ring, realistic , wearing edgSDress
+ <lora:edgSDress:0.787>

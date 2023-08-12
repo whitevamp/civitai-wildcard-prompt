@@ -1,0 +1,4 @@
+(RAW: 1.6), (far shot), (realistic: 1.6) (mixed american), 
+masterpiece, best quality, beautiful clean face, fullbody, 1girl,solo,teenager, wearing white techwear jacket and orange trousers with buckle and tape, (crystal necklace), posing for a picture, (red short hair), long legs, warm smile, carrying a cobalt backpack, on new york street,check cellphone, 
+orange clothes,black clothes,red clothes,serioys,honorable,cold,grim,elegant, Mottled light and shadow,Rock singer, 
+<lora:avrilLavigneLora_v1:0.6> <lora:urbanSamuraiClothing_urbansamuraiV03:0.6> <lora:koreanDollLikeness_v15:0.3>

@@ -1,0 +1,2 @@
+scenery, 1girl, long hair, solo, fantasy, light particles, standing, outdoors, mountain, dress, purple theme, from behind, very long hair
+<lora:vines-pynoiseLoHa:1>

@@ -1,0 +1,2 @@
+masterpiece, best quality, extremely detailed, detailed background, detailed face, hanfu, 1girl, solo, jewelry, earrings, hair ornament, long sleeves, chinese clothes, glowing, black hair, hair bun, dress, blush, brown eyes, standing, wide sleeves, dark, light particles, hands up, bug, :o, butterfly, beads, bird, looking away, sleeves past wrists, bangs,
+ <lora:shanzhagaoSomeSortOf_v1Epoch10:1>

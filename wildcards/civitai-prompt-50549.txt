@@ -1,0 +1,5 @@
+realistic, photorealistic, detailed, beautiful, RAW photo, film grain,
+
+Alina_Becker, blue eyes, black hair, wearing a black dress top, facing viewer, photo background
+
+ <lora:Alina_Becker-04:1>

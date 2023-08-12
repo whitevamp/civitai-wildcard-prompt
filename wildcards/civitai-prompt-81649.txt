@@ -1,0 +1,5 @@
+masterpiece, best quality, 8K, original, 8K GC,
+character turnaround of  a magical girl wearing Off shoulder dress, princess dress, pink dress, (full body), (beautiful eyes), standing, same outfitfull body, same face,  ((4_side)), only detail character, Female, multiple views of the same character, official alternate costume, white hair, hair_ornament, long hair, medium_breasts, beautiful girl.
+
+<lora:2DspriteV2:0.6>  
+ <lora:眼睛双:0.4>,  <lora:Oriental_Mage:1>

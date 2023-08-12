@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors,   <lora:add_detail:0.5>
+1 girl, adult (elven:0.7) woman,  teal eyes, yellow wavy hair,
+(style-swirlmagic:1.0),  looking at viewer, solo, half shot, detailed background, detailed face, (<lora:kVoidEnergy-000001:0.5>, V0id3nergy, void theme:1.1) evil sorcerer, tattered light blue magical robes, (grin:0.8), green color scheme, dark scarlet light, summoning circle,   evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by green lightning <lora:LightingVFX:0.1>,  summoning, (thick melting candles:0.8), green arcane symbols,  power-hungry eyes,

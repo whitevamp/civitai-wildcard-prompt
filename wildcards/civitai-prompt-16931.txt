@@ -1,0 +1,4 @@
+1girl,bun,Sheer overlay maxi dress in a soft hue,beautiful long legs,
+, no-show tights,heel less heels,
+golden ratio,
+  <lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>  <lora:tangbohu_saturation_v1.0:0.65>

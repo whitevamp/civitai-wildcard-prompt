@@ -1,0 +1,4 @@
+professional photo of gokou ruri, sports suit,
+detailed skin, detailed eyes, detailed face, detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:Oreimo_gokou ruri:0.55:MIDD>

@@ -1,0 +1,2 @@
+n64style,  sadcatmeme
+<lora:icbin64:1> <lora:SadCatMeme_V10:1>

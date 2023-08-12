@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo), <lora:character_narukoUzumaki_(NarukoUzumaki):1>, NarukoUzumaki, huge breasts, <lora:concept_goodHands:1>, blond hair, blue eyes, long twintails, standing, whisker marks,
+<lora:concept_burstingBreasts_LOCON_v1:1>, <lora:concept_costume_grisSwimsuit_v10:1>, gris swimsuit, (cameltoe:1.1, pussy slip:1.4, pussy peek:1.4), areola slip, highleg, hips, thigh gap, 
+ocean, in the water, splashing, smile, parted lips, (muscular, abs, biceps, abs, wet, wet hair, leg muscles:1.2), tropical, waves,

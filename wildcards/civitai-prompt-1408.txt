@@ -1,0 +1,1 @@
+microworld render style, tiny glass cube contained, inside the cube are (scenery, ink, mountains, water, trees) , volumetric, clouds, vibrant, colorful, highly detailed,  4k uhd, 8k, octane render, centred subject, white background, <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

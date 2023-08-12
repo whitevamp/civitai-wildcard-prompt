@@ -1,0 +1,4 @@
+cinematic close up shot,  concept art 
+masterpiece, best quality,  1girl, helmet,  rocket launcher, mechanical arms,  science fiction,  ,  mecha, 
+ink, simple , clear lines,    flat color, high contrast, vector art
+   <lora:nijiMecha:0.7>

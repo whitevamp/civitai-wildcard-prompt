@@ -1,0 +1,1 @@
+candyland, fantasy, house with trees,  illustration, full background, colorful, vivid, w00d candy mountains, syrup river  <lora:Candyland:1> <lyco:woodenLycoV2:0.7>

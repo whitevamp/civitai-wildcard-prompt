@@ -1,0 +1,1 @@
+(chibi),1girl,mecha musume, ,mecha,robot, science fiction, piggyback,solo, <lora:quadruped mechasV2:0.3>,

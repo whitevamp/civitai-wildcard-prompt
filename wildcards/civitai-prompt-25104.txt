@@ -1,0 +1,4 @@
+(FionaOrc:1), 1girl, cute, cute pose, (green skin, colored skin, red hair, blue eyes, monster girl, orc female, tick, plump, curvy, freckles, pointy ears), (purple dress:1), curvy, looking at viewer, smile, :D, breast focus, leaning forward,
+(detailed ladscape, wetland , window, sky, dirt, clouds:1.2), (background:1), (dynamic_angle:1.2), (dynamic_pose:1.2), (rule of third_composition:1.3), (dynamic_perspective:1.2), (dynamic_Line_of_action:1.2), solo, wide shot,
+(masterpiece:1.2), (best quality, highest quality), (ultra detailed), (8k, 4k, intricate), (full-body-shot:1), (Cowboy-shot:1.2), (50mm), (highly detailed:1.2),(detailed face:1.2), detailed_eyes,(gradients),(ambient light:1.3),(cinematic composition:1.3),(HDR:1),Accent Lighting,extremely detailed,original, highres,(perfect_anatomy:1.2), 
+ <lora:FionaOrc_character:0.6>

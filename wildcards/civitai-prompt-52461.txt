@@ -1,0 +1,4 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, <lora:betterSwimwear_v10:0.7>
+nsfw, solo cute girl wearing opsw, opsw, swimsuit, 
+standing, arms behind back, spread legs, drunk,
+island, shore, sunlight, alcohol, front view,

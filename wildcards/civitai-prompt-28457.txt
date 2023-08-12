@@ -1,0 +1,3 @@
+(saree:1.5), ((fireworks in the background, magical, blunt bangs, braid, hair ornament, (red:0.7) obi, (purple hair:0.95), very long hair, looking at viewer, (photorealistic:1.3), detailed eyes, red eyeshadow, depth of field))
+((confident pose, erotic pose, strapless, bindi, jewelry, necklace, cinematography, chiaroscuro, feminine, exotic beauty, european girl, magic, fantasy)),
+action, dynamic, adventure, motion blur, large breasts, shiny skin, fit, athletic, <lora:shinyskin_v7:0.2> <lora:add_detail:1.2>  <lora:RaidenShogun-hands:0.5>

@@ -1,0 +1,1 @@
+SemlaStyle Plectrum <lora:SemlaStyle-000006:0.6>

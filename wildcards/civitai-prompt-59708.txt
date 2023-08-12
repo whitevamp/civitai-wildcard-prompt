@@ -1,0 +1,1 @@
+best quality, intricate details, highres,(beautiful detailed water:1.4),(hanfu, tang style),<lora:hanfu_v30:0.6>, <lora:Colorwater_v4:0.8>

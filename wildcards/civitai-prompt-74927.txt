@@ -1,0 +1,1 @@
+(masterpiece, best quality, ultra detailed)1.5, 1girl, solo, (sexy, beautiful woman, perfect face, perfect eyes, perfect female body)1.5, (kingms, button-up shirt, vest, pants, dress shoes, fingerless gloves, bowtie, short blonde hair, <lora:King:0.75>), (fighting stance in an arena), (large breasts:1.5), perfect lighting, smooth, hdr, 8k resolution

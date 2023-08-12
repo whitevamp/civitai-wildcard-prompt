@@ -1,0 +1,5 @@
+hrothgar, hrothgar leaping towards a giant ball of yarn, grin, head tilt, (female:1.2), teeth, fangs, (long hair:1.2), claws, (calico body fur),
+BREAK,
+(intricate, high detail, film photography, soft focus, RAW candid cinema,
+photorealism, realistic, photorealistic, analog style, subsurface scattering,
+masterpiece, best quality, ultra realistic, 8k),

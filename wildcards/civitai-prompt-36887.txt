@@ -1,0 +1,1 @@
+cyberpunk female, woman wearing (Opalescent Garnet Red Satin Blouse with metallic sheen:1.2), (tight full bodysuit:1.1), (Champagne,Goldenrod color background:1.3), (futuristic interior:1.2), <lora:MG_jijia:0.6>  <lora:futuristic_interior:0.7>

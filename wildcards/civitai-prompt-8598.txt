@@ -1,0 +1,3 @@
+masterpiece, best quality, high resolution,
+Default, OriginalOutfit, 1girl, solo, standing, arms up, mouth open, 
+ <lora:ST-Louisv1:0.9>

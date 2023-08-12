@@ -1,0 +1,5 @@
+masterpiece,best_quality
+alolan_vulpix,  pokemon (creature),white_skin,furry, 
+ <lora:AlolanVuipix_v1:0.7>,ALOLA_VULPIX, thick thighs, large breasts,blue_nipples,(nude)
+(standing:1.2), cowboy shot, (from_below:1.2),
+forest,mountain, lake, snow, snowflakes, snowing

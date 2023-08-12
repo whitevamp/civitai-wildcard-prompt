@@ -1,0 +1,2 @@
+(best quality, masterpiece),  dramatic, 
+1girl,  princess peach, park, bunnies,   leafs , <lora:peach:0.6>,  <lora:COOLKIDS_MERGE_V2.5:0.7>, (best quality, masterpiece),

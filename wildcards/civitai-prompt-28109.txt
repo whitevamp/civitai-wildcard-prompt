@@ -1,0 +1,8 @@
+masterpiece:1.5, best quality:1.5, aesthetic, 1girl, sidelocks, ((upper body)), cinematic lighting, sharp focus,large breasts , mature female, horny ,16k, glowing eyes, detailed 4k eyes,
+playground,seduction,sexy lips, parted lips,detailed lips,
+red lips, high detailed background,brown eyes, big brown eyes, 
+photorealistic, 3d,(anime style),reflection,
+leslie_zr1, blonde hair,long hair,ponytail,full body, (blue eyes), red lips,
+1girl, breasts, hetero, jewelry, penis, sex, nipples, 1boy, blonde hair, necklace, vaginal, dress, pussy, uncensored, lying, on back, earrings, spread legs, huge breasts, ponytail, solo focus, bracelet, missionary, pov, open mouth, long hair, blush, breasts out, ring, petals, flower, white dress, thighs, looking at viewer, anklet, choker, breasts apart, makeup, high ponytail, clitoris, m legs, barefoot, official alternate costume, white rose, rose, pillow, no panties, white flower, erection, from above, sash, large breasts, couch, lips, lipstick, red lips, nude, bed, hair over one eye
+<lora:add_detail:1>
+ <lora:oil2.0_2-512LORA:1> <lora:Leslie_ZR1&ZR2_V2:0.5>

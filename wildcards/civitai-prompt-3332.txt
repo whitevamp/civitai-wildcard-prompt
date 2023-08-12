@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.7> <lora:MG_jijia:0.8>
+8k,highres,
+woman, solo, curvy, ass, blond hair, mechanical parts, mechanical wings, (hip vent, bare hips),
+cowboy shot,   ass focus,

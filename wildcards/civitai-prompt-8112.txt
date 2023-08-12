@@ -1,0 +1,7 @@
+(Masterpiece:1.2, high quality), (pixiv:1.4),(Gongbi painting of the Song Dynasty:1.4)(wide-angle lens,Panoramic:1.2),(imid shot:0.95),(imid shot,macro shot:1.25),Dynamic Angle, Perspective, High Point,
+masterpiece, best quality, 8k, insane details, intricate details, hyperdetailed, hyper quality, highancient ChinaChinese architectureBraid(mature female:1.5),sideways glance, (cold attitude:1.2),
+Eyebrows like early spring willow leaves, often with rain hate cloud sorrow, Face such as peach blossom in March, hidden amorous month.   Thin waist curl, constrained yan lazy warbler languid, Sandalwood mouth light, seduce the bee crazy butterfly chaos.   Enchanting jade speech, beautiful jade fragrance,
+ A shot with tension(sky glows red,Visual impact,giving the poster a dynamic and visually striking appearance:1.2),close-up,(imid shot,macro shot:1.25),(Detailed face description),(Detailed hair description),(Detailed clothes description),
+{Extremely Delicate Beautiful},(detailed eye description),((Delicate Faces)),(Beautiful and detailed facial depiction),
+(beautiful face),thin face,slim,oval face,perfect face,delicate face,eyes detailed, Milky skin,(full body:1.8), white hair,
+<lora:Chinese style_20230607154437:0.8>

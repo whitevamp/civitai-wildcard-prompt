@@ -1,0 +1,14 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res, nfsw
+back lights, light leaks,
+1boy, (penis:0.5), doggystyle, from behind, all fours, (pov hands, ass grab:1.2), ass stretch, ass spread
+1girl, skirt, facing away, pony tail
+kpop idol
+(beautiful detailed eyes:0),(beautiful detailed face:0), (bottomless:0), (nude:0), (topless:1.2)
+indoors, classroom
+
+<lora:povDoggystyleLora1MB_povdoggy:0.9>
+<lora:grabbingOwnAss_v1:0>
+
+<lora:koreanDollLikeness_v15:0.6>  <lora:xiaorouseeu_v10:0>
+<lora:tifaMeenow_tifaV2:0>
+<lora:yelanLoraCollectionOf_yelanHard:0> <lora:chunmomo_v10:0.35> <lora:arknightsTexasThe_v10:0> <lora:raidenShogunLora_raidenShogun:0> <lora:bluearchive_Ajitanihifumi:0> <lora:genshinImpactNoelle_nV1:0>

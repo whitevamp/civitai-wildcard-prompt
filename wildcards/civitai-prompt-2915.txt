@@ -1,0 +1,5 @@
+professional photo of hmjupiter, green eyes, ponytail, sailor senshi uniform, green sailor collar, choker, elbow gloves, white gloves, pink bow, brooch, white leotard, green skirt, pleated skirt,
+detailed skin, detailed eyes, cowboy shot, standing, night, moon,
+photo made with Canon EOS  in natural style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:sailor_jupiter_v1:0.75:MIDD>

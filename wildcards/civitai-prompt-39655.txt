@@ -1,0 +1,3 @@
+<lora:covering_breasts_v0.1:1>
+1girl, naked towel, bathroom, covering crotch,
+<lora:naked_towel_v0.1:1>, masterpiece, best quality, highly detailed

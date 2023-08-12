@@ -1,0 +1,12 @@
+masterpiece, absurdres, ultra high quality,
+3dmm style,3d,realistic, high-quality, 3D realistic works, ultra-high details,
+beach,
+front view, looking at viewer, close up, standing,
+1girl, (((head, face, breasts))),
+very beautiful, pretty face, parted lips, thick lips,
+detailed skin, sweaty skin, shiny skin, tanned skin,
+((tattoos on body, tattoos of words on body)),
+((muscular)), (large breasts:1.4), wide hips, big ass, thick thighs,
+((dark hair, long hair, straight hair)),
+(crop top:1.2),
+<lora:shinyskin_v7:0.4>, <lora:add_detail:1>,  <lora:3DMM_V12:1>

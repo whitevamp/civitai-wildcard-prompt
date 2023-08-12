@@ -1,0 +1,3 @@
+2girls, sexy, lipstick, eyeshadow,  (looking at viewer:1.2),  (Charm, charming, sexy expressions, eyelashes), from behind, from below, mirror, black suit, black gloves, leather gloves,  arm on chair, on chair, grey chair, back of  chair, metal chair, makeup, cosmetics, Dressing Room,
+masterpiece, highres, best quality, high quality, clean,
+ <lora:add_detail:0.4>  <lora:koreandolllikeness_v15:0.4>  <lora:hipoly_3dcg_v7-epoch:0.1> <lora:epi_noiseoffset2:0.2> <lora:FilmVelvia2:0.2>

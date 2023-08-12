@@ -1,0 +1,13 @@
+Aesthetic: ((wild west, western, old tavern, American frontier, 1800s, cowgirl):1.4)
+BREAK
+Composition: (1girl, perfect face, perfect eyes, looking at viewer, looking back), <lora:Mooning:0.3> (ass, from behind, clothes pull, pants, underwear, looking back, pants pull, anus, pussy, undressing) wearing jeans , perfect body, (pants pulled down)
+BREAK
+Lighting: Magical Fairy Lights, Whimsical, Enchanting
+BREAK
+Quality: (award winning photography, professional photography), (8k, RAW photo, best quality, masterpiece), photo-realistic,  intricate, highly detailed, professional lighting
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.996),
+BREAK
+<lora:add_detail:0.4> <lora:URPMv1.3_LORA_296:0.2> <lora:more_details:0.2>

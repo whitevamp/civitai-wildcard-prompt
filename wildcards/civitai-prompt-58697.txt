@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), 1girl, tinker bell, fairy wings, green_fairy_dress  <lora:TinkerBell_v1:1>

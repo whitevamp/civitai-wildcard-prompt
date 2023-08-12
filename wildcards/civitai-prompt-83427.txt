@@ -1,0 +1,2 @@
+(Masterpiece:1.2, high quality), (pixiv:1.4),fansty world,
+<lora:fansty world_20230601105102-000020:1>

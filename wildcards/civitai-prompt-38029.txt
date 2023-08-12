@@ -1,0 +1,5 @@
+RAW photo, 50 mm, color graded portra 400 film, cinematic colorgrading, frontal full-body shot from high angle
+BREAK
+portrait of a beautiful blonde woman wearing a red shirt, (red slick undercut hair:1.1), she is wearing an (old t-shirt:1.1) and cropped pants, focus on eyes, perfect (grey:0.01) eyes, mascara
+BREAK
+highly detailed skin, skin blemish, (textured skin, skin pores:1.2), oiled shiny skin:0.6),(moles:0.8), (imperfect skin:1.1), intricate details, goosebumps, (light freckles:0.3), remarkable detailed pupils, realistic dull skin noise, visible skin detail, skin fuzz, dry skin, (blush:0.5), (goosebumps:0.5), subsurface scattering, 8k, uhd, ultra high quality, dslr, soft lighting, film grain, dark, muted colors, slate atmosphere <lora:add_detail:0.1>, <lora:LowRA:0.2>, <lora:polyhedron_new_skin_v1.1:0.3>, <lora:polyhedron_all_eyes:0.3>

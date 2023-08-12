@@ -1,0 +1,9 @@
+(((photo realistic, cinematographic lights, very detailed faces, 4 k, masterpiece, best quality, realistic))),
+((1girl, head, black and red hair, long hair, ponytail, bangs, multi-colored eyes, animal ears, huge breasts:1.6, cute and playful, adorable, beauty, thighs, navel, cigarette)),
+(((NSFW, nude, naked, nipples, pussy, pubic hair, blush, ashamed, sitting, looking at viewer))),
+(classic room, chair, nighttime,),
+((cowboy shot, dynamic pose)),
+<lora:hipoly3DModelLora_v20:0.5>
+<lora:Japanese-doll-likeness:0.3>
+<lora:ArknightTexas_arknightTexas:1>
+<lora:realisticVaginasGod_godpussy1V2:0.3> <lora:ArknightsChen5concept_10:0>

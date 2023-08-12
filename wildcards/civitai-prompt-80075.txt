@@ -1,0 +1,5 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,
+1girl, <lora:GGAS_Maid_Dress:0.3>,(black and white,beautiful design,extremely detailed,Maid_Dress:1.5),(from behind:1.5),(bend over:1.5),(panties peeping out of skirt:1.5),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(huge_breasts),(cleavage),narrow waist,((skinny legs)),(looking back:1.5),
+ponytail,(black hair),
+<lora:jpIDOL_v10:0.2>,<lora:LoveOnLovely_lolStyleV10:0.2>,<lora:koreanDollLikeness_v15:0.2>,<lora:cuteGirlMix4_v10:0.1>,<lora:chilloutmixss_xss10:0.1>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,

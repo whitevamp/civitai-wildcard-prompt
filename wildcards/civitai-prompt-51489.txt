@@ -1,0 +1,2 @@
+masterpiece,best quality,toon,building,simple design,Pixar style,sandbox
+Peach and Mint,<lora:toon:0.8>

@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), full body, dynamic pose,
+1girl, kashiwazaki sena, butterfly_hair_ornament, blonde_hair, long hair, Bikini, large breasts, looking at viewer, beach, laughing, open_mouth, (blush:1.2), happy, cleavage, 
+ <lora:Kizuki - Haganai  Kashiwazaki Sena:0.85>

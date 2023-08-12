@@ -1,0 +1,1 @@
+((Best quality)), ((masterpiece)), (highly detailed:1.3), 3D, beautiful (cyberpunk:1.2) special forces, robort,female with thick voluminous hair (wearing camouflage_uniform:1.1), body armour,cape,digital (camouflage:1.3), <lora:FINAL Robort:0.5> <lora:camouflage_uniform04:0.5> <lora:nijiMecha:0.6> fcPortrait

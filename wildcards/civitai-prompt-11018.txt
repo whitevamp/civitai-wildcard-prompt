@@ -1,0 +1,1 @@
+studio portrait of  jenn1f1850, victorian woman, wearing high collar victorian gown, lace, satin, jaquard, 1800s, analog, grainy, dust, scratches, blurry, Daguerreotype, Gelatin silver, Collodion_Photo, sepia <lora:LowRA:0.8> <lora:Collodion_Photo:0.95>

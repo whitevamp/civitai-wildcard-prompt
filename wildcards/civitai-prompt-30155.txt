@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format,  (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.8>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult  woman, freckles, hazel eyes, black half-up half-down hairstyle,
+portrait, solo, (full body:0.6), detailed background, detailed face, (<lora:ZonaiAIv8:0.6>, ZonaiAI theme:1.1), explorer, sneaking, dynamic pose, courageous, rugged leather clothes, vest, wide brim hat, amulet, belt, flaming torch, (derelict:0.7) ruined altar background, long forgotten relics, mist, occult, dark foreboding atmosphere,

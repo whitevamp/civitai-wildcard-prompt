@@ -1,0 +1,4 @@
+masterpiece, best quality, highres, 3girls, beach, orange sky, dusk, water, from above
+AND 3girls, beach, orange sky, dusk, water, from above, Kagamine Rin, short hair, white bikini, white bow, <lora:kagamineRinVocaloid_v10:0.8>
+AND 3girls, beach, orange sky, dusk, water, from above, Watame, white tanktop, blonde hair, long hair, bare shoulders, yellow pareo, sheep horns, <lora:tsunomakiWatame4Outfits_v30:0.8>
+AND 3girls, beach, orange sky, dusk, water, from above, Sena Kashiwazaki, long hair, butterfly hair ornament, blue bikini, <lora:SenaKashiwazakiLORA-000007:0.8>

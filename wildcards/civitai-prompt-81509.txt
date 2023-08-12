@@ -1,0 +1,1 @@
+young man,handsome,muscular, hairy body,detailed eyes,upper body, at the beach,sunlight, mature,facial hair, looking at viewer, <lora:add_detail:0.7>

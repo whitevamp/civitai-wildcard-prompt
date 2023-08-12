@@ -1,0 +1,1 @@
+(tough guy), male, skinhead, (beard:0.7) big muscle, earrings, monochrome photography, naked <lora:GFman:0.5> <lora:lowra_v10:0.5> <lora:add_detail:0.8>

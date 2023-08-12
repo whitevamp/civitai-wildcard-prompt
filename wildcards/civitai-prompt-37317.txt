@@ -1,0 +1,3 @@
+(masterpiece, best quality, intricate:1.3), (photorealistic:1.5), 1girl, skindentation, realistic skin, short hair,
+BREAK 
+<lora:add_detail:0.3> <lora:AbsinthePunkAI:0.3> <lora:IvoryGoldAIv2:0.6> <lora:mzcAI_v2:0.5:AA> <lora:weight_slider_v2:2> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.2> <lora:epiNoiseoffset_v2Pynoise:1> <lora:CatholicSchoolUniformDogu:0.8:BB> catholic school uniform,

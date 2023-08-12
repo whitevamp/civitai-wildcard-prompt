@@ -1,0 +1,10 @@
+absurdres, (best quality), (masterpiece),(intricated, ultra-detailed:1.2),(photorealistic:1.4),(highres),reflection, cowboy shot, (1girl:1.3),
+BREAK
+, (young adult:1.3), ninja, glowing eyes, amethyst eyes, bare shoulders, strapless,
+BREAK
+, traditional east asian architecture,  night, (one_blue_moon),(fog:0.6), blue fire, starry sky, nebula,
+<lyco:LowRA:0.5>, 
+<lyco:add_detail:0.6>
+<lyco:anime_minimalist_v1-000020:-0.5>
+BREAK
+, Capture the delicacy of colored pencil art, with fine detail, subtle shading, and a sense of texture and depth.

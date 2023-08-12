@@ -1,0 +1,2 @@
+absurdres, highres, ultra detailed,moody lighting, tranquil, calm, glow,masterpiece, best quality, 1girl,solo ,heart-shaped pupils,open mouth, nipples,lactation,milking machine,stationary restraints, naked, full body view, aqua \(konosuba\) , squirting pussy
+ <lora:Four-StationaryRestraintsV1:1>, <lora:milking_machine1e-4:1>

@@ -1,0 +1,3 @@
+1 girl, adult (elven:0.7) woman, freckles, silver eyes, platinum blonde twin drills hair,
+(style-swirlmagic:1.0), portrait, looking up, solo, half shot, detailed background, close up,  detailed face, (<lora:crystallineai_v10:0.6>, crystallineAI, crystalline theme:1.1), crystal sorcerer, levitating,  ice themed clothes,  rocks floating in the air, glowing  shards, surrounded by blue  jewels, jade,    magical floating particles,    crystal canyon background, (shallow water:0.7), magical cinematic ethereal atmosphere, backlighting, reflections, 
+torino aqua, <lora:torinoAquaStyleLora_offset:0.4>,

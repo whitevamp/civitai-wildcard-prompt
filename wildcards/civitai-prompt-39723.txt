@@ -1,0 +1,3 @@
+masterpiece, best quality, dim lighting, cowboy shot, 1girl, medium breasts, black hair, long hair, unbuttoned white blouse, leaning against the wall,
+ <lora:covering_breasts_v0.1:1>, covering crotch, covering breasts,
+(in the office:1.2)

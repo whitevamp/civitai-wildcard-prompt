@@ -1,0 +1,9 @@
+best quality, ultra high res, hyper detailed, (professional lighting), (photorealistic:1.4),
+nsfw, (public indecency, exhibitionism, public nudity:1.1), street, (crowd:1.2),
+1girl, 16yo, cute face, brown short side ponytail, 
+large breasts, huge breasts, 
+nose blush, 
+(full body:1.1), knee, from below , 
+naked tabard, puffy eyes, 
+<lora:nakedTabard_v10:1>, 
+ <lora:japaneseDollLikeness_v10:0.6>

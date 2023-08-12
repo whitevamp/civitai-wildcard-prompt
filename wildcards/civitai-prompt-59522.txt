@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),
+<lora:dreamyGirlsFace_dreamyFace:0.4>, <lora:3loraGuofeng3Lora_v32LoraBigLight:0.4>, (corneo_x_pasties:1.3), japan idol,<lora:Sailor_Chibi_Moon-01:1>,sailor chibi moon,pink hair,red eyes,,twintails,twin hair buns
+1girl, full body, 18 years old, pink hair, bangs, long hair, double ponytail, hair ornament, flat breasts, small breasts, naughty face, pink skirt, nsfw,
+in a train, train background, (crowd),
+professional lighting

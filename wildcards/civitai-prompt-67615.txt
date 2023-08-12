@@ -1,0 +1,8 @@
+nsfw, (masterpiece:1.3), best quality, full color, illustration, high-res, extremely detailed, ultimate intricate, detailed beautiful eyes, detailed beautiful face,
+1girl, solo, narrow waist, skinny,
+long hair, high ponytail, 
+school uniform, skirt, serafuku, short sleeves, bow, sailor collar, shirt, ribbon,
+(blue skirt), (white shirt), (black pantyhose),
+open mouth, smile, fang,
+Sitting down with legs crossed,
+<lora:akebiChanNoSailor_v10:1:soft>

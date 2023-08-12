@@ -1,0 +1,1 @@
+solo,standing,1 girl,robot,mecha,science fiction,weapon,gun,white background,holding,holding weapon,mechagirl girl, <lora:mechagirl_v1a:1>, <lora:flat2:-1>

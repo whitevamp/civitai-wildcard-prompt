@@ -1,0 +1,1 @@
+<lora:epiNoiseoffset_v2:1> <lora:bigguns_v121:0.7> erotic art,  beautiful:2, precisely drawn:2, steampunk:3, beautifully lit:0.8

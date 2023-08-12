@@ -1,0 +1,1 @@
+MEDIUM SHOT,<lyco:GoodHands-beta2:0.5>,high quality, masterpiece, (realistic, photo-realistic:1.2) ,high definition, ultra detailed, raw photo,cinematic light,  1girl, sexy, blindfold, lip-biting, upper body, bedroom,  <lora:MASK-v1:0.8>,nsfw

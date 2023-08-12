@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+ <lora:amelia:0.8> amelia watson, white shirt, red necktie, plaid skirt, high-waist skirt, thighhighs, stethoscope, pocket watch, detective, coat, deerstalker, black footwear, frilled shirt, collarbone, suspender skirt,
+ <lora:smol_20230527144512:1.4> smol,  smile,

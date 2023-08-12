@@ -1,0 +1,1 @@
+ultra quality,(masterpiece), 1girl,carriage,subway,(uniform),night,cyberpunk,looking at viewer,<lora:fashionGirl_v50:0.3>,<lora:saikaKawakita_saikaV30:0.50>

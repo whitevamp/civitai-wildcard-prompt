@@ -1,0 +1,6 @@
+dramatic cinematic light ADDCOMM ADDCOL TI_Vermeer William-Adolphe Bouguereau, and David Hamilton, by Gustave Courbet Adrian Gottlieb, mossy rock, bath in the lake, waterfall, cloudy sky, (puffy nipples:1.2), (erect nipples:1.2), (cameltoe:1.1), sheet fabric, smile,  (small breast:1.4)
+portrait of a European woman nude, detailed skin imperfections , detailed oily skin , wet skin,  (shaved pussy:1.1) clitoral hood, female love, 
+
+(puffy pussy:0.3)             (full body shot:1.1)
+     
+  (detailed masterpiece)    (paint on used canvas:0.4)    semi-realistic <lora:epi_noiseoffset2:0.7> <lora:lowkey_v1.1:0.4>                   <lora:add_detail:1>                           <lora:handmix101:0.2>

@@ -1,0 +1,1 @@
+on ground,  star_\(sky\), starry_sky, starry_sky_print, light_particles, space, 1girl, night_sky, long_hair, solo, night, dress, shooting_star, closed_eyes, galaxy, bare_shoulders, --no-half-vae, --disable-nan-check

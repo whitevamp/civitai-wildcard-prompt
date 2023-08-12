@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, resting in flower field, pink hair medium hair topknot, glowing eyes, armor, CyberskullAI <lora:CyberskullAI:0.75> <lora:flat2:-0.3>

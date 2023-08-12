@@ -1,0 +1,4 @@
+ankymoore, split color hair, stainedglassai, 
+2d, nsfw, pastel color, watercolor, low color saturation, ink sketch,  
+beautiful face, beautiful eyes, detailed eyes, colorful, illustration, super long legs,sexy clothes, ink watercolor,1girl, solo, high heels, see through, ornamental, long hair, tiffany blue, nikon yellow, UPS brown, ornamental, lips, eyelashes, makeup, lipstick, eyeshadow, 2d, lineart,
+<lora:ankymoore-04:0.95> <lora:stainedglassai_v10:0.5> <lora:SplitColorHairV1:1>

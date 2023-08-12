@@ -1,0 +1,5 @@
+((shell bikini, shell bra, shell panties)), earring, necklace, bangle, jewelry, white sheer mesh cardigan, 
+((cowboy shot)), standing, navel, dynamic posing, 
+bokeh, depth of field, intricate detailed background, outdoor, lens flare, sun beam, ocean horizon, seashore, 
+((masterpiece)), best quality, absurdres, nsfw, photo-realistic, a beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, black hair, blunt bangs, graceful, calm, (smile:0.85), 
+ <lora:shell_bikini:0.8>

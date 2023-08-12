@@ -1,0 +1,2 @@
+(1man),
+muscular, brown eyes, casual clothes, handsome,wearing a tight tank top, dynamic,wearing a (white) tight short, big bulge,(intricate details, Masterpiece, high quality, best quality),<lora:ChromaticAberration:0.7>, <lora:Greatwave:0.5> , greatwave

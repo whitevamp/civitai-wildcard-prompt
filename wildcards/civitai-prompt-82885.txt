@@ -1,0 +1,1 @@
+(realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper), best quality, masterpiece, ultra-detailed, 1girl,  eyelashes, messy_long_hair, colorful, smile, dancing, dynamic angle, huge boobs, beautiful and aesthetic, upper_body, looking at viewer, dunhuang_style, <lora:dunhuang_v20:0.8>, <lora:koreanDollLikeness_v20:0.7>

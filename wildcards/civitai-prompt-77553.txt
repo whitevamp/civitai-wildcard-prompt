@@ -1,0 +1,3 @@
+(1girl:1.3), absurdres , highres, ultra detailed, <lora:dpep4-768:0.5>, <lora:GL128dim-epoch-000010:0.3>,
+black hair, white dress, Gentle big Siberian Husky dog
+BREAK, beachside, cozy cottage, sand, seashells, white picket fence, inviting, homey, ocean view

@@ -1,0 +1,6 @@
+(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:ArtemisYJ-000009:0.7>ArtemisYJ, 1girl, ponytail
+<lyco:epTactical1:0.8> holding, weapon, shorts, midriff, holding weapon, gun, military, headphones, holding gun, rifle, handgun, headset, realistic, assault rifle, camouflage, m4 carbine, load bearing vest,wearing epTactical
+BREAK
+(desert, oasis, outdoors, gorgeous view)

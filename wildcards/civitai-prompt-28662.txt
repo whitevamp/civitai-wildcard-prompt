@@ -1,0 +1,6 @@
+<lora:Lora-Custom-ModelLiXian:0.6>, 1man,
+a young topless muscular male,  (high detailed skin:1.2),
+in  camera studio with 3 flash,
+soft lighting,
+masterpiece, best quality, 8k uhd, dslr, film grain, Fujifilm XT3
+photorealistic painting art by midjourney and greg rutkowski

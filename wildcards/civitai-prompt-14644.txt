@@ -1,0 +1,1 @@
+masterpiece, best quality,   <lora:lxz-000010:1> ,1boy and 1girl,smile,(grey background:1.6),

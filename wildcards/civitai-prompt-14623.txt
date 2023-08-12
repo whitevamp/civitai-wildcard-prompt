@@ -1,0 +1,17 @@
+masterpiece, best quality, detailed, sidelighting,
+2girls, yuri, large windows, indoors, upper body,
+gradient hair, green eyes, eyes reflection, bright pupils, shy, nervous, full blush,
+small breasts, nipples, long nipples, small areolae,
+sweat, steam, heavy breathing,
+<lora:ahegao_v1:0>,
+<lora:masusu_v10:0>,
+nude, nahidadef, <lora:nahida1_000010:1>
+AND
+masterpiece, best quality, detailed, sidelighting,
+2girls, yuri, large windows, indoors, upper body,
+blonde hair, closed eyes, tongue, drooling, shy, nervous, full blush,
+small breasts, nipples, long nipples, small areolae,
+sweat, steam, heavy breathing, hand grabbing another's breast, finger push another's nipple,
+<lora:masusu_v10:0>,
+licking ear, <lora:Saya_licking_face_licking_ear:0>,
+nude, flower, luminedef, <lora:lumine1_000008:1>

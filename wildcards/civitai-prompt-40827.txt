@@ -1,0 +1,1 @@
+<lora:inkpunkDiffusion_Lora300:1>, <lora:epiNoiseoffset_v2:1>, portrait of a beautiful little girl is looking back over her shoulder, wearing a backpack, holding a rag doll in her hand,  dystopian city in ruins, rim lighting, by Greg Rutkowski and Thomas Kinkade, sharp focus, 4k, 8k, trending on artstation

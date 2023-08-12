@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), indoors, looking at viewer, 1girl, solo, full body, from above, smile, sitting, wariza,
+origin,outfit-Implacablenun, 1girl, breasts, solo, cleavage, blush, bare shoulders, sitting, smile, large breasts, navel, thighs <lora:JS9-pynoise-000012:0.55>  <lora:outfit-Implacable-pynoise:1>

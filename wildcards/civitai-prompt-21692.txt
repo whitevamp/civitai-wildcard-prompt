@@ -1,0 +1,3 @@
+1girl, japanese woman, jewelry, earrings, black_hair, breasts, solo, gloves, medium_breasts, red theme,
+,,   <lora:niji_wushi:0.68> 
+<lora:3DMM_V12:1>

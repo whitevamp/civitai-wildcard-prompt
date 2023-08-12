@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, short hair, from side, pink theme, dress, white boots, (night sky, starry sky), phcrystal, flowers, cinematic lighting, own hands clasped, depth of field, feathers
+<lora:crystal_v1:0.6>

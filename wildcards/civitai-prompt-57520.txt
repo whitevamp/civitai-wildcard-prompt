@@ -1,0 +1,2 @@
+an african woman, (wearing samba dance dress:1.2), carnival party, (red dress:1.2),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting),  soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts, <lora:samba_dance_dress:0.5>, <lora:dollLikenessByEDG_africanDollLikeness:0.7>

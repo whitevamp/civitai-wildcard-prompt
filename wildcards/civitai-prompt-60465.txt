@@ -1,0 +1,1 @@
+( <hypernet:lizVicious_v10:1.2> liz vicious) , Highly detailed disgusting body horror creature, , <lora:bodyHorrorCreatures_v10:0.5> , dof, high definition, detailed, intricate ,  FlonixApterus:1.5 , art by apterus:1.5 style

@@ -1,0 +1,2 @@
+(masterpiece:1,2), best quality, cinematic highlight,tyndalleffect,high resolution, 4k,highres, original, extremely detailed wallpaper, perfect lighting,(extremely detailed CG:1.2), nfsw,
+blue eyes, solo, violet_evergarden, jewelry, blonde updo hair with ribbon, long sleeves, brooch, ribbon, aqua eyes,(red hair ribbon),(jacket), dress, (emerald,gem, brooch), (((face only))),town, hill, sunset street, (looking at viewer:1.3),<lora:add_detail:0.5>, <lora:Ever garden:1>

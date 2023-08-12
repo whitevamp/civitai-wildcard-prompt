@@ -1,0 +1,7 @@
+((a photograph of upper body)), ((Fashion shows background)),looking at viewer,
+(((realistic))) canon 5d, masterpiece, highest quality, ultra high-res, raw photo in hdr, lifelike texture, high contrast, subsurface scattering, f2, highly detailed, masterpiece, ultra-detailed, hyper realistic, depth of field, film grain, 4k, 8k, 16k,
+(perfect body, Standard model body type, Long legs, Perfectly proportioned body shape),
+1boy,undercut hair, amazing body, pronounced feminine feature, busty, blonde medium hair, flirting with camera,
+<lora:add_detail:0.5>,
+<lora:boltedontits:0.2> big_boltedontits,fake tits,
+<lora:Dwayne_The Rock_Johnson:1.1> th3r0ck,Dwayne Johnson,

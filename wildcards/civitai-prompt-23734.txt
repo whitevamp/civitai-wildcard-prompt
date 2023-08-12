@@ -1,0 +1,5 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharp focus, colorful, 
+SaekiSayoko, solo, 1girl, mature female, from above, full body shot, sleeping, lying, on back,  in bed, naked sheet, infirmary background, window, tree, night,
+[brown|purple|black] hair, long hair, hair ribbon, hair bow, ponytail, makeup, perfect face, detailed face, closed eyes,
+curvy, nipples, huge breasts, cleavage, 
+ <lora:SaekiSayoko-000010:0.9>

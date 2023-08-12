@@ -1,0 +1,1 @@
+1girl,alraune,  <lora:AlraunePlantGirl[alraune]V2:1>,flower,large breasts, navel,white_hair,wisteria, parted lips, arms at sides, topless,pasties,  <lora:FlowerPasties-halfAlphaV1:0.7>

@@ -1,0 +1,2 @@
+masterpiece, best quality, night, 1girl,
+ <lora:KittyKittenV1:0.8>KittyKitten,

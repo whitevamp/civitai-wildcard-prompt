@@ -1,0 +1,8 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female,  soft light, (looking at viewer:1.4),
+realistic skin, eyeliner, 
+realistic, (photorealistic),
+cleavage,
+pigtail_hairstyle, dynamic pose, 
+small breasts,choker,
+white tight long sleeve dress, bedroom, hand on hair, shoulder less,
+ <lora:pigtail_hairstyle:0.4>

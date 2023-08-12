@@ -1,0 +1,7 @@
+marlier,  ( illustration:1.4),  
+flat breast, flat chest, looking at viewer, off shoulder,  (masterpiece), (best quality:1.2), absurdres, intricate details,  , <lora:ankymoore:0.85>
+(masterpiece, best quality), intricate details,   nude, ((blushing)), 
+<lora:ophelia_:0.5>,((shortstack:1.5)),(skindentation:1.5), cross choker, ophelia,  gloves, 
+naughty face, aroused, looking at viewer, blush, smile, gloves, animal ears, small breasts, black gloves, elbow gloves, black thigh-highs,  rabbit ears, arms up, leotard, covered navel, fake animal ears, (bunny pose:1.4)
+1girl, (small breasts:1.4), looking at the viewer, long  hair, beautiful,  short height, (average body weight:1.4), (a little curvy:1.4), wide hips, flat chest,
+<lora:add_detail:0.6>

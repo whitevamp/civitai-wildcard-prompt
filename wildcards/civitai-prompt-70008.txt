@@ -1,0 +1,1 @@
+8k uhd,RAW photo,portrait shot of women, rcook ,(highres:1.1),(detailed:1.1),(realistic:1.1),(upper body:1.2),covered in honey,<lora:coveredinhoney:0.9>

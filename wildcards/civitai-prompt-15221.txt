@@ -1,0 +1,1 @@
+<lyco:EnvyBetterHands:1.0>, <lora:add_detail:0.3>, (masterpiece), best quality, detailed background, cinematic lighting, sci-fi, mecha, 1girl, medium hair, black hair, cool, medium breasts

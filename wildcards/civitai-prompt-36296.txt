@@ -1,0 +1,1 @@
+(intricate details), (****), eldritch, (nightmare), purple, (teal:1.2), (black:0.9), insane, horror \(theme\), glow, glowing eyes, (sparkly gold:1.2), glowing eyes, volumetric lighting, <lora:epiNoiseoffset_v2-pynoise:1.4> <lora:add_detail:0.7> <lora:LowRA:0.3>

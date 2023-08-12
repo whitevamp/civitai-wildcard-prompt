@@ -1,0 +1,3 @@
+Photo of a pastel-colored heavy (Kawaiitech:1.4) coffee maker on a wooden table. big window at background.
+blurry, cat face, cute.
+<lora:KawaiiTech:0.8>

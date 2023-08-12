@@ -1,0 +1,5 @@
+best quality, masterpiece, 
+BREAK <lora:revueGiraffe-000025:0.9>, 1other, giraffe (revue starlight)
+BREAK
+BREAK (2girls), (yuri)
+BREAK (2girls), (yuri)

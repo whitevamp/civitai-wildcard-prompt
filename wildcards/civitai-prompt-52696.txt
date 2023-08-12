@@ -1,0 +1,10 @@
+best quality, intricate details, detailed eyes, detailed face,
+
+
+1girl, blushing, eyelashes, happy, :|,
+
+
+<lora:bedInvitationLycoris_v10:1> bed_invitation, lying on bed, bedroom, pillow, legs crossed, ((wearing panties)), black lace panties, holding bed sheet, heart effects,
+
+(JinxLol,:1.2)  looking at viewer, navel, cloud tattoos, completely nude, nipples, exposed breasts, skinny ass,<lora:jinx:1>,
+arcane style, collarbone, medium small breasts, green hair, long hair, midriff, pink eyes, red lips, twin braids,  \(league of legends\) <lora:arcane_offset:0.4>

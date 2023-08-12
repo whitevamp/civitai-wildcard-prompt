@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), extreme detailed,(fractal art:1.3), colorful, highest detailed, JinxLol, tarot card, zentangel, dynamic pose, abstract, sparkle, ring light, halo, glow, <lora:JinxLol:1.2>, <lora:animetarotV51:0.7>

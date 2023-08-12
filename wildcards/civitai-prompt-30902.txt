@@ -1,0 +1,2 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait,lustrous skin,ik1, 1girl, full body,undressing, panty pull
+ <lora:undressing_panties_v0.1:1>

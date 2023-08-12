@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, (daylight, daytime:1.2), dramatic, 1girl, (dark skinned:1.2), long hair, exquisite and captivating scene of a graceful belly dancer in a (fantasy Arab setting:1.2) as she (sexy dances with fluidity and grace:1.3), toned body, she is wearing a rich and vibrant scanty belly dancer outfit, bejeweled bra that enhances the shape of her (big breast:1.2) and highlights her midriff, adorned with intricate beadwork, sequins, and metallic accents, creating a dazzling and eye-catching effect, skirt made of lightweight, semi-transparent fabric allowing glimpses of her legwork, arm cuffs, wristbands, finger cymbals, hair veil, face cover veil, ornamental belly button piercing, zrpgstyle, fcDetailPortrait, (detailed skin texture:1.2), (blush:0.5), (goosebumps:0.5), subsurface scattering, looking at viewer, (seductive face:1.2), (outside sultan palace, desert biome:1.2),
+<lora:AZovyaRPGArtistToolsLORAV2:0.2>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3>
+<lora:dpep:0.2>

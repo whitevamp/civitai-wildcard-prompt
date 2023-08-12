@@ -1,0 +1,21 @@
+<lora:ai_hoshino_v2.5-very-hard:0.5>, ai hoshino, long hair, blush, bangs, purple eyes, bow, parted lips, black hair, ahoge, hair bow, multiple pink bows,, ((masterpiece, best quality)), full body, starry eyes, white cloak with line printed gold, white shirt, white pants, 
+
+BREAK
+
+Yellow streaks
+
+BREAK
+
+(cinematic light:1.1),best quality,masterpiece,
+
+an extremely delicate and beautiful, extremely
+
+detailed, finely detailed, detailed face, detailed
+
+eyes, beautiful detailed eyes, (soft focus:1.2), ((upper body, from front,), an extremely delicate and beautiful), BREAK
+
+High contrast, looking at viewer, floating hair, starry, strry light,colorful, cloud, white, blue, red, yellow,green,
+
+blue,purple,orange,,starry, sky,colorful,halftone ,light_particles, (extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed, best shadow), BREAK
+
+1girl solo, outdoors, flashlight, clear sky, sunset, (smile:1.1), open mouth

@@ -1,0 +1,1 @@
+<lora:aiUehara_v10:1.2> (photo realistic:1.4), perfect anatomy, symmetry eyes, 80mm F1.8 sigma, field of depth, bokeh, makeup,  <lora:japaneseDollLikeness_v10:0.4>, 1 girl, cute, sexy, best quality, ultra high res, detailed face, sitting on chair, office, detailed background, detailed lighting, depth of field, clk, vest, pencil skirt, (bow:1.2),  <lora:clerkSuit_clk:0.6>

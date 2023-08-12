@@ -1,0 +1,1 @@
+<lora:gracia_v2-000068:.95>, (RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, beautiful detailed sky, street, lying, slim waist, smile, (bob cut), medium chest, (cutoff jeans), shirt, <lora:downblouseForBoobs_v1:1> pull off aside nipples slip downblouse (puffy nipples:0.5),  <lora:minoltaReflex500mm_v10:1>

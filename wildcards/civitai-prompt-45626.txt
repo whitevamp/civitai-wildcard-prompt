@@ -1,0 +1,5 @@
+Nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,1girl,solo,
+upper body portrait,close up photo,
+
+cheerful expression, virgin killer sweater,sideboobs,sitting in a field of wildflowers, 
+suzy1, <lora:suzy_v21-000018:.9>

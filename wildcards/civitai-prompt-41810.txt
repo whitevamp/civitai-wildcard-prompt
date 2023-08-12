@@ -1,0 +1,1 @@
+onoff, nurses in uniform, group photo, hospital locker room interior <lora:onoff4:0.9>

@@ -1,0 +1,3 @@
+1 girl, adult  woman,  ruby eyes, platinum blonde fishtail braid,
+portrait,  looking down, solo, (full body:0.6), detailed background, (<lora:IvoryGoldAI:0.4>, ivorygoldai, ivory-gold theme:1.1), angelic face, bloodthirsty expression, holy avenger, hovering in air, bright clouds, floating pebbles,  light green chain mail, divine aura, bright realistic lighting, abandoned ruins, epic atmosphere,  coat of arms, tabard, brazier, 
+<lora:PsyAI_128:0.4>, PsyAI,

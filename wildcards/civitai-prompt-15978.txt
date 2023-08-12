@@ -1,0 +1,2 @@
+realistic,photo, masterpiece, best quality, 1girl, solo, ingrid, standing, mature female, pov,  dark skinned female, pink hair, very long hair, forehead, hair intakes, purple lipstick, black eyeshadow, makeup, yellow eyes, mole under mouth, large breasts, cleavage, business suit, mini skirt, court shoes,black stickings,black coat, black jacket, high heels, pencil skirt, formal, from below, dutch angle, office, room, indoors, computer, screen, electronics, pointing at viewer, angry, frowning, yelling, open mouth
+<lora:Ingrid:0.85>

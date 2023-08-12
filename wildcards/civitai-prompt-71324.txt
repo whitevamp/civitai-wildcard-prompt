@@ -1,0 +1,17 @@
+(masterpiece, 4k ,ultra detailed,raw photo:1.2),(anime:1),illustration,(photorealistic:1),
+(cinematic_lighting:1.2),
+(1girl with golden bionic leg:1.4),(full body:1.2),
+(teasing smile:1),
+(attractive,absurdres:1),
+(standing:1),(from side:1.2),(skirt lift:1.2),
+(simple_background:1.4),
+(indoor,mansion,reflection,flooring:1.4),
+(red hair,colored inner hair),
+(gothic maid,maid apron,dress shirt,skirt:1.2),
+(supermodel:1.4),(wide_hips:1),(muscular:1),
+(35yo,mature:1.2),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:japanesedolllikenessV1_v15:0.4>,
+<lora:flat2:-0.5>
+<lora:mshn:0.7>,(mshn robot:1),
+<lora:Futuristicbot4:0.4>,(cyborg:1.4)

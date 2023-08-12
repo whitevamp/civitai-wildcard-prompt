@@ -1,0 +1,2 @@
+<lora:add_brightness:0.3><lora:add_detail:0.3> <lora:Playstation5AI:0.9><lora:capi:0.65>
+Playstation5AI capybara

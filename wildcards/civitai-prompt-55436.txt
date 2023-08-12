@@ -1,0 +1,19 @@
+a woman boxer in a boxing arena, korean, asian,
+looking_at_viewer, looking_at_camera,
+
+((action_pose), fighting_pose),
+
+((realistic, photorealistic)),
+((masterpiece, best quality, ultra detailed)),
+
+brand, logo, emblem, sponsors, advertisment,
+mouth_guard,
+shorts,
+(furrowed_brows, pained_expression, grimace),
+
+(boxer, boxing),
+boxing_gloves, arena, lights, audience, stadium, multiple people, camera_flash, banner,
+(sweating, sweat, dripping, wet),
+
+(bruise, bruised), [blood],
+<lora:cuteGirlMix4_v10:.6>

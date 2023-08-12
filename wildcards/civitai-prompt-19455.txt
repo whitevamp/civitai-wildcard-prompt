@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, gothgirl, curvy figure, fishnets, purple eyes, <lora:gothGirlLora_v10:0.75>

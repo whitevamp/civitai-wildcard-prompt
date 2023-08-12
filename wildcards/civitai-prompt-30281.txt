@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful,
+luluffx, mature female, 1girl, solo, night sky, star \(sky\),  sitting on rock, sleeping, stuffed toy, holding toy, smile, full body shot, near water, jungle, waterfall, 
+black hair, single hair bun, (hair over one eye, one eye covered:1.1), lipstick, makeup, perfect face, closed eyes, detailed hair, purple necklace,
+off-shoulder dress, black dress, strapless, fur trim, (multiple belts:1.1), black thighhighs, high heel boots, 
+curvy, large breasts, cleavage,
+<lora:LuluFFXCS2V3:0.85>

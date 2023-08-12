@@ -1,0 +1,1 @@
+masterpiece,best quality,extremely detailed,4k,small river,moonlight,calm,Serene Sanctuary,Tranquil Tea House,Zen Pathways,Meditative Koi Pond,Minimalist Rock Garden,Rustling Bamboo Grove,Focal Lantern Point,chromatic aberations,no human,night,(foggy:1.2) <lora:blacklight:0>

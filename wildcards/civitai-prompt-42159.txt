@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, gura_bikini, blue bikini, frills, <lora:gura:0.8>, swimming, money, nirvana,   <lora:nevermind_album_v0.1:1>

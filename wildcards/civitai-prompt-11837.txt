@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, hm2b, 1girl, portrait, realistic, towel, (onsen), sidelighting, wallpaper, nsfw, masterpiece, best quality, highres, hm2b, black blindfold, covered eyes, <lora:yorha_noDOT_2_type_b:0.5> <lora:add_detail:0.5>

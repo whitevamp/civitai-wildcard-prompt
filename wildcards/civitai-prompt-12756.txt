@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, beautiful lighting, Cinematic film still,
+full medium shot, RAW photo, 1girl, gorgeous 18 years old, caucasian, blonde stylish hair, perfect sparkling blue eyes, pale skin, big breast, cleavage, finely detailed features, innocent  and pure look, celestial, skinny body, looking at camera, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering,
+white clothing, holy robes, cleric holding a staff, pope hat, garter belt, cross necklace, cross earrings, small panties, zrpgstyle, outdoors, church atrium,( god rays:1.1), 
+fcDetailPortrait, 
+<lora:AZovyaRPGArtistToolsLORAV2:0.2>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3> 
+<lyco:hamichichiB:0.3>

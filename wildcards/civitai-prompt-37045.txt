@@ -1,0 +1,1 @@
+<lora:GoodHands-vanilla:1>, (best quality, masterpiece, bokeh), <lora:vaultsuit:0.6>, fallout 4, 1girl, VaultGirl, blonde hair, short hair, with pipboy3000,leather armored, squatting, (dog, german shepherd), gauss rifle

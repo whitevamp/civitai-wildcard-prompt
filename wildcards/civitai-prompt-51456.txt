@@ -1,0 +1,5 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1girl,
+(chibi:1.1),cute, smile, ((((ponytail|short|white hair))):1), blue eyes, 
+earring, (white blouse), (black skirt), (fishnet stockings),
+((sitting on red sofa):1.1), seductive posture, smile, A sleek black coffee table sits in front of the sofa and a few decorative items are placed on the shelves,
+(beautiful detailed face), (beautiful detailed eyes), <lora:blindbox_V1Mix:1>

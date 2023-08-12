@@ -1,0 +1,3 @@
+favre,super long hair, makeup, super long legs, over knee boots, ankymoore, 
+nsfw, illustration, fashion, girl, cleavage, bird, flower, parrot, peacock, 
+sexy dress, minimalist,elbow gloves,flat color , <lora:ankymoore-04:1> <lora:malikafavre-04:1>

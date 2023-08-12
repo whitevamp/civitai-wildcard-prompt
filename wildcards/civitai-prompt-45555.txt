@@ -1,0 +1,13 @@
+(masterpiece:1.2, best quality, highres, ),
+(realistic, photorealistic:1.2),
+ifelike,
+
+bokeh,wet floor,street
+((t-shirt:1))(pink jacket)((brown shining hair color))((show breast:1.45))
+1girl, beautiful eyes,(smile face),\(cosplay\),\(k-pop idol\)
+wind, cityscape, lovely night, natureal light reflection, soft light on the face,
+((unreal-engine:1)),
+depth of field,
+
+
+<lora:nikkeViper_v2:0.89>

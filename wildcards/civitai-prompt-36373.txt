@@ -1,0 +1,7 @@
+masterpiece:1.5, best quality:1.5, aesthetic, 1girl, sidelocks, cinematic lighting, sharp focus,large breasts , mature female, horny ,16k, glowing eyes, detailed 4k eyes,
+playground,seduction,sexy lips, parted lips,detailed lips,
+red lips, high detailed background,((big brown eyes)), detailed face,
+clara_ma,solo, 
+breasts, purple hair, long hair, high heels, cleavage, huge breasts, red skirt, skirt, 1girl, hat, anger vein, necklace, santa hat, belt, jewelry, navel, red footwear, christmas, midriff, crop top, open mouth, santa costume, miniskirt, thighs, bare shoulders, fur trim, snow, smile, shirt, mature female, 1boy, very long hair, multiple boys, curvy, fur-trimmed skirt, outdoors, snowing, 2boys
+ <lora:oil2.0_2-512LORA:0.7> 
+<lora:add_detail:1> <lora:Clara_MA:0.5>

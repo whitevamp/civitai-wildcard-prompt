@@ -1,0 +1,3 @@
+<lora:Playstation5AI:.9>
+Playstation5AI
+fashion

@@ -1,0 +1,6 @@
+1 cyborg in a  fantastic glowing   cyberhelmet head, full body, battle stance,  silver reflective armorsuit,  (cape), walking down the street
+organic, eye shield,  diffuse lighting, fantasy, intricate,   highly detailed, lifelike,   smooth, sharp focus,
+(photorealistic:1.5), concept art,
+wires, tubes, dark room, dim light
+cyberpunk, blade runner,
+<lora:cyberhelmetv0.7:0.6>    <lora:epiNoiseoffset_v2:0.4> <lora:ArmorSuit_v1:0.5>

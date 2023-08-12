@@ -1,0 +1,1 @@
+masterpiece, best quality, hermione granger,  <lora:Hermione Granger2:0.8>

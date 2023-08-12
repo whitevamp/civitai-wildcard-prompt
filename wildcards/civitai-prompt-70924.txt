@@ -1,0 +1,1 @@
+masterpiece, highres, best quality, ultra-detailed, perfect lighting, <lora:mcnsfw_3597:1> mcnsfw, (white shirt:1.2), (red skirt:1.2),  <lora:necoArcCharacters_necoArcv3final:1.2> neco-arc, 1girl, :3, cat ears, cat girl, cat tail, solo, slit pupils, yellow hair, red eyes,

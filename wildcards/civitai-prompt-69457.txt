@@ -1,0 +1,2 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, Iron woman, (((full body))),shiny skin, dramatic lighting,White dress,beach
+<lora:koreanDollLikeness_v15:0.5> <lora:taiwanDollLikeness_v10:0.2>

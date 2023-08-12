@@ -1,0 +1,3 @@
+nsfw, (autumn night), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 
+1girl, nude, slim fit body, cute, In a pastry shop, all kinds of desserts and cakes are displayed in the window, colorful and exquisite. The store is filled with the tempting aroma of pastries, and the pastry chef is baking fresh delicacies in the back kitchen. People wait in line in anticipation of tasting the tantalizing dessert,
+<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia2:0.4>,

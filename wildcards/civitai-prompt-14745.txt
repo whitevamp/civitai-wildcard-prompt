@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.2), (retro artstyle, 1990s \(style\):1.2), intricate details, vibrant image, sharp focus, trending on pixiv
+HayamiAyuko, solo, mature female, 40yo, milf, (dark skinned female:1.2), (dark skin:1.1), shower \(place\), sitting, spread legs, full body shot, 
+moaning, ahegao, blush, horny, open mouth, black hair, short hair, (makeup:1.05), calm, brown eyes, perfect eyes, perfect face, detailed hair, detailed face,
+(nude, naked:1.1)
+wet, perfect body, sporty, thighs, (large breasts:1.03), pussy, 
+ <lora:HayamiAyuko:0.85>  <lora:more_details:1>

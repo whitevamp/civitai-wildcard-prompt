@@ -1,0 +1,1 @@
+phblue, scenery, no humans, landscape,  (masterpiece,best quality:1.4), blue theme, city, dusk, 1girl, rain,cowboy shot, close up, <lora:bluestyle-000005:0.5>,

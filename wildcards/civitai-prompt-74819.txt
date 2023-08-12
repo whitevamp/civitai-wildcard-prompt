@@ -1,0 +1,1 @@
+mix4,,masterpiece, best quality, ultra high res, highres, best shadow, physics-based rendering, an extremely delicate and beautiful, extremely detailed, amazing,a girl in a skirt and tie standing in the water with her arms behind her back and her head tilted, <lora:japaneseDollLikeness_v10:0.1> <lora:koreanDollLikeness_v15:0.2> <lora:mix4:0.5>

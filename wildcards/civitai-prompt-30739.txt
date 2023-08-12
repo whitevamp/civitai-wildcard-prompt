@@ -1,0 +1,1 @@
+<lora:DemonicTech:.8> DemonicTech, scifi, ((Still life)), transparent cup of Ambrisia, sparkling, golden liquid, celestial glow, ethereal, divine nectar, heavenly ambiance,  <lora:add_detail:1>

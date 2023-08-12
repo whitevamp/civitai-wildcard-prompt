@@ -1,0 +1,7 @@
+(RapunzelWaifu:1), 1girl, smile, :D, sexy, looking at viewer, (dress:1.2), from below, magic, (cute pose:1.2), (big breasts), curvy, big eyes, ((cute)), thick thighs, blonde,
+
+(realistic:1.2), (realism), (masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1),(Cowboy-shot:1.2), (85mm),light particles, lighting, (highly detailed:1.2),(detailed face:1.2), (gradients), nsfw, colorful, (detailed eyes:1),
+
+(detailed ladscape, castle, big door, bricks, flowers:1.2), (detailed background),detailed landscape, (dynamic angle:1.2), (dynamic pose:1.2), (rule of third_composition:1.3), (Line of action:1.2), wide shot, daylight, solo,
+
+ <lora:Rapunzel_character-20:0.7>  <lora:reiqStyleLORA_v2:0.6>

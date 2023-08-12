@@ -1,0 +1,8 @@
+masterpiece, best quality, real picture, intricate details, 1girl, chunlims, kneeling, hands up, armpit, from above
+Appearance: {mature, slender, small_breasts, slim, fit, muscule, lips, moisture lips}
+Clothing: {nude, naked}
+Accessories: {ribbon}
+Hair: {hair bun, double bun}
+Location: indoors, bedroom
+Behavior: blush, half closed eyes, bite lip, looking at viewer
+<lora:chunLiStreetFighter_v10:1>

@@ -1,0 +1,1 @@
+1girl,portrait,elf, pointy ears, priestess,fantasy,glistening skin, crystal, jewelry,necklace,flower,eyelashes,collarbone, beautiful, detailed eyes,shiny lips,looking at viewer,forest (masterpiece, high quality:1.2),none  <lora:NonHentaiElf_v10:0.9>

@@ -1,0 +1,1 @@
+grainy, detailed,dynamic lighting, dark, rain, reflection on water, futuristic city <lora:Blade Runner 1982:1>, girl walking, cyberpunk clothing, lights on cloths, dark, neon lights,  bioluminescent details, Shimmering light

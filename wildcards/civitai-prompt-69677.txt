@@ -1,0 +1,7 @@
+(best quality:1.1), (masterpiece:1.2), (realistic:1.2), (detailed:1.1), (high quality skin:1), (high detailed face skin:1.1), (realistic iris:1.1), (realistic pupils:1.1), realistic lighting,  trending on Artstation, (delighting, finely detailed beautiful eyes: 1.2),(intricate:1.2), (fractalized, fractal_environment:0.4), 
+ subsurface scattering, chromatic aberration, foreground focus, depth of field, soft (night:1.3) lighting, detailed lighting, shadowed, moody, romantic, intimate,
+(view from behind, ass focus, view from below) ,  Hand on chin pose, close perspective, sweat sheen, tight skin, toned body, thick thighs, anus peek, (tomboy:1.2),
+thick brow, sharp jawline, arched back, looking back, detailed face, beautiful Lilac hair, Ponytail, goth girl, Hands on hips pose, (sexy, arousing, erotic:1.4), toned tight ass, (big ass:1.2), (perfect butt:1.2), tattoos, piercings, (robotic arm, metallic robot skin, android girl:1.4),
+rain splatter on floor to ceiling windows, dim apartment suite, lavish furnishing, (detailed cyberpunk background, vibrant neon lighting:1.3), 
+photoshoot of a woman quironSilviaSaintV1 ,  (blond hair:1.3), big tits, abs, beautiful athletic,  cinematic,by Gordon Parks,
+  <lora:quironSilviaSaintV1:1>, <lora:fractalized:0.4> ,

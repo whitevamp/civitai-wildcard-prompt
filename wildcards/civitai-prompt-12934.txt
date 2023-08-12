@@ -1,0 +1,3 @@
+<lora:marilynmonroe:0.3> marilynmonroe, 
+1girl,  blonde,  blue eyes, (blonde hair, curvy hair, red lip:1.4),solo, walking, looking at viewer, medium breasts, mature women, seductive smile, masterpiece, absurdres, high quality, intricate details, 
+ <lora:tangStyle5:1:CLOTHING>

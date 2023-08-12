@@ -1,0 +1,1 @@
+cartoon, beautiful, masterpiece of a goblin girl, <lora:goblin_lora:1>, <lora:sexy_attire:1>,

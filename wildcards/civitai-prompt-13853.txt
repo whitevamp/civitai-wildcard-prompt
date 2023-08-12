@@ -1,0 +1,1 @@
+masterpiece, realistic, full body, (ancient painting style:1.2), greek mythology, 53yo handsome daddy with moustache, wearing toga, topless, (sunny, outdoor), strong sunlight, large greek temple, vegetation, many flowers,  <lora:flat2:-0.8>, <lora:SLS:0.4>, <lora:deluster1:-0.6>

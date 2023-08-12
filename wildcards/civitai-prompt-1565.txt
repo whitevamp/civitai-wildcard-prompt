@@ -1,0 +1,4 @@
+(best quality, masterpiece:1.2), 8k detailed cgi render, thick outlines, strong shadows, <lora:add_detail:0.75>,
+1 girl, adult  woman, freckles, silver eyes, copper long hair,
+(style-swirlmagic:1.0),  looking down, solo, (full body:0.6), detailed background, close up,  detailed face, (<lora:Unholy:0.5>, Sc3pt4, scifi theme:1.1), crystal mage,   elemental rock themed clothes,   floating in the air, glowing  rocks, surrounded by white magical gems, pyrite,  stalagmites, crystalline pattern, magical floating particles, crystal glass, crystal dust,  icy canyon background,  magical epic ethereal atmosphere,  reflections,
+<lora:fractalized:0.2>, fractal_environment,

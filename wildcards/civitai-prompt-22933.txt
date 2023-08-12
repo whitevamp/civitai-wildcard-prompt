@@ -1,0 +1,1 @@
+masterpiece, best quality,outdoors, grass,tree,heart,speech bubble,<lora:TsunadeV1:0.7>

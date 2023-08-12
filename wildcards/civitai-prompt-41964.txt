@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (photorealistic, ultra realistic 8k CG), raw photo, photo:1.5, realistic:1.5, photorealistic:1.5, ultra highres, 8k, texture skin, realistic skin, detailed skin, highest detailed, extreme detailed, 8k wallpaper, colorful,
+portrait a lying demon female made of wisps of smoke ready to tear into your soul, painting by Mark Brooks and John Berkey, high contrast dynamic lighting, fantasy, eyes of flame, intricate detail, sharp focus, masterpiece, anatomical details, full body shot, 8k
+(focus on), color Ink wash painting,
+<lora:sdxL_offset:1> <lora:Neg4all_xl_V7:1> <lora:6-12yifu:0.8>

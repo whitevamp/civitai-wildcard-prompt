@@ -1,0 +1,1 @@
+nice hand, hand holding hair,  <lora:more_details:0.4> <lora:/workspace/sd/stable-diffusion-webui/models/Lora/modernart0.5>

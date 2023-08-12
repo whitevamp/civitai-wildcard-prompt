@@ -1,0 +1,7 @@
+stargatehorus,   warrior of  horus, futuristic Egypt,     glowing eye, 
+((dynamic pose, over the shoulder view)),   solo, dark chamber, dim light 
+ muted color, realistic 
+photorealistic
+   depth of field 
+   (masterpiece, best quality:1.3),
+stargate  <lora:add_detail:1> <lora:stargateHorus:0.4>

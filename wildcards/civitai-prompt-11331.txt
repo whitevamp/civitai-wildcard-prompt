@@ -1,0 +1,1 @@
+<lyco:GoodHands-beta2:1.0>, <lora:add_detail:0.3>, (masterpiece), best quality, detailed background, cinematic lighting, vibrant, vivid color, colorful, BREAK 1girl, rainbow

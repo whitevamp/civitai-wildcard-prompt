@@ -1,0 +1,1 @@
+(bad quality),(solo), 0pen, tongue out, mouth open, (grain photography, luminance noise), from above <lora:0pen3:1>   <lora:add_detail:0.5>

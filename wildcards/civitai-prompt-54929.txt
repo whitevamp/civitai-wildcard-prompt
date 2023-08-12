@@ -1,0 +1,1 @@
+masterpiece, best quality, 8k, perfect lighting, cinematic lighting, adult, mature, female, 1girl, solo, solo, looking at viewer, (RSEEmma:1.3), <lora:MISC-GlossyFace:0.3>, portrait, upper body,  <lora:CHAR-AsukaEvangelion:0.35>, (souryuu asuka langley:1.1), interface headset, (red bodysuit:1.2), space, dark sky, stars, earth,  <lora:POSE-BreastFocus:0.6>

@@ -1,0 +1,5 @@
+Highly detailed, High Quality, Masterpiece, beautiful, yunax2 <lora:Char - YunaV6:0.9>, heterochromia eyes, brown hair, short hair, spiked hair, 
+AND
+Highly detailed, High Quality, Masterpiece, beautiful, sharp focus, masterpiece, best quality, paine, choker, necklace, crop top, off-shoulder, elbow gloves, belt, suspenders, black shorts, standing, beach, looking at viewer, neutral expression 
+detailed background, 
+ <lora:Char - Paine:0.8>

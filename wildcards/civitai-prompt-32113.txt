@@ -1,0 +1,1 @@
+<lora:geometric_shapes:1>,1girl, <lora:aerith-nvwls-v1-final:1>, aerith gainsborough, choker, cropped jacket, hair bow, bracelet, pink dress, brown boots, (masterpiece, best quality, high quality, highres, ultra-detailed),

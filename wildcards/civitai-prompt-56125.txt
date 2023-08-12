@@ -1,0 +1,19 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:1),
+(1girl:1.2),
+(smirk,smug:1),
+(looking at viewer:1.4),portrait,(fullbody:1.2),
+
+(standing:1.2),(supermodel:1.4),
+
+(indoor,bedroom:1.2),(simple background:1.2),
+
+(tie,schoolgirl_uniform,long sleeve dress shirt,black pleated skirt,socks:1.2),
+
+(black_hair),(medium length hair,ponytail),
+
+(cleavage:0.5), (wide_hips:1),(milf,mature,35 years old:1.2),(curvy:1.1),(flat chest:1),
+
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:Cnbeauty4_v1:0.4>,
+
+ <lora:musctonkStyle_v10:1>,(muscular:1.2),(calf muscle,thigh muscle:1.5),

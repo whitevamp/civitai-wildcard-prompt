@@ -1,0 +1,1 @@
+LightningMagicAI,scifi mechangel wearing inblackholetech armor covered in glowing tattoos with wings and lightning halo, lightning storm rages in dark skies filled with blue purple excessive energy  <lora:mechaangelv2-noise:0.7>   <lora:ElementalMagicAIv2:0.5> <lora:InfraBlackholeTech:0.6>

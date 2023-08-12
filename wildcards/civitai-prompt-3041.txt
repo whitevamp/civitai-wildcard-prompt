@@ -1,0 +1,2 @@
+(highres), (absurdres), (best quality), (high quality), (masterpiece), 1girl, shenhe \(genshin impact\) silver hair, braid, earrings, (white t-shirt:1.2), staying, wall, bedroom, blush, breasts, clothes writing, cowboy shot, bang, large breasts, looking at viewer, navel, solo, thighs, panties, cameltoe, (nipples:0.6)
+<lora:Shenhe_Soft:0.5> <lora:ran:0.3> <lora:LUMI06:0.3> <lora:koreandolllikenessV20_v20:0.2> <lora:AG-yan:0.3>

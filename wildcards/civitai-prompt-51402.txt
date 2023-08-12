@@ -1,0 +1,1 @@
+RAW, analog style, A stunning portrait of a beautiful woman, plain white background, nbdy-scarlet-sd15, ((highly detailed skin, skin details)), sharp focus, paisley shirt, 8k UHD, DSLR, high quality, film grain, Fujifilm XT3, <lora:epiNoiseoffset_v2:1>

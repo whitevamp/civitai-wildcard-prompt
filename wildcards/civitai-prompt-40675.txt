@@ -1,0 +1,2 @@
+1girl,curly hair,in the dark,deep shadow,soft light,
+<lora:GirlfriendMix2:1>

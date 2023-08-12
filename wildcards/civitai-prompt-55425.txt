@@ -1,0 +1,1 @@
+arona, 1girl, white hairband, bow hairband, halo, short hair, single braid, school uniform, blue shirt, white sailor collar, long sleeves, white bowtie, white choker, white background, <lora:aronaBlueArchive_v1:0.6>, chibi, <lora:BlueSD:0.7>

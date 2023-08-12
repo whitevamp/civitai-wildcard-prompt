@@ -1,0 +1,7 @@
+(1girl, woman, solo, purple eyes, seductive smile, sexy, gorgeous, elegant, (nsfw:1.2, nude), puffy lips, medium hair, purple hair, smooth body, soft skin, large breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+standing, looking at viewer, close shot,
+BREAK
+bedroom, morning,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

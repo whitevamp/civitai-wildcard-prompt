@@ -1,0 +1,1 @@
+((masterpiece, best_quality)), 1girl, (photorealistic:1.4),  solo, white_background, black_hair, long_hair,   zettai_ryouiki, skirt, ((full_body)), <lora:mikuya_v15:0.8>  <lora:sfgp1-v2-000016:0.6>

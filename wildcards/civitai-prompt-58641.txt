@@ -1,0 +1,1 @@
+(best quality), (masterpiece), <lora:mPixel_v30MordenPixel:0.5>,pixel,pixel art,full body <lora:AltairReCreators_v10:1>,1girl,solo,cowboy shot ,

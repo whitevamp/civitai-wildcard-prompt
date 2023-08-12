@@ -1,0 +1,2 @@
+<lora:EABA_v1:0.6> <lora:zhongfenghuaxiyou-000018:0.4:PALLETE> zhongfenghua,  eaba, 
+wide-angle, cinematic lighting, (1girl, female general standing up on the hill:1.2), wearing full armour, fighting enemies with Chinese Tang Dao,  protect the city walls, hand gloves, blood on the face, blood on armour, golden ratio, exaggerated facial expressions, classic scene,

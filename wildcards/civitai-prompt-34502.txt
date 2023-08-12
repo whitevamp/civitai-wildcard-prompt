@@ -1,0 +1,2 @@
+<lora:Squeezer2:1>, <lora:more_details:0.6>, <lora:litlights:0.2>, <lora:epi_noiseoffset2:1>, <lora:unhorny_v01:-1>, (2girls:1.2),(yuri:1.2), train, molested, chikan, (anal fingering:1.1), (ass:1.2), (skirt:1.2), <lora:chikan_v3.1:0.7>, <lora:GoodHands-vanilla:1>, <lora:ddafing_v1(pd):0.4>,   BREAK
+Aesthetic: ((urban life, crowded train, commuter chaos, public transit):1.1) BREAK Lighting:  vibrant, dynamic, colorful, urban night lights, BREAK Quality: intricate, highly detailed, sharp focus, realistic, 8k BREAK

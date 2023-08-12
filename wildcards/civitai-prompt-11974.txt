@@ -1,0 +1,1 @@
+<lora:kamehameha-10:0.9>, kamehameha,  looking at viewer, both hands on hip, charging, (energy ball), electricity, (night scene),  green hands  <lora:Kermit:0.8> Kermit,

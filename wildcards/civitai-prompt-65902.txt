@@ -1,0 +1,4 @@
+fantasy, (3girls), outdoor, elf, (forest), upper body, (masterpiece, best quality), sidelightning, (night), BREAK,
+((dark skin)), ((blonde hair, red hair, short hair)), red eyes, medium breasts, navel, evil smile, night, nude, cowboy shot, <lora:muscleGirl_v1:0.1>, BREAK,
+((dark skin)), white hair, red eyes, big breasts, navel, braid, nude, angry face, <lora:muscleGirl_v1:0.1>, BREAK,
+purple hair, green eyes, (huge breasts), nude, <lora:muscleGirl_v1:0.1>, sexy smile

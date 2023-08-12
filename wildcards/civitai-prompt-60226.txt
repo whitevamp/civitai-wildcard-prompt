@@ -1,0 +1,2 @@
+ultra realistic 8k cg, masterpiece, ((ultra detailed background, delicate pattern, intricate detail)), (highly detailed, fine details), best quality, 1girl, (photorealistic:1.4),beautiful lighting,  absurdres, yamatowanpi, tall female, medium breasts, yamato \(one piece\),sideboob, multicolored hair, white hair, (white kimono), black logo, outside, thunderstorm, night, night sky background, (complex detailed background), moonlight, lightning, (rain), wind, wet skin, hair lift, (full body), (red horns), RAW photo, film grain,
+ <lora:onepieceYamatoLoraBy_12Epoch364dim:1>

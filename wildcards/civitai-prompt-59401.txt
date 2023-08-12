@@ -1,0 +1,5 @@
+award winning analog photo of beautiful powerful girl,   dark room, dim light
+1980s style, black tops,   necklace,  stars earrings,  complex background , street , graffiti
+ dynamic pose, dynamic view, hairband, bare shoulders,   muted color
+masterpiece, high quality, 8k, photorealistic, depth of field, bokeh
+ <lora:FilmgirlLora_v30:0.6> <lora:epiNoiseoffset_v2:1> <lora:girlfriendmixV1_v20:0.5>

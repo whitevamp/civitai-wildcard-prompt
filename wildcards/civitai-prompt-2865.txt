@@ -1,0 +1,2 @@
+masterpiece, best quality, miranda, hat, serafuku, midriff, suspenders, red neckerchief, pleated skirt, black gloves, black thighhighs, boots, sitting, looking at viewer, smile, hands on lap, city street, sky <lora:miranda-nvwls-v1-000010:0.1>
+ <lora:exposepanty-strong:1>

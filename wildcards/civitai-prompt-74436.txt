@@ -1,0 +1,5 @@
+nikon RAW photo,8k,Fujifilm XT3,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,cinematic lighting,gril,1girl,solo,(full body:0.9),(large breasts:1.4),earrings,(high heels:1.5),happy,SELFIE,HOLDING PHONE,
+gym,
+(red short curly_hair:1.7),
+(gainsboro leggings:1.4),
+<lora:badbroselfie:0.6> <lora:dollyMixGirl_V1:0.7>,

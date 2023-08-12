@@ -1,0 +1,5 @@
+best quality, masterpiece, ultra high res, photorealistic, 1girl,  smile, perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), fantasy, dreamlike, unreal, science fiction,1girl,
+(best quality, masterpiece, colorful, dynamic angle, highest detailed),extreme detailed, highest detailed,
+ photorealistic, dynamic angle, EOS R8, 50mm, 1girl, (petite), thigh, intricate clothes, revealing clothes, pantyhose, high heels, kpop idol makeup, (closed smile:1.2),sitting, natural skin texture, realistic pores skin, flight attendant, (red theme:1.2), (aesthetics and atmosphere:1.2), summer, airport,
+<lora:midJFace_12e-5_korea:0.4> <lora:sd-No.131:0.3> <lora:epiNoiseoffset_v2:0.8>  ,
+low-angle view,subject look down,(EOS R8,50mm,F1.2,8K:1.2),

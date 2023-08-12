@@ -1,0 +1,2 @@
+masterpiece,best quality,8k,highestres,absurdres, extremely detailed,black background,
+the devil, demon, goat head, wings, chained,(naked:1.1),goat,man,woman,<lora:LowRA:0.5>

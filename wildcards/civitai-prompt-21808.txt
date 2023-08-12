@@ -1,0 +1,2 @@
+(masterpiece), (best quality), highres, ultra detailed, al1, demon horns, bare shoulders, cleavage, slit pupils, black wings, feathered wings, low wings ,albedo_overlord  , bikini, beach, confidence, evil laugh,
+<lora:add_detail:0.1>,  <lora:more_details:0.15> , <lora:albedotest:0.3>,  <lora:albedo:0.3>, <lora:albedo_(overlord)_v10:0.2> ,<lora:Albedo_Overlord_v1-1:0.3>

@@ -1,0 +1,1 @@
+<lora:huangyuyao:0.9> ,1girl,  (8k, best quality, masterpiece), (realistic, photo-realistic:1.37), ultra-detailed

@@ -1,0 +1,1 @@
+food, photography, a bowl of soto ayam with chili sauces, rice, wooden table, yellow soup, hot steam, volumetric, rim lighting, soft focus, blurry background  <lora:ARWSotoAyam:1>

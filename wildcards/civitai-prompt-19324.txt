@@ -1,0 +1,1 @@
+(masterpiece:1.4),(best quality:1.4),octane render,1girl,underwaterstyle <lora:underwater_model:0.7>,highres,(swimming:1.2),highleg swimsuit,colorful,(one-piece tan:1.2),smiley face,skinny,floating hair,<lora:more_details:0.5>,<lora:90sv1.3RW:0.3>,<lora:ClothingAdjuster2:0.4>,

@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 3girls, cowboy shot, <lora:NunLatexLeotard:0.75>, nun,highleg latex leotard, elbow gloves, latex gloves, latex thighhighs, at the church ADDBASE 
+3girls, 1girl, long pink hair, red pupils, medium breasts, smile, looking at viewer, standing, nun,highleg latex leotard, elbow gloves, latex gloves, latex thighhighs  ADDCOL 
+3girls, 1girl, long black hair, brown pupils, medium breasts, shy, looking at viewer, standing, nun,highleg latex leotard, elbow gloves, latex gloves, latex thighhighs ADDCOL 
+3girls, 1girl, long white hair, crystal blue pupils, medium breasts, angry expression, looking at viewer, standing, nun,highleg latex leotard, elbow gloves, latex gloves, latex thighhighs

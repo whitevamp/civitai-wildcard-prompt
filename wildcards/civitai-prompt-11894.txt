@@ -1,0 +1,8 @@
+Style: { (masterpiece:1.2), (best quality), (gold_tarot_card:1.3), character_card }; BREAK
+Composition: { 1girl, queen, tarot_card_portrait, handpull, pulled_by_self, clothes_pull, one_breast_out, (from_side:1.2) }; BREAK
+Hair: { short_hair, black_hair, curvy_hair }; BREAK
+Appearance: { mature_female, (reieneris:1.1), slim, slender, muscular, huge_breasts, sagging_breasts, green_eyes }; BREAK
+Clothing: { (queen_dress:1.3), crown, no_bra }; BREAK
+Accessories: { teardrop_earrings, pearl_necklace }; BREAK
+Behavior: { confident }; BREAK
+Loras: { <lora:fechin:1.0><lora:saggingBreasts_v10:0.5><lora:add_detail:0.5><lora:fantasyV1.1:0.1><lora:DW-000008:0.25><lora:lasto_v1:0.25> }

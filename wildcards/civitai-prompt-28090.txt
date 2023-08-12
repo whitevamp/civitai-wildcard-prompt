@@ -1,0 +1,2 @@
+fantasy,1girl,detailed face,full body,dress,
+<lora:elfdress:0.7>,field,grassland,wind,cloud,flowers,rivers,tree,(Hayao Miyazaki), <lora:DreamGlow:1.6:LIGHT>

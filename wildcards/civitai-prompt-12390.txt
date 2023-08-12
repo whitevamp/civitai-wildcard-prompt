@@ -1,0 +1,1 @@
+portrait of (DEN_miss_morgane:0.8) wearing a plain black tank top in front of a plain background, headshot, (gentle smile:1.2), freckles, photorealistic, high detail, detailed, <lora:add_detail:1>

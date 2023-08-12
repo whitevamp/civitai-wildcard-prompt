@@ -1,0 +1,5 @@
+((({extremely detailed CG))), ((8k_wallpaper)), masterpiece,best quality, high resolution illustration, hyper detailed, highres, (contrapposto), absurdres, Intricate and refined delicate details,
+1girl, solo, (lamia:1.7), ((green scales)), monster girl, green snake tail,highres,hand on own chest,looking at viewer, masterpiece,best quality, extremely detailed, perfect lighting, sunny, light tracing, long hair, detailed beautiful face, looking at viewer, white dress, see-through, streaked hair, crown braid, pointy ears, side ponytail, thigh strap, multicolored hair, green hair, white hair, green eyes, symbol-shaped pupils, bare shoulders, lying:1.6, smile, grass, sunny, bloomers, soft shadow, no headwear,
+aged down, full body, wide shot:1.4, child, outdoors, 
+ <lora:lamiaConcept_10:1:1,0,0,0,1,1,1,1,0.2,0.3,0.4,0.8,0,0,0,0,0>,  <lora:Nahida:1:1,0,0,0,0,0,0,0,0.8,0.7,0.6,0.2,0,0,0,0,0>, nahida \(genshin impact\), 
+ <lora:more_details:0.6:OUTS:1,0,0,0,0,0,0,0,0,0,0,0,0.4,0.5,0.6,0.7,1>

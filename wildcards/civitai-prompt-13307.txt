@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res, from side, full body,
+1boy,clenched teeth,jumping,
+ <lora:mha_midoriya-10:0.9> midoriya izuku, short green hair, green eyes, green bodysuit, white gloves,electrified,
+ <lora:Superspeed_running-10:0.5> superspeed, lighting, motion blur, electricity,running ,
+ <lora:flat2:-0.5>,
+ <lora:LowRa:0.3>,

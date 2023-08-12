@@ -1,0 +1,5 @@
+<lora:HoshinoAi_v9-000007 星野爱:0.9>,
+(masterpiece,best quality),
+1girl,purple long hair,purple eyes,hair ornament,star-shaped pupils,beautiful detailed eyes,glowing eyes,
+black bikini,smile,beach,kneeling, 
+ <lora:add_detail 细节调整:0.1>,<lora:MoXinV1 水墨风:0.1>,

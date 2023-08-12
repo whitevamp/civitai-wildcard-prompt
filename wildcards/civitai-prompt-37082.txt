@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>, (open towel),  <lora:open_towel_v0.1:0.7>, nude, (CatherineVG), <lora:catherineCatherine_v10:0.7>

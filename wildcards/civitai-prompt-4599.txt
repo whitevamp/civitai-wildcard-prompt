@@ -1,0 +1,3 @@
+Photo of a robot girl with long hair sitting on a rock, metallic combat suit with mecha wings, (ancient city:1.4).
+[smiling|open mouth], evil, red lips, blue eyes, slender, red pieces, cowboy shot, from above, blurry
+ <lora:aki:0.6>

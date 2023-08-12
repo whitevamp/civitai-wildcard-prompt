@@ -1,0 +1,2 @@
+retrowave.  road,  purple neon lights, sun, mountain, 
+(masterpiece,detailed,highres), <lora:retrowave_0.12:0.8>

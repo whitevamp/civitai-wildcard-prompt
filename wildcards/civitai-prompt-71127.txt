@@ -1,0 +1,1 @@
+<lora:COOLKIDS_MERGE_V2.5:1>, a happy cute kid standing short hair, wearing a space costume, playing with a butterfly, outdoors, background forest, kid, toon, pixar style, 3d, cartoon, detailed face, asymmetric    --  Using IMG2IMG

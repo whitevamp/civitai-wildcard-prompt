@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2, highres:1.2), ((upper body portrait)), 1man, muscular, bright red eyes, light brown undercut haircut, barbarian outfit, dystopian city, explosions, norseman, <lora:AbsinthePunkAI:0.4>, AbsinthePunkAI

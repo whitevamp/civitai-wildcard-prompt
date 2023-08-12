@@ -1,0 +1,2 @@
+,weapon, 1girl, long hair,male focus, sword, solo, japanese clothes, holding, holding weapon, katana, holding sword, sheath, , , long sleeves, , haori, , hakama, kimono, sheathed,full body,
+,, <lora:niji_wushi_yuan:0.6>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed) , (art by John William Waterhouse:1.0) , Gadgetpunk, portly European Pikachu, Attending movies, wearing Deserted Sardinian Trees Midi skirt and blouse, Circular polarizer, contest winner, V0id3nergy, crystallineAI,  <lora:CrystallineAI:0.6> <lora:kVoidEnergy:0.8> <lora:more_details:0.6>

@@ -1,0 +1,4 @@
+, closed mouth, (looking at viewer, light smile), lipstick, balck background, background, closed mouth, makeup light,  eyeshadow, eyeline, eyelash, blush,
+(masterpiece), shaded face, shadow on face, 
+(detailed), (semi-realistic), (expressive facial features:1.2), (opera:1.2),  
+<lora:jingju_v5:0.7> <lora:add_detail:0.6> <lora:LowRA:0.4> <lora:epi_noiseoffset2:0.4>

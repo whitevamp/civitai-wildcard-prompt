@@ -1,0 +1,1 @@
+masterpiece, best quality, aerith gainsborough, cropped jacket, choker, pink dress, riding airboat, airboat <lora:airboat-nvwls-v1-6-000012:1> <lora:aerith-nvwls-v1-final:0.9>

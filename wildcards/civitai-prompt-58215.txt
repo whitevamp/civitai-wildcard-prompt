@@ -1,0 +1,2 @@
+Gotenba-kyouko-su, ((full body)), (evil smile), (((amusement park, dusk))), (((nipples))), 
+ <lora:Gotenba-kyouko v1.0:0.6>

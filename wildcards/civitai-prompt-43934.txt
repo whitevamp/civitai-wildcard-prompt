@@ -1,0 +1,1 @@
+(A scene all frozen and full of snow with stalactites:1.1), 1girl, masterpiece, best quality, (photorealistic:1.4), full body shot, a photo of a beautiful woman, night, skinny, blonde hair, perm, detailed face, medium breasts, <lora:add_detail:0.8>, white swimsuit, <lora:Slingshot_PL_D16:1>

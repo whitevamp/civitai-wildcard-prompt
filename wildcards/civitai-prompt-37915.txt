@@ -1,0 +1,1 @@
+1girl,smirk,curly hair,rejuvenation,retro,film grain <lora:chineseAngela_v10:0.6:FACE>

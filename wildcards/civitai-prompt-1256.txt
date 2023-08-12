@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, 
+lineart, 
+ankymoore, 1girl, solo, long hair, looking at viewer, skirt, brown hair, shirt, hat, brown eyes, jewelry, jacket, white shirt, heart, earrings, glasses, collared shirt, belt, pants, necklace, coat, beret, blue jacket, black belt, hand in pocket, blue pants, shirt tucked in,
+ <lora:ankymoore-04:0.9>

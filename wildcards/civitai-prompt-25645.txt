@@ -1,0 +1,1 @@
+best quality, masterpiece, highres, detailed, perfect anatomy, <lora:Detail - add_detail:0.2>, <lyco:Traits - Rags:0.8>, RagClothing, dirty clothes, brown clothes, 1girl,  <lora:ChihoNTR:0.9>, brown eyes, brown dress, begging, slum, body writing, swept bangs, long hair, begging for money, on knees, holding bowl, bowl with coins, at the side of a street,

@@ -1,0 +1,4 @@
+best quality, face focus, soft light, (depth of field) ,ultra high res, (photorealistic:1.4), RAW photo,
+(portrait:1.4)  ,swiming ,take a dip in the pool, resort pool ,(wet white oversize T-shirt, panty)
+1japanese girl, solo, cute, (shy, smile:1.2), (brown eyes),  detailed beautiful face, (short hair ), 
+ <lora:japaneseDollLikeness_v10:0.3>

@@ -1,0 +1,8 @@
+ultra high res cg,ultra res photo,(best quality, masterpiece:1.2),realistic, ultra-detailed,bright,warm light,gradient background, blurry_background, depth_of_field,style of a idol,((nsfw)), 
+1girl,(white-haired:1.4),french braid,charming red eyes,pleasure face, enchanting smile,alluring blush,(latex white skin),(slim body,tall,small breasts),
+top view,looking up viewer,(looking at viewer),Open shirt,(breasts out:1.3),small areolae,pink nipples,((spread legs)),separated thighs,legs apart,female masturbation,female pubic hair,(skirtlift,cameltoe:1.4),(female_masturbation:1.3,grabbing_own_breast:1.3,fingering:1.2),(enjoy:1.4),trembling,Panting,open mouth,drooling saliva,puffy nipples,
+(cleavage cutout clothing,white maid dress,white short skirt,sleeveless,battlesuit,armored dress,shoulder armor),maid apron, detailed cloth texture,choker, maid bow tie,bow,maid headdress,maid band,maid headband,(strap,long cape,Black Fingerless Tactical Gloves ),gauntlets,leather belts,(thigh_strap,lace white stockings),maid high shoes, (rich, jewelry, necklace, earrings),weapon,sword,Rapier,
+dreamlike,Medieval tavern or Old Hotel,luxury bedroom,flowers,bed,stained glass window,
+<lora:hipoly3DModelLora_v20:0.4>,<lora:pureInnocentGirl_v20:0.3>,<lora:fashionGirl_v45:0.3>
+<lora:femaleMasturbationBoob_v1:0.7>,
+<lora:murkysAfterSexLying_1:0.4>

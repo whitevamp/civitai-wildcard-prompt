@@ -1,0 +1,9 @@
+masterpiece, best quality,
+neon trim, purple glow, dark theme, pitch black,
+plastican00d, (floral background:1.2), purple background, too many roses, black rose, white rose,
+short hair, bangs, black hair, red eyes, blunt bangs,
+gothic,  frills, lace, wide sleeves, black dress, pantyhose, shoes, black footwear,
+1girl, solo, looking at viewer, holding, standing, full body, index fingers together,
+<lora:plastican00d-000010:1>
+<lora:kp_pattern:0.3>,
+<lora:LowRA_Dark:0.9>,

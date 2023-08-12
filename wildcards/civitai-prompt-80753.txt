@@ -1,0 +1,1 @@
+Best quality,masterpiece,ultra high res,(photorealistic:1.4)1girl,japanese girl,weapon,sword,ong hair,black hair,ponytail, japanese clothes,kimono,long hair,black hair,hakama,floating hairfull body,detailed face, ((upper body)), <lora:wuxia:0.7>,  <lora:sakura:0.9>, meiji street background

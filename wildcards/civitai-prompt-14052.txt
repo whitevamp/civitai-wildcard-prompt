@@ -1,0 +1,3 @@
+realistic,( photo-realistic), ultra hires, (masterpiece, top quality, best quality, official art, beautiful and aesthetic, raw photo:1.4),(high detailed skin:1.2), ultra realistic, 32k,
+1girl,  <lora:Kafka_v26:0.9>,kafka, purple eyes, purple hair, eyewear on head, sunglasses, narrow waist, dynamic pose, dynamic angle,
+(school uniform:1.2),

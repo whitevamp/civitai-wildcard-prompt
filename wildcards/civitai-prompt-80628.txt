@@ -1,0 +1,1 @@
+best quality, <lora:concept_changeACharacter_Succubus_(SuccubusT):0.6>, SuccubusT, white horns, wings, (1girl, solo), <lora:character_rukiaBleach_v10:0.8>, rukia, <lora:concept_arrancar:1.1>, arrancar, predatory grin, glowing blue eyes, arrancar headwear,

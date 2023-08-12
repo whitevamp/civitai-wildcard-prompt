@@ -1,0 +1,8 @@
+(masterpiece, 4k ,ultra detailed:1.2),(fading_border:1.4),illustration,(photorealistic:1),
+(abstract:1.6),(cut-in:1.2),
+(1girl,3boys:1.4),(cropped shoulders:1.6),(hooded cape:1.2),(glowing eyes:1.1),(backlighting:1.2),
+(science_fiction,space,moon,galaxy,meteor,outer space,nebula:1.2),(spaceship,explosion,red laser,blue laser:1.4),
+(simple background,black background:1.4),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:1.5>,
+ <lora:novel_bright:0.8>

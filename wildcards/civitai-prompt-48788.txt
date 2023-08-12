@@ -1,0 +1,3 @@
+masterpiece, (photorealistic:1.5), realistic, best quality, beautiful lighting, professional lighting, film grain,
+1boy, male focus, necktie, sunglasses, solo, formal, suit, realistic, black necktie, black hair, shirt, collared shirt, blurry, white shirt, meme
+<lora:the_matrix_offset:1>

@@ -1,0 +1,3 @@
+Masterpiece, 1girl, 
+naked girl kneeling on the sand, sunbathing, (RSEEmma:1.5), Thin body, black hair, looking back, brown eyes, (Feminine Expressions:1.3), (smiling:0.6), beach, (oiled skin:1.2), (shiny:1.2), sunglasses on the head, from side, (Chilled beverages:1.2), (pastel colors:1.4), <lora:oil2.0_2-512-64:0.5> <lora:feetaway1:0.3> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3> <lora:add_detail:0.4>
+<lora:MilaAzul_1.0:0.5>

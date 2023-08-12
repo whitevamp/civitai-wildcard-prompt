@@ -1,0 +1,3 @@
+(masterpiece, best quality), bust, face, look at viewer, from above, city background,
+1girl, long black hair, straight hair, (hime cut), (show collarbone), cyborg, student,
+((black and white)), <lora:Blame!:1.2>

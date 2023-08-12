@@ -1,0 +1,8 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl hug 1man, large windows, indoors, from side, upper body, close up,
+pink hair, long hair, purple eyes, looking up, (sad, crying, teardrop, angry, scowl, glaring, full blush:1.2),
+large breasts, nipples, long nipples, puffy nipples, small areolae, breast press,
+sweat, steam, steaming body, heavy breathing, cum, cumdrip, cum in mouth, cum on hair, facial, overflowing,
+penis, testicles, blowjob, fellatio, deepthroat, throat bulge, hug and suck, <lora:hugAndSuckConcept_v1:0>,
+choker, kimono, hair ornament, topless, yaemikodef, <lora:yaemiko1_000008:0.75>

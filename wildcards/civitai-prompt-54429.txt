@@ -1,0 +1,3 @@
+1girl,solo, parted lips, white ballerina,thigh strap,thighhighs ,
+village, hand on own chest, looking at viewer, realistic,      
+  <lora:JinChen2:0.6>

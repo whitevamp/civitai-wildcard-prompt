@@ -1,0 +1,11 @@
+1girl (30yo) stunningly beautiful sexy mature (Japanese), beautiful realistic face, messy dynamic (blue hair:1.2) (flowing in the wind:1.4),
+realistic skin, (vellus), BREAK
+looking at viewer, realistic blue eyes, (happy, smiling:1.6), dimples, (separated-lips, open mouth:1.5), 
+see-through, choker, pendant, earrings, straps, pantyhose, hips, droptop, (nsfw:1.1),
+eye liner, eye shadow, mascara, lip-stick,
+(night:1.5), city,
+dramatic, (cinematic lighting:1.5), (deep-shadows:1.5), (dim, dark, dark-background:1.5), depth of field, chromatic aberration, bokeh, lens flares, raytracing,
+highres, 8k, high quality, masterpiece,
+<lora:JapaneseDollLikeness_v15:0.5> 
+<lora:breastinclassBetter:0.1> 
+<lora:droptop:0.3>

@@ -1,0 +1,8 @@
+<lora:invisible-14:1.4>,invisible, faceless, (headless), (no humans), nsfw,
+(flashing, presenting, clothes grab:1.3),
+overcoat, (nude:1.3), 
+(night, dark), 
+(8k,RAW photo, best quality), (realistic, photo-realistic:1.3),
+1girl, solo, large breasts,
+alley, 
+standing, looking at viewer,

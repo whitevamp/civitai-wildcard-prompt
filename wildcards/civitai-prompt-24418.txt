@@ -1,0 +1,10 @@
+(Absurdres:1.2), beautiful and aesthetic, masterpiece, best quality, extremely detailed,
+photo realistic:1.4 , delicate pattern, (intricate detail,extremely intricate:1.2),
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, <lora:add_detail:1>, 
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1:0.5),     <lora:[00]SAFACE01:1>
+smaller head, beautiful face, shaded face, smaller face, 
+------
+night, moon, post-apocalyptic library, tattered books, crumbling shelves, remnants of knowledge, Pretending to fly like a bird,  <lyco:fitgirl_v10:0.8>
+------
+solo, 1girl, brown hair, red eyes,scarf, standing,huge breasts, <lora:LatexBikesuit:1>,latex bikesuit,cross-laced, very long hair, very long hair, navel,latex gloves,
+absurdly long hair,

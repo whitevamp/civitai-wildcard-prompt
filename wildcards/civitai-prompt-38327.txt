@@ -1,0 +1,2 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer, smile, (hair over right eye:1.2),
+bags under eyes,Pikachu, school uniform, Black jacket, tie, white shirt, red tie uder jacket, blonde hair,Black skirt,(yellow  pantyhose stocking:1.2), from below, high school, beautiful, movie still,pikapoke, <lora:PIKAPOKE:0.6>

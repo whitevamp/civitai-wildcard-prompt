@@ -1,0 +1,3 @@
+nsfw, (autumn day), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece, ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality,
+1girl, slim fit body, cute, Wistful, in a Cake shop, Longing, Glass, Tempting display, Mouthwatering cakes, Colorful, Delectable treats, Irresistible aroma, Indulgence, Sweet desires
+<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia3:0.4>,

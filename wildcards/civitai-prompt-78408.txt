@@ -1,0 +1,1 @@
+<lora:Night:0.7>fantasy,night,tree,Medieval fantasy world,Moonlight at night,wilderness,night,, 1 girl, <lora:TamamoCatFateV1-000008:0.7>tamamocat, paw_gloves, paw_shoes, fox_tail,, grinning face.

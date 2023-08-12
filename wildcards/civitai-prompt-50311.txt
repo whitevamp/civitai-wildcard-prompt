@@ -1,0 +1,1 @@
+doll, dd, 1girl,black skirt,starry sky,cloud,naked,tying hair,No shoes,Intricate and detailed background,Intricate and detailed background  <lora:dollStylePhotographyArtSdBjd_dollStandard:0.65>

@@ -1,0 +1,3 @@
+<lora:motion_blur_v0.3:1.2>
+motion blur, 1girl, penis, sex,
+<lora:zombie_v1.3:1> zombie, multiple boys,, masterpiece, best quality, highly detailed

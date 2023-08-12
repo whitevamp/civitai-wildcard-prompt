@@ -1,0 +1,4 @@
+((masterpiece)), (best quality:1.2),(very fine 8K CG wallpaper1.2),colorful,(ultra-detailed:1.2),(illustration:1.2),
+ ,simple background,indoor,,
+from below,
+,,    ,, , ,,,  ,, <lora:bobbysocks:0.8>,Bobby Socks,foot,no shoes,cum on feets,(focus foot:1.2),

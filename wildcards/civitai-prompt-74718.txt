@@ -1,0 +1,1 @@
+woman, cropped-fc,  <lora:cropped-fc-v2:1>, cleavage, sports bra, detailed face, colorful clothing, park, sky, trees

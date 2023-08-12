@@ -1,0 +1,1 @@
+Photorealism, paper_cut concerning a flying pig in the night time sky. <lora:papercut:0.8>

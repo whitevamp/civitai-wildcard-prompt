@@ -1,0 +1,3 @@
+1girl,msw,nude,leaning forward,on the left,
+(effect lighting),
+<lora:msw_v10:0.7> <lora:difConsistency_photo:0.65>,

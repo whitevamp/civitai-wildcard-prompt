@@ -1,0 +1,5 @@
+masterpiece, best quality, 1girl, hires, 8k,  wide shot,  cityscape, 
+
+extremely detailed face, detailed eyes, pink long hair, pink dress, heterochromia, mini crown on the head,
+
+<lora:akiraBikeSlideMeme_v10:0.4>, night,  slide,  sparkle, riding  extremely detailed big red motor vehicle, shiny big red motorcycle,  blurry, blurry background,  drifting, (motion lines:1.2, debris:1.2, electricity:1.2, road), <lora:himemori luna:0.7>

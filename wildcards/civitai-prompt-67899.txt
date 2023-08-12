@@ -1,0 +1,2 @@
+(Flying Apsaras:1.2), the symbol of Dunhuang art, are scattered in all the 500 grottoes of the Dunhuang area. They are an embodiment of Gandharva, the God in charge of holy songs and dances, and Kimnara, the God in charge of entertainment,
+ <lora:zhongfenghuaxiyou-000018:0.5>, zhongfenghua,

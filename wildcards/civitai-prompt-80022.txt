@@ -1,0 +1,3 @@
+a realistic fullbody onoffunder side-by-side photo of (a wookie), mirror selfie.
+highres, high resolution, sharp focus, detailed.
+<lora:Wookie:1> <lora:onoffunder1:1.1>

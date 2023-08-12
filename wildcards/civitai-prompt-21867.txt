@@ -1,0 +1,1 @@
+<lora:shuimobysimV3:0.3>,1girl, white chinese clothes, jewelry, long hair, red ribbon,  <lora:GirlfriendMix_v1_v20:0.5>,hair flower,

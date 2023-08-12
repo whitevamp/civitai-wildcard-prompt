@@ -1,0 +1,5 @@
+(half portrait:1.5),
+Hyperrealist portrait of female by Mary Whyte and alphonse mucha, Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, professional lighting,
+1 female, mature female, upper body, <lora:sd-No.155-000014:0.7>,
+jumpsuit, cropped blazer, mules,
+outdoor,

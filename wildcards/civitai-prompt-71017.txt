@@ -1,0 +1,1 @@
+4K, Masterpiece, highres, absurdres, smiling,beautiful dark haired mod_woman, face focus , lingerie, garterbelt,wearing a garterbelt, portrait, perfect mod_body,  <lora:mod:0.75>,   <lora:Garterbelt2:0.5>

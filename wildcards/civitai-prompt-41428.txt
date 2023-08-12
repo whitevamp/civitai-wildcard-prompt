@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:Serana-10:0.8> Serana,  long hair, messy hair, red eyes, vampire, fangs, 
+ <lora:edgHO:0.8> edgHO, fishnet_dress, ((fishnets,cut out dress), wearing edgHO, 
+BREAK underground, cave, rock walls, tomb,

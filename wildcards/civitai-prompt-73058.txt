@@ -1,0 +1,2 @@
+azula, red robes, breasts_on_glass, nipples, breast press, against glass, navel, shower, (adjusting hair:1.2), (steam:1.4), shiny skin, leaning against a glass door, (deep eye contact), deep skin, (wet skin:1.3), backlight, candles, evil grin, shadow, (small breasts),
+ <lora:breasts_on_glass:0.95>,  <lyco:ShinyOiledSkin_v20-LyCORIS:0.4>, <lora:Addams:0.1>

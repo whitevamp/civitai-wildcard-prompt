@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, nahida_genshin, cross-shaped pupils, default_dress, green cape, standing  <lora:Nahida3:1>

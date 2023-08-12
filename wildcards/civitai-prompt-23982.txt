@@ -1,0 +1,1 @@
+((masterpiece), best quality, high quality, professional quality, highly detailed, highres, perfect lighting, natural lighting), <lora:presenting_panties_v0.3:1> shirt, 1girl, holding panties, pink panties,, masterpiece, best quality, highly detailed, <lora:add_detail:0.5>  <lora:more_details:0.5>

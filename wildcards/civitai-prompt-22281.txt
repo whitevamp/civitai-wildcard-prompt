@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1boy, <lora:Crocodile_One_Piece:0.8> Crocodile,  man,  ascot, coat on shoulders, cigar, smoking, shirt, long sleeves, vest, coat, fur trim

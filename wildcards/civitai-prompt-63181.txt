@@ -1,0 +1,1 @@
+. <lora:detailia_yiu_v20:0.8> (surreal:1.4), an alien world, (many strange creatures:1.3), multiple futuristic buildings, by Simon Stalenhag

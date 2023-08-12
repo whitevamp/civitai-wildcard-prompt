@@ -1,0 +1,3 @@
+1girl,offshoulder,
+Bakeneko Witch, (cat mask:0.8), fur charm,
+clothes, <lora:PAseerFantasyClotherV1:0.8>

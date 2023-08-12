@@ -1,0 +1,3 @@
+Best quality,masterpiece,ultra high res,(in the dark, deep shadow, low key, cold light),(night:1.4),fix,Glowing style, glowing weapon, glowing sword, left hand sword, female swordsman, 1girl, weapon, armor, sword, solo, holding, holding weapon,  holding sword, shoulder armor, breastplate, cape, standing, gauntlets, pauldrons, full body, high heels, armored boots, silver hair, closed mouth, boots, white cape, greaves, red lips, breasts, blonde hair
+<lyco:GlowingStyle:0.75> 
+<lora:claymoreClare_v1:1> clare, grey eyes, armor, bodysuit, claymore,

@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), 1girl, extreme detailed,colorful,contrast color, ringed_eyes, white shirt, black pant, small breast, wide hip, braided hair, necktie, red hair, golden eyes, corneo_makima,<lora:Colorwater_v4:0.6>,  <lora:makima_offset:0.6>, office

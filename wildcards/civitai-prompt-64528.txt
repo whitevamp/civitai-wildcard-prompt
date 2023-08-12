@@ -1,0 +1,2 @@
+1girl, berserker, fur, viking, warrior ,muscular ,thighs, shoulder armor, gauntlet,abs, extremely detailed,looking at viewer,dark skin(masterpiece, best quality:1.2), <lora:adventurers_v1:1>
+<lora:hipoly3DModelLora_v20:0.3>  <lora:MoXinV1:0.2>  <lora:shukezouma_v1_1:0.3>

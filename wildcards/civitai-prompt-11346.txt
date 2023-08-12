@@ -1,0 +1,1 @@
+prompt:1 girl solo, <lora:SBGF:0.8>,perfect_hand, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper), <lora:hanfu2.0:0.6>,hanfu, song, song dynasty, song clothing,,full body, (neon lights:1.2), machop, mechanical arms,

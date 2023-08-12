@@ -1,0 +1,3 @@
+((best quality, masterpiece)),
+1girl slave, dirty clothes, torn clothes, white clothes, Ancient Greek clothes, brown messy hair,  red eyes,  both arms bound, collar, chain leash, handcuffs, shackles, wet, nose blush, ((sad):1.3), tearful, sweat,  outdoor, ancient time,
+<lora:3DMM_V7:1>,  <lora:more_details:0.5>

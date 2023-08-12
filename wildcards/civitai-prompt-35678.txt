@@ -1,0 +1,2 @@
+1 woman, 30 years old, Caucasian, standing, skinny body, naked, neutral background, from behind, looking back, head turned to make eye contact, short hair, (tattoos:1.5), choker, (makeup:1.5), ((blue hair:1.5)), detailed nipples, small breasts, (full body portrait:1.5), (from the side:1.5)
+ epiCRealism, 16K, photorealistic, highest quality, dynamic lighting, masterpiece, perfect anatomy   <lora:add_detail:0.6> <lora:detailed_eye:0.8>

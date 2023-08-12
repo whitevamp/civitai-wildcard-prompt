@@ -1,0 +1,1 @@
+(1girl lara croft closed_eyes), (1boy nathan_drake), (((princess carry))), <lora:princess_carry_v0.1:1>, jungle, <lora:3DMM_V12:0.5>, boots, adventure movie, flowing_hair, long_hair, shallow_water,

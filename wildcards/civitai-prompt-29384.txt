@@ -1,0 +1,2 @@
+masterpiece, ultra-high quality,( ultra detailed original illustration),1girl, ( large breast:1.3), ( narrow waist), flower,openchest ( original illustration composition),
+<lora:openchest:0.6:MIDD>,, Full beard, Long, Strapless Top, Switzerland, fall, absurdres

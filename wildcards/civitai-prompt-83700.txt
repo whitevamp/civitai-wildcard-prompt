@@ -1,0 +1,1 @@
+<lora:M4rbleSCNEWCIVIT(1):0.5> <lora:d3fr0:0.5> a man with long hair wearing M4rbleSC armor in d3fr0 style

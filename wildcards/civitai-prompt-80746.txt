@@ -1,0 +1,1 @@
+(white background:1.3), scenery, mountain, water, trees, ink <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

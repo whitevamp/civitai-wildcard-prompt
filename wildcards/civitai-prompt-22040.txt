@@ -1,0 +1,1 @@
+masterpiece,best quality,1girl,serval,blonde hair,orange eyes,cat ears,cat tail,kemono friends,TomReadingTheNewspaper,<lora:TomReadingTheNewspaper:1>,<lora:my_ServalKemonoFriends_v1:0.5>,

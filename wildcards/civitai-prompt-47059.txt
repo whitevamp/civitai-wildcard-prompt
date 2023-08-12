@@ -1,0 +1,1 @@
+(Ultra detailed:1.2),<lora:epiNoiseoffset_v2:1>, (grainy:0.8), natural lighting, blue sky, <lora:theovercomer8sContrastFix_sd15:0.5> AND girl, [high quality white one-piece swimsuit:wet:0.40], ponytail, smiling, half-closed eyes, nude, breasts, wet AND clear nice water,(Colorful:0.6)

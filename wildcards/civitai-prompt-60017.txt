@@ -1,0 +1,3 @@
+best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, solo,
+post-apocalyptic, divine intervention, contemporary, balance of opposites, dream vs reality, inner turmoil, graceful movement, enigmatic beauty, a minimalist interpretation, muted shades, photorealism, harmony of space and form,
+low key,cold light, <lora:lowra_v10:0.4> <lora:oc_v10:0.3> <lora:soulLikeCharacter_soulLikeV1:0.3>

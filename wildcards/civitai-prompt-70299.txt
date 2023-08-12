@@ -1,0 +1,2 @@
+masterpiece, best quality, pov hand, size difference, (in hand:1.2), in palm, holding person, minigirl, tinkerbell, fairy, fairy wings, strapless green dress, single hair bun, green flats, blonde hair, wariza, crossed arms, grumpy, indoors,
+<lora:minigirl-000010:0.4> <lora:tinkerbell_character-10PROUNED:0.5>

@@ -1,0 +1,1 @@
+(witch:1.1),  indoors, wooden hut, (magical:1.1)

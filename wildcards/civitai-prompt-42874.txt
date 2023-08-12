@@ -1,0 +1,1 @@
+(masterpiece, vibrant, detailed, highres:1.2), 1girl, long hair, white hair, pink eyes, medium breasts, black sheer top, pink shorts, looking back, outdoors, sitting on bench, sitting down, from the front, spread legs, (from_below, foreshortening:1.2), <lora:dolphin_shorts_v0.1:0.8>, <lyco:GoodHands-beta2:1.1>, <lora:ass_size_control_v2.0:1>, <lora:frombelow:1.5>

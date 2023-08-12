@@ -1,0 +1,4 @@
+(best quality), (masterpiece),(ultra-detailed:1.2),
+ <lora:FF_LoRA:1> fflogo, (white background:1.1), simple coloring, 
+<lora:BocchiHD:0.9> gotou hitori, pink track jacket, pink long hair, hair ornament, cube hair ornament, hair between eyes, bangs, blue eyes,,holding a gradient guitar,
+swirling ,cover ,

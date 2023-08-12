@@ -1,0 +1,8 @@
+(unparalleled masterpiece, ultra realistic 8k CG, perfect artwork, perfect female figure,dramatic shadow,ray tracing),
+(spotlight,perfect lighting,detailed light,dramatic shadow,ray tracing),
+(mature female, milf, narrow waist, chinese deity, alluring, clean, beautiful face, pure face, pale skin, absurdly long hair,  divine goddess, shiny skin,delicate pattern, intricate detail, rich, prestige, gorgeous, luxury, royal palace,glint, beautiful, gorgeous, charismatic, charming, alluring, erotic, seductive, gothic, fantasy, divine, clean, rich, prestige, fantastic, supreme, apex, paramount, godface,messy hair, an extredess, delicate pattern, shiny skin, gold, royal, queen, supernatural, phenomenal, fabulous, marvelous, stupendous, terrific, extremely detailed face, super idol mely delicate and beautiful),
+(seductive posture, sexy pose,implied sex,clothed sex:1.5),,,open mouth,((huge breasts)),looking at viewer, seductive smile,
+<lora:fashionGirl_v20SmallFileSize:1>,<lora:breastinclassBetter_v13:0.2>,public nudity, nudity,
+<lora:elegantHanfuRuqun_v10:0.2>,(ru_qun,ancient china background, china patterns, shawl, hagoromo, hanfu, detailed clothes,chinese pattern dress), indoors + dark vibe + china courtyard + pond + pavilion + peaceful + bridge + trees,
+(corneo_bound_missionary:0.5),nsfw,1girl, (1boy,sex:1.25) ,(big penis:1.3), pov,veiny penis,just the tip,penis on pussy,on back, lying, wide hips,
+ <lora:photorealisticWomb_v121:0.5>(pubic tattoo)

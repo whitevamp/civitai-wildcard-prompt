@@ -1,0 +1,3 @@
+(masterpiece),(ultra-detailed),shiny skin,shiny hair,100-layer-hair,rim light, lens flare, deep shadow,
+1girl, leaf \(pokemon\), solo, cowboy shot, standing,  looking at viewer, wristband, stadium, fanny pack <lora:LoraPokemonLeaf_leafPokemonV1:0.6:char>
+poke ball,  miniskirt, small breasts, blue tank top, <lora:pitchBlackShadow_v10:0.5:paint>

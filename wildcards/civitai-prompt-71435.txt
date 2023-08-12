@@ -1,0 +1,3 @@
+<lora:inside_creature_v0.1:1.2> 
+1girl, inside creature, (realistic:1.1), slime \(substance\), digestion, face, vore,
+<lora:koreandolllikenessV20_v20:0.45>, masterpiece, best quality, highly detailed

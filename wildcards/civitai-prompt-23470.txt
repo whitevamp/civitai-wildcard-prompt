@@ -1,0 +1,3 @@
+1girl,slg,(river),
+perm,Scarlet Red  Kimono-style maxi dress in a bold floral print,
+depth of field, night<lora:slg_v11:1>

@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,
+wearing crNanosuit, solo, 1boy, upper body, male focus, from behind, armor, blurry, tree, helmet, robot, nature, forest, science fiction, power armor
+ <lora:crNanosuit:1>

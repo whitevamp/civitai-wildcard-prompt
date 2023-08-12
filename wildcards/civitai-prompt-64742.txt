@@ -1,0 +1,3 @@
+<lora:itsfine:0.7>,  itsfine, 
+<lora:fisheye2:1>, fisheye, 
+itsfine, a dog sitting in a chair in front of a fire, cup of coffee on table, heavy fire on the background, meme in distress

@@ -1,0 +1,3 @@
+(masterpiece), (highest quality:1.2), (solo), bokeh, post processed, flawless, cinematic lighting, skin texture, rule of thirds, majestic, detailed, sharp details, sharp focus, perfect anatomy, shiny, award-winning, fine-tuning face, delicate pattern, metahuman, detailed hands;
+(long blue hair), hair between eyes, ahoge, (gorgeous green eyes), (eyelashes), (beautiful detailed face), (huge breasts), (looking at viewer), (large hips:0.6), (thick thighs:0.8), (muscular), (naked, barefoot), open mouth, :O, tongue out, rolling eyes, (narrow waist); (city background, night, neon lights), high buildings, tanned skin, (tanlines), pussy, squatting;
+<lora:Tanlines05:1>  <lora:kagami:0.75>

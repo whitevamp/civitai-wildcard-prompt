@@ -1,0 +1,5 @@
+((red micro bikini)), (cowboy shot:1.3), (smile), (from side:0.75), small breasts, navel, lace collar, posing for photo, sitting, knees bent, 
+indoor, (darkness:1.4), mantelpiece, ((log house)), tealight, teddy bear, books, leather sofa, night, relaxed,  
+bokeh, depth of field, film grain, intricate detailed background, 
+((masterpiece)), best quality, absurdres, nsfw, photo-realistic, a beautiful woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, platinum blonde hair, braids, bangs, 
+ <lora:microbikiniv1:0.8>, <lora:LowRA:0.7>

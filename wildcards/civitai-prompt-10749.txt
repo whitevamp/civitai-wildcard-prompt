@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
+short white sundress,full body,
+view from behind,black heeled boots,black hair,
+3dmm, 3d render, unreal engine,((upskirt)),((black panties)),windy,nsfw,
+ <lora:3DMM_V7:1>

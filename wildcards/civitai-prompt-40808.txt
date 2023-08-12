@@ -1,0 +1,1 @@
+<lora:kobeni_v10:0.8> black hair, swept bangs, black eyes, short ponytail, suit, white shirt, collared shirt, looking at viewer,  <lora:helltakerLora_10:0.8>, single sidelock

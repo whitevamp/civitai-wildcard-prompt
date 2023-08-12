@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, HoldingMonsterEnergy, <lora:HoldingMonsterEnergy:0.7>, hu tao (genshin impact), boo tao, flower-shaped pupils, red eyes:1.4, flower, <lora:Char_GenshinImpact_HuTao:0.7>

@@ -1,0 +1,2 @@
+A faded old poster of muscular man Johnny Bravo posing as a vintage pinup in the style of GilElvgren, dark sunglasses, midriff black tanktop, jeans, smirking, on a stool in a vintage 1950's diner, hand behind head,
+<lora:LowRA:0.0> <lora:add_detail:0.0> <lora:background_detailer:0.3> <lora:johnny_bravo_v1:0.5> <lora:GilElvgren:0.7>

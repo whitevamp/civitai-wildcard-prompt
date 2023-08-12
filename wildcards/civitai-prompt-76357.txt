@@ -1,0 +1,3 @@
+(best quality, photorealistic, Colorful, sharp focus), (full body, wide shot),
+1girl, Jackson Pollock Action Painting, kinetic expressions, (splatter and drip art minimalism:1.1), canvas white background, studio,
+ <lora:add_detail:0.3>,

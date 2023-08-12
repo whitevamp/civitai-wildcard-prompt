@@ -1,0 +1,8 @@
+[<lora:DOGGY3rd:0.9> #decrease],1boy, 1girl, abs, ass grab, blush, breasts, doggystyle, hetero, table, sex, sex from behind,standing sex,standing,nude,indoors, hanging motion lines,hanging breasts , nude boy
+BREAK
+,<lora:katou_megumi_v1:0.7>,hmkm1, short hair,  medium breasts,
+blue shirt, school uniform, pleated skirt, long sleeves, collarbone, serafuku, 
+white headwear, beret, red cardigan, white dress, frills, ribbon, long sleeves, open clothes,
+BREAK
+,
+, BREAK,masterpiece, best quality,BREAK, (spoken hearts:1.2),(sweat:1.2),(deep breathe:1.2),(steam:1.2)

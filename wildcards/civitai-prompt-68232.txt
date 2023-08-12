@@ -1,0 +1,4 @@
+4k, high-res, masterpiece, best quality,  good hand,((Hasselblad photography)), sharp focus, (cinematic lighting), 
+TeaganPresley, euro supermodel woman standing in front of a futuristic city, finely detailed skin, [:(detailed face:1.2):0.2], medium breasts, , Teal hair, and Half-up, half-down hairstyle, Compact body,  Standing tall pose,
+Trail of amaranth flowers to portal, heraldry, portal activation plates of sapphires and red diamond in the air,  (fractalized, fractal_environment:1.3),night, soft lighting outside, 
+<lora:fractalized:0.6> ,<lora:quiron_TeaganPresley_angraRF_v2:1>

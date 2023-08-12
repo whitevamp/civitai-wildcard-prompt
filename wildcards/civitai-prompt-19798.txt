@@ -1,0 +1,3 @@
+1girl,Bold color-blocked midi dress with oversized architectural silhouette,
+msw,effect light
+,  <lora:msw_v10:1.0> <lora:difConsistency_photo:0.5>

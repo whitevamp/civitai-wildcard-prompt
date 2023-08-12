@@ -1,0 +1,1 @@
+masterpiece, best quality, purah, red glasses, white sleeveless shirt, black skirt, orange pantyhose, mooglesuit, animal hood, white cloak, looking at viewer, smile, village, night<lora:mooglesuit-nvwls-v1:1.0> <lora:purah-nvwls-v1-final:0.8>

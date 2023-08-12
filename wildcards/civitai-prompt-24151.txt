@@ -1,0 +1,1 @@
+<lora:mickey mouse:0.2>, <lora:more_details:0.7>,  <lora:UnsettlingImages:0.5>, Found Footage, Creepy, monster, Mickey Mouse, in amusement park, at night, moon light, blood, evil eyes, sharp teeth, claws, elongated limbs

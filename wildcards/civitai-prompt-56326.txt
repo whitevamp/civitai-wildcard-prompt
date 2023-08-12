@@ -1,0 +1,4 @@
+<lora:pantyhose_v20:0.5>,  <lora:cuteGirlMix4_v10:0.4>,  <lora:saikaKawakita_saikaV30:0.2>,
+(detailed face:1.5),  (long legs:1.5), (white pantyhose:1.1),
+mix4, cute, solo, 1girl, thighhighs,  buruma, navel, long hair, blue buruma, white thighhighs, no shoes, sitting, midriff, wariza, brown hair, shirt, 
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), highest quality, original,highres, unparalleled masterpiece, ultra realistic 8k, ((perfect female figure)),

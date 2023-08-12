@@ -1,0 +1,5 @@
+best quality, ultra high res,super detail, 
+1girl,golden armor,HELMET, flying, full body, front view,
+<lyco:Seraphim:0.55> Seraphim, six white wings, from below,
+<lora:AngewomonDigimonV1:0.5> Angewomon, 
+<lyco:GoodHandsB2:1.0>

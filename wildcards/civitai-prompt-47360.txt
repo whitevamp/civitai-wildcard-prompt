@@ -1,0 +1,4 @@
+(masterpiece, high quality, highres,Highest picture quality), (Master's work),(close-up:1),from above, 
+(Depth of field),detailed face,((1loli,a little girl,solo focus,)),wet black long hair,brown eyes,white dress, (navel:0.8),bare shoulders,bare legs,barefoot, 
+In the midst of a bustling cityscape, The skyscrapers below her,she appears calm and collected, with an air of quiet confidence about her,wet ground,reflection, reflective floor, starry sky, (wet:0.8),She sat on the edge of a tall watchtower looking out over the city,Foot suspension,
+<lora:mochaBeautifulSky_v10:0.5>

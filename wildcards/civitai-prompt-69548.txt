@@ -1,0 +1,7 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(NSFW:1.5),(topless:1.5),
+skinny,professional lighting,far view,((photorealistic painting art by midjourney and greg rutkowski)),instagram most viewed,official wallpaper, official art,
+1girl, <lora:weddingPrincessDress_v10:0.1>,((((wedding princess dress)))),(beautiful detailed clothing:1.5),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(huge_breasts:1.1),narrow waist,((skinny legs)),(cleavage:1.1),(bent over:1.11),
+half-up,(blonde hair:1.2),
+<lora:jpIDOL_v10:0.2>,<lora:LoveOnLovely_lolStyleV10:0.2>,<lora:koreanDollLikeness_v15:0.2>,<lora:cuteGirlMix4_v10:0.1>,<lora:chilloutmixss_xss10:0.1>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,
+cherry blossom background,

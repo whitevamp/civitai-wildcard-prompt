@@ -1,0 +1,6 @@
+masterpiece, best quality, highly detailed
+(indoors, simple background,:1.1)
+(twins:1.3),   
+,,  sliver child with blonde child (french kiss :1.2),
+,, , arm around shoulder, 
+  <lora:BaiHuang:0.9>,,,,tiger ears, legwear,sleeves

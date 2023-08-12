@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2),(ultra high res),(realistic, photorealistic:1.4),professional photography,good lighting,ray tracing, complex light particles,depth of field, solo focus,facial lighting,(looking at viewer),cowboy shot,
+(pureerosface_v1:0.6),<lora:koreanDollLikeness_v20:0.4>,(ulzzang-6500-v1.1),(1girl,solo:1),20 years old korean girl,full body,girly,woman,perfect figure, ideal body,(aegyo sal:1),<lora:beautiful detailed eyes:0.6>,blue eyes,detailed eyes,seductive eyes,sweet smile,glossy lips,beautiful detail breast,medium breast,cleavage,bright skin,absurdly long hair,
+cheongsam,lace-trimmed bra,wearing white sleeveless cheongsam,detailed clothes feature,(mint green color:1),(wearing a traditional qibao,traditional chinese hanfu outfits),detailed flower and phoenix pattern design,see-through sleeves, detail clothe feature,luxury hair accessory from han dynasty,luxury and elegant accessory made out of gold,IvoryGoldAI accessories,earrings,tight-high pantyhose,
+chinese style architecture,indoors,no humans,gold butterfly filigree,detailed background,
+<lora:add_detail:1>, <lora:IvoryGoldAIv2:0.3>

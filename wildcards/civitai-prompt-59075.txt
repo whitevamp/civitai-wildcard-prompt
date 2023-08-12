@@ -1,0 +1,5 @@
+(masterpiece, best quality, 1girl, solo, intricate details, chromatic aberration), (realistic),(skin), lumine \(genshin impact\), blonde hair, short hair, flower, bangs, yellow eyes, sharp eyes, choker,Elf, Revealing clothes, Breast curtains, Elbow gloves, Thighhighs, Jewelry, red lips, ((symmetry eyes)),((perfect symmetrical body)),(pureerosface_v1:0.3),(((natural light))),look at viewer,((centered shot, from front,(face and waist))),
+(hyperrealistic:1.2), (extremely detailed CG unity 8k wallpaper), (ultra-detailed), masterpiece, best quality, Mature woman,(masterpiece), (best quality), full body,(illustration),((beautiful detailed girl)), beautiful face, blush,(huge breast:1.4), mole under mouth,(perfect pussy), (perfect vagina), ((crotchless lace panties)),
+sunlight,(beautiful detailed sky),((flying petal)),(Flowery meadow),
+squatting, spread legs, looking at viewer, spread armpit,
+<lora:lumineGenshinImpact_lumineGenshinImpact:0.4> <lora:ellaFreyaLora_v10:0.4> <lora:fashionGirl_v47:0.2> <lyco:softHentaiElf_v10:0.8>   <lora:conceptSpreadArmpit_right:1> <lora:beautifuleyeslikeness_halfBody:0.3>

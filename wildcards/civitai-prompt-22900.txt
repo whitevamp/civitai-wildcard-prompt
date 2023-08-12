@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, KallenCodeGeass, playboy bunny, <lora:KallenLoraV3_32dim_16alpha_7e-5lr:0.6>, grabbing another's hair, pov, hand on another's head, head grab, <lora:grabbing_anothers_hair_v0.2:1>

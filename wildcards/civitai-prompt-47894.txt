@@ -1,0 +1,1 @@
+(sharp focus:1.2), photo, attractive young woman, (kathwin), detailed eyes, luscious lips, (winged eyeliner:0.85), (thor cosplay:1.2), (dark hair:1.2), wearing (jacket:1.2) at a (shop:1.2). (moody lighting:1.2), depth of field, bokeh, 4K, HDR. <lora:Katherine_Winnick_triggerWord:0.9>

@@ -1,0 +1,3 @@
+masterpiece, best quality, highres, 2girl,in changing rooms,upper body
+AND masterpiece, best quality, highres, 2girl,in changing rooms,upper body, japanese,mature female,dark long hair,large breasts,(nude:1.1),<lora:Cute Asian Face:0.5>,seductive smile,looking at viewer,(pubic hair:1.1),
+AND masterpiece, best quality, highres, 2girl,in changing rooms,upper body, japanese,cute,black short hair,medium breasts,(nude:1.1),closed eyes, embarrassed,head tilt,pubic hair,(touching pussy:1.4),

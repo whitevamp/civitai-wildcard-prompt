@@ -1,0 +1,2 @@
+<lora:gadget_hackwrench_v10:0.7> gadget_hackwrench, gh_goggles, cowboy shot, smile, panties, blush, 
+<lora:virginDestroyer_v13:0.7> virgin destroyer sweater, garter straps,, (high quality:1.2), masterpiece, detailed, highres, 4k, sharp focus

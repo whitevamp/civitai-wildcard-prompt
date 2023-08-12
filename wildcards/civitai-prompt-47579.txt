@@ -1,0 +1,6 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic), (((high detailed skin,visible pores))),(real person,photograph), (8k, raw photo, best quality, masterpiece),
+<lora:chilloutmixss_xss10:0.4>,<lora:chilloutmixss30_v30:0.2>,((mix4)),
+(1 japanese girl),((School|locker room)),((standing)),photon mapping, radiosity, physically-based rendering,automatic white balance,
+(((face close-up,haunting smile,moist lips,short hair))),(blush|cute and playful|adorable|skinny|thick bangs|beauty|18 years old|childish looks|under 18 years old),watery eyes,((((large breasts)))),((((looking at viewer)))),((irises and pupils are rounded,the pupil reflects the surroundings)), ((((skinny)))),(((sweat))),(((peeping))),
+((((sports bra)))),((unbuttoned clothes)),((Cupboard)),((owel)),((seat))
+(nsfw),missionary,((daytime)),<lora:kimonoClothes_v10:0.2>,

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:elie-nvwls-v2-zero:0.85> ,elie macdowell, green eyes,hairband, blue ascot, hair ribbon, long sleeves, belt, pantyhose, white boots , <lora:BaldifierW2:2.5>

@@ -1,0 +1,2 @@
+pastel color, cute colors, scifi, best quality, masterpiece, flower head
+<lora:3DMM_V10:1>, <lora:more_details:0.5>, <lora:AlraunePlantGirl[alraune]V2:1>

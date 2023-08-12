@@ -1,0 +1,4 @@
+european woman, pretty face, space station,
+realistic, smile, 1girl, large_mecha_arm,
+slim body, small hip, sexy pose, big breast,
+high detail, realistic, photo quality, high quality,  (photorealistic:1.4),  <lora:large_mecha_arm_v1:1>

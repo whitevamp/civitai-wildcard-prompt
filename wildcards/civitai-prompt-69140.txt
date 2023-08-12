@@ -1,0 +1,2 @@
+(masterpiece:1.2, best quality), photorealistic, (hyperrealistic:1.2), beautiful, a 23yo woman, solo, black hair, wearing camouflage outfit, camouflage pants, sitting down, athletic body, (perfect anatomy), nice thighs, textured skin, warm lighting
+ <lora:camouflage_uniform04:0.5>

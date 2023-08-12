@@ -1,0 +1,6 @@
+<lora:FilmVelvia3:0.6:PALETTE>,(RAW photo, best quality), (realistic, photo-realistic:1.4), (masterpiece),
+(1girl, Supermodel figure), Knitted cardigan, leggings, Sensation, Average Height, Slim, Triangular Face, Dark Skin, black Hair, black Eyes, Straight Nose, Thin Lips, Round Chin, augmented breasts, Curly Hair, earrings, brown sheer lipstick,  <lora:hair_length_slider_v1:-4.5>
+(dynamic posture),In the library, lib_bg, <lora:Fok-libbg_v16:1:KEEPBG>
+Canon LEGRIA HF R16, (nsfw:1.35),
+(Straight breasts,(big breasts out), round breasts), pussy, (pubic hair:0.9),
+(deep shadow:1.1), (wide angle:1.2), (full body:0.95), <lora:add_detail:0.4>, <lora:weight_slider_v1:0.2>, <lora:skin_tone_slider_v1:-1.5>

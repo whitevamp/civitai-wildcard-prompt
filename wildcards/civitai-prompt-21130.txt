@@ -1,0 +1,2 @@
+(best quality, photorealistic:1.2),, (shrk), sideboob, natural lighting, out of focus
+ <lora:SideBoobaDogu:1> <lora:Shrek_v3:1>

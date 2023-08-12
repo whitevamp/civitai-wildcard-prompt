@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    
+ <lora:Elixir:0.4> <lora:GoodHands-vanilla:0.4> <lora:more_details:0.4> <lora:LowRA:0.3> dark theme, 
+ <lora:Ruined_Karma:0.8> ruined karma,

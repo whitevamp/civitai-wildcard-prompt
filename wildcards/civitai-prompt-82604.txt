@@ -1,0 +1,1 @@
+\(8k, RAW photo, best quality, masterpiece:1.2\), \(realistic, photo-realistic:1.37\), 1girl, nsfw,bra, panties, lying on bed,from behind, perfect face:1.3,perfect hands,perfect fingers, <lora:yoona_v1:0.2> <lora:youA_koreandoll:0.2> <lora:yuju02:0.1> <lora:koreandolllikenessV20_v20:0.2> <lora:koreaface10:0.2>

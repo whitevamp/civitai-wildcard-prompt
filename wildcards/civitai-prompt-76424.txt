@@ -1,0 +1,2 @@
+((masterpiece,best quality)),<lora:zelda_shorthair_v5:0.4>,zelda\(princess\), 1girl, solo, nsfw,medium breasts, short_hair,dress,looking at viewer,smile,8k wallpaper,black_cape,close up,
+ <lora:breastSqueezeElbow_v20:1>, arms down, elbow squeeze, pubic hair

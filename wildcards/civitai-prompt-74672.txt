@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, beautiful, slender, sexy, bodycon dress, skin tight, thigh highs, side slit, dynamic pose, cleavage, long hair, seductive face, full body
+break
+indoor, night club, people dancing in the background, spotlight at girl, night, dark and inadequate lighting, people cheering, spectators
+break
+perspective, artistic photography, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)   <lora:C_RV:0.4>

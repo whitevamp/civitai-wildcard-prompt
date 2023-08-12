@@ -1,0 +1,15 @@
+Aesthetic: ((cosmic nebulae, celestial beauty, interstellar clouds, astronomical wonders, galactic formations, cosmic dust):1.4)
+BREAK
+Composition: <lora:eager_pet_pose_v1:0.8> eager pet pose, (submissive, begging, pleading, crying, whining, bratty), (kneeling, on knees, zoomed out, full body in frame) bent over:0.2,, perfect face, detailed face, pretty face, (sad expression, emotional facial expression) cleavage, wearing top, tight clothing, ((fully clothed, wearing clothes)),, (extremely perfect hands, perfect arms, perfect wrists)
+BREAK
+Lighting: <lora:backlighting:0.5> (soft_light, backlighting), backlit,
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lora:hyperass_850-1e-5-av3-LoRA-epoc43-v3:0.5> hyperass, thick thighs, wide hips,
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

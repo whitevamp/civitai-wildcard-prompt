@@ -1,0 +1,1 @@
+masterpiece,best quality, overalls, white shirt, (1boy:1.2), sitting on rock, barefoot,leaning back, two Feet in the water,head tilt, happy, (looking at viewer:1.2), sky,forest, river, very short hair, brown hair,,<lyco:GoodHands-beta2:1.0> <lora:more_details:0.3>, <lora:studioGhibliStyle_offset:0.6>

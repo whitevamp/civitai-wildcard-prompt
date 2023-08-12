@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:Ranni:0.8> Ranni, wavy hair, blue skin, cracked skin, extra arms, joints, doll joints, dress,

@@ -1,0 +1,1 @@
+a man in front of gigantic candi buddha building on mountain, statue of buddha, reflective floor,  epic, fog, dawn, dramatic lighting, dim light, forest, cliff,  <lora:ARWCandiBuddha:1>  advntr,   <lora:epi_noiseoffset2:0.6>  <lora:add_detail:0.4>

@@ -1,0 +1,6 @@
+(masterpiece:1.4,ultra detailed1.4, absurdres:1.4)  best quality, 8k wallpaper, 1girl,beautiful detailed eyes, jeans, windbreaker, purple eyes,, (multiple views, variation:1.1),  (full body:0.6), ruby rose, city scape, tall building, perfect anatomy, perfect proprotion,  4k texture, cinematic lighting, god rays, film grain, professional color correction, deviant art,  soft lighting, shinny hair, illustration, anime color, character focus, wlop, extremely detailed face, extremely detailed character, (solo:1.5),  upper body, 20 years old, 90s,  (detailed, wide-eyed, eyelashes), 
+<lora:GoodHands-beta2:1> ,perfect hands, nice hands,
+<lora:breastinclassBetter:0.2> ,large breast,
+<lora:raidenShogunRealistic_raidenshogunHandsfix:0.5>
+<lora:standingFullBodyWithBackgroundStyle_v10Offset:0.8>
+ <lora:wlopStyleLora_30Epochs:0.6>

@@ -1,0 +1,8 @@
+((one male)) ((1boy)) ((front view)).
+Very detailed flawless face, detailed open eyes, very handsome, epic, heroic, (muscular) bodybuilder, (big muscles), (big pecs) (big pectorals), narrow waist, 5_fingers. (homoerotic). Short styled hair. Realistic face, realistic eyes, (detailed facial features), (smile).
+Wearing a blue mankini with a (very large bulge:1.5)
+Standing in the water, beach, palm trees.
+High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light, vibrant colors, depth of field.
+<lora:BulkedUpAIR1.5:0.2>
+<lora:Mankini:0.7>
+<lora:lightV1:1>

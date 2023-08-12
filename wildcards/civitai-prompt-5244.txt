@@ -1,0 +1,3 @@
+Photo of a young woman wearing (EIClothing:1.3), savoring a cup of coffee inside a cozy wooden mountain outpost, with a picturesque view of snow-capped peaks through the window.
+white hair, smiling, cleavage
+<lora:ArknightsAurora:0.7>

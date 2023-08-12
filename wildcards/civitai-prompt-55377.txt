@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, portrait of a girl, sidelighting, (finely detailed beautiful eyes: 1.2), masterpiece, standing model pose, church:1.5, blue hair:1.5, smile,
+detailed skin texture, beautiful detailed face, best quality, ultra detailed, hiqcgbody, lustrous skin, abs, very huge breasts, very huge boobs, puffy nipples, huge nipples, full body, show pussy, show asshole, spread legs, nun,
+, <lora:fashionGirl_v20:0.5>, <lora:hipoly3DModelLora_v10:0.3>, <lora:japaneseDollLikeness_v10:0.2>,  (ulzzang-6500-v1.1:0.6), <lora:dalcefoPainting_2nd:0.8>, <lora:saggingBreasts_v10:0.5>,  <lora:hugeAssAndBoobs_v1:1>

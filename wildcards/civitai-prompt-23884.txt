@@ -1,0 +1,2 @@
+dome, no humans, scenery, sky, tower, cloud, building, outdoors, fog, night, smoke, city
+<lora:dome:1>

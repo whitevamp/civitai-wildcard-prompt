@@ -1,0 +1,9 @@
+(masterpiece, best quality, ultra detailed, Good perspective, ultra HD:1.2), 
+1girl, <artoria_alter><nude:1>solo, cool face, high detailed face,whole body,<exhibitionism>small breasts,
+grey_yellow hair, long hair, short ponytail, yellow eyes, (full detailed eyes:1.2)(good anatomy:1.2), clear face,nsfw,
+standing<spread_pussy>,black bikini,micro_bikini,yellow female pubic hair,high detailed feet,slip_nipples,
+ from above, ((flip_flops)), squatting,
+lens 16mm, wide shot, 
+classroom,school,
+uncensored,
+<lora:conceptExcessivePubic_v10:0.7> <lora:ironcatlora1Artoria_v10:0.8>

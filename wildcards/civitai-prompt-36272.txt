@@ -1,0 +1,1 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, upper body, nudity, <lora:hipoly3DModelLora_v10:0.66>, <lora:fashionGirl_v45:0.33>,  <lora:breastinclassBetter_v13:0.5>, <lora:japaneseDollLikeness_v10:0.33>, black, white, gold

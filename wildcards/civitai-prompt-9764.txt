@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, (small breasts:1.3), oversized t-shirt, downblouse, (leaning forward:1.3), bra, <lora:MyBreastHelper:1>  <lora:RealDownblouse15_v2.50:0.4>

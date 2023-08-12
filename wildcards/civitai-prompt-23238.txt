@@ -1,0 +1,6 @@
+danmachihestia, <lora:hestiatest:1>, 
+hestia, blue eyes, black hair, twintails, 
+BREAK barefoot, blue bow, blue bowtie, bow, bowtie, cleavage, cleavage cutout, clothing cutout, dress, gloves, pencil dress, (rei no himo:1.5), short dress, white dress, white gloves,
+BREAK looking at viewer,
+BREAK outdoors, city,
+BREAK <lora:GoodHands-vanilla:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

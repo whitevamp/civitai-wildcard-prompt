@@ -1,0 +1,1 @@
+masterpiece, best quality, highly quality , <lora:ryza:0.7> , riza,  brown hair, single glove, thighhighs, brown eyes, red shorts, jewelry, belt, hat, white headwear, necklace, yellow jacket, hair ornament, short hair, brown glove, shirt ,  beach background ,  <lora:pixel:0.7> , pixel art , chibi , full body

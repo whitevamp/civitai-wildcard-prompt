@@ -1,0 +1,6 @@
+val face, perfect eyes,glowing eyes,mole under eye,puffy eyes,18 yo taiwan pure and shy girl heavy breathing huge breast Fitness figure,172CM,hand of guido daniele:1.2 , (narrow waist:1.2), , (shinny skin, extremely fine complexion:1.5),(natural breast), long hair, black hair,((Thick pubic hair)),virginal pussy
+, solo,((( KIM DOLCE&GABBANA Embroidered minidress)),(look to view),Western, blond ,full body,
+outdoor,street, subway station, shop border, akihabara \(tokyo\), shibuya \(tokyo\), shinjuku \(tokyo\),
+ray tracing,best quality, masterpiece, highres, original, extremely detailed 8K wallpaper, an extremely delicate and beautiful,realistic,photograph,low key,incredibly_absurdres,colorful,Depth of field realistic,cinematic lighting,intricate detail,
+lighting,Photo taken with Canon EOS 5D Mark4 and SIGMA Art Lens 35mm F1.4 DG HSM, F1.4, ISO 200 Shutter Speed 2000,((Photo style: Yoshiyuki Okuyama)) 
+ <lora:epiNoiseoffset_v2:0.5>, jangwonyoung:0.2, krface1:0.2

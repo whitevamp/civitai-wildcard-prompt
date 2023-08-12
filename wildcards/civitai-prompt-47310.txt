@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res, professional lighting, photon mapping, radiosity, physically-based rendering, cinematic lighting ,cute,1girl, Look directly at the camera，((long hair) pink hair), looking at viewer,light smile, cityscape, large breasts, <lora:cuteGirlMix4_v10:0.76>

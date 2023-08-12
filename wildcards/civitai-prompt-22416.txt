@@ -1,0 +1,5 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:Nidalee:0.8> nidalee,
+ <lora:add_detail:0.4> <lora:Elixir:0.4> <lora:more_details:0.4>  
+ tan skin,  <lora:chocoskin:0.4> <lora:bl8ckIC-1CIVIT:0.8> in the style of bl8ckIC, bl8ckIC,  
+jungle, nude, nipples,  <lora:excessiveSparsePubic_v10:0.8> sparse pubic hair <lyco:GoodHands-beta2:0.8> <lora:eager_pet_pose_v1:0.8> eager pet pose,

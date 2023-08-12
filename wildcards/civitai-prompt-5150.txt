@@ -1,0 +1,4 @@
+(best quality:1.2) (4k:1.) (very high resolution:1.1) , (realistic photograph:1.1) , (ultra detailed CG:1.1) , 
+<lyco:Robotaction:1> robot , 1girl , solo , (small breasts:1) , (silver ponytail:1) , glowing eyes , mechanical ears ,  headgear , sun visor , white armor , 
+holding weapon , beam , mechanical wings , heat haze , shooting position , running towards viewer , spark , soot ,
+expressionless , cinematic lighting , science fiction

@@ -1,0 +1,1 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), <lora:Jahysmol_15_15:0.9> jahysama, 1girl, very long hair, hair flaps, animal ears, shirt, clothes writing, short sleeves, naked shirt, looking at viewer, HeadpatPOV, pov, headpat, from above, garden, <lora:HeadpatPOV:1>

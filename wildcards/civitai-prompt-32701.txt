@@ -1,0 +1,1 @@
+ru_qun,(RAW photo:1.2), (photorealistic:1.4), hdr, (best quality, masterpiece:1.2), ambient lighting, shadows, intricate detail, Exquisite details and textures, 1girl, hanfu, clear detail, long black hair, straight hair, silk wear, feather dressing, looking at viewer,  <lora:elegantHanfuRuqun_v10:0.6> , <lora:japaneseDollLikeness_v10:0.2>, <lora:koreanDollLikeness_v15:0.6>

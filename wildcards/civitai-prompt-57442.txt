@@ -1,0 +1,4 @@
+1girl, (masterpiece:1.2),(best quality:1.2), (real picture, intricate details), highres, photography, (very detailed face, realistic skin, realistic body),
+(upper body), (shiny skin), ultra white skin, red lips, (extremely beautiful face), make up, collarbone, (big tits), parted lips, thin lips, purple eyes, shiny eyes, narrow eyes, (brown hair), long hair, curly hair, see-through bangs, gold little earrings, open jacket, crop top, open shirt, fashion, multicolored clothes, miniskirt, black pantyhose, high heels, shy, smile,
+outdoors, street, city street, shinjuku \(tokyo\), akihabara \(tokyo\), shop, sexy pose, seductive, korean girl, kpop idol, young girl, cute girl, light from front, hand on hair, fashi-girl,   
+ <lora:LoraKAigirlFace_kAigirlFace2:0.2>,  <lora:koreandolllikenessV20_v20:0.66>, <lora:no117Girl_no117:0.4>,  <lora:fashionGirl_v54:0.2>

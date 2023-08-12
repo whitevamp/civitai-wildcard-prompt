@@ -1,0 +1,2 @@
+(1girl, upper body, dancing,  happy,  smile, narrow waist, pale skin,  shiny skin, swimsuit, sand, leaf,  long_hair, sea, beachm seaside, sunlight, lips,), slim,
+(best quality, highres, photorealistic, raw, 8k,masterpiece, ),(silver hair:1), best quality, masterpiec8K.HDR. highresabsurdres:1.2, Kodak portra 400, film grain, blurrybokeh:1.2, lens flare, (vibrant color:1.2),1girl,  looking at viewer , <lora:add_detail:0.5> <lora:LowRA:0.1> <lora:epi_noiseoffset2:0.1>  <lora:kwFemale960Dim128_v12:0.8>

@@ -1,0 +1,1 @@
+glasssculpture, translucent, masterpiece, best quality, highres,  ,long translucent straight hair,  (huge breast:1.3), nude, nipple,<lora:sexToyTransformation_v10:1.2>,transformation, (transparent skin:1.3),  <lora:glassSculptures_v10OfficialRelease:0.7>,  <lora:ConceptDeliveryInBox_deliveryv106:0.8>, lying back on box

@@ -1,0 +1,3 @@
+, (masterpiece:1.2), best quality,midjourney,
+cowboy shot, 
+ <lora:midjourney_20230624181825:0.9> <lora:gloriousAzureLaneSpring_GloriousSpiring:0.8>

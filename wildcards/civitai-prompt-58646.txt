@@ -1,0 +1,2 @@
+best quality, ultra high res, detailed, fine details
+<lora:lowra_v10:0.4>

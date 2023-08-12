@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), 1 girl, (pouting, sulking:1.3), (cross her arms:1.2), <lora:Waifu_pouting-000002:0.35>, <lora:Luocha_fm_v11:0.9>, luocha, blonde hair, long hair, white coat, black shirt, white pants, blue ascot, blue armband, blue vest, narrow waist

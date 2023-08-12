@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful, soft lighting,
+luluffx, 1girl, HowDoYouDoFellowKidsMeme, holding, skateboard, holding skateboard, 
+black hair, single hair bun, hair over one eye, one eye covered, lipstick, makeup, red eye, detailed hair, purple necklace,
+red coat, shirt, 
+curvy, large breasts,
+<lora:LuluFFXCS2V3:0.83>
+<lora:HowDoYouDoFellowKidsMeme:1>

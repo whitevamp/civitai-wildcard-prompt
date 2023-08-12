@@ -1,0 +1,1 @@
+(8k, RAW photo, highest quality), masterpiece, best quality, 1girl, souryuuasukalangley, plugsuit, bodysuit, red_bodysuit, interface headset, looking at viewer, light smile, upper body, science fiction, city,  <lora:epiNoiseoffset_v2:.2>,   <lora:asukaLangleySohryu_v1:.7>

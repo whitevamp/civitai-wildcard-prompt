@@ -1,0 +1,5 @@
+1 female warrior, horus, futuristic Egypt,   helmet, detailed armor, surreal, 
+( by Enki Bilal) methurlant
+high contrast, sun light
+(masterpiece, best quality:1.3),realistic, hyper-realistic photorealistic
+<lora:methurlant:1> <lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

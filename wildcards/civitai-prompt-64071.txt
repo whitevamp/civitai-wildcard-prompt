@@ -1,0 +1,2 @@
+absurdres, highres, best quality, <lora:botw_style_offset:0.8> botw style, 1girl, princess zelda, solo, looking at viewer, facing viewer, upper body, sunlight, grass, aiming at viewer, holding weapon, handgun, 
+ <lora:betterGunsLocon_v10:1>

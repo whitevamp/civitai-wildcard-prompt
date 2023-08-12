@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), High detail RAW color photo, professional photograph, (realistic, photo realistic:1.37), cinematic light, <lora:kor_insta_girl_v12:0.6>, 1girl, black bikini, ocean, sand, wave, fine cloud, sun shine

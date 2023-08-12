@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful,FlowerOverEye, <lora:FlowerOverEye:1>, 1girl, solo, <lora:Char_FF7Remake_Aerith:0.8>, <lora:Other_MoreDetails:0.75>

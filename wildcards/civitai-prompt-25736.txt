@@ -1,0 +1,1 @@
+melancholy, midsummer,Moody, atmospheric, painterly, fine details, cinematic composition, soft lighting,nostalgic,evocative, hazy atmosphere, a sense of solitude,dreamlike atmosphere, roses,flower field,1girl,white long hair,light yellow eyes,butterfly style, <lora:beautifulDetailedEyes_v10:0.5><lora:butterfly:0.5:MIDD>

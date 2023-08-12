@@ -1,0 +1,1 @@
+(masterpiece, best quality), 1girl, solo, (Hakurei Reimu:1.3), (stripper_girl:1.2), (Brown Eyes:1.1), (strip_club_venue), (Stripper Pole, Pole Dancing:1.2), Cinematic Lighting, Sexy, <lora:StripClub:1.0>,  <lyco:GoodHands-beta2:1.0>

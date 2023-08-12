@@ -1,0 +1,7 @@
+ashuralora V0id3nergy (one male:1.9) (1boy:1.9) (front view:1.6)
+Very detailed flawless handsome face, detailed open eyes, heroic, bodybuilder, (big muscles), (big pectorals), narrow waist. Long hair. Realistic face, realistic eyes, (smile).
+(shirtless) (topless male), angel wings, armor, diamond, gem, gloomy, dust.
+High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric mood lighting, rich colors, depth of field.
+<lora:BulkedUpAIR1.5:0.3>
+<lora:ashuralorav01:0.8>
+<lora:kVoidEnergy:1>

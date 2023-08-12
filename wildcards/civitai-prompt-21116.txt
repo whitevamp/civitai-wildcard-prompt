@@ -1,0 +1,2 @@
+<lora:add_detail:1>
+<lora:PencilSketch:1> pencilsketch,

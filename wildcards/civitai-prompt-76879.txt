@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.2), Detailed, Intricate Details, 4K, White Lighting,
+1Girl, (Solo:1.2), standing, hands on hips, from below, (upper body:1.2),
+aqua hair, long hair, messy hair, floating hair, (blunt bangs:1.2), (twintails:1.2),
+blue eyes, looking at viewer,
+evil grin,
+blue jacket, light blue pants, black necktie, rkn symbol,
+thigh thighs, cameltoe,
+indoors, office, plants, hallway, modern,
+<lora:RKN-Chan:0.9>

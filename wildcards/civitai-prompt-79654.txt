@@ -1,0 +1,13 @@
+"matsumoto rangiku", <lora:Bleach-Matsumoto_Rangiku-6E:1:0.9,0.9,0.9,0.9,0.9,0.9,1,1,1,1,0.2,0.2,0.2,0.2,0.2,0.2,0.1>, ("24 years old":1.5),
+<lora:epiNoiseoffset_v2:0.6:0.1,0.1,0.1,0.1,0.1,0.1,0.1,1,1,1,1,1,1,1,1,1,1>, <lora:add_detail:0.2>, <lora:sharpness:-0.2>, <lora:FilmG2:0.5:0.1,0.1,0.1,0.1,0.1,0.1,0.1,1,1,1,1,1,1,1,1,1,1>,
+(masterpiece:1.3), (best quality:1.3), beautiful, absurdres, "ultra high res",
+"perfect eyes", "perfect face", "highly detailed", "high quality", "extremely detailed face",  ("beautiful detailed eyes":1.2), ("shiny skin"),
+"dynamic lighting", "dramatic shadows", "cool lighting", ("soft lighting":0.9), "natural lighting", ("rim lighting":0.9), ("Global Illumination":0.4), "overhead light source",
+"perfect lighting",  1girl,  solo,
+("gigantic breasts":1.5),
+"(blonde hair:1.3), (orange hair:1)", ("blue eyes":1.2), "grey eyes", ("long hair"), cleavage, wavy hair,
+("black kimono":1.3), "silver chain", "pink shawl", ("black wide sleeves":1.4), ("white sash":1.4), "no bra",
+(standing:1.3), ("close up"), ("upper body":1.6), (pigsney), ("mature female":1.6), ("hourglass figure"):0.9, ("amazing body":0.5), ("pronounced feminine feature":0.5),
+("pink lipstick":0.8), ("parted lips":1.2), (happy:1.2), smile, ("lookway away"), (("looking at viewer")),
+<lora:GTA5_Artwork:0.3:1,1,1,1,1,1,1,1,1,1,1,1,1,0.1,0.1,0.1,0.1>, bleach style, <lora:bleachAnimeStyleLora_offset:0.8>,
+(outdoors, castle), village

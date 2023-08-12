@@ -1,0 +1,4 @@
+best quality, masterpiece,
+zydink, spot color, sketch, white background,
+from side, upper body, (spot color:1.2), red rose, hair flower, closed eyes, expressionless, flower border,
+<lora:zyd232_InkStyle_v1_0:1.2>

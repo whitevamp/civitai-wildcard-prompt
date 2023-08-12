@@ -1,0 +1,3 @@
+leaf, palm_tree, plant, potted_plant, vines, bamboo, tanabata, tanzaku, 1girl, flower_pot, ivy, long_hair, cactus, barefoot, watering_can, solo, black_hair, palm_leaf, blinds, tree, sunset, couch, overgrown, bookshelf, bare_legs, morning_glory, tulip, indoors, yellow_flower, white_dress, flower, sitting, looking_at_viewer
+//
+very very huge breast:1.5 ,<lora:Zaun:0.6>, cleavage:1.1, (Z cup:1.9),gigantic breasts:1.6

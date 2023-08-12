@@ -1,0 +1,1 @@
+gun, ammo, simple_background, artist_name, english_text, 1girl aiming assault rifle, shooting, still_life, vintage ad style, <lora:ad:0.6> <lora:add_detail:0.5> <lora:PerfectNwsjMajic_4:0.25>

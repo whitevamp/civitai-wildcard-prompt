@@ -1,0 +1,2 @@
+RAW uhd closeup portrait photo of a (corgi) walking down a dark alleyway, nighttime city background, detailed (fur, textures!, hair!, shine, color!!, imperfections:1.1), highly detailed glossy eyes, (looking at the camera), 
+specular lighting, dslr, ultra quality, sharp focus, tack sharp, dof, film grain, (centered), Fujifilm XT3, crystal clear, center of frame, corgi face, sharp focus, street lamp, neon lights, bokeh, (dimly lit), low key, at night, (night sky), <lora:lowra_v20:0.5>

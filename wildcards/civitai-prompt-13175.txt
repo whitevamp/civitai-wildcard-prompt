@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting,
+
+zero two \(darling in the franxx\), darling in the franxx, 1girl, ascot, bangs, blue background, green eyes, hairband, horns, long hair, long sleeves, looking at viewer, red jacket, closed jacket, military uniform, oni horns, orange ascot, pink hair, red horns, simple background, smile, solo, standing, uniform, white hairband
+
+, intricate details, natural light, RAW photo, 8k uhd, film grain  <lora:zerotwo_offset:1>

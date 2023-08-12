@@ -1,0 +1,6 @@
+(best quality:1.2,masterpiece:1.2,ultra detailed,hires),
+makima\(chainsaw man\),1girl,mature:1.2,solo,lips,medium breasts,
+golden eyes,ringed eyes,red hair,long hair,braided ponytail,bangs,sidelocks,
+black necktie,white collared shirt,shirt tucked in pants,long sleeves,
+black pants,high-waist pants,black background,
+<lora:Makima (Chainsaw Man) LoRA:0.8:MIDD1> ,deadpan,looking at viewer,

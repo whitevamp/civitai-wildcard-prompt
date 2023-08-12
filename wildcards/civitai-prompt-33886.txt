@@ -1,0 +1,13 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, sitting on bed, large windows, indoors,
+pink hair, long hair, closed eyes, tongue, tongue out, (saliva, drooling, , fucked silly, full blush:1.2),
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+pussy, pussy juice,
+sweat, steam, steaming body, heavy breathing, tiptoes, arched back,
+headback, <lora:headback_v10:0>,
+stained sheets, <lora:stained_sheets2_000008:0>,
+female ejaculation, <lora:conceptFemaleEjaculation_v10:0>,
+skindentation, white leagwear, <lora:LegSkindentation_v11:0>,
+fingering, schlick, masturbation, <lora:masturbation_female:0>,
+choker, topless, bottomless, kokomidef, <lora:sangonomiyakokomi1_000008:0.75>

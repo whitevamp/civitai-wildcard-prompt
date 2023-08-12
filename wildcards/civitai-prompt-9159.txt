@@ -1,0 +1,1 @@
+high detailed, masterpiece, best quality:1.2, hdr, absurdres, <lora:add_detail:0.4>,

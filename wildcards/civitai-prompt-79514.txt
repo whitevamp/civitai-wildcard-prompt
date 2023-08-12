@@ -1,0 +1,3 @@
+An epic action movie sideshot still of Ghostrider with a flaming skull head, studded leather jacket, chains, sitting in ((a wheelchair with glowing orange wheels)), racing down a dark city street, leaving a trail of fire behind.
+1 man, sparks, embers, highres, high resolution, sharp focus, detailed, cinematic, artistic shadow, hdr.
+<lora:add_detail:0.3> <lora:wheelchair-20:0.9> <lora:ghostrider:0.8>

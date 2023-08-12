@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), nsfw, official art, 8k
+BREAK,
+1girl, nude, large breasts, (egg laying:1.2), easter eggs, rabbit ears, sitting, spread legs, (vaginal object insertion:1.2), pregnant, pussy juice, basket
+BREAK,
+closed eyes, open mouth, orgasm, moaning
+BREAK,
+forest, ruins, detailed clouds <lora:eggLaying_v10:0.85>, <lora:pregnant:0.7>

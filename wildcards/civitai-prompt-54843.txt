@@ -1,0 +1,1 @@
+<lora:pesDruunaV100SD15_v10:1> 1girl, (heavy sword and leather armor:1.3), <lora:toned, muscular, bodybuilder:1> (toned:1.3), long black hairs, black sky, lightning bolts, rain, sketch, low detail, Line art, vector art, pastel colors, by katsuhiro otomo and masamune shirow and studio ghilibi and yukito kishiro and moebius, (masterpiece:1), high resolution, high quality

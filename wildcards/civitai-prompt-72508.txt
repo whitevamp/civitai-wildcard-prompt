@@ -1,0 +1,1 @@
+4K, Masterpiece, highres, absurdres,natural volumetric lighting and best shadows, deep depth of field, sharp focus, smiling,edgleotard,butterfly_top, a woman in a leotard posing for a picture  [edgleotard|butterfly_top], (butterfly design embroidery:1.1),<lora:ButterflyLeotards:0.55>

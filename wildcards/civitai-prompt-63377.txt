@@ -1,0 +1,4 @@
+ass up wait, (photorealistic:1.6), 
+short hair, white hair, black dress,
+cozzy  bedroom, on bed, 
+ <lora:ass_up_wait.v1.3-sd:1>

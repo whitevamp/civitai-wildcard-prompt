@@ -1,0 +1,3 @@
+<lora:puss_sandwich_v0.2:1.1>
+(2girls:1.1), pussy sandwich, looking back, on bed, lying, yuri,
+<lora:sono-bisque_v4.0b:1> kitagawa marin, inui sajuna,, masterpiece, best quality, highly detailed

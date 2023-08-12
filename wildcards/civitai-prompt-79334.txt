@@ -1,0 +1,1 @@
+Chinese Kylin, full kylin, gigantic, Megalophobia, Complex cg painting, Concept game design illustration, Cyan white mint, By wu guanzhong, by Zhang kechun, POV view, extreme panoramic view, extreme low angle view, extreme bottom view, bokeh<lora:add_detail:1> <lora:ruinsAndLight_v10:0.5> <lora:Bloodstainai:0.7>

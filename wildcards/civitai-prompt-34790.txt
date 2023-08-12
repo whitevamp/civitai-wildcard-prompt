@@ -1,0 +1,3 @@
+(masterpiece, best quality:1.4), (beautiful, aesthetic, perfect, delicate, intricate:1.2), <lora:more_details:0.75>, <lora:sharpen-soften:-0.25>, <lora:realistic:0.25>,
+1 girl, adult russian woman, freckles, blue eyes, platinum blonde medium hair,
+Style-GravityMagic, portrait, solo, (full body:0.6), looking up, detailed background, detailed face, (<lora:CeltPunkAI:0.5>, CeltPunkAI,  barbarian celtic theme:1.1)  verdant-warrior, nature themed armor, blending of treebark with armor,   vine helm, green magical lights, dynamic pose, vigilant, nature runes, glowing natural markings on skin, lit-up  renewal inscriptions etched in armor,  magical plant growth, vibrant branches in background, summer, fireflies, windblown leaves, sidelighting, mystical atmosphere,

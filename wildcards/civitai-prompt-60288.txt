@@ -1,0 +1,1 @@
+masterpiece, best quality, 1990s \(style\), 1980s \(style\), 1girl, sailor moon, blonde hair, hair bun, double bun, twintails, long hair, blue eyes, blue sailor collar, red bow, upper body, sepia, film grain, <lora:1990sAnimeStyleLora_1:0.3> <lora:retrosepia:0.4>

@@ -1,0 +1,12 @@
+uniform, yuzuriha_inori, <lora:Inori:0.4>,  red dress, yuzuriha_inori,center_opening, detached_sleeves, bare_shoulders, hair_ornament, elbow_gloves, red thighhighs,hairclip, gloves, solo, fingerless_gloves,facing_away,bare navel,
+knees,legs,(((masterpiece))), (((best quality))), ((ultra-detailed)), (highly detailed CG illustration), ((an extremely delicate and beautiful)),cinematic light,,solo,,(color:1.1),
+sunbeam, light_rays,
+(intricate:1.15), (symmetrical:0.55), (hd:1.25),
+(dynamic lighting),
+(character focus),
+science fiction,extreme detailed,colorful,highest detailed,war fire,  light particles, mature female,medium breast,
+,
+(vertical orientation, fisheye perspective:1.1),
+<lora:Comic_2:0.3>
+,from below,1girl,
+<lora:add_detail:1>,

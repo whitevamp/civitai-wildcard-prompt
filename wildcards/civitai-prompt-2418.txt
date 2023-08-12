@@ -1,0 +1,5 @@
+(ink sketch) of 1 woman, coat, white pale skin, (blue eyes, blue hair, bobcut,  blue lips), leaning forward 
+ (Russ Mills)	, methurlant
+fantasy, dnd
+(masterpiece, best quality:1.3),
+<lora:methurlant:1>

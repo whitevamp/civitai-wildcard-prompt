@@ -1,0 +1,5 @@
+masterpiece, best quality, 1girl, solo, standing, portrait, <lora:pinne-nikke-richy-v1:1> pinne \(nikke\), tactical clothes, military, (armor:0.8), jacket, long sleeves, (shotgun shell:1.2), gloves, asymmetrical shoulder pads, looking at viewer, :D
+BREAK
+dust, smoke, haze, two side, split, vertical line, line, broken, black background, 
+BREAK
+masterpiece, best quality, 1girl, solo, standing, portrait, <lora:dorothy-nikke-richy-v1:1> dorothy \(nikke\), altdress, looking at viewer, see-through, crying,

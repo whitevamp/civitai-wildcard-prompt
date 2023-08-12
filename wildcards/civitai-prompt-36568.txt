@@ -1,0 +1,3 @@
+(masterpiece, best quality, ultra-detailed), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, <lora:more_details:0.75>, <lora:realistic:0.3>, <lora:sharpen-soften:-0.25>,
+1 girl, adult  woman,  grey eyes, blonde waterfall braid,
+ looking at viewer, solo, (full body:0.6), detailed background, detailed face, (<lora:YinYangTech:0.6>, yang,  yinyangtech theme:1.1), face covered by bandana, thief, (tattoos:0.9),    (studded:0.7) dark leather (armor:0.7), belts, keys,    high fantasy medieval setting, sewers background, stealth,   suspicious, secret, shady dealings,  coins, (barrels in background:0.8), secret passage,   fog, gloomy atmosphere,

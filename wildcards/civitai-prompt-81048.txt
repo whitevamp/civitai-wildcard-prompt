@@ -1,0 +1,5 @@
+1girl,masterpiece,best quality,4k,8k,realistic,<lora:tongue:0.9>,tongue,open jacket, t-shirt, arms behind head, 
+ayu, <lora:ayu:0.8>,
+<lora:exposepanty-strong:1>,accidental exposure panties , 
+<lora:NegStd3:0.6>, 
+ <lora:asianGirlsFace_v1:0.6:FACE>,

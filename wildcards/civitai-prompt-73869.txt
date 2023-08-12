@@ -1,0 +1,3 @@
+<lora:DarkestDungeonV2:1> (darkest dungeon), ddstyle, landscape, scenery,
+1boy, zombie, reaching out, 
+ <lora:Lalafell1-10:1> <lora:zombie_v1.3:1>

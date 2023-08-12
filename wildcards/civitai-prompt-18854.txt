@@ -1,0 +1,5 @@
+<lora:ganyu_ned2_offset:1> <lora:japaneseDollLikeness_v10:0.45> masterpiece, (photorealistic:1.5), best quality, beautiful lighting, real life,
+
+ganyu \(genshin impact\), 1girl, ahoge, architecture, bangs, bare shoulders, bell, black gloves, black pantyhose, (blue hair), blush, breasts, chinese knot, detached sleeves, east asian architecture, flower knot, gloves, horns, long hair, looking at viewer, medium breasts, neck bell, night, outdoors, pantyhose, purple eyes, sidelocks, solo, tassel,  white sleeves, (ulzzang-6500:0.5)
+
+, intricate, high detail, sharp focus, dramatic, beautiful girl , (RAW photo, 8k uhd, film grain), caustics, subsurface scattering, reflections

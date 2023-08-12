@@ -1,0 +1,1 @@
+luigi, green hat, "green shirt" BREAK, blue overalls BREAK, <lora:Luigi:1.0>, handthel,<lora:concept_handingyouthel-10:1.0>, (big mustache, big nose:1.2), ("capital letter L":0.8)

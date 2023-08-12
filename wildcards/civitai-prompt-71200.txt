@@ -1,0 +1,3 @@
+cyberhelmet, glowing eyes, futobot,futobot, cyborg, ((masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1male, solo, hood up, upper body, mask, 1boy, male focus, black gloves, cloak, long sleeves,
+photorealistic, cyberpunk city street, bokeh, depth of field
+ <lora:Futuristicbot4:0.5> <lora:cyberhelmetv0.7:0.5>

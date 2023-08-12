@@ -1,0 +1,5 @@
+1 female soldier  in a big bulky futuristic armor   Parrley_armor ,in the desert,  camouflage, battlefield,  ww2, dynamic pose, rocket propulsion
+(( complex background))
+shinkawa youji
+((masterpiece,concept art)),  
+  <lora:shinkawa_youji_offset:1> <lora:ParrleyFLEX:0.8>

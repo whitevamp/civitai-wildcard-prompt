@@ -1,0 +1,1 @@
+modelshoot style,(best quality, masterpiece:1.1), (realistic:1.4),intricate elegant, (highly detailed),sharp focus, dramatic,photorealistic,A beautiful Chinese girl,<lora:nana_v10:1.2:FACEH>,(High Detail), smile,china dress,full body,high-heeled shoes,In the lobby,Screen window, corridor,Curtains of fluttering yarn,((Mottled light and shadow,warm light ,depth of field)),

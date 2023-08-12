@@ -1,0 +1,1 @@
+<lora:Codriver_20230529001557-000001:0.6>,Codriver, 1girl,black_pantyhose,(topless:1.4),night ,stary sky ,black_hair, blurry, blurry_foreground, brown_eyes, black_hair,depth_of_field, hand_on_own_head, long_hair, l, looking_at_viewer,, seatbelt,solo

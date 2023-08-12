@@ -1,0 +1,5 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, perfect waist to hip ratio, (natural skin texture, hyperrealism, soft light, sharp), lower body, overhead shot, nsfw,
+BREAK
+solo, young woman, cute, pretty, sexy, (wavy hair, white hair), lying a seat in the bus, 
+beautiful detailed face and body, detailed beautiful teeth, medium breasts, narrow waist, glamorous body, thigh gap, long legs, pink lips, makeup, long eyelashes, pale skin, alluring smile, dramatic lighting, (night time, night, night view, dark),
+<lyco:GoodHands-beta2:1.0>, <lora:breastinClass:0.2>, <lora:add_detail:0.3>

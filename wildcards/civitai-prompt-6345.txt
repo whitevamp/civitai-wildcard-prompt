@@ -1,0 +1,8 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (hyper realisitc texture skin), ultra-detailed, instagram, (50mm Sigma f/1.4 ZEISS lens, F1.4, 1/800s, ISO 100, photograpy:1.2), (golden ratio:1.3),
+perfect face, extremely delicate and beautiful, detailed skin texture, vibrant shiny skin, medium breasts, (narrow waist:1.2), (makeup:1.2),(kpop idol, korean mixed),(slim girl), (glowing),cbpkv3,
+(Harem:2.0), (multiple girls:2.0), (5 girls), looking at viewer, ((GROUP PICTURE)),  Neonpunkai,
+detailed clothes,lace, lace trim, Clothes with complex patterns,high heels, ornaments, mechanical arms, synthetic skin, porcelain, (pearl), holographic, titanium, (diamond), (ruby), (sapphire), (gemstones), armor,
+detailed lips, elegance, random expressions, random action,
+(pureerosface_v1:0.7),
+<lyco:MultipleGirlsGroup:1.2>
+<lora:add_detail:0.5>  <lora:OC:0.4>  <lora:cbpkv_20230612134125-000005:0.3>

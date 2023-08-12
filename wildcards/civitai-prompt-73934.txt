@@ -1,0 +1,2 @@
+(masterpiece),(best quality), anime minimalist,<lora:minimalistAnimeStyle_v10:1>,
+gawr gura, blue hoodie, shark hood,sharp teeth, (shark tail), <lora:gawrGuraHololiveAll_v4AllOutfits:0.8>

@@ -1,0 +1,1 @@
+masterpiece, extremely intricate, realistic, red hair, beautiful, intense sunlight, stunning woman, detailed, sharp focus, dramatic, cinematic lighting,  <lora:Miss_fortune:0.4> ,  <lyco:Christina Hendricks:1>

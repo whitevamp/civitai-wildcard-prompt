@@ -1,0 +1,5 @@
+masterpiece, highres, absurdres, 
+vaginal, penis, from side, 
+<hypernet:MCTerasuMcStyle_v2:0.2>
+<lora:EkuneSideDoggy:0.7> sidedoggystyle, 1boy, ass, doggystyle, sex,
+<lora:LanaHyruleWarriors:1> blue hair, hair ornament, ponytail, purple eyes, nude, breasts, skirt,

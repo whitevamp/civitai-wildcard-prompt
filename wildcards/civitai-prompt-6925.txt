@@ -1,0 +1,4 @@
+best quality, masterpiece,
+1girl, solo, ramen, chopsticks, eating, big eyes, expressionless,
+<lora:ramen_v1.3:1>
+<lora:Ranni_the_Witch-07:0.9>, Ranni, witch hat, white hat, cracked skin, blue skin, colored skin, 4 arms, extra arms,

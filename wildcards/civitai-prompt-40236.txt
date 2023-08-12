@@ -1,0 +1,2 @@
+1girl,jewelry,earrings,long hair,blurry background,necklace,blurry,solo,looking at viewer,red lips,parted lips,pink hair,hair ornament,lips,upper body,bare shoulders,drinking glass,glint,bangs,depth of field,makeup,indoors,cup,alcohol,dress,(pink theme, pink lighting:1.1),
+<lora:MengX girl_Mix_v30:1>,

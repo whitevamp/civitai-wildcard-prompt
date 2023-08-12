@@ -1,0 +1,1 @@
+<lora:add_brightness:0.5><lora:busttape-10:0.5><lora:capi-09:0.8>(capybara),  (busttape, tape measure),large body, looking at viewer, pov, pov hands,  upper body,  (no human),

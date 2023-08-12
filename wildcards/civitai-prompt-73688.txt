@@ -1,0 +1,5 @@
+Whispers of Nature, Alphonse Mucha, Gustav Klimt, elegant figures, organic motifs by Antoni Gaud, Ren Lalique,
+1girl,solo,IT professional, computer server room, coding, troubleshooting, cybersecurity, software development,
+cleavage,(nsfw:0.89),
+(Dappled sunlight, silhouetted figures, tender moments, seductively discreet, magnetic intrigue:0.9)
+<lora:2023-05-12_232640:0.4:FACE0.5>

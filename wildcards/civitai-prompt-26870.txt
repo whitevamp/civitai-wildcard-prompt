@@ -1,0 +1,1 @@
+<lora:sceneemoaesthetic:0.5>, beautiful scene woman, simple lingerie, cleavage, dyed hair, emo makeup, thick lines, masterpiece, high resolution, hd, 8k, shallow depth of field, <lora:more_details:0.5>

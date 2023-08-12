@@ -1,0 +1,4 @@
+((masterpiece)) ((best quality)), ((pussy juice, pee, peeing)), ((retro 90s anime style simple flat pastel color)),  ((small breasts 3girls)), ((beautiful perfect eyes))  <lora:add_detail:-1> <lora:more_details:-1> <lora:exposepanty-strong:0.8> <lora:Creampie_v11:0.5><lyco:GoodHands-beta2:1><lora:toiletrec2:0.5>
+AND 3girls, ((toiletrec)),(pee,peeing), toilet use, no panties blonde braid long hair green eyes small breasts lillie \(pokemon\) ((crying a lot)), (sweating), (blush) <lora:character_pokemon_lillie_v4:0.8><lora:toiletrec2:0.3>
+AND 3girls, ((toiletrec)),(pee,peeing), toilet use, no panties black short hair black eyes red beanie small breasts  selene1 \(pokemon\)  (half-closed eyes), crossed arms  <lora:SeleneLora:0.8><lora:toiletrec2:0.3>
+AND 3girls, ((toiletrec)) ,(pee,peeing), toilet use, no panties blue short hair blue eyes small breasts lana \(pokemon\) (smile), shiny heart eyes, arm lift <lora:LanaLora:0.9> <lora:toiletrec2:0.3>

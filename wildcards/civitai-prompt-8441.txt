@@ -1,0 +1,6 @@
+(cowboy shot),  (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes,
+BREAK 
+<lora:BoaHancockV2:1>BoaHancockV2, black hair, braided twintails, earrings, yelling, posing, black lipstick
+<lora:deep_v-neck_dress:0.4> deep_v-neck_dress
+BREAK
+outdoors, gorgeous view

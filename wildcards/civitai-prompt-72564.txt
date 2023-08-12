@@ -1,0 +1,7 @@
+arcane style, 
+
+1girl, jewelry, earrings, dark-skinned female, dark skin, solo, letterboxed, freckles, makeup, black hair, brown eyes, choker, short hair, blurry background, lipstick, parted lips, red lips, blurry, thick eyebrows, white teeth, very dark skin, dreadlocks, necklace, indoors, bare shoulders, eyeshadow, hoop earrings, sleeveless, lips, portrait, black choker, very short hair
+
+, ((masterpiece))
+
+<lora:arcane_offset:1>

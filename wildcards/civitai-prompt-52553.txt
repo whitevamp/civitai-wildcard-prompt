@@ -1,0 +1,1 @@
+official art,1girl, simple background,[(white background:1.5)::0.2],(white background:1.2),masterpiece,best quality,1girl,solo,reisen udongein inaba,cowboy shot, upper body,<lora:hitoimimStyleLoha_v20b:0.8>

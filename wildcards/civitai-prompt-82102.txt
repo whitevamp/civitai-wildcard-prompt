@@ -1,0 +1,3 @@
+8k, real picture, intricate details, ultra-detailed,(photorealistic),
+<lora:android_18_v110:0.6> and18, 1girl, android 18, blonde hair, blue eyes, belt, jeans, pearl_necklace, bracelet, black gloves, white shirt, short hair, short sleeves, earrings, blue pants, open vest, black vest,
+<lora:lora-dim16-peace_revAnimated:0.8> peace, sign

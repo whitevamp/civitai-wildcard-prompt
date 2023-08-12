@@ -1,0 +1,3 @@
+highres, bloom, cinematic lighting, parking ,
+Kristina1, long messy hair, (slightly) lifting one side dress, both sides of dress, obviously no panties, skirtlift, nsfw,<lora:npm-v11t-000005:.8>
+,(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, (ultrarealistic:1.3),[:(professional color grading, film grain, Hasselblad):0.5]

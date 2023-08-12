@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), Standing, (From Behind:1.2), Hands on Hips, (hutaornd),
+Nude, Naked,
+Brown Hair, Long Hair, Twintails, 
+Red Eyes, Looking at VIewer, 
+Smile, Grin,
+Small Breasts, Nipples, Pussy, Cleft of Venus, (Anus:1.2),
+<lora:Hyouuma:1>, (hyouuma:1.4),
+<lora:Genshin Impact - Hu Tao:1>

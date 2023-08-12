@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, sharp focus,
+ <lora:capi-09:0.8> capybara,    <lora:botw_style_offset:0.8> botw style,

@@ -1,0 +1,7 @@
+masterpiece,
+standing, full body, petite girl, 
+simple background, indoors, living room, 
+, ,(foot fetishist:1.1),  
+  , ,see-through dress,
+  <lora:superbaggysocks:0.9>, socks,,  
+ ,,   <lyco:stepped on:0.6>,stepped on,  foot up,,stepped on sofa

@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,  (abstract:1.2), (zentangle:1.2), dynamic streaks, luminous trails, colorful, visual chaos,   creative experimentation, highest detailed,
+1 girl, adult (elven:0.7) woman,  brown eyes, dark blonde messy hair,
+portrait, looking at viewer, solo, half shot, detailed background, detailed face, (medieval enchanted high fantasy magic theme:1.1), scientist, safety-goggles, lab coat, innovation,  fantastical science lab in background, biology,    surgical mask,    blackboard, bright lighting, flashing lights,
+<lora:add_detail:1>

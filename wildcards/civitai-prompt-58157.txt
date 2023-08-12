@@ -1,0 +1,4 @@
+<lora:T1SeasideShaonvT1_sssStyleYSV10:0.65>keai,1girl, 
+natural light,blurry background,
+masterpiece,realistic,camera light,light on face,
+looking at viewer,

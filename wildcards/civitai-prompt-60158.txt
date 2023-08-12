@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait,
+1girl, kashiwazaki sena, butterfly_hair_ornament, blonde_hair, long hair, school uniform, large breasts, looking at viewer, classroom, open_mouth, (blush:1.2), happy,
+<lora:Kizuki - Haganai Kashiwazaki Sena:0.90>

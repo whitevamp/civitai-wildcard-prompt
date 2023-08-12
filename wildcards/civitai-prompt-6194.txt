@@ -1,0 +1,9 @@
+realistic, detailed, realistic details, intricate detail
+break,
+(((nsfw, 1girl, solo, (transparent night gown, elegant, intricate pattern), demon horn, tanned skin, white hair, long hair, slender, petite, small breast, detailed skin complexion, (wet), wet clothes, looking at viewer)))
+break,
+detailed background, (((dark fantasy, cathedral, hell, submerged, (((red water:1.5))), horror, ruins, dark, baroque architecture)))
+break,
+cowboy shot, perspective, depth of field, rule of third, depth and dimension, proportion, light and shadow contrast, 
+break,
+ <lora:OF_Karina_Kozyreva:0.25>  <lora:OF_Cathryn_Li:0.1>

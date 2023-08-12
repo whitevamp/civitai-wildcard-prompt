@@ -1,0 +1,12 @@
+(masterpiece:1.2, best quality), highres, ultra-detailed,
+yamanaka_ino,
+1girl, solo, 
+huge breasts, mature female, 
+blue eyes, blonde hair, long hair, gradient_hair, 
+ thighhighs, lace thighhighs,  covered nipples,  
+[muscular female, curvy, wide hips, thick thighs], 
+
+open mouth, blush, spread legs, 
+
+
+ <lora:inoYamanakaShippuden_v1:0.8>

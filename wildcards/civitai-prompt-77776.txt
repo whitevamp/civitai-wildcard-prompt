@@ -1,0 +1,6 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:add_saturation:0.5><lora:MultipleGirlsGroup:0.8>
+ultra detailed face,
+3girls,curvy, beautiful, school uniform,long layered skirt,   hair,  curious,peer in, looking at viewer, in a circle, bent over,
+Swirling clouds, gentle breeze, contrail, 
+weak sunlight, cinematic lighting,sunset,early summer,
+from below,

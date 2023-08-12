@@ -1,0 +1,2 @@
+masterpiece, best quality,( realistic),photo, volumetric lighting, extreme detail, 8k, perfect face,1girl ,wide hips, thick thigs, ( nude), huge breasts, <lora:uzakiTsukiUzakiChanWants_v10:0.67>, uzakitsuki, single braid, grey hair, nipples, closed eyes, smiling, street, road, city, town, detailed background, people in background, coat, outside, 
+<lora:JonasanV2:0.7>, saggy breasts, large areolae, <lyco:less_clothesConv2D2.5e-5_BF16:0.68>,( nippleless bra, bra) , crotchless panties,lace trim

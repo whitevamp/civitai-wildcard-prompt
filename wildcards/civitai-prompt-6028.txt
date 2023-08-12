@@ -1,0 +1,1 @@
+<lora:Mashu:0.75>,((Ma_shu)), (((1girl))), short pink hair, ((purple eyes)), ((hair over one eye)), neck ornament, golden braclet, mashu's revealing tops, ((white thongs)),((white long socks)),navel, ((high heels)), full body, standing,  indoors, living room, vase, wooden floor, sofa, TV, tables, chairs, chandelier,  decorations,  <lora:Euro-AmericanDollLikeness_V20:0.55>

@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra high res,
+1girl,solo,double bun, bun cover, sidelocks, bodysuit, chinese clothes, fingerless gloves, arm guards, white cape, cloud print, thighhighs,shiny skin,shiny hair, navel,(topless:0.6),
+looking at viewer,upper body,(portrait:0.78),
+<lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, 
+Ingrid, (OVA:1.3), mature female, (dark skinned female:1.6), dark skin,  (1boy, penis, full nelson, reverse suspended congress, anal:1.2)
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+completely nude, thighhighs, thigh boots, elbow gloves,
+large breasts, stomach bulge, pussy, curvy
+<lora:Ingrid:0.85>  <lora:RSCongress:0.4>

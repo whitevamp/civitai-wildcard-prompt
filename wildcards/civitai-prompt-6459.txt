@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, (fascist:1.15), (elemental:1.25), (lifeless:1.25), dreamwave <lora:Dreamwave sd11 lite10_69550:1>

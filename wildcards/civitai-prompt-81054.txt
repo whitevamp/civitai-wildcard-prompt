@@ -1,0 +1,4 @@
+detailed light,((cinematic lighting)),(very detailed face),(very detailed eyes),(((masterpiece))),extremely detailed face,(HDR:1.5),Jewel-like eyes,best quality,emphasis lines:0.4,detailed gorgeous face, ((beautiful girl:1.5)), olive skin:1.5,(( extremely detailed, hyper detailed)),long eyelashes,
+<lora:ilulu-01:1>,sharp teeth,ilulu \(maidragon\),evil grin,
+ilulu, 1girl, solo, looking at viewer, blush, thighhighs, gloves, navel, thighs, elbow gloves, striped, pink eyes, drill hair, twin drills, cropped legs,(cow print:1.5), (animal print), cow ears,bikini, string bikini, cameltoe,
+(lactation), (milk buckle:1.5), (milk:1.5), box, (stables:1.5), wooden bucket, indoors, (topless:1.5),

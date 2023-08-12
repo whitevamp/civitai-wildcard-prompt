@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+<lora:ireliaFromLeagueOf_ireliaV1:0.8> irelia, ribbon, arm ribbon, irelia, league of legends, (black legwear), highres, 1girl, armor, arm wrap, breasts, bangs, bare shoulders, blade, blue eyes, (dark blue hair:1.1), covered navel, forehead protector,  long hair, medium breasts, off shoulder, parted bangs, parted lips, pelvic curtain, blue leggins, red outfit,
+
+<lora:sexToyTransformation_v10:0.9> (transformation:1.4),  <lora:miKeMickeyskAmputee_v20:0.4> (quadruple amputee:1.5), (cameltoe:1.5) (blindfold:1.3), <lora:openGagMouth_v20:0.6> (circle gag mouth:1.2)

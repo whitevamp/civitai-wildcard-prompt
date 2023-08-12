@@ -1,0 +1,6 @@
+RAW photo,soft lighting, (rim lighting:1.3), colour grading, focused,colour correction, masterpiece,best quality, 8k, canon 5d,f/1.8, iso 6400, wide angle,HDR, bloom,Chromatic aberration, Photorealistic,trending on artstation,trending on CGsociety,dramatic,
+(Insane skin detail), (photorealistic skin:1.2),(high skin detail:1.2), extreamly detailed, Intricate,High Detail,
+((crawling in a dark  black tunnel)),extreamly dark, barley any light, on hands and knees, from the front, psylocke <lora:psylocke:0.65>,large breasts,secret agent, green high tec goggles on head, purple latex thighhighs,black gloves,
+purple elbow gloves,purple leotard,purple bodt suite,purple thigh boots,purple thigh strap,
+red sash around waist,
+holding weapon,holding sword katana energy blade v0id3nergy axio lab sentinel <lora:kVoidEnergy:0.9><lora:add_detail:0.6>,<lora:LowRA:0.25>

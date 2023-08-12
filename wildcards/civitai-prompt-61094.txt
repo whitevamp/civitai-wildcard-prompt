@@ -1,0 +1,1 @@
+<lora:INSPHOT:0.6>, Instantphoto, Fashion photography of 1girl, natural skin texture, fluffy short hair, White shirt, pleated skirt, realistic photo, Polaroid, vibrant details, finely detailed, (full body:0.6), wide angle, dutch angle, <lora:FilmG2:0.2>

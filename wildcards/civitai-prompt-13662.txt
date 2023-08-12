@@ -1,0 +1,2 @@
+<lora:skirt_tug_v0.1:1>
+1girl, skirt tug, sweater, (wind:0.25),, masterpiece, best quality, highly detailed

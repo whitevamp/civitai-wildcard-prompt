@@ -1,0 +1,1 @@
+<lora:shukezouma_v1_1:0.8>, masterpiece, best quality, ((willow trees)), upper body, 1girl, standing, hanfu, detailed eyes, medium breasts, peaceful, looking at viewer, black hair, <lora:MoXinV1:0.6>,

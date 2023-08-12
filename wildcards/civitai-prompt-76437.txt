@@ -1,0 +1,3 @@
+film portrait photography, 
+1girl, bare shoulders, wavy shoulder-length hair, serene, calm, (realistic detailed eyes, natural skin texture, realistic face details), 
+soft dramatic lighting, depth of field, bokeh, vibrant details, finely detailed, hyperrealistic, 35mm film, hazy blur, filmg, <lora:Style_FilmG3:0.8>

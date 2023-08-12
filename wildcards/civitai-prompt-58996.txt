@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, chibi, cute, full body, fairy wings, fairy girl, tinker bell, blonde hair, blue eyes, green fairy outfit, green shoes, 1girl, solo, (beautiful detailed face), (beautiful high quality eyes), <lora:blindbox_V1Mix:1.0>, detailed background, <lora:tinkerbell_v10:0.75>, photorealistic, sharp focus,

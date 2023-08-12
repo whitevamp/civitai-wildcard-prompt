@@ -1,0 +1,3 @@
+A murky swamp with twisted trees rising from the water, Hue, window light, spotlight
+masterpiece, realistic, award winning, volumetric light and fog, subsurface scattering, caustics, bloom, perfect exposure, perfect composition, rule of thirds, 8k, hdr10, cinematic, breathtaking, ray tracing
+ <lora:add_detail:0.85> <lora:LAS:0.5> (eonn:0.75)

@@ -1,0 +1,1 @@
+(dynamic pose:1.2),(dynamic camera),A music promo photo, (close-up) angry Robert Downey Jr. holding metal guitare, rough, dark stage in the background, Realistic, realism, hd, 35mm photograph, 8k, <lora:LowRA:0.15>, RAW photo, full sharp, wallpapper 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3

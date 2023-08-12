@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),ultra detailed,(photo realistic:1.4),solo,sexy lady,bikini,night beach,blurry_light_background,<lora:BlurryLight_v1:0.6>,

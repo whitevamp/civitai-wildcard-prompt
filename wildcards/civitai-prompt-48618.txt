@@ -1,0 +1,4 @@
+low-braided long hair, very long hair, hair tucking, hand in hair, hair ribbon, braided tail, black hair, red eyes, red halter dress, lace,
+moon, flowers,
+(illustration), (masterpiece), (colorful:1.2),  clear sharp focus, portrait, retro artstyle, tranditional media, detailed, xiaorenshu,
+ <lora:Xiaorenshu_v20:1:NFV2>

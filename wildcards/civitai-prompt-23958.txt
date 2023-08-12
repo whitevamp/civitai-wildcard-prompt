@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4),creepy mickey mouse with knife and blood, look at camera in dark room,  RAW photo, 8k uhd, ((film grain)) ,  <lora:mickey mouse:0.5>

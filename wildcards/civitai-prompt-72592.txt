@@ -1,0 +1,1 @@
+heavyknight, (mature male), (black hair,), (helmet, armor:1.2), dark fantasy, CASTLE CORRIDOR, best quality, masterpiece, ultra high res,(photo realistic:1.1),professional lighting, physically-based rendering,  <lora:heavyPlateKnight_v10:1>

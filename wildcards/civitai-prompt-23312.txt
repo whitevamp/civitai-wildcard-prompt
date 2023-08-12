@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose,
+20yo attractive girl, blushing, subtle makeup, medium breasts, grabbing, balcony, night, open robe, windy, flirty expression,
+(pulld:1.5), 
+ <lora:pulld:0.8>
+ <hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1> <lora:CyberpunkStyleV3:0.5>

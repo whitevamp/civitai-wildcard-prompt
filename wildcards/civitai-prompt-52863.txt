@@ -1,0 +1,7 @@
+(Aya Shobon, Shobon:1.2), (Masterpiece, Best Quality:1.2),
+
+Indoors, Bedroom, Bed,
+
+1Girl, (Solo:1.4), Sitting on Bed, Medium Breasts, (Looking at Viewer:1.1), (White Negligee:1.2), White Hair, Long Hair, Pink Eyes, 
+
+ <lora:Shobon4:1>

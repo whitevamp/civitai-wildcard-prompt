@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  solo,   <lora:starfire_v1:0.8> sf1, purple skirt, crop top, purple thighhighs, bare shoulders, 
+ <lora:EDGHAIRSALON_edgScene:1> with a edgScene hairstyle,  multicolored hair,

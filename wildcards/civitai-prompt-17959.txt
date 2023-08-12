@@ -1,0 +1,1 @@
+(tin sign showing pin up girl:1.3), advertisment, 1950s, <lora:pinup_girls_v1.0:0.8> woman posing for a picture, smiling, black, lime green,logo, holding monster energy,  <lora:monsterENERGY_v2:0.8>

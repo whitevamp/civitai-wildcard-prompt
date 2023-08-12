@@ -1,0 +1,1 @@
+<lora:OnOffConceptV2-000007:.7> split onoffconcept petite princess blushing, magic, epic realistic, hyperdetailed,cinematic, dramatic light, (intricate details:1.1), (complex background), ((backlighting))

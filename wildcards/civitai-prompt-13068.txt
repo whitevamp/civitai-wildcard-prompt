@@ -1,0 +1,14 @@
+(upper body:1.2),  looking at the viewer, illustration of dannytrejo as batman by Jim lee,  
+ 1boy, cowboy pose,, male focus,   
+(looking at the viewer:1.3)
+batman outfit, hulk muscles,mustache, black hair, long  hair, 
+[(
+ bodysuit, black  eyes, 1symmetrical spiderman emblem:0.6,  full grey bodysuit,  black cape, simple background,
+bright big moonlight, Bat Cave Entrance,
+(blood on mouth:1.4), 
+back lit,8k, RAW photo, best quality, (masterpiece:1.2), photon mapping, radiosity, 85 mm focal length ,((cinematic)), big depth of field, film grain, blur, 
+<lora:ARWDannyTrejo:0.4><lora:uv:0.68> <lora:LowRA:0.86>
+lora:FilmG2:0.65>
+<lora:NijiExpressV2:0.6> <lora:add_detail:0.8> 
+<lora:jimLeeDCComicsMarvel_offset:0.45> <lora:aToZovyaRPGArtists_v2Art:.425> , 
+):8]

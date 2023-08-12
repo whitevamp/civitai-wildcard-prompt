@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+bdsm, bondage, blindfold, shibari, ball gag, nipple clamps, long hair, messy hair, black hair, huge breasts, wide hips,  body writing, restrained, dungeon wall, dark room, dark atmosphere, sweat, pubic hair, 
+skin pores, detailed skin,
+(realistic:1.2), UHD, dramatic shadows, global illumination, high contrast,
+ <lora:krekkovStyleLora_v10:0.6> <lora:qqq-BDSM-v3-000010:0.8> <lora:conceptExcessivePubic_v10:0.5>

@@ -1,0 +1,1 @@
+negative space, shuimobysim, masterpiece, best quality:1.2), traditional chinese ink painting, peaceful, (smile), looking at viewer, wearing long hanfu ,( white hanfu :1.5), (white dragon:1.5), huge dragon head , A chinese dragon surrounded, (mature female:1.2), <lora:hanfu_v30:0.2> ,  <lora:Moxin_10:0>, (upper body:1.5),<lora:loong2-000015:0.7> ,loong , (cloudy sky:1.5)

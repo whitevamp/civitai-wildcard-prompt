@@ -1,0 +1,1 @@
+(masterpiece, best quality, extremely detailed: 1.3), nikon Z9, realistic, 85mm, RAW Photo, cowboy shot, beautiful woman, crystal-encrusted elegant dress, (magical, fantasy, winter:1.2), ornate, forest, (bokeh, shallow depth of field:1.2), dynamic angle, <lora:add_detail:1>,<lora:epiNoiseoffset_v2:0.75>,  <lora:Elixir:1>

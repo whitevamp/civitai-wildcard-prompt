@@ -1,0 +1,5 @@
+(best quality),((masterpiece)),(highres), (extremely detailed 8K wallpaper)precision shadows,close-up,(imid shot,macro shot:1.25),(Detailed face description),(Detailed hair description),(Detailed clothes description),(black background:1.2),[(black background:1.5)::5], 
+{Extremely Delicate Beautiful},(detailed eye description),((Delicate Faces)),(Beautiful and detailed facial depiction),colorful world,
+1girl, flower, long hair, solo, red eyes, butterfly, white hair, bug, bird, hair ornament, wide sleeves, skirt, socks, white socks, full body, tabi, very long hair, hair flower, holding, breasts, blue skirt, long sleeves, japanese clothes, bangs, black background, branch, tree, pink flower, red flower,night,backlight,
+(full body:1.5),(Slim body:1.1)(long legs:1.3),
+<lora:colorful world_20230606112956:0.6>

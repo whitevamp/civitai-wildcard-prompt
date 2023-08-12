@@ -1,0 +1,2 @@
+1girl, 20yo, 8k, RAW photo, best quality, masterpiece, realistic, photo-realistic, cowboy shot
+<lora:sd-No.177-000014:0.7>

@@ -1,0 +1,6 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(NSFW:1.3), (topless:1.3),
+skinny,professional lighting,(far view),instagram most viewed,official wallpaper, official art,
+1girl, ,((((wedding princess dress)))),(beautiful detailed clothing:1.5),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,(huge_breasts:1),narrow waist,(skinny legs),(cleavage:0.6),(bent over:1.0),
+happy, smile,
+dreamy forest scenery background, <lora:FilmVelvia2:0.8> <lora:EDB:1>

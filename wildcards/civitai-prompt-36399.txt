@@ -1,0 +1,2 @@
+BJ_Daemon,solo,looking_at_viewer,black_hair,1boy,closed_mouth,standing,male_focus,wings,horns,armor,bird,shoulder_armor,gem,black_wings,
+cinematic lighting,strong contrast,high level of detail,Best quality,masterpiece,White background,<lora:Daemon-000018:0.7>,

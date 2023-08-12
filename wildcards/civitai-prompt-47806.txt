@@ -1,0 +1,6 @@
+face highlight,  tear mole, white skin, silver hair, ponytail, braid hair,   cleavage, slim body, royal palace, luxury room, stained glass, professional lighting, photon mapping, radiosity, physically-based rendering,
+earrings, gauntlets, grey_background, jewelry, long_hair,  shoulder_armor, solo, standing, sword, thigh_strap, weapon,  8k wallpaper, {{{masterpiece}}}, detailed cloth texture, (((full body))), (cleavage), detailed cloth texture, ulzzang-6500-v1.1,
+Colorful hair,
+
+<lora:fashionGirl_v50:0.4> <lora:shojovibe_v11:0.1> <lora:stLouisLuxuriousWheels_v1:0.1> <lora:koreanDollLikeness_v15:0.5>
+<lora:hipoly3DModelLora_v10:0.5> <lora:breastinclassBetter_v13:0.4>

@@ -1,0 +1,1 @@
+<lora:goblin_v0.1a:1>, (goblin:1.5), hand

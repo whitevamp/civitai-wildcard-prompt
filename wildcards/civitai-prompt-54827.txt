@@ -1,0 +1,15 @@
+地点：(Night:1.7), Cyberpunk_CityView, Before Window,
+动作：sitting at attention,sitting on couch,covered_nipples, detached_sleeves,
+服饰：white outfit,white dress, bare_shoulders, (black_blindfold:1.4), jewelry, side-tie_panties,white_legwear,
+角色： <lora:SwordMaidenV1:0.7>,Sword Maiden,
+头发：blonde_long_hair,bangs,barefoot,
+角色鎖定：
+1 girl,Solo, Manga,20yo,mature female,Beautiful Finger,Beautiful long legs,Beautiful body,Beautiful Nose,Beautiful character design, perfect eyes, perfect face,
+眼神表情：
+looking at viewer, (innocent_big_eyes:1.0),ojousama,
+畫質:
+official art,extremely detailed CG unity 8k wallpaper, perfect lighting,Colorful, Bright_Front_face_Lighting,
+(masterpiece:1.0),(best_quality:1.0), ultra high res,4K,ultra-detailed,
+photography, 8K, HDR, highres, absurdres:1.2, Kodak portra 400, film grain, blurry background, bokeh:1.2, lens flare, (vibrant_color:1.2)
+身材:
+(Beautiful,large_Breasts:1.4), (beautiful_face:1.5),(narrow_waist),

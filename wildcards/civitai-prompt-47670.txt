@@ -1,0 +1,1 @@
+sagiri_izumi,1girl,pink bow ,upper body,bikini,shy <lora:sagiri_v1:0.7>

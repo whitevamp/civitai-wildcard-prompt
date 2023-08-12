@@ -1,0 +1,3 @@
+(Masterpiece), (8k), (realistic skin texture), (masterpiece, best quality, high quality, highres, ultra-detailed), cowboy shot, simple gray background, 
+1girl, red lipstick, dark makeup, ice blue eyes, platinium blonde hair, latex, standing, nun, highleg latex leotard, elbow gloves, latex gloves, 
+<lora:NunLatexLeotard:0.9>, Asian-Less,

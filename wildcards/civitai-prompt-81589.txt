@@ -1,0 +1,1 @@
+young man,muscular, tatto,(detailed eyes:1.1),fullbody,(underwear:1.2), white socks,realistic,mature, body hair,looking at viewer, <lora:add_detail:0.6>

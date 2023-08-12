@@ -1,0 +1,1 @@
+(black-blindfold:1.2),RAW photo,a portrait photo of Katie Read in casual clothes,natural skin,8k uhd,high quality,film grain,Fujifilm XT3,<lora:YKHB-000000:0.6>,

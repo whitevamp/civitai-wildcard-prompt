@@ -1,0 +1,3 @@
+Comic art, Flat-colors, <lora:tangbohu-detailer_1.0:1>, <lora:realistic:0.5>, <lora:sharpen-soften:-0.6>, vibrant colors,
+1 girl, adult  woman, freckles, brown eyes, ginger textured hair,
+ solo, half shot, detailed background, detailed face, (<lora:GothicPunkAI:0.5>, gothicpunkai, gothic theme:1.1), (glowing eyes:1.05), sinister smirk, dark warrior, vampiric, red clothes, spiked armor,  evil royal thorned crown, dynamic pose, floating particles, embers, monsters in background, dark tower in background, misty dark sinister atmosphere, black clouds,

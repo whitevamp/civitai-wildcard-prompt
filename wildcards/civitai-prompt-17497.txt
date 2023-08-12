@@ -1,0 +1,8 @@
+(8k,  masterpiece, best quality, ultra-detailed),
+1girl, solo, (cowboy shot:1.2),
+<lyco:dryad:0.7>
+kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face,
+dryad, green eyes, (green skin, plant girl), large breasts, 
+(lowleg) ,  
+(shy), (blush:0.5), looking at viewer, 
+tree, forest,

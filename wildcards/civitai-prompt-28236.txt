@@ -1,0 +1,1 @@
+<lora:ClothingAdjuster3:-1.00>,cute 1girl, sharp focus, short white hair, orange background, simple background, looking at viewer, (blue eyes, police uniform:0.8), sexy, navel, (slightly shy smile, choker, smooth and delicate skin, cinematic lighting:0.7), <lora:leolux:0.2>

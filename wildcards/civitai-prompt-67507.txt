@@ -1,0 +1,13 @@
+(masterpiece, 4k ,ultra detailed:1.2),illustration,(photorealistic:1),
+(shadow,backlighting:1.2),
+(simple background:1.4),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:1.5>,
+ADDBASE
+(indoor,science_fiction,base,lab:1.2) ,(black background:1.2), (1girl standing next to window:1.2),(lab coat:1),
+(supermodel:1.4),(full_body),(from behind:1),
+<lora:japanesedolllikenessV1_v15:0.4>,
+<lora:epiNoiseoffset_v2:1>
+ADDCOL 
+(undersea:1.2),(no_humans:1),(glass wall,oversized window:1.2),(blue background:1.2),
+<lora:depths-fC_v1.1:0.8>

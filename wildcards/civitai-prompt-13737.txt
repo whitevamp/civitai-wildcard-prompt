@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), 3D character, 1 girl, chibi, Umaru chan, orange clothes, (full body:1.2), transparent background, <lora:3dcharacter:0.8:MIDD> BREAK  <lora:UmaruDoma:0.6:MIDD>

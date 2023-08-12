@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl,<lora:handpull-12:0.85>,handpull,pulled by self,clothes pull,shirt pull,one breast out,no bra,armpits,arm up,from side,upper body,sleeveless shirt,sideboob,looking at viewer, <lora:lucoaKobayashiSan_v10:0.65>, lucoa, park, outside, smiling

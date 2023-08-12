@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),(8k,highres,RAW photo,realistic,photo-realistic:1.3),(detailed skin texture,detailed cloth texture,beautiful detailed face:1.25),professional lighting,photon mapping,beautiful soft light,radiosity,physically-based rendering,<lora:add_detail:0.6>,1girl,(full body,medium nipples:1.2),

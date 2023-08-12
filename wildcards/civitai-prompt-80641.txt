@@ -1,0 +1,1 @@
+<lora:latinaDollLikeness:0.4>, black hair, slim, slender, looking at viewer, thick thighs, large breasts,(masterpiece), (best quality:1.2), absurdres, intricate details, gris swimsuit, (highly detailed skin:1.2), standing, onsen, night, mist,  woods, <lora:grisSwimsuit_v10:1>,

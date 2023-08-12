@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra high res,
+1girl,solo, white shimmer hair, white eyebrow, glowing hair, (iridescent white hair), earrings, bangs, jewellery,(white mask),
+looking at viewer,upper body,(portrait:0.78),
+<lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

@@ -1,0 +1,7 @@
+([jennifer lawrence:Michelle Monaghan:0.77]:0.8),
+woman, solo, fashion, shiny transparent jacket, latex crop-top, blue eyes, smile,
+long hair, blonde hair, medium shot, (stanleylau style:0.9), (cherrmous style:0.9)
+magazine cover, cover art, illustration, studio shot,
+high contrast, triadic colors, complementary colors, symmetric, centered, circles, lines,
+choker, earrings, eyelashes, eyeshadow, lips, lipstick, jewelry, makeup, nose, parted lips,standing, navel, (lush:0.8),(otherworldly:0.7),(sharp:0.6),
+english text,

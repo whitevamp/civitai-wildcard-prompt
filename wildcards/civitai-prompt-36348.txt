@@ -1,0 +1,10 @@
+<lora:epi_noiseoffset2:0.2>,<lora:LowRA:0.2>,masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,(realistic:1.4, ),
+<lora:flaccidfutanarimix-locon-dim64-alpha64-highLR-000003:0.6>,futanarimix,futanari,large penis,
+<lora:tgirl_v3b:0.4>,penis,large penis,
+(nude, completely nude, short hair,black hair,  ),
+<lora:transparent raincoat2-000008:0.8>,(transparent raincoat,hood down,),
+rain,water drop,wet,sweat,sweatdrop,sweater,
+<lora:Black_8D_glossy_stockings:0.4>,thighhighs,black thighhighs,Black 8D glossy stockings,
+<lora:slg_v22:1> ,slg, forest, grass, path,
+<lora:[NSFW]NaturalLargeBreasts:0.2>,( natural breasts, huge breasts,gigantic breasts, )
+<lora:hipoly_3dcg_v7-epoch:0.2>

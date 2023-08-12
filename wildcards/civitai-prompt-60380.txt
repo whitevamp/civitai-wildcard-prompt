@@ -1,0 +1,1 @@
+photorealistic,(best quaility:1.2), ChainsawMan, red hair, bob cut, yellow eyes, white polo, tie, open mouth, nipples, saliva, on the bedroom, (from below:1.2), <lora:POVArmSupportAndFromBelow_v10:1>,  <lora:makimaChainsawMan_offset:1>

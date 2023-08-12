@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,  <lora:avatarToph_v10:0.8> tunic, green shirt, sash, capri pants, pelvic curtain,

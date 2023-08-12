@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed), <lora:add_detail:1>, (daphneblake), <lora:daphne_blake:0.8> (redhair, purple headband)

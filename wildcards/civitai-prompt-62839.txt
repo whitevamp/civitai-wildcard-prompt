@@ -1,0 +1,2 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, Cute_Camisole_Top, White04, (huge breasts)
+ <lora:Camisole_Top-10:0.8> <lora:koreanDollLikeness:0.8>

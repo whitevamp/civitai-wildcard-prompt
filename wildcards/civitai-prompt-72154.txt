@@ -1,0 +1,3 @@
+Raw photo, Best quality, ultra high res, 8k, photography, masterpiece,best quality, ultra detailed, masterpiece, highres, 8k, realistic, photograph, front light, ambient light, accent Lighting, Light shines on the face,
+blurry background, clean background, depth of field,
+1girl, in a white dress standing in a room with a white wall and a white door behind her, Chen Lin, soft light, a marble sculpture, neoclassicism,beautiful lady, detailed face, beautiful detailed eyes and face, perfect body, Five fingers, sexy, long hair, Authentic skin texture,perfect body proportions <lora:Lora_v20:0.6:OUTALL>, (Hazy picture quality:1.5)

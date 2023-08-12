@@ -1,0 +1,1 @@
+<lora:lowra_v10:0.4> Close-up portrait photo of ([Adriana Lima | Margot Robbie | Miranda Kerr | Emma Watson]:0.8), ponytail hair, (yellow:0.7) summer dress, natural skin texture, modelshoot style, city <lora:add_detail:0.5>, cinematic, intricate details, ([green glowing eyes:5]:1.25), detailed irises,  hyperrealism, soft light, sharp

@@ -1,0 +1,3 @@
+1girl,solo, smile, white ballerina,dancing ,
+street,city,(arms behind back), looking at viewer, realistic,      
+   <lora:EvanRachelWood23Apr:0.6>     realistic, reaching

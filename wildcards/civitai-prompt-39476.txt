@@ -1,0 +1,1 @@
+masterpiece, best quality, (photorealistic:1.4), 1girl, full body shot, front, a photo of a beautiful girl, sexy pose, ginger hair, french twist hair, day, perfect breast, (inside hospital, hospital bed in the back:1.2), smiling, red lips, <lora:add_detail:0.8>, white skirt, white beltbra, (underboob:1.1), <lora:beltbra_v0.1:1>

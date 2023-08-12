@@ -1,0 +1,1 @@
+masterpiece, best quality, (realistic:1.3), (perfect face), intricate, beautiful scenery, casual, 1woman, light smile, <lora:LowRA:0:7>, cinematic lighting, caustics,

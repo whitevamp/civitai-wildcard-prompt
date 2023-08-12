@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best qualit:1.4), (high resolution:1.4),1girl, kiki, black robe, (red hair bow:1), messenger bag, looking at viewer, smile,   <lora:kiki_v1:0.5>, black_cat, red shoes

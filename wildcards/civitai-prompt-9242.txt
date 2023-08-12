@@ -1,0 +1,1 @@
+energy flies out of the body, colorful background, style of Sam Guay <lora:add_detail:1> <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.5>  <lyco:GPTS4 dreamwave full_478773:1> <lora:NebulaDream_v1:1>

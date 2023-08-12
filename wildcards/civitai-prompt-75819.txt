@@ -1,0 +1,1 @@
+a girl,Witch,In the cabin,Small wooden table,sitting on a wooden chair,Reading,potted plant,Magic Hat,Magic Wand,forest,<lora:pixel_f2:0.5>,

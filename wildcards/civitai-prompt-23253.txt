@@ -1,0 +1,3 @@
+masterpiece,best quality,ultra detailed,detailed eyes,
+(2boys:1.3),yaoi,black suit,perfect handsome face,(short hair:1.3),broad shoulders,narrow waist,simple background,romantic,
+dramatic angle,dynamic pose,<lora:_Detail Tweaker:0.8>,Pencil Sketch,<lora:PencilMan:0.5>,

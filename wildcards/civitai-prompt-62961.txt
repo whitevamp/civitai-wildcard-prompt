@@ -1,0 +1,1 @@
+<lora:MarblingAI:1>, MarblingAI porcelain set

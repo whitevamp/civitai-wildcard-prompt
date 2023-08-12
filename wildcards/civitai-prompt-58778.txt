@@ -1,0 +1,1 @@
+absurdres, highres, best quality, <lora:MEMENoosePortal_v1:1>  noose portal,  177013, 1girl, twin braids, glasses, upper body, looking at viewer, classroom, smile, elf, <lora:princessPeachMario_v10:0.7>

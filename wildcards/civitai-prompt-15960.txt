@@ -1,0 +1,1 @@
+(spyder net:1.2),red carpet,celebrity,black see-through bodysuit,wind, elegant, beautiful natural soft rim light,, piercing, intricate details, , hyper realistic, ultra detailed, volumetric lighting, 8k post-production, , backlighting<lora:Black_See-through_Bodysuit:.7>,glove,gem,necklace,2d,android,swimsuit,silber,gold,egyptian art, handbag, <lora:epiNoiseoffset_v2:1>,

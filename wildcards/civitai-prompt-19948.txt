@@ -1,0 +1,1 @@
+masterpiece, best quality, michiru kagemori (brand new animal),<lora:michiruKagemoriBrand_michirukagemoribna2:0.8>, collectable,  <lora:Animorphs4-40:1>

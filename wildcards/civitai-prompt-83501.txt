@@ -1,0 +1,4 @@
+1girl, woman, solo, very short dark hair, pixie cut, tan, busty, (large breasts:1.3), (busty:1.3), messy hair, freckles, looking at camera, BREAK
+plastic bag,swimsuit,see-through BREAK
+half shot, posing at the beach, bright sunlight, absurdres, best quality, Veiling Glare, glaring, bokeh
+<lora:plastic bag:.8> <lora:Veiling_Glare-pynoise:.7> <lora:LowRA:0>

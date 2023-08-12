@@ -1,0 +1,5 @@
+lifelike rendering, immersive atmosphere,impeccably detailed, visually stunning, creative zenith, exceptional standard, subdued contrasts, soft illumination,
+transfixing looks,emotive depth, artistic emotionality, compelling glances, subtle facial expressions,
+bank,nightshirt,light brown,folded ponytail,Neck,indoor,solo,sfw,
+(lifelike rendering, immersive atmosphere, moody lighting,glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura:0.9)
+<lora:lowra_v10:0.5> <lora:oc_v10:0.23>

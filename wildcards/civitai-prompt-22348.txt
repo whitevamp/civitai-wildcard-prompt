@@ -1,0 +1,4 @@
+professional photo of BattlegirlOras,1girl, blue hair, solo, breasts, looking at viewer, smile, bangs, gloves, navel, :d, midriff, fingerless gloves, BREAK orange crop top, bike shorts, grey eyes, eyelashes, outstretched arm, single glove, cameltoe,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:BattlegirlOras:0.68:MIDD>

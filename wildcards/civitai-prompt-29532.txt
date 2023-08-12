@@ -1,0 +1,1 @@
+<lora:papercut02:1>, 1girl,  <lora:animetarotV51:1>, (masterpiece, best quality, high quality, highres, ultra-detailed),

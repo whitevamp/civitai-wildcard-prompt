@@ -1,0 +1,1 @@
+portrait, oldman, by Lee Jeffries, details <lora:LowRA:0.5>

@@ -1,0 +1,3 @@
+(photorealistic:1.3), (hyperrealistic:1.2), beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, dark, dungeon, castle, night,
+(1boy, 1girl, glowing tentacles, magenta tentacles, corneo_tentacle_sex, tentacle pit, tentacle wrapped around neck, looking at viewer, orgasm face, pleasure, [drooling])
+<lora:princessZeldaLora_v1:0.5>, (((princess zelda))), ((torn white dress:1.8, cameltoe)), blonde hair, crown braid, green eyes, (blushing)

@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+<lora:postapocalypseai_v10:0.9>, postapoAI, norwich terrier,  fantasy creature,

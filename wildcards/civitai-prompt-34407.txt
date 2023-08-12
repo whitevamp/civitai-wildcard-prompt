@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.7>
+Henshin, solo, looking_at_viewer, black_hair, red_eyes, gloves, long_sleeves, 1boy, jewelry, upper_body, male_focus, horns, black_gloves, signature, hood, mask, glowing, chain, ring, hood_up, skull, robe, one_eye_covered, gold, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

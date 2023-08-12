@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), perfect face, beautiful face, beautiful eyes,1girl, kitanamk, long hair, headband, completely nude, breasts, big ass, mouth mask, from behind, top of the building,<lora:kitanamk-07:0.8> <lora:epi_noiseoffset2:0.6> <lora:add_detail:0.2>

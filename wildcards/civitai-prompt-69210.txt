@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl,       <lora:ollie_ninja_v1:0.8> kureiji ollie, (colored skin, grey skin, patchwork skin, zombie:1.2)  red hair,
+ <lora:phat smash:0.8>from behind, ass, <lora:zombie_v1.3:0.8> zombie, crowd of zombies,

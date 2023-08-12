@@ -1,0 +1,4 @@
+best_quality, highres, extremely_detailed, solo
+1girl, beautiful_face, 
+reverse_bunnysuit, thighhighs, spread_legs, female_masturbation, 
+ <lora:VeryLongLegs_v2:0.6>, (very_long_legs:1.1),

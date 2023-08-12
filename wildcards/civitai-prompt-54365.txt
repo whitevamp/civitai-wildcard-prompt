@@ -1,0 +1,3 @@
+noir photography upper body shot of a (sad:0.2) young woman, grey in a lush silver cave complex with flowers and birds, 3d render, cgi, symmetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.2), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.3), detailed iris,
+<lora:epiNoiseoffset_v2:1>
+<lora:zovyasWetHair_v1:0.4> wet hair

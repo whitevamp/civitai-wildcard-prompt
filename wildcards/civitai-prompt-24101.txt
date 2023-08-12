@@ -1,0 +1,4 @@
+skyscraper, (zenithal angle), sunset,
+((by Iwan Baan)),
+<lora:XSArchi_127:0.75>
+<lora:Concept_scenery_background:0.3>

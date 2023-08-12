@@ -1,0 +1,1 @@
+R3DD34Dstyle, digital portrait, leninvi, in moscow on red square, red background  <lora:leninvi:0.7> <lora:R3DD34Dstyle:0.7>

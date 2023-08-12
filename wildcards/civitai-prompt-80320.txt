@@ -1,0 +1,1 @@
+<lora:gadget_hackwrench_v10:0.75>, gadget_hackwrench, gh_clothes, gh_goggles, cowboy shot, smile, (high quality:1.2), masterpiece, detailed, highres, 4k, sharp focus, simple style, cartoon, [[anime]]

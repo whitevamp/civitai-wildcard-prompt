@@ -1,0 +1,5 @@
+<lora:add_detail:0.5><lora:wheatskin:1><lora:katapan3:1><lora:public_v3.0-locon:1>
+young woman, (panties around one leg:1.3), large breast, evil grin, black hair, pantyhose,  short sleeves,  outfit, long skirt, skirt flip,
+PUBLIC,PHOTOGRAPHERS,
+full body, facing viewer,  from behind, from below, solo focus, 
+dynamic angle,depth of field,

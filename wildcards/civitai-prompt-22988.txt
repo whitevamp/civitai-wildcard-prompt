@@ -1,0 +1,5 @@
+(masterpiece:1.3),best quality,balcony,night,blurry background,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,elf,white hair,short hair,braid,green eyes,blush,smile,shirt,large breasts,nipples,navel,sweatpants,panties,(pants pull:1.2),pussy,clothes pull,(nice hands:1.2),(perfect hands:1.2),
+BREAK,
+<lora:SelfBreastGrab:0.9>,breasts grab,

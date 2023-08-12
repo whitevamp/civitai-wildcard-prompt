@@ -1,0 +1,3 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (a high detail RAW color professional full body photo), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Build an amazing, best quality masterpiece, (  wearing  Cardigan chinos ), Lady, Short, Firm, Square Face, Fair Skin, Strawberry Blonde Hair, Hazel Eyes, Wide Nose, Pouty Lips, Round Chin, Long Hair, Wavy Hair, Low Updo, natural breasts, Faux gauge earrings, burgundy cream lipstick, Engraving, ornamental, Reflection, Refraction,
+ <lora:sxz-style-niji:0.4>, nijistyle, <lora:deluster2_v10:-0.5>

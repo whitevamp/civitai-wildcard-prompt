@@ -1,0 +1,23 @@
+A photo of [actress | actress | actress], (centered), sexy woman dancing in a nightclub, NSFW, (full body:1.3), (dancing: 1.3), standing, arms_up, 
+
+(COLORFUL BRIGHT NEON GLOWING ACCENTS)( HAIR TIED UP IN A BUN)detail hair, 
+
+smiling face, highly detailed face, ((looking at viewer)),
+
+(sharp define facial features:1.2) (realistic defined detailed sharp focused face:1.2),
+
+high neck choker,
+
+(medium breasts), (detailed defined nipples:1.2), narrow waist, navel, 
+
+(highly detailed shiny micro bikini: 1.3), metallic skintight bra(skin pores, skin imperfections), (sparkling shinny glitter all over her glistening body), (detailed skin:1.5), (freckles on chest:0.7), (sharp body, detailed body),
+
+(pale_blue_hazel_eyes:1.2),
+
+((Deep depth of field), f/24:1.5), Masterpiece, 8k, UHD,
+
+(sharp focus:1.5) wide angle, (centered),(masterpiece), RAW photo still, best quality, official photo, beautiful detailed woman,
+
+lights, shadows, reflecting glistening neon lights, glimmering light,two tone lighting, NIKON F5, film grain, low key, dramatic lighting, rim lighting, dimly lit,
+
+<lora:hongkongdolllikeness_v15:0.3>, asian,

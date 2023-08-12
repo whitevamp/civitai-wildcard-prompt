@@ -1,0 +1,3 @@
+masterpiece,best quality,8k,highres,pale skin,
+1girl,femlaw, solo, looking at viewer,cleavage,(tattoo),<lora:Trafalgar_lawV3:0.9> ,<lora:add_detail:0.5> 
+<lora:envybetterhandsLocon_beta2:1>,coat on shoulders,jeans,fur trim, <lora:cc-000010:0.7:face1> crowd,cosplay,comic con

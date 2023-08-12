@@ -1,0 +1,1 @@
+<lora:minimal_vector_style:0.8>, 1girl, looking at viewer, solo,   <lora:lanjieying:1>, (masterpiece, best quality, high quality, highres, ultra-detailed),

@@ -1,0 +1,17 @@
+Appearance: 1girl, ((detailed face and eyes)), (sharp eyes, realistic face), (22 years old), cute face, pretty face, white girl, american girl, ((blonde hair))
+BREAK
+Aesthetic: ((funk art, funky, groovy, pop culture, humor, unconventional materials))
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k, realistic face
+BREAK
+Composition: <lora:POVMissionary:0.8>, (looking at camera), (getting fucked), (vaginal intercourse, MISSIONARYPOSE, 1BOY, PENIS, LYING, MISSIONARY, VAGINAL, creamy pussy)
+BREAK
+<lora:ahegaoep2fan2:0.5> (naughty face, rolling_eyes, cross-eyed, ahegao, open mouth, tongue out, screaming, worried look on face)
+BREAK
+(good quality:0.995),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.45>
+<lora:to8contrast-1-5:0.6>

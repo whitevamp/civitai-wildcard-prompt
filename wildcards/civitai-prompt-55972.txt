@@ -1,0 +1,7 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), (nsfw),
+<lora:Cnbeauty7_v10:0.2>,<lora:englishdolllikeness_v10:0.2>,
+1girl, standing and playing golf, 1boy, father, old father,(golf course, golf club, sun ray),
+oversize white T-shirt, shirt lift, (gray Sweatpants:1.05), fullbody:0.8, smile:0.6, looking up, 
+(Supermodel figure, adolescent ), makeup, perfect face, (beautiful face),(godness), (sexy pose), (beautiful natural breasts),(white_skin),  (shiny skin:1.1), wide hips,(sexy lips),  lifelike,
+(realistic, photorealistic:1.2),(fullbody shot), High ponytail,long hair, 
+Golf course background, light on the face, realistic light reflection, Ambient lighting, depth of field,

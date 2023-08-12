@@ -1,0 +1,1 @@
+<lora:reelmech1v2:0.8> (reelmech:1.5),(nsfw:1.05),(masterpiece:1.2, best quality),  (looking at view), [opening mouth], from below, (full body:0.7),(dynamic view:1.2), (deep shadow:1.2), (very crowd background:1.3), <lora:add_detail:0.4>

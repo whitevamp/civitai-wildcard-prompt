@@ -1,0 +1,1 @@
+<lora:epi_noiseoffset2:0.4> <lora:hairstyle-long_ponytail:1> <lora:PostureCollar:0.8> (digital seductress:1.2), (cowboy shot:1.4), long_ponytail_hairstyle, blue hair, holographic environment, (futuristic architecture:1.2), surreal visuals, cyberpunk world, (glowing data streams:1.4), avant-garde fashion, flowing clothes

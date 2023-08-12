@@ -1,0 +1,2 @@
+((best quality, masterpiece)),style-swirlmagic , 
+1girl, power pose,  metal and pink  and necromancer leotard spikes armor, white messy hair, sword,  outdoor, night, moonlight, clouds on background, ((full moon ):1.1), medieval, castle on background, <lora:more_details:0.5>  <lora:3DMM_V11:1>

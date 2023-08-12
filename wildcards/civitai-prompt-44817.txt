@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.2), extremely detailed, ambient soft lighting, 4K,
+1girl, solo, standing, full body, upper body, from below,
+white hair, long hair,
+blue eyes, looking at viewer,
+blue hoodie, shark print, long sleeves,
+highleg panties, white panties, lifted by slef,
+outdoors, sea, ocean, water, partially submerged,
+<lora:highleg panties:1> <lora:gawr_gura:1>

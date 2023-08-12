@@ -1,0 +1,5 @@
+Nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,1girl,solo,
+(sitting, (leg raise), spread legs),  
+white frilled shirt, beige_suspender skirt / black_pantyhose,  sexy, erotic,seductive, mature female, short hair, (huge breasts:1.3, thick thighs:1.2, narrow :1.1), skindentation, tall ,narrow waist, wide hips,eyeliner, eyelashes, perfect face, detailed eyes, facial lighting, audience, crowd, looking at viewer,(masterpiece, high quality:1.2), 
+bedroom, bed, cameras, recording cameras,
+ <lora:saerombyhighwizardv1:1>

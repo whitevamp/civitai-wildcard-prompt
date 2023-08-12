@@ -1,0 +1,1 @@
+prairie dog, sunglasses, katana, cigarette,  <lora:add_detail:1>

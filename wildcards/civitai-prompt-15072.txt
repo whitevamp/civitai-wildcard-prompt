@@ -1,0 +1,2 @@
+a cute little girl, pink lips, wearing a school uniform, in the style of the soft aurorapunk color palette, an anime illustration of her face, animated gifs, hand-drawn animation, charming sketches, smooth and bright, hazy romanticism, superplane style, white background--air 1:1--niji 5--expressive style --s 50
+<add:lora:eyeDetails:1.3><add:lora:eyes_Detailed:0.4><add:lora:more_detail:1.1><add:lora:add_detail:0.3><add:Godhands-vanilla:0.4>

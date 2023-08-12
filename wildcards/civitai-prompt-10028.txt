@@ -1,0 +1,2 @@
+<lora:kanghyewon-v1:1>, 
+(masterpiece),best quality,ultra high res,(fantasy:1.4),pureerosface_v1,1 girl,full body,The Mermaid of China,(fish scale skin:1.5),(fish tail:1.1),mermaid, (underwater),Swimming,Beneath the sea,Dark Fairy Tales,floating hair, dark,Light on the face,reefs under the sea,(Depth of field:1.4),((orange Transparent jellyfish)),(In the background there is a palace under the sea:1.1), <lyco:GPTS5 Heavy_387306:0.5>,GPTS5,<lora:cnbeauty5_v1:0.7>,multicolored background,<lora:add_detail:1>,

@@ -1,0 +1,6 @@
+masterpiece, best quality, standing,castle,roof,((outstretched arms,selfie,portrait:1.5,close-up:1.3,face close-up,facing front)),
+(ejaculation,projectile_cum:1.6,cum on tongue,long tongue,tongue out,cum on hands,open mouth),
+((disgust)),half-closed eyes,
+<lora:morrigan:0.8>,1girl, solo, morrigan aensland, long hair, pantyhose, print legwear, bat print, animal print, head wings, medium breasts, wings,breasts, demon girl, bare shoulders,
+bat wings, green hair, leotard, green eyes,  high heels, bridal gauntlets, boots, full moon, red moon,gloves, elbow gloves, bat (animal),
+aqua hair, looking at viewer, purple wings,

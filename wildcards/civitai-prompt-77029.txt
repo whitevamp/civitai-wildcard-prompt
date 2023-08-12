@@ -1,0 +1,4 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile, 
+ miniskirt, yellow cardigan, long sleeves, sailor collar, red neckerchief, black kneehighs,
+ <lora:himiko-toga-locon:1>TogaHimiko,  blood splash, micro mini skirt, gold hair,alphonse mucha,
+blood splatter,graffiti art, <lora:add_detail:0.5>, red BACKground,  calligraphy characters, symmetrical composition,  long shadow, cloody moon, red aura, red lightning ,   <lora:animetarotV51:1> BREAKING, <lora:Tarotv0.2:1>,the devil, demon, goat head, wings

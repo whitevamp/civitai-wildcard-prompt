@@ -1,0 +1,3 @@
+drow,1 woman,   bob cut, coat, silver hair,  red background
+, art by Sui Ishida
+((masterpiece, best quality)),  <lora:drow_offset:1>

@@ -1,0 +1,2 @@
+masterpiece, best quality, detailed, soft dim lighting, <lora:add_detail:1.0> add_detail, realistic,
+<lora:heartboob:0.9> (heartboob:1.2), solo, (heart-shaped belly, pregnant, grabbing belly:1.3),

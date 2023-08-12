@@ -1,0 +1,4 @@
+Highly detailed, High Quality, Masterpiece, beautiful, 
+BREAK outside, tree,
+BREAK TailsTheFox, <lora:CursedTails:1>, no humans, animal, animal focus, 
+BREAK Sanic, <lora:Char_Sonic_Sonic:0.8>

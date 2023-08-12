@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl
+ <lora:squeezerExperimental_:0.8> <lora:ouroKroniiHololive_v10:0.8> ouro kronii,       blue_hair, hair intakes, colored inner hair, long_hair, small breasts,two-tone_hair, blunt bangs, skirt, shirt, thighhighs, gloves, long sleeves, bow, cleavage, bare shoulders, jewelry, white shirt, earrings, detached sleeves, sleeveless, black gloves, striped, puffy sleeves, black thighhighs, miniskirt, black skirt, bowtie, clothing cutout, sleeveless shirt, chain, blue bow, cleavage cutout, vertical stripes, zipper, asymmetrical legwear, striped skirt, head chain, bow earrings

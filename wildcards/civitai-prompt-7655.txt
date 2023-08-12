@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:JinxTT-000008:0.7> JinxTT, (leaning forward), finger on lip, hand on thigh, looking at viewer, grinning, biting lip
+choker, purple capelet, black dress, striped thighhighs, zettai ryoiki
+BREAK
+street, gorgeous view

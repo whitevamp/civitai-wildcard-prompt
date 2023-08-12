@@ -1,0 +1,6 @@
+1girl, solo, full body,wariza, rem \(re:zero\),outfit-Implacablenun,  breasts, covering one eye, (short blue hair), blush, bare shoulders, large breasts, navel, thighs,
+from front,
+lifelike,(nsfw),
+Evocative Mood, Striking Visuals, Atmospheric Contrast,
+masterpiece,best quality, beautiful and aesthetic,
+ <lora:outfit-Implacable-pynoise:1>

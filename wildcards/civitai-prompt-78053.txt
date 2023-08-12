@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 
+1girl,  <lora:dragon_sorceress_zyra:0.8> dragon sorceress zyra,  
+ <lora:aqua_crying_meme:0.6>closed mouth, tears, wavy mouth, tearing up, pout, :i, meme, parody, frown, v-shaped eyebrows, crying, sad, crying with eyes open, puffy cheeks

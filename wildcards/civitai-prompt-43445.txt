@@ -1,0 +1,1 @@
+young woman standing behind mcdonalds counter, <lora:improve_backgrounds:0.85>, wearing mcdonalds uniform, low-rise black slacks, red mcdonalds cap, naked suspenders, (red suspenders:1.2), topless, <lora:attire_nakedsuspenders:1>

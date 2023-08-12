@@ -1,0 +1,1 @@
+(masterpiece, best quality, intricate details, ultra details, ultra quality, highres, best shadow, best illumination, 4k)<lora:Roa:0.7><lora:Eyes:0.6><lora:add_detail_doppelpunkt_1_0:0.25>, Roa, (school swimsuit:1.5), lion ears, brown eyes, short hair, fang, looking at viewer, smile, (small breasts:1.5, flat chested), front view:1, beach background, (colorful:1.1),

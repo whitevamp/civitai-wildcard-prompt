@@ -1,0 +1,9 @@
+<lora:open_negligee_v1:1>, black negligee, black panties, thong, navel, collarbone, masterpiece, 
+BREAK
+,
+best quality, highres, BREAK
+,guilt,ancient in romanesque architecture streets midnight, , red theme, , deep focus shot, back viewing,, thighs,BREAK,
+,
+ <lora:Kizuki - Haganai Kashiwazaki Sena:1>,kashiwazaki sena, butterfly_hair_ornament, blonde_hair, long hair, school uniform, large breasts, aqua eyes, 
+BREAK
+,

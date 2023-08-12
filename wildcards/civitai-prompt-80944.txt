@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, (bridal_hairstyle:1.2),woman posing for a photo, wearing wedding dress, 
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((inside church))),    <lora:bridal_hairstyle-10:0.5>,

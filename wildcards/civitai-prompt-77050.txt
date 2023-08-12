@@ -1,0 +1,13 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, lying, on back, bed, pillow, light, from above, close up pussy,
+long blue hair, purple eyes, empty eyes, full blush,
+large breasts, long puffy nipples, small areolae,
+anus, pussy, vaginal, bukkake, cumdrip, after sex, cum pool, cum in pussy, cum in anus,
+hands up, clenched hands, spread legs, plump thighs, sweat, steam, steaming body, heavy breathing,
+<lora:AfterSexMS:0.3>,
+nipples, <lora:masusu_v10:0.25>,
+headback, <lora:headback_v10:0.25>,
+godpussy1, <lora:GodPussy1_v3:0.25>,
+hypnoLora, <lora:ConceptBlankEyesHypnosis_v10:0.25>,
+ganyudef, <lora:ganyu2ep10_0.85dim32:1>

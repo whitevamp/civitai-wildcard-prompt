@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), looking at viewer,
+thomasin mckenzie, 1girl,
+Johannes Vermeer, a painting of a girl with a pearl earring wearing a blue and gold earring and a pearl earring, Eugeen Van Mieghem, painting, a painting, academic art,
+ <lora:add_detail:1>,

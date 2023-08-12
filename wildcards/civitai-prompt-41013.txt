@@ -1,0 +1,1 @@
+<lora:amber (genshin impact) flexible:0.8>, amber (genshin impact), brown eyes, brown hair, long hair, red hair ribbon, large breast, sexy, portrait, upper body, red_background, simple background,  chest, <lora:breastinClass:0.3>

@@ -1,0 +1,1 @@
+mountains, winter, girl, coat, hat with pompom, (best quality:1.1), (masterpiece:1.2), high quality shadow, beautiful detailed,(wide_landscape,8k), highres, best shadow, best illumination,  <lora:add_detail:0.4>

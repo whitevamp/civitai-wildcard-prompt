@@ -1,0 +1,3 @@
+masterpiece,best quality,realistic,ntricate detailed,absurd,perspective,
+<lora:sailormoon_sailorsaturn-10:1>,sailor saturn,sailor senshi uniform, pleated skirt, elbow gloves, jewelry, brooch, choker,white panties,(skirt lift), <lora:AV_Kumakura:0.5>
+night ,amusement park, <lora:add_detail:1.5>

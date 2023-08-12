@@ -1,0 +1,1 @@
+(masterpiece),(best quality),(ultra-detailed), ((badge)), pony, <lora:badge_v10:0.8> ,<lora:blindbox_V1Mix:0.6>

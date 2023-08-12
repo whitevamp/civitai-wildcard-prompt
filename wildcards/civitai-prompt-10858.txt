@@ -1,0 +1,3 @@
+masterpiece, best quality, <lora:ach02-000010:1>,chibi, 1girl, tree, solo, outdoors,
+wearing VR glasses vision pro <lora:vision_pro_v2:0.55>,
+hmmarnie, aqua eyes, black choker, red ribbon, pink dress, jewelry, black jacket, open clothes, long sleeves, <lora:marnie_v1:0.55>,

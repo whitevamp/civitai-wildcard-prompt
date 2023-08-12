@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl, <lora:snuffySmilfy_v10:0.8> snuffy,  
+
+<lora:ConceptDeliveryInBox_deliveryv106:0.8> in_box,  <lora:tapeGag_v10:1> tape gag,   <lora:ConceptCostumeMummyBondage_v2:0.8> mummification \(bound\), bandages, arms behind back,

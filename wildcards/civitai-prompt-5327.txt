@@ -1,0 +1,3 @@
+girl talking to (old:0.6) leon , streets of new york, sharp focus, choker, short black hair, round sunglasses, black woolen cap. 1920 Mafia
+<lora:matilda_lora:0.55> 
+<lora:Leon:0.6>

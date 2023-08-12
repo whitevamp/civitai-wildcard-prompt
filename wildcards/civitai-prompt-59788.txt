@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), tinker bell,  <lora:TinkerBell_v1:1>, hoodie, sitting on a couch, (fairy wings:1.1), looking at viewer, smile

@@ -1,0 +1,1 @@
+masterpiece, a (cow head) cow in muscular body holding oranges,orange  splash,dynamic pose,royal costume, <lora:add_detail:1>

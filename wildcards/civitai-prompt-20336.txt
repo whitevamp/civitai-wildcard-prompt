@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:nami-10:0.8> nami, long hair, tattoo, orange hair, 
+ <lora:OffShoulderBikiniLORA:0.8> off-shoulder bikini, off-shoulder bikini, blue bikini,

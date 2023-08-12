@@ -1,0 +1,1 @@
+2girls,apron,naked apron,heart print,ass,best quality,highly detailed,highres,8k,realistic,focus,depth of field<lora:apron:0.45> <lora:EnglishDollLikeness:0.15> <lora:RussianDoll:0.1>

@@ -1,0 +1,1 @@
+1girl, solo, , best quality, absurdres, <lora:add_detail:1> <lora:envybetterhandsLocon_beta2:1>  <lora:MitsukiMHA:0.7> MitsukiMHA, indoors, arms up,

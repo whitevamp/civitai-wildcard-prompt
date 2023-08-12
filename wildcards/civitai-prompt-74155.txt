@@ -1,0 +1,3 @@
+<lora:KaguyaV2:0.75>
+((best quality)), ((masterpiece)), (detailed), ultra detailed,
+no_humans, food_focus, food, rice, shrimp, yellow_background, fish, bento, still_life, tempura, omelet, sushi, vegetable, meat

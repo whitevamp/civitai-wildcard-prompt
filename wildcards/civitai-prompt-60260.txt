@@ -1,0 +1,5 @@
+Masterpiece, incredible details, epic realistic, ultra clarity , (intricate details:1.12), (HDR:1.4), octane render, 3d render, cgi,dramatic,  bokeh,
+(dark shot:1.22), soft cinematic light,
+Fast-flowing waterfalls, mountains, rivers, fireflies, flowers, glowing butterflies, crystals,
+1girl, long hair, floating hair, belt, glove, hand guard, wizard hat, intricate wizard robe,(natural skin texture, hyperrealism, soft light, sharp:1.2)
+<lora:epiNoiseoffset_v2:0.3> ,

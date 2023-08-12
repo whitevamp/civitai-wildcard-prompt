@@ -1,0 +1,6 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.4), masterpiece, extremely delicate and beautiful, Amazing, finely detailed,extremely detailed CG unity 8k wallpaper, huge filesize, ultra-detailed, high res, absurd res, soft light, rim light, vibrant details, depth of field, dramatic angle,
+1girl,solo,
+museum,
+Love,
+Bookshelves, reading nook, tranquil relaxation,
+<lora:oc_v10:0.3>  <lora:LowRAv2:0.6>

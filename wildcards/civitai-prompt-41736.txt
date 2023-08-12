@@ -1,0 +1,1 @@
+onoff, female airline stewardess, pilot uniform, (freckles:0.9), 40 years old, curly hair, (large breasts:0.5) <lora:onoff4:1>

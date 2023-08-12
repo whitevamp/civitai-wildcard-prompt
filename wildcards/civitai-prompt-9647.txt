@@ -1,0 +1,2 @@
+a sexy anthro (bojack:1.2), (male:1.2), horse, (fluffy tail), (solo:1.1), (depressed), (looking at viewer:1.1), belly, mature male, (pool:1.2), robe, boxers
+BREAK (masterpiece, best quality:1.2), intricate detail, (extreme detail:1.2),  by honovy, (by darkgem, by chunie, by virtyalfobo:0.9),detailed background, (detailed eyes:1.2),  <lora:LoraBojackBY_bojack:1>

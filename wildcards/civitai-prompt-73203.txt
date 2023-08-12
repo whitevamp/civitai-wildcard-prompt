@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), hyper realistic,highestres,absurdres,extremely detailed,volumetic,dramatic lighting,
+1girl,detailed eyes,face,looking to the side,<lora:detailed_eye-10:1>

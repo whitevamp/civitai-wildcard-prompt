@@ -1,0 +1,4 @@
+masterpiece,
+1girl, solo,
+kamiki mikami, <lyco:kamiki mikami:0.7>,
+bikini, beach, upper body,

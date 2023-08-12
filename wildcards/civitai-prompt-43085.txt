@@ -1,0 +1,2 @@
+best quality, masterpiece, intricate detail, bokeh, <lora:ShinobuDBA:1.4> ShinobuDB, demon slayer uniform, haori, japanese clothes, jacket, long sleeves, belt, black jacket, uniform, pants, belt buckle, buckle,  seiza, zabuton, wooden floor, wooden wall, window, hands on knee, from above, light smile, expressionless, 
+  <lora:add_detail:1>

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details
+1girl,  <lora:mai valentineV1:0.8> mai valentine, long hair, blonde hair, jewelry, purple eyes, earrings, makeup, lipstick, 
+soldier, military, <lora:ParrleyGown:1> [ballgown|Parrley_armor],  [dress|suit of armor], (big bulky futuristic armor:1.3), iron breastplate, purple petticoat,

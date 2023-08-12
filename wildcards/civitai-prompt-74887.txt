@@ -1,0 +1,1 @@
+photorealistic, (hyperrealistic:1.2), beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, detailed hands and fingers, full body, <lora:shinyOiledSkin_v1:0.5>, shiny skin, oiled, oiled skin, black panties, covering nipples, black footwear, <lora:beautifulDetailedEyes_v10:0.4>, (embarrassed:1.2), (shy:1.2), blush, angry

@@ -1,0 +1,1 @@
+(masterpiece:1.15), (best quality:1.15), (detailed:1.1), (highres:1.1), photo, 50mm lens, f/22, ISO 100, booscapes, nature, sky and ground, Snowy Mountain and Trees, (fluffy clouds:1.1), color grading, natural light <lyco:booscapes:1.0>

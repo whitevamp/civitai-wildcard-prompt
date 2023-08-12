@@ -1,0 +1,1 @@
+(a hamster is playing ipad), lie in bed, night, dark room, body in blanket, rim light, <lora:popularTrainedOnTheMost_v10:1>, <lora:yeyuannnnnHamsters_v10:1>

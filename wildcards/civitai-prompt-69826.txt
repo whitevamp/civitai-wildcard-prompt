@@ -1,0 +1,1 @@
+masterpiece, IvoryGoldAI, woman wearing parrley_armor, parrley_armor, big bulky futuristic armor, <lora:IvoryGoldAI:0.8> <lora:Parrley1:0.9>

@@ -1,0 +1,5 @@
+1girl,solo,huge breasts, 
+standing,blue sky, blush,
+black hair, horns,kashino,
+outfit-gantz,latex breast curtains, black panties,  <lora:OutfitGantzLatexBreastCurtains:0.9>,
+ from below,  <lora:KashinoV2:0.75>

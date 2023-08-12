@@ -1,0 +1,7 @@
+((masterpiece)), ((best quality)), ((ultra detailed)), ((beautiful and aesthetic)),
+1girl, kamisato_ayaka, solo focus,  gasping, embarrassed,  large breasts,  ((school uniform)), pleated skirt, ((serafuku)), red ribbon, short sleeves, ((bare waist)),
+clothes lift, shirt lift, selfie, cloth on see-through white  lingerie,
+bedroom, window,
+from above,
+<lora:ClothesLiftSelfieV1:1>,
+<lora:kamisato_ayaka:0.85>

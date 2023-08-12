@@ -1,0 +1,6 @@
+(red theme:1.1),(dark theme:1.1),(night, fog, dystopia, lake, burning hell, despair:1.1),(red moon:1 2),(Ultra-detail:1.3),(highres:1.1),best quality,(masterpiece:1.3),(cinematic lighting:1.2),
+BREAK,(wide shot:1.1),(HDR:1.1),(RTX:1.1),
+BREAK,(1guy:1.1),solo,detailed,realistic,(robe:1.1),(legwear:1.1),boot,(from away:1.2),(far:1.2),
+BREAK,<lora:Bloodborne:0.3>,Bloodborne,
+BREAK,<lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.6>,(ink:1.1),
+BREAK,<lora:add_detail:0.3>,

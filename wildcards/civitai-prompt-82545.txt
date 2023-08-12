@@ -1,0 +1,1 @@
+masterpiece,futuristic city  <lora:painted clothes5:1>

@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, blue bodysuit, headband, furrowed brow, facial hair, raised arm, full body, standing, black background, magic, casting spell, FEH <lora:FEH_Concept_v2:1>   <lora:solidsnake-nvwls-v1-final:1>

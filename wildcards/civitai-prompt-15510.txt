@@ -1,0 +1,1 @@
+hydrotech,BiophyllTech, beautiful (woman:1.2) diver wearing colorful dive suit, exploring utopian under water organic garden, bioluminescent, tropical fish, sea plants, vibrant colors, neon lighting, scifi utopia enviroment, <lora:HydroTech:0.8> <lora:BiophyllTech:0.6>

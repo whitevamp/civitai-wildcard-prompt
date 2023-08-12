@@ -1,0 +1,5 @@
+masterpiece, best quality,
+katase shima, 1girl, closed eyes,
+nude, steam, sitting,
+onsen,
+<lora:stellvia-of-the-universe-katase-shima:0.8>

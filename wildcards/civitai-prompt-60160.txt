@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), full body,  walking,
+1girl, kashiwazaki sena, butterfly_hair_ornament, blond hair, shorts, sweater, oudoors, city, crowd, solo focus, (bokeh:1.4), (depth of field:1.4), looking at viewer, (blush:1.1),
+<lora:Kizuki - Haganai Kashiwazaki Sena:0.80>

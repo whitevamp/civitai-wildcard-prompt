@@ -1,0 +1,7 @@
+RAW photo, subject, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, absurdres, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed skin:1),
+cinematic lighting, dynamic angle, cinematic pose,
+lens flare, bokeh, excited, energetic, frenzied, colorful tattoo, light beams,
+passionate girl with pink wispy hair and detailed purple punk outfit and headphones performing for an audience, music, midriff, eyes closed, mouth open, looking up, cleavage, 
+reflective, neon lighting, colorful signage, spotlight, nightclub lights, foggy, silhouette,  
+DJ, stylesqueeze,
+ <hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1> <lora:DJ:0.5> <lora:stylesqueeze_v1b:0.8>

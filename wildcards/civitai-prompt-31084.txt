@@ -1,0 +1,1 @@
+(1girl, colored inner hair big hair undercut, red eyes, <lora:eye-test5:0.7>, flustered) (digital) (in detailed bakery, (Twinset)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> alien, monster, sharp teeth, extra arms, nids, <lora:nids:1>

@@ -1,0 +1,6 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece, extremely detailed, 8k wallpaper, finely detail, 8k, wallpaper, huge filesize, highres, absurdres,
+<lora:kitagawa_marin_v1-1:0.8>, kitagawa marin,
+1girl, full body, smile,
+(blonde hair: 2), long hair, (multicolored hair: 1.3), 
+(red eyes: 2), jewelry, earrings, piercing, school uniform, white shirt, tied shirt, black choker, blue necktie, plaid skirt ,
+school gate, play ground

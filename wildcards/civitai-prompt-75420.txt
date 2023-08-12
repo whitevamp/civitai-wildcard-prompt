@@ -1,0 +1,2 @@
+lovesickness,
+<lora:add_detail:0.6>

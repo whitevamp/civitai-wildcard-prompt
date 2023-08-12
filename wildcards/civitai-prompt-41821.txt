@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, cinematic lighting, sharp focus, depth of field, makaikishiingrid
+Ingrid, 1girl, solo, mature female, (dark-skinned female, dark skin:1.1), looking at viewer, standing, hands on hips, office, window, evening, sunset,
+serious,
+pink red hair, very long hair, hair intakes, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, detailed eyes, perfect face,
+business suit, formal, skirt suit, jacket suit,
+large breasts, cleavage, (areola slip:1.2), (nipple slip:0.9), thighs,
+<lora:IngridV2:0.9> <lora:MakaiKishiIngrid:0.45>

@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.25>, (1girl, solo, adult female, mature female), <lora:concept_goodHands:1>, <lora:detailed_eyes:1>,
+<lora:concept_changeACharacter_TeamRocket_(TMRckt--team rocket--team rocket uniform--clothes writing):1>, TMRckt, team rocket, team rocket uniform, clothes writing,

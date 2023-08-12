@@ -1,0 +1,1 @@
+drip jacket,white background, shirt, closed mouth, open clothes, black pants, pants, 1girl,  black shirt, looking at viewer, open jacket, solo, own hands together <lora:drip_jacket:0.8> mitsuri(demon slayer), multicolored hair, green eyes,long hair ,twin braids, <lora:mitsuri-v2:0.7>,

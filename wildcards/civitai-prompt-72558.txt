@@ -1,0 +1,2 @@
+s4sh4p1eterse looking at somethin in the distance, wide opened mouth, (ruined makeup:1.3) <lora:runnyMakeupMascara_v01:0.7> 
+electric fan <lora:electric-fan:0.1>

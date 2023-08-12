@@ -1,0 +1,1 @@
+<lora:Lucy_Cyberpunk:0.7>, lucy_cyberpunk, 1 sweet girl, white off-shouler jacket, black bodysuit, bare shoulders, white shorts, white short hair, bangs, red eyeliner, hip vent, looking at viewer, upper body,fantasy, high contrast, <lora:add_detail:1>

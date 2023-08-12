@@ -1,0 +1,5 @@
+masterpiece, 
+1girl,  
+ <lyco:kouno miyako v1.1:0.7>kouno miyako, 
+upper body, orange hyacinth,colorful hyacinth, 
+ <lora:flatBG:-1>

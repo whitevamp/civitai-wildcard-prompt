@@ -1,0 +1,5 @@
+best quality, anatomically correct, 8k,
+1girl, medium breasts, office lady,black legwear, pale skin, detailed eyes, detailed beautiful face,
+play cell phone,
+on bed, train station platform,
+<lora:nwsjmajic-10:0.75> ,<lora:chunmmfb_v2.1:0.0.5>,  <lora:20d_v10:0.15>

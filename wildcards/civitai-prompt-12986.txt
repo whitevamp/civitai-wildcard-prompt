@@ -1,0 +1,4 @@
+1 woman ,   helmet 
+alien planet
+ photorealistic, realistic
+(masterpiece:1.2) (photorealistic:1.2) (best quality)  (detailed skin:1.3) (intricate) (8k) (HDR) (dramatic lighting:1.3) (sharp focus) <lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

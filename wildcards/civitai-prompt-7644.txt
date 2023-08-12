@@ -1,0 +1,4 @@
+(JessicaWaifu:1),1girl, cute, looking at viewer, (red hair, green eyes), (red dress), (strapless dress, elbow gloves, red lips, makeup, cleavage), ((extremely curvy)), sexy, leaning forward, breast focus, smile,
+(detailed ladscape, bar, table:1.2), (background), (dynamic_angle:1.2), (dynamic_pose:1.2), (rule of third_composition:1.3), (dynamic_perspective:1.2), (dynamic_Line_of_action:1.2), solo, wide shot,
+(masterpiece:1.2), (best quality, highest quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (Cowboy-shot:1.2), (50mm), (highly detailed:1.2),(detailed face:1.2), detailed_eyes,(gradients),(ambient light:1.3),(cinematic composition:1.3),(HDR:1),Accent Lighting,extremely detailed CG unity 8k wallpaper,original, highres,(perfect_anatomy:1.2),
+ <lora:JessicaRabbit_character-20:1> <lora:PinterestEnchanted_style-20:0.7>

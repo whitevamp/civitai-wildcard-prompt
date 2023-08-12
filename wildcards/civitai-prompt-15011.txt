@@ -1,0 +1,1 @@
+superman, hyperdetailed artstation cgsociety by greg rutkowski and octane render ultra 8k 3d cinematic beeple unreal engine volumetric lighting photorealistic shadows dramatic neon noir effect black light painting,  <lora:add_detail:1>

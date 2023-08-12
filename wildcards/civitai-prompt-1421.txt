@@ -1,0 +1,5 @@
+(masterpiece:1.2),(best quality:1.2),highly detailed,absurdres,intricate,volumetric lighting,cinematic lighting,award-winning,macro vivid colors, golden lamps, candles, red and gold
+(nude:1.1), mature woman, hestia (danmachi), blue eyes, black hair, long hair, twintails
+(white high heels:1.2), (white stockings:1.2)
+squatting, pussy
+<lora:hestiaV2:0.2>

@@ -1,0 +1,1 @@
+(Masterpiece, exquisite, with a plethora of details and the highest image quality) solo, 1girl, color gradient hair, (skirt laser:1.2),white Pantyhose, laser, starry sky, laser shining star  <lora:LASER-V1:0.75> <lora:starlight:0.5>

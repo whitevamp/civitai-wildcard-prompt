@@ -1,0 +1,3 @@
+hd, highres, absurdres, 8k, masterpiece,
+1girl, nightelf, (portrait:1.1), (closeup:1.1), in water, ripples, bath, green hair, very long hair, purple skin, yellow eyes, glowing eyes, starry sky, thick forest, earrings, large breasts, breasts out, looking at you, facing, fireflies,
+<lora:nightelf:0.2>,  <lora:add_detail:0.4>, <lyco:ShinyOiledSkin_v20-LyCORIS:0.7>

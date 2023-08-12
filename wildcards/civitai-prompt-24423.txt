@@ -1,0 +1,1 @@
+masterpiece, official art, 3dmm, high quality render, cute girl character named sarah, age 19, brunette light brown ponytail, sexy, adorable, topless, (lipples:1.2), (white boyshorts:1.2), (standing in a laboratory:1.2), (best quality, masterpiece, 4k, ultra detailed, sharp focus, 8k, high definition, insanely detailed, intricate:1.2)  <lora:3DMM_V12:1.2> <lyco:Lipples:1.2>

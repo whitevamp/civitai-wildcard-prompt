@@ -1,0 +1,4 @@
+high detail RAW color Photo of  beautiful 30yo mayan woman, dark skin tone,   mayan, head band, armor, mayan pyramid GlowingRunesAIV2_red
+photorealistic,  35mm, masterpiece, best quality, 8K,UHD
+realistic,  highly detailed, harsh lighting, cinematic lighting,  
+ <lora:GlowingRunesAIV6:0.8>

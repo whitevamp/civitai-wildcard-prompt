@@ -1,0 +1,8 @@
+masterpiece, best quality, detailed,
+3d face, realistic,
+cute face, beautiful detailed face, beautiful detailed eyes, shiny skin, lustrous skin,
+1girl, stage, from side,
+black hair, long hair, floating hair, purple eyes, sweating profusely,
+nipples, long nipples, medium breasts, navel, pussy,
+black veil, detached sleeves, black sleeves, no bra, no panties, thigh strap,
+bellydance, <lora:bellydance_v10:0.75>,

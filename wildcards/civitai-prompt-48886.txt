@@ -1,0 +1,2 @@
+flame princess, masterpiece, ultra hd, best quality, solo, pinup,(((dress))) <lora:adventureTimePrincess_v1:1>
+ <lora:minimalistAnimeStyle_v10:1>

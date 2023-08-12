@@ -1,0 +1,4 @@
+/(Detailed, beautiful/)_/(face, eyes, eyelashes, eyebrows, nose, lips, mouth, hair, chin, cheeks, look/), skindentation,
+masterpiece, /(high, extreme/)_/(quality, details/), intricate, high_/(quality_textures, resolution_textures/), absurdres, award_winning, /(beautiful, harmonic/)_colours_/(scheme, combination/), 
+/(perfect, professional/)_composition, bokeh, /(natural, dim/)_lighting, detailed Shadows, /(beautiful, Professional/)_/( light diffusion, white_balance/), /(realistic, photorealistic/)_/(shaders, textures/),  
+1girl, naked bandage, (claw pose:1.2), pyramid, egyptian temple, cowboy shot,  grin, closed mouth, <lora:attire_nakedbandage:1>

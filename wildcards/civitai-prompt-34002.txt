@@ -1,0 +1,2 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, female, looking at viewer, (RSEEmma:1.2), smile, blue eyes,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, long hair, bangs, sidelocks, 
+ <lora:GTS:0.8>, gts, (lighthouse:1.1), ocean, storm, waves, <lora:POVPaizuri:0.9>, paizuri, bikini, penis, 1boy, rocks, rocky, naked, clouds, thunderstorm, ship

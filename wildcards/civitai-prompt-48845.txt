@@ -1,0 +1,8 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2), (ultra_highres), (ultra-detailed), absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed, 
+1girl sitting in front of vanity Desk with Lighted Mirror, looking into mirror, seeing herself in the mirror, (from behind:1.3), 
+blue eyes, green eyes, red lips, eye_makeup, extremely detailed eyes and face, beautiful detailed eyes, light on face, nose blush, short hair, bob_cut,
+medium breasts, cleavage, lace_rims, tattoo, choker, slim_waist, firm_abs, shiny skin, open jacket, bare_shoulder,
+slim legs, long legs, crossed legs, high waist skirt,
+supermodel, necklace, earrings, lighting, detailed shadow, sharp_focus,
+<lora:japaneseDollLikeness_v10:0.25> <lora:taiwanDollLikeness_v10:0.2> <lora:koreanDollLikeness_v15:0.15>
+<lora:epiNoiseoffset_v2:0.9> rim lighting,

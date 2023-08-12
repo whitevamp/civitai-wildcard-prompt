@@ -1,0 +1,1 @@
+kfc chicken burger, dark background, quality photo, fried chicken, studio photo, smoke <lora:offset_0.2:0.4>

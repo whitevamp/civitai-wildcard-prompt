@@ -1,0 +1,1 @@
+((half white lab coat outside)),(sailor collar school uniform),shirt, pleated skirt,(black pantyhose),<lora:chineseTiktokIdolXiaoDianXin_v11:0.3>,<lora:Moxin_1010:0.1>, [:(detailed face:1.2):0.2], raw photo, (masterpiece), (best quality), highres, (realistic, photo-realistic:1.2), ultra detailed, physically-based rendering, 1girl, air bangs, long hair, (silvery hair), wavy hair,

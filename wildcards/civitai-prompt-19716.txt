@@ -1,0 +1,3 @@
+1girl,Standing straight with hands at sides,
+msw,
+, <lora:msw_v10:0.7>

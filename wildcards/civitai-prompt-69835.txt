@@ -1,0 +1,1 @@
+masterpiece, best quality, aerith gainsborough, hair bow, white sundress, sitting, side view, looking at viewer, smile, garden, small house, grass, sky <lora:aerith-nvwls-v1-000010:0.9>

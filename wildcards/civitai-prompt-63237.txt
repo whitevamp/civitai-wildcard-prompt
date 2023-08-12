@@ -1,0 +1,1 @@
+<lora:Japanese Doll Likeness v15:0.2>, <lora:Korean Doll Likeness v20:0.3>, <lora:Yae Miko - Realistic Mixed:0.3>, <lora:Bloodstained v1:1>

@@ -1,0 +1,1 @@
+color hair, night,  <lora:hair-v3:0.7>, <lora:LowRA:0.5>

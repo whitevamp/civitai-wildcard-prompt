@@ -1,0 +1,3 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,colorful,highest detailed ((ultra-detailed)), (highly detailed CG illustration), ((an extremely delicate and beautiful)),cinematic light,
+cultivation tank,1girl, long hair, solo, underwater, very long hair, bubble, barefoot, air bubble, breasts, submerged, anklet, convenient censoring, freediving, medium breasts
+full body,machine made joints,blood vessels connected to tubes,mechanical vertebra attaching to back,mechanical cervial attaching to neck,expressionless,wires and cables attaching to neck,wires and cables on head,character focus,science fiction, <lora:cultivation_tank_lora01:0.8>,souryuu asuka langley, <lora:AsukaV1:0.5>,

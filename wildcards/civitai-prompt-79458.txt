@@ -1,0 +1,1 @@
+<lora:Censored:1>, censred, <lora:SuccubusT-16:0.6>, SuccubusT, demon horns

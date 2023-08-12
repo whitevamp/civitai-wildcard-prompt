@@ -1,0 +1,5 @@
+professional photo of origin, pleated skirt, short hair, hair between eyes, green coat,
+detailed skin, detailed eyes, action pose,
+photo made with Canon EOS in naturalistic style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:Girls' Frontline-JS05 (With multires noise version):0.8:MIDD>

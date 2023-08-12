@@ -1,0 +1,3 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile, 20yo, blonde hair, blue eyes,
+<lora:otl:1> otl, tan, pink micro bikini,  <lora:maid_bikini-clothes:1>maid bikini,  large breast,
+maid headdress, night, spread legs, brown and white skin, suntan,

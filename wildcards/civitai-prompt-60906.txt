@@ -1,0 +1,3 @@
+(best quality, masterpiece:1.4), (ultra realistic, raw photo, 8k, photography:1.4), soft sunlight, intricate detailed, 
+1 girl, solo, beautiful and cute face, floating hair, beautiful eyes, fair skin, upper body, narrow waist, floating ponytail, looking at viewer, light smile, 
+((yunying in red and white outfit)), <lora:Yunying_v11c:0.7>,

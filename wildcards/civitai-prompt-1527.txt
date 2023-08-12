@@ -1,0 +1,7 @@
+jim lee,
+
+1girl, wonder woman, armlet, black hair, blurry, bracer, breath, cape, cowboy shot, depth of field, holding, holding weapon, lasso, looking at viewer, parted lips, pommel, realistic, reverse grip, shield, skirt, snow, snowing, solo, superhero, sword, tiara, toned, weapon, weapon behind back
+
+, ((masterpiece))
+
+<lora:jim_lee_offset:1>

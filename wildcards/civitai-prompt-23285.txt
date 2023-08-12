@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.2), (detailed:1.1), 
+EchidnaQuiron character,  snake bikini, silver armor, green hair, 
+<lora:quiron_Echidna_v2_lora:0.97>

@@ -1,0 +1,2 @@
+close-up <lora:alien_lora:.8> bigbadejo alien_monster xenomorph by giger,
+<lora:orgasmFace_v10:.7> orgasm_face, fangs, teeth, slime, round boobs,

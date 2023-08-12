@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl, doing yoga, wearing yoga pants, outdoors, (doing yoga:1.2), yoga pose, natural skin texture, skin pores,  modeling for Playboy,  natural skin texture, dynamic pose, blue lipstick, rouge, film grain, <lora:ClothingAdjuster3:0> <lora:InstantPhotoX3:0.5>

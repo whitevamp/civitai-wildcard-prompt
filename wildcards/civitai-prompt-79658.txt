@@ -1,0 +1,2 @@
+Photo of doomguy in a big market, looking at viewer, crate of apples, (detailed background:1.2), (raw, extremely intricate:1.2), (poor quality photo:0.7), muted colors, cinematic light, best shadow, looking at viewer, (blurry:1.2), full body, reflective metal, textured fabric, silver helmet, (belly:0.5)
+<lora:doomguy:0.55>

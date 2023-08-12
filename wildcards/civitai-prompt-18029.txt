@@ -1,0 +1,1 @@
+<lora:liquid-clothes:1.0> <inversion:epi-noise-offset:5.0> <lora:detail-tweaker:1.0> beautiful topless woman skiing down a swiss mountain

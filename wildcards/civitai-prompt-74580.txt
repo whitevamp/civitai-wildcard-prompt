@@ -1,0 +1,2 @@
+RAW digital marine photo (wide angle long shot) of a sunken pirate ship (broken destroyed) graveyard (intricate details) coral barnacles seaweed (high detail) (high quality) Nikon Z 7II (spotlight from above:1.2) dark shadows (light reflections:1.2) (depth of field:1.2) (sharp focus) (studio lighting) (8k) (uhd) (hdr) (dslr) (tilt shift)
+ <lora:LowRA:0.7>

@@ -1,0 +1,1 @@
+ghibli style, first person view, 1girl, (zoom on woman:1.5), background thatched roof house, comfy, river, forest. autumn, (realistic), starry night sky,  woman sitting near river, middle of nowhere, (very dark night:1.4), <lora:studioGhibliStyle_offset:1.0>

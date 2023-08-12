@@ -1,0 +1,1 @@
+masterpiece, best quality,(best-quality:0.8), Perfect anime illustration of a child, smiling, looking at the camera, outdoors <lora:COOLKIDS:1>

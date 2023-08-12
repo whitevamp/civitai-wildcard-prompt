@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.4), absurdres, [:intricate details:0.2], hyperrealistic, vintage photo, kkw-ph1,
+1 girl, adult (elven:0.7) woman, freckles, silver eyes, dark red blowout hair,
+(style-swirlmagic:1.0),  looking at viewer, solo, (full body:0.6), detailed background, detailed face, (<lora:GlowingRunesAIV3:0.6>, GlowingRunesAIV2_paleblue theme:1.1) evil summoner, tattered orange magical robes, determined expression, crimson color scheme, dark scarlet light, study room,   evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by green lightning <lora:LightningvfxCreateMore_v1:0.1>,  summoning, (thick melting candles:0.8), purple arcane symbols,  power-hungry eyes, bloom,
+<lora:add_detail:0.5>

@@ -1,0 +1,3 @@
+1girl,drill hair,(nsfw),beautiful long legs,triple penetration, public hair,
+,superstar,
+<lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>  <lora:tangbohu_saturation_v1.0:0.65>   <lora:superstar:0.5>

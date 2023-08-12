@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed:1.2),  <lora:kratos-15:0.6> , kratosGOW_soul3142, sitting, bar, liquor, glass, alcohol,

@@ -1,0 +1,1 @@
+highres,masterpiece,1girl, chel_eldorado <lora:chel_eldorado-11:1>, (micro bikini), beach, sunset, detailed background, cowboy shot, leaning forward, wet,

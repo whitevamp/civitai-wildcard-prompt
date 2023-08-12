@@ -1,0 +1,2 @@
+nsfw, best quality, 1girl, (yellow hair: 2.7), (blonde:1.6), blonde hair, masterpiece, strong light flare, glowing skin, ultra high res,  (photorealistic:1.3), Barbie, 8K, raw photo, (wearing pink:1.4), modern
+architecture background, everything is pink, in a pink house, the sun is strong, looking at viewer, symmetrical, symmetrical pose, pink, wearing high heels, full body, dynamic pose, rouge,  film grain, parted lips  <lora:ClothingAdjuster3:-0.7>  <lora:InstantPhotoX3:0.4>  <lora:skin_tone_slider_v1:3>

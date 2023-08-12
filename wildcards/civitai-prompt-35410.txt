@@ -1,0 +1,3 @@
+high contrast, (hyperrealism, soft light, sharp), <lora:add_detail:1>, <lora:FujiVelvia50:0.4>, <lora:stylesqueeze_v1b:0.5>,
+1 girl, adult (elven:0.7) woman, freckles, yellow eyes, auburn layered hair,
+ focus on character, portrait, (battlescars:0.7), looking at viewer, solo, half shot, detailed background, (<lora:AlchemyPunkAI:0.6>, alchemypunkai theme:1.1), cursed sailor,  rich black pirate captain uniform, pirate hat,  sinister smile, standing, compass, coastal pirate town, pirate hideout,  docks,  camp,  palm trees, sand, peaceful, sunlight,  pirate ship on shore, barrels in background, torchlight, cinematic atmosphere,

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 
+1girl, <lora:mumei:0.8> nanashi mumei, shirt, corset, cleavage cutout, red skirt, single thighhigh, cloak, ribbon, ponytail, very long hair, hairclip, feathers, knife, belt, partially fingerless gloves,  brown hair, 
+ <lora:hawawa:0.8> hawawa, sweatdrop, wavy mouth, disappointment, fear, @_@, surprised,

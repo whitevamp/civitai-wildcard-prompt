@@ -1,0 +1,2 @@
+Woman <lora:Insertion:0.8> (Insertion mouth, cucumber), (medium blonde hair)
+BREAK <lora:ererep-v2:0.4>

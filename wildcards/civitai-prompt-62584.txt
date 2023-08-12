@@ -1,0 +1,1 @@
+masterpiece, highres, best quality, ultra-detailed, perfect lighting,  1girl, gwendolyn_tennyson, very angry, disappointed, middle finger, fuck you, looking at viewer, pov, detailed background,  <lora:gwendolynTennysonBen_v10:1> <lora:LookingDisgusted_V1:1> <lora:MidFing:1>

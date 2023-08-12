@@ -1,0 +1,1 @@
+(1girl, split-color hair very long hair cone hair bun, robot eyes, <lora:hanme:0.6>, facepalm) (digital) (in detailed floating city, ) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> <lora:flat2:-0.3> TMRckt, team rocket, team rocket uniform, ((clothes writing)),  <lora:TMRckt:1>

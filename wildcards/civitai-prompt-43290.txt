@@ -1,0 +1,1 @@
+((Best quality)),((masterpiece)),(photorealistic:1.5),Sharp Focus,hdr,full body,(nsfw:1.1),woman,crimson hair,office lady,shirt,pencil skirts,silk stockings,high-heeled shoes,pubic hair,super sharp,ray tracing,<lora:onoff4>,<lora:FilmVelvia2:0.3>,<lora:InstantPhotoX3:0.4>,<lora:doa_helena:0.7>,<lora:add_detail:0.7>,from front,

@@ -1,0 +1,2 @@
+(close up:1.1), t1m0thee, looking at viewer, brown leather jacket, posing, outdoors, portrait photo,  ultra detailed, 4K, HQ
+<lora:TimotheeDoguV1:0.96>

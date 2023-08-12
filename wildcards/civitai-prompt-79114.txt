@@ -1,0 +1,1 @@
+pectorals,male,forest,rain, <lora:Bara-10:0.55>

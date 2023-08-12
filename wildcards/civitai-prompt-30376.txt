@@ -1,0 +1,10 @@
+(nogizaka girl:1),(fair skin:1),(perfect body:1),(athlete:1),(nude:0),(curvy body:1),(model:1),(large breasts:1),(incoming kiss:1),(looking at viewer:1),(ultra high resolution:1.2),(best quality:1.2),(masterpiece:1.2),(realistic:1.2),(photo realistic:1.2),(professional lighting:1),(professional photo:1.1),(perfect anatomy:1),(sharp focus:1),(highly detailed:1.1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1)
+BREAK
+(extremely detailed eyes and face and skin:1)
+BREAK
+The women have diverse appearances, showcasing different hairstyles, outfits, and accessories.
+They are standing in front of a vibrant and colorful Purikura machine. The background is filled with pastel shades, glittery stars, and cute decorations. The women are posing in a playful and adorable manner, making funny faces and striking dynamic poses.
+They are all dressed stylishly, wearing trendy outfits such as colorful dresses, skirts, or jeans paired with cute tops. They accessorize with ribbons, hair clips, and cute jewelry. Some of them might have colorful hair, braids, or elegant updos.
+The atmosphere is filled with laughter, joy, and friendship. The illustration should capture the energy and excitement of these young women as they create beautiful memories together.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lora:add_detail:1>

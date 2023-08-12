@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, full body shot, black hair, long hair, huge breasts, crying, tears,
+<lora:ChapayevPrisonerV3:0.65>, metal collar, shackles, torn shirt
+kneeling on the floor, in the basement,

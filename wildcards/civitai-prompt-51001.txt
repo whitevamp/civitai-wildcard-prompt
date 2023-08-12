@@ -1,0 +1,2 @@
+1girl, solo,  <lora:vgirl-Aki_v11:1>, (detailed face:1.2),
+ <lora:pose-mLegs:1.4>,nsfw, spreading legs, ((masterpiece)), (best quality),perfect face,highres, detailed, clear, (best quality,professional photograph, masterpiece:1.2),((high saturation)), (cinematic lighting),realistic,4k,RAW photo, (perfect face, detailed face),flawless, clean, beautiful face, pale skin,

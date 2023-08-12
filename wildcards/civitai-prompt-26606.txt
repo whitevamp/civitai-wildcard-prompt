@@ -1,0 +1,2 @@
+(panda), chibi, excessive energy, cute , scifi, honey,
+<lora:UltraBlackholeTech:0.75> ulblackholetech

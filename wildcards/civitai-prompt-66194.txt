@@ -1,0 +1,5 @@
+centaur, secret flower, <lora:ConceptFlowerOnPussy_v104:1> ,(see through), skirt, super long hair,  paper flower, Bougainvillea, blonde,  pastel color, 
+rim light, back light, cinematic light, 
+absurdres, highres, best quality, (electric fan:1.3), 1girl, standing, clothes lift, wind lift, wind, floating hair, sundress, indoors, window, sunlight, (wind chime:1.3), wind chime focus, sexy female, flat breasts, depth of field, close-up, no panties, female pubic hair, closed eyes, sweat, sweatdrop, (skirt lifted by self), navel, from below, white dress,
+summer, santorini, greek, 
+<lora:electric-fan:1>   <lora:centaurConcept_V1:1>

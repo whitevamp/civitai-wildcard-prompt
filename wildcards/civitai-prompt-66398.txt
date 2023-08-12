@@ -1,0 +1,5 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,sharp focus,meaningful imagery, layered symbolism, visual metaphors, symbolic representation, evocative motifs, allegorical compositions, interpretive potential, conceptual resonance,
+(half-naked:0.85),Neck,
+Gentle touch, inviting smile, delicate features, enigmatic allure, tastefully enticing,
+Sultry ambiance, diffused lighting, enticing shadows, flirtatious glances, subdued sensuality,
+<lora:oc_v10:0.2> <lora:lowra_v10:0.4>

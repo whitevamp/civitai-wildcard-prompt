@@ -1,0 +1,2 @@
+oil painting, masterpiece, best quality, highres, long brown hair, (huge breast:1.2), nude, nipple, <lora:sexToyTransformation_v10:1.2>,transformation, (bind body by rope),shibari,suspension,bdsm,ropes
+<lora:bondageSuspension_v11:0.6> <lora:NippleLinkedPiercing_30:0.2>

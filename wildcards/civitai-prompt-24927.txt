@@ -1,0 +1,8 @@
+<lora:policewoman-08:1>medium shot photo of sexy brunette adult policewoman, back view,
+look at viewer, make up, Accessories, jewelry,
+suductive-pose,
+blush_red-color,police-hat,  cleavage, (police-uniform:1.4),
+skinny, huge breast, narrow waist, (abs:0.6), big pelvic, thick thigh,
+(garter-straps:0.7), stocking,
+bedroom,
+(realistic skin_details, sharp focus, masterpiece,best quality,finely detailed,extremely detailed, realistic detail,clear_image,realistic, high_resolution,distinct_image)

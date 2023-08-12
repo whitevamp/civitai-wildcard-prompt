@@ -1,0 +1,3 @@
+(msw:1.2),1girl,nsfw,no bra,dutch braid,afterglow,(spitroast),
+effect light,(dimmed lighting:1.1)
+<lora:msw_v10:1> <lora:difConsistency_photo:0.55>,

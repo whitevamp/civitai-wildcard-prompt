@@ -1,0 +1,3 @@
+<lora:constricted_pupils_v0.2a:1.0> 
+1girl, constricted pupils,
+<lora:public_v3.0-locon:1> public, photographers,, masterpiece, best quality, highly detailed

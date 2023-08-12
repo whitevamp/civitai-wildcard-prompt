@@ -1,0 +1,2 @@
+drow, female, pointy ears, solo, elf, long hair, colored skin, white hair, blue skin, jewelry, earrings, hair bun, single hair bun, bare shoulders, profile, upper body, from side, signature, piercing, artist name, ear piercing, nose, lips
+, ((masterpiece, best quality)), art by greg rutkowski <lora:drow_offset:1>

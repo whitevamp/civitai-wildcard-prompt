@@ -1,0 +1,2 @@
+masterpiece,best quality,toon,building,Pixar style,simple design,people,trees
+Wine and Tan, Mechanic, <lora:toon:0.8>

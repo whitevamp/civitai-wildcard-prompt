@@ -1,0 +1,1 @@
+highres, sharp focus, pixiv masterpiece, ((intricate details)), highly detailed,  solution_epsilon, (upper body,:1.2), 1girl, blonde hair, thighhighs, drill hair, cleavage, choker, maid, dress, frills, belt, blue eyes,  <lora:Solution Epsilon v1_1:0.7>

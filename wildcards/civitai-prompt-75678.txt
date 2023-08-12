@@ -1,0 +1,2 @@
+masterpiece,(best quality:1.3),
+1girl,<lora:ExoticDance:0.9>,exotic_dance,(solo:1.3),

@@ -1,0 +1,2 @@
+zrpgstyle post-apocalypse fallout 4 RPG character painting ginger hair upsweep updo thin woman wearing black backpack (denim jacket jeans tshirt:1.2) searching an abandoned building indoors overgrown ruins vines ivy in an (abandoned city:1.1) (red brick buildings:1.2) blue sky (bright morning light:1.1) (windy dust volumetric lighting foggy:1.1)
+(masterpiece:1.4) (best quality:1.4) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) (intricate) <lora:AZovyaRPGArtistToolsLORAV2art:0.9>

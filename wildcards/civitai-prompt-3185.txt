@@ -1,0 +1,1 @@
+highres,masterpiece,1girl, chel_eldorado <lora:chel_eldorado-11:1>, cowboy shot,(tube top,midriff, loincloth:1.1), <lora:thiccwithaQ-17:1>   thiccwithaq

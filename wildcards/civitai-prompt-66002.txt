@@ -1,0 +1,7 @@
+(((masterpiece))), (extremely detailed 8k render),(((best quality))), ((ultra-detailed)),(best illumination, best shadow), ((an extremely delicate and beautiful)),(best design),
+1 girl, standing in the middle of the stage in a bikini, full body shot, with red curtains in the background,
+1 The girl's face is Peking Opera makeup, smiling, happy, raising eyebrows, teasing, seductive, Royal Sister, Peking Opera Huadan, facial makeup,
+1 girl's head is headgear, tassel, jade pendant,
+1 The bikini on the girl's body is red, embroidery craft, golden silk thread, lace edge, golden edge,
+1 girl background is Beijing opera banner, embroidery craft, golden blue, red candles, gongs, gongs and drums, Chinese opera, Beijing opera, theater, stage,
+ <lora:PekingOperaR:0.2>

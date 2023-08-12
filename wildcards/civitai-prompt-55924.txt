@@ -1,0 +1,2 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) (1girl),small_breasts,floating_hair,glowingeyes,pointy_ears,whitehair,greeneyes,halterdress, feather,leaves,nature,(sunlight),river,(forest),(painting),(sketch),(bloom),tyndall effect,photorealistic, dark studio, rim lighting, two tone lighting,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, volumetric lighting, candid, Photograph, high resolution, 4k, 8k, Bokeh
+<lora:Dream:0.65>

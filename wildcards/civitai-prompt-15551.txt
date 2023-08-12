@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (highly detailed:1.3), (absurdres), 1 boy, very short hair, wearing shining knight armor, ((sleeveless)), looking at camera, flexing biceps, intricate clothing, muscular, perfect body, perfect anatomy, face looking in front of camera, standard angle,  GS-DeFeminize, <lora:add_detail:0.8>

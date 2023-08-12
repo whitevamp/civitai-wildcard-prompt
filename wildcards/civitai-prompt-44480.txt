@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,best quality,masterpiece,<lora:catman:0.8>,maomi,blurry background,blurry,sunglasses,hat,hands in pockets,coat,standing,shirt,solo,outdoors,shoes,full body,pink headwear,depth of field,open clothes,

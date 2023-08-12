@@ -1,0 +1,6 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,
+1girl, sole, realistic,
+standing, dynamic movement, large breast, black long hair, wedding dress, upper body, smile,
+lifelike rendering, immersive atmosphere, impeccably detailed, visually stunning, creative zenith, exceptional standard, subdued contrasts, soft illumination, transfixing looks, emotive depth,
+artistic emotionality, compelling glances, subtle facial expressions,
+<lora:LowRA:0.4>,<lora:OC:0.4>, <lora:more_details:1>

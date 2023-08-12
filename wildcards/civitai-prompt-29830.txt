@@ -1,0 +1,8 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, large windows, indoors, pov, pov hands, upper body, from above, close up,
+purple hair, long hair, braided ponytail, purple eyes, sad, crying, teardrop, sad, scowl, glaring, clenched teeth, full blush,
+large breasts, nipples, long nipples, puffy nipples, small areolae,
+sweat, steam, steaming body, heavy breathing, arms behind back,
+breast hold, <lora:SayaBreastHold:0>,
+topless, choker, hair ornament, detached wide sleeves, raidenshogundef, <lora:raidenshogun1_000009:0.75>

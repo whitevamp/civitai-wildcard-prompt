@@ -1,0 +1,1 @@
+1girl,elf,(armor and bikini:1.2),armored boots,(fantasy:1.1),blush,realistic, (masterpiece, high quality:1.2),<lora:SoftHentaiElf_v10:0.9>,

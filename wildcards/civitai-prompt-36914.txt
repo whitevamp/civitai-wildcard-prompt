@@ -1,0 +1,3 @@
+<lora:naked_towel_v0.1:1>
+1girl, naked towel, 1boy, 
+<lora:locker_room_v0.1:1> locker room, pov, kabedon, pov hands, blush, wet, against wall,, masterpiece, best quality, highly detailed

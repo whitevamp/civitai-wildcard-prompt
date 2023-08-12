@@ -1,0 +1,1 @@
+<lora:CatherineVG:1>, CatherineVG, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, absurdres, highres, 1girl

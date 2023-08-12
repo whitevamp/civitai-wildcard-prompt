@@ -1,0 +1,4 @@
+ultrarealistic, 8k, hires,
+cinematic lighting, realistic shadows, detailed textures, dynamic lighting, super cute,
+Medabot, full body, black and gold, warrior, spiked armor, complex, 
+<lora:MedabotLoraV1TrainedTest:1>

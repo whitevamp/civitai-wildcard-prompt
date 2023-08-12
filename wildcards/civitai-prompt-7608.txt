@@ -1,0 +1,4 @@
+<lora:add_brightness:0.7><lora:add_detail:0.7>  <lora:add_saturation:0.4><lora:bathtime:1>
+bathtime,onsen,wooden bucket, (falling petals:0.4),  steam:0.4,(starry moon:0.3), 
+girl, woman,large breasts, curvy, gasp, seductive smile,   blush:1.1,forehead,  braided  hair, glasses, 
+pov, straight-on,

@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (photorealistic:1.1), (extremely detailed face), (ultra detailed), (2girls:1.1), (spread legs:0.8), delicate eyes and face, (slingshot swimsuit:1.0), (pubic hair:1.0), shiny skin, slim and petite body, high ponytail hair, (smile:1.1), (open mouth:0.7), (blonde:0.7), (onsen), <lora:slingshot_v1.5:1>

@@ -1,0 +1,1 @@
+<lora:escanor-10:0.9>, escanor, realistic,  <lora:noline:0.4>, long green pants, brown belt, topless,  ((fire)), fire particles, ash, cloud, flame

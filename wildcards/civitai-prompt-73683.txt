@@ -1,0 +1,5 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,RAW photo,best quality,realistic,
+1girl,solo,thighs,low twin braids,black,
+indoor,
+Spirituality,
+harbor, boats, idyllic, <lora:FilmG3:0.25:PALETTE> <lora:LowRAv2:0.3>  <lora:2023-05-12_232640:0.2:FACE0.2>

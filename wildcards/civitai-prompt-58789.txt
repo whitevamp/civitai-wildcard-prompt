@@ -1,0 +1,1 @@
+<lora:LowRa:0.7> (dark shot:1.2), epic realistic jungle trees, tropical, sky, (horizon:1.2), (view from above:0.5), sunset, faded, (neutral colors:1.2), (hdr:1.3), (muted colors:1.2), hyperdetailed, cinematic, warm lights, dramatic light, (intricate details:1.1), complex background, rutkowski

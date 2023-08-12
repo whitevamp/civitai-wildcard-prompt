@@ -1,0 +1,1 @@
+dark fantasy, poor child, body armor, (looking at viewer:2), (super cute female:1.5), formidable_default, (chibi:1.35), solo, 1girl, full body, simple background, (epoxy_skull:1.38), (ManyEyedHorrorAI:0.6) <lora:glowingSkullLora_v10:1>  <lora:manyeyedhorrorai_v10:1>, black background, (steampunk background:1.1)

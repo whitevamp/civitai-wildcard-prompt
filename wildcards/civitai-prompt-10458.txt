@@ -1,0 +1,4 @@
+masterpiece,best quality,1980s \(style\),retro artstyle,toy box art,
+(solo,chibi:1.2),moko-chan,:d,brown hair,brown eyes,medium hair,riding toy motor vehicle,
+rabbit,star \(symbol\),logo,
+<lyco:moko-chan_v10:0.7>,<lyco:GoodHands-beta2:0.9>

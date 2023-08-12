@@ -1,0 +1,1 @@
+photo (pure:1.0) plump ass, face, boobs, face, boobs, (hyper realistic:1.25), (photo realistic:1.3), realistic, (young woman:1.1) (RSESofiko:0.9) dressed in a dress, volumetric lighting, side light, realistic detailed skin, pale skin <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.4> <lora:breastinclassBetter_v141:0.15>

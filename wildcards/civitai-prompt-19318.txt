@@ -1,0 +1,14 @@
+Aesthetic: ((retro-futurism, nostalgia, vintage, futuristic, past, throwback):1.4)
+BREAK
+Composition: <lora:cowgirl-2.0:1.2> wide shot, (1girl, looking at camera, squatting, riding dick, (1boy, man behind  girl, man underneath girl, lying down, on the floor),, vaginal, a girl having sex , large penis, 1 boy),,(extremely detailed pussy), detailed face,((good anatomy:1.2)), real penis, vaginal insertion, penis in vagina, sex, (pretty face, detailed face and eyes),, 1girl, naked, nude, perfect breasts, perfect nipples, detailed human skin
+BREAK
+Lighting: Gloomy Overcast, Moody, Somber
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+<lora:gym_storeroom_v0.1:1.1> (gym storeroom:1.2), gym uniform, volleyballs, ball rack, pummel horse, gym mat,
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

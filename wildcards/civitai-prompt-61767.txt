@@ -1,0 +1,2 @@
+best quality, intricate details, masterpiece,
+1boy, man, masculine, <lora:gear_fifth_offset:0.8> gear fifth,

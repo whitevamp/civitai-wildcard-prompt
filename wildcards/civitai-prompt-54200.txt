@@ -1,0 +1,4 @@
+masterpiece, UHD, best quality, official art, extremely detailed 8k wallpaper, cowboy shot, 
+1girl,solo,closed eyes,side lighting ,translucent skin, white bodysuit, mechanical, 
+indoors, hangar,in container, stasis tank, underwater,
+<lora:translucentSkin_v10:1.3>  <lora:cMechaMusumeC_cV1:0.35:CLOTH>  <lora:ConceptCultivationTankStasis_v3:0.55>

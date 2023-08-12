@@ -1,0 +1,1 @@
+masterpiece, best quality, killjoy, green beanie, round glasses, yellow jacket, grey shirt, belt, black pants, upper body, computers, circuitry, robots, looking at viewer, smile <lora:killjoy-nvwls-v1-000012:0.9>

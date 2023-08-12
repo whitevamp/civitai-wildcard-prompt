@@ -1,0 +1,2 @@
+masterpiece, best quality, detailed face, 1girl,(mature),milf, standing, (succubus),horns, tail, pointy ears,(blackskin:1.35), dark skin, big pupils, big eyes, red eyes, makeup, long eyelashes, full lips,white hair, long hair, large hair, gigantic breasts, saggy breasts, curvy, wide hips, thick thighs, leather corset, panties, long slevees, gloves, straps, chains, accesories, jewelry, earrings, pendtant, choker, stockings, dungeon, stone walls, narrow hallway,indoors
+<lora:momofuki-05:1>, <lyco:obsidianSkin_v1:0.7> , <lora:dungeon_v2.0:0.45>

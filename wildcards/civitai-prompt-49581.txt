@@ -1,0 +1,11 @@
+{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{an extremely delicate and beautiful}}, (extremely detailed CG unity 8k wallpaper:1.1),
+nsfw, beautiful, deep penetration, extremely detailed face, beautiful detailed eyes,
+detailed vagina, (realitic nipples, realistic nipples), (detailed fingers, realistic fingers),
+(Detailed eye description), (Detailed face description), perfect skin, beautiful detailed belly,
+
+<lora:yumiSENRANKAGURA_yumi:0.6> (yumi \(senran kagura\):1.4), blue eyes, short hair, (puffy nipples:1.2), ((hair bow)), [blue:gray:0.2] hair,((white hair)), ((((narrow waist)))), abs,(bikini:1.4), 
+<lora:shirtliftALORAFor_shirtliftv1:0.4>, 
+
+<lora:perkyBreasts_v10:0.6>,
+
+beach,1girl,

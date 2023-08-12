@@ -1,0 +1,2 @@
+masterpiece,1girl,solo ,heart-shaped pupils,open mouth, nipples,lactation,milking machine,stationary restraints, naked, full body view, aqua \(konosuba\) ,
+ <lora:Four-StationaryRestraintsV1:1>, <lora:milking_machine1e-4:1>

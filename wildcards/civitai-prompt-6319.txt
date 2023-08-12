@@ -1,0 +1,3 @@
+Photo of Jubilee standing confidently with hands on hips in a close-up shot of their upper body, wearing an open yellow jacket, denim shorts, pink shirt and (blue gloves:1.4), against a backdrop of vibrant streets and a wall covered in graffiti.
+young, slender, (purple shaders on head:1.2).
+ <lora:jubilee:0.7>

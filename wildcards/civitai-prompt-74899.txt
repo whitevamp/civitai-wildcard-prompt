@@ -1,0 +1,3 @@
+hdr, (raw photo, hyperdetailed:1.15), (warm color:1.2),
+1girl, (white background, evil smile:1.45), fire and smoke, polished golden metal, warhammer 40k,
+<lora:WarhammerAdeptusSororitas_v4:0.7>holding gun,

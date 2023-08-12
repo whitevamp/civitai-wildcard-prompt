@@ -1,0 +1,5 @@
+,(8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),
+ <lora:excessiveSparsePubic_v10:0.7> excessive pubic hair<lora:Sailor_Mars_hino_rei-01:0.6> Sailor Mars
+1girl, full body, 18 years old, black hair, bangs, long hair, purple eyes,naughty face, nude, nsfw ,spooning.,on side, overflow, penetration, penis, pussy, pussy juice, rolling eyes, spread legs, sweat, uncensored, vaginal, vaginal penetration, veins, veiny penis,clitoris. completely nude, cum, cum in pussy, dark nipples, dark skin, hetero, large penis, leg lift, lying, big breasts, navel, nipples, nude
+ <lora:spooningPositionLora_v10:0.75>
+in water, in onsen, outdoors, film grain, professional lighting

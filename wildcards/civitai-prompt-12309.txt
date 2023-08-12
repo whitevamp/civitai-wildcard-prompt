@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>, (vivid colors:1.5), studio quality, soft lighting, (goblin),  <lora:goblin_v0.1a:1>, (v0id3nergy),  <lora:kVoidEnergy:1>

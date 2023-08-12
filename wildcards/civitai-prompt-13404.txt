@@ -1,0 +1,3 @@
+(masterpiece, best quality:1.2), (tsurime:1.2),
+(face focus, face close-up, close-up face:1.2), tsurime, 1girl, souryuu asuka langley, solo, blue eyes, school uniform, looking at viewer, long hair, looking back, tokyo-3 middle school uniform, orange hair, white shirt, from behind, shirt, short sleeves, closed mouth, bangs, two side up, stairs, feet out of frame, white socks, suspender skirt, blue skirt, blue dress, outdoors, dress, hair ornament,
+ <lora:Tsurime:1>

@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2) 1girl, <lora:FGOMelusine:1>  , large breasts, church, ,
+ penis_on_breasts,(1boy), (huge_penis:1.2),(long_penis:1.2),veiny_penis,(veiny_testicles), , looking_at_penis, saliva,  (testicles), solo_focus,penis_awe,  <lyco:PenisOnBreastsLyCORIS:0.7>
+(sliver hair:1.25), white hair, sharp focus, serious, messy long hair, white shirt,, {seductive}, ++, star eyes,

@@ -1,0 +1,1 @@
+upper body shot,female, woman wearing sleek designer bodysuit, casual hoodie with logos,cyber leggings ,cyberpunk scene <lyco:edgNoireHoodies:0.8>  <lora:MG_jijia:1>

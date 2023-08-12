@@ -1,0 +1,5 @@
+(fluorescent colors:1.4),(translucent:1.4),(retro filters:1.4), (fantasy:1.4),  (orange background:1.4),
+(1girl wearing (orange white hanfu:1.4), tang style, blunt bangs, black hair, braid),
+(portrait:1.6), looking at viewer,
+(masterpiece, 8k uhd, HDR, extreme detailed, intricate details, best quality, professional, vivid colors),
+<lora:OC:0.5>, <lora:hanfuTang31:0.5>

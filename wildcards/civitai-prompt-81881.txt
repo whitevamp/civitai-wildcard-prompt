@@ -1,0 +1,1 @@
+absurdres, highres, ultra detailed, 8k, uhd ADDCOMM space plants hanging from the ceiling ADDROW viewport to space  ADDROW 1girl, full body, futuristic pants, long hair, medium breasts, happy, toned, cyber, halo,<lora:HairCensorV1:1.5>,  <lora:Muscle:0.7>,

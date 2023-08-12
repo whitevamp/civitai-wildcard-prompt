@@ -1,0 +1,7 @@
+(masterpiece:1.2, best quality),dynamic lighting, full body,looking downward,
+indoors,sitting on Throne,
+floating, luminous,holding a glowing glass cup,
+1girl, solo,foxy eye makeup, body detail, face detail , (flat chest),glowing pink eyes,arms crossed,smile,
+low ponytail, tied hair, short hair, ((pink hair)),multicolored_hair,streaked_hair,
+glowing skin,three fox tail,((white stockings)), ((purple|white|blue clothes)),garter straps,
+<lora:add_detail:0> <lora:StarRail_Kafka_AP_v4:0.4> <lora:sweetLolita_v10:0.7> <lora:whitestocking:0.6> <lora:眼睛双:1>

@@ -1,0 +1,13 @@
+(8k,  masterpiece, best quality, ultra-detailed)
+, violet theme,fantasy,night,Moonlight at night,Light particles
+, <lora:Night:0.6>
+, 1girl, solo
+, kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face
+, (child:0.5)
+, lime green hair ,glowing hair, glowing eyes
+, Morrigan_Aensland15000
+, <lora:morriganAensland_10:0.6>
+, turning around, looking at viewer
+, (sad:0.5),
+, cold lighting
+, upper body, from side

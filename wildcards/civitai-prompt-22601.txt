@@ -1,0 +1,12 @@
+<lora:breastsout24_rvkwi:1>,breastsout, clothes lift, clothes pull, 
+(8k,  masterpiece, best quality), 
+1girl, solo, cute face, kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face,
+(dark-skinned female), dark elf, 
+huge breasts, long hair, silver hair,  
+nipples, 
+shy, blush, 
+BREAK,
+dirt road,  
+(night, dark, shadow:1.3), 
+standing, 
+looking at viewer, <lyco:huge_breasts_for_short_statureV3:0.4>

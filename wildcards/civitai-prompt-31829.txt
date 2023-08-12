@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 
+1girl,
+(white sheer filigree plunging tied (micro bikini)), (flower hair ornament), shy smile,
+beach, vivid color, <lora:add_detail:1.5>

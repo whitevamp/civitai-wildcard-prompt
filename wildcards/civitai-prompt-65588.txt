@@ -1,0 +1,2 @@
+<lora:full-face_blushConv2D2.5e-5_BF16:1>, blush, embarrassed, girl, 
+black straight hair, maid costume, small tits

@@ -1,0 +1,12 @@
+(RAW photo, 4k, realistic, exquisitely detailed skin), masterpiece, best quality, official art, unity 8k wallpaper, ultra detailed, cinematic look,cowboy shot, best anatomy, natural skin texture, extremely realistic skin texture, finely detailed face, cinematic angle, (cold and blue tone impression)
+1girl, slim body, brown hair, slim legs, (a pair of perfect feet in white pantyhose:1.1), (in a hospital:1.2),narrow waist,white gloves, cleavage, white gloves, hair over one eye, medical eyepatch, surgical mask, cross, nurse cap, nurse, breastplate, sexy, charming, seductive, alluring, maltreat, in a hospital, sitting, dynamic pose, 
+vivid illumination,
+masterful technique,
+harmonious composition,
+cinematic lighting,
+immersive atmosphere,
+exceptional detail,
+stunning visuals,
+<lora:Valentine Skullgirls:0.8>
+<lora:FashionMagazineStyle_v10:0.6:ONLYFACE>
+<lora:epiNoiseoffset_v2:1:DEFACE>

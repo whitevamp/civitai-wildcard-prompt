@@ -1,0 +1,5 @@
+masterpiece, best quality,8k resolution,realistic,((perfect female figure)), mature female, 
+female agent, high society, firearms, black lace dress, lace, stockings, coiffure, chain, white hair, blush, solo, gangster
+4lexb0tez, <lora:cuteGirlMix4_v10:0.2> <lora:fashionGirl_v54:0.2> rfktr_bontrex-150(0.2),eonn(0.3), rfktr_bontrex-150(0.2) <lora:LuisapBladerunner2049_v1:0.1>, masterpiece, best quality,8k resolution,realistic,Nswf,
+1 boy, wizard, magic formations, reflective pillars of light, athletic build, scarf, cape, jacket, boots, casting magic, spells, books, minimalist style, countless evil spirits behind him
+ <lora:turbomale_LoraV6:0.3> <lora:pantybulge_v10:0.3> <lora:prettyBoy_:0.3> <lora:LuisapBladerunner2049_v1:0.1> <lora:epiNoiseoffset_v2:0.5>

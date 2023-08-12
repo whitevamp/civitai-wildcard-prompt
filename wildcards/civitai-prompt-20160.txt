@@ -1,0 +1,3 @@
+<lora:hairdetailer:0> <lora:add_detail:0.5> <lora:copax_charm_eu:0.0> (1girl,3d, photorealistic,masterpiece, best quality, intricate, skin indentation), face surprised, upper body view, posing in a spatial station,
+((see through suit:1.25), skintight suit), zero suit, wide hips, full body, blonde, blue eyes
+ <lora:samus:0.4> <lora:AtomicHips2:0.4> <lora:seethru_2:0.5>

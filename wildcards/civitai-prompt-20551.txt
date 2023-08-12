@@ -1,0 +1,4 @@
+<lyco:ishtartest:0.7> 
+ (best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl, looking at viewer,
+ishtar, ahoge, black bow, bow, black hair, earrings, hair bow, hair ornament, jewelry, long hair, (red eyes:1.5), (small breast:1.2), castle, bikini, sitting king chair, spread legs, from beside,
+symmetry,Symmetrical composition,

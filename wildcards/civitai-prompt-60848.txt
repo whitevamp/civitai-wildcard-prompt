@@ -1,0 +1,10 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:0.8),
+(multiple views:1.4),
+(standing:1.2),(supermodel:1.4),
+(simple background,white background:1.2),
+(schoolgirl_uniform,long sleeve dress shirt,black pleated skirt,black socks:1.2),
+(black_hair),(medium length hair),(wide_hips,curvy:0.8),(flat chest:1),(cleavage:1),
+(mature,milf,35yo:1.2),
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:Cnbeauty4_v1:0.4>
+<lora:breastExpansionLora_v10:0.6>,(breast expansion:1.5)

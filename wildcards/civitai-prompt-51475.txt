@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.1), pxint, tomhol man, detailed eyes, portrait, beautiful, looking at viewer, droplets, Goldenrod and Paua, sparkle, bubble, flowing, with a splash of paint, (abstract:0.8) <lora:abstractPortraits_v1:0.7> <lora:burtonesqueStyleV2Out_v2:0.75>

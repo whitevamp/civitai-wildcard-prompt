@@ -1,0 +1,2 @@
+(GS-Girlish:0.5) <lora:Austin Powers:0.6> Austin Powers, standing in a luxury mansion hall wearing glasses and a dress
+(masterpiece:1.2) (photorealistic:1.2) (bokeh) (best quality) (detailed skin:1.3) (intricate details) (8k) (HDR) (analog film) (canon d5) (cinematic lighting) (sharp focus)

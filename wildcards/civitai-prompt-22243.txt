@@ -1,0 +1,1 @@
+<lora:MengX girl_Mix_v30:0.7>,1girl,  star (sky), scenery, moon, sky, planet, water, standing, from behind, rock, starry sky, red moon, night, space ,zwd,<lora:zwd_v2:0.7> <lora:zhongfenghuaxiyou:0.6>

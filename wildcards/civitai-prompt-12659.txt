@@ -1,0 +1,5 @@
+masterpiece, an extremely delicate and beautiful, extremely detailed, CG, unity, 2k wallpaper, Amazing, finely detail, extremely detailed CG unity 8k wallpaper, huge filesize, ultra-detailed, highres, absurdres, soft light, (ulzzang-6500:1), shukezouma, shuimobysim, traditional chinese ink painting, 
+\\
+(hanfu, tang style), flower, flower petals, peach blossom, 
+\\
+<lora:girlfriendmixV1_v20:0.3>, fashi-g, <lora:fashionGirl_v53:0.4>,  <lora:dreamgirl_v10:0.55>,  <lora:shojovibe_v11:0.25>, <lora:hanfu_v30:0.3>, <lora:Moxin_10:0.3>, <lora:Moxin_Shukezouma11:0.7>,

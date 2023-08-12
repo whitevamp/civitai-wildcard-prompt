@@ -1,0 +1,3 @@
+portrait, (masterpiece:1.1), (highest quality:1.1), (HDR:1.0), <lora:add_detail_v5:1> <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult  woman, freckles, green eyes, ginger blowout hair,
+portrait, solo, (full body:0.6), looking at viewer, detailed background, detailed face, (<lora:Neonpunkai-8:0.4>, Neonpunkai, neon theme:1.1), android, cyborg, mechanical limbs, mechanical eyes,  cables, high-tech,   sleek design,  steel, digital implants,   robotics,  techwear, powered by fire,   bright dark red lights, bioluminescent parts, energy pulse, reflections, neon colors, futuristic cityscape in background, cinematic atmosphere,

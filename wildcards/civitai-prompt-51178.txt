@@ -1,0 +1,9 @@
+occsan
+(tousled hair:1.4)
+(red lips, biting_own_lip:1.4)
+(crepuscular_ray, at dusk, at night:1.4)
+(shirt:1.4), (jeans:1.4), (downblouse, leaning forward:1.3), (scarf around waist:1.4), seethru button-front pullover, (trenchcoat:1.2), (large belt:1.4)
+(sitting in street:1.4), (against wall:1.4)
+(sagging breasts:1.5), (slim, thin, small waist:1.3), <lora:microwaist_03Lora:.5> <lora:FollowmetoHoldingHandsAnd_v1:1> (bf_holding_hands:1.3)
+realistic, best quality, photo-realistic
+8k, best quality, masterpiece, realistic, photo-realistic

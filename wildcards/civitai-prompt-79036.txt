@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), (digital art:1.3), (short Black hair), woman frowning, simple shirt, face profile, (simple bright red background:1.4), (close up portrait, face shot, close angle, only face), by (mika pikazo:1.4) <lora:add_detail:-2>

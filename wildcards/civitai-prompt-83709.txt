@@ -1,0 +1,4 @@
+masterpiece, best quality, absurdres
+<lora:EkuneSideDoggy:0.7>
+<lora:tloz_link_totk-10:0.7>
+<lora:RijuTOTKv2:0.7>

@@ -1,0 +1,2 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) (1girl),floating_hair,glowingeyes,green hair,greeneyes, hatsune miku, halterdress, 
+<lora:animetarot:0.8>, <lora:atdanStyleLora_lk:0.6>, atdan

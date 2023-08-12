@@ -1,0 +1,1 @@
+black and white photo of  m3w1nst34d wearing a vintage 1940s dress, still photo from a film noir, cinematic lighting, chiaroscuro, atmospheric, dark, nostalgic, smoky, 35mm, depth of field <lora:LowRA:0.7> <lora:lora_NeonNight:0.45>

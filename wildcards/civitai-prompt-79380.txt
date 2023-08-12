@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,botw style,1girl,zelda,(black pants:1.3),blonde hair,green eyes,from behind,from below,ass,smirk,mesugaki,(ass on chair),(sitting),(chair:1.3),(looking at viewer), <lora:zelda_botw_v1:0.8>, <lora:MS_AssOnTable_Lite:0.8> , <lora:botw_style_offset:0.8>

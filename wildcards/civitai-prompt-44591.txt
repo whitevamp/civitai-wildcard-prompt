@@ -1,0 +1,3 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed, <lora:realistic:0.3>, <lora:sharpen-soften:-0.25>,
+1 girl, adult german woman, freckles, turquoise eyes, black prom hairstyle,
+(style-swirlmagic:1.0),  solo, half shot, looking up, detailed background, detailed face, (dystopian futuristic theme:1.1) glowing eyes, (time sorcerer:1.1), eternity, mesmerizing,  swirling patterns, clock,   energy,  bloom light aura, clock-face in background, ethereal atmosphere,

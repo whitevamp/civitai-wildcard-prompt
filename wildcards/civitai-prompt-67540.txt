@@ -1,0 +1,2 @@
+<lora:zombie_v1.3:1>>
+1girl, 1boy, zombie, (tongue out, drool, naughty face, rolling eyes, cross-eyed, open mouth, hearts, motion lines:1.2), big breasts, brown hair, (torn blue tank top, tiny black mini skirt:1.2), cleavage, sex, dark, outside, desroyed city street, fire, rubble, fog, fantasy, horror \(theme\), all fours, size difference,, masterpiece, best quality, highly detailed,  <lora:GoodHands-beta2:1> <lora:zombie_v1.3:1><hypernet:furry_3:0> <lora:sxz-jill-valentine-v3:0.6>, zotovalentine, <lora:donaughts:0.3>

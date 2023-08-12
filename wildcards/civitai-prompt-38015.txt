@@ -1,0 +1,11 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, backlighting,
+1girl, solo, (mature female:1.2), upper body, standing, legs apart,
+black hair, long hair, (twintails;1.2), bangs,
+red eyes, thick eyelashes, long eyelashes, looking at viewer,
+evil grin,
+white shirt, short sleeves, crop top overhang, short sleeves,
+bottomless,
+large breasts, stomach,
+eqcok, (large penis, large testicles:1.2), cock sheath, sagging testicles, dark testicles, urethra, straight penis,
+indoors, locker room,
+<lora:eqcok_6000_2repeats_v3:1>

@@ -1,0 +1,6 @@
+(best quality, masterpiece, ultra highres:1.2),  official art, extremely detailed CG unity 8k wallpaper, sharp focus,  intricate detail, 
+1 girl, (standing:1.2),  (oversized_sweater:1.1), <lora:oversized_sweater:0.5>, In bright light, 
+beautiful 16 year old girl posing for full body photoshoot with exposed shoulders, thigh high socks, (white ugly_shoes:1.3), 
+intricately detailed face and eyes, younge face, blush, glistening sweaty skin, dynamic pose, colored eyeliner, cream lipstick, lip gloss, torc earrings, (looking at viewer:1.3), 
+black long hair, The Side Shave,  
+in studio, black_background, bokeh, (cinematic lighting),

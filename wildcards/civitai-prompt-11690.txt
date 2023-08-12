@@ -1,0 +1,1 @@
+assassin woman in a cyberhelmet and bodysuit holding a big rifle, dystopian future, warzone, portrait, <lora:Niji:0.6>  <lora:cyberhelmetv0.7:0.4>  <lora:add_detail:0.5>

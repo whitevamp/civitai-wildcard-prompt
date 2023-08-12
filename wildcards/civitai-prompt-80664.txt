@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, beautiful and aesthetic), 1girl, solo,  extremely detailed, highest detailed,8k photo, realistic, dynamic ungle,haruhi_srf, , white long sleeves shirt and blue collar, blue skirt, yellow ribbon,
+looking at viewer,mini skirt, kneeling, class room,  <lora:HaruhiSerafukuV1.2:0.7> smile, large breast, <lora:add_detail:0.3> from above,

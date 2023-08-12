@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,      <lora:MeruSuccubus:0.8> merusuccubus, (red skin), colored skin, (yellow eyes,glowing eyes), horns, (demon tail), bangs, choker,

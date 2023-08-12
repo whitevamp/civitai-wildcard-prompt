@@ -1,0 +1,1 @@
+drawing bow,, masterpiece,1girl, <lora:ganyuGenshinImpact_offset[ganyu (genshin impact)]:0.6>ganyu \(genshin impact\),

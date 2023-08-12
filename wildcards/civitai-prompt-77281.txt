@@ -1,0 +1,1 @@
+(masterpiece), best quality, illustration, highest quality, (detailed face and eyes:1.1), bright eyes, tan skin, chromatic lighting, by Jeremy Lipking, by teemutaiga, by range murata, cute, detailed background, glossy skin, fair, solo, looking at viewer, outdoors,  <lora:lightV1:0.75>  <lora:Rena_Skyrim:0.75>

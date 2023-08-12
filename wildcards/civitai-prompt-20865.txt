@@ -1,0 +1,6 @@
+(clothes lift:1.3), from below, NSFW, <lora:skirtlift-v4:0.7> skirtlift, 
+<lora:zhongfenghuaxiyou:0.4> zhongfenghua,   <lora:Earth:0.7> earth \(planet\), starry sky,moon light,
+<lora:add_detail:0.4> <lora:LowRa:0.2> <lora:epi_noiseoffset2:0.2>
+(best quality, masterpiece:1.2), (photo realistic:1.2), extreme detail description,
+1girl, solo, full body, medium breasts, dynamic pose, tiara, pleated skirt, miniskirt, elbow gloves, jewelry, brooch, choker, earrings,  sailor collar, hair bow, hairpin, knee boots, (looking at viewer:1.2),  <lora:mercury_v2:0.7> mer1, sailor senshi uniform, (white leotard, blue sailor collar with three white stripes, blue choker, blue skirt with a white puffy belt sat above it, light blue bows at the chest and at the back, blue short heeled knee-high boots with white triangular borders, white gloves with three blue arm fittings at the ends that reach just below her elbows, and a light blue circular gem at the center of her chest bow, short hair, blue hair, blue sailor collar:1.8),,
+<lora:d3x3d-L:0.3> d3x3d,<lora:Pussy:0.4> pussy

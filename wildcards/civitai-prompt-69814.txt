@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed),
+<lora:RimuruTempestV2:0.7> rimuru tempest,

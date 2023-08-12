@@ -1,0 +1,2 @@
+(1girl), (best quality), (masterpiece), (high resolution), (intricate details), (photorealistic), (cinematic light) <lora:SBobHaircut:0.6>
+solo, brown hair, short hair, realistic, lips, portrait, smile, looking at viewer, necklace, closed mouth, simple background, blue eyes, jewelry

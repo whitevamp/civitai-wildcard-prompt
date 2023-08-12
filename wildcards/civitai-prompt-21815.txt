@@ -1,0 +1,2 @@
+<lora:Rackflowerv2:0.8>,<lora:add_detail:0.4>, looking at viewer, 
+Rackflower, blue flower, chibi, 1girl, rainbow color hair, cloud, (colorfull sky:1.2), in garden, bokeh background,, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality

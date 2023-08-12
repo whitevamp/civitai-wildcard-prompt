@@ -1,0 +1,4 @@
+(masterpiece, best quality:1.2), sharp focus, realistic,wide shot, depth of field, dreamy, fantasy, (dynamic lighting:1.2),full body,facing viewer,facefocus,
+1girl,nurse,light pink hair,short hair,(charming blush,alluring red lip),(slim body),medium breast,(full legs:1.2),
+(white nurse uniform:1.4,nurse cap,lace-trimmed fishnet,High heeled boots),unbuttoned clothes,bare collarbone,See-through sexy lingerie(pearl thong,crotchless panties),hair ornament,(choker),jewelry,necklace, earrings, in the hospital,public place,
+<lora:lessUnderwear_v10:0.2>,pureerosface_v1,

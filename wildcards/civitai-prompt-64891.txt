@@ -1,0 +1,1 @@
+dark magician girl, masterpiece, best quality, (1girl), solo, (forest), long hair, blonde hair, blue headwear, wizard hat, spell casting, nature, trees:1.2, motion blur, magic, (moonlight:1.2), chromatic aberration, depth of field, soft lighting, highly detailed face, highly detailed eyes, <lora:darkMagicianGirlLora_1:0.6>, <lora:dpep2 768:0.7>

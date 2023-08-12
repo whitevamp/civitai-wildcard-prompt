@@ -1,0 +1,15 @@
+Aesthetic: ((glitchcore, chaotic, fragmented, distorted, digital aesthetics, internet subculture):1.4)
+BREAK
+Composition: 1girl, solo, (clothes, (wearing clothes, wearing crop top, wearing shirt), perfect breasts, covered breasts, (breasts underneath shirt), cleavage ):0.6, (pretty face, perfect face, perfect eyes, looking at viewer, looking down, view from below, thighs, wedgie, frontal wedgie, crotch, big breasts),, <lora:highlegP:0.5>,  (highlegp:1.1), ((wearing highleg panties, thong, underwear, navel))
+BREAK
+Lighting: Dramatic Spotlight, Theatrical, Captivating
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

@@ -1,0 +1,1 @@
+a photo of ((baby-doge)) <lora:doge:0.9>

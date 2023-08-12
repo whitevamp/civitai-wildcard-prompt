@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.2), extremely detailed, ambient soft lighting, 4K,
+1girl, solo, tomboy, upper body, sitting, spread legs,
+red hair, long hair, high ponytail,
+green eyes, (tsurime:1.2),
+smile,
+naked, highleg panties, cameltoe, (pubic hair peek:1.2),
+large breasts, thighs,
+simple background, white background,
+<lora:highleg panties:1>

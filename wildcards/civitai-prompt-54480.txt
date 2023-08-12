@@ -1,0 +1,6 @@
+crystal eyes, pinky lipstick, shading,
+intricate hair strands,  (separate hair strands),
+alice \(nikke\), pink bodysuit, animal ear headphones, shiny clothes, twintails, latex bodysuit, 1girl, animal ears, bangs, blush, bodysuit, tongue out, fake animal ears, headphones, headset, horse ears, impossible clothes, jacket, large breasts, long hair, long sleeves, lookingdown, pink bodysuit, pink eyes, bedroom background, skin tight, solo, twintails, upper body, very long hair,  white gloves, white hair, (masterpiece:1.3),(best quality:1.4),(shiny skin),(realistic:1.15), (perfect hair strand:0.77), anime hair texture, highlight in eyes,
+(nice latex:1.18), (good zipper:1), (good headphone structure:0.9), (brilliant eye shape:0.5), (many Miscellaneous on twintails:1.1), (scaled twintail:1.14), flawless double-eyelids, (painting:1.48)
+<lora:aliceNikke_v30:1>,
+1boy, penis, <lora:povSquattingCowgirlLora_pscowgirl:0.93>,

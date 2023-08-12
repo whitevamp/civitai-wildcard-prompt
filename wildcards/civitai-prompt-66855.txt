@@ -1,0 +1,4 @@
+analog style, masterpiece, 8k, uhd, hdr, dslr, high quality, film grain, Fujifilm XT3, soft lighting, ring light, studio lighting, dark shadows, Wide angle Environmental shot, raw digital landscape photo of a 
+desolate post apocalyptic city, crumbling structure, trash, litter, lifeless, mist, fog, movie poster, cinematic, movie still,
+trending on artstation, sharp focus, studio photo, intricate details, highly detailed
+ <lora:LowRA:0.6> <hypernet:LuisapSciFiHard_v1:1>

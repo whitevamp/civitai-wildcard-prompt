@@ -1,0 +1,7 @@
+(masterpiece, High Quality, best quality:1.3), colorful, vibrant colors, realistic shadows, ambient occlusion, highly detailed, hentai, 4K, trending on pixiv, uncensored,
+(odagiri naomi in all fours is having anal sex with male:1.2), (side view:1.1), train background,
+sidedoggystyle, doggystyle, (1boy, large penis, taken, anal, sex:1.1), blush, sweat, (horny:1.05), ahegao,
+purple hair, long hair, purple lipstick, (mole:0.8), makeup, eyeshadow, ultra detailed hair, detailed face, purple eyes, perfect eyes, perfect face, earrings,
+naked,
+(mature female, 40yo:1.1), (curvy:1.1), milf, huge breasts, huge ass,
+<lora:Odagiri:0.9>, <lora:goodhandsBeta2.L2r5:1>,  <lora:add_detail:1>,  <lora:EkuneSideDoggy:0.6>

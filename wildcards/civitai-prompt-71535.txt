@@ -1,0 +1,1 @@
+bmb-fc,  <lora:bimbo-fc-1.6a:1>, sunny, bodycon dress, 1girl, face, woman , <lora:bimbo-fc-1.6a:1>

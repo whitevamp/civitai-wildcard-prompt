@@ -1,0 +1,6 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic), detailed, extremely detailed, ambient soft lighting, 4K, perfect eyes, perfect face, perfect lighting,
+1girl, black hair, short hair, bob cut, medium breasts, nipples, completely nude, on side, cuddling handjob, 
+<lora:cuddling_handjob_v0.1b:1>,
+1boy, penis, on back, 
+fisheye, pov, looking at viewer, 
+hand, 5fingers, large penis, erection, grabbing penis, <lyco:GoodHands-beta2:1.0>

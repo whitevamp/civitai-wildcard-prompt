@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed), scenery, mountain, cloud, tree, forest,birds,sky,river,waterfall,bridge,flowers, <lora:Concept_scenery_background:0.7>,concept,no humans,eagle,

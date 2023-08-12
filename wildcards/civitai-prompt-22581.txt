@@ -1,0 +1,1 @@
+onoff, side-by-side photo of Japanese woman, in winter outfit black thermal pants, (snowboard:1.4), on snowy mountain, a perfect photo, (best quality) <lora:onOff3:1.3> <lora:DatBush:0.2>

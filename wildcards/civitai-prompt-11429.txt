@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra-detailed, illustration, an extremely delicate and beautiful,nsfw,see through,
+1girl, solo, light smile,cowboy shot, full body,(large breasts),
+<lora:add_detail:0.5>,<lora:epi_noiseoffset2:2>,
+ <lora:NakedKappougiV1:1>,naked kappougi,kitchen room,(Cooking),from behind

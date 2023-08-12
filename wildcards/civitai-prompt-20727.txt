@@ -1,0 +1,2 @@
+(AliceWonderlandWaifu:1), cute, (wide hips:1.2), looking at viewer, light smile, (mature:1.2), plump, blush, nsfw, (3d:0.7), arms behind back, slingshot swimsuit, blue and white one-piece swimsuit, standing, cowboy shot, blond pubic hair, bare shoulders, 
+<lora:Aliceinwonderland_character-20:0.7> <lora:micro_slingshot_v1:0.9> <lora:female pubic hair3:0.7>

@@ -1,0 +1,4 @@
+fantasy,illustration,
+1girl,
+Soft Illumination, Gentle Shading, Subtle Depth,
+<lora:dunhuang_20230625021029:0.7>

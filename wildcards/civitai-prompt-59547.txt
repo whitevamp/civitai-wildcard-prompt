@@ -1,0 +1,1 @@
+best quality, intricate details, highres,(beautiful detailed water:1.4),(hanfu, tang style),<lora:hanfu_v30:0.45>,yellow eyes,<lora:eyesgenLoraWIP_v1:0.15>,(1girl in glass jar:1.1),<lora:girlsInGlassJars_v3:0.85>

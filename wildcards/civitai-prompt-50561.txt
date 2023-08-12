@@ -1,0 +1,4 @@
+masterpiece, intricate detail, (perfect face, beautiful face, beautiful eyes), perfect female body, narrow waist, wide hips,
+
+(mature female, 30s), huge breasts, breasts out, (disdainful face:1.4), stand, from below, crowded, tight mini skirt, 
+ <lora:taiwanDollLikeness_v10:0.2>

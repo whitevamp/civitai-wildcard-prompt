@@ -1,0 +1,2 @@
+<lora:pixel:0.85>((pixelart))  1girl, solo, black braid hair,  simple background,  black background, portrait
+blush,, (black double braids hair:1.3),white long-sleeves shirt, navy blue bowtie ,navy blue pleated skirt, (stu_matare), white sock, black school shoes, <lora:stu_matare:0.8>

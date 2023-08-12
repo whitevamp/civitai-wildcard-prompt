@@ -1,0 +1,7 @@
+extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate, (zentangle, mandala, tangle, entangle),(entoptic patterns,multi-dimensional,multicolored),
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, fantasy BREAK
+(((hundreds of skeletons:1.4))) BREAK
+A beautiful female celestial jumps down from the sky,(hundreds of skeletons:1.4) in background BREAK
+(((hundreds of skeletons:1.4))) BREAK
+(((hundreds of skeletons:1.4))),
+<lora:GPTS4 dreamwave full_478773:1> <lora:add_detail:1> <lora:zhongfenghuaxiyou-000018:0.8> <lora:Smoke:1>

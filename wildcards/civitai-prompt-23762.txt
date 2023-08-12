@@ -1,0 +1,2 @@
+(masterpiece:1.4),(best quality:1.4),
+ &lt;lora:other_multiple penises surrounded by penises:0.9>,1girl, (multiple penises:1.0), (surrounded:1.0), (too_many:1.0), (multiple boys:1.0), ejaculation, facial, &lt;lora:character_orihime inoue_bleach:0.8>orihime,hair ornament,

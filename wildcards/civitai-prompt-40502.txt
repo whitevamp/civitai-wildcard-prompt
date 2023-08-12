@@ -1,0 +1,1 @@
+(masterpiece:1.43), (absurdres:1.49), (realistic, photo-realistic:1.37), (hires:1.39), (8k:1.39), (best quality:1.39), (Deadpool:1.1), sliding down a slide, playground, dynamic lighting, sky, detailed background, detailed hands, <lora:add_detail:1>

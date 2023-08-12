@@ -1,0 +1,1 @@
+<lora:SephirothFinalFantasy0:0.9> Sephiroth (Final Fantasy), Sephiroth, laughing, ray of light, forest,  <lora:riding_a:0.75> 1 man riding on a giant yellow bird, long silver hair ,   forest, river, ray of lights, ((running)), <lora:Chocobo_FF:0.9> chicken, bird, Chocobo, running

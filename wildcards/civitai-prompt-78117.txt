@@ -1,0 +1,3 @@
+oda_non, 
+ <lora:odanon-v1.5newcraft-lora-naivae-128dim-block:0.71> nsfw,
+bottomless, hanging_on, tree, branch, spread_legs, shibari,, insane details, intricate details, hyperdetailed, ultra detailed, extreme detailed, highest detailed, high_detail, colorful, beautiful, hdr, photorealistic, highres, ultra_high_res, photography, aesthetic, extremely_delicate,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear,, 1girl, solo, wide_shot,

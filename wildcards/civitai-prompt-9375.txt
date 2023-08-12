@@ -1,0 +1,2 @@
+cat, fullbody,1 girl,
+(pastel color:1.5),(cute illustration:1.5),(watercolor:1.2),white back ground,

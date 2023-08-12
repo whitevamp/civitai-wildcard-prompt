@@ -1,0 +1,6 @@
+(((1boy))) handsome (((male))), very detailed flawless face, detailed open eyes, very handsome, epic, heroic, (muscular) bodybuilder, ((big muscles)), ((large pectorals)). Long hair, ((happy smile)).
+(nude) (completely naked), (large penis) glans frenulum (large testicles), ((male pubic hair))
+((facing the viewer))
+Made of blue fiery smoke <lora:Smoke:1>, beautiful disney style, cinematic rim light, dramatic pose, beautiful, professional, highly detailed, clear, sharp, trending on artstation, art by joe fenton and stanley artgerm and tom bagshaw
+<lora:BulkedUpAIR1.5:0.2>
+<lora:Smoke:1>

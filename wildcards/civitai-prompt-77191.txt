@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.4), absurdres, [:intricate details:0.2], hyperrealistic, photography, kkw-ph1,
+(1man,  old  male:1.2), frail,  teal eyes, ginger hair, long hair, 
+character focus, portrait, solo, (full body:0.6), looking up, detailed background, detailed face, (<lora:solarpunkai_v20:0.6>, SolarpunkAI, solarpunk theme:1.1), smile, botanical researcher,  roots, mandrake,  magical plants,  blooming flowers, glowing plants,  floating plants, magic,    green color scheme, lotus, wild growth, herbs,  mushrooms,  science, botanical laboratory in background,  magical atmosphere,
+<lora:zaunT_zaunV1:0.3>,

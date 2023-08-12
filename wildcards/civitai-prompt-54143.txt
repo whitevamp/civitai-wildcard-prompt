@@ -1,0 +1,1 @@
+painting, noise, realistic,photo, 8k masterpiece, absurdres, moody lighting ,woman, <lora:sorayamaStyleHajime_v11:0.8>,Sorayama Style, (mettalic skin),  shiny skin, android, smiling, portrait, closeup, <lora:eyepatchBikini_v10:0.75>, eyepatch bikini

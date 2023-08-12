@@ -1,0 +1,7 @@
+((Masterpiece)), nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, 1girl,solo,realistic, photorealistic,ultra detailed, detailed background
+
+flat breast, very_long_hair, purple eyeshadow, Black lip gloss, expressionless, black feather wings, arms behind back, star \(sky\), <lora:lightAndShadow_v10:0.7>, starry, strry light, night, colorful, cloud
+diamond stud earrings, long straight black hair, hazel eyes, serious expression, slender figure, wearing a black blazer and white blouse, standing against a city skyline at night
+upper body, looking at viewer, realistic, extremely detailed hair, intricate detail, masterpiece, best quality,
+
+iu1, <lora:IU:1>

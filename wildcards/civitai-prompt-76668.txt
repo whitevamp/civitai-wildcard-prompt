@@ -1,0 +1,4 @@
+(2boys) (two men) ((front view)), (big muscles), ((large pectorals)), (beard_stubble), epic, heroic, 25 years old, slim waist and hips, ((dark skin)), (realistic face), (realistic open eyes), (detailed facial features). One is (((nude))), then other is wearing a suit. They are embraced, (((kissing))) in a formal ballroom.
+Masterpiece, highly detailed, high quality, masterpiece, volumetric light, vibrant colors.
+<lora:frenulum_w2:0.3>
+<lora:128dimTurbomaleV7_128:1>

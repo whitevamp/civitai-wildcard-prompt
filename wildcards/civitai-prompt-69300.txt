@@ -1,0 +1,11 @@
+(best quality, masterpiece:1.5), (RAW photo, photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, taking shower with water on the body,
+light blonde hair, short hair, bun hair, 
+medium breasts, bustier, 
+lace elbow gloves,
+panties, pantyhose, 
+indoors, luxurious hotel, 
+rim lighting, 
+full body,
+best lighting, detailed background, detailed shadow, sharp focus, 
+[<lora:sd-No.405v2-000002:0.25>:<lora:sd-No.162-000014:0.5:OUTD>:0.2]

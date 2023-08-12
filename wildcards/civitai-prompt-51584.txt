@@ -1,0 +1,4 @@
+(Best Quality:1.6), (Masterpiece:1.2), HighRes, Detailed, Intricate, Absurdres, Side-Shot,
+(Detailed Hotel Bar:1.25),
+("(Beautiful Goddess:1.2), Standing, Sexy Pose, (Large_Breasts:1.1), black (virgin killer sweater), Loose Billowing Top, Long Blonde Hair, Sideboob "), ,
+("(Rich Colors:0.6), Realistic, Lifelike Texture, Dramatic, Subsurface Scattering, HDR, , Art by Grzegorz Rutkowski, Joe Madureira, Artgerm and Simon Bisley"),  <LoRA:VirginKillerSweater_v12:1>,

@@ -1,0 +1,3 @@
+little girl, student, hairband, excited, walk, in autumn, over the sea, in a meadow
+ <lora:blindbox_V1Mix:1>,<full body, chibi>,
+best quality, masterpiece, highres,extremely detailed CG unity 8k wallpaper,unreal engine rendered

@@ -1,0 +1,22 @@
+jinxlol, solo, blue tattoos, sparks, 
+arms between legs ,sitting indian style, spread legs,  socks
+( bright blue hair:1.5), (extremely long braids:1.3) , 
+petite, focus,, looking at viewer,   sitting, panties, 
+bombs, (grenades:1.2), in the background, (surrounded by missiles:1.2),
+black crop top,
+ankymoore,  ( illustration:1.3),
+,ankymoore, posing,
+flat breast, flat chest, straight hair,  looking at viewer,   (masterpiece), , <lora:ankymoore:0.65>
+solo, beautiful face,
+(dynamic angle:1.2),
+[(
+smirk, grin,
+makeup, heavy eyeliner,
+neon, Neonpunkai, neon art, neon symbols, (welding spatter:1.2), graffiti, 
+(best quality:1.2), absurdres, , (masterpiece, best quality),Cara Delevingne, 
+absurdres,   best quality, face focus, (8k, masterpiece:1.2),
+bloom,accent lighting, film grain,
+simple background, (blurry background:1.6),  (bokeh:1.3),
+<lora:add_detail:0.2>  <lora:FilmG2:0.6> , <lora:uv:0.55><lyco:Cara Delevingne:0.7><lora:Neon_Babes:0.2>   <lora:Neonpunkai-8:0.5>
+):8]
+<lora:JinxLol:0.87> <lora:piperperrimeme_v2.0:0.67> <lora:LowRA:0.2>

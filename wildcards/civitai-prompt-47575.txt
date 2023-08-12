@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, mature female, long hair, colorful streaks, pompadour cut, face focus, close-up, blushing, thick eyelashes, eyeshadow  <lora:incomingKissConcept_v10:1>  <lora:fellatrixStyle_v1:0.6>

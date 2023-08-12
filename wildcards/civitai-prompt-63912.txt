@@ -1,0 +1,1 @@
+1 girl, Asuka Langley, masterpiece, best quality,  <lora:popularTrainedOnTheMost_v10:1>, future city,  <lora:asukaLangleySohryu_v9:1>

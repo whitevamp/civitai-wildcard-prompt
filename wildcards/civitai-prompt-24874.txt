@@ -1,0 +1,1 @@
+(masterpiece, best quality,detailed, absurdres,high resolution:1.3), <lora:YaeMikoFox:0.75>, (girl holding YaeMikoFox:1.1), closed eyes, <lora:PachaMeme:1> , (PachaMeme:1.1)

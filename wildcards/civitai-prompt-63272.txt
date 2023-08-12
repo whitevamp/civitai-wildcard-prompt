@@ -1,0 +1,1 @@
+animal, bear plaiyng lute \(instrument\), snow, winter, forest <lora:sxz-slavic-fantasy:0.7>

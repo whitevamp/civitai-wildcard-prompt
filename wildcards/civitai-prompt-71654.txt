@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),1 girl,looking at viewer,cute face,brown hair,slender body, sexy office lady,office uniform,micro skirt,panty shot<lora:Sexy office lady:0.7> <lora:GoodHands-beta2:1>

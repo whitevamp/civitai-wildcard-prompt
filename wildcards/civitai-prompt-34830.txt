@@ -1,0 +1,1 @@
+best quality, masterpiece, cyberpunk, nsfw, <lora:mechanicalRestraints_20230228:0.4>, mechanical_restraints:1.1, (1girl, nude,anime), <lora:crazyExpressions_crazyExpressions:0.6>, crazy eyes

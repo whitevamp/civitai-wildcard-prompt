@@ -1,0 +1,1 @@
+masterpiece, best quality, outdoors,<lora:cc-000010:0.8>,crowd,cosplay,comic con,(no humans:1.4)

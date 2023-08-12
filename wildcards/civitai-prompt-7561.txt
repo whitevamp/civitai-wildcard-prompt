@@ -1,0 +1,2 @@
+1girl, <lora:aoyamahikaru_lora-05:0.85>, (oversized_sweater:1.3), colorful oversized_sweater, (cleavage)
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((sitting on a bed))), outside,  <lora:oversized_sweater:0.5>

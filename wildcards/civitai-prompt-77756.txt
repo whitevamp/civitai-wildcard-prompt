@@ -1,0 +1,10 @@
+(8k ,ultra detailed,raw photo:1.2),(realistic:1),(photorealistic:1),
+(1male holding fire extinguisher:1.2),(standing),(portrait:1.2),(40yo:1.2),
+(teasing smile:1.4),
+(attractive,absurdres:1),
+(indoor,lab,black smoke,smoke,fire,beaker,flask,science equipment,explosion,fire:1.2),(black soot:1.4),
+(t-shirt,black pants,shoes:1),(lab coat:1.3),
+(exploded hair,beard:1),(white hair),(caucasian:1.3),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.5>,
+ <lora:Fonglets_Exploding_Clothes:1>,(exploding clothes,torn clothes,ripped clothes:1.2)

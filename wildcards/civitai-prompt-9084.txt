@@ -1,0 +1,3 @@
+((best quality, masterpiece)),
+strong shadows,  1 girl, ((chibi):1.2), adult (elven:0.7) woman, ruby eyes, copper beach waves hair, ((messy hair)), white hair,  (style-swirlmagic:0.7), looking down, solo, half shot, detailed background, detailed face, (<lora:WitchcraftPunkAI:0.5>, WitchcraftPunkAI theme:1.1) evil summoner, tattered red magical robes, determined expression, crimson color scheme, dark purple light, library, bookshelves, glowing magical text, evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by purple lightning  <lora:kVoidEnergy:0.3>, casting spell, cyan arcane symbols, corrupted by eldritch power, power-hungry eyes,
+<lora:more_details:0.5>  <lora:3DMM_V11:1>

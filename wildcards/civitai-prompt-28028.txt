@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  <lora:GoodHands-vanilla:1>, 1girl, sheer fishnets crop top,  long hair, <lora:sheer-09:1>, see-through, nipples,

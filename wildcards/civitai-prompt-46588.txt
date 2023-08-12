@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+1girl, white hair,  blue eyes, sharp eyes,messy hair, blue highlights, sharp teeth,
+
+blue hoodie, shark teeth design, bare legs, hair ornament,
+
+gawr gura,<lora:gawr gura:0.4>

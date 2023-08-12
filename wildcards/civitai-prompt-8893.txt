@@ -1,0 +1,2 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres,  superman in space flying to earth, rushing to earth, 1cat, (Chartreux:1.2),  Chartreux meteor, meteor, space, universe, earth,  smoke_trail,  flying cat,
+<lora:Chartreux_38-000002:0.7>, <lora:c4ttitudeflexver:0.45>

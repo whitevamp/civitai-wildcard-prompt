@@ -1,0 +1,1 @@
+photography of (Romanian woman1.3), 30 years old, pink (Micro Braids:1.3), wearing leggins and tshirt, sexy attire, (looking at viewer:1.2), (in warehouse:1.3), hyper realistic texture human skin, flat lighting, (soft saturation:1.2), analog style,<lora:add_sharpness:0.7>, <lora:photoblend:0.4>, <lora:epiNoiseoffset_v2-pynoise:0.6>

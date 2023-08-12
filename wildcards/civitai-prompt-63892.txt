@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+choker minidress, 1girl, pale, fair skin, bedroom, huge breasts, face, eyes, (red long hair), red lipstick, masterpiece, best quality, high heels, full body, sitting on a sofa, beautifully color-coded, heels, makeup, 
+intricate,
+skin pores, detailed skin
+(realistic:1.2), UHD, global illumination, high contrast  <lora:krekkovStyleLora_v10:0.5>  <lora:animeLineartMangaLike_v30MangaLike:0.5>  <lora:choker_minidress_v1.0:1>

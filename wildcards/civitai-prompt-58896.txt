@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,best illustration, best shadow,intricate,depth of field,horror,
+1girl,((dirty,sweat,scar)),breasts,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality,( film grain:1.4), Fujifilm XT3, <lora:liYitongChinese_v10:0.7> <lora:koreanDollLikeness_v10:0.3>

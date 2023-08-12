@@ -1,0 +1,3 @@
+An amazing illustration featuring a covert female agent behind the wheel of a high-performance racing car on a moonlit city street, wearing  a sleek black suit, open suit, cleavage,
+towering skyscrapers , blurry, looking to the viewer, (wheel:0.9)
+<lora:Detail Tweaker:1>

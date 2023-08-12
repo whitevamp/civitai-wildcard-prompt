@@ -1,0 +1,9 @@
+best quality, intricate details,(((from above, lying on table)))
+
+
+1girl, long hair, red hair, messy hair, red highlights,  blue eyes, sharp eyes,
+
+choker, 
+
+hakos baelz,   <lora:hakos baelz:0.8> 
+ <lora:reverseTranslucent_v10:0.8> reverse bunnysuit,

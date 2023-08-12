@@ -1,0 +1,13 @@
+sfw,realistic,photo, (glossy skin:-0.4), ,highkey, (cinematic:1.3),(brown:-0.3),
+yellow,pink,pink,
+(full-figured:1.2) ,gothic gal,
+translucent latex bodysuit,
+latex pleated miniskirt,
+latex fake leather jacket,
+long Maroon hair, hair bun parting,
+modern stylish cozy coffee shop,sharp focus,
+sunbeams, from below, dutch angle,
+coffee table,chairs,armchairs,coffee tables,
+(bustling atmosphere:1.3) ,(smile:0.3) full lips,
+chatter ,clinking cups, aroma of freshly brewed coffee ,baked goods, baristas, customers, fraggles,wrinkles
+ <lora:Real BBW V1:0.8>  <lora:add_detail:0.3>

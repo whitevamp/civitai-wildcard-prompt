@@ -1,0 +1,4 @@
+(RAW photo, 4k, masterpiece, official art, unity 8k wallpaper,high res, realistic, extremely intricate)artistically refined,captivating beauty, immersive atmosphere, moody lighting,(cinematic light)((night))(((low key,dark scene,dimly lit))),((soft lateral lighting:1.4))
+(from side:1.3)
+1girl,solo,Style-Glass,(medium breasts, narrow waist:1.2),in a chinese bedroom,chinese window, (mirror symmetry:1.4)(putting on makeup in front of a mirror:1.4)(chinese traditional red dress,red veil:1.2)(wear like a chinese bride), a chinese wedding,lanterns,red candles,
+<lora:LowRa:0.5>

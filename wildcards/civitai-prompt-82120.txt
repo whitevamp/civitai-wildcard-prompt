@@ -1,0 +1,17 @@
+(masterpiece, best quality:1.4),
+
+1girl, solo, standing, (red skin:1.2),
+
+long hair, black hair, horns,
+
+green eyes,
+
+pelvic curtain, bra, armor, pauldrons, gauntlets, holding sword,
+
+eqcok, (flaccid, huge penis, huge testicles, cock sheath:1.2),
+
+cliffs, (black sky, dark, thunder clouds, green lightining:1.3), (green thunder, green lightning:1.2),
+
+<lora:EredarFemFut:1>
+
+<lora:NoiseOffset:2> <lora:Flaccid Horse Penis:1>

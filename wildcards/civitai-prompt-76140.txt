@@ -1,0 +1,1 @@
+portrait action shot of beautiful man pedro pascal wear samurai armor <lora:samuraiLoraV01:1>, japan interior, 24mm,4k textures, soft cinematic light, highly detailed, sharp focus, hyperdetailed, low contrast, dim colors, exposure blend,(dusty:1.3),volumetric lighting, full body character art, brown eyes  <lora:pedropascal1:0.7> <lora:epi_noiseoffset2:1.2>

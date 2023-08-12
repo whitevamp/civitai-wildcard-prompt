@@ -1,0 +1,15 @@
+Aesthetic: ((science fiction, futuristic, speculative, imagination, advanced technology, otherworldly):1.4)
+BREAK
+Composition: <lora:UnderboobV1:1> 1girl, (wearing shirt, shirt, underboob), ((a woman in a underboob and a yellow tie around her waist)), standing , view from below , pretty face, perfect face, perfect eyes, big breasts,
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

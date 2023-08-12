@@ -1,0 +1,9 @@
+(1girl:1),(kawaii:1),(nogizaka girl:1),(cute girl:1),(pretty girl:1),(perfect idol:1),(fair skin:1),(perfect body:1),(athlete:1),(nude:1),(curvy body:1),(model:1),(large breasts:1),(incoming kiss:1),(looking at viewer:1.3),(ultra high resolution:1.2),(best quality:1.2),(masterpiece:1.2),(realistic:1.2),(photo realistic:1.2),(professional lighting:1),(professional photo:1.1),(perfect anatomy:1),(sharp focus:1),(highly detailed:1.1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1)
+BREAK
+(extremely detailed eyes and face and skin:1.3)
+BREAK
+This bust-up shot should emphasize her face and upper body. She has a confident expression, with bright, lively eyes and a mischievous smile. Her hair is styled in an eye-catching, edgy manner, featuring a combination of vibrant colors like neon pink, electric blue, and lime green. Feel free to incorporate asymmetrical elements or any other unique details that complement her style.
+For her outfit, she wears a black leather jacket with studs and patches, giving off a rebellious vibe. Around her neck, she has a few layered silver chains, including a pendant shaped like a guitar pick. Her makeup is bold, with dark eyeliner and vibrant lipstick that matches the colors in her hair. She may have some small ear piercings or other facial accessories to enhance her rock-inspired look.
+The background can be kept relatively simple, perhaps with a splash of graffiti or abstract designs that match the overall aesthetic. The lighting should enhance her features and create a dynamic, energetic atmosphere.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lora:add_detail:1>

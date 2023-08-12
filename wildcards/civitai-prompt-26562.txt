@@ -1,0 +1,4 @@
+RAW photo of a 21yo girl standing in a minimalistic room wearing simple bra and panties, high ponytail, (tilted head),
+slender, thin, (very busty), (dynamic posture, hand on heap), (cameltoe:0.9), thin thighs, (thigh gap), (beautiful detailed hands), natural skin, natural light,
+beautiful award-winning portrait photo, professional colorgrading, 8k uhd, high quality, film grain, Fujifilm XT3,
+<lora:skintexturedreamlike_Lora300:0.6> , <lora:Analog_Diffusion:0.5>

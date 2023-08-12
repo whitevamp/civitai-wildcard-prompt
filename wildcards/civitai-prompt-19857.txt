@@ -1,0 +1,1 @@
+(AS-MidAged:1.3),(GS-Masculine:1.2),((best quality, masterpiece)),1man,chest hair, (monk:1.3), (bald),(asian),  muscular, giant,   <lora:add_detail:0.7>

@@ -1,0 +1,1 @@
+beautiful, (masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, knee socks, cat ear headphones, makeup, gamer girl, t-shirt, ((torn clothing)), arms behind back, smile, slight smile, goth girl, goth makeup, <lora:(Direction) Goth LoRA:0.75>

@@ -1,0 +1,10 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,night,
+(1girl),,extremely beautiful face,skinny body,long legs,large breasts, From photo reference,salmonskin,
+stand,      ,STEWARDESS,RED UNIFROM,split-color_hair,collar,full body, shoes,earclip,
+depth of field,
+The background is a bustling street with cars, buses, and bikes lighting up the road,
+There are shops, restaurants, and cafes on both sides of the road, some of them still open and inviting,
+People are walking, talking, and enjoying the night life,
+The sky is dark and the stars are twinkling,
+It is a lively and charming scene,looking at viewer,
+, PANTYHOSE <lora:russianStewardess_v10:1>

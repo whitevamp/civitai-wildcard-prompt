@@ -1,0 +1,5 @@
+(realistic:1.4),(masterpiece:1.2), (best quality:1.2),looking at viewer,(detailed background),(linear perspective:1.3),(cowboy shot),((absurdres)),((studio theme:1.3)),((dim light,volumetic light)),(linevichit background),(linekanok background)
+,(1girl),(solo),long hair,(linevichit design:1.3),linekanok style armor,linevichit designs,drawing of a leaf,((linekanok tattoo:1.4)),(from back),(back tattoo),((dramatic pose in art studio)),indoor,((see-through skirt)),((see see-through:1.35))
+,(intricate details:1.1),
+,8k,uhd,professional art,official art,(cross processing) 
+<lora:linevichit3-000006:0.85>

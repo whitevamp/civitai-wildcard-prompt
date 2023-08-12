@@ -1,0 +1,2 @@
+1girl, bare_tree, black_hair, branch, bush, day, earrings, forest, grass, hair_ornament, hairclip, log, long_hair, nature, outdoors, plant, pond, river, rock, scenery, sitting, soaking_feet, solo, sunlight, tree, water
+ <lora:forestlightV1-000008:1>

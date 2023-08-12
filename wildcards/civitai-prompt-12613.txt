@@ -1,0 +1,7 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,solo focus, 
+
+1girl,floating,on back,  (falling:1.3),falling_blur,<lora:falling_blur-10:0.42> ,(solo:1.3),(from below:1.2),midair,(depth of field:1.3),
+
+<lora:lowRA:0.5> ,dark theme,evil,crush,dynamic,crazy,motion,(surreal:1.3)(,floating objects:1.3),books,surrending,susbending
+Negative prompt: easynegative,bad-hands-5, lr,(monochrome:1.2),facial mark, facial tattoo,border,frame,(pantyhose),(low quality:1.3),bad artist's work,ground,(on ground:1.3),(2girls:1.3),
+Steps: 24, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3885471310, Size: 1024x1536, Model hash: cbfba64e66, Model: CounterfeitV30_v30, Denoising strength: 0.63, Clip skip: 2, Tiled Diffusion upscaler: R-ESRGAN 4x+ Anime6B, Tiled Diffusion scale factor: 2, Tiled Diffusion: "{'Method': 'MultiDiffusion', 'Tile tile width': 96, 'Tile tile height': 96, 'Tile Overlap': 48, 'Tile batch size': 8, 'Upscaler': 'R-ESRGAN 4x+ Anime6B', 'Upscale factor': 2, 'Keep input size': True}", ControlNet 0: "preprocessor: tile_resample, model: control_v11f1e_sd15_tile [a371b31b], weight: 0.85, starting/ending: (0, 1), resize mode: Crop and Resize, pixel perfect: True, control mode: ControlNet is more important, preprocessor params: (512, 1, 64)"

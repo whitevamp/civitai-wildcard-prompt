@@ -1,0 +1,6 @@
+onsen, facial hair,
+1man, masterpiece, best quality,
+muscular male, body builder, mature male, hairy body, short hair, fade haircut,
+bath towel, see-through, wrapped a large white towel,
+depth of field, messy, <lora:add_detail:0.5>
+<lora:beautifulDetailedEyes_v10:0.2>, detailed eyes,beautiful eyes,

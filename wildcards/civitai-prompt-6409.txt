@@ -1,0 +1,5 @@
+3DMM, sadcatmeme, sad polar bear, table ,masterpiece, best quality, highly detailed , <lora:volibearV1:1>
+penis, cucumber, banana, food, food, give me more food
+<lora:multiple_insertions_v0.2:1> a 1girl,multiple insertions
+<lora:sadcatmeme:0.7>
+<lora:3DMM_V7:1>  

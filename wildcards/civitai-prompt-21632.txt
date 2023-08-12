@@ -1,0 +1,2 @@
+(alice margatroid: 1.5), ((touhou, saree, bindi, jewelry, necklace, cinematography, chiaroscuro, feminine, exotic beauty, european girl)),
+action, dynamic, adventure, motion blur, large breasts, long hair, hair flower, bangs, happy, enjoying, shiny skin, fit, athletic, <lora:shinyskin_v7:0.2> <lora:add_detail:0.7>

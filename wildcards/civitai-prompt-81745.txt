@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (fractal art:1.5), highest detailed, super detailed, soul card, <lora:soulcard:1>, (light streaks), (dynamic streaks, luminous trails:1.2), (flower), (fish), (chandelier), (star), (polygon), <lora:GlowingRunesAI:1>, (GlowingRunesAI_golden:0.5), (GlowingRunesAI_purple:0.5), <lora:add_detail:1>

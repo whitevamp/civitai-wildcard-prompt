@@ -1,0 +1,2 @@
+1girl, looking at viewer, (photorealistic, realistic , surreal ), (best quality, highres, 8k, raw, realistic, masterpiece, ),
+<lora:LowRA:0.3> <lora:epi_noiseoffset2:0.3> <lora:add_detail:0.3>

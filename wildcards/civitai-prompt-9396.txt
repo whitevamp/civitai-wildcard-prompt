@@ -1,0 +1,1 @@
+Shinsengumi Haori,large battle (mecha:1.4) cyborg wearing (robe:1.2),cape,sci-fi,(battlefield:1.2) background,<lora:Mecha:0.8> <lora:Shinsengumi_Haori:0.55> <lora:NijiExpressV2:0.2> fcPortrait

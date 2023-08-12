@@ -1,0 +1,2 @@
+masterpiece, \(high, top, insane, extreme, perfect, Professional\)_\(quality, resolution, details, Image_sharpness\), intricate, high_\(quality_textures, resolution_textures\), absurdres, sharp details, award_winning, \(perfect, beautiful, harmonic\)_colours_\(scheme, palate, combination, composition\),
+1girl, [silver hair|pink hair], [african|eskimo], dark skin, playing piano, (very long hair:1.2), golden dress, Haute_Couture, designer dress,  reception, luxury, sitting, <lora:Haute_Couture1.11:1>,  <lora:very_long_hair:0.5>

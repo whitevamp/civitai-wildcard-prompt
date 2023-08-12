@@ -1,0 +1,6 @@
+(masterpiece, best quality, ultra detailed), extremely detailed CG unity 8k wallpaper, (best illumination, best shadow, an extremely delicate and beautiful), absurdres, 
+street corner, 1girl, solo,  
+long hair, light brown hair, yellow eyes, 
+ low twintails, school uniform, pleated skirt, ribbon, halo, bag, white panties, 
+squatting,
+<lora:BlueArchive_AjitaniHifumi_v1:0.7>,

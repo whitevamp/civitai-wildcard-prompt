@@ -1,0 +1,1 @@
+1 boy,smile,black lip,pout.kiss, full body,lip,mustache,closed mouth, <lora:kisspout-000006:1>

@@ -1,0 +1,4 @@
+1girl,solo,very long hair, 
+outfit-yui,standing,blush,embarrassed, 
+huge breasts,indoor,bedroom,hand on own chest, 
+ <lora:OutfitYuiCeremonial:1>,   <lora:char-kyaru-gn:0.8>,cat ears, karyl \(princess connect!\), navel,white skirt,white panties,

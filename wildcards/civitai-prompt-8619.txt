@@ -1,0 +1,9 @@
+(front view:1.6).
+(bl8ckIC), Black male. Very detailed flawless masculine handsome face, detailed open eyes, heroic, bodybuilder, (big muscles), (big pectorals), narrow waist. Realistic face, realistic eyes, (smile).
+(nude) (completely naked), huge penis, glans, frenulum, huge balls, (male pubic hair:1.25).
+Lying on the ground, legs spread, (visible anus).
+In a forest, with large trees, bushes, grass, flowers, butterflies.
+High contrast, high saturation, highly detailed, high quality, volumetric light, masterpiece.
+<lora:BulkedUpAIR1.5:0.5>
+<lora:lightV1:1>
+<lora:bl8ckIC-1CIVIT:1>

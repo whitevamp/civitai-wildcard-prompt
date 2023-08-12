@@ -1,0 +1,1 @@
+best quality, masterpiece, (photorealistic:1.4), 1boy, bald, skinhead, monk, dramatic lighting <lora:GFman:0.56>

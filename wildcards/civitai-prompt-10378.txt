@@ -1,0 +1,1 @@
+(best quality, masterpiece), 1girl, medium hair, looking at viewer, <lora:mechaarmor_v0.7:0.7>, pink mechaarmor

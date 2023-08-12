@@ -1,0 +1,1 @@
+onoff, side-by-side photo of woman wearing tank top and shorts, medium pink hair, detailed face, detailed nose, freckles, smirk, tattoo, intricate background, <lora:onOffLora_v326:1> <lora:flashlight_v15A:0.8>

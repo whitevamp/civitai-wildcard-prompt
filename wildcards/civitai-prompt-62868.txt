@@ -1,0 +1,3 @@
+Background Waifu,Waifu in Picture,<lora:Photo_Comparison-v2:0.8>Photo_Comparison
+AND NSFW,phone, cellphone, smartphone, holding, Picture ,Sex, Vaginal, Nude 
+AND Photo_Comparison,1girl,military, coat,, (masterpiece), best quality, highest quality, extremely detailed CG unity 8k wallpaper, detailed and intricate, original,highres,ultra-detailed, masterpiece, highest quality,photorealistic,octane render,hyperrealistic,

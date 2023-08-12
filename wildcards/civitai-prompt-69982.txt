@@ -1,0 +1,1 @@
+(masterpiece, best quality), (1girl, solo), a woman wearing black Parrley_armor, <lora:Parrley1:0.9>, sitting , (chubby face, short hair, orange hair,  green eyes, angry, messy hair),<lora:add_detail:1.5>, close up, upper body

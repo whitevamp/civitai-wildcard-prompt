@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), candid picture of a beauty, (1girl),highres, ultra detailed, Ultra-precise depiction, Ultra-detailed depiction, solo, (zentangle:1.2), dynamic pose, floating hair, (skinny, thin body: 1.2), tanned skin, shiny skin, (abstract:1.2), mecha suit
+ <lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:1>

@@ -1,0 +1,1 @@
+((best quality)), ((highly detailed)), masterpiece, (detailed eyes, deep eyes), (1girl), (glasses), full body, <lora:hairdetailer:.8>, , <lora:purah-v3:.85>, Purah, white hair,  hair ornament, hair sticks, red headband, brown eyes, red glasses, <lora:ConceptSoapBubbleCensor_v1:1>, bubblebra, soap bubble, bubble, wet, nude, (indoors, in a bar, Oktoberfest)

@@ -1,0 +1,1 @@
+<lora:spiderwebbed_v1:0.85>(best quality, masterpiece, realistic, detailed, 8k), 1girl, smile, ahegao, ((bound legs, bound arms, ((spiderwebbed)), (suspension), spider web)), darkness \(konosuba\), long hair, blonde hair, x hair ornament, armor, blue eyes, ponytail, hair ornament, gloves, braid, white boots,<lora:DarknessLora:0.33>

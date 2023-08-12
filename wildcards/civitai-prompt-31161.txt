@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, absurdres, ultra detailed, muffled lighting, full view of face and body,  portrait of the most beautiful form of sensitive, elegant, gently, romanticism, action, dynamic pose,  woman with animal ears and tail close up,
+ <lora:Lgirl-v6_500steps:-4>, fantasy ambience, mystical wild innocence ((bear mask:1.1)) occlusion demon dis F 9.11,-ZF octaneB 5

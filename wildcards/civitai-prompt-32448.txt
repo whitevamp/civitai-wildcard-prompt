@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (highly detailed:1.3),(detailed face:1.2), (detailed background),detailed landscape, (dynamic pose:1.2), <lora:elsa:0.6>, elsa, 1girl, solo, long hair, smile, blue eyes, blonde hair, dress, braid, single braid, makeup, hair over shoulder, eyeshadow, snowflakes, (mid-body:1.4),
+<lora:FrostRaceTech-20:0.5>, frostracetech, cryogenic , contemporary, glowing leotard,
+snow palace, crystals, glowing crystals, frozen lake, white trees, battle stance, crystal energy, blue energy, crystals around, (glowing snowflakes:1.3)

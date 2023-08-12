@@ -1,0 +1,1 @@
+(masterpiece, best quality, solo, intricate details, chromatic aberration), PepePunchMeme, <lora:Pos_PepePunchMeme:1>, darth vader, Black_outfit,hood, hood_up, boots, darth vader helmet,cape,armor, shoulder armor, armored boots, <lora:Char_Sigmas_DarthVader:0.7>

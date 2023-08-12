@@ -1,0 +1,3 @@
+steampunkai, VeronicaMars as  a pilot, in a cockpit of a plane ,  flying across the sea, steampunk, victorian era,
+simple lines, flat color , by katsuhiro otomo and masamune shirow and studio ghilibi and yukito kishiro
+ <lora:steampunkai10MBLora_10mb:0.5>

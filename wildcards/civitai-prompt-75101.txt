@@ -1,0 +1,8 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, perfect skin, female,  (looking at viewer:1.6),solo, perfect illumination, distinct, (1girl:1.4), perfect face, detailed face,  perfect body, beautiful eyes, pretty face, soft light, (blue eyes:0.7),
+bare shoulders, black skirt, 
+ slim, cleavage, white jacket,
+red glasses, hair ornament,  sleeveless shirt, black skirt, kneeling, 
+purah, from above, ((center)),
+(bukkake), cum, ((cum on face)), hands on back, close-up,
+ <lora:purah-nvwls-v2-final:0.75>
+ <lora:Bukkake:0.7>

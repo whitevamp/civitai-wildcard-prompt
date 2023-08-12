@@ -1,0 +1,6 @@
+glitch,
+8k, highest quality, best quality, masterpiece, ultra-detailed,
+1girl, sexy, 
+a portrait of a girl in a violet kimono
+
+ <lora:Luisap3GlitchsLORA_3:0.5>

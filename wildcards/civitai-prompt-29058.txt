@@ -1,0 +1,19 @@
+masterpiece, best quality, sidelighting,
+2girls, yuri, kissing, licking tongue, sitting, sitting side by side, couch, large windows, indoors,
+green hair, long hair, closed eyes, full blush, tongue, (saliva, drooling:1.2), nervous, head tilt, facing another,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+orgasm, female masturbation, pussy juice, pussy juice trail,
+sweat, steam, heavy breathing, steaming body, topless, bottomless, spread legs,
+schlick, fingering, masturbation, <lora:masturbation_female:0>,
+trembling, female ejaculation, <lora:conceptFemaleEjaculation_v10:0>,
+black legwear, skindentation, faruzandef, <lora:faruzan1-000009:0.75>
+AND
+masterpiece, best quality, sidelighting,
+2girls, yuri, kissing, licking tongue, sitting, sitting side by side, couch, large windows, indoors,
+blue hair, long hair, closed eyes, full blush, , (saliva, drooling:1.2), nervous, head tilt, facing another,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+orgasm, female masturbation, pussy juice, pussy juice trail,
+sweat, steam, heavy breathing, steaming body, topless, bottomless, spread legs,
+schlick, fingering, masturbation, <lora:masturbation_female:0>,
+trembling, female ejaculation, <lora:conceptFemaleEjaculation_v10:0>,
+white legwear, skindentation, layladef, <lora:layla1-000010:0.75>

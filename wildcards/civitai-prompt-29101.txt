@@ -1,0 +1,1 @@
+masterpiece,(photorealistic:1.5),best quality,nsfw,1girl with white skin,C cup,1boy with stong musle,nude,soft lighting,sex from behind,doggystyle,highly detail skin, <lora:add_detail:0.4>  <lora:lit:0.4>  <lora:EkuneSideDoggy:1>

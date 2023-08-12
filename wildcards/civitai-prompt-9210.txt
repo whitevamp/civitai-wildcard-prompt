@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed, pink eyes, topless, proud, confident, aggressive, arm up, slim, tall), 1girl, solo, standing, outdoors, day, sunlight, buildings, dynamic shot, city, skyscraper, looking at viewer,
+mizuki yukikaze, hair ribbon, elbow gloves, fingerless gloves, frilled leotard, black leotard, thigh boots, taimanin suit, one-piece tan,  <lora:MizukiYukikazeV1_1:0.8>,   <lora:add_detail:0.5>

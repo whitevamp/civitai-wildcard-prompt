@@ -1,0 +1,7 @@
+syswe69, full body
+marlier, blond, ( illustration:1.4),
+hmaw6, twintails, white bikini, ((see through)) tiny skirt,ankymoore, posing, makeup,
+flat breast, flat chest, straight hair,  looking at viewer, off shoulder,  (masterpiece), (best quality:1.2), absurdres, intricate details,  , <lora:ankymoore:0.85>
+garter belt, 
+(masterpiece, best quality), intricate details,    ((blushing)),
+<lora:abigail_v2:0.85>

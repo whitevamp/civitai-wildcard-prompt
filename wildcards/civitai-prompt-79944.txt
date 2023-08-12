@@ -1,0 +1,2 @@
+(in the light:1.5),
+Hyperrealist portrait of female by Leonardo da Vinci and Michelangelo Merisi da Caravaggio,fantasy art, photo realistic, dynamic lighting, artstation, poster, volumetric lighting, very detailed faces, 4 k, award winning,, 1girl, in the dim light, deep shadow, low key,cowboy shot,(classical clothing:1.4) ,classical hair,(white hair),<lora:add_detail:1>

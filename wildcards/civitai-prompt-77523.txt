@@ -1,0 +1,2 @@
+hdr, kirby, swole, barefoot, river, forest
+ <lora:kbV3.0:0.7>

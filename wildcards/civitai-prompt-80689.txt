@@ -1,0 +1,1 @@
+masterpiece, extremely detailed, (realistic:1.1), portrait, 1girl, rapunzelwaifu, black eyeliner, smug, (extremely long:1.2) messy blonde hair, purple dress, white panties, lace stockings, sitting, (spread legs, thigh gap:1.2), skirt lift, <lora:skirtlift-v4:0.6> <lora:Rapunzel_character:0.6> <lora:squeezer:-0.69> <lora:iroiro_saturation:0.72> <lora:dtl-key:0.3>

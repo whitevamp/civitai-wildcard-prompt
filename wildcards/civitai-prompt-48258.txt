@@ -1,0 +1,1 @@
+miaobishenghua  , [(white background:1.5)::5], 1 girl, mid shot, full body, butterflies, flowers,floating petal,stone fragment, beautiful detailed water,cloud,sun,dusk,sunset,beautiful detailed gate, <lora:miaobishenghua_v10:2>

@@ -1,0 +1,2 @@
+masterpiece, best quality, highest quality, photorealistic, perfect anatomy, perfect face, perfect eyes,
+<lora:videldbspinkdress_ex_01:0.9>,  videldbspinkdress, 1girl, solo, black hair,  blue eyes, hairband, short hair, red hairband, dress, pink dress, rose, outdoors

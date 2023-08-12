@@ -1,0 +1,4 @@
+((masterpiece, best quality)),solo,1girl, full body, Trixie carter, dark-skinned female,double bun, black hair,,,<lora:TrixieCarter1:0.8> (black skin:1.4) 
+(looking at the viewer:1.1)
+1girl, bag, crop top, dark-skinned female, dark skin, denim shorts, double bun, full body, black eyes, hair bun, looking at viewer, midriff, navel, (winking:1.3), indoors, classroom, green chalkboard, shirt, shoes, short shorts, shorts, signature, solo, leaning forward, cleavage, small breasts, lip gloss, open mouth,( tongue out sexually, aheago, saliva, horny, aroused:1.3), teeth visible
+ <lora:add_detail:1>

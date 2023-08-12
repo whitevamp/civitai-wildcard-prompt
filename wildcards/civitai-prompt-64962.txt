@@ -1,0 +1,1 @@
+Masterpiece, absurdres, fine detail, HDR,highly detailed armor with gold plating, shiny armor, photorealistic,smiling, excited,<lora:PLD_amor:0.75>,PLD_armor, a beautiful topd_woman knight in armor, wearing PLD_armor, blue scarf, <lora:topd1:0.5>, perfect topd_body, perfect topd_face

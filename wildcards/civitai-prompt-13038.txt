@@ -1,0 +1,2 @@
+masterpiece,  depth of field, soft lighting, masterpiece, best quality, intricate, (lens flare:0.7), (bloom:0.7), particle effects, raytracing, tone mapped, highly detailed,
+a 16yo girl, <lora:NewChineseStyleSuit_v1:0.6>,light green dress,on the night street,floating petal,light smile, <lora:add_detail:0.5> full body,detailed face,headband

@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality), 8k, pixel art, 1girl, school uniform, sexy, <lora:pixel_f2:0.55>, <lora:Reine_v1.2_full_w512:0.6>

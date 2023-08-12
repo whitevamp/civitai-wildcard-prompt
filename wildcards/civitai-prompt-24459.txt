@@ -1,0 +1,2 @@
+1girl, 1boy, princess carry, masterpiece, best quality, highly detailed
+  <lora:princess_carry_v0.1:1>

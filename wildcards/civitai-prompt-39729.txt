@@ -1,0 +1,4 @@
+masterpiece, best quality, dim lighting, cowboy shot, 1girl, medium breasts, blonde hair, curly long hair, wearing sunglasses, black thong, (laid town on the towel:1.2), under umbrella,
+<lora:covering_breasts_v0.1:0.55>, hands on own chest,
+<lora:tonedandtallmodels_v10:0.5>, toned, tall female,
+beach, sand, ocean,

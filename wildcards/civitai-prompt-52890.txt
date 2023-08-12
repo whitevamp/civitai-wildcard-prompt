@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, <lora:ConceptCultivationTankStasis_v3:1:MIDD>(in_container, stasis_tank)<lora:breastsOnGlass_v10:0.7:MIDD>, breast on glass, breast press, nude<lora:ConceptMechanicalStationary_v1:0.7:MIDD>, stationary_restraints<lora:seeThroughSwimsuitAnd_seeThroughSwimsuitV1:0.5:OUTALL>

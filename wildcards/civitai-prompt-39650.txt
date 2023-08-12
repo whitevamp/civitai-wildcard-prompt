@@ -1,0 +1,3 @@
+<lora:covering_breasts_v0.1:1>
+1girl, covering crotch, breasts on glass, window fog, water drop, showering, glass, window, bent over, 
+<lora:against_glass_v0.2:1>, masterpiece, best quality, highly detailed

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:CeresFauna:0.8> Ceres Fauna, antlers, 
+ <lora:BaldifierW2:2.5> smiling, blushing,    <lora:HipGrabCowgirl:0.8> POVHipGrabCowgirl, hetero, vaginal, nude, nipples, pussy,

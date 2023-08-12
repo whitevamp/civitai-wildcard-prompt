@@ -1,0 +1,3 @@
+((masterpiece, best quality:1.2),
+TianaWaifu,18 years old,beautiful face,elegant face,(beautiful slanted eyes:1.4),brown eyes,top knot,(very dark skin,green gown,tiara :1.2),shyly,small breasts,
+castle,dance hall,looking at viewer,cowboy shot <lora:tianaThePrincessAndTheFrog_v10:0.45>

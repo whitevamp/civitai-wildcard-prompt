@@ -1,0 +1,4 @@
+(full body shot:1.3), (small_head),bokeh:1.2,  outdoors, dynamic angle,((professional beach volley field)), sunny, beachside, palm tree, cheering audiences, 
+1girl,  fit, solo, black hair, ponytail, floating hair, volley_uniform,beach_volley, tight soaked uniform,  bare feet, shiny skin, wet hair, jumping, playing volleyball, laughing, 
+big breasts, tiny waist, slim legs, detailed skin texture, detailed face, detailed eyes, <lora:koreanDollLikeness:0.5>,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),((Hasselblad photography)),  ultra high res, photon mapping, radiosity, physically-based rendering, professional lighting, light on face,<lora:GoodHands-beta2:1.3>, <lora:volley_uniform:0.5>, 

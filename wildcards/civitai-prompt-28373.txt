@@ -1,0 +1,4 @@
+Ultra-realistic 8k CG,(masterpiece,best quality:1.2),(photorealistic:1.4),absurdres,HDR,RAW photo,(film grain:1.1),Bokeh,raytracing,((Depth of field)),detailed shadows,High resolution scan,lens flare,multi-layered compositions,
+(highres),original,crossroads,standing,(Rain:1.2),(Neon lights:1.4),(neon city:1.2),
+(at night:1.2),(cyberpunk:1.3),(tall building:1.1),complex lighting,((mechanical elements)),(smoke and fog:1.2),steam punk vibe,graffiti wall,metallic accessories,(neon background:1.2),(super car with neon lights:1.1),cyberpunk aesthetic,Supercar,(Lamborghini Veneno:1.3),
+colorful composition,panoramic view,wide-angle view,Cinematic Lighting,rim light,extreme detail description,<lora:InstantPhotoX3:0.3>,<lora:add_detail:1.1>,<lora:v3FilmVelvia3:0.6>,

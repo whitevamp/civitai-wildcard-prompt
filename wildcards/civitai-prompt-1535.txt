@@ -1,0 +1,3 @@
+(detailed face and eyes:1.3),
+<lora:dkong-09:0.6>,femkong,1girl,short hair,brown hair,cleavage,brown eyes,open clothes,fingerless gloves,huge breasts,short shorts,sexually suggestive,necktie between breasts,
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,

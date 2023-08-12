@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 85mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> sitting , bed,  <lyco:NegStd3:0.3>, deep shadows, contrast, hands on breasts , mouth open 4l3xbotez , <lyco:InsPX:0.2>Faux fur-trimmed parka jacket with multiple pockets and a versatile khaki color,  (looking at camera , heavy makeup ), confused, shocked expression

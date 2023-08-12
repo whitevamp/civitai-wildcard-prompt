@@ -1,0 +1,2 @@
+(monochrome:1.3), portrait <lora:Atem-10:1> Atem, 1boy, egyptian clothes, eye of horus, jewelry, dark-skinned male, multicolored hair, spiked hair, purple eyes, <lora:GrantGustinNextToOliverQueensGraveMeme:1>QUEENSGRAVEMEME
+V, SMILE, <lora:dark_magician_girl_v1:0.8> hmdmg1, wizard hat, blush, blush stickers, cleavage, bare shoulders, dress, off shoulder, <lora:maiValentineYuGiOh_v10:0.8> mai valentine, purple sleeveless jacket, detached sleeves, purple skirt, earrings, ((blonde hair))

@@ -1,0 +1,3 @@
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2),
+<lora:stLouisLuxuriousWheels_v1:0.6>,<lora:futuanerLora_futuanerV2:0.6>, <lora:koreanDollLikeness_v10:0.4>,
+ ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features),HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, narrow waist, (extreme detailed illustration), night time, sunset, balcony, terrace, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty, light blue eyes, (deepblue hair:1.5), (silver dress:1.6),

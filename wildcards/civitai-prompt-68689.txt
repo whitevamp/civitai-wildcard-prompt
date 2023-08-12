@@ -1,0 +1,6 @@
+masterpiece, glory wall, wooden wall, through wall, stationary restraints,
+(anus:1.1),(pussy:0.9), uncensored,  ass focus, solo, thighs, huge ass,
+solo, photo(object), 1girl, happy, soft smile, detailed eyes, hanfu,
+<lora:glory_wall:0.7>
+<lora:MoXinV1:0.5>
+<lora:shukezouma_v1_1:0.7>

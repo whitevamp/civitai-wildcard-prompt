@@ -1,0 +1,1 @@
+ealistic (best-quality:0.8), (best-quality:0.8), perfect anime illustration, (Cymraes:1.1) girl , bellatrix lestrange, <lora:add_detail:0.3>

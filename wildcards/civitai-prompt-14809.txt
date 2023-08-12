@@ -1,0 +1,3 @@
+masterpiece, best quality,masterpiece,elf,Witch,multiple_girl,slit_pupils,grey skin,messy_hair,annoyed,white hair,silver_eyes,nsfw,bat_wings,medium_breasts,tail,tattoo,hair_flower,collar,,magic_circle
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry，bad feet,EasyNegative
+Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2844221716, Size: 384x896, Model hash: e729bb2a94, Model: 自由熔炉73, Denoising strength: 0.53, Clip skip: 2, ENSD: 31337, Version: v1.2.1, Hires upscale: 1.9, Hires upscaler: Latent (nearest)

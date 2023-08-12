@@ -1,0 +1,1 @@
+(masterpiece, best quality, solo, intricate details, chromatic aberration), realistic, makima \(chainsaw man\), <lora:Char_ChainsawMan_Makima:1>, half-closed_eyes, <lora:Expression_HalfClosedEyes:1>, from behind, looking at viewer, close-up, orange eyes, <lora:Other_MoreDetails:0.5>

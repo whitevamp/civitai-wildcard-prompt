@@ -1,0 +1,3 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,
+<lora:G1_guidedBreastGrabLora_v10:0.4>,(((A boy extends both hands to grab and grope a girl's large breasts))),pov hand,naked,topless,
+<lora:A1_jpIDOL_v10:0.4>,<lora:A1_DollLikeness_Korean_v15:0.4>,

@@ -1,0 +1,5 @@
+Cinematic film still, moist, intricate details, shallow depth of field, [volumetric fog], cinematic lighting, reflections, photographed on a Canon EOS R5, 50mm lens, F/2.8, HDR, 8k resolution,
+ ((detailed face)), (detailed skin), flat_tits, orange hair, blue green eyes, 
+(topless, Black_short_sport_shorts:1.4),
+standing,
+on sun set beach,  <lora:breastHelperBetaLORA_betaV2:.6>

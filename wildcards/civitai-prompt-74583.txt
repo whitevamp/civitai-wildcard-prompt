@@ -1,0 +1,4 @@
+NSFW, (best quality, masterpiece), (realistic), raw photo, ultra detailed, 1 girl, solo, (full body), looking at viewer,
+medium breasts, Parted lips, short hair, cute, blush,hair accessories, necklace, jewelry, choker,earrings, cold and elegant, wheta skin,
+(cinematic light), ray tracing, shadow, fashion, Pioneering Art,Interior Design,  futurism, morden Architecture, Hanging pictures, carpet, chair, breasts out,
+((nun, dynamic pose, lace)),  FashionMagCover,  <lora:LoRA-FashionMagCover:0.2>

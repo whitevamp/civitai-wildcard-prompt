@@ -1,0 +1,1 @@
+<lora:TakenOver-18:1>, TOver, NOMASK, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, absurdres, highres, 1girl

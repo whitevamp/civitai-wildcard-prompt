@@ -1,0 +1,1 @@
+galaxy, stars, (1 girl), cute, charming, Hourglass, masterpiece, high detailed, high quality,  <lora:Hourglass_Sora:0.5>

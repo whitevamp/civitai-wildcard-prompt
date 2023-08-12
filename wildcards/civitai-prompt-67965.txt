@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:hakosBaelzHololive_v11:0.8> hakosdef,hakosrnd, 
+ <lora:merrytail-09:1> ass, ass focus, from behind, close-up, anus, cleft of venus,

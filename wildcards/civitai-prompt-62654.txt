@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format, (depth), (movement:1.4),
+(1man, muscular, adult  male:1.2),  jade eyes, dark brown short back and sides,
+(style-swirlmagic:0.9)  looking at viewer, solo, half shot, detailed background, blood red eyes, auburn hair, detailed face, smirk, evil blood mage, crimson blood swirling in the air, casting spell, dynamic pose, red color scheme, red  clothes,  blood spatters,   blood dripping,  crimson crown,  (red thorny roses:0.7) in background,   epic atmosphere, floating particles, blood droplets, 
+<lora:style_granblueFantasyStyle_ver10:0.5>,

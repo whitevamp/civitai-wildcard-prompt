@@ -1,0 +1,1 @@
+(masterpiece, best quality), artdecoai, android geisha girl, <lora:fractalized:0.2>  fractalized, fractal_body, fractal_environment, ((lineart)), ((plain black and white)), intricate detailed linework, shading and cross-hatching, <lora:animeoutlineV4_16:0.3>, medium shot, front view, symetrical composition <lora:ArtDecoAI:0.9>

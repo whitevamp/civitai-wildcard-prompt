@@ -1,0 +1,5 @@
+grainy,cyberpunk,  night,<lora:rMadArt3_NoiseOffset:1>,
+BREAK
+girl, cyberpunk clothing, ponytail, smile, cape with hood, bioluminescent clothing, purple lights, orange lights, blue lights,
+BREAK
+alley background

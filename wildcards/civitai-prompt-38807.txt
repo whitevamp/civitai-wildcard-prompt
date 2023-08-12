@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, realistic, bibleblack, 
+YukikoMinase, 1girl, 1boy, white male, spread male legs, male pubic, penis, reverse cowgirl position, 1boy, pov crotch, from behind, looking back, looking at viewer, ass grab, sex
+shy, embarrassed, opem mouth, tongue out, ahegao, rolling eyes, happy, 
+[black hair:green hair:26], short hair, lipstick, eyelashes, yellow eyes, detailed eyes, detailed face, jewelry,
+(nude:1.2), (grey thighhighs:1.2), 
+(curvy:1.1), huge breasts, ass, garter straps, 
+<lora:YukikoMinase:0.85> <lora:bb-style:0.25>  <lora:POVReverseCowgirl:0.6>

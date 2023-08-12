@@ -1,0 +1,1 @@
+<lora:bodychainV2:0.8> <lora:koreanDollLikeness_v15:0.6>, (masterpiece:1.2, best quality), (real picture, intricate details), (1lady, large breasts), (open mouth:1.25), (tongue out:1.25), <lora:ahegao_v1:1> , ear piercing,  make up, large hoop earrings, nsfw, black thighhighs, stiletto heels,indoors, classroom,windows, detailed background,

@@ -1,0 +1,7 @@
+absurdres, 1girl,medium breast, blush, (realistic:1.6), (photorealistic),
+ (masterpiece, Extremely detailed CG unity 8k wallpaper, best quality, highres:1.2), (ultra_detailed, UHD:1.2),  perfect illumination, distinct, (1girl:1.4),  unreal engine, sidelighting, perfect face, detailed face, perfect body, beautiful eyes, pretty face, (bright skin:1.4),  (realistic skin texture),
+small breasts, latina, (((tanned skin))),
+makeup, (eyeliner:1.2), bangs, jennaortega,
+(looking at viewer:1.6), street, night, 
+(gothic dress:1.4), (full body), boots,
+ <lora:JennaOrtega:1>

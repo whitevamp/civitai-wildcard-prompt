@@ -1,0 +1,1 @@
+1girl,lib_bg,short hair,(nsfw),Lying on the back, pretending to look at clouds,(open clothes)  <lora:libbg_v11:1.0>

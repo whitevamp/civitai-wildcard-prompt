@@ -1,0 +1,8 @@
+Style: (masterpiece:1.2, best quality), (real picture, intricate details) BREAK
+Composition: 1girl, solo, (fat man:0.3, ugly man:0.1), standing, leaning_forward, downblouse BREAK
+Appearance: (milf:1.15), (reieneris:1.1), fit, slender, slim, skinny, big_tits, huge_boobs, giant_breasts, heavy_breasts, breasts_apart, (sagging_breasts:1.2), bright_eyes BREAK
+Hair: medium_brown_hair BREAK
+Clothing: stencil_skirt, black_lace_stockings, white_shirt BREAK
+Behavior: confident, smirk BREAK
+Location: simple_white background, empty_background, no_background BREAK
+Loras: <lora:uglyBastard_v54a:0.5><lora:fechin:0.9><lora:downblouse-v1:0.5><lora:saggingBreasts_v10:0.8><lora:add_detail:0.5><lora:LR-000007:0.25><lora:fantasyV1.1:0.1><lora:DW-000008:0.25><lora:lasto_v1:0.25>

@@ -1,0 +1,3 @@
+best quality, intricate details,potrait, upper body, photo, 
+
+ <lora:yorBriarSpyXFamily_v10:0.8> yor,  <lora:steampunkai10MBLora_10mb:0.8> steampunkai,

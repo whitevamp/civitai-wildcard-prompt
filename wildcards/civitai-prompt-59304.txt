@@ -1,0 +1,1 @@
+((best quality, masterpiece, perfect face,)),1girl,  <lora:sayuGenshinImpact_v10:1> <lora:sayu2-000009:1>, sayudef, sayurnd,  <lora:squeezerExperimental_:0>, japanese forest, raylight, beautiful scenery, breathtaking, standing, thumbs up, happy face, dynamic angle, smile,

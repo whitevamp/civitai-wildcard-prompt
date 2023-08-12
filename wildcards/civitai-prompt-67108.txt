@@ -1,0 +1,5 @@
+(masterpiece,best quality:1.2), (highres, ultra-detailed:1.1), solo, 1girl,
+Jasmine,jasmine from disney,(dark skin,beautiful skin:1.2),beautiful face,elegant face,beautiful eyes,large eyes,(multi-tied hair, long hair),small breasts, <lora:jasmineV3:0.5>
+(arabian green clothes, off-shoulder shirt,pants,jewelry:1.2),
+BREAK
+(outdoors,at noon,arabian palace,ancient background:1.2),cowboy shot,elegant pose

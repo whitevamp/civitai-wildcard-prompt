@@ -1,0 +1,1 @@
+1girl,  smile,   <lora:Necronomicon-10:0.8> Necronomicon Sketch,   <lora:BloodSkelterStyle-30:0.7>,Blood_Skelter,pink blood, glowing eyes, cthulhu mythos,

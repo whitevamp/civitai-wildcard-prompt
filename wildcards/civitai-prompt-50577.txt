@@ -1,0 +1,1 @@
+(((best quality))),architecture, blue_sky, bridge, building, bush, castle, cliff, cloud, cloudy_sky, day, fantasy, fence, field, forest, grass, hill, house, landscape, moss, mountain, mountainous_horizon, nature, outdoors, overgrown, path, river, road, rock, scenery, sky, sword, tower, tree, waterfall, weapon, <lora:stylized-X:0.5> <lora:Ghibli_SSS:0.6> <lora:Singlebuild_SSS:0.2>

@@ -1,0 +1,1 @@
+a portrait of a woman <lora:vascular.lora:0.4>, (vascular, muscular:0.4), abs, upper body shot

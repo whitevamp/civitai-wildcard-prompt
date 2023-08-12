@@ -1,0 +1,1 @@
+onoff, Photograph, 18yo woman, full military uniform, camo pants, boots, walking in a forest, <lora:onOffLora_v326:1> <lora:thatsMyBush_v10:0.3>

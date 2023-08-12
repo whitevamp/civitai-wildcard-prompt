@@ -1,0 +1,2 @@
+<lora:BlessedTech-20:0.8>, blessedtech ,  golden, blessed, aura 
+hamster,

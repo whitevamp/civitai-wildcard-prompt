@@ -1,0 +1,1 @@
+best quality,<lora:add_detail:0.3>, <lora:character_sunsetHumanMLP_(SunsetHuman):1>, (two-tone hair:1.1, long red hair:1.1, long blond hair, wavy hair), wet hair, <lora:concept_costume_grisSwimsuit_v10:1>, gris swimsuit, cameltoe, in the water, ocean, blue sky, laughing, splashing water, muscular, abs, leg muscles, large breasts, pussy floss, highleg

@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl,     <lora:houshouMarineHololive_unisonEditionV1:0.8> heterochromia, eyepatch, marine_pirate, hair ribbon, red ascot, red skirt, belt, leotard under clothes, sleeveless, black coat, pirate hat,
+ <lora:piratepunkai_v10:0.8> piratepunkai, pirate ship, naval battle, ship mast, railing, ropes,

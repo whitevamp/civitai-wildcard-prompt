@@ -1,0 +1,2 @@
+(masterpiece,best quality:1.5), asian woman wearing hanfu and holding a sword, light on face, mysterious, sword dancing waterfall
+ <lora:tangStyle_sdxl_autodl_v11:0.65>

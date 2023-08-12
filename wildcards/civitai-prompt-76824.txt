@@ -1,0 +1,1 @@
+1girl , realistic, solo, <lora:koreanDollLikeness_v15:0.3>,<lora:taiwanDollLikeness_v10:0.2> ,  (masterpiece:1.2), best quality, <lora:nun_cos_v10-01:0.8>, nun, book

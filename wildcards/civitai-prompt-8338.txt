@@ -1,0 +1,1 @@
+age 20 woman in a luxurious bathroom, wearing towel, innocent face, multicolored hair, (flat chest), <lora:add_detail:1> <lora:After_Shower1.1:0.6>, aftershower,

@@ -1,0 +1,4 @@
+(raw photo by DSLR camera:1), (8k high res:1), (detailed skin and skin pores and goose bumps:1.2), (high definition face:1),
+(korean athlete:1),  (blonde hair, ponytail:1.1), white volleyball outfit, from below view, cameltoe, in a volleyball game, looking at viewer, 
+muscular body and defined abs, 
+<lora:FilmVelvia3:0.4> <lora:add_detail:0.4>  (ulzzang-6500:0.6) <lora:Cameltoe:0.6>

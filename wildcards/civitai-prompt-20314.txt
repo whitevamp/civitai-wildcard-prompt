@@ -1,0 +1,8 @@
+highres, masterpiece, bloom, perfect skin, female, (looking at viewer:1.7), realistic skin,realistic, (photorealistic), soft light, real skin texture,(looking back:1.5)
+slim, cute woman, 30 years old,playful,horny,(dripping wet pussy:1.3)
+bangs.
+auburn hair, short hair, ponytail,(povag:1.5),
+(wearing a hospital patient gown:1.5), no panties
+((night)),hospital,hospital bed,uncensored, full body
+ass up wait,(presenting ass, grab ass, spread ass:1.5), (pov, focus on ass, bokeh on face:1.5)
+<lora:ass_up_wait.v1.3-sd:0.3>  ,<lora:Pussy_Spread_v01:0.5>,<lora:POVAssGrab:0.9>

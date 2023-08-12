@@ -1,0 +1,8 @@
+{Style: {(masterpiece), (anime art, best anime style), (detailed face, detailed eyes, detailed hair, ultra detail, best quality, 4k, highres, perfect ilumination, NSFW)}
+BREAK Composition: { 1woman, Laura Mey, smiling, 1boy, smile, (((boy grabbing breast of woman))), arm over shoulder, body fit, front view, full body}
+BREAK Appearance: { (1woman, Laura mey, mature female, black long hair, big breast, sagging breast, breast apart, blue eyes), (boy, short brown hair, fit body)}
+BREAK Clothing: { (1woman, Laura Miller, wearing loose dress), (boy wearing coat)}
+BREAK Behavior: { confident, looking down } 
+BREAK Location: { city } 
+BREAK LORA: { <lora:qqq-grabbing_from_behind-v2-000006:0.7>}
+} NSFW

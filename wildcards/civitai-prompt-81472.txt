@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.2),(highres),elaborate ,baroque ,(from above:1.1),cowboy shot,
+1girl,
+<lora:milla:0.8> milla maxwell, milla-outfit,
+(aurora:1.1),green particles,night,city light,green light,
+<lora:anime_minimalist_v1-000020:-0.2>,
+<lora:flat2:-0.5>,
+<lora:LowRa:0.3>, dark theme,

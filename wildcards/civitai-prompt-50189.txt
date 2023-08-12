@@ -1,0 +1,1 @@
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting,  ArtCalm3-350, 1girl, 1boy, pointy ears, elf, nsfw, colored skin,  <lora:beautifulDetailedEyes_v10:0.5>, {full body|upper body|lower body}, detailed hands and fingers,  <lora:murkysFingerInMouth_1:1>, finger in mouth, open mouth, saliva, tongue, tongue out, fang,

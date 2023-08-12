@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.2), (ultra detailed), (illustration), (distinct_image), (intricate_details), (delicate illustration),
+BREAK
+girl, slight smile, [ponytail|twintails], ([intricate clothing,expensive clothing:see through clothing:0.35]:1.1),
+BREAK
+forest background,

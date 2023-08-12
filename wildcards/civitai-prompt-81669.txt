@@ -1,0 +1,2 @@
+Photo of 1girl sitting in a cafe,skinny,tight dress,(cinematic look:1.4),soothing tones,insane details,intricate details,hyperdetailed,low contrast,soft cinematic light,blurry,(dim colors:0.6),hdr,raw,slate gray atmosphere,(raining outside:1.2),wet glass,
+<lora:YJA55:0.6>,<lora:FilmG2:0.6>,

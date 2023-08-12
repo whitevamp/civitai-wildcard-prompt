@@ -1,0 +1,10 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, large windows, indoors, from below, close up,
+blonde  hair, long hair, twintails,  green eyes, (sad, crying, teardrop, angry, scowl, glaring, full blush:1.2), tongue, open mouth,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+pussy, pussy juice, pussy juice trail, cameltoe,
+sweat, steam, steaming body, heavy breathing, skindentation, arms up, arms behind head,
+<lora:CutePussyVer2S:0>,
+spread legs, frame binder, stationary restraints, <lora:frameBinder_v10:0>,
+blindfold, no shoes, topless, bottomless, fischldef, <lora:fischl1_000008:0.75>

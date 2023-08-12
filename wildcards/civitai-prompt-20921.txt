@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lyco:GoodHands-beta2:0.8>
+1girl,  <lora:ceres_fauna_v2:0.8>hmcf, long hair, antlers, branch, braided bangs, hair flower, cow ears, yellow eyes, large breasts, neck bell, collar, (cow print:1.2), print bikini, print gloves, print legwear, 
+ <lora:HeadpatPOV:0.8> HeadpatPOV, pov, headpat,

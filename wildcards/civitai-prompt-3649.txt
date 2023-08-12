@@ -1,0 +1,5 @@
+(ultra realistic, highly detailed:1.4), best quality, masterpiece,
+girl, swamp, on a lilypad, kneeling, mouth open, tongue out, purple hair, big eyes, from side
+((green skin):0.8)
+<lora:froggirl:1> ((froggirl, frog):1.2)
+<lora:longtongue2:0.5> ((longtongue):0.8)

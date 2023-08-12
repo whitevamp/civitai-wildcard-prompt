@@ -1,0 +1,4 @@
+FGO1, 1stClothing, 1girl, solo, huge breasts,
+lifelike,
+beautiful and aesthetic, masterpiece, best quality,lifelike rendering, immersive atmosphere, visually stunning, subdued contrasts, soft illumination,
+ <lora:FatePassionlip:0.8>

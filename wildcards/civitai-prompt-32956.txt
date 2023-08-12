@@ -1,0 +1,3 @@
+(by taran fiddler), (by darkgem:0.8), (by chunie:1), masterpiece,
+detailed scales, portrait, seductive, serious, (looking at viewer), (mrmordaut), red dragon, (detailed pixar eyes:1.2), detailed eyes, male, feral, (tail), glasses, wings,
+sitting behind desk, (detailed classroom background), (day, inside), <slora:add_detail:0.3>,  <lora:LoraMordautBY_mrmordaut:1>,

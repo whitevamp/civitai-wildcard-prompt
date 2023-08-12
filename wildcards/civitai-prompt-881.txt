@@ -1,0 +1,4 @@
+ray tracing z pass bright light from below, (masterpiece) (best quality) (detailed) (8k) (cinematic lighting) (sharp focus) (intricate) <lora:add_detail:1>,
+1 girl, adult (elven:0.7) woman,  grey eyes, auburn hair flaps,
+ looking down, solo, upper body, detailed background,   witch hat, witch, magical atmosphere, hair flowing in the wind, blue trimmed dark colored clothes,    glowing elemental streams in the air, swirling portal, dark magic, (style-swirlmagic:0.8), floating particles, rustic forest hut background, updraft,  dim light,
+<lora:lol2:0.4>

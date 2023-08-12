@@ -1,0 +1,9 @@
+inked, illustration of a  male spiderman outfit,  drawn   by todd mcfarlane, mask, cross-section, manga, comic cover, marvel poster,  panels, spoken !, speech bubble, 80s punk style,
+dynamic pose, dynamic angle, (action pose:1.3), slow motion, impactful,  (spiderman pose:1.3), upside down,
+male focus,    , (leather punk jacket), opened jacket, Spider-Punk,(solo:1.4),
+,<lora:anime_guitarv1:0.7>
+[(
+ravishing, paint drops, vivid bright colors, vibrant digital illustration, black background, behance hd, ((masterpiece)), concept art, best quality, a row of  spikes on hair,    stickers buttons, piercings
+intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus, spiderman logo, graffiti, spider web,
+<lora:LowRA:0.7> <lora:PunkPunkAI:0.55>
+):5]

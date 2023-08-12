@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), happy face, full body,black theme, cloudy sky, <lora:add_detail:0.5>

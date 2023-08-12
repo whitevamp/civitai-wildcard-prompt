@@ -1,0 +1,9 @@
+realistic, detailed, realistic details, intricate detail
+break,
+1girl, solo, cyborg, (((mechanical arms, mechanical legs))), long hair, choker, beautiful, slender, petite, cleavage, small breast, detailed skin complexion, tanned skin, silky skin, bustier, open leather jacket, skin tight shorts, dynamic pose, wielding a gun
+break,
+(((fantasy environment, medieval cityscape, fantasy world, steampunk))), intricate and detailed background, volumetric fog
+break,
+wide perspective, f1.4/35mm, aerial perspective, depth of field, proportion, sharp focus, depth and dimension, proportion, rule of third
+break,
+<lora:OF_rockyslight:0.25>

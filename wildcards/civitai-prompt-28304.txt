@@ -1,0 +1,1 @@
+<lora:fairy:1> ice fairy,simple background,white background

@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  <lora:CHAR-NakiriAyame_v2:0.8>  Nakiri Ayame, long hair, twintails,  red eyes, 
+ <lora:attire_spider-man-12:0.8> spider suit, spider web print, spider web,  
+skyscrappers, city, buildings, cars, street,

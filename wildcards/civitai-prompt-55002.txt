@@ -1,0 +1,2 @@
+<lora:colorful-000004:1>, (xx)
+black_umbrella, blue_umbrella, holding_umbrella, oil-paper_umbrella, parasol, pink_umbrella, red_umbrella, shared_umbrella, transparent_umbrella, umbrella, purple_umbrella, white_umbrella, 1girl, beach_umbrella, rain, teruterubouzu, solo, transparent, hydrangea, flower, race_queen, raincoat, jewelry, earrings, special_feeling_\(meme\), upper_body, long_hair, hair_flower, hair_ornament, karakasa_obake, lips, red_coat, black_hair<lora:counterfeitV2525d_counterfeitV2525d:0.3>

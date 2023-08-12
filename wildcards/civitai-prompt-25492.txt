@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,forest,pixie bob, Bright Purple Flutter sleeve wedding dress,depth of field, night,Sitting with knees bent, one hand on the floor
+ <lora:slg_20:1.0>

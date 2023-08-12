@@ -1,0 +1,2 @@
+masterpiece, best quality, 1 young woman, detailed, medival dress, messy long hair, standing, look at the viewer, (serious: 0.85), (sliver hair: 1.25), white hair, high res, depth of field, best quality, highly detailed, sharp focus, modelshoot style, indoor
+ <lora:dressing-lora-hanfugirl-v1.5:0.7>

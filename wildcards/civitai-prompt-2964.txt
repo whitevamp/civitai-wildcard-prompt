@@ -1,0 +1,3 @@
+masterpiece, best quality,
+1girl, suzumiya haruhi, solo, (BLACK playboy bunny, ONE PIECE playboy bunny:1.3), brown hair, (BLACK rabbit ears, yellow headband, YELLOW hairband:1.25), (BLCAK bowtie:1.25), PLAYBOY_BUNNY collar,   hair ribbon, short hair, (tray:1.4), <lora:suzumiya_haruhi_v10:0.35> <lora:breasts_on_tray:1>,(WITHE wrist_cuffs :1.5),black button, thighband pantyhose
+upper body, big breast, breasts on tray , breast rest , playboy bunny ON TRAY, one hand holding tray,  a hand to own mouth, (shushing, a finger to mouth:1.6), (one eye closed and another eye looking at viewer:1.1), seductive smile, naughty face, (Pursed lips:1.3)

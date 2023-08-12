@@ -1,0 +1,1 @@
+1girl, <lora:space_buns_hairstyle:0.4> , (space_buns_hairstyle:1.4, brown hair), <lora:GoodHands-vanilla:0.2>, <lora:InstantPhotoX3:0.4>,  <lora:ClothingAdjuster:0.1> , Romantic and dreamy tulle ball gown with a beaded bodice and voluminous skirt, Sitting with legs tucked under, (dynamic pose),  <lora:egirl:0.4>

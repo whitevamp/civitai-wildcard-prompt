@@ -1,0 +1,1 @@
+from_below (KimberlyNobodySD15:1.0) modelshoot style centered portrait of beautiful woman (white wool yarn sweater:1.1) outdoors winter beautiful cloudy blue sky, (masterpiece:1.5) (photorealistic:1.1) (bokeh) (best quality) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) <lora:yarnStyle_v10:0.4>

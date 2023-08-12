@@ -1,0 +1,5 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(high detailed face),(nsfw),
+(A girl wearing a high-end designer T-shirt and a skirt is sitting in the passenger seat of the car),(pov, driver's seat view),pureerosface_v1,Ulzzang-6500,beautiful_mistake-6500,
+<lora:B9_shirtliftALORAFor_shirtliftv1:1>,shirtlift,
+(slim legs:1.5),delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(medium_breasts:1.5),natural breasts,narrow waist,long_hair,
+<lora:A1_DollLikeness_Korean_v20:0.2>,<lora:A1_jpIDOL_v10:0.2>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Taiwan_v10:0.1>,<lora:A1_cuteAsianFace_v10:0.1>,<lora:A1_eastasianDoll_v40:0.1>,<lora:A1_LoveOnLovely_lolStyleV10:0.1>,<lora:A1_dreamyGirlsFace_dreamyFace:0.1>,

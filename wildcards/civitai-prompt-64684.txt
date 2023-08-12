@@ -1,0 +1,2 @@
+concept art, realistic, photo, masterpiece
+ <lora:Style Trip4 psychedelic trip v2:0.55> psychedelic trip

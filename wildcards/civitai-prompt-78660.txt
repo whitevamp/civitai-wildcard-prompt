@@ -1,0 +1,1 @@
+masterpiece, best quality,  <lora:leilei:1>,1girl,hat,pants,claws,grey background, (kbxll:0.6)

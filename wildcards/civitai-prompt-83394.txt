@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), (elf floating in a bubble:1.4), detailed diadem, extremely detailed clothes, (beautiful elf wings), in the sky, detailed cloud, sunny day, (colorful:1.2), highest detailed, high contrast, cinematic light, <lora:add_detail:1>

@@ -1,0 +1,2 @@
+masterpiece, best quality, ((pure blue background)),  black hair, floating hair, blush, looking at viewers, white T-shirt, happy, ((front)),upper body, close-up,FilmG,
+<lora:FilmG2:0.6> <lora:shojovibe_v11:0.6>

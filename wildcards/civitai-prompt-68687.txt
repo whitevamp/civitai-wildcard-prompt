@@ -1,0 +1,3 @@
+extremely detailed cg unity 8k wallpaper,ray tracing,absurdres,east asian architecture,outdoors,
+(1man,middle aged,manly,faithful,facial hair,long hair,floating hair,CHINESE ARMOR,cloak,upper body,dynamic pose, looking at viewer),solo, ornate,, best quality, detailed eyes and skin,masterpiece,
+<lora:loong2-000015:1>,((golden loong midair, flying, Look down,misty ) )

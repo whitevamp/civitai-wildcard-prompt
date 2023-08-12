@@ -1,0 +1,1 @@
+1girl, <lora:chun_li:0.7>,chunli , asian woman, masterpiece,  best quality,    <lora:yojiShinkawaStyle_offset:1>, shinkawa youji, monochrome, greyscale,

@@ -1,0 +1,6 @@
+ultra realistic 8k cg, 8k,picture-perfect face, flawless, clean,nsfw, {{masterpiece}},best quality, beautiful lighting, Intricate, High Detail, depth of field,  film grain, artbook,dramatic,  incredibly,absurdres,
+1girl, goddess, ((perfect female body, narrow waist)), gorgeous queen, royal, divine, goddess, godlike, (royal palace),queen,rich,skinny, WombTattoo, sexy, charming, alluring, seductive, erotic, enchanting, dreamlike, unreal, science fiction,  fantasy,(mature female:1.4),white hair, blue eyes(looking at viewer:1.2), red lip, (trembling,Panting,blush,open mouth,tongue out,drooling saliva),<lora:murkysAfterSexLying_1:0.8> ((after sex, bukkake, lying on bed,sweat,wet body,cum, covered in cum, cum in pussy)),
+perfect large breasts(F cup:1),beautiful clothes, lace, lace trim, lace-trimmed legwear, hair ornament, necklace, earrings, bracelet, armlet,
+<lora:fashionGirl_v50:0.2>  <lora:cuteGirlMix4_v10:0.5> 
+<lora:photorealisticWombTattoos30_v301:0.7><lora:breastinclassBetter_v14:0.3>
+<lora:breastCurtains_v10:1>

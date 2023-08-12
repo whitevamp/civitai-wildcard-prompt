@@ -1,0 +1,4 @@
+Gwyndolin, short white hair,  solo,   
+GwyRob, ((large gold mask,)) covered eyes, gold jewelry,
+open  cathedral, nighttime, moon,
+(insanely detailed, beautiful detailed lips, masterpiece, best quality)       <lora:Gwyndolin-10v3:0.7>

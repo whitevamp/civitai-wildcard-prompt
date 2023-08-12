@@ -1,0 +1,5 @@
+masterpiece, best quality, ultra-detailed, illustration, 1girl,
+((looking at viewer)), upper body, closeup, smile,
+living room, bed, bookshelf,
+long hair, pink hair, french braid, glasses, pink shirt, (denim overalls),
+blue eyes, medium breasts, shirtlift, nipples, <lora:shirtliftALORAFor_shirtliftv1:1>

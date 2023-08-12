@@ -1,0 +1,3 @@
+1girl,quiff, (floating hair),Classic and refined sheath dress with a tailored fit and knee-length hem,
+, Ashley Wood,beautiful long legs,renhang,
+<lora:tangbohu-detailmaker_v2.5:-1.7> <lora:tangbohu_saturation_v1.0:0> <lora:luckday_20230620102442:0.3>, <lora:Renhang_20230622161247:0.7>

@@ -1,0 +1,1 @@
+(close-up:1.2) photography of (Romanian  girl:1.3), (30 years old:1.2), short pink hair, (looking at viewer:1.2), posing, at night,dusk,foggy,sunset}, wearing (pastel sexy cashmere:1.2), cleavage, wearing elegant dress, flat lighting, (soft saturation:1.2), analog style,<lora:add_sharpness:0.3>, <lora:photoblend:0.4>, <lora:epiNoiseoffset_v2Pynoise:0.4>,

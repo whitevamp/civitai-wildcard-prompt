@@ -1,0 +1,3 @@
+1girl,ultra high res,(best quality, masterpiece:1.2),ultra-detailed,portrait,full body,style of a idol,(pleasure face:1.3,enchanting smile),
+nsfw,looking down viewer,standing at street,legs spread,wielding a whip, (police uniform:1.3), police hat, police jacket, open jacket,see-through panties,lace-trimmed fishnet,garter belt, high heels thigh boots,shoulder board,necktie,police car, handcuffs,police pistol,police badge,
+<lora:Pure_Innocent_girl:0.2>

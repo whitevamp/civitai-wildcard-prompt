@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, stairs, from below, looking at viewer, blush, closed mouth, panties, sitting on stairs, embarrassed, [cameltoe, covered nipples], closed mouth, sweat, knees up,
+ryomou shimei, school uniform, medical eyepatch, red bowtie, blue gloves, sweater vest, white shirt, short sleeves, plaid skirt, blue socks, loafers,  <lora:RyomouShimeiV2_1-000005:1>,  <lora:more_details:0.5>

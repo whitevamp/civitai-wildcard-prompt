@@ -1,0 +1,1 @@
+beautiful, ((masterpiece:1.2)), ((best quality:1.2)), extremely detailed face, perfect eyes, perfect face, perfect lighting, 1girl, solo focus, lips, belle delphine, long hair, brown eyes, pink hair, petite, <lora:CubzeV1Anything:0.85> , <lora:DI_belle_delphine_v1:0.7>

@@ -1,0 +1,2 @@
+best quality, photorealistic, 8k, high res, perfect lighting, gorgeous, masterpiece, realistic, closeup portrait,
+1girl, piercing eyes, wearing an off-shoulder sweater, medium breasts, long hair, looking at viewer, <lora:CStarzhouhuiminLora_v10:0.8>, <lora:epiNoiseoffset_v2:0.454>, kind smile, outdoors, in a cafe

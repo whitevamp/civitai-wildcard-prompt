@@ -1,0 +1,1 @@
+food, manga, miegoreng with egg fried and chilies on plate with banana leaf, ghible anime style, line art, wooden table, details, hot, soft focus, dramatic light, low ligt, blurry background <lora:ARWmiegoreng:1> <lora:add_detail:1> <lora:ghibli_style_offset:0.6>

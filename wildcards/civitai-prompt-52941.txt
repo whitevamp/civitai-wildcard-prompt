@@ -1,0 +1,5 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(high detailed skin,visible pores),(real person,photograph),
+(((white  gold hanfu,chinese style))),realistic,simple background,upper body,
+(8k, raw photo, best quality, masterpiece),(1 girl),photon mapping, radiosity, physically-based rendering,automatic white balance,(((long hair))),watery eyes,
+(blush|cute and playful|adorable|skinny|thick bangs|beauty|twintail|hair bun,),(looking at viewer),(irises and pupils are rounded,the pupil reflects the surroundings,eyes are not the same size),<lora:Moxin_10 (1):0.5> , double ponytail hair,  <lora:Yangchaoyue_V1:1>, pink flower, yellow flower,

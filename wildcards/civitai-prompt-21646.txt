@@ -1,0 +1,14 @@
+Aesthetic: ((psychedelic, hallucinatory, mind-expanding, colorful, counterculture, trippy):1.4)
+BREAK
+Composition: <lora:Showeringv2:0.6> (1girl, solo), wet, sweaty, perfect body, perfect face, perfect eyes,, (<lora:ClothingAdjuster2:-0.5> clothes, (wearing clothes, wearing crop top, wearing shirt), perfect breasts, covered breasts, (breasts underneath shirt), cleavage , ((in the rain, outside in the rain)), <lyco:TankTopSkinTightv320:0.2> see-through) 
+BREAK
+Lighting: Mysterious Moonlight, Enchanting, Serene
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+(good quality:0.997),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

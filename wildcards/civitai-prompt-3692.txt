@@ -1,0 +1,5 @@
+(ultra realistic, highly detailed:1.4), best quality, masterpiece
+dark forest, girl, spiderwebs, squatting
+((big breasts):0.75)
+<lora:spiderlegs:0.5> ((spdlgs, extra legs):1),
+arachne, attached at the hip

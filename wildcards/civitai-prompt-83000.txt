@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, HoldingMonsterEnergy, <lora:HoldingMonsterEnergy:0.7>, gigachad, <lora:Char_Sigmas_GigaChad:0.8>

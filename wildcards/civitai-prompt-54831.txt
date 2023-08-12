@@ -1,0 +1,1 @@
+RAW, analog style, A stunning portrait of a beautiful woman, plain white background, nbdy-celeste-sd15, ((highly detailed skin, skin details)), sharp focus, (button up collared blouse), 8k UHD, DSLR, high quality, film grain, Fujifilm XT3, <lora:epiNoiseoffset_v2:1>

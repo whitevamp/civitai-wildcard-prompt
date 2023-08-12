@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.6>
+Henshin, solo, looking_at_viewer, shirt, 1boy, animal_ears, jewelry, jacket, white_shirt, upper_body, male_focus, necklace, black_jacket, orange_eyes, mask, glowing, headphones, wolf_ears, furry, furry_male, headphones_around_neck, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

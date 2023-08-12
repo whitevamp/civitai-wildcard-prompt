@@ -1,0 +1,2 @@
+4K, Masterpiece, highres, absurdres,natural volumetric lighting and best shadows, deep depth of field, sharp focus, soft delicate beautiful attractive face,vandread,blonde ((Nadia with sunglasses and a choker)) , vandread drawing style, <lora:Dita:0.25> <lora:Nadia:0.35> <lora:zeronis:0.25>
+(edgMechagirl, a woman in a mecha outfit,futuristic armor,wearing edgMechaGirl cyber_armor :1.2),cowboy shot<lora:edgMechagirl:0.7>

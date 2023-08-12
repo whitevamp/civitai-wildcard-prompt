@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 20mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> sitting , bed,  <lyco:FilmProvia2:0.3>, deep shadows, contrast, cute hands , mouth open morb4cc4r1n, <lyco:InsPX:0.2>Belted wool coat in a deep emerald green for a pop of color,  (looking at camera , black lipstick ), annoyed

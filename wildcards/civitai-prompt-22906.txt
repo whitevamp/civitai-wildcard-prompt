@@ -1,0 +1,4 @@
+1girl, solo, female, (oshino_shinobu),<lora:loraOshinoShinobu-v1:0.6>, (blonde) (blonde_hair), (yellow_hair), ((long_hair)), ((bangs)), (yellow_eyes), blush, pointy_ears, (blush_stickers), flat_chest,
+white_dress, bow, bracelet, pose, barefoot, full_body, ((helmet)), ((googles)), hands_on_own_head, arms open, holding, smiling
+global illumination, hdri, subsurface scattering, masterpiece, 4k, raytrace, beautiful, sharp, smooth skin, bloom, anime
+sunset, nature, mountains, clouds, grass, flowers, fireflies

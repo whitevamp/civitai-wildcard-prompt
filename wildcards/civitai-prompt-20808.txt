@@ -1,0 +1,3 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, High quality, beautiful, masterpiece, best quality, 
+blood, dark theme, disgusting body horror creature, 
+ <lora:LowRA:0.8>   <lora:bodhor:0.7>

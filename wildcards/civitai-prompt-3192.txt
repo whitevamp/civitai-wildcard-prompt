@@ -1,0 +1,2 @@
+editorial photograph of  woman, wearing white & gold 2 piece , swirling colorful glowing plasma, glowing blue energy, rainbow liquid, lightning, heatwave, wings, blonde flowing straight hair, nice hands, perfect hands, medium breasts, long legs, cleavage, ribcage bone, fractal octane render, extremely detailed, finely detailed face textures, rim light, soft lighting, <lora:GoodHands-beta2:1>  hourglass figure, 1girl, lens flare
+<lora:more_details:1>   <lora:Unholy:0.6>  style-sylvamagic,  style-swirlmagic <hypernet:sxzBloom_sxzBloom:0>

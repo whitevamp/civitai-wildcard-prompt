@@ -1,0 +1,3 @@
+(hair bow),(partially underwater shot:1.4),aquarium,full body,dynamic pose, bright,
+(floating hair:1.2),(detailed skin:1.3),(detailed eyes),petite,small breasts,(see-through swimsuit:0.8),bioluminescence, (nude:1.3),
+<lora:MengX girl_Mix_v30:0.8>,<lora:ClothingAdjuster3:0.2>

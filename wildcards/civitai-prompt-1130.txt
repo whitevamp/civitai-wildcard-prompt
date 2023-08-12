@@ -1,0 +1,2 @@
+maiden, artist, creative, sparkling eyes, thoughtful face, color-streaked hair, manga, inspired, painting, denim overalls, vibrant coverage, canvas, paintbrush fingers, sketchpad, art studio, cityscape, imagination, sketch, drawing scene,
+ <lora:c4ttitudeflexver:0.7>  <lora:OC:0.15>

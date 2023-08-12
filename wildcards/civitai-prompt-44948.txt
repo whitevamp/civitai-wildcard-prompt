@@ -1,0 +1,5 @@
+Generation Data
+Prompt
+TXT2IMG
+((full body)), best quality, masterpiece, ultra high res, realistic, photo-realistic, soft lighting, 4k, ray photo,[(awaitingtongue-sd-v1-800:1.2)::20],
+1gril,solo,kpop idol,((abs)), puffy eyes, short hair, [aegyo sal], (small breasts), (sexy lingerie),((slim)),nipple, garter straps, high heels, breasts out, glasses, sexy pose, physically-based rendering,((M_leg)), ((selfie pussy before mirror)),professional lighting, photon mapping, happy, (high detailed skin:1.3) , (high detailed skin:1.4),(open mouth:1.25), (tongue out:1.25)

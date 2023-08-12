@@ -1,0 +1,4 @@
+(masterpiece, best quality), photorealistic rendering, game cg cinematic, abstract and colorful paint style, <lora:add_detail_v5:1>, <lora:anime3d:0.75>, <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult  woman, freckles, red eyes, silver fishtail braid,
+ looking down, solo, (full body:0.6), detailed background, detailed face, (<lora:StonepunkAI:0.6>, stonepunkAI, stone theme:1.1) falconer, bird resting on shoulder, falcon resting on shoulder, falconer gloves, light smile,  medieval fantasy setting, high fantasy, brown furred leather clothes, cape,  hood,  straps, belt, enchanted forest, bushes, vines,  rocks, lake, (Style-SwampMagic:0.4),  roots,   leaves, ferns,  (butterflies:0.9), feathers, wildlife,   sunshine, 
+<lora:_rL2170:0.4>,

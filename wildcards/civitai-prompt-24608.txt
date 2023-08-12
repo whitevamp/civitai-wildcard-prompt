@@ -1,0 +1,1 @@
+1girl, portrait, upper body, pale skin, black hair AND blonde hair, multicolored hair, expressionless face, freckled:0.6, beautiful woman, simple background, red_background, beautiful eyes, from front, looking at viewer,  <lora:add_detail:1>

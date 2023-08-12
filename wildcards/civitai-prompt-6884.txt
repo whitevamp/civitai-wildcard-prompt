@@ -1,0 +1,2 @@
+BREAK, (masterpiece, best quality, absurdres:1.4), (highly detailed CG illustration), highly detailed, (extreme detailed:1.5)
+BREAK,  <lora:add_detail:1>

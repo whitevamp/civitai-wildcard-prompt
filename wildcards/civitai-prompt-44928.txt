@@ -1,0 +1,14 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res, nfsw
+back lights, light leaks, from front, (stand:1.2)
+1boy, 1girl, sex, (doggystyle:1.4), (grabbing from behind:1.4), breast grab, medium breast
+slim, twin ponytails, (pureerosface_v1:1)
+kpop idol, (nipples:0), (bow-tie:1.2), (white pantyhose:1), naval
+(beautiful detailed eyes:1),(beautiful detailed face:1), (bottomless:1.2), (nude:1.2), (topless:0), (freebuffing:1.2)
+pussy juice
+indoors, classroom
+
+<lora:StandingDoggystyle_v11a:0.9>
+<lora:realisticVaginasAsian_asianpussy1V1:0.3>
+<lora:xRayHentai25_xRayHentai25:0>
+
+<lora:koreanDollLikeness_v15:0.6> [:<lora:chunmomo_v10:0.35>:0.4]  <lora:japaneseDollLikeness_v10:0>

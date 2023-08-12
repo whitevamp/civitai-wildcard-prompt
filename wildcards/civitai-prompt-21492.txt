@@ -1,0 +1,4 @@
+(masterpiece, best quality, intricate:1.3), (1girl) and (multiple boys:1.1), armbinders, ( (poolside:1.2) background, in night party at terrace:1.2), gorgeous, nipples, cowboy shot, clitoris, 
+(armbinders:1.2), tied, (black armbinders:1.25), (tied:1.15), latex, bound, (Tray is supported by the breasts:1.3), champagne,
+BREAK waitress bdsm, (chained tray:1.3), waitress girl, standing position, collar, arms behind back, bondage, <lora:waitress:0.6:MIDD>
+<lora:ZArmbinders:0.86:pose>  <lora:anime_minimalist_v1:-0.3> <lora:flat2:-0.5>, (saliva,ahegao, eyes looking up, rolling eye, euphoria, orgasm) <lora:CyberPunkAI:0.7> <lora:BNJ:0.45:MIDD>

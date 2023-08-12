@@ -1,0 +1,4 @@
+takada akemi,
+sailor school uniform, 
+1980s \(style\), painting \(medium\), retro artstyle, watercolor \(medium\),
+<lora:takada_akemi_offset:0.5>  ((akinanakamori)), <lora:akinanakamori:0.8>

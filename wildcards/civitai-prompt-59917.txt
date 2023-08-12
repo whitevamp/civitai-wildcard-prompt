@@ -1,0 +1,1 @@
+jar jar binks, doggystyle, Beautiful Art Style, 1girl, 1boy, all fours, doggystyle, looking at viewer, dutch braid, mushroom forest, christmas costume <lora:jarJarBinksGunganStar_v3:0.6>" <lora:doggystyle_v2:0.8>

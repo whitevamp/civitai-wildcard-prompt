@@ -1,0 +1,2 @@
+<lora:WoodIronAI:.91> WoodIronAI
+computer  . detailed, intricate

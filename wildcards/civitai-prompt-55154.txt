@@ -1,0 +1,5 @@
+<lora:teamworkConcept_v2:1>, masterpiece, best quality, real picture, intricate details, 4girls, 1boy, teamwork, fellatio, cum, cum on face
+Appearance: {mature:.5, young:.5, green_eyes:.8, blue_eyes:.8, brown_eyes:.8}
+Clothing: {white nurse outfit, braless:.4, lace_bra:.6}
+Behavior: annoyed:.4, happy:.4, angry:.4, looking at viewer
+Location: indoors, hospital

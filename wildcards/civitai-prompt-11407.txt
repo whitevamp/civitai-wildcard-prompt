@@ -1,0 +1,4 @@
+1girl,solo,masterpiece,best quality,<lora:sexyOLsuit:1>,sexy ol suit,skirt,underboob:1.5,necktie,sleeveless,midriff,navel,areolae,areola slip,
+cinematic lighting,high quality shadow,
+Canon EF 24-70mm f/2.8L II USM,Sony Alpha a/R IV,
+<lora:epiNoiseoffset_v2:0.5>,

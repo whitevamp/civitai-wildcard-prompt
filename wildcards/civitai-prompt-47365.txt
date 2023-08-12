@@ -1,0 +1,4 @@
+[(white background:1.3)::3],Dynamic angle,Bottle bottom,(falt color:1.2),(look at the viwer:1.3),colorful,floating wind,(Highest picture quality), (Master's work),
+(Detailed eye description),(macro shot:1.25),(8K wallpaper), (Detailed face description),depth of field,(lens flare),
+floating water, (mount fuji:1.3),floating rain,stream,wilderness,small dust, ((breeze)), wind, summer, sunset,(blurry background), road by the sea,Mountains and forests,water,wading,partially_submerged,(Strong sunlight:1.2),(Altocumulus:1.2), butterfly, falling petals,(standing:0.85),
+(close-up:0.8),(fisheye:1.2), (1loli:1.2),small breasts,long hair,hair ornament,detailed beautiful eyes, earings,(intricate clothes:1.3), short skirt,bare shoulders,  (dress), (satin,plunging_neckline,sleeveless,translucent,wet clothes:1.2),collarbone,pointy ears, red eyes,(from above:1.2) <lora:hestiaDanmachiLora_v10:0.6>

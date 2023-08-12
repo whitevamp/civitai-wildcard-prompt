@@ -1,0 +1,14 @@
+<lora:ilicheng_v1_chilloutmix_NiPrunedFp16Fix_100it_100pic:0.7>blushing embarassed smiling ilicheng, 
+mouth closed, balanced eyes,
+(Best quality details:1.2),realistic,8K High definition,(1girl:1),Ultra Detailed,High quality texture,intricate details,detailed texture,finely detailed,high detail,extremely detailed cg,High quality shadow,Detailed beautiful delicate face,Detailed beautiful delicate eyes,Depth of field,Ray tracing,(a beautiful 25 age years old sexy korean taiwan girl:1),medium breast, tall_female, beautiful_legs, Glow Eyes,blush,  perfect body,skinny, 
+blurry indoor background, 
+transparent 
+fashionable
+Jeans, 
+ 
+formal
+Ring,
+
+ open coat:1.1, [brown_skirt]:1, stockings and garterbelt:1.2,  straight hair, cozy living room, sunlight, kneeling on sofa, earrings,necklace, model, looking at viewer, dynamic pose, 
+
+ ulzzang-6500-v1.1:0.01

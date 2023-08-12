@@ -1,0 +1,2 @@
+(masterpiece, best quality), (centaur, horse_penis, huge breasts, huge penis),wide_shot, anime
+ <lora:futanari_horse_penis_lamia:0.1> <lyco:centaurfuta_v1.0_locon_AdamW8bits:0.6>

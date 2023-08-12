@@ -1,0 +1,3 @@
+clown, fantasy creature,
+Sy3, <lora:Sy3:.9>
+Best quality, masterpiece, ultra high res, absurdres,

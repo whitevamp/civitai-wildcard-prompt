@@ -1,0 +1,1 @@
+masterpiece, best quality, secret_flower, bottomless, makima \(chainsaw man\), red hair, long braided hair, golden eyes, red flowers, medium breasts, <lora:SecretFlowerV1:1>, <lora:makimaChainsawMan_offset:1>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed), 1girl, solo, <lora:flat_illustration:1>,  <lora:neco-arc:0.8>, short hair, red eyes, animal ears, tail, cat ears, blonde hair, slit pupils, :3, neco-arc, red skirt, black stockings, high heels, simple background, smile

@@ -1,0 +1,7 @@
+(one male) (1boy), (rear view:1.6), (three-quarter portrait:1.5) (cowboy shot:1.5)
+Very detailed masculine face, detailed realistic open eyes, bodybuilder, (big muscles), (big pectorals), narrow waist, (smile). (looking at viewer:1.2)
+(Barbarian:1.2), bare shoulders, belt, blonde hair, blue eyes, bodypaint, (full-body tattoo:1.5), long hair, male focus, manly, necklace, topless male.
+In a lush remote, dense foliage tropical jungle, tropical flowers, butterflies, distant waterfalls.
+Realistic, photoreal, High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light, vibrant colors, depth of field.
+<lora:BulkedUpAIR1.5:0.3>
+<lora:RPGBarbarian:1>

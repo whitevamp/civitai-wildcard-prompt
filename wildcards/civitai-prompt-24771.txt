@@ -1,0 +1,2 @@
+spring,Alps, chalets, sheep, blue sky, white clouds, meadows, trees, many flowers, distant mountains,There is a castle in the distance, tranquillity, shepherd boys, rocks
+ <lora:Texture illustration_20230709102900:0.85>

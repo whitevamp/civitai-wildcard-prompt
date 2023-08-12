@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1girl, long hair, red hair, messy hair, red highlights, hair over one eye, blue eyes, sharp eyes,
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>

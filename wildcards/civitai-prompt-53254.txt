@@ -1,0 +1,1 @@
+1girl,druid,elf,flower,eyelashes,horns, beautiful,looking at viewer,forest (masterpiece, high quality:1.2),none  <lora:NonHentaiElf_v10:0.9>

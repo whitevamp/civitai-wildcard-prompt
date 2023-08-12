@@ -1,0 +1,1 @@
+<lora:clayMann:0.6> detailed, masterpiece, absurdres, best quality, flat colors, vibrant colors

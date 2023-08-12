@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra high res,St.Louis_LuxuryHandle,
+1girl,solo, ruby necklace, black beanie, (long white cloak), nsfw, slim body, (naked:0.5),(snowy mountain, snow, snow field, snowing),(white micro bra:1.2),
+looking at viewer,(upper body:0.8),(portrait:0.7),
+<lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

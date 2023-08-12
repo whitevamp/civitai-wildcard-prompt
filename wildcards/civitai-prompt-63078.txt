@@ -1,0 +1,2 @@
+1girl, (8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, (real person,fashion photography portrait,photograph), detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),japan idol,pink hair, bangs, long hair, pink hair,red eyes,twintails,twin hair buns,double ponytail, hair ornament, flat breasts, small breasts, naughty face, pink skirt,in a train, train background, (crowd), professional lighting, 
+ <lora:Pure_ Innocent_ girl2-000009:0.5>

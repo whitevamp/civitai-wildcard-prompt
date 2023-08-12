@@ -1,0 +1,1 @@
+cupa_minecraft, 1girl, solo, standing, close up, green_hoodie, green_legwear, brown_gloves, minecraft forest, holding tnt block <lora:cupa_minecraft_v0.0:0.7>

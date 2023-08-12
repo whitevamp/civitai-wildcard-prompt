@@ -1,0 +1,2 @@
+masterpiece, best quality, extreme detail, (realistic), madammim,sitting across table, pov,(purple skin:1.18), long nose,close up, portrait, one piece swimsuit skintight swimsuit, cleavage, long hair, purple hair, huge breasts,(saggy breasts), green eyes, red lipstick, outdoors swimming pool, water, bench, vegetation, sun, detailed background, happy, open mouth, (wet hair)
+<lora:madammim-12:0.75> <lora:zovyaWetHairLORA64_V1:0.5>

@@ -1,0 +1,8 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.4), masterpiece, extremely delicate and beautiful,Amazing, finely detail, extremely detailed CG unity 8k wallpaper, huge filesize, ultra-detailed, highres, absurdres, soft light,rim light, vibrant details, ((perfect hand:1.2)),((perfect leg:1.2)),
+blurry background, blurry foreground, depth of field,
+Take a selfie with phone in one hand and cover face, 
+1girl,full body, 
+[standing|on chair|sitting|butterfly sitting|lazy sofa], 
+[stockings|pantyhose],
+iphone, selfie, pose,small hand,
+p_m_s_s,  <lora:PMS_v001_sofa:0.6>

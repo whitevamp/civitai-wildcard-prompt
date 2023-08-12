@@ -1,0 +1,1 @@
+DSLR photo, dog wearing sunglasses sitting in a chair in a diner, <lora:NeonNoir-000002:0.65>, (green and yellow neon lighting:1.2), dark makeup, NeonNoir, hard shadow, masterpiece, best quality, Intricate, High Detail, 8k, modelshoot style, film grain, <lora:theovercomer8sContrastFix_sd15:0.3>

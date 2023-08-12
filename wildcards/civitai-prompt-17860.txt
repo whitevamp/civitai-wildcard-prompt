@@ -1,0 +1,8 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1girl, solo, outfit-bladenun,
+standing,
+large breasts, thick thighs, wide hips,
+white hair, absurdly long hair, 
+open mouth, blush,
+no panties, habit, (blindfold:1.2),
+<lora:outfit-sword_maiden-pynoise:1>

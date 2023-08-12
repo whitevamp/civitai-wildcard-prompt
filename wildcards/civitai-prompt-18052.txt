@@ -1,0 +1,5 @@
+blue eyes,twintails,blonde hair,long hair,Mesh-paneled leggings,
+takamaki anne(persona 5),
+(nsfw),thighs,
+Expert Shading, Intricate Detail, Atmospheric Beauty,
+<lora:takamaki_anne:0.75>

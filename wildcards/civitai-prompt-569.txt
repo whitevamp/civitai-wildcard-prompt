@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.4), colorful, vibrant image, sharp focus, highly detailed, intricate, ultra detailed textures, digital art, HDR, 8K,
+Kitami Reika is standing with hands behind head and exposed armpits, armpits focus, medical room, summer afternoon complex blackground, near window with blue sky, (tricky glance:1.1), looking at viewer, (cowboy shot:1.05), 
+blonde hair, short hair, lipstick, makeup, black eyeshadow, smokey eyes, detailed hair, ultra detailed face, blue eyes, perfect eyes, perfect face, jewelry, cross earrings, blush, 
+black corset mini dress, skirt, bare shoulders, black thighhighs, undressing lab coat,
+mature female, 40yo, curvy,  (Large Breasts:1.1), cleavage, <lora:Kitami-000008:0.9>  <lora:GoodHands-vanilla:0.75>

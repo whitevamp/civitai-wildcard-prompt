@@ -1,0 +1,1 @@
+portrait, headshot, photo, highly detailed, Paul Newman, retro, ((spiked punk hair, shaved sides, )), (blade runner, cyberpunk), <lyco:Paul Newman:1.0>

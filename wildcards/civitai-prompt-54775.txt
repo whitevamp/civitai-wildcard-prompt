@@ -1,0 +1,8 @@
+(best quality, masterpiece:1.3), ultra high res, high detail RAW color photo, cinematic lighting, side lighting,
+[sci-fi],(cute female arterial intelligence),rear angle, on overlook, perfect face, seductive look, (cybernetic implants:1.2),
+(cyborg:1.1), (detailed skin, diffused skin pores),silicone, metal, (highly detailed, fine details, intricate),
+1girl, solo,(full body:1.5),((robot arm)),white hair,very long hair, 
+sailor suit,black skirt,antique firearm,navel,
+(black background,simple background:1.5),
+  <lora:tifaMeenow_tifaV2:0.2> 
+ <lora:taiwanDollLikeness_v10:0.2> pureerosface_v1

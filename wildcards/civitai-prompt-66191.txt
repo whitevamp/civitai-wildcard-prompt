@@ -1,0 +1,2 @@
+girl, portrait, (rembrandt:1.1), painting_\(medium\), oil_painting_\(medium\), chalky_colors, low_contrast, washed_painting, lower_colors
+low_saturation_colors, low_contrast_colors, faded

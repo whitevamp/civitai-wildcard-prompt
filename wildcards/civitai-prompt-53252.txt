@@ -1,0 +1,1 @@
+1girl,sci-fi,ranger,gorgeous,ornate, beautiful,looking at viewer,perfect lighting, (masterpiece, high quality:1.2),  <lora:NonHentaiElf_v10:0.9>

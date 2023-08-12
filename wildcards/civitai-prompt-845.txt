@@ -1,0 +1,6 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,
+1girl, <lora:A2_SuperSaiyanHair:1>,(SuperSaiyan),(blonde hair, super saiyan, spiked hair, aura, electricity),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(huge_breasts),(cleavage),(narrow waist),(skinny legs),(looking at viewer),
+__hair__,__hairC__,
+<lora:jpn-idol:0.2>,<lora:LOL_style-000014:0.2>,<lora:mix4:0.1>,<lora:xiaoshazi:0.1>,<lora:koreanDollLikeness_v15:0.2>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,
+__background__,

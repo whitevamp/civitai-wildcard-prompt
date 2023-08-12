@@ -1,0 +1,1 @@
+(photorealistic:1.4), (masterpiece, sidelighting), dark fantasy, (robotic:1.2), neon, glass material, 1boy <lora:dingzhenlora_v1:0.8>

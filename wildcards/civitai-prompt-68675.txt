@@ -1,0 +1,5 @@
+sam yang,
+
+1girl, black eyes, black hair, covering mouth, earrings, hand over own mouth, jacket, jewelry, looking at viewer, multiple rings, portrait, ring, scarf, snowing, solo, white scarf
+, ((masterpiece))
+<lora:sam_yang_offset:1>

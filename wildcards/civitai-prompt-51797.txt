@@ -1,0 +1,18 @@
+(masterpiece, 4k :1.2),(beautiful face:1.2),(realistic:0.5),(anime:1.2),
+(solo:1.2),
+(teasing_smile),
+(mature,milf,25years_old:1.2),
+
+(pov:1),
+(outdoor,flower_garden,sunlight:1.2),(standing:1),(back,butt,ass),
+
+
+
+(pale_skin:1),(black hair:1.2),(wide_hips:1.2),
+(blue_thong,blue_bra,high_heels),,
+(nezuko_Demon_Slayer_Kimetsu),(bamboo_gag,gagged,gag),(sakura),(pink_eyes,pink_hair_clip,pink_open_kimono,tattooed,long_hair),(shiny_skin),(shiny_breasts,large_breasts,Long_legs),(shiny_face,high_detailed_face),(stockings),(smooth_curvy_body),
+
+
+ <lora:gachaSplashLORA_v40:1>,
+ <lora:nezukoDemonSlayerKimetsu_offset:1>,
+ <lora:hipoly3DModelLora_v10:1>

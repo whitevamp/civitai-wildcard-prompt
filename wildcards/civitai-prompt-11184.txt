@@ -1,0 +1,1 @@
+wpega,<lora:Sleep-15:1>, man and man sleeping embraced, sleeping, smile, (closed eyes), hug, bed

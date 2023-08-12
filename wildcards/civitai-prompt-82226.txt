@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 
+1girl,  <lora:imnekoloraa:0.8> Gura, multicolored hair, blue eyes, shark hair ornament, gold hair ornament, gold choker, gold bracelet,  <lora:he-man_offset:0.8> he-man,

@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl, blue alien tentacles, full body, playboy, sensual, modeling for Playboy, wearing leather boots, natural skin texture, dynamic pose, red lipstick, rouge, film grain, <lora:ClothingAdjuster3:0.1> <lora:InstantPhotoX3:0.8>

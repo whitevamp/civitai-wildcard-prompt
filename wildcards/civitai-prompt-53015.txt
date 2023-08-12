@@ -1,0 +1,4 @@
+nsfw, extremely intricate,from side, (close up shot), breasts focus, 1girl, solo, (leaning forward), looking at viewer,  hand on hair, showing cleavage, (small breasts:1.5), day, blackboard, classroom, wearing glasses, sexy teacher outfit, (unbuttoned white button down shirt:1.45), (see through:1.3), one breast out, (nip slip:1.2), tight skirt, stockings, pantyhose, erotic face, seductive face, exquisitely detailed skin, cinematic light, rim lighting, ultra high res, perfect anatomy, best shadow, delicate, half naked, ring, blue sky, cloud, <lora:downblouseForBoobs_v1:0.35>,
+
+, (JinxLol,:1.2) mature female, cloud tattoos, looking at viewer, :o, <lora:jinx:1>,
+arcane style, 1girl, asymmetrical bangs, bangs, blue hair, collarbone, sweaty, green hair, long hair,  pink eyes, red lips, twin braids,  arcane jinx, jinx \(league of legends\) <lora:arcane_offset:0.5>

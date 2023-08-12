@@ -1,0 +1,1 @@
+frontal headshot of 25yo european woman, blond hair, smiling, (incredible skin detail:1.4), (natural skin:1.2), (pores:0.6), make up, (detailed iris:1.2), collar, black background, studio, rim light, dark atmosphere, (bokeh:1.2), photograph, cinematic, photorealistic, ultrarealistic <lora:epiNoiseoffset_v2:1> <lora:illuminatiDiffusionV1_v11:1>

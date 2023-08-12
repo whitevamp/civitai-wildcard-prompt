@@ -1,0 +1,1 @@
+full body,, <lora:[Style] Pixel Art:0.5>, pixel, pixel art, simple background, white background, <lora:[Anime] Ahri Spirit Blossom:1>, 1def, pink hair, long hair,

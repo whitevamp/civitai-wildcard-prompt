@@ -1,0 +1,6 @@
+((best quality)), ((masterpiece)), (detailed),photorealistic, ultra high res, intricate, hyperdetailed, (skindentation), cute, feminine, detailed body , (detailed face:1.1),(perfect eyes), 4k, beautiful,(1girl:1.4),(gigantic breasts:1.6),thick eyelashes,long eyelashes,perfect dynamic composition,(gyaru:1.2),
+raiden shogun,purple hair,purple eyes,,hair ornament,hair flower,braided ponytail ,cleavage,jewelry,earrings, bangs,open clothes,tied shirt, tented shirt,unbuttoned shirt,bra peek,lace-trimmed bra,(leopard print:1.4),belt,pleated skirt,black thighhighs,lace-trimmed legwear,garter straps,see-through,oil,hoop earrings,gyaru,evil smile,seductive smile,blush,seductive pose,(seductive smile:1.4),thick lips,(huge lips:1.3) , (massive lips: 1.3), (parted lips:1.3), (thick lips:1.6),street,
+(8k), (4k),(Masterpiece), (Best Quality), fantasy, extremely detailed, intricate, hyper detailed, detailed eyes,(perfect face), illustration,soft lighting,(specular lighting:1.4),shiny skin,looking at viewer, 
+ <lora:RaidenShogun-HandsFix:0.4>
+ <lyco:AromaStyle-V9:0.5> 
+ <lyco:AnimeGal_v10:1.0>

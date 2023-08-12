@@ -1,0 +1,1 @@
+<lora:nijiexp-000010:0.8>,sword, weapon, katana, sheath, male_focus, sheathed, scabbard, bandages, 1boy, headband, white_hair, solo, weapon_on_back, ready_to_draw

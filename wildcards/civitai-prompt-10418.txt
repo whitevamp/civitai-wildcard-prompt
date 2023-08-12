@@ -1,0 +1,2 @@
+<lora:GlassSteelAI:.9> GlassSteelAI
+car  . detailed, intricate

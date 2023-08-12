@@ -1,0 +1,7 @@
+masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, (nice hands, perfect hands), <lora:GoodHands-vanilla:1>,
+<lora:kurumi_imari:1>, kurumi imari, 1girl, solo, (smile:0.8), very fascinating pose, on bed,
+black thighhighs, BREAK
+indoors, natural lighting, detailed shadow, detailed background,
+<lora:epiNoiseoffset_v2Pynoise:0.7>, <lora:flat2:0.3>, <lora:lit:0.2>
+profile, pov, morning
+<lora:buruma230422d-20:0.35>, (kurumi imari wearing (buruma:1.2) and (white gym uniform:1.0), cowboy shot, wariza, barefoot), (medium breasts:1.2),

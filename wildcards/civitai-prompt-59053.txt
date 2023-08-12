@@ -1,0 +1,4 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+(woven, symmetrical, complex, radial), fantasy world, 1boy, abstract expressionism, underwater adventure, celestial bodies, surreal interaction, imaginative, bold strokes, thought-provoking, a fauvist touch, earthy tones, neo-expressionism, by jean-michel basquiat, keith haring, os gemeos, kaws, damien hirst, marcel dzama, anselm kiefer, yoshitomo nara, dale chihuly, camille rose garcia, captivating, fusion of realities,
+(nsfw:0.9),(see-through|areola slip|nipple_slip:0.9),thighs,
+(deep shadow, low key), <lora:lowra_v10:0.38> , <lora:oc_v10:0.15>

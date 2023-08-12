@@ -1,0 +1,1 @@
+Masterpiece, exquisite, 8k, 1 girl, exquisite long hair, swordsman, (Chinese armor:1.1), Hanfu, Cyberpunk, mechanical, (high stockings:1.2) long sword <lora:nijiMecha:0.5> <lora:wuxia2:0.55> <lora:EABA_v1:0.2> <lora:hanfuTang31:0.2>

@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), glitch art, (digital distortion), pixelated fragments, data corruption,colorful noise, visual chaos,contemporary aesthetics, lucy \(cyberpunk\),  <lora:lucyCyberpunk_42Epochs_2:1:yaolian>

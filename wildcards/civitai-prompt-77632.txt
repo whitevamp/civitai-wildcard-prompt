@@ -1,0 +1,4 @@
+<lora:concept_hoac-13:0.9>(masterpiece, best quality:1.2), pov, solo focus, upper body, 1woman,white bloodless Injuried hand on another's cheek, scare,
+fear,,evil smile,laughing out loud,black eyes and pupil matte and crazy ,
+open mouth,
+  yelling,black hair, blue eyes, straitjacket, spooky forest, kkw-splatter,  <lora:LowRAv2:0.3> <lora:filmgirlFilmGrain_v40:0.3> <lyco:InsPX:0.55>

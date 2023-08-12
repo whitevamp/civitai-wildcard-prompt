@@ -1,0 +1,1 @@
+masterpiece, best quality, feMorgan, 1girl, black robe, belt, white pants, brown boots, yokozuwari, books, library, from above, looking at viewer, smile <lora:morgan-nvwls-v2-000010:0.9> <lora:concept_yokozuwari-12:0.7>

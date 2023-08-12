@@ -1,0 +1,1 @@
+1girl, volleyball uniform, tall, realistic, indoor stadium,standing ,looking at viewer,(masterpiece, high quality:1.2)<lora:VolleyballUniform_v20LyCORIS:1> <lora:microwaist_03Lora:0.6> <lora:jessiePokemon_v1:1>, holding a small volleyball ball,  (large breasts), showing soft midriff

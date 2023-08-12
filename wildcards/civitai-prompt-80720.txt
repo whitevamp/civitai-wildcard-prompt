@@ -1,0 +1,1 @@
+openposeman,  stick man, sitting, outdoors, girl<lora:openposeman:1>

@@ -1,0 +1,1 @@
+somber film ,WarmLight,1girl, white dress,flower field,<lora:FilmVelvia2:0.2:PALETTE>  <lora:yzym:0.6:face> <lora:darkstyle_20230615161134:0.4:CLOTHING>

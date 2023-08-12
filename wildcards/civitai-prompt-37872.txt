@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, leotard, sleeveless, knee boots, haigure pose, open hands, standing, spread legs,<lora:haigure_pose_v2:1>, cowboy shot, outdoors, street,, hancock1, 1girl, boa hancock, large breasts, long hair, <lora:boa_hancock_v1:0.9>,

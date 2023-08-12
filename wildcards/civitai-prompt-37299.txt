@@ -1,0 +1,9 @@
+real photo ,(woman behind counter:1.1),busy crowded superstore,supermarket,(checkout clerkwoman checkout clerk at work:1.2), cinematic,dia,vintage,
+(best quality, masterpiece_1.6),highres,(cowboy shot:1.4),masterpiece_portrait,intricate_details,Canon EF 85mm f/1.2L II USM,soft light,(sunlight),Cinematic Light, focus blur:0.4, Film Grain:0.6, Ray tracing:0.6, Dynamic Range:0.3, median:0.4,solo focus,
+Conveyor belt, filled with various goods, neatly arranged, slow and continuous movement, efficient product scanning and bagging by the cashier,
+Cash register, Barcode scanner, Cash drawer, Receipt printer, Bagging area, Point of sale (POS) system, Payment methods, Customer service desk, Pricing and product information, Queue barrier, Cashier station, Loyalty card scanner, Security cameras, Hand sanitizer and hygiene supplies, Training materials,
+smile,
+(full figured:1.2),(plussize:1.1),
+long Red  hair, hair bun parting,milf,
+translucent   purple (  glossy latex  nightgown:1.2) orange latex checkout clerk dress,  high heels,
+<lora:Real BBW V1:0.3><lora:add_detail:1>    <lora:bigHardLatex_v10:0.4> <lora:tangbohu-breasts_2:1>

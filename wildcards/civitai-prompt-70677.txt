@@ -1,0 +1,2 @@
+masterpiece, 1girl, solo,  from bellow,bending, red bobbles,
+hoshino ruri, twintails, hair bobbles, collared shirt, black necktie, orange vest, pencil skirt, black socks, grey shoes <lora:hoshino_ruri:0.6>,   standing,

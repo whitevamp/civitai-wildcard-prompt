@@ -1,0 +1,13 @@
+absurdres, light particles, ultra-detailed, best illustration, skin texture,
+detailed face, cowgirl position, girl on top, from above, nsfw, hip focus,
+2boys,
+(<lora:estheticFutanariTrap_tr41:0.4>,(newhalf, futanari, 1boy, otoko no ko, (flat chest:1.2), male focus),
+short hair, (wide hips), (penis, (medium penis), (testicles), ((ejaculation))))
+AND
+(1boy, penis),
+anal, ((((cum in ass)))), ((((cum in ass)))), flying sweatdrops,
+spread legs, leg lock, leg grab,
+bare arms, (w arms), arms up,
+on bed, (on back), presenting,
+(rolling eyes, glowing eyes),
+<lora:eroticBunnyCostume_eroticBunnyCostume:0.4>, reverse outfit, rabbit ears, navel, breasts, revealing clothes,

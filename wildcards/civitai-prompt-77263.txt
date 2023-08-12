@@ -1,0 +1,1 @@
+(masterpiece, best quality, highly detailed:1.2), (catherinevg), (solo:1.1), happy, seducing viewer, close to viewer,<lora:CatherineVG:0.7>, (handpull, pulled by self, dress pull, flashing, one breast out, no bra, cleavage:1.1), selfie, looking at viewer,smile, blush,  <lora:handpull-12:0.9>

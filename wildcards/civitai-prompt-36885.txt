@@ -1,0 +1,1 @@
+cyberpunk female, woman wearing (Pearlescent Yellow Silk Kimono with color-morphing patterns:1.2), (tight full bodysuit:1.1), (Apricot Blush,White color background:1.3), (futuristic interior:1.2), <lora:MG_jijia:0.6>  <lora:futuristic_interior:0.7>

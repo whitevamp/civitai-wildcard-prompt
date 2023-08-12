@@ -1,0 +1,3 @@
+(masterpiece,best quality, detailed), 1girl, solo, indoors, dark, feet out of frame, thigh gap, clenched teeth, looking at viewer, v-shaped eyebrows,
+faye valentine, yellow hairband, yellow shorts, thighhighs, topless, covering breasts, night,
+ <lora:FayeValentineV3-000006:1>,  <lora:more_details:0.5>,  <lora:qqq-covering_breasts_crotch-v1-000015:0.6>

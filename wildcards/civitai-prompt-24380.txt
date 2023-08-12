@@ -1,0 +1,3 @@
+1girl,slg,effect lighting,
+A meditative artwork with serene colors and gentle forms, inviting a sense of calm and introspection, Within a mystical grove, a tree of secrets blossoms, its flowers and leaves whispering ancient knowledge and hidden truths to those who seek wisdom, Curtained, Enchantress, Tall, Fit, Heart-Shaped Face, Olive Skin, Auburn Hair, jade Eyes, Straight Nose, Thin Lips, Prominent Chin, Shoulder-Length Hair, Thick Hair, Low Messy Bun, round breasts, Dangle earrings, beige stain lipstick, Glassy luster that creates a transparent and reflective surface,depth of field, day
+<lora:slg_v11:1> <lora:FilmVelvia3:0.6>

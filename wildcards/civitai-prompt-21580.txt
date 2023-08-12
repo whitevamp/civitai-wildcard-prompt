@@ -1,0 +1,1 @@
+a (soviet poster) of a cute kitten as a general, (intricate details), military hat, hdr, (intricate details, hyperdetailed:1.2), cinematic shot, vignette, centered,  soviet union <lora:soviet-poster:1.0>

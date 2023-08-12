@@ -1,0 +1,1 @@
+photo of a robot standing in a dark cave, bones arms, skinny, running, (close up:1.1), night, lighted face, (flashlight:1.2), intricate, blur, (reflective metal:1.1)  <lora:flashlight_v15A:1.0>

@@ -1,0 +1,1 @@
+used img2img with lazymix. works great with the right images and simple short prompts.

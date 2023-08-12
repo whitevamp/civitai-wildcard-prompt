@@ -1,0 +1,3 @@
+pastel color, 
+1girl, solo, smile, short hair, simple background, white background, jewelry, white hair, earrings, parted lips, black eyes, portrait, sunglasses, 
+flat color , <lora:choomoranma-04:0.7>

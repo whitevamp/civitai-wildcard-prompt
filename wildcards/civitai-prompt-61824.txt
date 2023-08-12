@@ -1,0 +1,4 @@
+mini\(ttp\),best quality,masterpiece,detailed,isometric,miniature, landscape,
+mirror, 
+village, tree, flower, cloud, water, chibi, 
+<lora:miniature_V1:0.6>

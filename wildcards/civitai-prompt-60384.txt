@@ -1,0 +1,3 @@
+(masterpiece), (best quality), seductive expression, 1girl,
+(<lora:hibanaFireForce_hibanaffV20:1, hibanaff, ffclothes, wearing ffclothes>),
+sexy, full body, sexy pose,

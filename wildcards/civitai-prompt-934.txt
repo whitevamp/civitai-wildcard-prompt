@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format, (depth),  <lora:add_detail:0.5>
+1 girl, adult jewish woman,  brown eyes, chestnut waterfall braid,
+(style-swirlmagic:1.0), portrait, looking down, solo, upper body, detailed background, detailed face, (gothic dark fantasy theme:1.1) evil wizard,  light blue magical robes, sinister smirk, purple color scheme, dark crimson light, library,  glowing magical runes, evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by red lightning <lora:LightingVFX:0.1>, casting spell, summoning, (thick melting candles:0.8), purple arcane symbols, corrupted by eldritch power, power-hungry eyes, bloom,
+<lora:zaunT_zaunV1:0.3>,

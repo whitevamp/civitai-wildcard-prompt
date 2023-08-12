@@ -1,0 +1,3 @@
+((masterpiece,best quality, detailed)), 1girl, solo, cowboy shot, hands on own hips, outdoors, night, cityscape, starry sky,
+<lora:AsukaV1-000016:0.5>, souryuu asuka langley, red bodysuit, interface headset,
+<lora:A-Mecha-REN:1.5>, (mecha musume, mechanical parts, robot joints, full armor)

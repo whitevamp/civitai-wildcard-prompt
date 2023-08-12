@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), Princess Peach, looking at viewer, blush, smile, open mouth, large breasts, cleavage, short sleeves,blond hairs, blue eyes, frills, scared, sweat, puffy sleeves, white gloves, tongue out, pink dress, puffy short sleeves, frilled dress, crown, sitting  on a red sofa,<lora:thickerLinesAnimeStyle:0.2> <lora:ppeach:1.0>

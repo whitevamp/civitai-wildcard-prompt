@@ -1,0 +1,2 @@
+(4k, highres, best quality, masterpiece:1.2), photo of (1uciajavorcekova:0.99), <lora:saintSeiyaSagittarius_v10:0.6>, light on face, 
+1girl, full body, detailed eyes, detailed face, detailed skin, large breasts, SagittariusArmor, female armor, long golden wings,  walking on the ancient greek battlefields, solo focus, <lora:WmonmusuValkyrie_v01:0.5>, mgq_valkyrie, wings, beautiful detailed sky,

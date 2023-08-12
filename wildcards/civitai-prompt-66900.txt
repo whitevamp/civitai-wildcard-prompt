@@ -1,0 +1,7 @@
+masterpiece, best quality,
+ <lora:melina:0.6>,melina \(elden ring\),
+1girl, solo, looking at viewer, 
+brown hair, medium hair,yellow eyes,scar across eye, expressionless, one-eyed,
+black cape, hooded cloak, 
+defoliation,Golden Tree,
+cowboy shot,

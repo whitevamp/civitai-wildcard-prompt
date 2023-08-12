@@ -1,0 +1,4 @@
+(photorealistic:1.4), raw photo, 1girl, hyperrealistic, 35mm film, hazy blur, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, beautiful japanese city, ((sakura)), pink sakura tree,
+upper body, CG, thunder, lighting, ,open cloth, ((big breasts)), off-shoulder kimono, (long violet hair:1.3), hair ornament, 
+gold crown, gold necklace, earrings, bracelet, armlet,
+<lora:RaidenShogun-hands:0.8>

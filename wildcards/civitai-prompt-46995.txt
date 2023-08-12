@@ -1,0 +1,7 @@
+best quality, highres,masterpiece,intricate details,realistic, raw photo,
+3girl,fashi-girl,flawless,sexy,charming,seductive,erotic, alluring, enchanting,
+perfect female body,mature female,shiny skin, skindentation, narrow waist,clean,pale skin,
+picture-perfect face,perfect face, beautiful face,beautiful  eyes, orgasm face,looking at viewer,
+huge breasts, puffy nipples,
+teacher and student and school doctor, 
+<lora:koreanDollLikeness_v15:0.2>,<lora:fashionGirl_v50:0.6>,  ulzzang-6500-v1.1,

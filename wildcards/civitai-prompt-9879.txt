@@ -1,0 +1,3 @@
+(Best quality:1.4), (masterpiece:1.4), ultra high res, (photorealistic:1.4), 8k raw photo,  cinematic lighting, rim lighting, highly detailed, official art, flawless, sharp focus, deep shadow, deep of field, delicate and beautiful, beautiful elegant face, detailed eyes, godly, full body, baroque painting style, 
+perfect female figures, (huge breasts:1.2), slim waist, royal, jewelry, diamond, sitting on the chair, castle, indoor, fantasy, middle shot, center focus, symmetrical,  crossed legs, royal white sexy dress, lace type dress, high heels, fantasy, fantasy theme, smiling,  
+ <lora:add_detail:1>  <lora:fechin:0.6>

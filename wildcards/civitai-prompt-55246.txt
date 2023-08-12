@@ -1,0 +1,3 @@
+((best quality)), (masterpiece), monadef, 1girl, outfit,pose,pov from behind, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, sexy outfit
+
+ <lora:epiNoiseoffset_v2:1> <lora:monaGenshinImpact_v10:1>

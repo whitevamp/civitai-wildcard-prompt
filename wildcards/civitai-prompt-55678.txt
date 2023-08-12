@@ -1,0 +1,5 @@
+(Masterpiece, Best Quality, High Quality, Highres:1.4), Detailed, Extremely Detailed, Ambient Soft Lighting, 4K,
+
+Outdoors, (Nature, Oak Forest:1.2), (Rocks:1.2), Mountais, Flowers, Plants,
+
+<lora:NoiseOffset:2>

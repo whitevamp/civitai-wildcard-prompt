@@ -1,0 +1,4 @@
+(((blonde hair:1.2,  <lora:AmericanDollLikeness:0.55>, white skin,))),  laughing:1.3, laugh512, full body shot,(small_head), outdoors, in a luxury Hotel lobby, indoors,  sunny:1.4,bokeh:1.2,
+1 girl,fit, solo,zshs, long sleeves, a woman in a red and blue dress and a crown,<lora:zshs-10:0.8>, wedding shoes,
+medium_breasts:1.2, floating_hair,  long hair,  tiny_waist, realistic_detailed_skin_texture,  good hands, good feet,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, ((Hasselblad photography)),physically-based rendering, professional soft lighting, light on face,<lora:GoodHands-beta2:1.3>,

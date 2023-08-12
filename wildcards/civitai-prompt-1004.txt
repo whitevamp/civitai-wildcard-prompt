@@ -1,0 +1,6 @@
+<lora:add_detail:1>, masterpiece, best_quality, 
+1other, androgynous, artist_name, bangs, black_footwear, black_necktie, black_shirt, black_shorts, blue_hair, elbow_gloves, full_body, gloves, high_heels,katana, looking_at_viewer, necktie, rainbow_hair, shirt, shoes, short_hair, short_sleeves, shorts, solo, sword, thighhighs, weapon, white_legwear, 
+BREAK
+elemental water wizard, surrounded by swirling water, water ball, <lora:waterVFX:0.4> 
+fantasy spellcaster clothes, dynamic pose, ethereal water, drops of water, ocean in background, shore, bright lighting, ethereal atmosphere,
+( style-swirlmagic:0.8) ,

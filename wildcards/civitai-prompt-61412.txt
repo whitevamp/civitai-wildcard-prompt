@@ -1,0 +1,2 @@
+<lora:blade-doodle_v2.0:1> white background, 
+<lora:sono-bisque_v4.0b:1> kitagawa marin, kitabkn,, masterpiece, best quality, highly detailed

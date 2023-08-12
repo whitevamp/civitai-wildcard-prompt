@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2),1girl, solo, jk_lure_dress2, looking at viewer, glasses , cowboy shot, sitting in classroom, <lora:add_detail:1.2>, <lora:jk_lure_dress2:1>

@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette, (depth), (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.4>
+1 girl, adult russian woman, freckles, dark brown eyes, medium blonde updo hairstyle,
+(character focus:1.1), portrait, solo, half shot, detailed background, detailed face, (<lora:MusketPunkAI:0.6>, MusketPunkAI theme:1.1), aristocratic pose, smiling, ruling class, elegant clothing,  looking up at floating (cloud city:1.1), utopian cloudtop sky-city, floating platforms, floating buildings, dome, balcony, railing, bridges, propellers, clouds in background, balloon in background,  cinematic atmosphere,

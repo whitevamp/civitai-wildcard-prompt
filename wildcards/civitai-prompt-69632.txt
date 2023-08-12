@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,  (abstract:1.2), (zentangle:1.2),  luminous effects, vibrant colors, visual chaos, fluid movement, captivating patterns, creative experimentation, highest detailed,
+1 girl, adult ukrainian woman, freckles, yellow eyes, chestnut blowout hair,
+character focus, portrait, solo, upper body, looking at viewer, detailed background, detailed face, (tribal celtic barbarian theme:1.1),  botanical researcher,  leaves,   magical plants,  blooming flowers, glowing plants, greenhouse effect, floating plants,  (style-sylvamagic:0.8),  green  energy, healing magic, green color scheme,   herbs, seeds,   science, botanical laboratory in background, backlighting, magical atmosphere,
+<lora:generalIllustrationLora_lycoSafetensors:0.8>,

@@ -1,0 +1,1 @@
+(fantasyclassics:0.9), skeleton castle <lora:FantasyClassics:1.1>

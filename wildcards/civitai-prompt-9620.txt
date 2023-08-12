@@ -1,0 +1,3 @@
+1girl,   [scarlett johansson: Liv Tyler:0.2], abstract shapes 
+ (  Victo Ngai), 
+<lora:add_detail:1>

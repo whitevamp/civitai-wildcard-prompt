@@ -1,0 +1,1 @@
+<lora:RPGWerewolf:0.9> werewolf:1.2, solo, open mouth, red eyes, lowing, fangs, glowing eyes, claws, standing, teeth,  realistic:1.3, depth of field, 8k, cinematic, ((night)), ultra detailed

@@ -1,0 +1,1 @@
+1girl, (best quality:1.4), (masterpiece:1.4),detailed eyes, multiple eyes, red_black background japanese cutie, pale skin, without makeup, dark theme, (yotsugiononoki), (ononokihat), hat, <lora:zaadyotsugi-v1:0.7> aqua_hair, short_hair, green_eyes, twintails, dress, striped_thighhighs, yellow_footwear, <lora:more_details:0.5>, 3dmm style, <lora:3DMM_V12:1>

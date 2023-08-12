@@ -1,0 +1,1 @@
+masterpiece,best quality, (in Rembrandt style:1.3), award winning oil painting, The moonlight shines down upon it, bringing with it swirling magical lights, the forbidden tree, trending on art station, stunning visuals, creative, ultra detailed, style-swirlmagic, <lora:add_detail:0.4>, <lora:epiNoiseoffset_v2-pynoise:1.4>, 

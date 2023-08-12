@@ -1,0 +1,1 @@
+(1girl) (digital) ( in detailed bathroom,  (armor)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2> khorne, skull, <lora:khorne:0.7>

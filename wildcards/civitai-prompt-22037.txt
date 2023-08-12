@@ -1,0 +1,2 @@
+(masterpiece, best quality),realistic, photorealistic,photorealism, ultra detailed, highly detailed, cinematic lighting, intricate details, shiny skin,extreme detailed eyes,glowing eyes,blush,smile,looking at viewer,hair flower ornaments,<lora:add_detail:0.8>,  upper body,arms behind back,night,outdoors,lake,city lights, (( turtleneck sweater, sleeveless,   )),  
+,huge breasts,  <lora:tsunadetest:1>,tsunade, blonde hair, yellow hair, facial mark, forehead mark, long hair, makeup, mature female, (brown eyes:1.7),

@@ -1,0 +1,4 @@
+masterpiece, best quality,
+1girl, (asuna:1.2), very long hair, light brown hair,  mole, mole on breast, hair ribbon,blue eyes, halo, hair over one eye ,animal ears, rabbit ears, blue leotard, playboy bunny, (black pantyhose:1.4), (white gloves), large breasts, casino, indoors, chandelier ,
+
+ <lora:asunaLoraCollectionOf_asunaHard:1> <lora:LoconHangingBreasts_v1:0.2>

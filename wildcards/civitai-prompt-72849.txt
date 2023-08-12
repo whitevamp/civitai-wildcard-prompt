@@ -1,0 +1,6 @@
+masterpiece, best quality, extremely detailed, intricate, full-length shot,
+1boy, colorful compression clothing, (white socks, bare legs:1.2) bare chest, abs, muscular body, big pectoralis, shiny skin, white skin,
+detailed face, light smile, frown, closed mouth,  black eyes, short black hair, eye reflection, choker, shiny necklace, sweat,spread legs, 
+looking at viewer, manly,
+indoors, living room, (soft front light:1.2), sunlight, clearly background,
+<lora:chineseMaleLikeness_chineseMaleLikeness3:0.68>  <lora:handsomeMan_v10:0.3>  <lora:epi_noiseoffset2:0.45>

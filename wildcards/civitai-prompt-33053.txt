@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, cowboy shot, (photorealistic:1.4), 8K, raw photo, 1girl, wearing lingerie, bedroom background, dynamic pose, red lipstick, portrait, dynamic pose, (looking at the viewer:1.2), rouge,  film grain, closed mouth <lora:FilmVelvia3:0.4>  <lora:ClothingAdjuster3:-0.7>

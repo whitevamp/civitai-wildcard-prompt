@@ -1,0 +1,6 @@
+1girl (30yo) stunningly beautiful mature Japanese, facing camera, (large white wings:1.2), long dynamic black hair, subsurface scattering,
+black choker, earrings, (smiling:1.3), dimples, nsfw, nude, breasts, nipples,
+feathers, motes, dust, (bokeh),
+((cinematic lighting)), professional photograph, dramatic lighting, (deep shadows), backlight, rimlight, night, dark, dim, black background,
+<lora:JapaneseDollLikeness_v15:0.4>
+8k, raytracing, highest quality, masterpiece

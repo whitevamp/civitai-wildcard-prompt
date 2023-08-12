@@ -1,0 +1,5 @@
+nsfw,(8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.3), (photorealistic:1.3), ultra-detailed, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, best quality, beautiful lighting,
+(detailed room background),(dept in field),
+, 1girl (sitting on a bed),, blonde hair, gloves,twin long braid,,ultra cute,(front view:1.3),,,(orgasm_face:1.3),,intricate (black) silk and lace sexy_attire ,wearing sexy_attire, (slim),(small breast),
+ ,, makeup, necklace, bracelets,stockings,
+,<lora:sexy_attire:0.8> , <lora:ellaFreyaLora_v10:0.8>

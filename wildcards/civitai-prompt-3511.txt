@@ -1,0 +1,5 @@
+face portrait of a 1 girl, gorgeous female warrior,  smile 
+(photorealistic, rim light,    methurlant), moebius
+fantasy, dnd,  dungeon, 
+(masterpiece, best quality:1.3), depth of field
+ <lora:epiNoiseoffset_v2:1> <lora:methurlant:0.1>

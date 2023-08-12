@@ -1,0 +1,1 @@
+realistic, photorealistic, masterpiece, best quality, 1girl, solo, smile, looking at viewer, long black hair, cowboy shot, cns_dress, pettiskirt, standing, (china jiangnan water town style:1.1), beautiful sky, netural lighting,<lora:Cute Asian Face:0.65> ,  <lora:cns_dress_style3_v2:0.7>

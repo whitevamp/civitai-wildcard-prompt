@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), ultra realistic,32k,RAW photo,(high detailed skin:1.2), soft light, vibrant color, 1 girl, (screaming:1.2), (running:1.2), (fairy wings, butterfly wings:1.2), <lora:Flower_fairy:0.5>

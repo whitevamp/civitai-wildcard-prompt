@@ -1,0 +1,1 @@
+outfit-durga, 1girl,squatting,breasts, green eyes, large breasts, long hair, earrings, solo, looking at viewer,on toilet,  <lora:char-hk416:0.85> <lora:outfit-durga-pynoise:1>

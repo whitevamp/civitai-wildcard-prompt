@@ -1,0 +1,3 @@
+1girl, orange hair, green eyes, teenage, long shirt, training shorts, standing, looking at viewer, face close-up,
+closed mouth, straight-on
+ <lora:facePoserConcept_conceptFacePoserV3:1>

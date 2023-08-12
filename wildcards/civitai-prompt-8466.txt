@@ -1,0 +1,2 @@
+masterpiece, best quality, absurdres, <lora:tendourushuna-grenadier-richy-v1-000009:1>,
+TendouRushuna, <lora:zerosuit-nvwls-v1-final:0.8> zero suit, (red bodysuit:1.6)

@@ -1,0 +1,1 @@
+<lora:LowRA:0.8> epic, маша друже makeup (друже:1.3), dark background

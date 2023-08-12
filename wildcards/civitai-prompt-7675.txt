@@ -1,0 +1,1 @@
+RAW photo, a photo of a female in painted clothes, bodypaint, fake clothes, form fitting, long haircut, pale skin, slim body, background is beach, (high detailed skin:1.2, highly detailed face), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3,  <lora:painted clothes5:1> , <lora:add_detail:0.4>

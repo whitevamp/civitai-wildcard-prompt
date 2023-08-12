@@ -1,0 +1,1 @@
+(bright face:1.3), (bright body:1.3), color photography of (Congolese  woman:1.3), nsfwEM, solo, (standing:1.2), large breast, cleavage, (looking at viewer:1.3), (eye contact:1.3), (short hair:1.3), in city alley, dark theme, flat lighting, (soft saturation:1.2), analog style,<lora:add_sharpness:0.7>, <lora:photoblend:0.5>, <lora:LowRA:0.1>, <lora:epiNoiseoffset_v2Pynoise:0.5>

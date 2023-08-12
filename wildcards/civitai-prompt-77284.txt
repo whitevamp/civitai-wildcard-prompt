@@ -1,0 +1,4 @@
+(masterpiece, best quality),ultra detailed, unity 8k wallpaper, exquisitely detailed skin,cinematic film, beautiful and aesthetic,glowing skin,perspective,(90s dark fantasy movie still),Moody lighting,best anatomy,(portrait:1.2)(dark night)((low key,dark scene))(from above)
+a deeply drank mature female is sitting sideways and leaning on a wooden boat floating on the lake with one hand supporting,at summer night,((simple white silk suspended dress))(finely detailed beautiful eyes and detailed face),charming, seductive, (full body), (starry sky reflected in the water background),
+fantasy, high contrast, ink strokes, explosions,blue tone impression,over exposure, ((watercolor painting by John Berkey and Jeremy Mann)) brush strokes, negative space,
+<lora:LowRa:0.4>

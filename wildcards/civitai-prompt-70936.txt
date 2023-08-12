@@ -1,0 +1,4 @@
+absurdres, highres,
+(1girl, solo), big eyes,
+townscape,
+(Water Effects, Light Effects, Fluttering Feathers:1.2),

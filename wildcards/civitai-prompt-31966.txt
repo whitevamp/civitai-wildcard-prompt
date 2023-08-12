@@ -1,0 +1,3 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.3), (1girl),((1boy:1.5)), (1 girl and 1 boy have sex), (1 girl squats on a penis: 1.5), young girl, 19 years old,
+<lora:firekeeper2:1.1>, torn robe, firekeeper, bottomless, (nsfw), full body,  wavy blond hair, (messy hair), torn thigh high, (thigh high), bare foot, thin lips, head bowed, ((on the bed)), ((sex)), hands behind head, <lora:PSCowgirl:0.9>, squatting cowgirl position, vaginal, pov, orgasm face, climax, open mouth,
+(inside an old castle, stone wall, canopy, stove, fire in the stove), ((dark, dim)), beds, pillar, wooden closet, ((dark night, candle: 1.2)),  <lora:FilmVelvia3:0.6><lora:add_detail:0.5>

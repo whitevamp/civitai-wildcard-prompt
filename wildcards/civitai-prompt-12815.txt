@@ -1,0 +1,7 @@
+<lora:Black_See-through_Bodysuit:0.7>, black see-through bodysuit, 
+completely naked, nude, large breasts, detailed areolae, navel, posing for a photo,
+((upper body shot)), rim light, bokeh, depth of field, soft light, sunset, 
+outdoor, seashore, blue water, horizon, 
+smile, looking at viewer, sitting on rock, 
+(masterpiece), best quality, absurdres, nsfw, (photo-realistic), a beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, ((wet black hair)), good hands,
+<lyco:GoodHands-beta2:0.8>

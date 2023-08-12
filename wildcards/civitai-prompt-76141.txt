@@ -1,0 +1,6 @@
+solo, full_body, (best quality, masterpiece, absurdres:1.2), extremely delicate and beautiful, front view
+sharp focus, delicate, close-up
+smooth skin,detailed skin texture, vibrant shiny skin,wet skin
+(gigantic_breasts:1.4), (thick thighs:1.2),  wide hips, big ass,pussy,(pubic hair)
+beach,on the stomach
+<lora:add_detail_lora:0.5>

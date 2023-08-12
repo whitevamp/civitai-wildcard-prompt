@@ -1,0 +1,4 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed, <lora:realistic:0.3>, <lora:sharpen-soften:-0.25>,
+(1man, muscular adult russian male:1.2),  jade eyes, copper hair, medium hair,
+ portrait, solo, upper body, detailed background, detailed face, (aztec theme:1.1), (glowing eyes:1.05), wise, white tribal markings,  elementalist shaman, mystical, dark orange  clothes,  totem, amulet,  headdress,  surrounded by red magic swirls, campfire in background, ritual, storm, cinematic atmosphere,
+<lora:priconneCharacterFocus3_v1Counterfeit:0.3>,

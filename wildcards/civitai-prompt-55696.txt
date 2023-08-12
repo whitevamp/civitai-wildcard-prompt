@@ -1,0 +1,1 @@
+<lora:PhonePic-18:1>, PhonePic, viewer holding phone, phone screen, nude, <lora:KnightT:0.7>, KnightT, armor, 1girl

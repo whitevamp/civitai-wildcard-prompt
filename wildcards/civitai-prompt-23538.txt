@@ -1,0 +1,1 @@
+(full body view: 1.5), hypman, masterpiece, best quality, highres, realistic, handsome man, 1boy, muscular, strong, male focus, tan body, Black hair, short hair, beard, ((blindfold)), (Latex bodysuit),  wet, sweat, ((large pectorals)), sitting, indoors, front view, bulge <lora:TurbomaleV7_64:.3>, <lora:human_anatomy_v1:.15> <lora:HypmanV10:1>

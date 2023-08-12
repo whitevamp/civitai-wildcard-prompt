@@ -1,0 +1,14 @@
+AliceWonderlandWaifu, woman, absurdres,, leaning foward, from above,  detailed light,((cinematic lighting)),very detailed eyes, best quality, beautiful face, ultra detailed, highres, (light rays),best quality,((shortstack:1.6)), very long hair, 
+1girl, (small breasts:1.1),  beautiful,   (average body weight:1.4), ( curvy:1.6), (wide hips:1.3),  , solo,  ((shortstack:1.7)),(skindentation:1.5),(fliying hair:1.4),
+, (blush:1.2), looking at viewer,  thigh gap, 
+shiny skin, 
+long blond hair, cute smile,
+action shot, slow motion, motion blur, face focus, (dynamic angle:1.2), (dynamic pose:1.2), holding a knife, 
+frilly dress, mushroom forest, blue dress with white apron, wonderland, black headpiece with bow, blue eyes, mushroom forest, 
+light blue Victorian-style dress,short puffed sleeves and a white pinafore apron layered over the skirt, skirt flare, black ribbon tied into a bow, soft, lightweight fabric, (blood stained and blood splatter:1.3)
+(8k, RAW photo, best quality, masterpiece:1.2), photon mapping, radiosity, 35 mm focal length ,particles, accent lighting, ambient oclusion, film grain, depth of field,
+ravishing,  ,beautiful lighting ,    high detailed, 8k, vivid contrasting colors, chromatic aberration, ,vibrant digital illustration, , behance hd, best quality, (realistic:1.2), (high contrast:1.2),
+shallow depth of field, bloom, (RSEEmma:1.2),
+Volumetric Lighting, accent lighting, extremely detailed CG 8k illustrations, masterpiece, hyper detailed, best quality, ultra high res, high resolution, (intricate details),RSEEmma,
+<lora:add_detail:0.4> <lora:uv:0.3> <lora:FilmG2:0.4> <lora:LowRA:0.3>     <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.5>,     <lora:downblouse-v1:0.1>
+ <lora:Aliceinwonderland_character:0.4>

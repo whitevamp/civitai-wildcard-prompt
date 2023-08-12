@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting, Android18DB, solo, earrings, jewelry, looking_at_viewer, jacket, denim, shirt, upper_body, vest, denim_jacket, cloud, sky, black_shirt, closed_mouth, day, blue_sky, outdoors, torn_clothes, striped, striped_sleeves, mountain,  RAW photo, 8k uhd, film grain, <lora:Android18DB:1.2>

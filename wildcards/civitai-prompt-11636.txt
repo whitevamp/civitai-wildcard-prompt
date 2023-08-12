@@ -1,0 +1,1 @@
+<lora:ARWPrincessMononoke:1> sack puppet style, 1girl, solo, portrait of beautiful princessmononoke, photography, forest background, softfocus   <lora:Sack Puppet:1>

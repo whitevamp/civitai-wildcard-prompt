@@ -1,0 +1,10 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic), supermodel, woman, soft light, perfect face,
+ass up wait, 
+((lingerie)), long sleeve, 
+narrow waist, fit ass, small ass,
+brown hair,short hair,
+cozzy bedroom,
+full body, 
+((hands on bed:1.2)),
+nsfw, all fours, covered pussy,
+ <lora:ass_up_wait.v1.3-sd:0.55>

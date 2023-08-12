@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, school uniform, <lora:add_detail:1>, kangel, <lora:kangelNeedyGirl_v10:1>

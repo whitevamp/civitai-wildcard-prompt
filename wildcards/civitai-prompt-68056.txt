@@ -1,0 +1,1 @@
+hand  <lora:add_detail:1> <lora:LowRA.V2:0.6>

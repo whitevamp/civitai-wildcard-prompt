@@ -1,0 +1,1 @@
+onoff, (best quality), masterpiece, hires, photo-realistic, (high detailed skin:1.2), soft lighting, high quality, high resolution, 50mm, absurdres, 4k, 8k, uhd, volumetric lighting, Photograph, analog, hyper realistic, 30-year-old blonde woman, (hooker outfit, thigh-high boots:1.1), (night scene, city sidewalk:1.1) <lora:onOffLora_v150:1>

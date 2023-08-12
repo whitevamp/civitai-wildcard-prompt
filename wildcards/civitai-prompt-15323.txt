@@ -1,0 +1,3 @@
+1girl,Plant Hair, Leaning on an invisible countertop,(floating hair),Vibrant blue floral print thong with a scalloped lace trim,
+aesthetic,glenn fabry,nsfw,
+  <lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>

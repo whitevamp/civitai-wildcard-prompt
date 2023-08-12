@@ -1,0 +1,4 @@
+(8k, RAW photo, best quality, masterpiece:1.4), colorful, hyper detail, particles, depth of field, portrait, [sketch], volumetric light, ((atmospheric light)), wide angle,waterfall in the background,
+nature, leaves, wind, pure, love, warm, upper body, long ponytail, (pink dress,) red jacket, garden, (mature), (flowers),
+symmetrical face, beautiful girl, green eyes, shiny eyes,
+ aerith, <lora:aerithGainsborough_v10:0.5>

@@ -1,0 +1,1 @@
+((onoff)), (realistic:1.2),  photo of gorgeous thin high school girl 21_years_old in uniform <lora:onOffLora_v239:1> <lora:koreandolllikenessV20_v20:0.5> <lora:cuteGirlMix4_v10:0.1> <lora:breastinclassBetter_v141:0.2>

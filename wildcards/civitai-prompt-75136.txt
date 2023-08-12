@@ -1,0 +1,5 @@
+huaniao, [(white background:1.5)::5],chinese style, flowers,((fish)),beautiful detailed water,no humans,surrounded by mountains,mountains,<lora:huaniao:1>
+AND huaniao, surrounded by mountains,mountains,smoky,mist rising,
+AND huaniao, (((building))),<lora:qing:0.5>,no humans,
+AND huaniao, waterfall,beautiful detailed water,
+AND huaniao, lake water, lotus flowers and leaves, small boats, pine trees, octagonal stone pavilions, arch bridges,

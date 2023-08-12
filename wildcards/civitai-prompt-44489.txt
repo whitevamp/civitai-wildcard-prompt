@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,best quality,masterpiece,<lora:catman:0.7>,maomi,lovely,get down on the table,military uniform,police uniform,anger,police department,take a pistol,

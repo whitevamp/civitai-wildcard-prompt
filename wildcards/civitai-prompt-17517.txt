@@ -1,0 +1,2 @@
+A gigantic massive upright tall robot Barney in the style of BOTWbeasts, with glowing blue electrical energy, made of intricate carved stone and detailed ornate bronze, big head, teeth, small arms, walking across a vast empty rocky plain, ancient, overgrown, epic scale, weathered purple paint, 
+<lora:BOTWbeasts:0.7> <lora:Barney:0.6>

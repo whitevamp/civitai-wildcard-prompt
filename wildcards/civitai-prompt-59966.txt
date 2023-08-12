@@ -1,0 +1,4 @@
+best quality, intricate details, 
+1girl,   
+ <lora:moriCalliopeHololive_v10:0.8>  callirnd,pink hair,  callired, 
+ <lora:FeatureBlackSclera_v10:0.8> black sclera, colored sclera, scary, horror, full body, forest, night time, tree branches, graveyard, mist, moonlight, <lora:changeACharacter_demonictv10:0.8> DemonicT, blue skin, black sclera, colored sclera, colored skin, yellow eyes, demon wings, demon horns, slit pupils,

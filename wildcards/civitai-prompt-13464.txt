@@ -1,0 +1,4 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.30), (in the dark:1.40), 1girl, upper body,long sleeves mesh top, deep shadow, film grain, bokeh BREAK
+( hard light:1.2), (volumetric:1.2), well-lit
+BREAK
+(dimly lit:1.4)

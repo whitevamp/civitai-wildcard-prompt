@@ -1,0 +1,5 @@
+((best quality)), ((masterpiece)), ((realistic)), (detailed), cinematic lightning, highly detailed skin,
+girl, freckles, (blue eyes), long eyelashes, (shirt, ripped jeans), sneakers, (small breasts), standing, dynamic pose, looking at viewer, ((multicolored, pink hair, blue hair)), hair down, armband,choker,bracelet, double helix piercings, pokies, seductive,
+town, restaurant, pedestrians, snow, cyberpunk art, stunning gradient colors, detailed background, colorful flowers, vines, vegetation, 
+, ((masterpiece)), absurdres, HDR,
+<lora:add_detail:0.5>

@@ -1,0 +1,1 @@
+dining room gothic style, plant, flower, mirror, glass, mechanic, red light, spider web, vines, lens flare, dim light, epic, dramatic light, fog, dawn, dark, spooky, <lora:ARWBedroomGothic:1> <lora:add_detail:1> <lora:epi_noiseoffset2:0.6>

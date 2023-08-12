@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.6>
+Henshin, solo, looking_at_viewer, shirt, gloves, 1boy, jewelry, jacket, white_shirt, upper_body, flower, male_focus, necktie, collared_shirt, white_gloves, hand_up, black_jacket, mask, formal, ring, suit, fire, black_necktie, multiple_rings, covered_face, burning, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

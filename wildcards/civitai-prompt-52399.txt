@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, 8k,extremely detailed,intrcate detailes,1boy, night,school uniform, outdoors, rim lighting, dimly lit,joxsp,stand \(jojo\), <lora:dioKujoWithStandDIO_v10:0.5>, <lora:epiNoiseoffset_v2:0.8>,

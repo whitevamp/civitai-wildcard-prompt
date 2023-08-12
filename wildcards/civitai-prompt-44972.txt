@@ -1,0 +1,1 @@
+(((masterpiece))), (((best quality))), ((ultradetailed)),1girl,solo,short white hair,white transparent holographic clothing,black background,  light particles,  night,black night<lora:holov7:0.8> <lora:LoconLoraOffsetNoise_locon0501:1.5>

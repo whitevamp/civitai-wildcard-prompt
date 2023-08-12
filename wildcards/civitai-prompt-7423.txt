@@ -1,0 +1,2 @@
+1girl, full_body, blonde, multicolor bra and multicolor (panties), rim lighting, studio lighting, (linshop background with bras:1.5),(glossy eyes),fair skin, perfect face, contact iris, 
+ <lora:fbdrm3:0.5> <lora:enako-v2:0.3>

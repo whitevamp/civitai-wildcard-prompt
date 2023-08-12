@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3), dynamic lighting, cat, looking, tilted head, excellent detailed fur, cutest cat in the world,  <lora:zoom_slider_v1:4.5>,

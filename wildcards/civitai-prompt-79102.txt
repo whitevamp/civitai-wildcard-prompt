@@ -1,0 +1,2 @@
+masterpiece, best quality,stage,stage lights,singing,dancing, screen,smile, animal ears,blonde hair,bracelet,chain,choker,cleavage,earrings,facial mark,small ,dynamic pose,breasts,fox_ears,fox_tail,jewelry,high heels,microphone,(photorealistic:1.5),realistic,kda,ahri,fox_girl, <lora:kda-v1-lycoris-16dim-10ep-naivae:0.8:CLOTHING>
+(fullbody:1.5), rainbow-candy,style-nebmagic,depth of field,<lora:ballgown:0.3> <lora:holov7:0.4> <lora:StainedGlassAI:0.5>,particles,<lora:CrystallineAI:0.5>

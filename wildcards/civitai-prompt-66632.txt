@@ -1,0 +1,11 @@
+blush, (realistic:1.5), (masterpiece, Extremely detailed CG unity 8k wallpaper, best quality, highres:1.2), (ultra_detailed, UHD:1.2),perfect illumination, distinct, unreal engine, 
+BREAK
+(spacecraft:1.2)
+BREAK
+storm
+BREAK
+moon
+BREAK
+1girl, looking at viewer,sidelighting, perfect face, detailed face, perfect body, beautiful eyes, pretty face, scars on face, medium breast, wearing dress, star eye
+BREAK
+GlowingRunesAIV2_paleblue transmission tower,

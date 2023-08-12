@@ -1,0 +1,3 @@
+Alabaster statue, full body (marble: 1.2), antique statue, ancient greek god, muscular, detailed hands, ilya kuvshinov, raymond swanland, james gilleard, very detailed, bottom 5800K floodlight,
+<lora:marblesh:1>, <lora:marbleshLora_marblesh:1>, Museum interior background
+1.8 aperture, 8k, high saturation and smoothness, photography master Yousuf Karsh style, fantasy art, realism, dynamic light and shadow, artstation, poster, volumetric light, high detail, award-winning

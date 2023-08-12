@@ -1,0 +1,4 @@
+best quality, <lora:add_detail:0.25>, <lora:concept_goodHands:1>, <lora:detailed_eyes:1>, (Caucasian:1.2), 
+ <lora:character_twilightSparkleEqG_(mlptwilight--striped shirt--skirt--glasses):0.9>, mlptwilight, purple eyes, purple hair, pink hair stripe, multicolored hair, long hair, wet hair, tall,
+<lora:concept_burstingBreasts_LOCON_v1:1>, skindentation, 
+<lora:concept_costume_grisSwimsuit_v10:1>, gris swimsuit, large breasts, [muscular, biceps], abs, leg muscles, thigh muscles, (cameltoe:1.2), strapless, smile, smug, hands on hips, beach background, tropical, sunny, shiny skin, wet hair,

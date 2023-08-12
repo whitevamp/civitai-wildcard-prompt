@@ -1,0 +1,4 @@
+professional photo of xyzvelma, 1girl, beautiful, orange hair, glasses, orange sweater, bob cut, full body shot,
+detailed skin, detailed eyes, looking at viewer,
+volumetric light, highrez, masterpiece, best quality,
+<lora:VRAMsVelmaDaphne640:0.35:MIDD>

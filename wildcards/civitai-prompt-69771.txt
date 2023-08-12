@@ -1,0 +1,4 @@
+(TinkerWaifu:1), smile, cute, cute pose, looking at viewer, thick thighs, single hair bun, short hair, (strapless green dress:1), (fairy wings), sitting, (breast focus:1.2), from above, 
+(realistic:1.2), (realism), (masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1),(Cowboy-shot:1.2), (85mm),light particles, lighting, (highly detailed:1.2),(detailed face:1.2), (gradients), sfw, colorful,(detailed eyes:1.2),
+(detailed ladscape, inside a glass jar:1.2),(detailed background),detailed landscape, (dynamic angle:1.2), (dynamic pose:1.2), (rule of third_composition:1.3), (Line of action:1.2), wide shot, daylight, solo,
+ <lora:tinkerbell_character-20:0.6>

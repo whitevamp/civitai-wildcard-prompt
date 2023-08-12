@@ -1,0 +1,5 @@
+<lora:style-abyssaltech:0.9> <lora:style-gerald_brom-v2-trigger_bromart:0.5> <lora:style-salvador_dali-by_getphat-dali69:0.5> bromart, dali69, banshee, cocktail glass,
+ADDBASE
+masterpiece, best quality, famous artwork, professional artwork, realistic, (extremely beautiful:1.6) ghostly female banshee (upper body:1.2) (emerges from:1.2) an (abyssaltech cocktail:1.2), very long hair, white hair, abyssal, apparition, ghost, specter, (see-through:1.2), dark energy, dissolving, abyss,
+ADDROW
+masterpiece, best quality, famous artwork, professional artwork, realistic, (dissolving lower body:1.8), (abyssaltech cocktail:1.8), (ornate drinking glass:1.2), glowing blue liquid, (marble floor:1.1),

@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), ultra detailed, 1girl, <lora:KousakaReina:1> , kousaka reina, large breasts, 
+naked, pussy, nipples, 
+<lora:open_towel_v0.1:1>, wet hair, open towel, white towel,
+onsen, partially submerged, wooden bath,
+<lora:GodPussy1 v4:0.5>

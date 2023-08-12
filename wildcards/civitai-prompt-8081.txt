@@ -1,0 +1,1 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, (1 girl, full body, kneeling, holding long sword), white hanfu, <lora:shitu-mechaV1:0.65>

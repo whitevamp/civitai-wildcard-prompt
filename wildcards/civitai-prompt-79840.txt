@@ -1,0 +1,19 @@
+(vampire girl,standing on balcony,raining at night,:1.2),
+BREAK
+(long black hair,flowing dress,stockings,high heels,intricate clothes,black clothes,:1.2),
+BREAK
+(standing,leaning against balcony,looking at viewer,:1.2),
+BREAK
+(dark theme,gothic castle,distant town,moon in sky,cloudy:1.2),
+BREAK
+( ultra realistic 8k cg,uhd,sharp focus,digital art:1.0),
+BREAK
+(whole body:2.0),
+BREAK
+(detailed hair,smooth skin,oiled skin, glistning skin, shiny skin,young:1.8),
+BREAK
+(gorgeous,huge breasts,perfect female body,sexy, narrow waist:1.1),
+BREAK
+(makeup, eyeliner,eyelashes,detailed eyes,lipstick,puffy lips,botox,pursed lips,thick lips,big lips:1.4),
+BREAK
+ <lora:add_detail:2.0>, fakelips7-2500 ,<lora:oil2.0_2-512-64:1>

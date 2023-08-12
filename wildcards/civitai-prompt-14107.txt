@@ -1,0 +1,1 @@
+1girl,japanese,from_front,fullbody,upright,light smile,black lace personal clothing,wall,8k,masterpiece,best quality,ultra high res,ultra detailed,photo realistic,20 years old <lora:ClothingAdjuster2:0.0>

@@ -1,0 +1,1 @@
+cat, 1girl, black cat, holding animal, halo, braid, gloves, holding, long hair, holding cat, animal, hat, dress, blonde hair, white gloves, purple eyes, white dress, mask, 1boy, long sleeves, looking at viewer, cape, picture frame, formal, single braid, black headwear, suit <lora:add_detail:1>

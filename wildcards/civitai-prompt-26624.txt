@@ -1,0 +1,5 @@
+best quality, extremely detailed, ultra-detailed, 8K, nsfw,
+1girl, pretty face, black hair, glasses, single braid, naked hoodie, <lora:NakedHoodieV1:1>,
+embarrassed, expressionless, sad, frown,
+<lora:presenting_panties_v0.3:1>
+holding panties, presenting panties, (((classroom)))

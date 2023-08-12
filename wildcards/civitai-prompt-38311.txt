@@ -1,0 +1,1 @@
+simple_background, purple_background, 1girl, portrait, upper body, beautiful face, white_hair, bangs, long_hair, beautiful woman, cute, large breast, cleavage, pale skin, sexy, purple_tank_top,  <lora:breastinClass:0.3>

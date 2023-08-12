@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, rosalina, blue dress, (luma), crown, upper body, standing, from behind, looking back, standing, starry sky, blonde hair,  <lora:rosalinaMario_v10:1>,  <lora:popularTrainedOnTheMost_v10:1>,

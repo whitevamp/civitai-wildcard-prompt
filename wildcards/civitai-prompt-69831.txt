@@ -1,0 +1,1 @@
+masterpiece, realistic, hyperrealistic, best quality, aerith gainsborough, cropped jacket, hair bow, bracelet, pink dress, brown boots, green background, glowing, illuminated by a green light, aurora borealis, night sky, city skyline, arms together <lora:aerith-nvwls-v1-000010:0.9>

@@ -1,0 +1,3 @@
+<lora:kanaotsuyuritest:1>kanao tsuyuri, black hair, butterfly, butterfly hair ornament, (purple eyes:1.1), side ponytail, ponytail, 
+tutu, from below, purple panties,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile    <lora:tutu_v1:1>

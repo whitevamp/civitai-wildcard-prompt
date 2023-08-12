@@ -1,0 +1,2 @@
+(best quality),[masterpiece],((beautiful:0.75) cute girl:0.75),(EOS R8,50mm,F1.2,8K,RAW photo:1.2),Professional,ultra-fine painting,(short hair:1.3),standing,outdoors,(front:1.3),cloud,sky,seaside background,hand on hip,
+<lora:add_detail:0.6>, <lora:Special clothes30:0.7> dress

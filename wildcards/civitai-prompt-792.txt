@@ -1,0 +1,1 @@
+(paper-cut:1.3),Soft color matching,Van Gogh Style,White base plate,(Black:1.1),Orange,beige,Grey,Pink,<lora:FairyTaleV20_SD1.5:0.6>,No border,

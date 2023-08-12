@@ -1,0 +1,4 @@
+pixiv masterpiece, anime boy, dynamic pose, muscular body, perfect anatomy, five fingers, detailed eyes, expressive eyes, bright palette, lightning, neon light, neon garden, masterpiece, beautiful artwork, glowing details, tanned skin, illustration, ultra-detailed, face focus, stunning scenery, ultra detail, volumetric light, 8k
+abstract background, 1boy, pose,dynamite
+1boy
+ <lora:r0drigo-10:1>

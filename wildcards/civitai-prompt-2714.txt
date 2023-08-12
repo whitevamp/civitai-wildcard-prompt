@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, outdoors, street, cowboy shot, legs apart, dutch angle, hand on hip, grin, looking at viewer,
+tsujimoto natsumi, police uniform, blue necktie, white shirt, cowboy shot, long sleeves, white gloves, pencil skirt,  <lora:TsujimotoNatsumiV1-000008:0.9>, retro artstyle, <lora:more_details:0.4>

@@ -1,0 +1,5 @@
+masterpiece, best quality, vivid color, 1girl, toga himiko, blonde hair, yellow eyes, short hair, double bun, messy hair,
+collared shirt, open shirt, panties under black pantyhose,
+extremely detailed complex feet, soles, implied footjob, dorsiflexion, spread toes, <lora:feetPoseAnime_v11:0.2>, black pantyhose, 
+sitting on couch, looking at viewer, from below, 
+(dim lighting:1.5), <lora:epiNoiseoffset_v2:1>

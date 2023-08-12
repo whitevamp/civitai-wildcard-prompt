@@ -1,0 +1,7 @@
+[(white background:1.5)::5], simple, male,
+((brown leather)) [shirt|armor],  symetrical,
+light [shirt|armor] for human,
+no human, no head,
+ <lora:GameIconResearch_clothes_Lora:0.4>, ufotable official art, pastel_colors,
+<lora:nomura_tetsuya_offset:0.4>, <lora:ff16style:0.4>, 
+<lora:akagi_shun_offset:0.4>,  <lora:amano_yoshitaka_offset:0.4>

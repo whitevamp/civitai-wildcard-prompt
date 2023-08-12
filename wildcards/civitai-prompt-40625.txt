@@ -1,0 +1,1 @@
+(RAW photo, best quality) A woman at an outdoor concert, petite, pale skin,  <lora:LowRA:1>, bokeh,  <lora:skirtlift-v4:0.81>, a vintage floral sun dress,  looking away, distracted, panties <lora:woman_64_prodigy:1>

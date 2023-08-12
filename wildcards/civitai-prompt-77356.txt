@@ -1,0 +1,1 @@
+PHOTOREALISTIC , masterpiece, best quality,highres, (yangmi), 1girl, standing on top building, extremely detailed face, wind, <lora:yangmiv43-000002:0.9>, SMMars, long hair, sailor senshi uniform, red sailor collar, red skirt, elbow gloves,  action pose, <lora:sailorMarsSailorMoon_v10:0.9>,  from above,

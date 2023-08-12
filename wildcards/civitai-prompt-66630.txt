@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra highres, depth of field, chromatic aberration, caustics, Broad lighting, natural shading,Fujifilm XT3,masterpiece,ultra detailed,tou,uniform,1girl, solo,standing, looking at viewer, outdoors,street, <lora:Hoshizaki Ao_05-000008:0.7>

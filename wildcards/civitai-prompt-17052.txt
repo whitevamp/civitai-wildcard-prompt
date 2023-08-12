@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, full body shot, black hair, long hair, medium breasts, crying, tears,
+<lora:kabedonPOV_1girlAnd1boyKabedon:1>, 1boy, kabedon pov,
+<lora:ChapayevPrisonerV3:0.65>, metal collar, shackles, torn shirt
+in the bedroom,

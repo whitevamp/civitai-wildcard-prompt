@@ -1,0 +1,3 @@
+(masterpiece, best quality),(illustration:1.15),official_art,intricate details,colorful reflection,medium shot,
+(1 young girl:1.15),(dewy blue eyes),white hair,(expressionless,glint),blank stare,solo,(medium breasts),looking away,[hair between eyes],
+day,beautiful street,(colorful flowers,flower petals:1.15),beautiful detaled street,sunlight,light, <lyco:GoodHands-beta2:1.0>

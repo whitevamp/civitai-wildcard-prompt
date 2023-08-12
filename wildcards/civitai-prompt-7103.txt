@@ -1,0 +1,1 @@
+female cyborg wearing (techwear jacket:1.4),cyberpunk city background,cbpkv3,fcPortrait <lora:NijiExpressV2:0.6> <lora:cbpkv_20230612134125:0.7> <lora:urbansamuraiv0.14:0.4>

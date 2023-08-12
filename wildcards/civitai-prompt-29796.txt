@@ -1,0 +1,1 @@
+<lora:Sopmod:1.3>,<lora:GTSv5:1>,sopmodjr,chibi,0_0,black jacket,black skirt,no eyes,standing,outside,city,giantess,aerial view,rampage,rubble,fire

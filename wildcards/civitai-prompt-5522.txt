@@ -1,0 +1,2 @@
+1girl,lucy \(cyberpunk\),(iridescent PVC:1.4),cigarette, asymmetrical iridescent hair, belt, bodysuit,  covered navel, detached sleeves, grey eyes, hip vent, open jacket, night, look at viewer,(((Red eyeliner))),
+<lora:flat2:-0.2> <lora:dtl11-cnlight:-0.6> <lora:lucyCyberpunk_35Epochs:0.6>    <lora:nijiexp:0.3>

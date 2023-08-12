@@ -1,0 +1,1 @@
+(DollieNobodySD15:0.9) 200mm portrait bokeh beautiful ginger woman luxurious bathroom (aftershower:1.1) (wearing a dry towel:1.2) (wet hair:1.1) (masterpiece:1.2) (illustration:1.1) (best quality:1.2) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) <lora:zovyaWetHairLORA64_V1:0.60> <lora:afterShower_v11:0.8>  <lora:squeezer_:0.2>

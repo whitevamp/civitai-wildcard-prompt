@@ -1,0 +1,3 @@
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, 1 girl, solo, dynamic pose, sexy pose, narrow waist, full body, cowboy shot, 
+photo realistic:1.4, (pureerosface_v1:0.5) , (ulzzang-6500-v1.1:0.5),   <lora:add_detail:1>,  <lora:tiaraaurellie_v2:0.4>,  <lora:girlfriendmixV1_v20:0.4>,  <lora:yurisaLora_v40:0.2>
+<lora:GreenHeartWhite:1>,gauntlets, green heart, 1girl, solo, breasts, long hair, ponytail, large breasts, power symbol-shaped pupils, navel, very long hair, gloves, looking at viewer, smile, cleavage, sitting

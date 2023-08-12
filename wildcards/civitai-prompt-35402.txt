@@ -1,0 +1,1 @@
+<lora:RPGHag:1> (old woman:1.2), (hag:1.2), (wrinkles:1.2), (1girl:1.1), at the beach, laughing, resting and relaxing, having a good time, white hair, blood on hands, looking peaceful and rested, ((wrinkled skin)), best quality,<lora:add_detail:0.25>

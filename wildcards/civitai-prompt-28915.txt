@@ -1,0 +1,2 @@
+BJ_Oil_painting,BJ_Oil_painting,Sasuke,solo,looking at viewer,short hair,black hair,1boy,brown eyes,closed mouth,upper body,male focus,headband,ninja,forehead protector,konohagakure symbol,
+cinematic lighting,strong contrast,high level of detail,Best quality,masterpiece,White background,<lora:Oil_painting-000018:0.6>,

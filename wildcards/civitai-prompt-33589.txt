@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), solo, 1girl, elie macdowell, smile, looking away, grimaceshake, hair ribbon, hairband, green eyes, blue ascot, long sleeves <lora:elie-nvwls-v2-zero:0.8> <lyco:concept_grimaceshake-11:1>

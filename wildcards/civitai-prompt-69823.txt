@@ -1,0 +1,4 @@
+biomechanical  dinosaur shaped cyborg,  glowing eyes, helmet,   white plastic, diffuse lighting, fantasy, intricate, elegant,
+ highly detailed, lifelike, photorealistic,elegant, sharp focus, photo by greg rutkowski, soft lighting, vibrant colors, masterpiece,
+IvoryGoldAI
+ <lora:IvoryGoldAI:0.8> <lora:epiNoiseoffset_v2:1>

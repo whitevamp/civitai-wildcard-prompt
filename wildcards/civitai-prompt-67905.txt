@@ -1,0 +1,1 @@
+masterpiece, white witch in the sky, natural skin, project blueprint,[mechanical spine construction attaching, machine joints:0.6], (complex pose, in motion:1.12), intricate details, aesthetic, vivid orange accent, ray traced image, octane render, pixel sorting <lora:lit:0.6> <lora:Pixel Sorting:1>

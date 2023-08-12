@@ -1,0 +1,7 @@
+masterpiece, (best quality:1.2), nsfw
+BREAK,
+1girl, nude, large breasts, (egg laying), easter eggs, rabbit ears, rabbit tail, from behind, all fours, anus peek, anal object insertion
+BREAK,
+closed eyes, open mouth, orgasm, moaning
+BREAK,
+forest, ruins, detailed clouds <lora:egg_layingConv2D:0.8>

@@ -1,0 +1,1 @@
+<lora:microbikiniv1:.6>, ((MICRO BIKINI)), ((penis, scrotum, testicles)), bara, mature, male, <lora:style_adddetail:.7>,<lora:style_breakrealize:-.5>,

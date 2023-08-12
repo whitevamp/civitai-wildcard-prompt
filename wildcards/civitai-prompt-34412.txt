@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.6>
+Henshin, solo, long_hair, looking_at_viewer, black_hair, 1boy, upper_body, male_focus, mask, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

@@ -1,0 +1,1 @@
+a portrait photography of a gorgeous woman, brown hair, steam punk,  (wearing  steampunkai leotard:1),(fractalized, fractal_body:0.8),bare shoulders, bare arms, ((bare legs):1.1), hat, gloves, attractive, flirting, looking at viewer, detailed skin, ((city environment)), highly detailed, hyperrealism, cinematic lighting, <lora:more_details:0.5>,    <lora:steampunkai:1>

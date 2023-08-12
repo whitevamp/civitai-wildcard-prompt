@@ -1,0 +1,4 @@
+adorable face, squinting eyes, screaming mouth, closeup portrait, looking away
+
+
+ <lora:emotionPuppeteerLora_v2Lora:1>

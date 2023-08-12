@@ -1,0 +1,1 @@
+masterpiece, best quality, sadako_yamamura,  <lora:Sadakobest:1>, whitedress, <lora:schoolBuildingScenery_test5Ep8:0.8>, hallway, windows, afternoon light,classroom, rouka, 1girl medium distance from viewer,

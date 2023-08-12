@@ -1,0 +1,2 @@
+masterpiece,best quality,upper body, 1girl, solo, 
+ <lora:zhaoJinmaiChinese_v35:0.65>, <lora:shirtliftALORAFor_shirtliftv1:1>

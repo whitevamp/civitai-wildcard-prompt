@@ -1,0 +1,5 @@
+(masterpiece, best quality),  intricate details, 
+1girl, 
+ <lora:gura:0.8> gawr gura, sharp teeth, shark tail,  nude, bathing, hot onsen, 
+messy hair, long hair, 
+embarrassed, blushing, <lora:coveringV2:0.8> covering breasts, covering crotch, angry, spoken !, small breasts,

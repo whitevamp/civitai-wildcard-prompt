@@ -1,0 +1,7 @@
+masterpiece, best quality, real picture, intricate details, 1girl, penis over eyes, (1boy), upper body, solo focus, interracial
+Appearance: young:1.25, {small_breasts, flat_chest}, slender, skinny, slim, collarbone
+Clothing: {t-shirt}
+Accessories: simple hoop earrings
+Hair: {long_blonde_hair, messy_hair}
+Behavior: {angry}
+<lora:conceptPenisOverEyes_v10:1>

@@ -1,0 +1,1 @@
+masterpiece, best quality,detailed clothes,1girl, hu tao (genshin impact), boo tao,hat, red eyes, twintails, brown hair, solo, symbol-shaped pupils, long hair,bangs, black shorts , chinese clothes,(photo realistic:0.8),flower,looking at viewer,flower field,depth of field,fire<lora:huTaoGenshinImpact_v12:0.7>

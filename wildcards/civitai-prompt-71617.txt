@@ -1,0 +1,3 @@
+original, realistic,photo, beautiful,
+1girl, face,full body, (nurse suit with pantyhose), bulge nipple,clothed,
+<lora:FutaBulgev2:0.8>,penis bulge, <lora:koreandolllikeness_V10:0.6> ,korean,

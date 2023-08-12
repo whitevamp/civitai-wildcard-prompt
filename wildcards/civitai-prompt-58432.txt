@@ -1,0 +1,1 @@
+(masterpiece,best quality), [CG,wallpaper,HDR,high quality,high-definition], (3d, blender, intricate details:0.5), [pastel, cold lighting, cinematic], 1girl, (curvy:0.5), (nsfw:0.5), beautiful room background, (full body:0.6), (chibi:0.6),  <lora:blindbox_V3:1.2>, dark theme,  <lora:lowra_v10:0.7>

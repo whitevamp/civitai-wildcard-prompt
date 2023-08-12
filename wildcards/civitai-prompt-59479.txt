@@ -1,0 +1,4 @@
+best quality, intricate details,
+1girl,   <lora:hakosBaelzHololive_v11:0.6>mouse ears,  hakosjack,
+ <lora:neonbeatArtstyleLora_v10:0.8> neonbeat, 
+ <lora:youLikeKissingBoysDontYou_v10:0.4> boy_kisser,

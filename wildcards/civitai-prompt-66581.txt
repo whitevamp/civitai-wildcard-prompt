@@ -1,0 +1,2 @@
+(best quality:1.4), (masterpiece:1.4), portrait,
+1girl, momo velia deviluke, hair ornament, bob cut, short hair pink hair, purple eyes, (medium breasts:1.4), blush, smile, solo, <lora:Kizuki - To Love Ru - Momo Velia Deviluke:0.6>, (Externally expanded Chest:1.4), upper body, (Under Boob:1.4), (off-the-shoulder:1.2), coat, outdoors, <lora:momoYaoyorozuMyHero_v10:0.2>, (single earring:1.4), (pants:1.4), (scoop neck:1.4),

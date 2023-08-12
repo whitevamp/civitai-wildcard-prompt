@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, 1girl, highly detailed evangelion costume, (large robot background), detailed skin texture, beautiful detailed face, upper body, intricate details, ultra detailed, <lora:NijiExpressV2:0.5>, <lora:A-Mecha Musume:0.7>, <lora:90sv1.6R:0.2> 

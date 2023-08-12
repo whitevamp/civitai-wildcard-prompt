@@ -1,0 +1,3 @@
+(red theme:1.1),(dark theme:1.1),(night, fog, dystopia, lake, burning hell, despair:1.1),(red moon:1 2),(Ultra-detail:1.3),(highres:1.1),best quality,(masterpiece:1.3),(cinematic lighting:1.2),
+BREAK,(wide shot:1.1),(HDR:1.1),(RTX:1.1),
+BREAK,1guy,solo,detailed,realistic,(robe:1.1),(legwear:1.1),boot,(from away:1.2),(far:1.2),

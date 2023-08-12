@@ -1,0 +1,3 @@
+Photo of a young woman sitting  in the cockpit piloting a mecha, surrounded by machinery and big screens, technological background. She wears a mechanical headwear, science fiction setting.
+(cockpit:1.5), big control stick, intricate cockpit, cowboy shoot, open legs, reflective metal, red lips
+<lora:MG_jijia:0.8>

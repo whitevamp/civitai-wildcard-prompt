@@ -1,0 +1,3 @@
+(8k, best quality,high quality clothes, masterpiece:1.2,hhgh precision skin,,rich facial texture),1girl,black_hair,,(dingdall effect),(smile:1.1),elegant,exquisite clothes,exquisite eyes,beautiful pendant,evening, full moon, (medium breasts:1.4)
+(breast:1.4),(nipple:1.4),(chinese clothing), jewelry, earrings, solo, dress, lips,long_hair, solo, cleavage, floral_print, long_sleeves,flower headwear,sexy pose,((simple background,)),jewelry , snowing,  hair_flower, sash, necklace,(distant view:1.3)
+  <lora:sexy_beauty_v15:0.60><lora:hanfu_v30:0.40>

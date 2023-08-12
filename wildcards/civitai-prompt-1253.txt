@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, 
+lineart, 
+ankymoore, 1girl, solo, long hair, looking at viewer, blonde hair, jewelry, upper body, flower, earrings, parted lips, artist name, necklace, cross,
+ <lora:ankymoore-04:1>

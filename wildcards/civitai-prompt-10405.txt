@@ -1,0 +1,2 @@
+(best quality:1.4),(masterpiece:1.4),(highres:1.2),(extremely detailed:1.2),human body ratio,
+1girl,dynamic pose,<lora:mm_20230618234537:0.75>,

@@ -1,0 +1,13 @@
+masterpiece, best quality, <lora:flat2:-1>
+, cute, kawaii, smaller face, white hair, short hair, bangs, pointy ears, huge breasts
+, BREAK
+, (dark skin:1.3)
+, BREAK
+, slit pupils, orange eyes, glowing eyes, big eyes
+, BREAK
+, nipples, navel, (pussy), completely nude
+, (looking at viewer), (open mouth:0.7), sitting
+, (smile:0.5), (shy:1.2)
+, basement
+, from side ,low-key lighting
+, lamia, <lora:LAMIA-SERY-CONCEPT:1>

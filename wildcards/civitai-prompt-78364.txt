@@ -1,0 +1,1 @@
+oboro,blue theme, sky, blue sky, cloud, outdoors, day, building, no humans, scenery, sign, traffic light, road sign, city, aircraft, power lines, utility pole, solo, cloudy sky, crane \(machine\), contrail, ground vehicle, skyscraper, lamppost, cityscape,<lora:oboro-pynoiseloha-000008:1>

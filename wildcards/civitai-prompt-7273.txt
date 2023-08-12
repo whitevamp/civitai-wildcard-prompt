@@ -1,0 +1,5 @@
+female standing on a beach next to each other and smiling at the camera, with trees in the background
+AND (asian:1.1), female, swimsuit, 24 years old
+AND (african:1.1),afro, female, swimsuit, 28 years old,
+AND european, female,swimsuit, 23 years old
+AND (blonde:1.1), european female, (nude:1.2),slim, angry, 23 years old

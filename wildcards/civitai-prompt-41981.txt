@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, sunbeam, sun beam, god rays,
+1girl, solo, Ingrid, mature female, dark-skinned female, dark skin, sitting, hugging own legs, 
+pink hair, very long hair, hair intakes,
+yellow eyes, long eyelashes, thick eyelashes, looking at viewer,
+black background, simple background, black floor, reflective floor,
+<lora:IngridV2:1>

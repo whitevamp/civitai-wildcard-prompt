@@ -1,0 +1,1 @@
+(realistic:1.5), (masterpiece, Extremely detailed CG unity 8k wallpaper, best quality, highres:1.2), (ultra_detailed, UHD:1.2), (pixiv:1.3), perfect illumination, distinct,1girl, (vyvan2), <lora:vyvan_v2:1>, perfect face, swimsuit,  <lora:swimsuit:1> , beach , palm, long pink hair, big breast, focus on girl, detailed skin

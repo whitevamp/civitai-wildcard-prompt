@@ -1,0 +1,3 @@
+(8k, best quality, masterpiece:1.2),(ultra-detailed),(high quality:1.3),(high resolution),detailed hair,hard rim lighting,((dramatic lighting)),sharp focus,u-1196,hair over one eye,hat,aqua hair, aqua eyes,
+fingerless gloves, gloves, underwear, panties, weapon, sword, solo, black gloves, navel, open clothes, holding weapon, holding, holding sword, white panties, ass visible through thighs, closed mouth, looking at viewer, katana, shirt, pale skin, no bra, pocket, standing, cowboy shot, white headwear, open shirt, stomach, jacket, no pants, cleavage, frown, bow panties, over shoulder, collarbone
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1:0.5),   <lora:add_detail:0.6>,  <lora:tiaraaurellie_v2:0.4>,  <lora:girlfriendmixV1_v20:0.4>,  <lora:yurisaLora_v40:0.2>

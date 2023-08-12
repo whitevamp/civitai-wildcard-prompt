@@ -1,0 +1,5 @@
+<lora:sfr1v:1.0>, sfr1v,
+<lora:kamehameha-10:0.8>, kamehameha charging, (energy ball), electricity,
+white clothes, (black obi:0.5), 1boy,solo, (clenched teeth:0.75),
+masterpiece, best quality, ultra-detailed, realistic,
+cowboy shot, looking at viewer,

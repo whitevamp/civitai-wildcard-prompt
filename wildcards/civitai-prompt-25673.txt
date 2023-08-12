@@ -1,0 +1,4 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ),1gril,(full body, completely nude, nude, large breasts, huge ass,  black hair, long hair, ),<lora:ahegao,rolling_eyes-000014:0.8>,<lora:Ahegaoo:0.4>,awaitingtongue,ahegao,rolling eyes,tongue out,drooling,saliva,blush,pussy,
+<lora:CumOnTongueMS:1>,( cum in mouth:1.2, cum on tongue,),
+( cum in pussy:1.4, cum:1, cum on body:1.5,), (realcumAI:1), (on the bed,  bedroom, bed,),
+,<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>, <lora:Creampie_v11:0.6>

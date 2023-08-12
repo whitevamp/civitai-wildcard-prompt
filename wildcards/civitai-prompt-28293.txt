@@ -1,0 +1,1 @@
+1 girl, (cowboy shot), red hanfu, (Winter hanfu), (skirt, cloak, top, short coat:1.2), headwears, <lora:Winter_Hanfu:0.75>, winter, snow, (outdoors:1.2),  masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality

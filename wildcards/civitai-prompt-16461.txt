@@ -1,0 +1,15 @@
+Aesthetic: ((witchcore, witchcraft, pagan, mystical, nature, occult):1.4)
+BREAK
+Composition: <lora:MirrorSelfieLora:1> 1girl
+BREAK
+Lighting: <lyco:Dreamwave v2L:0.8> (dreamwave), detailed, clean,, <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>  scenery, ink
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+(good quality:0.991),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

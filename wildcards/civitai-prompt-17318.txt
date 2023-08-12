@@ -1,0 +1,2 @@
+Polaroid blue tone, masterpiece, best quality, 1girl, (pureerosface_v1), (school uniform:1.2), (large breast, narrow waist), feature, glasses,  (dark background:1.2),
+<lora:InstantPhotoX3:0.6> ,

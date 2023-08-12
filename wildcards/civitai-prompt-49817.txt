@@ -1,0 +1,7 @@
+ultra realistic 8k cg,best quality, picture-perfect face, flawless, clean,realistic, masterpiece, professional artwork, famous artwork,photorealistic lighting, volumetric lighting,ultra detail texture,chinese destiny,Royal,
+
+(White hair),perfect face, beautiful face, (alluring eyes),pale skin,gogerus queen ,goddess, godlike, divine,fantasy, ((perfect female body, narrow waist)),long ponytail,hair over one eye,layer hair,ultra detail hair, ultra detail face, big breasts,huge ass,caucasian,european
+
+(a crowd medieval city),detail skin,(rich:1.4), prestige, luxury, jewelry, diamond,pearl, gem, sapphire, ruby, emerald, intricate detail, delicate pattern,charming, alluring,pauldrons, boobplate,muscular, armored pants,cape,heavy armor,King crown,
+<lora:fashionGirl_v20SmallFileSize:0.3>,
+<lora:hipoly3DModelLora_v10:0.3>,confident facial expression,((detailed facial features)), smiling

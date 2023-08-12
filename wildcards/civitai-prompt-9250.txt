@@ -1,0 +1,2 @@
+A photograph of a tired old lady knight with grey hair, pale eyes, deep wrinkles, wearing an old damaged suit of filigree (coffee_patina:1.2) oxidized plate armor, in the interior of a dark stone dungeon. (Warm candlelight), soft darkorange glow, artistic shadow, cinematic framing.
+<lora:LowRA:0.7> <lora:Coffee_Patina:1>

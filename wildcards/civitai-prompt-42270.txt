@@ -1,0 +1,3 @@
+<lora:denim_shorts_v0.2:1>
+1girl, high-waist shorts, crop top, 
+<lora:HOTD_v0.4:1> marikawa shizuka, looking back, smile,, masterpiece, best quality, highly detailed

@@ -1,0 +1,5 @@
+(((no human))),(best quality:1.2),(masterpiece, intricate details),((sci-fi story blueprint:1.2)),((nipples:1)),
+(user manual, sketch:1.5),(a photo of blueprintsketch),(Wonderful female nude sketches:1),Parts Description,
+(detailed explanation and description, text, production drawing),documentation,Design Process,high-tech,
+<lora:LeoCyberX:0.7>,science fiction,cyberpunk,<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,
+pureerosface_v1, <lora:breastinclassBetter:0.3>, <lora:innievag:0.2>,

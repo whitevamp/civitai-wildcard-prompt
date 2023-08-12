@@ -1,0 +1,1 @@
+<lora:ShroomPunkAI:.6> ShroomPunkAI, bioluminescence, skeleton, messy environment

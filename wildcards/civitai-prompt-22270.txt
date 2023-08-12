@@ -1,0 +1,5 @@
+(highly detailed:1.3),
+1girl,solo,
+ <lora:kslw_iino:1> kslw_iino, collarbone,small breasts, dress,(confused:1.2),  <lora:TomReadingTheNewspaper:1> TomReadingTheNewspaper, 
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,
+(highly detailed face and eyes:1.3), <lora:RocksEyebrowRaise:1> RocksEyebrowRaise, portrait, raised eyebrow, thick eyebrows,

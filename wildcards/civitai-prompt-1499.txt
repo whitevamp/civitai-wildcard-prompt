@@ -1,0 +1,5 @@
+2d, nsfw, pastel color, watercolor, low color saturation,
+lineart, ankymoore, 
+long hair, 
+(ass worship:1.0), 1girl, multiple girls, 2girls,
+ <lora:ankymoore-04:0.91> <lora:ass_worship_v0.5a:1>

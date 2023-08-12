@@ -1,0 +1,1 @@
+best quality, <lora:add_detail:0.3>, (1girl, solo), <lora:concept_clothingAdjuster_(-1 -- +1):1.5>

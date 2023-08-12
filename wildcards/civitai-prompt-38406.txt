@@ -1,0 +1,3 @@
+((Masterpiece, best quality)),photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,smiling,
+edgAMOGUS_character,a blue and white stuffed toy with a helmet on , wearing edgAMOGUS, holding a ((gun))
+ <lora:edgAMOGUSXL:1>

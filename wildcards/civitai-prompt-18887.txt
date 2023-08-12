@@ -1,0 +1,1 @@
+<lora:escanor-10:0.9>, escanor, 1boy, full armor, gold armor, blue shield, <lora:ghostdom_20230621222536-000016:1> ghostdom, night, backlight, flowers:0.5,

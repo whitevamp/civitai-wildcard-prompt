@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres, perfect anatomy, 1girl, solo, IrysHolo, heterochromia, long hair, (HeadpatPOV), smile, white shirt, <lora:Irys:0.7>, <lora:HeadpatPOV:1>

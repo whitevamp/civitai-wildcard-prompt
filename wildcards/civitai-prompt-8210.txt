@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details, (fractal art:1.2), 
+ <lora:Bigbird:0.8> Bigbird, yellow feathers,

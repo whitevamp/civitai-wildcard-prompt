@@ -1,0 +1,12 @@
+(RAW, best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, beautiful face, detailed eyes, symmetric eyes, light on face, nose blush, short hair, hair bun, 
+cowboy shot,
+clk, vest, suit, pencil miniskirt, white shirt, silk scarf, black pantyhose, [<lora:clerkSuit_clk:0.5>::0.5],
+smile, small dimples, sexually suggestive, 
+medium breasts, slim waist, slim legs,
+sitting on chair in front of desk, perfect body, good proportions,
+looking at viewer, 
+(office, indoor, hyper detailed background:1.2), japan, copy machine, file cabinet, computer, monitor,
+shiny skin, real skin texture, 
+natural lighting, best lighting, detailed background, detailed shadow, sharp focus, depth of field f/2,
+saturated, high contrast, strong light and shadow

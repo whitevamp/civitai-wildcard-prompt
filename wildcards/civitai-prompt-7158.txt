@@ -1,0 +1,4 @@
+(gigantic ass:1.7), (voluptuous, plump:1.5),
+masterpiece, best quality, highres, highres, enumiyaa, kitasan black \(umamusume\), 1girl, ahoge, animal ears, arm behind head, arms up, black hair, breasts, cleavage, groin, hair ornament, horse ears, horse girl, horse tail, looking at viewer, multicolored hair, navel, open mouth, orange eyes, outstretched arm, red eyes, small breasts, solo, streaked hair, tail,
+, (gigantic ass:1.7)
+<lora:hyper_bottom_heavy_v3_weighted-lr2e-4-4b-8ga-32dim-flip-te1e-4-tkn225-a16-t_drp0.15-drp0.25-768bucket-cosine_with_restarts-cap_weight1.5-n-locon-[bottomheavy]-000100-:1>

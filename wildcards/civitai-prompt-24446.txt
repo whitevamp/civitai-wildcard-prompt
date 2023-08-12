@@ -1,0 +1,3 @@
+nsfw, (masterpiece, best quality),sharp image, extreme details,high resolution,smooth skin, perfect lighting,
+Easter egg, <lora:elimine-000007:0.9> , fe_elimine,(wavy hair:1.2), playboy bunny, animal ears, rabbit ears, pantyhose, fishnets, breasts, one eye closed, fishnet pantyhose, wrist cuffs, detached collar, leotard, cleavage, tail, white leotard, rabbit tail, fake animal ears, bow, heart, hand on hip, bowtie, smile, strapless, strapless leotard, looking at viewer, large breasts, arm behind head, bare shoulders,green fields
+beautiful eyes, big breasts, <lyco:GoodHands:1.0>, perfect hands, nice hands,

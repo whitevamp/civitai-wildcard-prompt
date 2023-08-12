@@ -1,0 +1,4 @@
+extremely detailed CG unity 8k wallpaper,(masterpiece),(best quality),(ultra detailed),(ultra realistic),(Best character details:1.36),nikon d750 f/1.4 55mm,dynamic angle,professional lighting, photon mapping, radiosity, physically-based rendering,
+1girl,solo,mature female,milf,tall body,full body,golden proportions,(Kpop idol),(shiny skin:1.2),(oil skin:1.1),smile,parted lips,makeup,
+((wavy gray hair and a sophisticated sense of style)),high detailed face,(ulzzang-6500-v1.1),(aegyo sal:1),(puffy eyes),(eyelashes:1.1),(parted lips:1.1),red lipstick,wide shoulders,(medium breasts:1.1),(cleavage:1.1),animal ears,(big ass:1.2),thighhighs,
+choker,earrings,<lora:TuNiang_v2:0.85>,ahegao,rolling eyes,blush,tongue out,drooling,saliva,blush,<lora:AhegaoRollingEyes_v1114:0.9>, [(awaitingtongue:1.2)::20]

@@ -1,0 +1,3 @@
+((masterpiece, best quality:1.2),
+BelleWaifu,18 years old,beautiful face,elegant face,(beautiful slanted eyes:1.4),brown eyes,half-up,(yellow dress, long skirt),breasts,
+castle,flower garden,cowboy shot,reading book <lora:belleBeautyAndTheBeast_v10:0.5>

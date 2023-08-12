@@ -1,0 +1,7 @@
+(one male:1.9) (1boy:1.9) (side view)
+Very detailed flawless handsome face, detailed open (grey eyes), heroic, bodybuilder, (big muscles), (big pectorals), narrow waist. (Long hair). Realistic face, realistic eyes. Smile.
+Sitting on a log near a small campfire. (nude) (completely naked), penis, glans, frenulum, testicles, (male pubic hair).
+Dark night, low ambient light. Illumination from campfire.
+High contrast, high saturation, highly detailed, high quality, masterpiece, soft volumetric lighting, rich colors, depth of field.
+<lora:BulkedUpAIR1.5:0.3>
+<lora:aenaluck5x6x4:0.8>

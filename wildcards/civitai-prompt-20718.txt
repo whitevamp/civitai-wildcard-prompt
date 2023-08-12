@@ -1,0 +1,3 @@
+simple background,(Wearing a female police uniform and a police cap:1.2), high-res, masterpiece, best quality, head:1.3, finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle,
+ [:(detailed face:1.2):0.2],upper body, small breasts,(uhderboob:1.3),(midriff),(navel),1girl,earrings, orange_sky, long_hair,upper_body, blue eyes, looking_at_viewer,black hair,Fashion,(head tilt:1.2),
+simple background,  <lora:detailed_eye:0.88>

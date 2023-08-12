@@ -1,0 +1,2 @@
+masterpiece,extreme detailed,top quality,cutaway view,(Giant male mecha in assembly:1.2),(cockpit:1.2),(full face mask:1.2),Factory,Assembly platform,scaling ladder,huge Power core,many Pipelines,many Wires,Interface,Machinery,ultra wide shot,realistic,<lora:add_detail:0.6>,<lora:nijiMecha:0.4>,
+<lora:nijiMecha:0.4><lora:add_detail:0.6>

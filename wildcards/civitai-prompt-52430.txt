@@ -1,0 +1,9 @@
+masterpiece, best quality, (realistic:1.4), (photorealistic:1.4), (real person:1.4),
+(2 girls:1.2), standing, outdoors,
+small breasts, ass, anal, pussy, completely nude, (barefoot:1.2),
+left girl is long hair, right girl is short hair,
+legs, back,
+multiple girls, <lora:multipleAsses_v1:1:MIDD>,
+ass stretch, ass spread, (hands on own ass), (grabbing own ass), (hands on another's ass:1.2), (grabbing another's ass:1.2), <lora:grabbingOwnAss_v1Pruned:1:MIDD>,
+backlighting, <lora:EnhancedBacklighting_v10:0.5:INALL_MIDD>,
+public, camera, foreground, photographer, <lora:inPublic_v10:1:MIDD_OUTALL>

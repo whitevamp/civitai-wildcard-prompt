@@ -1,0 +1,5 @@
+night, red sky, storm, ocean, rough seas, lightning, dark clouds ADDBASE
+a tiny rowboat in the foreground, rough seas, storming ADDCOL
+rough seas, storming ADDCOL
+rough seas, storming ADDCOL
+<lora:cthulhuTECH_r1_e15:1> massive cthulhu rising from the ocean in the distance on the horizon, monstrous, gigantic

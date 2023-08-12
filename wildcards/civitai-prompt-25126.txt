@@ -1,0 +1,1 @@
+grey mechanical wings,cyberpunk scene, 1girl,orange blue white,airfield, military site,neon light,  <lora:nijiarmor:0.2>  <lyco:[LoRa] Gigantic Booster Wings Concept V2:0.8>

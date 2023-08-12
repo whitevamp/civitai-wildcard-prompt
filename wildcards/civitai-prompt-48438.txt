@@ -1,0 +1,1 @@
+girl,(synthwave,dusk,shaded),(undressing:1.4),(peaceful,chill,sparkles,indoors,prettify),Idol Concert Background,Leaning Forward,Bob Hair,green Vest,lime Lace skirt,lyrical nanoha,(masterpiece,detailed,highres,vibrant:1.4) <lora:3shot:0.6>

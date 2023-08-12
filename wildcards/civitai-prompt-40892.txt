@@ -1,0 +1,1 @@
+an ant holding up a sign that says crayons  <lora:crayons_v1_sdxl:1>

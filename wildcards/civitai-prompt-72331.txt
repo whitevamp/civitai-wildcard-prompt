@@ -1,0 +1,3 @@
+black hair, red eyes, blush, gagged,embarrassed, saliva, saliva drip, tongue_tip,
+masterpiece,best quality,ultra_detailed,highres,<lora:openGagMouth_v20:0.45> 
+BREAK,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF,ZF

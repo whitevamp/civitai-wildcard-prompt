@@ -1,0 +1,3 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, colorful,highest detailed, clean facial features, upper body,
+(detailed light), (an extremely delicate and beautiful), a girl, cute & girly, upper body, two legs, sexy clothes inspired by clear bubbles, (beautiful detailed eyes), stars in the eyes, (((lots_of_big_colorful_Bubble))), Iridescence, depth of field, bubbles around,
+<lora:idc128dim-epoch-000007:0.85>, <lora:w<w[s:1>

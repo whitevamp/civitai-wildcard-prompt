@@ -1,0 +1,1 @@
+<lora:mika50+:1>,1girl,solo,mifa,looking at viewer,<lora:botw_style_offset:0.9>,Illumination,Smile,fluttering clothes,Water,Wet,Half-body photo,

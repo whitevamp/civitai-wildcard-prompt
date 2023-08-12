@@ -1,0 +1,1 @@
+absurdres, best quality, masterpiece, 1girl, solo, [bikini:(bodypaint:0.5):0.5] <lora:Bodypaint-000012:1>

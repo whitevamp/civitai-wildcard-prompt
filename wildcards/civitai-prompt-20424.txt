@@ -1,0 +1,4 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2),
+Wonder Women by Gal Gadot,Themyscira Amazons,((chibi)),cute,dynamic pose, destroyed Themyscira Amazons, full body,
+(beautiful detailed face), (beautiful detailed eyes),
+<lora:blindbox_v1_mix:1>,

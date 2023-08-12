@@ -1,0 +1,6 @@
+1 woman, Winona Ryder,   sitting , cyborg,
+((masterpiece),(best quality),(ultra-detailed),
+fantasy, sci-fi,  horror,   , aliens,  sad face, 
+realistic, hrgiger hnsrdlf style intricate biomechanical detail
+masterpiece,  , dark room, dim light , front view,(( photorealistic, 1970s film, 35mm, film grains ))
+   <lora:epiNoiseoffset_v2:1> <lora:hrgiger2x_8:0.5> <lora:Biomechanicals_v2_lora1500:0.6>

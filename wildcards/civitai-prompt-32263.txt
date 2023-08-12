@@ -1,0 +1,2 @@
+thedruid, sharp focus,  
+<lora:thedruid_v1:1>

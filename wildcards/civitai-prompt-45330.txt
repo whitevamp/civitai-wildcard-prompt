@@ -1,0 +1,3 @@
+1 girl, mid shot, full body, blonde hair,blue eyes,Linen Hooded Cape, blue dress
+bonfire,sitting under the broken wall, sky, detailed moon, light particles, butterflies, night, starry sky, <lora:gachaSplashLORA_gachaSplashFarShot:1>,
+[(white background:1.5)::5], hexagon,masterpiece, best quality

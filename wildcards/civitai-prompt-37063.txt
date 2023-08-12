@@ -1,0 +1,8 @@
+(ultra high res, best quality), (realistic:1.5),(high detailed skin:1.5), (visible pores:1.5),(real person), (photograph), (8k, raw photo, best quality, masterpiece),photon mapping, radiosity, physically-based rendering, automatic white balance,(blush|cute and playful|adorable|thick bangs|beauty),((irises and pupils are rounded, the pupil reflects the surroundings, eyes are not the same size)),
+(1girl), moist lips, watery eyes,
+(full body), haunting smile, naughty face,standing, 
+palace, royal, ornate, curtains, silk, marble,vibrant colors,stunning environment ,soft lighting,gorgeous light and shadow,
+<lora:more_details:0.2>,
+<lora:xiaoshazi:0.6>
+(fishnets:1.3), 
+<lora:TCTH-Fairy:0.3>, fairy, butterfly_wings,gem,

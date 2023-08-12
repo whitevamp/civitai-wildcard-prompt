@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.5>, <lyco:vividImpactfulStyleYoneyamaMai_v40hLocon:0.3>, (masterpiece), kamisato ayaka, white hair, long hair, garden background, blue eyes, adult, portrait, 1 girl, no arm, smug face, <lora:add_detail:0.5><lora:kamisato ayaka:1.0>

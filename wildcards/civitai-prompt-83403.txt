@@ -1,0 +1,1 @@
+best quality, masterpiece, absurdres, ((1girl)), library, books, stacked books, indoors,  warm lights,  <lora:add_detail:1>, <lora:LowRA:0.6>

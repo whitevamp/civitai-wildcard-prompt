@@ -1,0 +1,3 @@
+(masterpiece, best quality, chromatic aberration),
+(NSFW:0.6), 1girl, black panties, open jacket, bare shoulders, embarrassed, glow, neon, city, cyberpunk, horror \(theme\), (upper body:0.7), air particles, (blurry background:1.2), DoF, Deep_on_field, bare lags, hip focus, bare hip, (volumetric lighting:1.2), (pussy:0.7),
+<lora:epi_noiseoffset2:1>

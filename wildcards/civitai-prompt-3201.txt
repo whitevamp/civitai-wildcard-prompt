@@ -1,0 +1,6 @@
+best quality,<lora:ST anime:0.5>,<lora:add detail:0.3>
+,1girl, style,girl,solo,smile,
+,kenshin rk,long hair, ponytail, japanese clothes, kimono,scar,
+,indoors on bed bedroom sitting,large breasts,
+,indoors bedroom, spread legs, cowboy shot, 
+,<lora:ST inikmixV3:0.6> <lora:Kenshin_RK:0.7>

@@ -1,0 +1,2 @@
+<lora:env-jrEastE235SeriesTrain_ver5:1>, train, E235, 1 girl, nsfw, look at viewer, realistic, detailed, (sliver hair:1.25), white hair, indoor, depth of field, serious, standing, messy long hair, sharp focus, bare shoulders, on bed, shirt
+blue eyes, {seductive}, (small breasts)

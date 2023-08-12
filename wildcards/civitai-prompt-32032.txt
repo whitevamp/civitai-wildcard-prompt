@@ -1,0 +1,1 @@
+masterpiece, best quality, detailed, knolling+laydown, <lora:laydown:1>, by Hans Rudolf Giger, <lora:hrgiger2x:0.4>, 1girl, glowing, armor, mecha, large wings, <lora:add_detail:1>, <lora:EbonyGoldMecha:0.5>,  <lora:add_brightness:0.8>

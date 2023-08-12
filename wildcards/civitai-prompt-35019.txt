@@ -1,0 +1,1 @@
+1girl, breasts expension, shiny skin, <lora:Body_Expension:.75> <lora:Body_Shiny:.75>

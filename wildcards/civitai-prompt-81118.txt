@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:JAV Cover:0.9><lora:capi:1>
+ultra detail, photorealistic, detailed face,
+jav cover, (woman sex capybara:1.5)
+nsfw,

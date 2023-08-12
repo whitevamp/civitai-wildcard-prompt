@@ -1,0 +1,1 @@
+low-angle-shot,1 girl, <lora:Korean-doll-likeness:0.1>, perfect face,Kawaii ,<lora:Japanese-doll-likeness:0.1>, <lora:liuyifei:0.8>,student,school uniform,classroom,Zettai Ryouiki, best quality, intricate details, chromatic aberration,(realistic, photo-realistic:1.37),physically-based rendering,radiosity,professional lighting, photon mapping ,

@@ -1,0 +1,1 @@
+<lora:methurlant:0.5>, methurlant, intricate, downtown,  cityscape, (nature, plant life vines, moss, mushrooms:0.5),  surreal, gritty, atmospheric, cinematic, stylized, contrast, comic, eerie,<lora:epi_noiseoffset2:0.7>,

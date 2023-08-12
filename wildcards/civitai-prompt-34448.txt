@@ -1,0 +1,1 @@
+nsfw, torn clothes, (1girl) (digital) (  in detailed cafeteria (Top Hat)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> paperbag, <lora:paperbag:1>

@@ -1,0 +1,1 @@
+masterpiece, 1girl,cowboy shot,(star sapphire,:0.8),bed room,(beautiful detailed eye),evil smile,dynamic angle,dynamic pose<lora:shungaYoukyu_v10 (1):0.8>

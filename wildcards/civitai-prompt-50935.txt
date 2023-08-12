@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, brown hair, grey eyes, mole under eye,  <lora:yaozhi_anm_v15:0.7>, yaozhi\(fkey\),  yaozhi\(china_cloth\),

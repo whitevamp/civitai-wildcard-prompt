@@ -1,0 +1,4 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,short hair, fake animal ears, mask,bare shoulders sweater, arms,leaning against wall,skirt
+outdoors, day,depth of field, 
+<lora:add_detail:0.6>, <lora:FilmVelvia2:0.4>

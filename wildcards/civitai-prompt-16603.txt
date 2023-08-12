@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.25>, (1girl, solo, adult female, mature female), <lora:detailed_eyes:1>, <lora:concept_goodHands:1>, 
+ <lora:style_lunarPunkAI_(LunarPunkAI):0.95>, LunarPunkAI, LunarPunkAI dome background,
+<lora:character_purahZelda_(Purah_totk):0.85>, white hair, hair stick, scifi outfit, LunarPunkAI outfit, (orange leggings), smirk, smile, red glasses, Purah_totk, leg muscles, robot legs, gold embroidery, cowboy shot, hands on hips, leaning forward,

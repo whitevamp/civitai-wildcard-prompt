@@ -1,0 +1,5 @@
+1 girl,  ((beautiful girl reading a book in library)), <lora:hongKongGirl_v20:0.6>  , wearing student uniform,
+beautiful detailed big black eyes, long hair,
+(masterpiece:1.0), (best quality:1.0), (ultra highres:1.0) ,(Ultra realistic illustration:1.0), (sharp focus:1.1), (RAW photo:1.0), 8k, extremely detailed, photorealistic, HDR,
+(thin body. medium breast),(light smile),
+soft lighting,

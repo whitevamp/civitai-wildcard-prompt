@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, CCCPposter, soviet poster, poster, girl, <lora:CCCPposter_v2.0_locon_noiseoffset_AdamW8bits:0.7>

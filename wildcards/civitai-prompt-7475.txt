@@ -1,0 +1,1 @@
+,(8k, RAW photo, best quality, masterpiece:1.2),(realistic, photo-realistic:1.4),(extremely detailed CG unity 8k wallpaper),<lora:FilmVelvia2:0.6>,<lora:add_brightness:1>,full body,1girl,Snow Mountain,(white cotton-padded jacket:1.2),<lora:FilmVelvia2:0.1>,double braided,red hair,Knitted hat,<lora:InsPX2:0.5>,Scarf,Depth of field,Gloves,jump up,

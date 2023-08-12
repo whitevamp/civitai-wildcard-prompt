@@ -1,0 +1,3 @@
+((masterpiece, best quality:1.2),
+MeridaWaifu,merida from disney,(beautiful skin:1.2),15 years old,beautiful face,round face,(beautiful eyes:1.4),green eyes,orange hair,dress,small breasts,
+outdoors,in the dark forest,fearless smile,standing with folded arms,cowboy shot  <lora:meridaBraveDisney_v10:0.4>

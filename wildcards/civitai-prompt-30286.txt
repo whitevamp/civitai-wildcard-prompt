@@ -1,0 +1,4 @@
+professional photo of buttercup, black hair, green eyes, short hair, messy hair, dress, light-green sleeveless dress, simple black belt, white thighhighs,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:Buttercup-09:0.82:MIDD>

@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1nf3rnalAI,Dr490nSc4leAI,dragon girl, scale skin,standing,face,(closeup:1.4),(fire background),hell, good arm,good hand,<lora:Dra9onScaleAI:0.5>, <lora:InfernalAIv8:0.6>, <lora:add_detail:0.7>

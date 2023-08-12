@@ -1,0 +1,1 @@
+masterpiece, ultra-high quality,1girl , ((open mouth):0.5), <lora:DI_belle_delphine_v1:0.7>

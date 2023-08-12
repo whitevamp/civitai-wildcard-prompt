@@ -1,0 +1,3 @@
+<lora:AI_Utaha:0.33> <lora:sd-No.144:0.22> <lora:T2:0.25>,wide pelvis, the creamy smooth skin,
+(best quality, masterpiece), 1girl, lying, from above, cowboy shot, ribbon, (very low cut  ribbed sweater),  legs up,
+<lora:GodPussy1 v4:0.5>

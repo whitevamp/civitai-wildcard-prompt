@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (highly detailed:1.2),(detailed face:1.2), (detailed background),detailed landscape, (dynamic pose:1.2), <lora:pixel:0.7>((pixelart)),  outdoors, sky, artist name, cloud, tree, watermark, cloudy sky, building, scenery, sunset, road

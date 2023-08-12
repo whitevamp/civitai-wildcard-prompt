@@ -1,0 +1,8 @@
+<4=AI:add_detail:0.5> <lora:copax_charm_eu:0.2> (1girl,3d, photorealistic,masterpiece, best quality, intricate), excited, upper body, seductive pose, in a working office mavis dracula, black hair, blue eyes, dress, striped thighhighs <lora:hoteltransylvania_mavisdracula:0.9>, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], 
+(polish:0.8) girl with (narrow,lanky body:1.2), (beige skin color:1) 
+nsfw, (morning,Majestic eyes:1.2), 
+(bottomless:1), 
+(very short hair strawberry blonde spiked hair:0.8), 
+(shot on Canon EOS R5 Mirrorless Camera, f/2.0, ISO 800:1), 
+<lyco:LowRA:0.3>
+<lyco:very_thin_pussy.v1.0:0.2>, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2]

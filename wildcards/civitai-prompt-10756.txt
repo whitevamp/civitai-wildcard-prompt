@@ -1,0 +1,4 @@
+<lora:add_detail:1>
+(1man, thin adult  male:1.2),  dark brown eyes, chestnut hair, mutton chops,
+(style-swirlmagic:0.8), portrait, solo, half shot, looking down, detailed background, detailed face, (<lora:ChronomancyAI:0.5>, ChronomancyAI, chronomancy theme:1.1), bubble-wizard,   orange sorcerer robes, surrounded by  light green bubbles, rainbow, floating orbs, large bubbles,   floating sparkling particles,  transclucent, glowing bubbles, swirling bubbles, graceful,  bubbles in background, intricate patterns, starry sky,   magical atmosphere,
+<lora:_rL2170:0.4>,

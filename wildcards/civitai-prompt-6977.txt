@@ -1,0 +1,4 @@
+Amethyst,((purple skin)),( plump), long white hair  , purple eyes ,makeup ,lips ,gem between collarbone,  full body, low angle,  smiling,  solo,
+AmetClot,tank top,torn clothes,cleavage, leggings with star symbols,
+ ,outer space, milky way, stars,
+(insanely detailed, beautiful detailed face,  masterpiece, beautiful detailed  eyes, best quality)     <lora:Amethyst:0.8>

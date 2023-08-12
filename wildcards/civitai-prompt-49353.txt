@@ -1,0 +1,1 @@
+((masterpiece)),(best quality), absurdres,sadako_yamamura,red eyes, white dress,<lora:Sadakobest:0.8>, <lora:evangelion1995Style_v1:0.8>,

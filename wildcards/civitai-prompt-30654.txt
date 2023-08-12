@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4), ((Face Details:1.7))1 girl,<lora:Sexy office lady:0.9>Sexy office lady,office,((black suit,formal shirt,jacket,micro mini skirt)),(((having a good physique,muscularity))),<lora:Adr1anaCh3chik:0.8>Adr1anaCh3chik

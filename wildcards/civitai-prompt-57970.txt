@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:dbz_vegeta-03:0.8>, <lora:lightningvfxCreateMore_v1:0.2>, solo, male focus, 1boy, vegeta, super saiyan, serious, looking at viewer, sitting in a fancy chair, crossed legs, blonde spiked hair, blue eyes, formal, red suit, red pants, surrounded by (yellow lightning:1.1)

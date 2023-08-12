@@ -1,0 +1,1 @@
+symmetrical, 1girl, beautiful face, beautiful woman, <lyco:14720_768_LoCon_mermaid:0.8>,pink mermaid,monster_girl,fish_scales,mermaidtail, full body, in_prison, <lora:in_prison:1.7>, in_prison,sitting,looking at viewer, (prison bars in foreground:1.2), (blurry foreground:1.2), large breast, cleavage, blue eyes, blonde hair,  <lora:breastinClass:0.3>

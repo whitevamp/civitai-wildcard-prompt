@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, perfect skin, female, looking at viewer, <lora:BJenetMS:1>, cleavage, blue eyes,  purple dress, yellow hair, tattoo, :d, <lora:piratepunkai_v10:0.6>, piratepunkai BJenetMS, beach

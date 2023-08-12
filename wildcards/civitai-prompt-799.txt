@@ -1,0 +1,6 @@
+8k, real picture, intricate details, ultra-detailed,(photorealistic),
+ <lora:bleach_odelschwanck-11:1.0>odelschwanck , green hair, skull, torn clothes, underboob, skirt, simple background,
+<lora:3DMM_V10:0.2> 3dmm,
+<lora:microwaist:0.6> microwaist,
+<lora:Torn:0.8> torn clothes,torn bodysuit
+smile,

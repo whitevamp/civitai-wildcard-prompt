@@ -1,0 +1,1 @@
+pretty 1girl, absurdres, 8k uhd, dark wavy hair, glasses, medium breasts, black jacket, lingirie, bra,  night, metro undergound, dinamic light, neone, tattos, close up portrait,  <lora:beautifulDetailedEyes_v10:0.6>,  <lora:russianDollLikeness_v3:0.3>,  <lora:lightAndShadow_v10:0.2>

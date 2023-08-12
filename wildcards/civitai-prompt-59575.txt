@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+ <lora:crystallineai_v10:0.8>, crystallineAI, fantasy creatures,underwater,  octopus,

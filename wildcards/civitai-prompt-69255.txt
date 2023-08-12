@@ -1,0 +1,4 @@
+<lora:zombie_v1.3:1>,
+1girl wearing  wearing camouflage_uniform, tears,standing , scared, wide-eyed, restrained, sad,dirty and wet skin ,
+multiple boys all are zombie,bloody zombie, motion blur, perspective,zombie
+, masterpiece, best quality, highly detailed, dungeon, cellar, stone, stone floor, stone walls, underground, nphot, <lora:nightPhotoFlash_nightphotov1:0.81>, <lora:zyd232sChineseGirl_v39:0.3> <lora:camouflage_uniform04:0.51>,(Vine:1.1) ,(moss:1.1),

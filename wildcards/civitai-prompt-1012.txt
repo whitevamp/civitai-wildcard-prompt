@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, <lora:LowRA:0.6> dark theme, egirl, choker, gold hair ornaments, skirt, goth, chains, gothic gal, bondage, <lora:add_detail:1>, indoor, old gothic room, detailed background

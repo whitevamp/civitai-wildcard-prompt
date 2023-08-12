@@ -1,0 +1,2 @@
+1girl, agentsf, maid, (GTScramped, giantess:1.2), indoors, full body, (head touching ceiling, sitting against wall:1.2)
+<lora:AgentSF:1> <lora:GTSv5:1>

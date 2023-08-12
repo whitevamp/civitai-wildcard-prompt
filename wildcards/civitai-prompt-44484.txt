@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,realistic,photo-realistic:1.37),best quality,<lora:catman:0.75>,masterpiece,maomi,instrument,hat,music,guitar,tongue,solo,playing instrument,open mouth,shirt,

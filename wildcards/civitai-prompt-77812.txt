@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, 1girl, solo,valorantviper, green bodysuit, elbow gloves, belt, thigh boots, gasmask, city ruins, ((fire)), assault rifle, movie poster,  <lora:viper-nvwls-v1-final:0.8>,   <lora:yojiShinkawaStyle_offset:0.8>,  <lyco:BetterGuns-V1:0.8.0>8>,

@@ -1,0 +1,2 @@
+masterpiece,best quality,1girl,Ascension3, FinalCostume,shy,gigantic breasts,laboratory,<lora:FatePassionlip:0.7>,
+ <lora:bluegk-artist-richy-v1:0.1> <lora:Sagging breasts:0.9>  <lora:more_details:0.2>

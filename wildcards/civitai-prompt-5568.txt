@@ -1,0 +1,2 @@
+looking at viewer, dynamic angle,(full body:1.1), a girl with her hands down in front of a wall, (graffiti wall),(no people:1.1),
+1girl, solo, short straight grey hair, one piece dress, collar, collarbone, earrings, hairstyle, sneakers, bracelet, (simple background:1.2) <lora:clothesUpdate:0.5> <lora:squeezerExperimental_:-0.7>

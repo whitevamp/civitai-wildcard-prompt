@@ -1,0 +1,1 @@
+masterpiece, best quality, skeleton style, 1girl, solo, outdoors, cyberpunk, futuristic city, ((neon light:1.3)), professional light, colorful, ultra detailed, ribcage, demonic smile, skull, anime style, long coat, black coat, open shirt, fire, <lora:skeleton:0.4>, <lora:add_detail:1>

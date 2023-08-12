@@ -1,0 +1,2 @@
+(masterpiece, best quality:1.2), <lyco:Marie:0.8>, cowboy shot, 2girls, mariep4, expressionless, closed mouth, looking at viewer, skirt, choker, shoulder bag BREAK
+ <lyco:kyrie-nvwls-v1-final:0.8>, cowboy shot, 2girls, kyrie canaan, expressionless, closed mouth, looking at viewer, cabbie hat, red gloves, grey crop top, belt, short shorts, spandex shorts, layered clothing, striped thighhighs

@@ -1,0 +1,3 @@
+1girl, 1boy, centered, pov, on stomach, mature female, bedroom,
+
+<lora:concept-69-pov-v3:0.7>

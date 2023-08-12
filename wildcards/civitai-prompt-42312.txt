@@ -1,0 +1,1 @@
+simple_background, red_background, 1girl, portrait, upper body, black_hair, long hair, hime haircut, sexy, beautiful woman, beautiful face, cute, large breast, low-cut, samurai outfit, red_eyes, <lora:breastinClass:0.3>

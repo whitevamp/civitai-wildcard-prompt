@@ -1,0 +1,5 @@
+1girl, blue hair, scarlet hakama, stylish,single braid, hair ribbon, smile, happy, wet clothes, nipples, open mouth, <lora:CHAR-Ferry:0.6> , <lora:bobsout1-000010:1>, <lora:add_detail:0.8>
+//
+hotspring scene,
+//
+, ((Establishing Shot, dutch Angle Shot, Dutch Angle)), Manga, RTX, Moonlight, Moody Lighting, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, landscape, outdoors, ((high quality:1.2, masterpiece:1.2)), Eye Shadow, Makeup, Eyeliner  , ((Establishing Shot, dutch Angle Shot, Dutch Angle)), Manga, RTX, Moonlight, Moody Lighting, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, landscape, outdoors, ((high quality:1.2, masterpiece:1.2)), Eye Shadow, Makeup, Eyeliner

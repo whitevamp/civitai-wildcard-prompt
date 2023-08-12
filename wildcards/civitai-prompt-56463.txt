@@ -1,0 +1,2 @@
+(masterpiece:1,2), best quality, scared expression,  clenched teeth,
+wariza,((tears)), witch hat, pink hair, twintail, underboob, upshirt<lora:scared-expression-v1.8-000005:0.8> <lora:upshirtUnderboob_v10:0.8>

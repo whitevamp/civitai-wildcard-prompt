@@ -1,0 +1,1 @@
+mangguo_keji_mecha,<lora:mangguo:1>

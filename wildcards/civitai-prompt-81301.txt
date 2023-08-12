@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+monochrome, lineart, comic, cross-section, manga \(object\), left-to-right manga,  MangaHentaiStyleConceptv2
+ <lora:ceres_fauna_v30:0.8> 1girl, ceres_fauna, long hair, antlers, nude, ass,

@@ -1,0 +1,11 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), shiny hair, glowing eyes, 3d face, perfect face, realistic, upper body,
+ BREAK
+1 girl, 
+ BREAK
+kurosawa dia,<lora:DiaLL_v2:0.5>, (green eyes:1.1), hair ornament, hairclip, long hair, medium breasts, uranohoshi school uniform, school uniform, smile, (simle:0.8), blush, (cute:1.2),
+ BREAK 
+in door,
+ BREAK
+cinematic lighting, all focused image,omnifocal image,depth and dimension,best shadow, shadow play, creative expression,detailed design 
+ BREAK
+wakame

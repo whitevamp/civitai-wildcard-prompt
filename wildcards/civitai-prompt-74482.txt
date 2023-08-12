@@ -1,0 +1,4 @@
+((best quality, masterpiece, ultra-detailed)), 1girl,  (solo), (detailed face), (full body), (ink painting), (illustration), (detailed light), (extremely beautiful), Ink dyeing, color painting, (watercolor), 
+(smile), cute face, beautifuldetailedeyes, long hair,ultra detailedhair,  floating hair, flowing, (flowers petals), (colored cheongsam), long dress, (embroidered lace),
+figure in the center of the frame, (rhythm), fantasy, ink background, colored inks,
+ <lora:Lady60:0.2>,

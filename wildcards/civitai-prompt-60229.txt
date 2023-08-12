@@ -1,0 +1,1 @@
+sketch of a small OldEgyptAI obelisk seen through a futuristic passage, back and white cat in foreground, rzp4ss4ge, fantasy, <lora:oldegyptai_v10:.6>   <lora:rzPassage1521_1510:1>  <lora:darkFantasy_v11:.4>

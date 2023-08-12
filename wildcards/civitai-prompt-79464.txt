@@ -1,0 +1,2 @@
+(((masterpiece))), ((best quality)), ((intricate detailed)), ((Hyperrealistic)), ((digital painting)), dungeon and dragon theme, tarot card, warrior woman,  wearing armor, intricate detailed, fantasy, big breast, full body, digital art, brown hair, tribal motive tarot, gold, one handed sword, 
+<lora:add_detail:1> <lora:animetarotV51:0.7>  <lyco:UnlimitedBladeWorksV0.3:0.7>  <lora:adventurers_v1:1>  <lyco:GoodHands-beta2:1.0>

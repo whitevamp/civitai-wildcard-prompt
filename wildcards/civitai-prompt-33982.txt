@@ -1,0 +1,2 @@
+(best quality, masterpiece, highres),1girl,solo,short hair,shirt tucked in,smile,holding candied haws,sitting,night,horizon,city lights,
+<lora:candied haws_v1:1>,

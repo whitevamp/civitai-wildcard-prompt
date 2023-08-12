@@ -1,0 +1,1 @@
+(orange hair, long hair, blunt bangs, pink eyes:1.3),clear details,masterpiece,1woman,solo,(blossom:1.2),(bow, dress, belt, thighhighs),(detailed eyes, detailed face, beautiful, perfect skin),(hands out of frame) <lora:Blossom:0.9>

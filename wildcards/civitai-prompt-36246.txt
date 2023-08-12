@@ -1,0 +1,5 @@
+(absurdres),
+(nsfw:1.2), woman in lingerie, nude, 1girl bdsm, Soft Grunge, (inspired by Brian Despain:1.1),
+(bright colors:1.1),  
+<(nvinkpunk:0.92), dal, intricate details, dynamic pose, 1girl, (sam yang:0.85), anatomical, women, COLORFUL STYLE, ART STYLE, ILLUSTRATION>
+<lora:inkpunkDiffusion_Lora300:1> <lora:dalcefoNaraeLoraVer_dalcefoNaraeLora:1> <lora:samdoesartsSamYang_offsetRightFilesize:0.05> <lora:unstableInkDream_LoRA300:1> <lora:inniesbettervaginas_v11:1.0> <lora:gyokai:1>

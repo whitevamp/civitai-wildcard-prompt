@@ -1,0 +1,6 @@
+back lighting, high contrast, red shadows, red sun, fire,
+girl, devil smile, devil horn, white hair, complex arm, black skeleton, spine,
+thigh, leotard, black panty, glow eyes,
+cables, thigh, glow eyes,
+blood, red cables,
+<lora:aMechaMusumeA_v1:1>

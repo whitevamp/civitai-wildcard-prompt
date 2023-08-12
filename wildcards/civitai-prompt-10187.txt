@@ -1,0 +1,7 @@
+absurdres, intricate details, masterpiece, best quality, ultra high res, 8k, (from behind),
+1boy, cyan bikesuit, white sports tights, white socks, wet clothes, torn clothes, 
+manly, mature male, (aged up), looking at viewer, sweat, butt, ass focus, anus, testicles, penis, spread legs, 
+(muscular:1.2), (abs, big pectoralis, shiny skin, bare pectorals, large areolae,:0.7) 
+detailed face, naughty face, red eyes, eye reflection, (silver short hair:1.3), shiny blue necklace,
+forest, mountain, lake, (flower, grass:1.2), butterfly, soft rim light,
+<lora:cute boys3:0.6> <lora:handsomeMan_v10:0.4> <lora:epi_noiseoffset2:1>

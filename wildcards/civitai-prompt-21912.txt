@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:kaga:0.8> kaga(azur lane), kitsune,  animal ears, multiple tails, white hair, blue eyes, animal ear fluff, solo,  fox ears, white tail, tail, sky, large breasts, areola slip, fox tail,  fox girl, short hair,looking at viewer
+nude, feet, bare soles, barefoot,<lora:feetaway1-000006:0.8> on bed, indoors, simple background, feet, ass,,

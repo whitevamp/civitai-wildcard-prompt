@@ -1,0 +1,1 @@
+Bubble,(HD screen:1.1),(some fish:1.1),1 dog,mangguo_keji_water under,Corgi,(Elegant hair:1.2),<lora:mangguo:1>,

@@ -1,0 +1,4 @@
+(8k, masterpiece:1.21), (best quality:1.21), {an extremely delicate and beautiful},  (realistic, photo-realistic:1.3),(ultra detailed), high res,HDR, cinematic lighting, highly detailed background, perspective, bokeh, depth of field, ray tracing,
+1girl, solo, cute, realistic skin texture, ((light on face)), (focus on face), (sharp focus), (nose blush), (beautiful detailed face:1.2), (blush:1.3), (beautiful perfect eyes), perfect skin,looking away, (shy:1.3), (young girl:1.3), (small face:1.2), (thick thighs:1.2), (full body:1.31), (cowboy shot:1.3), expressive detailed eyes, bright pupils, (glowing eyes:1.21), white shirt, blue mini skirt,
+<lyco:SUPERBETATESTINGChangeACharacter_superbetaversion:0.9>,PhonePic, (viewer holding phone), pov, (phone screen), penis, sex, vaginal, (nude), nsfw, 
+(ulzzang-6500-v1.1:0.4)

@@ -1,0 +1,2 @@
+(Realisitc:1.5), spongebob, <lora:EdobSpongeBobSquarePants_v1.0:0.3>, <lora:GoodHands-beta2:.7>, perfect hands, <lora:epiCRealismHelper:1>
+natural texture <lora:Dariusz_Zawadzki_ArtStyle:0.5>

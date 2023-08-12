@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1 girl, (cowboy shot:1.2), (wet see through:1.25), (japanese school uniform), (JP uniform crop top), <lora:JP_uniform_crop_top:0.7>

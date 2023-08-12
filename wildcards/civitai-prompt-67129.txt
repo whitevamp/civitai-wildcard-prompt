@@ -1,0 +1,6 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, (1girl:1.4), (solo:1.4), FilmG, (film grain:1.2), best shadow, intricate, depth of field, fullbody,
+(authentic skin texture:1.4), (natural skin texture:1.4), (detail faced), collarbone, makeup, (silver hair:1.2), messy hair, (floating long hair), earrings, necklace, (intricate lace corset:1.2), (lace choker:1.2), detailed cloth texture, happy, mix4,
+((spectacular scenery, snow mountain, lake, flower field, sunset, wind)),
+<lora:FilmgirlLora_v30:0.6>,
+<lora:Dreamy face:0.6>,
+<lora:EnglishDollLikeness_v10:0.3>,

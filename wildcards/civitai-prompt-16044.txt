@@ -1,0 +1,3 @@
+, (masterpiece:1.2), best quality,midjourney,
+1girl, scenery, solo, sky, star (sky), cloud, outdoors, standing, starry sky, fantasy, horizon, long hair, tree, light particles, water, very wide shot, from behind, cloudy sky
+ <lora:midjourney_20230624181825:0.9>

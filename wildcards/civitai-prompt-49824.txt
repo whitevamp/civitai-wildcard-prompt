@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl,cute,standing, solo,beautiful detailed sky,  detailed face, detailed eyes,  golden Armor,streets of tokyo, white cloak ,   close up, <lora:saintSeiyaPisces_piscesarmor10:0.6>

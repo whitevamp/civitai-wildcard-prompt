@@ -1,0 +1,10 @@
+1 young woman,((thighhighs: 1.5)), (no panty:1.2),posing,(nose blush),beautiful detailed eyes,floating hair,(dark blonde hair),(bangs),slightly damp,
+[:(detailed face:1.5):0.2],Oily_skin,skinny, plump legs,slender waist,(medium breast),(puffy nipple),(tight pussy),
+(bare pussy), nude, outdoor,posing,(blue sky), day, horizon, jewelry,japanese,ocean,bed,
+
+(8k, raw photo, ultra high res, masterpiece:1.2),(realistic, photo-realistic:1.2),ultra-detailed,
+magazine,front lighting,soft diffused light,
+photon mapping, radiosity, physically-based rendering,
+detailed background,
+
+<lora:koreanDollLikeness_v10:0.28>,PureErosFace_V1,ulzzang-6500,

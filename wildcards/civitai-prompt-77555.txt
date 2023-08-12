@@ -1,0 +1,1 @@
+prigozhin, a man, suit <lora:celeb_ prigozhin:1>

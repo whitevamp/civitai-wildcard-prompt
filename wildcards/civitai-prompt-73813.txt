@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2, high quality),shukezouma, negative space, shuimobysim, rocks in front, grass, <lora:shukezouma_v1_1:0.8>, <lora:MoXinV1:0.6>,tiger, traditional chinese color painting,

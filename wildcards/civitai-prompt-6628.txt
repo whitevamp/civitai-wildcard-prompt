@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, sitting, indoors, curtains, seiza, looking at viewer, embarrassed, blush, closed mouth,
+mizuki yukikaze, hair ribbon, white one-piece swimsuit, one-piece tan, see-through, covered nipples,  <lora:MizukiYukikazeV1_1:0.9>,  <lora:more_details:0.3>

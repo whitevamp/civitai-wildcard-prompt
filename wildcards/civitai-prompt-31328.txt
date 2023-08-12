@@ -1,0 +1,2 @@
+fantahouse, scenery, outdoors, sky, no humans, day, cloud, blue sky, flower, building, castle, tree,  bird, grass, tower
+ <lora:fantahouse-noise:0.6>

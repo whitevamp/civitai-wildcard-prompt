@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,best quality, ((beautifully detailed eyes and face)),
+black and white fabric edgApron, a woman in a sexy lingerie posing for a picture,wearing edgApron ,edgMarquise, a woman with a curly haircut wearing a choke ,with a edgMarquise_hairstyle
+ <lora:edgApronMarquise:0.78>

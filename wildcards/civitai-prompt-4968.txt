@@ -1,0 +1,3 @@
+(best quality:1.2) (4k:1.) (very high resolution:1.1) , (realistic photograph:1.1) , (ultra detailed CG:1.1) , official concept art ,
+sculpture made of crystal , statue , no human , 1girl elf , solo , (detailed face:1) , (small breasts:1) , full body , transparent body and wings , sitting , 
+<lora:crystal_v1:1> (phcrystal:1) , colorful crystal , gems , <lora:glasssculpture_v8:.8> (glasssculpture:.95) , translucent , transparent , reflection , RTX , lay tracing

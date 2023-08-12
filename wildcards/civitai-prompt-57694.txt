@@ -1,0 +1,1 @@
+ashe \(overwatch\), ashe, masterpiece, 1girl, nude, ultra-detailed, perfect anatomy, looking at viewer, saloon realistic,very detailed background, (masterpiece:1.4),(best quality:1.4), high-definition, cow girl, (upper body), <lora:asheOverwatchLORA_v1:0.6>  <lora:epiNoiseoffset_v2:1>

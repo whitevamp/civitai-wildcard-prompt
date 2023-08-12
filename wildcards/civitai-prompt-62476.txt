@@ -1,0 +1,3 @@
+(masterpiece, top quality, best, official art, beautiful and aesthetic, long exposure:1.2),     captivating patterns, creative experimentation, visual chaos,
+(1man,  old ancient greek male:1.2), frail,  amber eyes, chestnut textured fringe,
+ portrait,  looking down, solo, upper body, detailed background, (<lora:style_steampunkai10MBLora_10mb:0.5>, steampunkai, steampunk theme:1.1)  light smile, gentle, serene,  mage, casting light spell,   night, darkness, moonlight, floating pebbles,  dark brown cape, gloves, magic projectile, divine spell, mana, bright realistic lighting, fairytale village in background,   tiara of light hovering above head,

@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+<lora:Takodachi:1> takodachi, blush, smile, closed mouth, closed eyes, :3

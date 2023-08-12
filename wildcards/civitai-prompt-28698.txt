@@ -1,0 +1,1 @@
+(Style by NTY:1.4), female, scarlet art, iridescent hair, intricate, colorful <lora:OilPaint:0.7>

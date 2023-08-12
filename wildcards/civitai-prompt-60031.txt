@@ -1,0 +1,4 @@
+<lora:SolarpunkAI:1>
+concept art  of SolarpunkAI
+green-powered  
+toaster

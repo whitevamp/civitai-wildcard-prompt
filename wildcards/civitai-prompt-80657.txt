@@ -1,0 +1,1 @@
+masterpiece, extremely detailed, (realistic:1.1), (3d:-1), 1girl, anna \(frozen\), (blue eyes:0.7), (black corset, red cape, brown skirt), sitting, spread legs, upskirt, (panties:1.1), log cabin, fireplace, <lora:Anna_character:0.6> <lora:iroiro_saturation:0.75> <lora:dollface:1>

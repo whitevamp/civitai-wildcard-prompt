@@ -1,0 +1,1 @@
+openposeman,  <lora:openposeman:1>,  wooden house, indoor

@@ -1,0 +1,4 @@
+masterpiece, best quality, details, vivid color, 1girl, shiny skin, toned, (muscular:0.5), pink eyes, hair rings, <lora:satanichiaFromGabriel_v10:0.6>, satania,
+crop top, hoodie, leggings, sneakers, full body, solo,
+sunrise, steaming body, sweat,
+parted lips, looking back,

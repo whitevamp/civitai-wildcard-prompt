@@ -1,0 +1,1 @@
+masterpiece, <lora:cat:0.8>,black cat,white background,ink

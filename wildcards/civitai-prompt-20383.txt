@@ -1,0 +1,2 @@
+manypipesai, a beautiful portrait of 1 girl as a scientist working in a laboratory, glasses, overalls, triangle scarf, work gloves, boots,  arms crossed, leans against a vehicle,
+best quality, masterpiece, intricate details, (photo realistic:1.4), dream-like, <lora:SteamPunkBundleV3:1>

@@ -1,0 +1,4 @@
+((angry)), on ground,   in city, cyberpunk, cyberpunk 2077, neon lights, street, lamppost, from below, , empty eyes,  floating hair,  upper body,  ,   hands_down,  ,  face upward ,   ( Long-range lens, distant,  prospect, ),  ((head to sky, , head up)),  ,   , (kusanagi motoko, expressionless, ,purple hair,, short hair,),(shiny skin, real skin, pale skin, scar, dust on body), angry, 
+bright, best quality, masterpiece, (Depth of field:1.2), , shiny skin, light, pale skin, bare legs, goddess, saint, dust, mist, Ghost In The Shell, Oshii Mamoru, sky, weather, neon, sacred, long-focus, Abandoned cities, ruins, broken walls, the end of the world, outdoors, japan, 
+(masterpiece, best quality:1.2), detailed background, despair, fantasy, (photorealistic:1.4), speed lines, diffraction spikes, scanlines,
+<lora:ghostintheshell_kusanagi_sac:0.6> <lora:reelmech1v2:0.4> <lora:epi_noiseoffset2:0.0> <lora:add_detail:0.3>

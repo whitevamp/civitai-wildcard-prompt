@@ -1,0 +1,5 @@
+(Masterpiece, Best Quality, High Quality:1.4), professional artwork, realistic drawning, Intricate Details, field of view, sharp focus, detailed painting, masterpiece, cinematic lighting, trending on pixiv, (vivid lighting, vibrant colors, by by Nagasawa Rosetsu:1.2),
+Yamasaki Suzuko, mature female, female teacher, milf, standing, holding bag, street, night, neon lights, (cowboy shot:1.1),
+(pink hair:1.1), long hair, ponytail, lipstick, makeup, ultra detail hair, ultra detail face, (under-rim eyewear:1.05), perfect eyes, perfect face, earring, serious expression,
+sleeveless, sleeveless shirt, white pink shirt, pencil skirt,
+(Large Breasts:1.2), Cleavage, (big ass:1.1), ass focus, <lora:YamasakiSuzuko-000009:0.8>, <lora:add_detail:1>, <lora:epi_noiseoffset2:1>

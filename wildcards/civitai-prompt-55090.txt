@@ -1,0 +1,3 @@
+(8k, masterpiece:1.21), (best quality:1.21), {an extremely delicate and beautiful}, (ultra detailed), high res,HDR,
+<lora:CHR_OptimusPrime_sxzOptimus:0.9> optms, no humans,  glowing eyes, blue eyes, mecha, robot,
+<lora:SFX_northKoreaPropaganda_v10:0.8>, march, north korea, missle, panzer, tank, warship, war machine, army, leader, propaganda poster, arm up,  soviet

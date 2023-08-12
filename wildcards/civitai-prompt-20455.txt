@@ -1,0 +1,1 @@
+<lora:kun_20230630133051:0.65>,Sharp teeth,tentacle,Black cloud,ice,KUN,domineering,(The dark sky:1.2),Lightning,thundercloud,Dark clouds,Towering waves,Broken ship,squall,Act of God,(<lora:xk_20230628160(345:1>:0.6)),(Giant octopus:1.2),Oppressing sense,monster,

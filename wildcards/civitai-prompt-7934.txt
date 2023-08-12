@@ -1,0 +1,9 @@
+(absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,Gloomy ,
+1girl,mature women,sliver hair,(smirk:1.2),(holding skull:1.1),
+pale skin,glowing eyes,
+robe,hood,dark purple aurora,nebula,luminous trails ,
+fog,blue fire,candlestick,Grave,
+night, 
+<lora:flat2:-0.5> ,
+<lora:LowRa:0.3,> dark theme,)
+<lora:anime_minimalist_v1-000020:-0.2>,

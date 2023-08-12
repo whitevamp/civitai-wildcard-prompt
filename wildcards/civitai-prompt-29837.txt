@@ -1,0 +1,7 @@
+toughboy, (one male), (portrait), (looking at viewer).
+Very detailed manly face, heroic, detailed realistic open silver eyes, (muscular:1.5), (big muscles), (massive pecs), (hairy pecs), narrow waist and hips, sandy blonde side part hair, (slight smile).
+(shirtless) (topless male).
+sprawling on the ground look above high angle in a sluminterior, bedroom, mattress, slum, poster, pan, kitchen, rack, detail, crack, broken, newspaper, ornate, broken mirror, bed, blanket and pillow, dirty.
+Realistic, photoreal, high definition, high contrast, high saturation, highly detailed, high quality, masterpiece, dimly lit, volumetric light, vibrant colors.
+<lora:Tough_Boy:0.85>
+<lora:ARWSlumInterior:1>

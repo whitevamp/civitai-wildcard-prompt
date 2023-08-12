@@ -1,0 +1,3 @@
+A few confused fluffy little black dusty sootsprites on top of and around (a plate of spaghetti), pasta, (red sauce), basil, on a table, brightly lit, tablecloth, fork, trails of soot, sprinkles of black powder.
+fcPortrait, highres, high resolution, detailed, vibrant, colorful,
+<lora:LowRA:0.1> <lora:add_detail:0.3> <lora:sootSprite:0.5>

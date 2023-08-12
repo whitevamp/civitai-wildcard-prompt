@@ -1,0 +1,4 @@
+best quality, masterpiece, (realistic:0.6), realistic lighting, bloom, skin imperfections, shiny skin,
+1 girl, woman, portrait, freckles, solo, half shot portrait, detailed background, teal eyes, natural blonde braided hairstyle, detailed face, waitress,leaning back, long ruffled skirt, topless, (naked breasts:1.1), nipples, proud smile, dynamic pose, standing, necklace, dark background, neon lights in background, 1960s atmosphere, american bar background, coca cola,  wristwatch, bar stools, 1960s radio, pool table,
+<hypernet:sxzBloom_sxzBloom:0.2>
+<lora:style_abstractDisco_abstractDiscoDiffusion:0.2>

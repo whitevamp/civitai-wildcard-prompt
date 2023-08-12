@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.2>, <lyco:vividImpactfulStyleYoneyamaMai_v40hLocon:0.1>, (masterpiece), purple , long hair, detailed purple eyes,<lora:raidenShogunLora_raidenShogun:1.0>

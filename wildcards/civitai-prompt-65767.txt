@@ -1,0 +1,1 @@
+<lora:LowRA:0.6> hdr, oldman, closeup, (crowded newspapers store:1.2), hyperdetailed, cinematic, dark shot, muted colors, film grainy, soothing tones, muted colors

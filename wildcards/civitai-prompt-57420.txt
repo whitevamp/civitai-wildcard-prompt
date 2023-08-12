@@ -1,0 +1,1 @@
+solo, ((sergal)), female sergal, red fur, furry, beautiful eyes, (best quality), (great quality) <lora:sergalLora_v10:0.7> <lora:beautifulDetailedEyes_v10:0.4>

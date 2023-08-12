@@ -1,0 +1,1 @@
+(Masterpiece:1.4), (best quality:1.2), <lora:sugar_rush_evelynn-000016:0.8>, sugar rush evelynn, 1girl, strapless dress, gloves, chocolate on body, strawberry hair ornament, multicolored hair, <lora:GTSv5:1>, (sitting on building:1.2), GTS, giant

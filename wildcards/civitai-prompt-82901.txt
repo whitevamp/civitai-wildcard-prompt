@@ -1,0 +1,4 @@
+[1boy:1girl:0.3], tomboy, solo, very short dark hair, pixie cut, tan, delicate, (large breasts:1), (medium breasts: 0.25), messy hair, BREAK
+plastic bag,swimsuit,see-through BREAK
+half shot, at a private outdoor pool, spring board, sunlight, absurdres, best quality,
+<lora:GoodHands-vanilla:.79> <lora:plastic bag:.8>

@@ -1,0 +1,6 @@
+group picture,multiple girls,5girls,looking at viewer ,realistic,shiny skin,(office lady),business suit,cleavage,(beautiful face:1.1), 
+large breasts, motherly, porcelain skin, honey blonde hair, very long hair, wavy hair,mature female,
+ <lyco:MultipleGirlsGroup:1>, 
+standing, (from below:1.2),
+crossed arms, 
+( squinting ),, (((masterpiece))), ((best quality)), ((intricate detailed)), ((Hyperrealistic)), absurd res, perspective, highly detailed, illustration,HDR, UHD, 8K,Studio lighting,ultra-fine painting,sharp focus,extreme detail description,Professional,Vivid Colors,(EOS R8, 50mm, F1.2, 8K, RAW photo:1.2)

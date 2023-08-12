@@ -1,0 +1,1 @@
+hdr, alien_god, orange skin, wearing a purple jacket, black ski gloves, posing, in the snow, winter, trees, blue sky, sunny, looking at camera, smiling, lustrous color, jazzy light,  wonderous ambiance, <lora:alien_god:1>,<lora:TNFFUNF:.8>

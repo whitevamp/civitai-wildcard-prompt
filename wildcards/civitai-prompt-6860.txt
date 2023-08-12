@@ -1,0 +1,1 @@
+upperbody,1girl,solo,pinup,(detailed eyes),detailed face,looking at the viewer,highly detailed,beautiful,sexy,seductive,sultry,grinning  curvy, wide hips,  <lora:tngtroi_z:.8> star trek, tng,  <lora:startrek_uniform_lora_5000:1>woman, uniform

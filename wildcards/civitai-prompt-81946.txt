@@ -1,0 +1,1 @@
+chinesedragon, dragon, letterboxed, holding, outdoors, bird, standing, cloud, 1boy, weapon, from behind, sky, cloudy sky, animal, holding weapon, eastern dragon, monster, 1other, hat, fog,  <lora:ChineseDragon_v02:0.95>,  <lora:niji_20230529141232:0.6>

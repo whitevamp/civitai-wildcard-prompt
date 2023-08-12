@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, nurse, hospital bed, downblouse, (bra falling), big boobs, nipples, smiling, topless <lora:downblouse-v1:0.5> <lora:add_detail:0.4>

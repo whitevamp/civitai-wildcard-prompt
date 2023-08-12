@@ -1,0 +1,11 @@
+Prompt:
+
+(8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0), detailed illustration, detailed, (realistic, photo-realistic:1.37), detailed beautiful skin,
+
+
+<lora:Sailor_Mars_hino_rei-01:0.6> sailor mars <lora:CostumeStraitjacket_v1:1.3>, straitjacket, navel,pubic tattoo,
+
+(1 girl: 1.2), extremely beautiful girl, (upper body:1.2), standing in snow, wires, panties,high heels,bikini bottom only,strapless leotard,breastless clothes,impossible swimsuit,
+
+
+snow, winter background, sunset

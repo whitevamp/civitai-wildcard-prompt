@@ -1,0 +1,1 @@
+Best Quality, Masterpiece,1girl,solo focus:1.5,vvi\(artstyle\),animal collar,see-through,glod,pop,white hair,maple leaf background:1.5, blue theme,<lora:animeTarotCardArtStyleLora_v30:1> <lora:vividImpactfulStyle_v40g:0.7>

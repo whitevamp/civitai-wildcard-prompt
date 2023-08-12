@@ -1,0 +1,6 @@
+((onoff:1.4)),
+bissett, illustration, super long legs,mechasuit, mechanical arms, cyborg, helmet,over knee boots, 
+ ink watercolor,1girl, solo,  high heels, , see through,  ornamental,  long hair, tiffany blue, nikon yellow,  UPS brown,  
+ white background, lips, eyelashes, makeup, lipstick, eyeshadow, 
+2d, lineart, 
+ <lora:bissett-02:.45> <lora:onOff_v326:1.2>

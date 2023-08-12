@@ -1,0 +1,4 @@
+(poetic, cozy:1.3), (best quality:1.2), (masterpiece, intricate detail), dark theme, (sexual, erotic:1.2), cinematic, dramatic, cowboy shot,
+indoors, (glamour shot of girl:1.2), a photo of girl in Rented_room at night, 
+1 girl, perfect and delicate face, perfect detail eyes, sleeveless, sleepwear, hair bun, white hair, side boob,
+<lora:LowRA:0.4>,

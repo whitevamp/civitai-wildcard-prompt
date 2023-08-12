@@ -1,0 +1,1 @@
+masterpiece,(bestquality),highlydetailed,ultra-detailed,1girl,(mechanicalwings:golden,glowingeyes:blue,silverarmor:1.2,elongatedears:0.8),(cyberpunkcity:1.5,weapon:energyblade),(fantasylandscape:1.2,natural lighting:1.5,confidentexpression),(panorama:1.2),mecha, smile,<lora:机甲少女:0.5>,angle,Angels, wings, <lora:天使V1:0.3>

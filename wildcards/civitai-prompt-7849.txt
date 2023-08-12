@@ -1,0 +1,2 @@
+<lora:MusketPunkAI:.9> MusketPunkAI
+aircraft

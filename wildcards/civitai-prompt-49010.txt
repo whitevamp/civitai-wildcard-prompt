@@ -1,0 +1,2 @@
+burtonesque, scenery, forest, monsters, spiders, rain, extremely detailed, intricate, dark, night time, moon, gloomy, muted colors, long shot
+ <lora:burtonesqueStyle_v1:0.75>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, highres, absurdres, detailed:1.2), 1girl, <lora:trackUniform_v15:0.8>, track uniform, tu, midriff, navel, (freckles, pink lipstick, blush, eyeliner, medium breasts, slim, sporty),  (track and field, gymnasium, olympic running, intricate details)

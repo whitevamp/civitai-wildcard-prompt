@@ -1,0 +1,4 @@
+A fantastical scene, beautifully detailed bust shot of a woman with colorful finely-detailed eyes and a flowing, intricate skirt, surrounded by a floral meadow, a sky filled with pink and purple hues, a flying petal, the light of the moon, a soft glow, smiles, white hair flowing, depth to the composition, delicate and detailed, magical and enchanting atmosphere,
+art by the coen brothers ,
+(photographed on a Canon 1DX Mark II with Canon 500mm lens, 1/320th, f/4, ISO 800),
+ <lora:gachaSplash_v40:1>[(white background:1.5), ::5] hexagon,   <lora:shojovibe_v11:1:ins>,  <lora:FashionMagazineStyle_v10:1:outd2>

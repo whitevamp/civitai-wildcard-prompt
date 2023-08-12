@@ -1,0 +1,1 @@
+masterpiece, best quality, neondef, white serafuku, face, portrait, darkness, night, city street, glowing eyes, furrowed brow, from below, emotionless <lora:neon-nikke-richy-v1:1> <lora:Gloomifier_V2_TheGlow:2.16141295185126124>

@@ -1,0 +1,2 @@
+<lora:3DMM_V10:0.2> 3dmm,([semi-realistic], hdr, high definition:1.2),(sharp, stunning face, intricate details:1.2),
+young 1girl with pink-green hair in the forest, dressed in black, <lora:chocoskin:0.2> chocoskin, <lora:lolitaFashionDress_floral_style3:0.7> lolita_dress, portrait

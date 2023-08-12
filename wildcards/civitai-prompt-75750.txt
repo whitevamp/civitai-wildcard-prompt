@@ -1,0 +1,5 @@
+(masterpiece, best quality;1.3), ultra detailed, 
+Angewomon, Digimon,winged helmet, helmet over eyes, helmet on, covered eyes,
+white multiple wings, white wings, pink hagoromo, single glove, strapless,
+white bodysuit, gold strapless bra, black belt, two belts, huge breast,
+<lora:add_detail:1.5> <lora:Angewomon-Digimon-v1:1>

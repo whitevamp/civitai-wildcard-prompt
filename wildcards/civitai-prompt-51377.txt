@@ -1,0 +1,1 @@
+arcane style, 1girl, highly detailed portrait school girl, long black hair, black jacket, symetric face, pretty face, 4k,8k, 16k,  <lora:arcaneStyleLora_offset:1>

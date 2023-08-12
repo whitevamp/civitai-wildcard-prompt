@@ -1,0 +1,3 @@
+absurdres, highres, (official art, beautiful and aesthetic:1.2),    
+1 girl, adult ancient greek woman,  brown eyes, platinum blonde wedge cut hair,
+portrait, solo, (full body:0.6), detailed background, detailed face, (militarist authoritarian dictatorship theme:1.1), (glowing eyes:1.05), sinister smirk, dark warrior, betrayer, black clothes, chained armor, cape, evil royal thorned crown, dynamic pose,  monsters in background, <lora:style_FirevfxCreateMore_v2:0.4>, flames in background, misty dark sinister atmosphere, stormclouds,

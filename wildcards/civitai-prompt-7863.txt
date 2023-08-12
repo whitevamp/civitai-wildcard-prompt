@@ -1,0 +1,5 @@
+super model, 1girl, light smile, looking at viewer, pubic hair, sitting on chair, long legs, lace bra, hotel room, wine glass,(fur blanket:1.2), leather chair, mirror, (night:1.2), wall, luxray, jewelry, rich, city, real life, necklace, wodden table, lamp, window, high_floors, 
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, depth of field, 
+perfect face, full lips, milf, mature, pale skin,  adult, tall, solo, shiny skin, middle_breast, real breasts, lace panties, 
+ <lora:add_detail:0.7>   ,
+light smlie, sexy, <lora:Astia3:0.5>,  shiny skin, eye shadow, lipstick, eyeliner, blush, <lora:kwMale_v5:0.3>

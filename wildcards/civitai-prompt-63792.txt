@@ -1,0 +1,1 @@
+1girl,tiny microbikini, (string-only microbikini:1.8),high detailed face,ponytail,beach,small breasts, <lora:miniature_microbikini_v1e12:1>

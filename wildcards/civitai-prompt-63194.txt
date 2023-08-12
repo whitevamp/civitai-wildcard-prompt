@@ -1,0 +1,11 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece, extremely delicate and beautiful, extremely detailed, 8k, Amazing, finely detail, ultra-detailed, highres, absurdres,
+1girl, young, mature female, mature face, intricate details, shiny skin, BREAK
+soft light, best illumination, High contrast, caustics, beautiful detailed glow, centered, 
+(white hair:1.3), long hair, straight hair, blunt bangs,
+beautiful detailed girl, detailed fingers, detailed eyes and face, detailed nose, detailed eyes, detailed lips, detailed hair, (closed mouth:1.4), semi smile, light smile, looking at viewer, BREAK
+(cowboy shot:1.3), (standing:1.3), dynamic pose, from front, front view,
+(small breasts:1.3), realistic face, realistic body, detailed thigh, detailed legs, detailed feet, detailed knee, detailed fingers,
+(ulzzang-6500-v1.1:0.8), BREAK
+(intricate leather jacket with tape:1.4), (black shirt:1.1), (black pants with tape:1.1),
+night club, bar,
+<lora:yurisaLora_v40:0.6>,

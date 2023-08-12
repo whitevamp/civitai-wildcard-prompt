@@ -1,0 +1,1 @@
+<lora:1 amano yoshitaka FF:1.2> amano yoshitaka , traditional media , watercolour, fantasy illustration , soft colors , final fantasy  <lora:tina-nvwls-v1:0.8> tina branford, red dress, detached sleeves, cape, clothes around waist, green hair, hair ribbon, earrings , snow , small town , wooden houses , medieval , magical , snow flakes

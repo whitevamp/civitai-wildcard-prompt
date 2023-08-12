@@ -1,0 +1,3 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed),
+<lora:AiriAkizukiV1:0.7>
+akizuki airi

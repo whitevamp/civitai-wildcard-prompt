@@ -1,0 +1,3 @@
+an extremely detailed digital illustration, high resolution, masterpiece, (of Chr1st1naR1cc1 as Wednesday Addams), black hair, (twin braids:1.2),  15yo, cowboy shot,
+long hair, looking at viewer, (black onepiece with white polka dots, with white collar),  bangs, black eyes, short sword, grumpy face, glaring,  
+ at night, dark ambient lighting, , <lora:Chr1st1naR1cc1v11:0.75>, <lora:Wednesday Addams:0.25>wednesday addams, lightning <lora:add_detail:1>

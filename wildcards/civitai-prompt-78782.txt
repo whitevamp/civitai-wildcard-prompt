@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1girl,Mirko,fighting pose,bunny ears,fit,big thighs,angry expression,angry face, arrogant smile,white hair,red eyes,(rain),wet,night rainy city background, good hand,good finger,<lora:Mirko:1>, <lora:add_detail:0.5>,

@@ -1,0 +1,4 @@
+cute 28 year old caucasian teacher, (in school, school setting, teacher outfit, teacher blouse), day, blackboard, classroom, wearing round glasses, smiling at camera
+nip slip, extended_downblouse, (leaning forward, downblouse, extended downblouse), ((no bra, no underwear, saggy clothes))
+extremely photorealistic, 8k picture, smiling, looking at camera, 1 girl, cute, solo, clear face, beautiful face, cute facial expression, high resolution face, 
+ <lora:extendedDownblouse_v10:1.1>

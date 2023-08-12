@@ -1,0 +1,3 @@
+pov, top-down bottom-up,
+<lora:pov_spitroast_v0.2:1>
+<lora:ugly_bastard_v5.4a:1> fat man, penis, ugly man, obese, hairy,, masterpiece, best quality, highly detailed

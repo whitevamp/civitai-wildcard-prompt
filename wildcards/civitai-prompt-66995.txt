@@ -1,0 +1,4 @@
+1 robot, glowing eyes, reflective armor,  battle stance, glowing, 
+masterpiece,best quality , photorealistic, absurdres, 
+gaodaxintai
+<lora:nvwushen-000006:0.5>   <lora:gaodaxintai:0.5>

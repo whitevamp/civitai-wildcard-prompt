@@ -1,0 +1,1 @@
+masterpiece, best quality, 8K, colorful, high detail, HDR, wallpaper, best lighting, beautiful face, detailed face, girl, <lora:gpts4 lite dreamwave_278580:0.9>,  maetel, long hair, blonde hair, fur trim, black headwear, fur hat, dress, <lora:maetel:0.6>, engine, stars, (godly:1.25), (monarch:1.05), (creation:1.25), (matter:1.2), ((full body))

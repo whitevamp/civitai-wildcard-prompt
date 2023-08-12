@@ -1,0 +1,2 @@
+sama1,tiara,sailor senshi uniform,white gloves,red sailor collar,red skirt,star choker,elbow gloves,(pleated skirt:1.1),purple bow,zettai ryouiki,(8k, RAW photo, best quality, masterpiece:1.2),(realistic, photo-realistic:1.3),ultra detailed,1girl,solo,full body,
+(very long hair:1.3),<lora:more_details:1>,Standing on the surface of the Galaxy,<lora:sailor_mars_v1:0.8>

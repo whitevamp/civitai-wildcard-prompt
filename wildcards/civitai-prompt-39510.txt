@@ -1,0 +1,7 @@
+(best quality, masterpiece, realistic), (perfect face:1.1),
+(open mouth:1.3), (rolling eyes, orgasm, torogao, aroused, blush:1.4),
+cute, shy, beautiful, thin, blush, blue eyes,
+1girl, nude, all fours, blonde hair, (pointy ears:1.2),
+from side, ass,
+bed, (outdoors, forest, flowers:1.2),
+(hyper realism, soft light, HDR), <lora:kantoku_v0.1:0.9>

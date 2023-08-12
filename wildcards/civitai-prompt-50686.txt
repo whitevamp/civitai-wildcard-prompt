@@ -1,0 +1,5 @@
+(masterpiece), (best quality), solo
+detailed eyes,looking at viewer,
+blue sky, 1male,
+son goku, blond hair, blue eyes, super saiyan, blue wristband,  muscular,  spiked hair, upper body, 
+ <lora:sonGokuLora_offset:0.8>

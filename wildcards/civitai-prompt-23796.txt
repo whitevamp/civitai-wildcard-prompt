@@ -1,0 +1,4 @@
+(full_body_character_shot:1.3), 8k detailed, HDR, photograph, realism, realistic skin, realistic body hair, realistic eyes, DSLR, soft focus, vignette, ultrarealistic, subsurface scattering, (blurry background:1.2)<lora:lit:0.75>
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+white british 30-year-old man chubby (strongman:1.1) standing (naked:1.2), shaved head, (cute:1.2), cheeky smile, (male body hair:1.4), (large erection), powerful forearms with_a_tattoo_sleeve, undefined belly, thick_thighs, right_leg_only_tattoo_sleeve, powerful_calves, masculine feet<lora:negative_hand-neg:1><lora:NegfeetV2:1><lora:animemalet:0.3><lora:1ani_TGIRL_e30_n32:0.1>,,,,,,,,,,,,,,,,,,,,
+background, men's locker room and showers, men changing clothes, men in the showers showering, blurry background,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

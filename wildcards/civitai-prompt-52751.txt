@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+1girl,  <lora:fubukiOnePunchMan_fubukiopm:0.8> fubukiopm, 
+
+<lora:sexToyTransformation_v10:0.9> (transformation:1.4),  <lora:miKeMickeyskAmputee_v20:0.4> (quadruple amputee:1.5), (cameltoe, crying,  bottomless, pussy, :1.5),
+
+ <lora:conceptExcessivePubic_v10:0.8> pubic hair,  corneo_runny_makeup

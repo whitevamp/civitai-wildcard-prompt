@@ -1,0 +1,1 @@
+(black hair, white pantyhose:1.1), (nsfw:1.2), <lora:japaneseDollLikeness:0.2>, (slingshot swimsuit:1.1, white swimsuit, bunny ear),  <lora:slingshotEyepatch_v11:1>, (wet clothes:1.2)

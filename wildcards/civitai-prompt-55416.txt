@@ -1,0 +1,3 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, portrait of a girl, sidelighting, (finely detailed beautiful eyes: 1.2), masterpiece, standing model pose, stand, beach:1.8, very long hair:1.5, smile, string bikini,
+detailed skin texture, beautiful detailed face, best quality, ultra detailed, hiqcgbody, lustrous skin, abs, very huge breasts, very huge boobs, puffy nipples, huge nipples, full body, show pussy, show asshole, spread legs,
+,   <lora:hipoly3DModelLora_v10:0.3>,  (ulzzang-6500-v1.1:0.7), <lora:dalcefoPainting_2nd:0.8>, <lora:saggingBreasts_v10:0.9>,  <lora:hugeAssAndBoobs_v1:1>  <lora:fashionGirl_v52:0.4> <lora:signoraGenshinImpact_v25:0.4>

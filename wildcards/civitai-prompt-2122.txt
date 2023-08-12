@@ -1,0 +1,7 @@
+<lora:Morathi:1>, Morathi, (black_hair:1.2), (elf_ears:1.2)
+detailed hair, detailed face, (realistic perfect eyes:1.1), perfect face,
+curvy, (Large Breasts:1.4), breasts_appart,
+(seductive, sexy:1.4),
+(thin_waist, small_hips, slim, skinny, thin_body: 1.4), shiny skin, perfect face, beautiful face, detailed eyes, perfect eyes,
+(saturated colors, masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), absurdres, highres, ultra detailed, Ultra-precise depiction, (illustration, insanely detailed, hdr:1.3),
+(highest quality, concept art, 4k), <lora:personalami_v2:0.5>,  ArtCalmV2,  <lora:150_LeraPi_head-128res-5b5i-Cap:0.3>,

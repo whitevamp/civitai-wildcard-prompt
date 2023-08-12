@@ -1,0 +1,1 @@
+masterpiece, best quality, 1boy, Cloud Strife, crossdressing, twin braids, male focus, frilled dress, hair bow, diner background, neon signs,  <lora:cloudstrife-nvwls-v1-final:1>,  <lora:hugeTwoHandedBurger_v2:0.6>, two-handed burger, eating, close up, sitting at table,  <lora:styleDagashiDaga2626_e04:0.8>, looking at viewer

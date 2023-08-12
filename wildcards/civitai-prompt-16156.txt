@@ -1,0 +1,7 @@
+masterpiece, best quality, light, depth of field, detailed face, face focus,
+
+1girl, looking at viewer, cheshire (azur lane), solo, cleavage, multicolored hair, large breasts, wrist cuffs, looking at viewer, dress, streaked hair, smile, maid headdress, paw pose, frills, open mouth, white background, maid, animal ears, blush, bangs, aqua eyes, sparkle, ribbon, apron, fang, purple hair, :d, black hair, two-tone hair, white thighhighs, blue hair, thighhighs, standing, hairband, blunt bangs, frilled hairband, puffy sleeves, short hair, blue eyes, frilled dress, crescent, detached sleeves, cowboy shot,
+
+ocean, cloudy sky, sky, morning, sand, sea, battleship, heavy cruiser, harbor, simple background
+
+<lora:hmsCheshireAzurLane_delta:0.66>

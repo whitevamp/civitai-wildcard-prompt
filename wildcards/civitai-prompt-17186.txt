@@ -1,0 +1,1 @@
+((masterpiece)), ((best quality)), 8k, high detailed, ultra-detailed,(teeth, mouth open),Mechanical fish, Abundant marine life,(Coral reefs),(Deep Sea:1.5),(Mechanical parts:1.3), Skeletonized body,(transparent:1.5) <lora:Mechanicalfish:0.75>, <lora:TEST:1.0>

@@ -1,0 +1,1 @@
+<lora:char Dandy:0.7>, space dandy, dandy, good quality, highres, brown eyes, (extreme quality), 1boy, ((solo)), dandy, jacket, male focus, ((pompadour)), tshirt, beautiful,  <lora:face Kazuya2:0.8> ((kazuya)), close up, upper body, ((face focus)),

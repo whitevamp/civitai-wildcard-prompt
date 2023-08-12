@@ -1,0 +1,9 @@
+realistic detail, realistic, detailed,
+break
+1girl, petite, extremely beautiful, detailed skin complexion, vioev, violet evergarden, blonde, blue jacket, white dress, gloves, mechanical arms, mechanical hands, jewelry, cosplay
+break
+outdoor, flower garden, romantic
+break
+perspective, portrait, artistic photography, detailed background, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, depth and dimension
+break
+ <lora:CA_Violet_Evergarden:0.85> (ulzzang-6500-v1.1:0.25)

@@ -1,0 +1,1 @@
+masterpiece, best quality, detailed, 8k wallpaper, far shot, full body, man with a fantastic cyberhelmet, wearing white techwear jacket, jumpsuit, on the street, thin waist, blacklight, <lora:cyberhelmetv0.7:0.8> <lora:urbansamurai_v0.3:0.3> <lora:blacklight:0.7>

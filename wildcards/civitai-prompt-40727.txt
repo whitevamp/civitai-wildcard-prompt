@@ -1,0 +1,1 @@
+best quality, realistic, vray, hdr, in a post-apocalyptic neglected greenhouse, shattered glass, overgrown plants, rusted tools, dried fountain., by August Sander,  <lora:PostApocalypticXL_v1:0.8> SZ_4po enviroment

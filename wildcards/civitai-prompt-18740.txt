@@ -1,0 +1,1 @@
+masterpiece, best quality, extremely delicate and beautiful, 4k, ultra-detailed, (fine and beautiful detailed skin:1.1), (shiny skin:1.1), (Oil highlights:1.1), 1girl, solo, short hair, red eyes, white hair, long hair, smile, nun, breast curtains, pelvic curtain, <lora:NunBreastCurtains:1>, <lyco:GoodHands-beta2:1.0>

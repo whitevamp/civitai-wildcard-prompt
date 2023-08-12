@@ -1,0 +1,1 @@
+<lora:Moxin_10:0.6>,   <lora:Moxin_Shukezouma11:0.5>,  <lora:koreandolllikenessV20_v20:0.4>, (8k, best quality, masterpiece:1.4), (highly detailed),  1 girl, Azure hair, long hair, detailed eyes, sexy, look at the camera, soft smile, breast, nude, black dress, full body, sakura,  illustration

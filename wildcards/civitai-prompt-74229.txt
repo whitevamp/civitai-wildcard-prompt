@@ -1,0 +1,4 @@
+japanese traditional drawing by Utamaro
+masterpiece, best quality, 1girl, oni mask,  rocket launcher, mechanical arms, science fiction, red plastic armor , mecha,
+ink, simple , clear lines, negative space, flat color, high contrast, vector art
+<lora:nijiMecha:0.5>

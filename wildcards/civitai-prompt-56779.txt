@@ -1,0 +1,3 @@
+(masterpiece, best quality, photorealistic, absurdres, 8k:1.2), nsfw, best lighting, complex pupils, flawless face, detailed background, night,  pale skin,
+1girl, solo, (close up, face focus:1.6), looking at viewer, [light smile], EGirlMakeup, gothic eye shadow, eye glitter, freckles, eyelashes, eyeliner, black lips, matte lipstick, heart \(symble\) on face, shiny skin, very long hair, curly hair,
+fringe skirt, chocker, see-through, <lora:coloredLipstickLoha_v420:0.5>,  <lora:ExperimentalMakeup_v10:1>

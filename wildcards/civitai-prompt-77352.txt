@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), <lora:russianDollLikeness_v3:0.55>, russian, smile, looking at viewer, crystal blue pupils,

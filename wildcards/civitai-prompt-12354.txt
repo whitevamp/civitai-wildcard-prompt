@@ -1,0 +1,2 @@
+masterpiece, best quality, (chibi:1.2),1girl,kafka, little girl,purple eyes, purple hair,long hair,sunglasses on head, black jacket, collared shirt, black shorts, pantyhose, boots, looking at viewer, seiza, arms behind head, bed ,kneeling, smile,closed mouth, 
+ <lora:ach02-000010:1>, <lora:kafka-nvwls-v1-final:0.9>

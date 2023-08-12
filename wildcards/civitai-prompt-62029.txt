@@ -1,0 +1,3 @@
+full body color illustration of a chibi male plague doctor playing a (intricately detailed banjo), sitting on stairs, farm background, leather boots, cowboy hat, straight strings, straight fret board, flowers painted on mask, long flowing embroidered black caftan, mage_glam, pants, flowers, singing birds, rainbow, noon
+, best quality, masterpiece, intricately detailed, bokeh
+ <lora:plague doctor:0.5> <lora:blackMageFashion_v11:0.5> <lora:limpid chibi:0.6>

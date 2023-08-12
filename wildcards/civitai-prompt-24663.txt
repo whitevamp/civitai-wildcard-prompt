@@ -1,0 +1,18 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, 1man, large windows, wooden floor, indoors,
+brown hair, long hair, yellow eyes, (sad, crying, teardrop, sad, scowl, glaring, saliva, drooling:1.2), tongue, full blush,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+sweat, steam, skindentation, heavy breathing, arms between legs,
+<lora:LegSkindentation_v11:0>,
+group sex, ffm threesome, cooperative fellatio anilingus, <lora:CooperativeFellatioAnilingus_000007:0>,
+hairband, white legwear, detached sleeves, topless, bottomless, <lora:amber1_000008:1>
+AND
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, 1man, large windows, wooden floor, indoors,
+blue hair, medium hair, yellow eyes, (angry, crying, teardrop, sad, scowl, glaring, tongue, saliva, drooling:1.2), full blush,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+sweat, steam, skindentation, heavy breathing, arms between legs,
+group sex, ffm threesome, cooperative fellatio anilingus, <lora:CooperativeFellatioAnilingus_000007:0>,
+hairband, detached sleeves, topless, euladef, <lora:eula2_000009:1>

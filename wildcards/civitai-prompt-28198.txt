@@ -1,0 +1,1 @@
+from behind, (masterpiece, best_quality, ultra-detailed, immaculate:1.3), epic, illustration, 1girl, f/1.4 lens, bokeh, tiny dark azure Forsythia creature, see-through gossamer, :q, in a  smithy, bombshell hair, deep platinum hair, Beach Waves,half updo, airplane arms<lora:EnvyGoddessMix06:1>

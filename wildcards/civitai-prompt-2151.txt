@@ -1,0 +1,3 @@
+(photorealistic:1.4),8k,(masterpiece), best quality, highest quality, (detailed face:1.5),original,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork,((perfect female figure)),mature female, milf, narrow waist, skinny,detailed skin,
+1girl, solo,  looking at viewer,  hair ornament, blue ribbons, blue dress, jewelry, bracelet,floating hair, black hair, hairband, double bun, hair bun, twintails,  petals,  chinese clothes, hair ribbon, long hair, sparkle, smile,zhaolinger, mountain, white pants,  cloud,short dress, 
+<lora:sword_and_fairy_zhaolinger_v1.0:0.7>

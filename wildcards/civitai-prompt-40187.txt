@@ -1,0 +1,1 @@
+dog on a motorcycle, highres, masterpiece, 8k, 4k, (realistic photo), (photorealistic), bokeh, <lora:wowifierXL:0.5> <lora:sdxl_lora:1>

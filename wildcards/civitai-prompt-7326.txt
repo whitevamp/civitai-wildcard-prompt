@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 45mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> lying on her back, bed,  <lyco:Astia3:0.3>, deep shadows, contrast, cute hands , mouth open alizjacot , <lyco:InsPX:0.2>off-the-shoulder bodycon dress with a ruched detail and a mini length, ,  (looking at camera , freckles ), angry

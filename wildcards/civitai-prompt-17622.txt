@@ -1,0 +1,2 @@
+1girl, luocha,blonde hair, long hair, white coat, black shirt, white pants, blue ascot, blue armband, blue vest,
+<lora:Luocha_fm_v11:0.75>

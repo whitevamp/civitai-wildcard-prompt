@@ -1,0 +1,3 @@
+fire_deity, (red ember hair), flame_crown, ([brocade robe|fire-inspired gown]:1.3), [phoenix_cape::10], orange ([cowl:gold trim:0.4]:1.7) blazing on ([volcano cloak:solar cape:0.4]:1.5), forehead, controlling_fire, crimson eyes, waist_belt, obsidian_cuffs, volcanic_lair, fire_fan, [spiky, sunburst_braid:0.1], [gloves, fire_lantern, ember skirt:0.4],
+Expressive Hues, Vibrant Palette,Dynamic Brushwork,sharp focus,
+ <lora:oc_v10:0.25>

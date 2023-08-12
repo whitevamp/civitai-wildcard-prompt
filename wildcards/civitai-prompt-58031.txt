@@ -1,0 +1,1 @@
+<lora:v2RQueen-17:0.8>, RQueen, WCAR, sitting on car, pencil skirt, highleg bikini, crop top, <lora:BrnWshM:0.8>, BrnWshM, drooling, bound, restrained, head-mounted display, glowing

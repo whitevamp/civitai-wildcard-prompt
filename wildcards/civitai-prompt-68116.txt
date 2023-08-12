@@ -1,0 +1,1 @@
+pikachu, forest background, near lake, tree, flower, rock, pagoda, <lora:MoXin:0.5>,<lora:shukezouma_v1_1:0.7> 

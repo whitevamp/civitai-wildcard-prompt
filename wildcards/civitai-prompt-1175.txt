@@ -1,0 +1,3 @@
+detailed light,((cinematic lighting)),very detailed eyes,(masterpiece), best quality,masterpiece,beautiful face, ultra detailed, highres,(light rays),best quality,
+<lora:ophelia_-lora:0.8>,((shortstack:1.5)),(skindentation:1.5),smile, cross choker, 
+ophelia, completely nude, nude, yellow eyes,black choker,  <lora:Rena_Skyrim_teste:0.5>,thong, sensual pose.

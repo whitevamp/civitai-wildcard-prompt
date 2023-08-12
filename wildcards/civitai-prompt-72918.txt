@@ -1,0 +1,2 @@
+1 woman,Wizard,cloak,magic wand,(lace,embroidery:1.1),body suit,lace-trimmed legwear,elbow gloves,(detail eyes:1.0),(photorealistic, masterpiece,best Quality,castle,ultra-detailed background, detailed background:1.1),(nsfw:0.9),shiny skin, shiny face, lustrous skin,natural skin texture,medium breasts, narrow waist,sexy pose,<lora:POVMissionary:0.5>,(woman orgasm:1.2), medium breasts,narrow waist,missionarypose,1boy,penis,lying,missionary,vaginal,
+portrait

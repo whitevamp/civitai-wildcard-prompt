@@ -1,0 +1,1 @@
+cyberpunk female, woman wearing (Obsidian Black Satin Top with chromatic sheen:1.2), (tight full bodysuit:1.1), (Magenta,Caribbean Sky color background:1.3), (futuristic interior:1.2), <lora:MG_jijia:0.6>  <lora:futuristic_interior:0.7>

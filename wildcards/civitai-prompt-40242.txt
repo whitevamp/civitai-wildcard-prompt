@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.4), solo, wolf girl, nordic face, beautiful face, maid outfit, full body, backlighting, white hair, long hair, orange eyes, rich interior, furniture, flowers, <lora:more_details:0.5>, best quality, high quality, highres, ultra detailed, high detailed, (realistic:1.3), (photorealistic:1.3), RAW photo

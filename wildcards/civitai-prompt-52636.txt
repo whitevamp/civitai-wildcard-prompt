@@ -1,0 +1,5 @@
+masterpiece,
+vintage diagram of a butterfly,
+whitespace,
+PlanIt,
+<lora:animeLineartMangaLike_v30MangaLike:0.6>

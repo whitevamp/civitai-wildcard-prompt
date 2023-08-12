@@ -1,0 +1,3 @@
+(ultra realistic, highly detailed, ultra high res:1.4), masterpiece, best quality
+woman, rainbow hair
+<lyco:succplant_8x4-4x1-000003:1> ((succplant):1.1), ((eyeless):1.2)

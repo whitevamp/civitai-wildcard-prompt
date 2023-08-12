@@ -1,0 +1,3 @@
+An exterior shot of aotc rots obiwan holding a sonic screwdriver and wearing a red s3sttngsuit uniform, in front of his DeLorean.
+fcPortrait, highres, high resolution, detailed, cinematic, artistic shadow,
+<lora:LowRA:0.3> <lora:add_detail:0.1> <lora:TNGV2:0.5> <lora:obiwan:0.7>

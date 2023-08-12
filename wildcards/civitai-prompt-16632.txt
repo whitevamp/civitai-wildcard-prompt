@@ -1,0 +1,9 @@
+beautiful girl, woman, indoors, sexy body, (realistic), (cute), (detailed face), detailed brown eyes, detailed iris, clear eyes,
+pink hair, soft lighting, pastel color palette, low contrast, 
+solo, 
+dark eyeliner, under eye discoloration, diffused lighting under skin,
+<lora:add_detail:0.4> intricate detail, 
+silver hoop earrings, dappled sunlight, one piece swimsuit,
+bent over, from behind, smiling, playful, whole body shot, bubble butt, slender, blushing
+<lora:IWR-BelleDelphineUltimate:1.3>  long hair, (Belle Delphine:1.3)
+cinematic lighting,  (sharp focus:1), volumetrics dtx, (professional photograph:1),(dramatic:0.5),, <lyco:Slingshot_V_Conv2D:1> slingshot swimsuit,

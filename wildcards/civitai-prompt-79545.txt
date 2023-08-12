@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, kobeni, playboy bunny, embarrassing, covering eyes, crowd of people, flash lights  <lora:covering_eyes:1>  <lora:kobeni_v10:1>

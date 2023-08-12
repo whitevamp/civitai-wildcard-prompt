@@ -1,0 +1,2 @@
+1girl,solo,, greek clothes, peplos, laurel crown, armlet,  <lora:GreekClothes:1>,
+sitting,outdoors,lake,rock,reeds, white hair, long hair, golden apple, see-through,

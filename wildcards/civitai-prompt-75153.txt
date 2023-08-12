@@ -1,0 +1,4 @@
+photorealistic, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp,
+1 girl, adult spanish woman,  grey-blue eyes, light brown textured hair,
+(style-swirlmagic:0.8), portrait, looking down, solo, upper body, detailed background, detailed face, (<lora:smoke_model:0.4>, smokestyle theme:1.1) evil summoner,  red magical robes, (grin:0.8), scarlet color scheme, dark green light, summoning circle,  glowing magical runes, evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by green lightning <lora:LightningvfxCreateMore_v1:0.1>,  summoning, (thick melting candles:0.8), yellow arcane symbols, corrupted by eldritch power,  
+<lora:hipoly3DModelLora_v10:0.1> <hypernet:sxzBloom_sxzBloom:0.1>,

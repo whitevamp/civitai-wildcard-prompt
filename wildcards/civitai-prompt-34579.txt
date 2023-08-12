@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful, soft lighting, 
+NonoharaMikako, 1girl, mature female, solo, milf, spread legs, on bed, 6+boys, (multiple penises:1.1), (surrounded:1.1), (too_many:1.0), (multiple boys:1.0), from above, on back, pov, penis, vaginal, (bukkake, cum on body, facial:1.25), 
+blush, happy, ahegao, tongue out, rolled eyes, purple hair, long hair, lipstick, blue eyes, perfect eyes, detailed eyes, detailed hair, hair ribbon,
+maid headdress, (black thighhighs:1.1), naked, nude, 
+sweat, curvy, huge breasts, pussy, armpit hair,
+<lora:NonoharaMikako:0.85> <lora:multiple_penises_v0.4:0.6>

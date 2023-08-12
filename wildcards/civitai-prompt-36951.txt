@@ -1,0 +1,1 @@
+portrait, cowbowyshot, sitting, marlene, shorts, jacket, gloves, sneakers, shirt, thighhigh, baseball cap, expressionless, grass background, flowers, <lora:MarleneERLora-06:0.8>

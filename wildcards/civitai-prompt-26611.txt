@@ -1,0 +1,1 @@
+Diagonal angle shot, (wide wings spread behind:1.2),(garuda:1.3), giving her the appearance of an angel. face is serene and peaceful. <lyco:HimmapanV1:0.8> <lora:Egyptgodpunkv.4:0.6>

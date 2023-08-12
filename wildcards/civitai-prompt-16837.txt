@@ -1,0 +1,1 @@
+android_18,medium shot photo,portrait of a girl wearing (denim_vest:1.3),(white striped long sleeves:1.3),black eyeshadow,blue eyes,blond short hair,asymmetry parted hair,looking at viewer,(long earing:1.1),denim_skirt,black pantyhose,arrogant expression,fighting stance,simple background,best quality,masterpiece,ultra high res,photorealistic,raw photo,<lora:android_18_v110:1>,

@@ -1,0 +1,5 @@
+(best quality), (ultra detailed), (masterpiece), organic cyborg, white plastic, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, extremely detailed magazine cover-style digital painting, (magazine cover-style illustration of a fashionable woman in a vibrant outfit), abs, adding a touch of fantasy to the scene, the text on the cover should be bold and attention-grabbing, with the title of the magazine and a catchy headline, the overall style should be modern and trendy, with a focus on fashion and fantasy, helvetica-bold, 
+a woman with a sword and armor on her chest and a cyber_gun in her hand, 1girl, solo, blonde_hair, ponytail, hair_ornament, abs, long_hair, large_breasts, covered_nipples, cleavage, thighhighs, thighs, weapon, arrow_\(projectile\), bow_\(weapon\), at night, cyberpunk background, city lights, looking_at_viewer, from behind, ass focus, cowboy_shot,
+art by jean-pierre jeunet,
+(photographed on a DJI Mavic Pro 2, 1/500th, f/2.8, ISO 100),
+<lora:edg_nanosuit:1:clothing>, wearing crNanosuit, <lora:add_detail:1>

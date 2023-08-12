@@ -1,0 +1,6 @@
+<lora:add_detail:0.5><lora:coveringV2:0.7> 
+distinct_image,
+woman, (large breast, embarrassed, , (blush:1.1), forehead, big messy black hair,  completely nude), covering breasts, covering crotch, wet, sweat,
+onsen, bathing, (steam),caustics,refraction, 
+depth of field, bokeh,
+moody litghing, from above,

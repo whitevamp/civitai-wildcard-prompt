@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+<lyco:GoodHands-beta2:0.8>
+1girl,      <lora:aquatest:0.8> aqua, aqua eyes, aqua hair, hair bobbles, hair ornament, hair rings, long hair
+ <lora:OutfitCerestiaV1:0.8> breast curtains, pelvic curtain, no panties,

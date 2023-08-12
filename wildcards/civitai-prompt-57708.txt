@@ -1,0 +1,3 @@
+masterpiece,nsfw, best quality,multiple girls, breasts, (2girls:1.3), yae miko, raiden shogun, purple eyes, pink hair, japanese clothes, purple hair, (gigantic breasts:1.4), long hair, cleavage, hair ornament, thighs, purple kimono, thighhighs, bangs, animal ears, detached sleeves, fox ears, wide sleeves, kimono, moon, weapon, braid,(kbxll:0.8),mature female,thick thighs,(kiss,french kiss),
+plump figure,smile,
+ <lora:RealisticAnimeMIKOXShogunIn1Pic_v10:0.7>

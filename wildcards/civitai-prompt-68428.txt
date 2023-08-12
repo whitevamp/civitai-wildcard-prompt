@@ -1,0 +1,4 @@
+(masterpiece:1.2),best quality,illustration,beautiful detailed girl,
+(2girls wearing (red buruma:1.1) and (white gym uniform:1.2) (running and jumping:1.20) with smile,black eyes,(navel:0.67),medium breasts,
+(cowboy shot),(black hair:1.0),(long hair:1.2),course track,(sky:1.0),
+<lora:trueBuruma_v26red:0.3>

@@ -1,0 +1,2 @@
+portrait of ((Asuka) Evangelion), futuristic (red) reflective wingman latex suit, (porclain skin:0.7), (natural realistic Ginger hair:0.9), messy hair, pigtail, focus on eyes and face
+,BREAK (Rembrandt:1.2) lighting, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, [ultrarealistic :  (professional color grading, film grain, Hasselblad):.7] <lora:modernart-000005:1>

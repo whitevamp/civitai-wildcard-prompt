@@ -1,0 +1,1 @@
+((extremely detailed CG unity 8k wallpaper,masterpiece, best quality, ultra-detailed, beautiful detailed eyes:1.2), cinematic lighting, 1girl, solo, MARiA, (office lady, white collared shirt, pencil skirt, pantyhose:1.4), <lyco:GoodHands-beta2:1.0>, office, indoors, looking at viewer, downblouse, leaning forward,  <lora:downblouse-v1:0.5>, open shirt, bra

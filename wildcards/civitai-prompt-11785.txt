@@ -1,0 +1,1 @@
+(masterpiece, best quality, highres, absurdres, ultra-detailed:1.3), 1girl, <lora:lollipopchainsaw_julietstarling-10:0.8>(juliet starling, twintails,cheerleader, crop top, clothes writing, skirt, thighhighs, belt, wristband, midriff, blonde hair, blue eyes:1.3)(school gymnasium, windows), <lora:add_detail_v1:0.5>

@@ -1,0 +1,9 @@
+masterpiece,best quality, lens flare, depth of field, (close-up:1.3), (wide shot, fisheye:0.85), facefocus,
+
+1girl ,standing, blue long hair, school uniform,pleated skirt, (holding weapon, holding rifle,aiming,aim:1.2),
+
+gun, h&k hk416, carbine, open fire, firing,
+
+sunny,blue sky,cloudy sky,city,street,road sign, skyscraper,
+
+ <lora:HK416-v2:0.7>

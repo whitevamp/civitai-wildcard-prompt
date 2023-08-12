@@ -1,0 +1,2 @@
+dramatic angle,(fluttered detailed ink splashs), (illustration),(((1 girl))),(long hair),(rain:0.6),((expressionless ,Carmine hair ornament:1.4)),(There is a palace far away from the girl),chinese clothes,((focus on the girl)), color Ink wash painting,(ink splashing),(Huaqing splashing),((colorful)),[sketch], Masterpiece,best quality, beautifully painted,highly detailed,(denoising:0.7),[splash ink],yin yang
+ <lora:WuMo2:1>

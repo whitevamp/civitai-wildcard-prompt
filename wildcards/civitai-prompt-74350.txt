@@ -1,0 +1,3 @@
+1man, red oni mask, dynamic pose,  cybernetic samurai armor, mechanical arms, science fiction, blue  plastic , glowing mecha, japanese traditional style ,katana
+, negative space,     dynamic lighting, clear lines,  high contrast,
+(comic style), (colored line art:1.5)  <lora:add_detail:1>

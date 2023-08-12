@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.6>
+(full body:1.2), Henshin, solo, looking_at_viewer, simple_background, shirt, black_hair, red_eyes, 1boy, , jacket, white_shirt, male_focus, necktie, horns, striped, collared_shirt, black_jacket, mask, formal, suit, black_necktie, pinstripe_pattern, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

@@ -1,0 +1,4 @@
+RAW, (masterpiece, best quality, photorealistic, absurdres, 8k:1.2), best lighting, complex pupils, detailed background, day, hospital,
+1girl, solo, upper body, (close up, face focus:1.2), looking up, cowboy shot, standing, curious, shiny skin, eyeliner, gothic eyeshadow, blush, flower, very long hair, curly hair, white hair, highly detailed skin,
+fishnet bodysuit, hair tubes, chocker, see-through, (magazine cover, FashionMagCover, japanese text, username, watermark, user name, artist name, signature:1.1),
+<lora:LoRA-FashionMagCover-000008:0.9>

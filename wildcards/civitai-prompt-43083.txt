@@ -1,0 +1,1 @@
+masterpiece, best quality, neondef, serafuku, white skirt, chiaroscuro shading, night, neon signs, city street, dystopia, standing, looking at viewer  <lora:neon-nikke-richy-v1:1> <lora:Gloomifier_V2_TheGlow:2>

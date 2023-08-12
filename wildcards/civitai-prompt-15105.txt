@@ -1,0 +1,1 @@
+<lora:VRAMsViolet640v2:0.5>, xyzviolet, looking at viewer, beautiful, masterpiece, long hair, black hair, pink sweater, shorts, closeup, portrait

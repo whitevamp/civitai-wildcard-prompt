@@ -1,0 +1,5 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,
+1girl,  <lora:PinaforeV1.1:1.1>,(pinafore dress:0.3), plaid pinafore, 
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(medium_breasts:1.5),narrow waist,((skinny legs)),
+high ponytail,(silver white:1.05),
+<lora:jpIDOL_v10:0.1>,<lora:LoveOnLovely_lolStyleV10:0.1>,<lora:koreanDollLikeness_v15:0.4>,<lora:cuteGirlMix4_v10:0.1>,<lora:chilloutmixss_xss10:0.1>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,

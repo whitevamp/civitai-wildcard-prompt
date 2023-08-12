@@ -1,0 +1,1 @@
+<lora:insanobot:0.75>,  1girl, action posing, full body shot, mechanical parts, sad, shy smile, outdoors, perfect skin, surreal, gritty, atmospheric, cinematic, stylized, contrast, comic, eerie,<lora:epi_noiseoffset2:0.6>, (8K, UHD:1.2), (photorealistic:1.2),

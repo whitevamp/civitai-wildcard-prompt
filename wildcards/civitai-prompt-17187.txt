@@ -1,0 +1,1 @@
+((masterpiece)), ((best quality)), 8k, high detailed, ultra-detailed,(sleek stealth),Mechanical fish, shrimp, crab, Abundant marine life,(Coral reefs:1.5),(Deep Sea:1.5),(Mechanical parts:1.3), (transparent:1.5)<lora:Mechanicalfish:0.75>, <lora:TEST:0.75>

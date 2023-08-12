@@ -1,0 +1,2 @@
+4K, Masterpiece, highres, absurdres, garterbelt,GothGal , woman wearing a ([garterbelt,lingerie|GothGal,dress,metal, iron chains, leather harness]::0.75),
+ <lora:edgGothGarterbelt:0.77>

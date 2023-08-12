@@ -1,0 +1,15 @@
+Aesthetic: ((retrowave, 80s, synthwave, neon, nostalgia, retro aesthetics, <lora:RetroFusion v1.0.0:0.2> 1980s):1.4)
+BREAK
+Composition: <lora:panties_pulled_aside_fuck.v1.0:0.8> (panties pulled aside fuck, 1girl, looking at camera, pretty face, detailed face and eyes, big breasts), (having sex), (vaginal intercourse, missionary, 1boy, penis, vaginal, creamy pussy) (((wearing panties, panties pulled aside fuck))), orgasm
+BREAK
+Lighting: Glowing Neon, Vibrant, Energetic
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lora:microwaist:0.8> ((microwaist)),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

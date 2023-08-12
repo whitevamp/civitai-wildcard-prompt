@@ -1,0 +1,2 @@
+absurdres, highres, ultra detailed,  hengao_teio, open mouth, tongue out, surprised, (constricted pupils:1.35), wide-eyed,  <lora:hengao_teio_v1:0.7>
+(black bra, black jacket,black bikini:1.2) highly detailed face, highly detailed eyes, 1girl, rebecca \(cyberpunk\), long hair, (((mechanical eye, colored sclera, red sclera))), colored skin, white skin, leg tattoo, neck tattoo, green hair, long hair, (((small breasts))), fang, (((red pupils))), skin fang, (((red eyes))), sleeveless, indoors, (12 years old girl:1), <lora:rebecca_v1:0.9>

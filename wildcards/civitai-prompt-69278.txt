@@ -1,0 +1,1 @@
+midgar, slums, 1girl, (bikini:1.1), huge breasts,hands behind back, cloud strife, <lora:cloudstrife-nvwls-v1-final:0.6> , crossdressing, twin braids, hair bow,ff7r style, <lora:ff7r_style_ned_offset:0.7>,  btpt-fc, <lora:btpt-fC_v1.2:0.5>, comics style, analog style, illustration, lineart

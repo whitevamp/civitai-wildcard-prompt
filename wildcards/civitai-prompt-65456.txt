@@ -1,0 +1,1 @@
+jar jar binks, Beautiful Art Style, 1girl, sitting in chair, fire, flames, in glass jar, thisisfine, pagoda, jester costume, delicate,  <lora:jarJarBinksGunganStar_v3:0.6> <lora:lottalewdsThisisfine_v2:0.7> <lora:FirevfxCreateMore_v2:0.3>

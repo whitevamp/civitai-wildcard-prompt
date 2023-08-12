@@ -1,0 +1,12 @@
+(masterpiece:1.2),
+(solo:1.2),(standing:1),(from side:1.2),(looking at viewer:1.4),(full body:1.3),
+(expressionless,clear face:1.2),
+(attractive,absurdres:1),
+(cyberpunk,science fiction,neon,fluorescent:1.4),
+(outdoor,cityscape,rain,puddle,alleyway,night:1.2),
+<lora:Plastic raincoat_V1.0:0.6>,
+(long green plastic raincoat:1.5),(translucent material:1.3),(see-through:1.3),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.5>,
+ <lora:rebecca_v1:0.7>,
+(black hairband, twintails, mechanical eye, colored sclera, red sclera, colored skin, white skin, leg tattoo, neck tattoo, green hair, small breasts, black bra, thong, fang, red pupils, skin fang, red eyes,sneaker:1)

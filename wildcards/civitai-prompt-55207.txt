@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, 8K, detailed light, detailed shadow, RAW, (detailed skin), detailed skin texture, detailed cloth texture,  beautiful detailed face, (realistic:1.2), intricate details, 1girl, (full body), portrait, looking in front, standing, cinematic, 35mm, f/ 1.8, <lora:hipoly3DModelLora_v10:0.5>, hiqcgbody, hiqcgface,

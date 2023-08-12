@@ -1,0 +1,5 @@
+masterpiece, best quality, highly detailed
+ ,girl,being dangling, dangling legs,  upside-down, from side,
+ , ,  fallen down, focus feet, pov
+ ,,     
+ <lora:tpit:1>, restrained,cum,tpit,tentacles,tentacle pit

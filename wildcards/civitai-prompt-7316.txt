@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 45mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> standing , bed,  <lora:InsPX2:0.2>, deep shadows, contrast, hands on vagina , mouth open evaelfie00, <lyco:InsPX:0.2>naked,  (looking at camera , heavy makeup ), annoyed

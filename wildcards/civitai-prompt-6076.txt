@@ -1,0 +1,6 @@
+masterpiece, best quality,1girl,28 year old woman,brown eyes,short hair,shiny_skin,thin_waist,huge breasts
+BREAK
+school uniform,necktie,pleated skirt,shiny_pantyhose:1.3,,
+        sneakers
+BREAK
+night,street,crowd:1.1,depth of field,looking at viewer,sitting on bench,random pose

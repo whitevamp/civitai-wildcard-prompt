@@ -1,0 +1,1 @@
+JoeHigashi, medium shot, 1guy, male, headband, spiked hair, orange shorts, orange armbands, (white hands wraps:1.1), brown muay thai socks, at the river, fighting stance, (detailed:1.2), atmospheric,  <lora:JoeHigashi2-000004:0.90>

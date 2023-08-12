@@ -1,0 +1,1 @@
+A treasure chest, simple, with a simple pattern of stars, no_humans, lens_flare, moon, sun, game icon, cartoon style, transparent background <lora:last:0.5>

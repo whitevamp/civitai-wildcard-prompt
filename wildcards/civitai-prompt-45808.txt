@@ -1,0 +1,5 @@
+masterpiece, best quality,
+curren chan \(umamusume\), smile, park,
+vertical-striped dress, bare shoulders, off shoulder, closed mouth, long sleeves, collared dress, gloves, own hands together,
+cowboy shot,
+ <lora:currenChanUmamusume_v10:0.7>

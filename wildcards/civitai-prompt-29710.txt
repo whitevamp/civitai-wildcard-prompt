@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:yukihana_lamy_v1:0.8> aalamy, long hair, streaked hair, ahoge, braid, beret, white headwear, hair flower, blue bowtie,
+ <lora:khorne:0.8> khorne, armor, skull,

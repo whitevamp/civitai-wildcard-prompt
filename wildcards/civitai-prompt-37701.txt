@@ -1,0 +1,3 @@
+(cowboy shot:1.1), (masterpiece, best quality, high quality, highres, ultra-detailed), lamppost, night, crowd, 
+1girl, long hair, platinum blonde hair, green eyes, looking at viewer, light smile, allblacksuit, 
+AS-Adult, Asian-Less, SkinHairDetail, <lora:attire_allblacksuit:1>,

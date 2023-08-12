@@ -1,0 +1,2 @@
+1girl,nipple,
+masterpiece,best quality,ultra_detailed,highres,absurdres, <lora:vectorer:1> ,<lora:add some details:0.3> 

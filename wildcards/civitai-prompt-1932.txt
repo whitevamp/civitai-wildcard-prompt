@@ -1,0 +1,4 @@
+1man, space suit, driving a floating car,  futuristic, 
+(by Enki Bilal , methurlant)
+(masterpiece, best quality:1.3),
+<lora:methurlant:1> <lora:add_detail:1>

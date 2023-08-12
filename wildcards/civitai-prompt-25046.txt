@@ -1,0 +1,2 @@
+masterpiece, ultra realistic, hoodie, head tilt, hair between eyes, shy smile, sideways glance, 1girl, solo, eyes closed, looking up, backlit,alternate color, alternate hair length, blush
+  <lora:HeadpatPOV:1>, pov, headpat

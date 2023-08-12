@@ -1,0 +1,1 @@
+realistic, realistic details, detailed, (((1 girl, solo, slender, off-shoulder dress, from front, walking, outdoor, looking at viewer, blurry background, depth of field, focus on face, sharp focus, simple background)))  <lora:PS_Gloria_Sol:0.6>,ulzzang-6500-v1.1

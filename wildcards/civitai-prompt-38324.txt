@@ -1,0 +1,2 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.8>, 3girls, a diverse group of three girls lined up, grabbing their own asses, buttlift, locker room, undressing, spacious, tile floor, florescent lights
+ <lora:ButtLiftV14:1>

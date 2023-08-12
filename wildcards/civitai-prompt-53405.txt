@@ -1,0 +1,1 @@
+1girl, princess rosalina, blue dress, hair over eyes, (one eye covered:1.2), filmic, film grain, depth of field, blurry background, <lora:style_illumination_v2_epoch3:0.6> <lora:character_princessRosalina_v1:0.7>

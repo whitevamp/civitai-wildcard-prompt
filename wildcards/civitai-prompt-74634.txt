@@ -1,0 +1,2 @@
+absurdres, highres, ultra detailed, (1 girl, solo:1.1),  full body,soft,ceremonial dress,ribbon,ribbon dress,(long dress:1.5),heaven,light background,wind,smooth,(blue clothes:0.4),flare,glow,particular,
+(Transparent clothing:1.5),,Regular, stylish pose, ((8-bit style)) ,floating in the sky, c, silk fabrics,cloud, (close-up:1.1),, bright, happy, fun, soft lighting <lora:Gini_S2:0.3>

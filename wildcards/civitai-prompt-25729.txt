@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1 girl, girl in bathtub, legs open,  <lora:girl_in_bathtub.unversioned:1>

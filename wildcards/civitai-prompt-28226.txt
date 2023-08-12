@@ -1,0 +1,1 @@
+highres,<lora:Style-add_detail:1>,High quality,(Beautiful), ((masterpiece)),vibrant colors, solo,1boy, abs, biceps, covered abs, large pectorals, male focus, manly, muscular, muscular male, pectorals, red hair, solo, spiked hair,shirt, <lora:YujiroV1.5-000013:1>

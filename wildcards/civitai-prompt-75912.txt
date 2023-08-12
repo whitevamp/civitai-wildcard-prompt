@@ -1,0 +1,1 @@
+cyberpunk, (nsfw:0.1), 8K, (masterpiece:1.4), (best quality:1.4), (high_resolution:1.4), (intricate detail:1.2),  <lora:SM_01:0.4>, bdsm, full body, long_coat, black gloves, (chain belt:0.6), (vampire:1.1), silver hair, yellow eyes, (tattoo:0.7), wedge_heels, (colored pubic hair:0.5), outdoors, (moon_night:1.3)

@@ -1,0 +1,1 @@
+white_building,architecture, bare_tree, building, city, cityscape, day,  gradient, gradient_background, house, outdoors, scenery, sky, skyline, skyscraper, street, tree <lora:white_building:1>,best quality

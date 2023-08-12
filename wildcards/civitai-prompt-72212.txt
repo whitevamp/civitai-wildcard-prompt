@@ -1,0 +1,1 @@
+(masterpiece,best quality, detailed), ((heart hands)),indoors, looking at viewer, 1girl, solo, full body,  smile, portrait, wariza,suiseiseki, bonnet, head scarf, heterochromia, green dress, neck ribbon, heterochromia, long hair, green dress, neck ribbon, bonnet, head scarf, upper body, portrait, smile,<lora:PerfectNwsjMajic_4:0.7>,PerfectNwsjMajic, <lora:SuiseisekiV1-000008:0.5>

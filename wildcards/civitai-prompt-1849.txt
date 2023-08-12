@@ -1,0 +1,5 @@
+<(masterpiece, realistic:1.3), (extremely intricate:1.2)>, (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, 
+Generate an incredible, best quality masterpiece, Winged deity with a serene expression and celestial wings, Heiress, Average Height, in shape, Diamond-Shaped Face, Fair Skin, Brunette Hair, coral Eyes, Wide Nose, Thick Lips, Sharp Chin, Long Hair, Curly Hair, Donut Bun, large breasts, Threader earrings, grape cream lipstick, cubism oil painting, sensuous, Nebula, Deformation,
+art by guillermo del toro,
+(photographed on a Canon 5D Mark II with Canon MPE65 lens, 1/125th, f/13, ISO 100),
+ <lora:sxz-niji-v2:0.4>,   <lora:envy_sorceress_v10:0.6>

@@ -1,0 +1,2 @@
+masterpiece, best quality, <lora:FEH_Concept_v2:1>, black background, simple background,
+1girl, kneeling, full body, nun, praying, own hands together, closed eyes

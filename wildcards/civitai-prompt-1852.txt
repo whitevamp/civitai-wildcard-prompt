@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:katarina-nvwls-v2:0.8> katarina, armor, tattoo, cropped jacket, cleavage, bustier, midriff, belt, black pants, boots,

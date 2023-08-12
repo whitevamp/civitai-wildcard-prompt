@@ -1,0 +1,7 @@
+8K,Best quality,masterpiece,ultra high res,(photorealistic:1.1),raw photo,(Authentic skin texture:1.1),Kodak Ultramax 800,85mm,  35mm film roll photo, hard light,
+looking at viewer, detailed skin, intricate details,bangs,medium hair, (onoff:1.3),side-by-side photo,split screen,
+small breasts,skinny,
+standing, 
+business suit,pants, 
+cowboy shot, outdoors, 
+ <lora:onoff4:1> 

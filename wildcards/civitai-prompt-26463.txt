@@ -1,0 +1,2 @@
+<lora:UltraBlackholeTech-20:0.8>,ulblackholetech  , excessive energy, 
+ purple hamster , pokemon \(creature\), cute

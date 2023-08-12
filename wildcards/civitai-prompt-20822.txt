@@ -1,0 +1,6 @@
+(clothes lift:1.3), from below, NSFW, <lora:skirtlift-v4:0.7> skirtlift, 
+<lora:zhongfenghuaxiyou:0.4> zhongfenghua,   <lora:Earth:0.7> earth \(planet\), starry sky,moon light,
+<lora:add_detail:0.4> <lora:LowRa:0.2> <lora:epi_noiseoffset2:0.2>
+(best quality, masterpiece:1.2), (photo realistic:1.2), extreme detail description,
+1girl, solo, full body, medium breasts, dynamic pose, tiara, pleated skirt, miniskirt, elbow gloves, jewelry, brooch, choker, earrings,  sailor collar, hair bow, hairpin, knee boots, (looking at viewer:1.2),  <lora:Sailor Outfit:0.7> purple sailor outfit, pink eyes, pink hair, turquoise skirt,  sailor collar, super long, twintails,
+<lora:d3x3d-L:0.3> d3x3d,<lora:Pussy:0.4> pussy

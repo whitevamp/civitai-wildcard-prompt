@@ -1,0 +1,1 @@
+1girl,(portrait:1.2),nsfw,see-through,harem outfit,( face veil:1),,masterpiece, high quality,people,light particle, looking at viewer,(masterpiece:1.2),(best quality:1.2),shiny skin,realistic,detailed background,<lora:HaremDancer_v1:0.9>

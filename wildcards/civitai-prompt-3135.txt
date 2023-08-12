@@ -1,0 +1,1 @@
+white capelet, breastplate, pauldron, white pants, belt, waist cape, boots, <lora:NijiExpressV2:0.6> fcPortrait <lora:CathFE16:0.8>

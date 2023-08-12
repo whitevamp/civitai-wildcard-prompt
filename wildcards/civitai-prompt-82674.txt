@@ -1,0 +1,7 @@
+realistic, absurdres, hdr, high contrast, sharp focus, depth of field, masterpiece composition, vivid colors, soft warm lighting,
+BREAK
+(beautiful young excited Asian woman in a (glass) elevator at night, facing away, looking back at viewer, pleated skirt, earrings), 
+BREAK
+(elevator control panel), night, night sky, neon city lights, above city at night,
+BREAK
+ <lyco:elevator_v0.4-locon-000007:1.0>

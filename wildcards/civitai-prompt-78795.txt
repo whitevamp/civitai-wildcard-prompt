@@ -1,0 +1,2 @@
+detailed light,((cinematic lighting)),very detailed eyes,(masterpiece), best quality,masterpiece,beautiful face, ultra detailed, highres,(light rays),best quality,
+<lora:ogiwara_sayu-Lycori:0.7>,brown eyes,gradient eyes,school uniform, sayu ogiwara, 1girl, solo, breasts, looking at viewer, blush, smile, large breasts, simple background, long sleeves, white background, navel, nipples, stomach, clothes lift, grin, sweater, no bra, shirt lift, blue shirt, lifted by self, blue sweater

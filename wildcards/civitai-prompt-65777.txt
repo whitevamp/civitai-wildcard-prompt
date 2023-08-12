@@ -1,0 +1,2 @@
+(masterpiece),[(black background:1.5)::5],1man,trunks \(dragon ball\), blue eyes,angry, shirt, strong muscles,(hands wrapped yellow lightning:1.4),pants,(blonde hair:1.4),( spiked hair:1.4),fire,star balloon, universe,(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),floating particles, sparks, (surrounded by yellow lightning:1.4),fiery background, despairing expression, (ruined city:1.4), fire,sky, stand on street, day, (strong pose:1.4),
+<lora:dbz_trunks-10:0.8>

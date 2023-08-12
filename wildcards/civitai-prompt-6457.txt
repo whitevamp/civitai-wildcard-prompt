@@ -1,0 +1,1 @@
+<lora:epiNoiseoffset_v2:1>, a photo of a woman, scarlett rose, posing for the camera with long blonde hair,  wearing a button down collared shirt and blue jeans and straw hat, shiny skin, detailed, intricate, high quality , high resolution, natural light, grassy field, forest, mountains in the background,  <lora:ScarlettRose1:0.8>

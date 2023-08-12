@@ -1,0 +1,3 @@
+(masterpiece,best quality, detailed), 1girl, solo, full body, contrapposto, dutch angle, outdoors, beach, palm tree,
+faye valentine, two-tone bikini, o-ring bikini, bracelet, eyewear on head, sunglasses,
+ <lora:FayeValentineV3-000006:1>,  <lora:more_details:0.6>

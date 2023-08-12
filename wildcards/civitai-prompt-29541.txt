@@ -1,0 +1,2 @@
+<lora:papercut02:1>,  <lora:animetarotV51:1>,(1girl:1.3),  (abstract art:1.2), style of rebecca guay,(fractal art:1.3),colorful,
+ style-swirlmagic, (masterpiece, best quality, high quality, highres, ultra-detailed),

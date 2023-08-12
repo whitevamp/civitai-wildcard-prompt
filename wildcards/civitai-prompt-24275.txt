@@ -1,0 +1,2 @@
+(masterpiece, high quality, highres),detailed face,vintage,(film grain:0.99),(well designed background),
+1girl,frog,long tongue, tongue out, all fours,head up,rain,pond,green, <lora:add_detail:0.4>

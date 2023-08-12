@@ -1,0 +1,5 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:torogao_v2:1>1woman,curvy, large breast, guruguru, surprised, ^^^,!?, 
+,full-face blush,  drill hair, hair ribbon, sundress, striped panties,  wedgie, 
+ <lora:WindyUpskirt:1>WindyUpskirt,accidental exposure, 
+outdoors,wind,
+cowboy shot, sex from behind,

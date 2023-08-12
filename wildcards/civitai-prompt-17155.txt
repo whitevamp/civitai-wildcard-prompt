@@ -1,0 +1,3 @@
+((teenage focus)), symmetric, quality, ultra high res, (photorealistic:1.4), a woman, full body, looking at viewer, Canon EOS RP, 8k, 85mm,masterpiece, best quality, realistic, ultra detailed,extremely detailed face, solo,1girl, dudou, ((stadium, ice rink)),  looking at viewer, (warm smile), full body, 
+((ice rink interior:1.2)), ((skating)), 
+((pink <lora:Skating-000004:0.8>)),, (masterpiece,best quality:1.5)

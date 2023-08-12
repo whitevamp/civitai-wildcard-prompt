@@ -1,0 +1,5 @@
+(masterpiece:1.3),best quality,highres,game cg,nsfw,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1:1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0>,1girl,mature female,elf,white hair,short hair,orgasm,blush,(rolling eyes:1.2),green eyes,open mouth,saliva,collarbone,large breasts,nipples,navel,arms up,bound arms,(bound wrists:1.2),
+BREAK,
+<lora:POVBGV2:1:1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0>,povbreastgrab,pov hands,breast grab,

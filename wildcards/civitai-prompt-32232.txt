@@ -1,0 +1,1 @@
+((best quality,masterpiece)),1girl, extra long hair,white shirt,short black pale skirt,multiple views, mtu virus,  <lyco:BongfillStyleV1:1.0> <lyco:mtu_virusConv2D2.5e-5_BF16:1.0>

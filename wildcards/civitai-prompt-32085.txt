@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),1 girl,full body <lora:Sexy office lady:0.9>,Sexy office lady,office,(slender),(((black suit,formal shirt,jacket,micro mini skirt))),((looking at viewer)), katebock,((from the back side))

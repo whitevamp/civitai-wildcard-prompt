@@ -1,0 +1,1 @@
+best quality, (photorealistic:1.2), 1girl, solo, detailed face,(upper body),standing,bangs, lips, <lora:koreanDollLikeness_v15:0.2>  ,PureErosFace_V1 ,red clothes, <lora:akio:1>

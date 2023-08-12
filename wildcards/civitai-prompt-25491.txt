@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,forest,quiff, Road Sign Orange Embroidered wedding dress,depth of field, evening,Mimicking a boxer's pose
+ <lora:slg_20:1.0>

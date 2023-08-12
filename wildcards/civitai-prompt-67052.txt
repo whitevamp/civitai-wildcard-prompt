@@ -1,0 +1,1 @@
+1man,a long hair man wear jedioutfit at night situations street in japan,low light,(cowboy shot),(detailed face:1.2), (detailed eyes:1.2), (dynamic posing), (professional lighting),(MASTERPIECE:1.2), (REALISTIC:1.3),(photo-realistic:1.3) ,(SHARP FOCUS:1.3), 8K, (POST PROCESSING:1.3), (ray tracing:1.3)   <lora:inter_haydenChristensen:0.9>,<lora:cloth_starWarsJediOutfit_v10:0.9>

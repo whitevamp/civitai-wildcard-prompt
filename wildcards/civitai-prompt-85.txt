@@ -1,0 +1,5 @@
+(8k, illustration, highest quality, best quality, masterpiece, ultra-detailed, sidelighting, finely detailed beautiful eyes:1.2),
+
+eula \(genshin impact\), 1girl, solo, ass, weapon, thighhighs, hairband, sword, breasts, gloves, cape, thighs, holding, bangs, leotard, back, greatsword, standing, blue hair, looking at viewer, hair ornament, long sleeves, from behind, looking back, backless outfit, medium hair, yellow eyes, black thighhighs, holding weapon, black hairband, holding sword, purple eyes, large breasts, medium breasts
+
+ <lora:eulaMedium:0.7>

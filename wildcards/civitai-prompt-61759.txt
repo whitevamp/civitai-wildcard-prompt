@@ -1,0 +1,1 @@
+<lora:INSPHOT2:0.6>, Instantphoto, Fashion photography of 1girl, solo, natural skin texture, fluffy short hair, realistic photo, Polaroid, vibrant details, finely detailed, wide angle, masterpiece, best quality, <lora:FilmG2:0.2>

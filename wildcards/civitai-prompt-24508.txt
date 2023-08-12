@@ -1,0 +1,4 @@
+macrogts, giant woman standing, city, leaning against skyscraper, nude, from below, depth of field, clouds
+<lyco:minigts_v3_lycoris:0.7>
+<lora:JapaneseDollLikeness_v15:0.2>
+high quality photograph

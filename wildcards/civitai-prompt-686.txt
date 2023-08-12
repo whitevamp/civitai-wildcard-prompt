@@ -1,0 +1,6 @@
+<lora:open_front_bra_v11:0.9>, ((front_hook_bra)), ((open front bra)), ((hand on bra)), ((opening bra)), ((opening)),
+masterpiece, best quality, absurdres, nsfw, photo-realistic, beautiful Japanese woman, perfect detailed elegant face, detailed eyes, detailed mouth, detailed pale skin, glossy lips, intricate details, forehead, large breasts, detailed nipples,
+(cowboy shot:1.3), smile, looking at viewer, ((wearing glasses)),
+pink front_hook_bra, pink string panties, ((white shirt pull)),
+outdoor, from side, from below, Japanese speedway parking,
+<lyco:GoodHands-beta2:0.8>

@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+SaekiSayoko, solo, 1girl, mature female, milf, full body shot, side view, sitting on chair, legs on table, smirking, smile, indoors, room, window, sunny weather, tree, complex background,
+brown hair, long hair, hair bow, hair ribbon, ponytail, makeup, blue eyes, perfect eyes, perfect face, detailed face,
+blue suit, blue pencil skirt, thighhighs, high heels,
+curvy,  large breasts, cleavage, ass, thighs,
+<lora:SaekiSayoko-000010:0.9>

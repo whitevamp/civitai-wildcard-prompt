@@ -1,0 +1,3 @@
+(waist shot:1), (masterpiece, best quality:1.2),  beautiful girl ( gaia:1.2), dark blue hair, (black eyes), ( black dress :1),  (1girl:1.2), looking at viewer,  slight smile, open mouth,
+ highly detailed impressionist painting, anime style, 8k, detailed face, (in a city:1.2),from front,  (cat ears:1.2),
+(cinematic:1), hyperdetailed, insane details, intricate details, accent lighting, soft volumetric light, (dramatic light:1), (neutral colors:1), cross process <lora:FFXIVLoghrifGAIA_1:1>

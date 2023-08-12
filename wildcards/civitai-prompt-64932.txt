@@ -1,0 +1,1 @@
+<lora:GachaSplash4:1> [(white background:1.5)::5], isometric, 1 girl, dim light, fantasy 2.0, wide shot, purple hair, tall, cape, fit, lewd, gothic, crown, fist, looking down, full body <bats, obsidian floor, fractals> <lora:epi_noiseoffset2:1>

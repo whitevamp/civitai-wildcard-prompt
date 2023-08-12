@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.4),
+1girl, (sitting on bed:1.2), upper body, body fur, (white fur, white skin:1.2), digitigrade,
+white hair, long hair,
+black mask, (blue eyes, glowing eyes:1.2),
+(blue nipples, glowing nipples, large nipples, large areolae, puffy nipples, puffy areolae:1.2),
+(cleavage, curvy, thick thighs:1.2), muscular, abs, huge breasts, sagging breasts, (perky nipples:1.2),
+<lora:kindred:1> <lora:Saya-long breasts3:0.6> 
+BREAK,
+indoors, wooden walls, medieval house, wooden floor, bed,

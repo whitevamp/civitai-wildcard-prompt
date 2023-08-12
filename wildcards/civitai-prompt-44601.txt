@@ -1,0 +1,1 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin,<lora:alphonseMucha_v12:0.6>,Catholic nun,church,Flowers,1women,girl,Holy light,<lora:animeLikeTarotCardArt_v10:0.8>

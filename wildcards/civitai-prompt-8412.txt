@@ -1,0 +1,5 @@
+professional portrait photo of hmmikasa, short hair, black eyes, scarf, emblem, belt, thigh strap, red scarf, white pants, brown jacket, long sleeves,
+detailed skin, detailed eyes,
+photo made with Canon EOS in naturalistic style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:mikasa_ackerman_v1:1:MIDD>

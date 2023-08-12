@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 8k, 1girl, muscular body, medium breasts, long hair, black hair, red pupils, 
+<lora:tifa-nvwls-v1-final:0.9>, defTifa, white crop top, elbow pad, fingerless gloves, suspenders, pencil skirt, black socks, red boots,
+<lora:Saya-adjusting gloves:1.2>, adjusting gloves
+standing on the street,

@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2),photorealistic, highres, (1girl:1.3), 1mechanical_girl,  <lora:Niji:1>, black short hair, black eyes, neon details,  <lora:GamerFashion-rgb-V1:0.4>,machanical limbs,blood vessels connected to tubes ,<lora:mikasa_ackerman_v1:0.7>, sunlight, giant behind, limegreen

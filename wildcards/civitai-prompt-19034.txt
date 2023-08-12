@@ -1,0 +1,1 @@
+(masterpiece:1.4, best quality), (intricate details), unity 8k wallpaper, ultra detailed, beautiful and aesthetic, 1girl, covered in words, words on body, ink, detailed, solo, standing <lora:add_detail:1.2> <lora:LowRa:0.2>

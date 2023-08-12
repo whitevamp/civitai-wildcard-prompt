@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.2), ultra high res, absurdres, sharp focus, dynamic pose, (1boy:1.1), male focus,
+lotr, sauron, helmet,
+standing, (shopping, (plastic bag:1.2):1.1),
+(indoors, (supermarket, convenience store:1.1):1.1),
+detailed background, brilliant colorful, subsurface scattering, volumetric lighting, extremely detailed <lora:sauron:0.8>

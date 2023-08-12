@@ -1,0 +1,2 @@
+masterpiece, highest quality, best quality, 1girl, solo, looking at viewer,
+masunya, cat ears, (purple skin color:1.1), (hair bow:1.1), dress, tail, <lora:my_LoRA_masunya_v3:0.4> lake, water, (green colored water:1.1), (swamp:1.2),

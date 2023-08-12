@@ -1,0 +1,1 @@
+<lora:Body_Astartes:0.9>,  astartes, power armor, warhammer 40k, pauldron, helmet, Death Guard, Nurgle, Chaos, <lora:Model_TentacleHorrorAI:0.9>, disease, disgusting, miasma, guts hanging out, rotten flesh, living dead, rot, rust, demonic garden, insects, flies

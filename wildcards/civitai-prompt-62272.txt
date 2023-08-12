@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo cute woman wearing fluffy jacket, white long jacket, pink sexy bikini, smile, large breats, spread legs, leaning back, 
+snow mountain, onsen, steam, tent, showing off nipples, bikini lift, 
+ <lora:fluffyJacket_v10:0.7>

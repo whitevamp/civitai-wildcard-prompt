@@ -1,0 +1,1 @@
+1girl,black hair,,(ulzzang-6500-v1.1:0.1) , (RAW photo, best quality, masterpiece:1.4), realistic, ultra highres,  <lora:pantiesinskirt_std:0.4> ,pantiesinskirt ,(white panties, pleated skirt, plaid skirt, miniskirt), skirt lift, standing

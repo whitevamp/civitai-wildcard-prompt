@@ -1,0 +1,1 @@
+highres, masterpiece,clothed, best quality, ((1girl,)) solo,SOLO,(((((anorexic)))  narrow waist, thin)),(( flat chest )) ,strawberry blonde long hair with micro bangs (((((Red Cleric Outfit and head accessory (holding Holy Symbol) (temple background) ))))), <lora:cuteKoreanGirlLora_cuteKoreanGirlLora:.35>  <lora:luckyStarStyleLora_offset:1> lucky star

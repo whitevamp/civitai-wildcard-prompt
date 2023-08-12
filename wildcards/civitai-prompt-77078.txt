@@ -1,0 +1,8 @@
+(Best quality, masterpiece, ultra high res:1.2), (photorealistic:1.4),
+(over the shoulder shot),(dynamic pose),(dynamic perspective),
+cinematic lighting,sharp focus,best shadow,depth of field,cinematic lighting,dimly lit, low key, in the dark, deep shadow,
+1girl, solo, beautiful, 25 year old, ((look viwer)), thai girl
+(detailed eyes), (detailed facial features), (detailed clothes features),
+(grey oversize T shirt), (pink skirt),
+(blunt bang bob cut), (brown hair),
+<lora:koreandolllikenessV20_v20:0.1>, (ulzzang-6500-v1.1:0.1)

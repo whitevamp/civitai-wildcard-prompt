@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1), (realistic, photorealistic:0.5),highres,ultra detailed, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres, huge filesize,Amazing, finely detail,CG,8k wallpaper,colorful,
+a beautiful woman,<lora:Cnbeauty2_v1:0.6>, <lora:nikkeViper_v2:0.7>, long hair, full body, blush, high heels, bangs,pink jacket, pleated skirt, laser gradient pleated skirt, (white pantyhose, white fishnet legwear:1.2), pink jacket, sneakers, glowing  red eyes, light blonde hair, Collar,evil smile,shiny hair, shiny skin, shiny eyes,cleavage,
+1girl,
+looking at viewer,
+indoors,hotel room,dim light,

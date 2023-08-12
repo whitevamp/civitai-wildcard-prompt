@@ -1,0 +1,1 @@
+bodybuilder berserker,toned body,female,robort, wuxia,cyborg mech fighter,wmma, wearing tank top armor, martial arts,fcPortrait <lora:NijiExpressV2:0.6> <lora:wmma-fC-v1:0.7> <lora:FINAL Robort:0.5> <lora:wuxia2:0.6>  <lora:Amazon-V3:0.7> <lora:knight_v4.1SD:0.7>

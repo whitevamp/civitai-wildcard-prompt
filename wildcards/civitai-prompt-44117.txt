@@ -1,0 +1,3 @@
+<lora:PaperCuttingLight:0.8>, (Paper Cutting:1.3), night light, (ultra realistic, 32k, RAW photo, high detailed skin:1.1)
+(masterpiece, best quality:1.5), 
+Cheongsam, The Water Gardens of Dorne, Foggy conditions,

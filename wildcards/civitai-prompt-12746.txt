@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, beautiful lighting, Cinematic film still,
+full medium shot, RAW photo, 1girl, gorgeous 40 years old, (AS-MidAged:1.3), caucasian milf, black stylish hair, perfect sparkling purple eyes, pale skin, big breast, cleavage, finely detailed features, angry look, looking at camera, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering,
+dark hooded sorceress, mage robes, holding a magic wand, (full stocking:1.1), zrpgstyle, ominous atmosphere, long pointy nails, outdoors, old magic tower background,
+fcDetailPortrait,
+<lora:AZovyaRPGArtistToolsLORAV2:0.2>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3>

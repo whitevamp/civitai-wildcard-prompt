@@ -1,0 +1,2 @@
+(((masterpiece))),bestquality,illustration,beautifuldetailedglow,
+paper_cut, <lora:KK_paperCut_v1:0.6>,1girl,solo, full body,colorful, <lora:AngelicWarriors_v1:0.7>,priestess,priestess clothes,holy light,white lily \(flower\), lily white, water,barefoot, bare shoulders, Magic Wand

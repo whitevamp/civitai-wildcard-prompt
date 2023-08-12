@@ -1,0 +1,5 @@
+chinese zodiac, 
+Softlight,(warm color:1.2),Water color painting,light background,best quality exquisite details,3d rendering,Octane render,pastel,
+<lora:KK_paperCut_v1:0.8>paper_cut,  (white background:1.35),
+Negative prompt: easynegative,badhandv4,blurry, 
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4068419548, Size: 768x768, Model hash: d725be5d18, Model: 2插画_A1_revAnimated_v11, Clip skip: 2, ENSD: 31337, Hashes: {"vae": "f921fb3f29", "lora:KK_paperCut_v1": "1fab914749", "model": "d725be5d18"}

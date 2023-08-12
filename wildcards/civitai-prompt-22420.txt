@@ -1,0 +1,4 @@
+lynette, animal ears, blunt bangs,grey hair, short hair, cape,bow,plaid ribbon, cleavage cutout, frills skirt,black pantyhose, star \(symbol\),
+love,romantic, joyous, unforgettable, passion, desire, devotion, bliss,
+Mysterious Atmosphere, Intense Shadows, Moody Lighting,
+ <lora:lynette02:1:KEEPCHAR>

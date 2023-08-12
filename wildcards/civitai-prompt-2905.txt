@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:Hinata boruto, hoodie, pants:0.8> Hinata \(boruto\), 1girl, looking at viewer, dynamic pose
+fishnet, midriff, jacket, bandana, jean shorts
+BREAK
+(battlefield, outdoors, gorgeous view)

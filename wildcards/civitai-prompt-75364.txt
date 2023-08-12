@@ -1,0 +1,13 @@
+(8k ,ultra detailed,raw photo:1.2),(realistic:1),(photorealistic:1),
+(1girl:1),(walking),(wide shot:1.5),(panorama),(perspective:1.4),(from above:1.1),
+(smile:0.4),
+(attractive,absurdres:1),
+(simple background:1.4),
+(outdoor,greece,mediterranean,santorini,daylight,sunlight,stone paver,wind,cliff:1.2),(overlook,ocean:1.4),(white stucco house:1.2),steps,
+(flower pattern summer dress,lace,sandal:1.2),
+(braided hair, blonde streaked hair:1),
+(supermodel:1.4),(wide hips:1),
+(beautiful caucasian:1),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.75>,
+<lora:lit:0.8>

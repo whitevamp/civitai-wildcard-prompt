@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.55), <lora:MISC-GlossyFace:0.3>, blue eyes,  big breasts, nipples, smile, :), red hair, redhead,  freckles,   <lora:CLOTHES-BikiniPull:0.33>, (bikinipull:1.26), ocean, water,

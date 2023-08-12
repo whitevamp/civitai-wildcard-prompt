@@ -1,0 +1,1 @@
+<lora:DramaticDmitry:1> DramaticDmitry, <lora:spidermanclasicV10_v10:0.8> SpidermanClasic male, city, daylight, sand on road, holding sand, road, cars,

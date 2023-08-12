@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed), (Artgerm inspired:1.2), (pixiv contest winner:1.1), ((cute muscular gigachad)), blush, pov
+<lora:Astarotte no Omocha_Asuha Touhara:0.85> touhara asuha

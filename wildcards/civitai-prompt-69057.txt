@@ -1,0 +1,6 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(upper body:1.5),
+1girl, <lora:WrapHipOnePieceDress:0.7>,(iron material clothing:1.5),((wrap_hip_one_piece_dress, amazing,finely detail,beautiful design)),(cleavage:1.5),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(huge_breasts:1.3),narrow waist,((skinny legs)),
+hime cut,(tawny hair:1.2),
+<lora:jpIDOL_v10:0.2>,<lora:LoveOnLovely_lolStyleV10:0.2>,<lora:koreanDollLikeness_v15:0.2>,<lora:cuteGirlMix4_v10:0.1>,<lora:chilloutmixss_xss10:0.1>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,
+nature background,

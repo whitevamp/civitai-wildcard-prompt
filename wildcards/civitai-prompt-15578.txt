@@ -1,0 +1,10 @@
+Style: (masterpiece:1.2, best quality), (real picture, intricate details)  BREAK
+Composition: cozy girl, 1girl, multiple boys (fat man:0.3, ugly man:0.1), old_man, (large_penis:1.3), penis_on_face, (cheek_poking:1.2), (cheek_press:1.2)  BREAK
+Appearance: (milf:1.15), fit, muscular, slender, slim, skinny, small_breasts, flat_chest, green_eyes, collarbone  BREAK
+Hair: short_black_hair  BREAK
+Clothing: school_uniform  BREAK
+Accessories: necklace, earrings  BREAK
+Behavior: (looking_up:1.3)  BREAK
+Location: simple_white background, empty_background, no_background  BREAK
+Behavior: blush  BREAK
+Loras: <lora:concept-penis_on_face-v4:0.5><lora:fat_man_v5.4a:0.75><lora:LR:0.5><lora:fechin:0.9><lora:saggingBreasts_v10:0.8><lora:add_detail:0.5><lora:fantasyV1.1:0.1><lora:DW:0.25><lora:lasto_v1:0.25>

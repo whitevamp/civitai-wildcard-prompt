@@ -1,0 +1,3 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed <lora:XenoDetailer:0.5>, <lora:kittew_v0.1:0.8>, <lora:realistic:0.85>,
+(1man, wrinkled face, old  male:1.2), wise,  light blue eyes, graying hair, beard,
+ looking at viewer, solo, upper body, detailed background, detailed face, (<lora:CyberPunkAI:0.6>, neon, CyberpunkAI theme:1.1) evil high-tech futuristic hacker, smirk, advanced technology, coat, techwear,  keycard, electronics, head-up display,  (holographic display:1.05), error message, barcode, computer, password, control panel in background,  espionage, dark sinister atmosphere, shadows,

@@ -1,0 +1,1 @@
+( Sorayama Style:1.2) cyberpunk woman,cbpkv5,<lora:Sorayama Style 1:0.7> <lora:cbpkv_20230614221551:0.7>

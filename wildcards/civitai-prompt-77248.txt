@@ -1,0 +1,3 @@
+1girl,  looking at viewer, smile, &:
+(blush:1.3), (full face blush:1.2), (shy:1.1),
+riju, 1girl, solo, midriff, navel, crop top, red hair, short hair, dark skin, gerudo, blue lipstick,(abs:0.7), bare shoulders, black long skirt, hair ornament, bracelets, thigh, slit skirt, (muscular female:0.7), dark-skinned female, anklet, short hair, armor <lora:Riju2:1> <lora:add_detail:0.4>

@@ -1,0 +1,3 @@
+(simple room on fire:1.3), (fire:1.3), (chair, table), (speech bubble:1.3), (text reading "This is fine":1.3), (smoke:1.3)
+BREAK
+<lora:garouma-1356it-novae:0.8>, ((masterpiece, best quality))

@@ -1,0 +1,5 @@
+masterpiece, high quality, highres, 1girl, solo,
+kimetsu no yaiba style, <lora:DemonSlayerStyle:0.4>, anime coloring, <lora:Mitsuri-v2-04:0.4>,
+ChopioMitsuri, braid, twin braids, long hair, pink hair, multicolored hair, green hair, gradient hair, two-tone hair, hair between eyes, mole under eye, green eyes,
+blush, blush lines, embarrassed, seductive smile,
+ <lora:Pelvic_Curtain_Dress_v1:0.3>, pelvic_curtain dress, black dress, boots, wearing a pelvic_curtain dress, multiple straps around the waist, leather boots, living room, indoors,

@@ -1,0 +1,6 @@
+best quality, intricate details, full body,
+
+
+1girl,       <lora:seraphineKDAAllOUT_v10:0.8> seraphine1, 1girl, solo, blue hair, k/da \(league of legends\), very long hair, multicolored hair, jewelry, ponytail, blue eyes, earrings, brown trenchcoat, black choker, two-tone hair, purple hair, black thighhighs, bracelet, black skirt, crystal, large breasts,  
+
+<lora:steampunkai10MBLora_10mb:1> steampunkai, female pilot in cockpit of steampunk airplane, (nsfw:1.3)

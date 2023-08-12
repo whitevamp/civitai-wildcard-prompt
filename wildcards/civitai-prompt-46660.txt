@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), 
+<lora:AsukaV1-000016:0.8>, souryuu asuka langley, interface headset, blue choker, yellow dress, red footwear

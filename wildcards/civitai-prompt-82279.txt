@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, PlayingCards, <lora:PlayingCards:0.7>, 1boy, solo, holding, card, table, holding card, sitting, indoors, playing card, pov across table, closed mouth, looking at viewer, Jetstream Sam, facial hair, male focus, beard, cyborg, <lora:Char_MGR_JetstreamSam:0.9>

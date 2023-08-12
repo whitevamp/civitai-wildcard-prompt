@@ -1,0 +1,4 @@
+(extremely detailed CG unity 8k wallpaper),(masterpiece), (best quality), (ultra-detailed), (best illustration),(best shadow),
+,BREAK
+PKP, fat, obese, thick, thick arms, fat rolls, (nude:1.2), huge breasts, sitting, legs spread
+<lora:PKP:.8> <lora:Fat-000006:1.2>

@@ -1,0 +1,1 @@
+kermit the frog wearing sunglasses <lora:Glacier Sunglasses:1><lora:add_detail:1> <lora:Kermit:0.2>

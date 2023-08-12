@@ -1,0 +1,4 @@
+realistic, (best quality, masterpiece:1.3),1boy,solo,
+silver hair, bright pupils, short hair, hair slicked back, 
+cupping hands, holding fluorescent bird ,  <lora:GlowingRunesAI:0.4>GlowingRunesAI_paleblue
+grey background,

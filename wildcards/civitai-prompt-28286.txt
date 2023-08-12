@@ -1,0 +1,1 @@
+1 girl, full body, (dynamic poses), Hanfu, (Winter hanfu), cloak, (snow, chinese outdoors:1.2), <lora:Winter_Hanfu:0.65>,

@@ -1,0 +1,1 @@
+<lora:helsieVideoGame_v10:0.5>, looking at viewer, best quality, volumetric lighting, outside, cgi, 3d, octane render, ambient occlusion, xyzhelsie, posing, grin, purple clothes, fishnet, legwear, socks, shoes, ponytail, belt, skirt, green eyes, choker,  <lora:tacticoolK112_v1:0.5>, military, vest, tacticool

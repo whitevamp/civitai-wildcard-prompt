@@ -1,0 +1,3 @@
+Masterpiece,8k, perfect face highly detailed,HDR, ultra realistic photoshoot, absurdres,award winning photo, extremely detailed, amazing, fine detail, 
+KazAsuka, Japanese woman, blue crop top, big breasts, denim jacket and minishorts, short black hair, MMA gloves, posing for a picture, in the streets of Osaka
+ <lora:KazAsuka:1>

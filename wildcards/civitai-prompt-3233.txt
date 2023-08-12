@@ -1,0 +1,1 @@
+Masterpiece,hyper detail,acid poster,text,1girl,mechanical arms, mechanical legs, mechanical eye, sitting,nude,expressionless,steel,mechanical halo, blood vessels connect to head,reaching, <lora:acid 3:1>

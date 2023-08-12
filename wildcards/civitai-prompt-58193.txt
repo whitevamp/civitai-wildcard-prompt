@@ -1,0 +1,6 @@
+lucy \(cyberpunk\),
+1girl, baseball cap, upper body, 
+short hair, solo
+cyberpunk edgerunners,
+
+<lora:lucy_offset:1>

@@ -1,0 +1,15 @@
+Aesthetic: ((glowwave, neon lights, vibrant colors, retro, dreamy, futuristic):1.4)
+BREAK
+Composition: <lora:GodPussy1 v4:0.5>,  godpussy1, 1girl, solo, 1girl, solo, lying on back, laying in bed, perfect face, perfect eyes, pretty face, big breasts , perfect pussy, clothes, (wearing clothes, wearing shirt, wearing dress shirt, wearing button up shirt), perfect breasts, covered breasts, (breasts underneath shirt), cleavage, (thighs, stomach, breasts, hands tied behind back, arms behind back)
+BREAK
+Lighting: Flickering Firelight, Rustic, Intimate
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lyco:ShinyOiledSkin_v20-LyCORIS:0.5> (glossy skin, smooth skin),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

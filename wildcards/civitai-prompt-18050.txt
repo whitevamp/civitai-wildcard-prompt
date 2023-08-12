@@ -1,0 +1,5 @@
+blue eyes,twintails,blonde hair,long hair,Tuxedo dress,
+takamaki anne(persona 5),
+cleavage,
+Whimsical Atmosphere, Soft Shading, Ethereal Intrigue,
+<lora:takamaki_anne:0.75>

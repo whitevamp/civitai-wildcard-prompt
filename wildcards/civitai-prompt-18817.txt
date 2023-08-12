@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details,
+1man,  <lora:GKT:0.8> GKT,  power armor, warhammer 40k, adeptus astartes,

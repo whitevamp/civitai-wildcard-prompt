@@ -1,0 +1,1 @@
+stone statue of jar jar binks, photo, stone_statue, jar jar binks, on a pedestal, stone_color, 1girl, nude, barefoot, masterpiece, garden, stone, high detail, <lora:jarJarBinksGunganStar_v3:0.7> <lora:stone_statue:0.6>

@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), 
+((1girl)), petite, curvy, cute, professional lighting, physically-based rendering, big ass, from back, (a sexy young woman in a bathroom:1.2),  ((modern bathroom, marble bathtub, basin)), ((brown hair, bun, blue eyes)), ((large breasts, puffy nipples)) (squatting)
+<lora:breastinclassBetter:0.2> (pantpulldown:1.2),  <lora:pantpulldown:1>

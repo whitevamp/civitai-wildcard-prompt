@@ -1,0 +1,4 @@
+1girl,solo, parted lips, 
+( crop top),(sports shorts,thighs),
+city,outdoors, outstretched arms, looking at viewer, realistic,  long hair 
+   <lora:EvanRachelWood23Apr:0.55>

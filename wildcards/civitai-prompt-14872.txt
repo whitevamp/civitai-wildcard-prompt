@@ -1,0 +1,5 @@
+,2d, masterpiece, best quality, anime, highly detailed face, highly detailed eyes, highly detailed background, perfect lighting, {{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {cinematic lighting}, {illustration}, {beautiful detailed eyes}, {1girl}
+//
+kanon, marron marron, muchi muchi kyousei seichouchuu, 1girl, long hair, breasts, looking at viewer, blush, bangs, large breasts, shirt, navel, standing, underwear, nipples, collarbone, panties, short sleeves, sidelocks, thighs, sweat, solo focus, socks, indoors, tears, clothes lift, sweatdrop, white panties, huge breasts, black eyes, covered nipples, crop top, grey eyes, dutch angle, skindentation, underboob, nose blush, embarrassed, shirt lift, thick thighs, wavy mouth, own hands together, blue shirt, animal print, no pants, breath, areola slip, puffy nipples, between legs, curvy, heavy breathing, wide hips, out of frame, v arms, plump, hand between legs, thought bubble, full-face blush, covering crotch,undersized clothes, have to pee
+//
+ <lora:Muchi Muchi Kyousei Seichouchuu!!!-marron_marron-03:0.7>, <lora:anmnr01:0.6>

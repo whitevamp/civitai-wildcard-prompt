@@ -1,0 +1,3 @@
+1girl, socks, jersey, curvy, tall female, 
+yellow background, pink AND white outside border,
+<lora:standingFullBodyWithBackgroundStyle_v10Offset:0.6>

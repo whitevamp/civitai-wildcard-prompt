@@ -1,0 +1,1 @@
+<lora:RocksEyebrowRaise:0.95> RocksEyebrowRaise, portrait, raised eyebrow, thick eyebrows,     <lora:Gandalf-000064:0.65> Gandalf,

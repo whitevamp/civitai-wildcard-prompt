@@ -1,0 +1,4 @@
+<lora:hiqcg_epoch-04:0.5>,  hiqcg, anime, 1girl,  latex, shiny clothes, battlesuit, large breasts, light hair, gradient hair,  parted lips,  cowboy shot, 
+looking at viewer, 
+detailed skin texture, detailed cloth texture,  beautiful detailed face,
+masterpiece, best quality, ultra detailed, 8k, intricate details,

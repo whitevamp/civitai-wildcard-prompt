@@ -1,0 +1,6 @@
+(8k, best quality, masterpiece:1.2), 1girl,solo,perfect face, perfect eyes,upper body,cowboy shot, focus on face , 
+garden,chinese garden,poolside, 
+black hair, black eyes
+<lora:hanfu_v30:0.6>,hanfu,[MING STYLE|TANG STYLE|SONG STYLE|JIN STYLE|HAN STYLE],
+hair ornament, 
+sitting on desk,head rest,looking at another, light smile,from side,

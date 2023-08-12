@@ -1,0 +1,3 @@
+1girl,Kneeling, pretending to paint a masterpiece,
+msw,
+, <lora:msw_v10:0.7>

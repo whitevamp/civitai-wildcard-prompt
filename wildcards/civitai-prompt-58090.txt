@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.8), <lora:MISC-GlossyFace:0.3>,  <lora:CHAR-Toph:1>, tunic, green shirt, sash, capri pants, pelvic curtain, black hair, smile, short, ground, earth, soil, molding earth, (earthbending:1.3), (flying rock:1.2), meteor, sand storm,

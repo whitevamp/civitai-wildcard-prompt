@@ -1,0 +1,1 @@
+1girl,white hair,short hair,yellow eyes,(dark skin),pony tail,screaming,teary,(teary eyes:1.2), (crying:1.2),(big breast:1.3),open mouth,(sad),wedding dress,kneel, kneel on ground,indoors,closeup,masterpiece,extremely detailed CG unity 8k wallpaper, best quality,32k,focus sharp, <lora:screaming:0.7>, <lora:add_detail:1>, <lora:Light and Shadow:0.6>, <lora:STYM_Eb-000005:0.3>,

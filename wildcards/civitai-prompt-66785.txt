@@ -1,0 +1,1 @@
+<lora:miniature_V1:1>, MINI, MINIATURE, ISOMETRIC, LANDSCAPE

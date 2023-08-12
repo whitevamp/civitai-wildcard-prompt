@@ -1,0 +1,1 @@
+1man,masterpiece,best quality,dusk,cityscape,muscular male,aged down,hairy body,depth of field, messy,<lora:add_detail:0.5>

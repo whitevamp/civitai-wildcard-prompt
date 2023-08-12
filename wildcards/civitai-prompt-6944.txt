@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra-detailed,  sitting water side,
+1girl, Chihiro Ogino,holding a joystick, playing video game,
+ghibli style ,wearing VR headset,wearing Apple Vision Pro
+<lora:ghibli_style_offset:0.55>  <lora:vision_pro_v1:0.6> <lora:chihiroOgino_v11:1>

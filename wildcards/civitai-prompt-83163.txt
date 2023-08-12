@@ -1,0 +1,6 @@
+masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, (nice hands, perfect hands), <lora:GoodHands-vanilla:1>,
+<lora:kurumi_imari:1>, kurumi imari, 1girl, solo, (smile:0.8), (completely nude:1.3), very fascinating pose, on bed,
+black thighhighs, BREAK
+indoors, natural lighting, detailed shadow, detailed background, hdr,
+<lora:epiNoiseoffset_v2Pynoise:0.7>, <lora:flat2:0.1>
+head out of frame, morning

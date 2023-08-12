@@ -1,0 +1,9 @@
+Ellen Ripley, 20 years old, 
+flirting with the camera, beautiful face, (perfect skin), (perfect eyes)
+(harness:1.5), ( Tight-fitting latex bodysuit) , (glossy finish), latex, cropped jacket,
+(cyberpunk:1.2), futurist, character profile,
+(small ass),(long legs),(small breasts),
+perfect proportions, 
+wide angle, (close-up), (wide shot),
+(highly detailed), masterpiece,best quality,Bokeh,(Depth of field),detailed shadows,sharp focus, (double exposure:1.5), highres, (perfect ligthing), (rim lighting),
+<lora:add_detail:0.2> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>

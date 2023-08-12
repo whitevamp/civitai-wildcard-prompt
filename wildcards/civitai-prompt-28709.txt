@@ -1,0 +1,1 @@
+<lora:largewindow_20230531163119:0.6>,1 girl,full body,(blue sky:1.3), long_hair, sliding_doors, solo, standing, yinyangtech , flow, scifi,  <lora:YinYangTech:0.5>, <lora:add_detail:0.6>,medium breasts,  see-through leotard,  <lora:see-through leotard:0.7>, multicolored hair, photorealistic, from behind,

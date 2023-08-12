@@ -1,0 +1,2 @@
+(masterpiece, high quality, highres),detailed face,vintage,(film grain),well designed background,diagonal composition,monochrome,((Film texture)),film
+A girl's back in the rain,streets,lights,One-point perspective,rain,ground water,refections,only clothes with colors,deep ,gloomy,long hair, <lora:yuzuki_murashige-000016 :1.0>

@@ -1,0 +1,1 @@
+blurry, blurry_background, blurry_foreground, building, city, depth_of_field, motion_blur, photo_\(medium\), photo_background, tokyo_\(city\) no_humans

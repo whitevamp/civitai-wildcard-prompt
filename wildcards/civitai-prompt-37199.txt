@@ -1,0 +1,7 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, 
+1girl, android 18, blonde hair, short hair, blue eyes,
+office lady, high heels, pencil skirt, cleavage,
+[open mouth], navel,
+Crouching with hands on the ground, ruined cityscape, crumbling buildings, overgrown vegetation, desolate streets,
+[cowboy shot],
+<lora:android_18:0.8>

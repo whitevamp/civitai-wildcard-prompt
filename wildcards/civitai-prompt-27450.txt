@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+ShioriNishimura, dark skin, dark-skinned female, solo, mature female, milf, looking at viewer, hands on hips, cowboy shot, room, indoors, window, tree, sky,
+brown hair, short hair, makeup, brown eyes, perfect eyes, perfect face, detailed face, (choker:1.1),
+red tank top, pencil skirt, navel, midriff,
+sweat, curvy, (huge breasts:1.1), thighs, narrow waist,
+<lora:ShioriNishimura:0.9>

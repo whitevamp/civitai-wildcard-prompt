@@ -1,0 +1,1 @@
+modelshoot style, A stunning intricate full color portrait of (35 years old cvv2:1) as (viking warrior woman:1.4), smiling, epic character composition, outside, by ilya kuvshinov, alessio albi, nina masic, sharp focus, natural lighting, subsurface scattering, f2, 35mm, film grain,  <lora:CVV2:0.8>

@@ -1,0 +1,3 @@
+intricate,elegant,highly detailed,majestic,digital photography,(masterpiece, sidelighting, finely detailed beautiful eyes:1.2),hdr,
+(A photo of social media:1.2),((mature female)),Silk black underwear,(Pole Dance:1.2),Disco,Nightclub,
+<lora:Blade Runner v.2.2:0.6> <lora:add_detail:0.6> <lora:ChineseDollLikenessV3.0:0.4>

@@ -1,0 +1,1 @@
+<lora:CharlesBronson:1>, RAW photo, portrait of a violent vigilante, wearing a suit, symmetrical hazel eyes, at midnight, darkness, city slum in background, 1970s, <lora:epiNoiseoffset_v2Pynoise:1.6>,

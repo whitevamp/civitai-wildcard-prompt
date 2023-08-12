@@ -1,0 +1,1 @@
+1boy, <lora:ironcatlora1Artoria_v10:1> (armor:1.2), castle, dusk, <lora:gigachadDiffusionLora_v69:0.6> gigachad, <lora:5shotStyle_v10:0.5>,

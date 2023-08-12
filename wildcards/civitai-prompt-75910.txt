@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,depth of filed,
+In the golden hues of autumn, a stunning female Taoist priest wearing thick black and white see through robe, hair bun, stands on a forest path where maple leaves fall. She wears a red Taoist robe, and her long hair cascades down like a waterfall. She looks up, gazing at the sky filled with falling maple leaves, radiating serenity and tranquility,(blurry background:1.4),(blurry foreground:1.4),from back,from below,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), Fujifilm XT3, <lora:add_detail:1> <lora:|~P[-10:0.6>

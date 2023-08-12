@@ -1,0 +1,4 @@
+<lora:zwd_v2:0.6> zwd,
+true-to-life visuals, artistically refined,captivating beauty, breathtaking aesthetics, dramatic contrasts, atmospheric depth,
+1girl,
+glass cabin, modern, transparent,

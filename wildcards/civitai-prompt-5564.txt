@@ -1,0 +1,3 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Knitted cardigan, leggings, Madame, Short, Lean, Diamond-Shaped Face, Dark Skin, Brunette Hair, silver Eyes, Straight Nose, Pouty Lips, Round Chin, Shoulder-Length Hair, Thick Hair, Tousled Waves, asymmetrical breasts, Clip-on earrings, teal cream lipstick, bedroom, warm light, moonlight, ambient,
+<lora:fC-perfectFullBreasts-V3:0.6>, large breasts, slim waist, <lora:sxz-style-niji:0.2>,

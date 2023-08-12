@@ -1,0 +1,12 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, dancing, cowboy shot, sky, moon, night, outdoors,
+long hair, red hair,
+blue eyes, eye reflection, bright pupils, beautiful detailed eyes, full blush, (smile:0.5),
+medium breasts, small areolae, long nipples, (sweat, steam, steaming body, heavy breathing:1.2),
+navel, pussy, vaginal, (pussy juice trail:1.4), bottomless,
+leg up, leg lift, detached sleeves,
+nipple heart, <lora:nippleheart2:0.50>,
+nipple_piercing_jewel, <lora:nipple_piercing_jewel:0.50>,
+grool, dripping, wet pussy dripping, <lora:pussy_grool:0.25>,
+niloudef, <lora:nilou1_000008:1>

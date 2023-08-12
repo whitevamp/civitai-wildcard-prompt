@@ -1,0 +1,3 @@
+(masterpiece, best quality:1.2),
+blue_eyes, blue_sky, breasts, burger, choker, cloud, dark-skinned_female, dark_skin, day, demon_girl, demon_tail, denim, food, height_difference, horns, long_hair, multiple_girls, pointy_ears, red_skin, shirt, short_hair, sitting, sky, tail, teeth, thick_thighs, thighs
+<lora:Lyla:1>

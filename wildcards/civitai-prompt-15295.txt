@@ -1,0 +1,1 @@
+1girl,dynamic angle,LunarPunkAI queen,<lora:LunarPunkAI:0.7>detailed,intricate dress,evening_gown,perfect waist to hip ratio,

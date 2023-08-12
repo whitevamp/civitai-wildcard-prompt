@@ -1,0 +1,2 @@
+1girl, full body, eye contact, bokeh background, brown hair, red skirt,back long hair, 
+ <lora:copax_charm_eu:0.6>

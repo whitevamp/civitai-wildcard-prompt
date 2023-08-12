@@ -1,0 +1,1 @@
+(impasto paintings:1.2),cowboy shot ,realistic, best quality, masterpiece, realistic ,<lora:more_details:0.3>,<lyco:GoodHands-beta2:1>,3dmm,elsa disney , 3d character, in the style of hyper-realistic,

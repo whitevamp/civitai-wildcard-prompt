@@ -1,0 +1,1 @@
+closeup, photo of LReddick, <lora:LanceReddick-06:1.0>, action, dynamic pose, wearing blue tuxedo, man, white suit, bald, (masterpiece:1.2), best quality, high quality, (absurdres:1.2), realistic, UHD, ultrarealistic, 50mm,  <lora:add_detail:0.3>

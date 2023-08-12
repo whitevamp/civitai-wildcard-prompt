@@ -1,0 +1,1 @@
+<lora:PerfectNwsjMajic_4:0.6>  PerfectNwsjMajic, glasses, urtra_detail, <lora:QI_q LowRA:0.6> dark theme,

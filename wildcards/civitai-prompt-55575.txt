@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1boy,    <lora:speedOSoundSonicOne_v10:0.8> onsoku no sonic, folded ponytail,
+
+
+
+ <lora:urbanSamuraiClothing_urbansamuraiV03:0.8> techwear jacket, black gloves, tactical vest, with buckle and tape,

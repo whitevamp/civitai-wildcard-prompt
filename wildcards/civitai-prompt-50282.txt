@@ -1,0 +1,5 @@
+1girl, solo, blush, sweat, closed eyes, steam, messy hair,
+(oversized shirt:1.2), white shirt, off shoulder,
+lying, bed, (female masturbation:1.4),
+((masterpiece)), (((best quality))), highly detailed,extremely detailed CG unity 8k wallpaper, illustration, highres,absurdres, beautiful detailed face, finely detailed background,
+<lora:oversizedShirt_v10:1>

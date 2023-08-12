@@ -1,0 +1,5 @@
+((masterpiece)),(illustration),(((best quality)),iridescent, high resolution illustration,Amazing,highres,intricate detail, extremely detailed CG unity 8k wallpaper
+((zelda)), small breast, upper_body, naked, play on piano
+(delicate cute face), blond long hair, lovestruck,(green eyes), NSFW, nude
+ <lora:botw_style_offset:0.8>  
+beach, moonlight, nigh time

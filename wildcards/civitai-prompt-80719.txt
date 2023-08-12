@@ -1,0 +1,1 @@
+openposeman,  stick, depth of field,  standing, arm up,  street, audience,  <lora:openposeman:1>

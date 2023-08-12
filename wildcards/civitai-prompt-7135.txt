@@ -1,0 +1,3 @@
+<lora:between_breasts_v0.1:1.2>
+1girl, between breasts, carrot,
+<lora:chaesu-minah_v4.1:1>, masterpiece, best quality, highly detailed

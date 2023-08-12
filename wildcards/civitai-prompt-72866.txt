@@ -1,0 +1,1 @@
+<lora:drawthiere-26:0.85> drawthiere,  <lora:capi-09:0.5> capybara, pond, (swamp:0.9)

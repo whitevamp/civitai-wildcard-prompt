@@ -1,0 +1,1 @@
+Masterpiece, HDR, UHD, Solo,1girl, <lora:lowra_v10:0.3> <lora:FilmgirlLora_v30:0.2> <lyco:crabGirl-000020:0.7> (crab woman) claws, arthropod limbs, on the beach, monster

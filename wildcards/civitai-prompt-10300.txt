@@ -1,0 +1,3 @@
+professional photo of  xyzviolet, 1girl, closeup, masterpiece, beautiful, closeup, portrait, long hair, midriff, black hair, shorts, crop top,
+volumetric light, highrez, masterpiece, best quality,
+<lora:VRAMsViolet640:0.3:MIDD>

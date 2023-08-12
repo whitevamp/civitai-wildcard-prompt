@@ -1,0 +1,11 @@
+nsfw, 8K raw photo, Best quality, masterpiece, ultra high res, 
+1girl, looking at viewer,
+natural skin texture, realistic eye and face details, full lips, lipstick, rouge \(makeup\), red eyeshadow, fluffy short hair, messy hair, little smile, beautiful legs, tall female, skinny, slim_legs, solo, 
+enormous breast,cleavage,
+sparkler, ultra short skirt, ass, shirt, fireworks, ponytail, outdoors, plaid skirt, white shirt,
+enormous breast,cleavage, Show a little cleavage through the shirt,
+blurry background, blurry, holding, plaid, short sleeves, 
+sunset, beach, brown hair, bracelet, water, bangs, school uniform, jewelry, parted lips, lips, from side, pleated skirt, 
+depth of field, black hair, 
+looking at viewer,
+<lora:Lora_v20:0.7>,   <lora:LoRA_train:0.4>, (pureerosface_v1:0.3)

@@ -1,0 +1,10 @@
+best_quality, highres, extremely_detailed, full_body, 
+1girl, beautiful_face, navel, yellow_hair, messy_hair,
+<lora:VillageSuccubus_v4:0.36>, obscenity_tattoo, electricmage, ((yellow_tattoo, golden_tattoo, glowing_tattoo):1.1), waist_tattoo,
+BREAK
+gigantic_breasts, light_areolae, puffy_nipples, pussy_juice, puffy_clitoris, long_labia,
+cyberpunk, ((exoskeleton, cyborg, mecha):1.1), electricity, (energy_wings:1.1), 
+BREAK
+long exposure, (motion blur):1.2, 
+fluid movement, ethereal atmosphere, 
+dreamy trails, dynamic energy, time-lapse effect,

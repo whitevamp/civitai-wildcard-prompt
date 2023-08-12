@@ -1,0 +1,2 @@
+masterpiece, best quality,realistic,(realskin:1.5),1girl,school,longhair,no_bangs, side_view,looking at viewer,school uniform,realskin
+softlight  <lora:BeautyNwsjMajic-01:0.8>

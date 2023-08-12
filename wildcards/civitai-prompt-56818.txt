@@ -1,0 +1,2 @@
+(masterpiece, intricate details, 8k),
+1girl, yorha no. 2 type b, (ultra-realistic skin), alabaster skin, backlight, iridescence,  small breasts, micro bikini, purple background, <lora:noctuneLora:1>, <lora:2bYorhaNo2TypeBNier_v1:0.7>

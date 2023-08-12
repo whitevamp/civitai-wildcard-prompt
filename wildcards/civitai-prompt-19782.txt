@@ -1,0 +1,7 @@
+highres, masterpiece,best quality, 4k, extremely detailed, pink background, 
+heart symbol,
+1girl, solo, nahida \(genshin impact\), upper body, 
+own hands together, 
+in-game dress, hair ornament, bracelet, cross-shaped pupils, 
+detailed beautiful face, @ @, blush, frown, trembling, :p, wavy mouth, 
+<lyco:nahidaGenshinImpactV3-LyCORIS:0.8>, <lora:Helltaker:0.4>

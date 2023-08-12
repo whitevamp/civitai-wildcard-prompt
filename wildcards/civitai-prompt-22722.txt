@@ -1,0 +1,1 @@
+(best quality, masterpiece, perfect ligthing, bloom, cinematic lighting, brown eyes, detailed eyes, perfect eyes, feminine pleasant face, sits on a chair), defTifa, white crop top, elbow pad, fingerless gloves, suspenders, pencil skirt, black socks, red boots, <lora:3DMM_V11:0.8>,  <lora:tifa-nvwls-v1-final:0.7>

@@ -1,0 +1,1 @@
+<lora:piperperrimeme_v2.0:1> shirtless handsome beautiful young adult man sks person, johnoliver person, sitting, couch, multiple men behind couch, 6+men, indian style, full body <lyco:locon_johnoliver_v1_from_v1_64_32:1.0> , wearing glasses <lora:johnoliver:.4>

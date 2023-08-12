@@ -1,0 +1,3 @@
+masterpiece_portrait, finely_detailed, high_quality_anime, distinct_image, high_resolution, hyper_detail, (perfect_face, perfect_legs, perfect_hands, perfect_fingers),(extremely detailed CG unity 8k wallpaper, masterpiece, best quality, ultra-detailed, best shadow), (detailed background), (beautiful detailed face, beautiful detailed eyes), High contrast, (best illumination, an extremely delicate and beautiful),
+1girl,very long black hair,black japan armor,black Assassin lite armor, long shining sword,full body,inside the cave, Bright ore glistens on the wall,(Standing and cast a spell),look at viewer,close one's eyes,
+darkness,blue light,<lora:eyeLora_eyesV10:0.6> <lora:originalProject_v10:0.4> <lora:robot:0.4>

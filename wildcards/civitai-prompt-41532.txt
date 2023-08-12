@@ -1,0 +1,2 @@
+masterpiece,best quality,highres, ultra-detailed,
+looking at viewer, baseball cap, blowout haircut, flat chest, shirtlift, <lora:shirtliftv3:1>, pink shorts, outdoors, nature, countryside, summer, flower,

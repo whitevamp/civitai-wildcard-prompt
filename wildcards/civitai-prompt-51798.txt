@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),  <lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.8>, <lora:negligee_v10:0.8>negligee,dress, frills,underwear,see-through,navel

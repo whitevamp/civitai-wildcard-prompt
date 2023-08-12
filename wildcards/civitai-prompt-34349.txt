@@ -1,0 +1,1 @@
+mushroom, 1boy, teemo, ^ ^, fur, furry, closed eyes, walking in the mushroom forest, best quality, masterpiece <lora:teemo:1>  <lora:add_detail:1>

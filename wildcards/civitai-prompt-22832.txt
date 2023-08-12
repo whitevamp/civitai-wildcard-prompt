@@ -1,0 +1,4 @@
+professional photo of clementine, brown eyes, solo, dark skin, baseball cap, jeans, shirt, short twintails, open jacket, frizzy hair,  (AS-Younger:1.2),
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:ClementineWalkingDead1-10:0.76:MIDD>

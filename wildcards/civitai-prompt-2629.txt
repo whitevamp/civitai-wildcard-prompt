@@ -1,0 +1,1 @@
+1girl, portrait,  detail face,  Agatha SG,  <lora:ARWgodanubis:1.2>, (godanubis:1.5), (jackal head:1.3),  <lora:leilinggeng:0.5>, (leilinggeng:1.5), male focus, (electricity:1.5)

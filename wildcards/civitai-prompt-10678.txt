@@ -1,0 +1,3 @@
+(RAW photo, photorealistic:1.3, realistic, ultrarealistic, hyperrealistic), masterpiece, 8k, official art, absurdres, highres, high quality, ultra detailed, beautiful and aesthetic, landscape,
+(1girl:1.5),
+<lora:MuCoiv18:0.8>,MuCoi, vietnamese, pith, helmet, green headwear,, (masterpiece,best quality:1.5)

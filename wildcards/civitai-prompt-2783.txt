@@ -1,0 +1,11 @@
+BoPeepWaifu, woman, absurdres,, leaning foward, from above,  detailed light,((cinematic lighting)),very detailed eyes, best quality, beautiful face, ultra detailed, highres, (light rays),best quality,((shortstack:1.6)), very long hair, 
+1girl, (small breasts:1.4),  beautiful,   (average body weight:1.4), ( curvy:1.6), (wide hips:1.3),  , solo,  ((shortstack:1.7)),(skindentation:1.7),(fliying hair:1.4),
+, (blush:1.2), looking at viewer,  thigh gap, shiny skin, long blond hair, cute smile,
+action shot, slow motion, motion blur, face focus, (dynamic angle:1.2), (dynamic pose:1.2), 
+powder-blue, porcelain-like corset-style bodice with puffed sleeves, delicate floral patterns,playful look, neckline  scalloped and trimmed with lace,delicate charm, pale pink skirt,  layered and  ruffled skirt, pastel color palette,
+small, frilly white capelet, whimsy, wide-brimmed bonnet with a light blue ribbon choker, light pink bloomers,carrying a white shepherd's crook, (reddish chest :1.4), (freckles:1.3), tan lines,
+(8k, RAW photo, best quality, masterpiece:1.2), photon mapping, radiosity, 35 mm focal length ,particles, accent lighting, ambient oclusion, film grain, depth of field,
+ravishing,  ,beautiful lighting ,    high detailed, 8k, vivid contrasting colors, chromatic aberration, ,vibrant digital illustration, , behance hd, best quality, (realistic:1.2), (high contrast:0.8),
+shallow depth of field, bloom, (RSEEmma:1.2),
+Volumetric Lighting, accent lighting, extremely detailed CG 8k illustrations, masterpiece, hyper detailed, best quality, ultra high res, high resolution, (intricate details),RSEEmma,
+<lora:add_detail:0.4> <lora:uv:0.3> <lora:FilmG2:0.4> <lora:LowRA:0.3>     <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.5>,     <lora:downblouse-v1:0.1> <lora:BoPeep_character:0.5> <lora:edgNuisette:0.5>

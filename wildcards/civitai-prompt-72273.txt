@@ -1,0 +1,3 @@
+dark magician girl, masterpiece, best quality, detailed,1girl, large breasts,sagging breasts,blonde hair, blue footwear, blue headwear, duel monster, hat, hexagram, long hair, looking at viewer, nail polish, open mouth, pentacle, pentagram, solo, staff, wand, wizard hat,
+yu-gi-oh!,sparkle,
+ <lora:DarkMagicianGirl:0.6> <lora:flat2:-1>

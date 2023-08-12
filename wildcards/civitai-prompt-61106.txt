@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Boy, Mature, Trap, Squatting, (astolfo \(fate\):1.1), (Facing Viewer:1.2),
+Pink Hair, Medium Hair, Streaked Hair, Hair Ornament, 
+Purple Eyes,
+Eqcok, Horse Penis, (Erection, Large Penis, Large Erect Penis, Large Testicles, Sagging Testicles, Resting Testicles:1.1),
+(Pink Skirt, Pink Miniskirt, Pink Microskirt, Purple Hoodie, Striped Thighhighs, Pink Stiped Legwear:1.3)
+(Flat Chest:1.2),
+Outdoors, City, Alley, 
+<lora:EquineCock:1> <lora:aasAstolfoLora_aaAstolfoV4:0.4>

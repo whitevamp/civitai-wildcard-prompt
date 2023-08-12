@@ -1,0 +1,1 @@
+absolute black square, solid black, black background, (dark theme, low key:1.5) <lora:lowra_v10:1>

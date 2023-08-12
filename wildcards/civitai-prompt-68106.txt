@@ -1,0 +1,2 @@
+a woman standing in front of a futuristic city, (fractalized, fractal_environment:1.3),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting,  [:(detailed face:1.2):0.2], medium breasts, outside,  <lora:fractalized:0.5>

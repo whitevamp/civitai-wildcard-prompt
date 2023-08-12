@@ -1,0 +1,7 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharp focus, colorful, 
+SaekiSayoko, solo, 1girl, mature female, cowboy shot, side view, looking at viewer, smile, smirking, blush, sitting, on chair, crossed legs, crossed arms, indoors, room, window, sunny weather, tree, complex background,
+brown hair, long hair, hair bow, hair ribbon, ponytail, makeup, blue eyes, perfect eyes, perfect face, detailed face,
+suit, pencil skirt, thighhighs, high heels,
+curvy, highleg, large breasts, cleavage, thighs, 
+choker,
+ <lora:SaekiSayoko-000010:0.9>

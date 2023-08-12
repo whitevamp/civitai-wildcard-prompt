@@ -1,0 +1,3 @@
+(cave, hills, Dichondra, Floratam, The Peach Tree, Hackberry, white oak, maple tree:0.9), 
+(in style of Adriaen van de Venne:1.1),
+digital art, trending on artstation, detailed, hdr, cinematic

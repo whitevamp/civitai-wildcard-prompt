@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), extreme detailed,(fractal art:1.3),colorful,highest detailed, masterpiece, best quality, 1girl, solo, Chinese clothes, Chinese style, glowing, <lora:Chinese style_20230608155715-000010:0.8>,  <lora:try2:0.9>

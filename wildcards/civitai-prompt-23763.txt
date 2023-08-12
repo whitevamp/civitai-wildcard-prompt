@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:Keyleth_Vox_Machina_v1:0.8> Keyleth, elf ears, freckles, 
+ <lora:OutfitEugenFinalLap:0.8> outfit-eugen, cropped jacket, miniskirt, black thighhighs,

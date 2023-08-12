@@ -1,0 +1,3 @@
+<lora:no121Girl_no121Girl:0.5:face>
+(best quality), (masterpiece), ultra highres, 8k, realistic, (photorealistic: 1.4), from side, highly detailed background, (pureerosface:0.8), 1girl, looking at viewer, ponytail, hair ornaments, (honey blonde) hanfu, jinstyle, jin clothing, standing, medium breasts,  pussy, pussy juice, ((((NSFW)))), bare legs 
+<lora:hanfu2.8:0.7><lora:Velvia1:0.3> <lora:breastinclassBetter_v141:0.2>

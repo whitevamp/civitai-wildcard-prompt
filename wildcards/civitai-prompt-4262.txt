@@ -1,0 +1,4 @@
+ultra-high resolution computer graphics, ultra-high resolution photos, (best quality, masterpiece:1.2), realistic, ultra-detailed, bright, warm light,
+1girl, divine and elegant goddess, pink hair, long lush hair, bun, headband, clear eyes, sexy makeup, (charming blush, detailed lips, nail polish), (pleasure face:1.3, charming smile), (perfect female body, slender forms, thin hips), (small breasts), narrow waist, curvy hips, slender legs, (light and shiny skin, soft and delicate skin), (skirt lift),  
+(prestigious, luxurious, pretentious), garter belt, lace stockings, high-heeled shoes, hair ornament, gorget, necklace, luminous diamond, earrings, bracelet, armband,
+night, red moon, pond, pavilion, bridge, trees, <lora:add_detail:0.4>, <lora:Garterbelt2:0.6>,

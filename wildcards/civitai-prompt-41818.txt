@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, cinematic lighting, sharp focus, depth of field,
+Ingrid, 1girl, solo, mature female, dark-skinned female, dark skin, full body, sitting, on office chair,  crossed legs, office, window, (hand on eyewear:1.1), reading newspaper, office table, computer, window, sky
+determined,
+pink hair, (single hair bun:0.9), glasses, red-framed eyewear, bangs, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, detailed eyes, perfect face,
+(secretary:1.2), striped jacket, bra, (striped skirt:1.1), fishnet pantyhose, high heels,
+large breasts, cleavage, areola slip, (nipple slip:0.8),
+<lora:IngridV2:0.95>

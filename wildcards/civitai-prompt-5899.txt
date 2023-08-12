@@ -1,0 +1,1 @@
+realistic, photorealistic, masterpiece, best quality, MnBNK<lora:MnBNK:0.6>, MnPrt<lora:MnPrt:0.2>, portrait, 1girl, petite, solo, parted bangs, small breasts, monolid eyes, cool_dress, long skirt, standing, (arms behind back), gravure pose, looking at viewer, dynamic angle, subway, colorful neon,<lora:cool_dress_style2_v1:0.65>,

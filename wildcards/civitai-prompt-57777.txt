@@ -1,0 +1,2 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, ((black lace nightgown)), ((small breast)), cold light
+ <lora:Lora_v20:0.5> <lora:zhouzhou_zsyV10:1>

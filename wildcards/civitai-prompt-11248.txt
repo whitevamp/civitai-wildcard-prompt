@@ -1,0 +1,2 @@
+<lora:Nao_LoRA:1>, 1girl, black choker, brown eyes, choker, hair ornament, hairclip, black hair,, absurdres, business suit, crazy look, crazy eyes, yandere, sweating, crying, blushing, blazer, black necktie, white collared shirt, (brown eyes), adul girl, medium breast,  1boy, blue hair, (spread legs:1.3), (side fellatio:1.2), Sloppy Fellatio, (penis:0.9),<lora:Sloppy Fellatio LoRA:0.9>,  (cum in mouth:1.4), sperm,
+<lora:SideFellatio:0.5>

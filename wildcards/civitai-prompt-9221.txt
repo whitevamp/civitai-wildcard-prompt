@@ -1,0 +1,3 @@
+mecha,
+mj3d style,3dmm,3d
+ <lora:3DMM_V11:1>

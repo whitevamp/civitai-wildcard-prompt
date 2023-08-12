@@ -1,0 +1,4 @@
+public_nudity, (full_body:1.4), 1girl, naked, standing,
+wavy shoulder-length hair, serene, calm, full_frontal, nsfw, small breasts, navel, shaved_puccy, outdoors, street,
+(realistic detailed eyes, natural skin texture, realistic face details),
+soft dramatic lighting, depth of field, bokeh, vibrant details, finely detailed, hyperrealistic, 35mm film, hazy blur, flimg, <lora:FilmG3:0.8>

@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.1), <lora:MISC-GlossyFace:0.3>  cleavage, smile, :),  <lora:CHAR-Jane:0.5>, (JaneWaifu:1.4), yellow dress, detailled eyes, sensual,  jungle, ocean, island, desolated, stranded, sunset, beautiful light, (see-through:1.2), hair bun,

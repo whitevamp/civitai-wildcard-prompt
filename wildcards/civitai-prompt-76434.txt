@@ -1,0 +1,1 @@
+(masterpiece, best quality),  <lora:add_detail:0.5>, ((1girl, solo, long hair)), Ishmael_limbus, <lora:ishmaelLimbusCompany_v1:1>, innocence expression, bare arms, bare shoulders, bare neck, watercolor, sundress, liquid clothes, water, waves, water dress, <lora:LiquidClothesV1:1>, blue_theme, night, mist, dark, sharp focus, sea, see-through dress, orange hair

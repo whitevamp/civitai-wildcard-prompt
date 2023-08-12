@@ -1,0 +1,6 @@
+masterpiece, best quality, detailed, intricate,
+(1boy:1.2), sport tights, bare legs, white socks, torn clothes,
+muscular male, abs, big pectoralis, shiny skin, sitting, spread legs, 
+detailed face, naughty face, black eyes, short black hair, shiny blue necklace, eye reflection,
+street, chair, cafe, sunlight, from below, 
+<lora:handsomeMan_v10:0.3> <lora:cute boys3:0.68>

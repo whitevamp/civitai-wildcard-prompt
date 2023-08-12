@@ -1,0 +1,1 @@
+(masterpiece, best_quality:1.2), 1girl, solo, (seaweed barista:1.1), (at a moist bar:1.1)(full body:1.4), nice hands, black hair with crimson highlights, ahoge,drill hair, [:creative, revealing costume design:0.2]<lora:GoodHands-beta1:1>

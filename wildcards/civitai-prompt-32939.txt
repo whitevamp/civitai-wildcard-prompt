@@ -1,0 +1,1 @@
+(masterpiece, best quality, (full body:1.4),beautiful and aesthetic:1.2), pubic_hair,1girl, black thighhighs, lipstick, high heels,Rows of buildings, streets，<lora:nvnu_20230719024651:0.6>,nvnu, nsfwEM, <lora:add_detail:0.8>

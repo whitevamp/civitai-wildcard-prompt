@@ -1,0 +1,1 @@
+shuimobysim, girl, woman,bare shoulders, (ecchi0.5), (trees:0.5), (flowers:0.6) ,(birds:0.2), (bamboo0.1), lakes, Hangzhou, wuchangshuo, wuchangshuo in background <lora:shuimobysimV3:0.8>

@@ -1,0 +1,3 @@
+a biomechanical  girl with cybernetic body
+ ultra high res, (photorealistic:1.4), (masterpiece, top quality, best quality),mshn
+ <lora:epiNoiseoffset_v2:1> <lora:mshn:1> <lora:add_detail:1>

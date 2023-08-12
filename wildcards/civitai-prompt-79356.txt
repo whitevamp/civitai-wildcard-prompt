@@ -1,0 +1,1 @@
+masterpiece, best quality, gawr gura, tail, shark tail, blue hoodie, shark print, shark hair ornament, hood, hood up,  <lora:gawrGuraHololive_v3:0.8>, Beautiful Art Style, 1girl, young woman, panama hat, talented, moon, pet play,    slime, pink, white, green, yellow, transparent,  <lora:sticky:0.8>,  <lora:Stallion-10:1.2>

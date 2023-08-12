@@ -1,0 +1,5 @@
+ASCIIclose up view of a (sks woman:1) walking inside an abandoned space station,
+sci-fi, horror, intricate details, high contrast,
+(artwork by Beksinski, methurlant),
+<lora:methurlant:0.6>,
+<lyco:locon_emmastone_v1_from_v1_64_32:1.4>

@@ -1,0 +1,6 @@
+(masterpiece, best quality, high resolution), absurdres, intricate details, realistic, lens flare, glitters, (detailed shining light blue eyes:1.2), looking at viewer, (cowboy shot, from side), sun lighting, bluesky, <lora:add_detail:0.5>
+BREAK (delicate hair, detailed shining light blue hair blowing in wind:1.3), beautiful face, light smile
+BREAK (kawaii cute maid 1gir, upward watering wide garden with blue vinyl hose, long hose in hand:1.3), (delicate best hands)
+BREAK silky airy smooth fluffy black lace maid dress, frills, (large breasts, cleavage), detailed skin
+BREAK (gorgeous transparent lace:1.3), (dynamic pose:1.2), lively atmosphere
+BREAK (English garden, vibrant colors, lots of red flowers blooming, sun-dappled flowers, radiant blossoms, serene oasis), (upward water discharge arches over, upward water discharge creates a rainbow:1.2)

@@ -1,0 +1,1 @@
+<lora:schoolmax25d_11:0.8>, <lora:kobeni_v10:0.3>,1 girl in school gym, full body, indistinct nipples, detailed clothes, light and thin gymnastics wear, (delicate illustration:1.4),(masterpiece:1.0), (best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (8k, RAW photo:1.2), (soft focus:1.4), (18yo:1.3), (sharp focus:1.4), (renaissance art:1.4), detailed beautiful face

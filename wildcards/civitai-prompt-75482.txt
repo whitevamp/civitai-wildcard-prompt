@@ -1,0 +1,2 @@
+isometric chinese style architecture,water pool,clouds,sparkles,
+<lora:Isometric_Chinese_style_architecture_v01:0.5> <lora:toon_mix:0.5>,

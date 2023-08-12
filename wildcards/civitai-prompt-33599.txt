@@ -1,0 +1,8 @@
+(masterpice, best quality, high quality, highres:1.4), extremely detailed, detailed skin, soft skin, ambient soft lighting, 4K,
+1girl, solo, upper body, standing, toga himiko, (v:1.2), 5 fingers,
+blonde hair, double bun, messy hair,
+yellow eyes, long eyelashes, thick eyelashes, looking at viewer, (bags under eyes:1.1),
+(evil smile, evil grin:1.2), fangs, open mouth,
+playboy bunny, black leotard, rabbit ears, pantyhose, sleeveless, strapless, cameltoe,
+indoors, stage,
+<lora:himiko-toga-locon:1>

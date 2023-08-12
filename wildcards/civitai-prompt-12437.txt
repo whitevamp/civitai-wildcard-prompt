@@ -1,0 +1,5 @@
+((best quality, masterpiece)),
+
+
+ <lora:OnALeash-v1:0.8> girl, ((leashed)), looking down, , chain, collar, nsfw, ((naked )), ((japan):1.1), ((kneeling):1.3), ((arms behind head):1.2), (crowd looking at viewer),
+

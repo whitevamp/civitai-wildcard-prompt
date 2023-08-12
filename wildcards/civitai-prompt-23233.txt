@@ -1,0 +1,8 @@
+best quality,<lora:add_detail:0.3>,  (church background, wedding, 2girls, duo, yuri, adult female, mature female, looking at each other, height difference),
+AND
+(Caucasian:1.2), (2girl, duo, yuri, adult female, mature female, height difference),
+<lora:character_twilightSparkleEqG_(mlptwilight--striped shirt--skirt--glasses):1>, mlptwilight, purple eyes, blue hair, multicolored hair, (pink hair stripe:1.1), long hair, mlptwilight hair,
+(tailcoat:1.5, coattails:1.5, coat tails:1.4, black tie outfit),  black bow-tie, (pants, woman wearing black tuxedo, large breasts), smile, tight clothes, tight pants, (church background, wedding), looking at each other, purple corsage, very tall
+AND
+(2girl, duo, yuri, adult female, mature female, height difference),
+<lora:character_sunsetHumanMLP_(SunsetHuman):0.9>, multicolored hair, yellow hair, red hair, large breasts, wedding dress, veil, (church background, wedding), looking at each other, jewelry, makeup, smile, tears, happy,

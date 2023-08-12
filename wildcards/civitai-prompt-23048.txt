@@ -1,0 +1,5 @@
+(hdr, highly detailed, detailed skin, hyperrealism), natural lighting, portrait photography, vivid colors,
+1 girl, 18 years old, beautiful, cute face, (brunette, black hair), short hair, twin tails, skinny, european, ((small breasts)), freckles, (sun dress), white headband, chain necklace, bracelets, diamond earrings, eyebrow piercing, flowers in hair,
+dynamic pose, sitting, smiling, looking at viewer,
+city background, sidewalk, alley, dark alley, sunset, clouds, (pink flowers, cherry blossoms, cherry blossom trees), 
+<lora:add_detail:1>,

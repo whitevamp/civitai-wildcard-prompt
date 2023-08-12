@@ -1,0 +1,2 @@
+girl,kitty,dreamer, whimsical, wide-eyed, blushing face, rainbow braids, playful,oversized sweater, kawaii coverage, cotton,magic kingdom, park, joy, quest, 
+<lora:c4ttitudeflexver:0.5>  <lora:OC:0.15>  <lora:PerfectNwsjMajic_4:0.5:FACE0.5>

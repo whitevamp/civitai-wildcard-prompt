@@ -1,0 +1,1 @@
+<lora:add_detail:1>, <lora:GoodHands-vanilla:1>, best quality, masterpiece,  j1nx101,1girl,   <lora:jinx-03:1>, crop top,

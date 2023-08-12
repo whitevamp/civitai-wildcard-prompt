@@ -1,0 +1,2 @@
+close up,  civtypr , outdoors, sunny, (LEDs:1.1), lights, RTX reflections, water puddles, tyre smoke
+ <lora:CivicTypeRsmall:0.9>

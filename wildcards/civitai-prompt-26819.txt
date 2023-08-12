@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),  brown eyes,  (cowboy shot:1.5), skinny body,  outdoors, convenience store, medium breasts, (yeji), looking at viewer, brown eyes,
+, outfit-gantz, latex breast curtains, black panties, <lora:OutfitGantzLatexBreastCurtains:0.9>,
+ 1girl,   <lora:YejiV6:0.45> , <lora:YejiV6_2_onSD1.5:0.25>,
+<lora:add_detail:0.7> ,<lora:detailed_eye:0.4> ,<lora:Mild detail adjusterV10:0.3>  ,<lora:jtz:0.2> ,

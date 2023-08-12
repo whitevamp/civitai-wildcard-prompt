@@ -1,0 +1,2 @@
+sadcatmeme sitting on the (moon:1.3) and looking at viewer, high angle shot, viewer at sky, space, grayscale
+ <lora:SadCatMeme_V10:1>, [32k|16k|best-quality], professional photo, (centered-in-frame:1.2)

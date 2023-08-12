@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, shantae, very long hair, braided ponytail, headdress, gold bikini, armlet, bracelet, thigh band, ruins, Aztecan, statue(snake), serious expression, altar, looking at viewer   <lora:shantae-nvwls-v1-final:0.8>,  <lora:coils_v0.1:1>, ((coils)), purple snake, medium size boobs

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,        <lora:NamiFinal:0.8> NamiFinal, nami \(one piece\), 
+ <lora:bikini_jeans:0.8> bikini jeans, <lora:add_detail:0.6> <lora:Elixir:0.8> <lora:more_details:0.4>

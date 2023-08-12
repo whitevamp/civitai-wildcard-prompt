@@ -1,0 +1,1 @@
+masterpiece, best quality, absurdres face texture, hyperrealistic, photorealistic, 8k raw full body photograph from_below, foreshortening, beautiful 1girl smiling, short fluffy black hair, ultra highly detailed blue eyes, wearing grey gym_outfit, pink leggings, cameltoe, <lora:gym_outfit-10:0.5> <lora:FilmgirlLora_v40:0.6> <lora:fromBelowPOV_v1:1.2>

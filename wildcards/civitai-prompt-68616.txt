@@ -1,0 +1,4 @@
+best quality, masterpiece, ultra high res, photo, photorealistic, highly detailed, detailed face, (realistic:1.1), (high quality), necklace,
+charming, alluring, dreamlike, 2girls,
+((long hair)), (black hair), ((long bangs)), bathtub, <lora:SleepHug:1>, wpega, hug, two Woman sleeping embraced, ((breast sucking)), 
+medium breasts, <lora:EuroDoll:0.2>, ((wet skin:1.2)),

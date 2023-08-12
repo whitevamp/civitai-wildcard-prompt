@@ -1,0 +1,3 @@
+(masterpiece, best quality, ultra-detailed, highres), perfect face, sidelighting,  lustrous skin, standing, white lace, blue theme, fantasy, bikini, lace, white thighhighs, ((lace trim)), ((string biniki)),
+(bloom), (shine), lighting, ray tracing, ((science_fiction)), outdoor, depth_of_field, night, winter, 
+<lora:shenheLoraCollection_shenheMedium:0.4>, shenhe \(genshin impact\), silver eyes ,  hair over one eye, (hair ornament) , breast curtain, high heels, long hair, braid

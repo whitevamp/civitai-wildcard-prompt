@@ -1,0 +1,1 @@
+(Hetero:1.103),(masterpiece:1.216), (lens 135mm f1.8:1.216), (hyper extreme detailed body:1.341), (finely detailed beautiful eyes and face:1.341), (high resolution:1.552), (best quality:1.552),1girl,((solo)),, <lora:girlsFrontlineOts14_v30:1>,redgown, <lora:JackOPoseFront:0.8>, jack-o' challenge, flexible, spread legs, top-down bottom-up,

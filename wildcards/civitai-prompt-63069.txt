@@ -1,0 +1,2 @@
+(best quality, highres, sharp focus, cinematic lighting), <lora:MarblingAI:0.9>,
+A cosmic hooded figure made entirely of glowing MarblingAI stars and galaxies, creating the Earth in its hands.

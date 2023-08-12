@@ -1,0 +1,4 @@
+(Best Quality:1.6), (Masterpiece:1.2), Highres, Absurdres, Detailed, Intricate,
+(Detailed Saloon:1.4), Rough Cowboy Western RPG Character Poncho Holster Sombrero ,
+rich colors, hyper realistic lifelike texture, dramatic lighting, Subsurface Scattering, <LoRA:Jordan_3:0.45>, (smile512:0.45),
+HDR, Cinematic Scene, Volumetric Lighting, Specular Lighting, Ultra Realistic

@@ -1,0 +1,5 @@
+(highres:1.2), (masterpiece:1.2), (best quality:1.2), full body shot, seductive, hyperrealistic, detailed skin texture, detailed cloth texture, beautiful detailed face, intricate details, ultra detailed, cinematic light, ultra high res, 8k uhd, film grain,best shadow, delicate, RAW, dramatic lighting, god rays, fog
+(1girl:1.3), adult, (imperfect skin:1.2), (freckles:1.4), female, looking at viewer, portrait, torn cleavage, nipples, (red hair:1.5)
+ <lora:firekeeper2:1.1>, (medium boobs:1.4), (firekeeper),   <lora:add_detail:0.8>,   <lora:Elbow Squeeze LoRA:0.75>, arms up, (elbow squeeze:1.3), breasts squeezed together,  (RSEEmma:1.3), <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>
+(castle ruin background),
+ <lora:breastinclassbetter_v141:0.2>

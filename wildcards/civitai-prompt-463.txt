@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,(upper body:1.2),
+1boy,green water,oxygen mask,closed eyes,sitting,shirtless,
+<lora:son_goku_offset:0.8> son goku, black hair,
+<lora:cultivation_tank_lora01:0.8> cultivation tank, underwater, Institute,round glass,
+<lora:anime_minimalist_v1-000020:-0.1>,
+<lora:flat2:-0.5>,

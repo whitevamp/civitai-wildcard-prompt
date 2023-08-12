@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:Sakura, boruto, red sleeveless dress, hairband, crest:0.8> Sakura, 1girl, dynamic pose 
+ <lyco:edgNuisette, nuisette, floral embroidery, lace, fur:0.7> edgNuisette, nuisette, floral embroidery, lace, fur, veil
+BREAK
+(gorgeous view)

@@ -1,0 +1,1 @@
+dial, from_above, analog_clock, , roman_numeral, dodecagon,     <lora:artdecoai_v10:0.71> ArtDecoAI,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),

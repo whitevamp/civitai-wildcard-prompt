@@ -1,0 +1,1 @@
+Shinsengumi Haori  samurai wearing (robe:1.2) cape,(CYBERDOG:1.4) <lora:Shinsengumi_Haori:0.5> fcPortrait <lora:NijiExpressV2:0.4> <lora:add_detail:0.3> <lora:Cyber Dog:0.8> <lora:FINAL Robort:0.5>

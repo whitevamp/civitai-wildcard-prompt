@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.4), 1girl, tatsumaki, (green slingshot swimsuit:1.2), green hair, short hair, beach, sunny, sand, sandcastle, waves, blue ocean, wallpaper, 8k, <lora:Tatsumaki-v11:0.75>, <lora:slingshot:1>, (nice feet, perfect feet:1)

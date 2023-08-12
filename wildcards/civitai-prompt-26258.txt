@@ -1,0 +1,1 @@
+solo, outdoors, abstract, colorful, 1girl, no humans, scenery, water  <lora:water_20230709214459:0.75>

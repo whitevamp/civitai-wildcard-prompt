@@ -1,0 +1,4 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), (1girl:1.3), extremely detailed, photography, 8k, finely detailed,
+mix4, (sitting on carpet, wearing a white shirt, tight-fitting pencil skirt, and 20 denier black pantyhose.:1.2), (extremely detailed leg), (long legs:1.1), (full body:1.3), 
+beautiful detailed eyes, blush, big boobs, looking at the viewer,<lora:cuteGirlMix4_v10:0.75>,
+night, dark, perfect lighting

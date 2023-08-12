@@ -1,0 +1,2 @@
+best quality, intricate details,
+1boy,  <lora:yugiMuto_v10:0.8> yugi muto, black hair,  jacket on shoulders, sleeveless shirt, blue pants,

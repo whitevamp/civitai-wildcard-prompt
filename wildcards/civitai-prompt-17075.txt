@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.25>, (1girl, solo, adult female, mature female), <lora:detailed_eyes:1>, <lora:concept_goodHands:1>, 
+<lora:style_liquidGold_(LQDGOD):0.8>, LQDGOD,
+<lora:character_harunoSakuraNaruto_lykon:0.65>, haruno sakura, pink hair, green eyes, LQDGOD embroidery, LQDGOD trim, red dress, LQDGOD forehead mark, dress, smile, LQDGOD makeup, [biceps, leg muscles]

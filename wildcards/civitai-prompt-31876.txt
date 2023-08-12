@@ -1,0 +1,5 @@
+Thog,  blonde hair,  long hair, blue eyes,  standing, upper body,  solo,  lips,   muscular, 
+ThoAttire, bone jewelry,hoop earrings ,cleavage ,high heels, bone bra, underwear, bone hair ornament,  arm bands, 
+jungle, 
+cartoon, 
+(insanely detailed, beautiful detailed face,  masterpiece, beautiful detailed  eyes, best quality)   <lora:Thog:0.8>

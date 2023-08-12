@@ -1,0 +1,3 @@
+cover art, in the style of cyberpunk dystopia, virtual reality, realist detail, anime,
+best quality, high quality, absurdres, intricate detail, masterpiece, highly detailed, beautiful,
+<lora:add_detail:0.75>

@@ -1,0 +1,1 @@
+(well defined elven female:0.7),(masterpiece:0.3),(absurdres:0.4),(deep woods:0.4),<lora:Loraeyes_V1 Tag:0.6>,(sexually suggestive:0.3),(seductive:0.4),(sex pose:0.4),(night:0.4),(starry sky:0.4),(deep woods:0.4),(autumn:0.3),(nsfwEM:0.3),<lyco:qqq-lovely_pussy-v2-05:0.4>,

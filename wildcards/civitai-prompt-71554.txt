@@ -1,0 +1,1 @@
+a photo of a rusty tslas (zeekars), 3/4 front view, survival, post-apocalyptic, armored, cyberpunk, wide angle action shot,  steel plates, outdoors, night, road, destruction, urban decay, masterpiece, photorealistic, 8k, high detail, dark theme, <lora:epiNoiseoffset_v3:1.6> <lora:zeekars:.7> <lora:TeslaModelS:.4>

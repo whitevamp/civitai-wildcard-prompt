@@ -1,0 +1,11 @@
+(masterpiece, best quality), 1 beautiful girl, cute Asian girl, slutty, solo, (wearing mascara, wearing eyeliner, wearing eye shadow, sharp eyeliner), tall, (skinny, slender, slim), beautiful lighting
+,(beautiful masterpiece illustration, pinup illustration, pinup girl:1.1), plain white background, no background
+,long wavy blonde hair
+,high heels, high heel platform shoes, shoes fetish, fetish shoes, ultra tall chunky platforms under shoes
+,(shiny glossy latex, latex, latex fetish:1), (ultra glossy latex:1.1),
+,[ (hobble_lpskirt, longest_lpskirt, long_lpskirt:1.7): (hobble_lpskirt, longest_lpskirt, long_lpskirt:1): 0.75], latex_lpskirt, high_waist_lpskirt, (long black latex lp_skirt:1)
+,[<lora:lpskirtV1:0.5> : <lora:lpskirtV1:0.1>: 0.9], a woman wearing a long black latex pencil skirt with corset belt, latex skirt
+,black latex thigh highs, (latex nun, latex nun uniform, uniform fetish, nun fetish:1.2), black latex gloves
+,high heels, high heel platform shoes, shoes fetish, fetish shoes, ultra tall chunky platforms under shoes
+, (small but ultra round fake tits, ultra round fake breast implants:1.2)
+,<lora:latex_shiny_sissy_dress:0.4>, shiny sissy luxury latex dress for doll

@@ -1,0 +1,6 @@
+(close-up, editorial photograph of britneyspears-smf),  a girl standing , smirk,  blond, pig tails,   dark night, film grain, depth of field, analog film style, vivid color, 1girl,  upper body, 
+(looking at  the viewer:1.3), concert lights, pop star, 
+Vibrant Color Palette, bold and saturated, emotional impact,vivid, with strong contrasts, vivid, with strong contrasts, from bellow,  creative and stylized lighting, movie screenshot, neon, colored gels, dramatic shadows, dreamlike ,  cinematography, lens flare, 
+mist, gritty, movie still, state fair,  fog, (night, dark, dark photo, grainy, dimly lit:1.3),  best quality, high quality, (realistic), (absurdres:1.2), UHD, ultrarealistic, noise<lora:JPfilmColor_Heavy_grain:0.7>
+<lora:FilmG2:0.5>
+<lora:britneyspears_smf_lora_02-000002:0.55>

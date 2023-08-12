@@ -1,0 +1,3 @@
+artoria pendragon \(fate\), armor, (excalibur \(fate/stay night\), sword, holding sword,((masterpiece,best quality )),
+fx_meme ,night,outdoors,lake,smile,
+ <lora:Artoria_Pendragon-000019:0.7>, <lora:merrytail_forex-meme_v02-13:1.1>

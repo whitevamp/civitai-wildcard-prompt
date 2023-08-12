@@ -1,0 +1,3 @@
+best quality, face focus, soft light, (depth of field) ,ultra high res, (photorealistic:1.4), RAW photo, (portrait:1.4) ,(from side:1.2)
+1japanese girl, solo, cute, (shy, smile:1.1), (brown eyes),  detailed beautiful face, (short_hair ), japanese-style room
+(silk kimono:1.4) <lora:japaneseDollLikeness_v10:0.3>

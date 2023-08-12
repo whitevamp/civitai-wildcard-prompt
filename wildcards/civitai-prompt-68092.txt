@@ -1,0 +1,4 @@
+masterpiece, 1 Man, Look at the camera, Minor muscles, (Body hair:1), Light fat, Bulging underwear, Light blue sky, Clouds, Outdoor, (White flowers:1.1), A sofa sitting among the flowers, Sit in a straight posture, mid_shot, best quality
+<lora:ChineseMaleLikeness3:0.3>
+<lora:Pantybulge_v10:0.5>
+<lyco:Takas-40:0.3>

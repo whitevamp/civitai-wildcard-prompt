@@ -1,0 +1,2 @@
+masterpiece, 1girl, solo, maetel, long hair, blonde hair,fur trim, black headwear, fur hat, black dress<lora:otoyomegatari:1.1>, greyscale, monochrome, halftone, drawing, manga, (otoyomegatari),
+<lora:add_detail:2> ,face focus, pov <lora:maetel:0.5> in train, cowboy shot, from above,

@@ -1,0 +1,15 @@
+masterpiece, best quality, highly detailed, high detailed, hyper detail, dslr, ultra quality, ultra realistic, photorealistic, sharp focus, tack sharp, dof, film grain, Fujifilm XT3, crystal clear, 8K, UHD, Canon EOS R3, nikon, f/1.4, ISO 200, 1/160s,  best quality, ultra high res, raw photo, lifelike rendering, immersive atmosphere,  ultra high res,
+(soft lighting, smooth light, even light, ray tracing, low contrast, soft light,:1.2)
+looking at camera,looking at viewer,
+detailed skin, natural skin texture, detailed skin, skin pores,
+(1girl, solo, platinum blonde hair, two pigtails, bangs, medium hair, heavy makeup, wearing tartan-micro-skirt, wearing a black-bra, wearing a red tie, large cleavage,  small bra, in library, black-stockings, tiny bra, slutty schoolgirl, Hogwarts, harry potter,smiling, smirking, happy, big smile, 1.4),
+(1girl, solo, large breasts:1.3),
+<lora:more_details:0.2> , <lora:pureSexy:0.1>,
+ Asian-Less,  Asian-Less-Toon,
+(A WOMAN HOLDING TWO DICKS,
+2MEN,
+SUCKING DICK,
+SUCKING COCK,
+KNEELING,
+CUM:1.4)
+<lora:DoubleDick:0.5>

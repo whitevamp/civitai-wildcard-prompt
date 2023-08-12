@@ -1,0 +1,6 @@
+bladenun hairstyle, outfit-bladenun, 1girl, (blindfold), breasts, long hair, solo, large breasts, blonde hair,sitting, very long hair,
+(wide hips:0.5), (thick thighs:0.5)
+lifelike,nsfw,
+Striking Imagery, Bold Composition, Dynamic Movement,
+beautiful and aesthetic, masterpiece, best quality,
+<lora:outfit-sword_maiden-pynoise:1.1>

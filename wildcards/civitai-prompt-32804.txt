@@ -1,0 +1,3 @@
+a cat,  
+art, nty, drawing,  miniature, minimalism
+<lora:Test1:0.88>, pixel art, 8bit, aliasing, contrast, complex stuff

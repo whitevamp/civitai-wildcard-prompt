@@ -1,0 +1,8 @@
+best quality, realistic, highres,masterpiece,photorealistic,
+1girl,gorgeous goddess, deity,queen,flawless,sexy,charming,seductive,erotic, alluring, enchanting, nsfw,
+perfect female body,mature female,shiny skin, skindentation, narrow waist, policewoman,
+huge breasts, puffy nipples, lactation,pubic tattoo, nipple piercing, navel piercing, belly chain, nipple chain,
+picture-perfect face,perfect face, beautiful face,(looking at viewer),absurdly long hair, glowing eyes,parted lips,saliva trail,drooling,facial, jitome,
+high heels thigh boots,lace-trimmed fishnet, (police uniform:1.3), police hat,lace-trimmed garter belt, see-through, open jacket,lace-trimmed panties, shoulder board,necktie, police jacket, 
+police car, handcuffs, police whip,police pistol,police badge,
+ <lora:koreanDollLikeness_v15:0.2>

@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette, (depth),  <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+(1man, masculine adult portuguese male:1.2),  aquamarine eyes, light blonde hair, straight hair,
+ solo, upper body, looking up, detailed background, detailed face, (<lora:Unholy:0.5>, Sc3pt4, scifi theme:1.1), glowing eyes, raven-guardian, harbinger of the raven-lord, dark feathers, wearing tattered feathered robe, hood,  stoic,  calm posture,  raven-themed tattoos,  swirling black feathers floating in the air, echoes ,    crows flying in background, skulls in background, dusk, starlit night sky,  stormclouds gathering, sinister atmosphere,

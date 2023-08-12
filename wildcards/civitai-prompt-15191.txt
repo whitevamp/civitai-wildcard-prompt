@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:kiryu_coco_v1:0.8> hmcoco, drill hair, side drill, side ponytail, streaked hair, horn bow, hair flower, detached collar, cleavage, off shoulder, red kimono, japanese clothes, yukata, floral print, bandages, detached sleeves, wide sleeves, sarashi

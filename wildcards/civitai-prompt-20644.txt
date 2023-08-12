@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, slingshot swimsuit, one-piece swimsuit, standing, cowboy shot, outdoors, pubic hair, bare shoulders, <lora:micro_slingshot_v1:0.8>, hm2b, black blindfold, covered eyes, mole under mouth, medium breasts,  <lora:y2b_v2-1:0.6>

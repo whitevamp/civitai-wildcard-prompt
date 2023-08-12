@@ -1,0 +1,7 @@
+beautiful face, delicate, elegant, lips half open, blue eyes, piercing eyes, royal features, seductive, catchlight, reflection in eyes
+photo, 1girl, petite, delicate elven woman, thin, thigh gap, thin waist, small breasts, transparent tunic, elaborate, lace, ornate, silver, necklace,  jewellery, belt, boots,
+winter palace, marble, elegant, shiny, royal, windows, candles, sunlight, natural light,
+(wearing deep_v-neck_dress:1.2), (nsfw)
+(Award winning), (realistic, photo-realistic:1.4)
+(Good Highlights)), (Perfect Proportions), (dynamic), ((dramatic)), (intricate),
+photorealistic, realism,  natural colors, desaturated, sharp, high details, insane details, <lora:epi_noiseoffset2:0.3> <lora:add_detail:1> <lora:deep_v-neck_dress:0.6>

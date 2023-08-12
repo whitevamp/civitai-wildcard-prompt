@@ -1,0 +1,5 @@
+Selina,solo,lips,short hair,black hair,brown eyes, looking at viewer, 
+Kyle,goggles on head,boots,head cap with cat ears,armor,gloves,bodysuit,belt,collar,thigh boots,choker, inner thigh cutout,
+ upper body,  solo,  standing, close up, smug,   
+  night, stars, rooftop,  Gotham city, 
+(insanely detailed, beautiful detailed face, masterpiece, best quality)    <lora:catwoman:0.8>

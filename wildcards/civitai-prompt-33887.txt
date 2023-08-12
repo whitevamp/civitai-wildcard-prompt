@@ -1,0 +1,19 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, top-down bottom-up, large windows, indoors, close up,
+brown hair, long hair, orange eyes, eyes reflection, saliva, licking, tongue, full blush, looking at another,
+anus, pussy, pussy juice, cameltoe,
+steam, sweating profusely, heavy breathing,
+looking down, <lora:looking_down:0>,
+ass grab, rimjob, <lora:Rimjob_AnilingusUpsideDown:0>,
+hat, topless, bottomless, hutaodef, <lora:hutao1_000009:0.75>
+AND
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, top-down bottom-up, large windows, indoors, close up,
+blue hair, short hair, yellow eyes, eyes reflection, shy, full blush, looking at another,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+steam, sweating profusely, heavy breathing, skindentation, thick thighs,
+looking down, <lora:looking_down:0>,
+rimjob, <lora:Rimjob_AnilingusUpsideDown:0>,
+legwear, topless, bottomless, xianglingdef, <lora:xiangling1_000011:0.75>

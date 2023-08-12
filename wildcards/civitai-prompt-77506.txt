@@ -1,0 +1,1 @@
+<lora:Kizuki - Haganai - Takayama Maria:0.85>, best quality, masterpiece, dynamic pose, 1girl, takayama maria, silver hair, blue eyes, long hair, nun, looking at viewer, outdoors, pouting, mad, playing outside, from above, (AS-Adult:1.2),  <lora:Squeezer2:-0.5>,

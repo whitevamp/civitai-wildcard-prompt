@@ -1,0 +1,6 @@
+<lora:BCfilmmixV1:0.8>, masterpiece, best quality, realistic, photorealistic, ultra detailed, extremely detailed face, cinematic lighting,
+1girl, (full body:1.4), solo,
+earrings, shy, (silver medium Gradient hime_cut:1.7), (crimson t-shirt:1.6), small_breasts,
+<lora:unpants.v1.0:0.9>,(UNPANTS:1.8), nsfw, (no_panties), (puccy, hairless_puccy:1.3),
+(amusement_park:1.2), midnight, neon lights, blurry background, bokeh,
+nikon RAW photo,8k,Fujifilm XT3,

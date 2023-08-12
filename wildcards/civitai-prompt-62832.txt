@@ -1,0 +1,3 @@
+masterpiece, highly detailed, (intricate details:1.12), hdr, (hyperdetailed:1.15), (natural skin texture, sharp:1.2), detailed eyes, detailed pupils,
+ <lora:Wattson:0.8>, Wattson, 
+1girls, solo,  subject centered, grand canyon background, blue eyes, scar on cheek, burn scar, blonde hair, short hair, bobbed hair, blonde bangs, orange jacket, hooded jacket, blue shirt, white suit, hands, blue gloves

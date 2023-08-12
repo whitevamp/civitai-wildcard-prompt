@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, PepePunchMeme, <lora:PepePunchMeme:1>, 1girl, Maria solo, blue eyes, blond hair, long hair, shirt, white shirt, denim microshorts <lora:Maria:1.2> <lora:GoodHands-beta2:1>

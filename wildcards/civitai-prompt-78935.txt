@@ -1,0 +1,2 @@
+(best quality), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,stunning skin details,sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), fantasy,(black and (red) tone impression)
+A man cradles a lifeless girl in his arms, standing amidst a tumultuous ancient battlefield in China <lora:add_detail:1> <lora:Smoke:0.8>

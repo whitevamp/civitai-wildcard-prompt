@@ -1,0 +1,2 @@
+fairy, butterfly_wings,gem,vibrant colors,environment ,soft lighting,light and shadow,, upperbody, in the forest, mysterious, waterfall, night, moon, (long hair, straight hair, white hair:1.4)
+<lora:Flower_fairy:0.6>

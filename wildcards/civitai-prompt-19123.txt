@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination, 
+1girl, rin shibuya, black hair, (green eyes:1.5), long hair, happy,
+black skirt, black socks, collared shirt, green necktie,  long sleeves, miniskirt, necktie, pleated skirt, school uniform, shirt, skirt, striped, striped necktie, white shirt, wing collar,
+beach, sunbeam, bearfoot,
+<lora:rinshibuyatest:0.8>

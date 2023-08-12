@@ -1,0 +1,8 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), standing, hands on hips, from below,
+very short hair, pixie cut,
+looking at viewer, looking down,
+smile, closed mouth,
+small breasts,
+(black jacket:1.2), black pants, collared jacket, open jacket, headphones,
+outdoors, park, winter, snow, snow flakes,
+<lora:Tomboy:1>  

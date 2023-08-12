@@ -1,0 +1,2 @@
+monochrome a portrait photograph of a black ((24 year old)) woman, (skin pores:0.8), award winning photo, best quality, portrait by annie leibovitz, canon 5d mark ii, film, professional photograph, (contrast:1.1), hyper realistic, lifelike texture, (natural lighting:1.1), (Canon EF 85mm f/1.4L IS USM), black studio, hard low light,
+  <lora:FilmVelvia2:0.7>

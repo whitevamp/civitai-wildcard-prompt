@@ -1,0 +1,1 @@
+masterpiece, best quality, (photorealistic:1.4), 1girl, photo from the side, full body shot, a beautiful woman, (school girl uniform,no panties:1.2), (skinny, athletic:1.1), afro, (blonde hair:1.1), detailed face, smiling, red lipstick, big lips, (big breast, perfect breast:1.1), cinematic light, <lora:add_detail:0.8>, <lora:hairdetailer:1>, skirt lift, <lora:skirtlift-v4:0.8>

@@ -1,0 +1,3 @@
+(realistic:1.2), (intricate:1.3),analog style,  (film grain), (warm hue, warm tone:1.2), close up, cinematic light, sidelighting, ultra high res, best shadow, RAW, 
+(tropical jungle) ,  (KnollingCaseQuiron style), glass case, display case,  (KnollingCase:1.4), 
+<lora:quiron_KnollingCase_v1_lora:0.77>

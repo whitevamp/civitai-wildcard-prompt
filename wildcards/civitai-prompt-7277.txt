@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),<lora:koreanDollLikeness_v10:0.5> ,<lora:sangonomiyaKokomi_v10:1>,kokomi,1girl,(Kpop idol), (aegyo sal:1),cute,underwater, floating, wet, professional lighting, photon mapping, radiosity, physically-based rendering,red hair,(medium hair),cowboy shot,open mouth,fish surrounded,seabed,undersea,

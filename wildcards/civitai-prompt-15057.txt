@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details,
+(1girl),     <lora:CeresFauna:0.8> Ceres Fauna, antlers, long hair, braided bangs, hair flower, Ceres Fauna, antlers, print bikini, cow print
+topless, 
+ <lora:MyBreastHelper:0.8> breasts,  <lora:bobsout1:0.8> nipples,

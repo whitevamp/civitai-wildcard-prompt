@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:hatsunemiku1:0.8> green hair,     <lora:he-man_offset:0.8> he-man, muscular, biceps, triceps, wide shoulders, hairy armpit,

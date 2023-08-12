@@ -1,0 +1,5 @@
+RAW photo, subject, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, absurdres, (beautifully detailed face), (detailed skin:1),
+cinematic lighting, dynamic angle, cinematic pose,
+sexy, seductive, provocative,
+ smooth thighs, small breasts, spread legs, straddle split, wet pussy, eyes closed, mouth open, spreading, 
+ <lora:straddle split:0.5>

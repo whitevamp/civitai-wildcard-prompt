@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:KoboHolo:0.8> Kobo, Multicolored hair, Aqua eyes,   kobo kanaeru, light blue hair, white hair tips, 
+ <lora:riding_a:0.8> riding on a pony, laughing, smiling, 
+ <lora:more_details:0.5> <lora:ttpt-fC-v2:0.4> ttpc-fc,  <lora:add_detail:0.4>

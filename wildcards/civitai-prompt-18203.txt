@@ -1,0 +1,1 @@
+best quality, (masterpiece:1.35), wallpaper,masterpiece, best quality,highres, 1girl, looking at viewer, <lora:Chinese style_20230607154437:0.7>, <lora:hairdetailer:0.5>

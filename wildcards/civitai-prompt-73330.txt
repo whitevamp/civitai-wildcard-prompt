@@ -1,0 +1,1 @@
+masterpiece, best quality, 4girls, Multiple_girls, (horns, pointy ears:1.2),slit pupils, (group photo:1.1), (dark sailor uniform:1.2, short sleeves), (looking at viewer, seductive smile, seductive smirk:1.2), (slit pupils;1.1), eyelashes, sfw,  <lyco:MultipleGirlsGroup:0.9>, volumetric lighting, (sfw:1.4), (close-up:1.2), <hypernet:myhands-22k:1>

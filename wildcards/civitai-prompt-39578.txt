@@ -1,0 +1,2 @@
+(masterpiece,best quality:1.5, realistic, ultra realistic), 1 girl with long white hair wearing kimono, straight hair, jewelly, necklace, diamond dragon girl, eastern dragon, symmetrical dragon horns, digital art, (best quality)), intricate detailed, DTstyle, flying, colorful background, abstract
+<lora:Haute_CoutureXL:0.65>

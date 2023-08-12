@@ -1,0 +1,4 @@
+masterpiece,best quality,savanna_works,vehicle focus,from front,wheel smoke,
+no humans,(long exposure,slow shutter,time lapse effects:1.3),
+(flyover,highway:1.2),midnight,
+<lyco:savanna_works_v10:0.6>

@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,     <lora:TogaHimiko-01:0.8> Toga, Himiko, Himiko Toga, fangs, yellow hair,

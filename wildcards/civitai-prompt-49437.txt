@@ -1,0 +1,5 @@
+best quality, intricate details, full body, standing, cute pose, smirking, evil look,  
+
+1girl, white hair, blue eyes, sharp eyes,messy hair, blue highlights, sharp teeth, 
+
+blue hoodie, shark teeth design, bare legs, hair ornament,  shark girl, shark tail, shark print, blue hoodie, sharp teeth, shark hair ornament,  <lora:gawrGuraHololive_v3:0.8>     <lora:girlsInGlassJars_v3:0.5> shrunken,   (gawr gura  in glass jar:1.45), full body, front view,  kneeling, shrunken, detailed, realistic, cork, defined

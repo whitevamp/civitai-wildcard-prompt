@@ -1,0 +1,2 @@
+(masterpiece, best quality, detailed), 1girl, solo, outdoors, (forest), nature, ((night)), flower, leaf, cowboy shot, looking at viewer, hand on hip, grin,
+mizuki yukikaze, (mgmoutfit), hair ribbon, one-piece tan, black panties, covered nipples  <lora:KonosubaCostumePackV1_5-000010:1> <lora:MizukiYukikazeV1_1:1>  <lora:more_details:0.3>

@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, BaseSonic,  <lora:Sonic:0.7>, yamachapose, lying, on side, closed eyes, <lora:Pos_YamchaPose:1>

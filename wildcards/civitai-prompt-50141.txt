@@ -1,0 +1,3 @@
+3d render, cgi, symetrical, octane render, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp,
+1 girl, woman, (elven:0.6), portrait,  looking up, solo, (full body:0.6), detailed background, brown eyes, light blonde textured hair, detailed face, robin hood,  dynamic pose, medieval fantasy setting, high fantasy, green  leather clothes, capelet,   puch, straps, belt, serene forest, bushes,  ivy,    roots, moss, falling leaves,  flowers, birds, feathers,  arrows in quiver, crossbow, sunshine, mist,
+<hypernet:sxzBloom_sxzBloom:0.2>

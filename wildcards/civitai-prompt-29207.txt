@@ -1,0 +1,3 @@
+(masterpiece, best quality),    <lora:add_detail_v5:1>, <lora:anime3d:0.75>, <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult (elven:0.7) woman,  dark brown eyes, medium brown wedge cut hair,
+focus on character portrait, solo, (full body:0.6), looking down, detailed background, detailed face, (feudal japan theme:1.1), serene expression,  druid, wearing natural colored green flowing robes, hood,  druid staff,  sitting, restoration spell, spell, green mystical ,  natural magic, (style-swirlmagic:0.8), floating particles,  leaves in the air, moss,   branches, stone,  violets,  plants, bushes, moonlight,  hills in background, natural peaceful atmosphere,

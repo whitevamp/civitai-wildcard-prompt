@@ -1,0 +1,4 @@
+<lora:nana7miV2:0.7:1,1,1,1,1,1,1,1,0.5,0.5,0.5,1,1,1,1,1,1>,<lora:010-v2:0.85>,<lora:GoodHands-beta2:1>,<lora:beautiful detailed eyes:0.8>,
+1girl,nana7mi,solo,brown hair,twintails,dress,hair ornament,earrings,(Heart-shaped metal clasp),((brown eyes)),heart earrings,black dress,Pink skirt,black belt,looking at viewer,x hair ornament,bow,belt,bangs,streaked hair,multicolored hair,((Scissorhands)),arms up,long hair,pink bow,black wrist cuffs,bow,black belt,
+((close-up)),[hidden privates],Pure_Innocent_girl,[[smile]],[medium breasts],detailed face,detailed eyes,Detailed clothes,(pale and lustrous skin),[slim, athletic_body],Pout,[light smile],(Closed mouth),(blush),((Shyness)),
+(Concert:1.4),(Stage background:1.4),(masterpiece,best quality),(best quality),RAW photo,natural shading,(Global illumination),(depth of field),8k,Highest picture quality,ultra detailed,

@@ -1,0 +1,1 @@
+best quality, ultra high res, (photorealistic:1.4), (ulzzang-6500:0.2), 1girl, [:(detailed face:1.2):0.2], (no make-up:1.2), lady, ((Shiny skin)), (silver hair), bow, ((Black Lolita)), ((short hair)), (curly hair), looking at viewer, small hat, smile, round face,  depth of field, Paris street, ((low saturation)), <lora:koreanDollLikeness_v10:0.7>

@@ -1,0 +1,8 @@
+face portrait of a gorgeous female human necromancer
+scythe , bone armor, glowing red eyes,
+  methurlant
+fantasy,
+dark room, dim light , blood moon,
+high contrast, best shadow, cinematic lighting
+hyperrealism, surreal 
+<lora:add_detail:1>   <lora:methurlant:1>

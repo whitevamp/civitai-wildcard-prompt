@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,        <lora:41_ArcaneJinx:0.8> ChopioArcaneJinx, long hair, blue hair, shiny hair, freckles, braid, twin braids, tattoo, asymmetrical bangs, arm tattoo, shoulder tattoo, lipstick, mascara, pale skin, (looking at viewer:1.2),
+outfit_default, bare shoulders, crop top, striped, belt, striped pants, pink pants, brown belt, belt, striped sleeves, detached sleeves, fingerless gloves, gloves, midriff, navel, black footwear, boots,

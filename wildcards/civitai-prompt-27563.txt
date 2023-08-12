@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, from below, Fish-eye Lens, beautiful nurse looking into the viewer with her face close, slouching, nurse uniform, name tag, stethoscope, hospital room <lora:Cute Asian Face:0.3>

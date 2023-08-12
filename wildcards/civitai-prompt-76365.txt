@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed),<lora:PAseer_angelV1:1>,1girl,solo,angel, <lora:nvwushen-000020:0.4>,quan,full body

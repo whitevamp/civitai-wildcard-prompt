@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,realistic,photo-realistic:1.37),best quality,<lora:catman:0.6>,masterpiece,maomi,shoes,sneakers,(panda:1.2),sunglasses,

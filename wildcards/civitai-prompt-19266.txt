@@ -1,0 +1,2 @@
+star wars cinematic LUT, solo mid shot portrait photo of a real life version of ashe \(overwatch\) <lora:asheOverwatchLora_v1-ashe_(Overwatch):0.9>
+<lora:TestLUTs4-sd15:0.6>

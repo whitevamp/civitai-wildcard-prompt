@@ -1,0 +1,3 @@
+photo of  25yo girl, short hair, (blond hair:1.2), wearing an orange sleeveless sweater, turtleneck, wearing a bird pendant
+best quality, realistic, photorealistic, (intricate details:1.2), (delicate detailed), (cinematic light), clear line, sharp focus, realistic face, detailed face
+unity 8k wallpaper, ultra high res, (photorealistic:1.4), looking at viewer,  <lora:EllaNyan-000001:1>

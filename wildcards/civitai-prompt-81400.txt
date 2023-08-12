@@ -1,0 +1,1 @@
+realistic, selfie, 1girl, white hair, purple eyes, parted lips, blush, makeup, light smile, bikini, beach, sweat, wet, light rays, glow, thighs, collarbone, narrow waist, (masterpiece), wallpaper, <lora:LUMI:0.2> <lora:shojovibe_v11:0.2> <lora:fashionGirl_v54:0.2> <lora:zl_2023-05-18_133642-000001:0.6>

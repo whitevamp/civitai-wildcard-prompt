@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:more_details:0.8> <lora:ngnl_jibril:0.8> ngnl_jibril, long hair,pink hair,halo,large breasts,symbol-shaped pupils,tatoo,low wings, sideboob,midriff,asymmetrical legwear,mismatched legwear,drooling,  <lora:womb_tattoo:1> womb tattoo, Pubic tattoo,  pubic hair,  nude,

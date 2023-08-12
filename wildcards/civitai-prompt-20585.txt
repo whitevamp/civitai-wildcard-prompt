@@ -1,0 +1,1 @@
+<lora:Laughing Tom Cruise:0.9> laughing tom cruise, smile, open mouth, closed eyes, multiple views, meme<lora:solidsnake-nvwls-v1-final:1> solid snake,masterpiece, best quality, blue bodysuit, gloves, headband, crouching,

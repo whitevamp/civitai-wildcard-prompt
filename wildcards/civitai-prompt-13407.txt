@@ -1,0 +1,3 @@
+masterpiece, ultra high res, (photorealistic:1.4), unity 8k wallpaper, best quality, intricate detail, highly detailed, (mvst 1girl:1.2), simple background, (multiple views:1.3), school uniform, skirt, 
+panties, brown hair, ass, <lora:multiview:0.4>, 
+<lora:mai shiranui:0.6>,

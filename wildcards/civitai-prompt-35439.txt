@@ -1,0 +1,1 @@
+<lora:Hyper-Real:1> hyper-real style <lora:r1ge - AnimeRage:.7> r1ge, glowing, aura, energy, beam, flying debris, [serious|angry], floating hair, closeup character portrait, end of the world background explosions

@@ -1,0 +1,2 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2), masterpiece,photo of 1girl, supergirl, wounded, superhero, lying, on back, realistic, ripped bodysuit,  (dirty, bruise,blood:1.3), blue eyes, blonde hair, lips, long hair, solo, (revealing ripped clothes, torn clothes:1.3), ruined city background,
+best quality, realistic, photorealistic, (intricate details:1.2), (delicate detailed), (cinematic light), clear line, sharp focus, realistic face, detailed face <lora:Supergirl:1>

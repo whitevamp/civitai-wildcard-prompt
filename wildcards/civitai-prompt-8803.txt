@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio:0.7>, ezio_soul3142, solo, 1boy, weapon, male focus, hood, armor, facial hair, blade, beard, realistic, vambraces, manly

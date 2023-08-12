@@ -1,0 +1,1 @@
+1girl,(masterpiece, top quality, best quality, extreme detailed, highest detailed, official art, beautiful and aesthetic:1.2),, 1girl,<lora:nijiMecha:0.3>,,humanoid robot,cobra,storm,wind,,robot body,highly detailed,sharp focus,cinematic lighting,mantle,.,.<lora:LowRA:.4>,dark theme, dramatic lighting,,<lora:sexyneiyi_v2:.2>

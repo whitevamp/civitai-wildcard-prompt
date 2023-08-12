@@ -1,0 +1,5 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(high detailed skin,visible pores,real person,photograph),
+<lora:cuteGirlMix4_v10:0.6>,mix4,
+(8k, raw photo, best quality, masterpiece), 1 japanese girl,photon mapping, radiosity, physically-based rendering,((face close-up,haunting smile)),((((short hair)))),
+(blush|cute and playful|adorable|small breasts|thick bangs|beauty|18 years old|childish looks|under 18 years old|hairpin),((((skinny)))),

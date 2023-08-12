@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, hmmr1, minamoto no raikou (fate), high collar, gloves, japanese clothes, loincloth, (breast curtain:1.1), ribbed sleeves, rope, (bodysuit:1.2), <lora:minamoto_no_raikou_v1:0.7>, standing, outdoors, field, flower, cowboy shot,

@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), (1girl, petite, smooth thigh, pale skin, long flowing hair, small breasts, glistening skin, blushing), absurdres, cinematic lighting, dynamic angle, cinematic pose, soft shadows, solo focus, provocative,
+
+night sky, fire ambience, sheer gown, lake, reflective, candle hand, floating candles, wet skin, wet clothes, forest, night, moonlight, foggy, profile, portrait, spread, straddling rock, waterfall, looking away,
+
+ <hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1>  

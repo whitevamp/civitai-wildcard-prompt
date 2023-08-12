@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  solo, <lora:Arcade_Riven_V1:0.8>  Arcade_Riven, blue_eyes, shorts, meduim_breast,
+ <lora:EDGHAIRSALON_edgScene:1> with a edgScene hairstyle,  multicolored hair,   waving at camera, smile,

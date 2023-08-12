@@ -1,0 +1,1 @@
+1girl,<lora:DemonicT:0.8>, DemonicT, blue skin, black sclera, horns, wings, colored sclera, colored skin, yellow eyes, demon wings, demon horns, slit pupils, Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting

@@ -1,0 +1,1 @@
+<lora:AnalogDistortion:0.78>, AnalogDistortion, a woman in a red dress is on a television, 8k, static, vhs, analog photo

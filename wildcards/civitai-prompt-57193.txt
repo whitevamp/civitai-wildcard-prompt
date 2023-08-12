@@ -1,0 +1,1 @@
+RAW, 1girl, colorful, dynamic pose, ((full body)), ((pink matte armor, cyan lights <lora:CrysisNanosuit:0.6>)), (masterpiece, best quality), (detailed skin:1.3, detailed face:1.3), dslr, realistic, (detailed cyberpunk landscape), delicate, soft colors, cinematic lighting

@@ -1,0 +1,1 @@
+photo of woman riding a (blue akirabike:1.3), in an abandoned alley, favela, (outdoor:1.0), (pink jacket:1.3), (white shirt:1.2), jeans pants, (hdr:1.0), (cowboy shot:1.3), (muted colors:1.5), sunny day, dawn, (blurry:1.4), (poor quality photo:1.6), wet floor, intricate background, (helmet:1.0), glass mask, clouds, <lora:akiraMotorbikeBATE_v02plus:0.9>

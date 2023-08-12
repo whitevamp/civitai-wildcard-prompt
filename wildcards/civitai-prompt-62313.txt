@@ -1,0 +1,3 @@
+(masterpiece), (best quality), (hyper realistic:1.4),(photorealistic:1.3),(intricate details:1.35), 
+female wearing iron-man suit flying in the sunset sky,  large breasts, with long black hair in a fashion photoshoot photographed from a low camera angle wearing a dress made from black feathers and lace, dramatic portrait, dangerous, red traced neon background with blue laser light rays, high contrast and dynamic pose, movement, wet, energy, dramatic lighting, colorized, intense and vibrant colors of electrified neon red, blue
+ <lora:jimLeeDCComicsMarvel_offset:0.8> jim lee,  professional photoshoot,  action shot,

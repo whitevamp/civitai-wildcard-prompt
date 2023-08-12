@@ -1,0 +1,5 @@
+(grainy:0.7),(masterpiece:1.1), best quality, absurdres, extremely detailed illustration, evening, futuristic,<lora:rMadArt3_NoiseOffset:0.75>
+BREAK
+girl, cape with hood, light logo , [cyberpunk clothing:torn fabric:0.25], red lights, orange lights, menacing, white hair, in middle
+BREAK
+alley, neon lights,

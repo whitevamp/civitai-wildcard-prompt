@@ -1,0 +1,8 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, mature, sitting, cup, table, indoors, large windows, pov, portrait,  from front, close up,
+blue hair, green eyes, eye reflection, bright pupils, beautiful detailed eyes, full blush, seductive smile,
+large breasts, nipples, long nipples, puffy nipples, large areolae,
+hand support head, wet, sweat, steam, steaming body, heavy breathing, topless,
+breast rest, breasts on table, <lora:breast_on_table:0.50>,
+sleeves, fur collar, yelandef, <lora:yelan1_000008:1>

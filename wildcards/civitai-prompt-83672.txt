@@ -1,0 +1,2 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), constructionyardai, uncanny, Charming, tiny selkies with soft, velvety fur and wide, detailed blue eyes, cute smile,
+curious eyes, Gentle, baby nifflers with a penchant for shiny objects, Cute, miniature ice deers with fuzzy antlers and twitching noses, with a butterfly in the foreground, fantasy creature, <lora:add_detail:0.35>, <lora:epi_noiseoffset2:0.25>, <lora:Zelenaya_Sliz:0.8>, GreenSlimeAI,

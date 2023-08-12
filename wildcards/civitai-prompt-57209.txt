@@ -1,0 +1,2 @@
+best quality, intricate details,
+ <lora:reZeroEchidna_v10:0.8> echidnanai , butterfly hair ornament, colored eyelashes, dress, black dress, black eyes,

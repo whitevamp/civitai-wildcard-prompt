@@ -1,0 +1,4 @@
+woman, solo, butler, young girl , dark blue hair, dark green eyes, (eyeliner:1.2) detailed face, 
+([Hannahowo]:0.8), (puffy lips :0.9),
+masterpiece, professional, high quality, beautiful, amazing, art deco, ArtStation, Buruma, rich,
+photoshoot, 4k, realistic, detailed background, boring, real life, by Alex Toth, by Saul Steinberg, <lora:hannahOwo_v1:0.6>

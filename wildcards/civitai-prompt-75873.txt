@@ -1,0 +1,1 @@
+tattoo, irezumi, <lora:badbroirezumi3:0.7>

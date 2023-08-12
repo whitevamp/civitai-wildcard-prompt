@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, petite, extremely beautiful, dynamic pose, tanned skin, detailed skin complexion, small breast, magician robe, sexy dress, side slit, cleavage, flaming sword on right hand, staff with ice magic on left hand, full body, looking at viewer,
+break
+fantasy environment, medieval cityscapes, empowering and heroic vibe, sparkle particle effect, volumetric fogs, glowing fx, cgi
+break
+from above front, aerial perspective, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, proportion, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)

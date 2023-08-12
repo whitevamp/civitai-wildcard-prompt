@@ -1,0 +1,1 @@
+(masterpiece:1.15), (best quality:1.15), (detailed:1.1), (highres:1.1), 50mm lens, f/8, ISO 400, booscapes, nature, sky and ice, Glacial Valley with Icebergs, color grading, natural light <lyco:booscapes:0.8>

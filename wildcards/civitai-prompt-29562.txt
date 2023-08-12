@@ -1,0 +1,1 @@
+(a little girl), charming, short white dress, dragon, cute, (sitting moon), moon, stars, clouds, masterpiece, best quality,  <lora:moon_sora:0.7> <lora:DragonCute:0.7>, (masterpiece,best quality:1.5)

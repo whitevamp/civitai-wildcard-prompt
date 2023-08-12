@@ -1,0 +1,1 @@
+a 20 yo woman,long hair,dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),red background,simple background, <lora:film:0.2>

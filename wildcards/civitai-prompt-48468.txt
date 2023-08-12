@@ -1,0 +1,7 @@
+1girl, armlet, bare shoulders, blonde hair, blush, bracelet, breasts, circlet, elf, green eyes, 
+head wreath, huge breasts, jewelry,   long hair, looking at viewer, 
+simple background, smile, solo, very long hair,(shiny skin),(masterpiece:1.4),(best quality:1.4)
+,red lips,mature female,milf, (breasts_on_glass ,nipples,breast press, against glass, navel,)
+ <lora:角色 黑獸聖女celestineLucullus_v15:0.6:character> 
+ <lora:動作 胸貼玻璃breastsOnGlass_v10:1.2:character>
+ <lora:畫風 歐美3Dhipoly3DModelLora_v10:0.2:character>

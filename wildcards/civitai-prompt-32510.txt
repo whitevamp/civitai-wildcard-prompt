@@ -1,0 +1,1 @@
+1girl, long black hair, black horns, gothic black dress, (medium breasts:0.5), (purple eyes), smile, buckteeth, pointy ears, full body portrait, (thumbs up:1.5), fantasy town market, <lora:TehdaveLora:0.4>, <lora:lora_serpieri_a5:0.4>, <lora:trigger_style:0.7>, Trigger Studio Artstyle, anime screencap, <lora:skin_tone_slider_v1:3>

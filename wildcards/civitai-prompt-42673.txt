@@ -1,0 +1,3 @@
+masterpiece, high quality, highres, detailed,mature,
+1girl, long hair, serafuku, skirt lift, panties, thighs, black footwear, looking at viewer, indoors, on sofa,carpet, sitting, spread legs, 
+<lora:add_detail:0.5>, <lora:FilmVelvia2:0.36>,  <lora:detailed_eye:0.4>,

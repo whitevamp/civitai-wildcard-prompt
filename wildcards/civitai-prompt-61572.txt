@@ -1,0 +1,1 @@
+bloodstainai, an ornate sword and shield with a dragon crest, transparent background, symmetry, roses, vines, thorns, <lora:bloodstainedVector_v10:1>

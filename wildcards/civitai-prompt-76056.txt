@@ -1,0 +1,1 @@
+(well defined female:1.1),<lyco:[LoHa] Morning glory 朝顔 Style:0.6>,(masterpiece:0.8),(absurdres:1.2),<lora:PovMissionaryVaginal-v1 Pose:0.8>,<lyco:ShinyOiledSkin_v20-LyCORIS:0.6>,(outdoors:0.8),(Style-Autumn:0.6),

@@ -1,0 +1,1 @@
+<lora:FilmGirl:0.6>, wide angle portrait, 1girl, fluffy short hair, natural skin, realistic brown eyes, looking at viewer, (realistic anatomy:1.2), stylish colorful sweater, cinematic lighting, (photorealistic, raw photo:1.2), global illumination, ray tracing, finely detailed, intricate details, necklace, (cleavage:0.8)

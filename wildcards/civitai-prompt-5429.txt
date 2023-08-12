@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:Pavolia Reine v2b:0.8> pavolia reine, reine-long-hair,very long hair, side ponytail, braided bangs, feather hair ornament, white pupils, single earring,
+ <lora:McDonaldsUniform:0.8> McDonaldsUniform, shirt, black shirt, uniform, black pants, pants, cap, mcdonald's, 
+ <lora:Gun2Head11:0.9> g2h, gun to head, handgun, holding gun,

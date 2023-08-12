@@ -1,0 +1,3 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,background is a tunnel with pipes and valves in it and penguin dirt steam moisture mud,
+8K, HDR, highres, absurdres, <lora:cellsatwork_whitebloodcell-09:1>, cowboy shot,1girl,  cameltoe, white blood cell, colored skin, white skin, expressionless, looking at viewer, long white hair, hair over one eye, baseball cap, black eyes, white uniform, unbuttoned, white pants,
+cleavage,em1ly-browning-t2, <lora:Pipe-10:1:1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1>

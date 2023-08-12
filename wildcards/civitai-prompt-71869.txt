@@ -1,0 +1,2 @@
+korean idol, sad, tears ,  <lora:DDRunnyMakeupMascara_v01:0.1> ruined makeup
+<lora:povFacesitting:0.3> povsitting,

@@ -1,0 +1,1 @@
+best quality,1girl ,<lora:anxiang:0.5>, upper body

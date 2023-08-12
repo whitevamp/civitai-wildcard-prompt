@@ -1,0 +1,4 @@
+((best quality, masterpiece)), ((style-swirlmagic):0.25),
+photorealistic, thick outlines, strong shadows,
+1girl, pastel goth,  full body, 
+<lora:more_details:0.5> <lora:EnvyPastelGoth01-sd15:0.6>

@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 1girl, tanned skin, looking at viewer, smile seductively
+ <lora:2pNierFFXIV_v10:0.75>, yorhap2, white outfit, white stockings, 
+<lora:ass_support_v0.1:1>, ass support, standing, view from behind,
+standing, in the luxurious living room,

@@ -1,0 +1,1 @@
+(woman screaming and driving in a car:1.2), beautiful artwork, <lora:epiNoiseoffset_v2Pynoise:.15> <lora:flashlight_v15A:.15>, ((photograph)), highly detailed, sharp focus, 8k, 4k, (hyperrealism),(micro details), colorful, portrait, 50mm, F/2.8, 1m away, Beautiful environment, Portfolio piece, Fantastic location, (global illumination, studio light, volumetric light),

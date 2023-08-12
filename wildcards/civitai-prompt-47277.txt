@@ -1,0 +1,3 @@
+(awaitingtongue:1.4), Waiting O-Face, (8k, raw photo:1.2), (hyper realistic, photo realistic:1.2), (hyper supreme extreme quality beautiful women:1.2), (supreme hyper extreme realistic skin texture:1.2), (beautiful quality huge eyes:1.1), 
+1girl, open mouth, full body, sexy pose, narrow waist, pale skin, open clothes, (black stocking:1.2), looking at viewer, spread legs, pussy, nsfw, no panties, arms behind back,
+<lora:koreanDollLikeness_v15:0.2>,  <lora:stablepussyAnna_stablepussyAnnaV01:0.7>

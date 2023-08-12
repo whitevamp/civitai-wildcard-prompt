@@ -1,0 +1,4 @@
+a cock, colorful,
+yang08k, photography, beautiful,  black background,
+masterpieces, top quality, best quality, official art, beautiful and aesthetic,  realistic,
+ <lora:yang08k:0.7>

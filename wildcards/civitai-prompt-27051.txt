@@ -1,0 +1,1 @@
+(1girl:1.7),Strong light,Seaside,kid,White one-piece swimsuit,perspective,Close-up,Look down from above,Coral Reef,Colorful,<lora:InstantPhotoX3:0.2:NF> <lora:LowRA:0.3> <lora:Heavy_grain:0.4:paint>,

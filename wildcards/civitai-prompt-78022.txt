@@ -1,0 +1,1 @@
+masterpiece, best quality, flayn, hair ornament, black dress, from above, ahetobleh, closed eyes, hands on own head, garden <lora:ahetobleh-nvwls-v2-000010:0.8> <lora:flayn-nvwls-v1-final:0.8>

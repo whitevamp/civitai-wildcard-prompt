@@ -1,0 +1,1 @@
+anad,1girl,ballerina,dancing,best quality, ultra high res, (photorealistic:1.4),<lora:glassSculptures_v20CompletelyRedone_glasssculpture,translucent,transparent,reflection:0.6> glasssculpture,translucent,transparent,reflection

@@ -1,0 +1,5 @@
+cowboy shot, (masterpiece), best quality, ultra high res, photo, photorealistic, highly detailed, detailed face, solo young student wearing body chain, (neck ribbon), hairband, embarrassed, large breasts, black straight hair,
+standing,
+school bag,
+e235, train interior,
+<lora:bodychainV2:0.7> <lora:E235_V5:0.7>

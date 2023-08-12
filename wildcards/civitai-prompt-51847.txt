@@ -1,0 +1,1 @@
+photo realistic,real skin,ultra hires,(young beautiful korean girl),distant gaze, nsfw,(cropped_hoodie),(round young face),full accesories,necklace,big clear kindly eyes,long eyelashes,slim waist,light makup,neat teeth, slightly smiling. colored hair,[[ strong beautiful thigh, hip, back side]], (lower view),Tattoo,[<lora:koreanDollLikeness_v10:0.1>] [<ulzzang-6500-v1.1:0.1>]

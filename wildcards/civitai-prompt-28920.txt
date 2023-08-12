@@ -1,0 +1,1 @@
+landscape, japan traditional hot onsen, dawn, dim light, detail, realistic, ((masterpiece)), hot steam, torii, wooden bucket, forest, bamboo, <lora:ARWJapanOnsen:1>

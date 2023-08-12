@@ -1,0 +1,2 @@
+(masterpiece:1.2, best quality), hyper detailed, intricate details, high resolution, super detailed skin, best illumination, detailed face, detailed eyes, lustrous skin, ((1girl, sexy)), ((long blonde hair, wild hair)), red eyes, (abs:0.8), glowing eyes, medium breasts, <lora:sexyneiyi_v2:0.8>underwear,panties, bdsm, bondage, bound, monochrome,
+<lora:add_detail:0.4>,

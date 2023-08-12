@@ -1,0 +1,3 @@
+(Color negative portrait photography) of a school girl with (hanging braids),AS-Young,(small head:1.2),dynamic angle,<lora:YJA55:0.6>,light smile,<lora:ChinaDressV2.0:0.55>,(Satin_brocade blue Chinese upshirt,black long skirt:1.2),(((inside mansion,study room))),
+(cinematic look:1.4),soothing tones,insane details,intricate details,hyperdetailed,low contrast,soft cinematic light,blurry,dim colors,hdr,raw,(film grain:1.5),
+<lora:LowRA:0.4>,1930s \(style\),lowkey,<lora:add_detail:1>

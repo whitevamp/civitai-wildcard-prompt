@@ -1,0 +1,3 @@
+(from ground shot:1.3), stunning young girl, (sharp jawline:1.1), (full lips:1.1), (almond-shaped eyes:1.1), (high cheekbones:1.2),wearing green thai_girlscout_uniform, small green girl scout hat, standing tall in the center of a bustling metropolis, bright sunlight (sunny day:1.1), shot from a low angle, cinematic, vibrant (vivid:1.3) colors, urban landscape, (modern:1.1) fashion, photorealistic portrait, captured by Alexi Lubomirski, Fuji x-t3, rich and lifelike texture, trending on artstation, (city:1.1) street photography
+
+<lora:epiNoiseoffset_v2:1>,<lora:THgirlscout_v6-000007:0.85>,

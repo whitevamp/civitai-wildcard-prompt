@@ -1,0 +1,1 @@
+masterpiece, best quality, nicolas cage as the man of steel,  <lora:add_detail:1>,  <lora:NCCG3_3045:1>

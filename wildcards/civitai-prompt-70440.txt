@@ -1,0 +1,1 @@
+(intricate:1.1), (absurdres:1.1), (masterpiece:1.1), (realistic:1.1), (extremely detailed:1.1), rim lighting, two tone lighting, dark theme, <lyco:delicate_armor_V2:0.4>, <lora:add_detail:1>, <lora:hipoly_3dcg_v7-epoch-000012:0.3>, <lora:LowRA:0.4>

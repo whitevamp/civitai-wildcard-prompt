@@ -1,0 +1,7 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,evocative hues, captivating coloration, dramatic lighting, 
+1girl,solo,
+jail,
+outdoor,
+Resilience,
+balcony, breezy, leisurely,
+ <lyco:S12 Technidraw_558123:0.4>   <lora:OldEgyptAI:0.1> <lora:filmgirlFilmGrain_v40:0.2>

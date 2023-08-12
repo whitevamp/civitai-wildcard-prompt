@@ -1,0 +1,4 @@
+scifi world landscape ADDCOMM 
+fist bump, 8k uhd, dslr, soft lighting, high quality, film grain, higly detailed face,ultra detailed,masterpiece quality,Fujifilm XT3, startrek ADDBASE
+William Riker Jonathan Frakes, black hair, beard, with (red:1.2) trekngs1 uniform, fist bumping closed hand punching, black pants <lora:STTNGV018:0.5>  ADDCOL 
+Spock, Leonard Nimoy, black hair, clean shaved face, pointy elf ears, with (blue:1.2) tosunfm uniform,  fist bumping closed hand punching, black pants  <lora:TOSUITV11:0.5>

@@ -1,0 +1,7 @@
+(masterpiece, highres, best quality:1.3), stunning, professional artwork, intricate details, vibrant image, sharp focus, trending on pixiv
+Terayama Reiko, (standing near the motorcycle:1.1), pinup \(style\), 1990s \(style\), fingering,  breast grab, (at distance, full body:1.25), (night:1.1) highway background,
+black hair, long hair, hair between eyes,  lipstick, makeup, black eyeshadow, detailed hair, detailed face, brown eyes, perfect eyes, perfect face,
+naked, nude,
+mature female, 40yo, large breasts, female pubic hair, pussy, thighs, spread legs, court shoes,
+<lora:TerayamaReiko-000009:0.87>, 
+ <lora:LowRa:0.35>

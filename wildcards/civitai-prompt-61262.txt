@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo young girl wearing sexy sailor outfit, hairband, smile, short hair, bob cut, wet clothes, rain,
+street, cityscape,
+<lora:sexySailorOutfit_v10:0.7>

@@ -1,0 +1,1 @@
+masterpiece, best quality, aerith gainsborough, hair ribbon, zero suit, blue gloves, looking at viewer, upper body, portrait, standing, large breasts, church interior, smile, hands to chest <lora:zerosuit-nvwls-v1:1.0> <lora:aerith-nvwls-v1-final:0.7>

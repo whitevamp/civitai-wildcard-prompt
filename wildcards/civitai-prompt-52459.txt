@@ -1,0 +1,4 @@
+best quality, masterpiece, 
+melina \(elden ring\), brown hair,medium short hair, black cloak with hood,orange eyes,Tunic,belt,boots,full body, ashes and sparks in the air, (closed left eyes:1.4),(Scar on left eyes:1.4)
+ 8k, high resolution, ultra detailed, professional digital painting, epic cinematic lighting, trending on artstation, 4k, hyperrealism, focused, extreme details, unreal engine 5, cinematic, masterpiece
+<lora:melinaEldenRingLora_v1:0.85>

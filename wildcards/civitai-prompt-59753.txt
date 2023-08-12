@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), 
+<lora:gothichorrorai_v10:0.9>, gothichorrorai, a haunted doll terrorizing a family,  fantasy creature,

@@ -1,0 +1,1 @@
+masterpiece, highly detailed,photorealistic, HDR, 8K, high detail,best lighting, best quality, detailed face, a man is kissing a cat, babylihua,whitelihua, huge/nice, T shirt, closed eyes,   <lora:newces_5500:0.8>,  <lora:lihuaoutput_name:0.8>

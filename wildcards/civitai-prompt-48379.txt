@@ -1,0 +1,4 @@
+(photograph:1.3, photorealistic:1.3), natural colored, real human skin, ultra quality, high resolution, 4k, medium shot, sit
+, pureerosface_v1:0.3 ,sexy:1.2, (bdsm:1), (spread legs:1.1), (arm pit:1.2),arms up, (hands up:1.2), (adult), legs, (bikini), navel
+,1 girl:1.5, solo, white skin, <lora:jangWonYoung_jwyV10:0.6>,<lora:virtualgirlRin_v20:0.4>, (embarrassed face:1.3), collar,
+,beach, sea, shore, sand, sunset, rimlight, softlight,

@@ -1,0 +1,6 @@
+masterpiece, highest quallity,hyper detailed, best quality, illustration, cinematic light, ultra detailed, 
+1girl, solo,
+white hair, short hair, mole under mouth, parted lips, black hairband, bangs, (black blindfold:1.5),emotionless,
+long sleeves,  puffy sleeves,juliet sleeves, feather-trimmed sleeves,  cleavage,cleavage cutout, black gloves,turtleneck, 
+(black pantyhose:1.5), black skirt,feather trim, 
+yorha no. 2 type b, <lora:2bYorhaNo2TypeBNier_v1:0.8>,City ruins,

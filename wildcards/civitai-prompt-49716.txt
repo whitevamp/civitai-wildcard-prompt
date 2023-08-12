@@ -1,0 +1,9 @@
+masterpiece, best quality, photorealistic, realistic, ultra high res,extremely detailed CG unity 8k wallpaper,
+//
+1girl, solo,
+long hair, black hair, wavy hair, brown eyes, huge breasts,
+//
+white tank top, mature woman in white tank top at the beach, see-through, puffy nipples,  form fitting,
+//
+<lora:skinTightCLOTHING_v320:0.8>
+//

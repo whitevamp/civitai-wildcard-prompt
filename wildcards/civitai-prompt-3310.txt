@@ -1,0 +1,1 @@
+pixel, 1girl, full body, in front,matrue woman,standing with toes pointed inward, red short hair,(very slim,arms lift, hands after head:1.2), strapless top, blue eyes, black skirt, (black stocking:1.2), high heels, serious,(slim long legs), <lora:pixel_f2:0.45>

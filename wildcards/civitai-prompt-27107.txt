@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(highly detailed:1.2), (detailed background),detailed landscape,<lora:more_details:0.5>   <lora:style:0.6>((neostyle)), outdoors, artist name, tree, night, watermark, building, scenery, city, road, cityscape, skyscraper, city lights, Jellyfish Forest <lora:jellyfish-noise:0.6>

@@ -1,0 +1,2 @@
+8k,4k,masterpiece, best quality, finely detail,manga,anime coloring,1girl,18yo,cute,maid,cafe shop,dramatic angle,
+ <lora:Moxin_10:0.3>

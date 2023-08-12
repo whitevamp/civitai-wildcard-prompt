@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes,
+BREAK
+ <lora:LinTLOK:0.7> LinTLOK, mature female
+<lyco:Saya-hand in panties:1.0> hand in panties

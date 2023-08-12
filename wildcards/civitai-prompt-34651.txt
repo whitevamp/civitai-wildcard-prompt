@@ -1,0 +1,7 @@
+(Highres), (Detailed Illustration), Ultra-Detailed, Ambient Light, Backlighting, Realistic Shadows, Glowing Particles, Light Particles, Digital Art, Soft Light, Soft Lighting, White Light, White Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), Dim Lighting, Indirect Lighting, Reflections, Detailed Face, (Detailed Hair:1.2), (Desaturated:1.4),
+(1girl:1.4),
+upper body, cowboy shot, (sweat on the body:1.6),
+blue eyes, breast lift, breasts, brown hair, choker, elbow gloves, gloves, grabbing, grabbing own breast, hand on hip, hand on own chest, long hair, looking at viewer, navel, open mouth, pink gloves, pink legwear, self fondle, smile, solo, thighhighs, very long hair, (pink brassiere:1.3), (large breasts, huge breasts, nipples:1.3), (nude body:1.3), (uncensored pussy:1.3),
+(simply background:1.4),
+<lora:LoRA_Koukawa_Asuka(Taimanin):0.9>,
+<lora:more_details:0.5>,

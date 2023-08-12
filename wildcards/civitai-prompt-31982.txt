@@ -1,0 +1,5 @@
+nezukokamado, <lora:nezukokamadotest:1>, nezuko kamado, bamboo, (bit gag:1.5), black hair, (forehead:1.5), gag, gagged, hair ribbon, long hair, multicolored hair, (pink eyes:1.5), orange hair, slit pupils, wavy hair, two-tone hair, BREAK 
+(torn clothes:1.5),open clothes, nipple slip, front open, (nipples:1.2), asa no ha (pattern), checkered sash, haori, japanese clothes, kimono, long sleeves, obi, pink kimono, sash, wariza, wide sleeves, nsfw, BREAK 
+looking at viewer, BREAK 
+(outstretched arms:1.2), (outstretched legs:1.2), (chain:1.1), (bound:1.2), restrained, cuffs, handcuffs, (chained:1.2), (floating:1.4), breasts, sweat, dark room, (window:0.5), simple background, black background,(torn clothes:1.2), nipples, <lora:chained_up:0.8>, BREAK 
+<lyco:GoodHands-beta2:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

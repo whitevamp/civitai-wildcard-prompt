@@ -1,0 +1,4 @@
+<lora:hiqcg_body_768_epoch-000005:0.5>, hiqcgbody, (anime:1.2), 1girl, sitting in a clutter room, hugging own legs,  full body, barefoot,
+tank top, shorts, casual,
+detailed skin texture, detailed cloth texture,  beautiful detailed face,
+masterpiece, best quality, ultra detailed, 8k, intricate details,

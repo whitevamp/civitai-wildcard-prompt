@@ -1,0 +1,1 @@
+(best quality, masterpiece), perfect lighting, (smile, happy:1.3, charming), (thick lips:1.3), perfect lips, perfect pink eyes, perfect face, 1girl, solo, from below, looking at viewer, (saigyouji yuyuko:1.1), pink hair, medium hair, looking at viewer, rim lighting, (diffused lighting:1.1) <lora:epi_noiseoffset2:0.5> <lora:kloah:0.5> <lora:Devil HS LoRA:0.5>

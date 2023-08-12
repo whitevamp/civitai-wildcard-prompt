@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl,standing on the mountain, big mountain,colorful sky,loong ,sun rise, <lora:conceptLoongChinaDragon_v10:0.75:MIDD>

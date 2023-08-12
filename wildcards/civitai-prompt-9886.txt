@@ -1,0 +1,10 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, sea, beach, cloud, blue sky, outdoors, medium shot,
+hair, eyes, eyes reflection, bright pupils, smile, full blush, looking at viewer,
+breasts, nipples, long nipples, puffy nipples, nipples erection, small areolae,
+wet, sweat, heavy breathing, arm over shoulder, grabbing another's breast,
+<lora:masusu_v10:0>,
+breast grab, <lora:breast_grab_over_shoulder:0>,
+euladef, <lora:eula2_000009:0>,
+amber5star, <lora:amber1_000008:0>

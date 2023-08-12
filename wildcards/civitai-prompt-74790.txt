@@ -1,0 +1,4 @@
+(masterpiece,best quality,highres,ultra_detailed:1.2),
+simple background, still life, flowers,sunlight,rule of thirds,
+lilac
+ <lora:simple_background_v2:0.8>

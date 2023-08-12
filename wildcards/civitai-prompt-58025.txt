@@ -1,0 +1,4 @@
+(RAW photo, best quality), (realistic, photo realistic), masterpiece, extremely detailed, CG, unity, 2k wallpaper, Amazing, finely detail, detailed wallpaper, ultra-detailed, highres, absurdres, soft light, beautiful detailed girl, detailed fingers, extremely detailed face, beautiful detailed nose, beautiful detailed eyes, light on face, looking at viewer, 1girl, korean woman, cute, sexy, charming, alluring, seductive, professional modelshoot style photo elegant woman, (kpop idol), full body, (large breasts), (big tits), formal clothes, bussiness suit
+<lora:koreandolllikenessV20_v20:1>  
+<lora:milkingMachine_v14:1>, milking machine
+<lora:lactation_v11:1>, lactation, breastmilk

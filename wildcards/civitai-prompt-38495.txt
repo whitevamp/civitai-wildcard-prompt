@@ -1,0 +1,1 @@
+1girl,(pirate:1.25) hat,rogue,eye patch,extremely detailed,looking at viewer(masterpiece, best quality:1.2)<lora:adventurers_v1:1>

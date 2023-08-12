@@ -1,0 +1,3 @@
+1girl,fat,plump, realistic, black hair, bangs,
+masterpiece,best quality,ultra_detailed,highres,absurdres, <lora:vectorer:1> ,<lyco:FilmProvia2:0.5>, 
+BREAK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,

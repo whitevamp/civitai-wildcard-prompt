@@ -1,0 +1,4 @@
+((by Zaha Hadid)),
+<lora:XSArchi_127:0.75>,
+<lora:Concept_scenery_background:0.3>,
+a villa on a high mountain cliff,shell element,crazy curve,((the verdant mountains)),((fresh flower)),butterfly fluttering,blue sky,white cloud,the sun is shining brightly,

@@ -1,0 +1,3 @@
+best quality, highres, 1girl, chloe \(fire emblem\)
+slingshot swimsuit, green one-piece swimsuit, (large breasts),
+masterpiece, absurdres, (five-digit human hands:1.2), <lora:Slingshot_V_Conv2D:0.8>, <lora:LohaOnonoimokoStyle_v10:0.7>, <lora:chloeFireEmblemEngage_v1anything:0.8>

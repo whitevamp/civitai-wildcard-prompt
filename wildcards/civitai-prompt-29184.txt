@@ -1,0 +1,1 @@
+\(ulzzang-6500-v1.1\), \(idol\), 1girl, \(detailed eyes\), \(detailed facial features\), \(\(detailed clothes features\)\), nsfw,  <lora:InstantPhotoX3:0.6>, <lora:add_detail:0.4>, <lora:more_details:0.4>, <lora:hairdetailer:0.8>

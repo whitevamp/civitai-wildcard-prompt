@@ -1,0 +1,1 @@
+Moody,atmospheric,painterly,fine details,cinematic composition,Warm lighting,gentle,nostalgic,flower,pink roses,tranquil,evocative,hazy atmosphere,a sense of solitude,dreamlike atmosphere,high level of detail,evocative color palette,8K resolution,<lora:yzym:0.6:face> <lora:darkstyle_20230615161134:0.4:CLOTHING> <lora:WarmLight:0.7><lora:dreamflower:0.4> <lora:FlowerGarden_v1:0.4>

@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 1girl, cowboy shot, medium breasts, amber color pupils, spread legs, (showing breasts:1.25), nipples,
+ <lora:haruna_v1:0.85>, hmharuna, headgear, hair ornament, hairclip, japanese clothes, detached sleeves, ribbon-trimmed sleeves, red skirt, orgasm, tongue out, pussy juice,
+<lora:povMissionary_v10:1>, missionarypose, 1boy, penis, lying, missionary, vaginal,
+in the luxurious hotel room, on the bed

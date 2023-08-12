@@ -1,0 +1,6 @@
+raw photo, amateur photo, film grain, medium quality, real life photo,
+photo of a young beautifu girl, petite, blonde pink hair, small breasts, 
+(lying on back:1.2), look away, gym storeroom, volleyball, <lora:gym_storeroom_v0.1:1>,
+volleyball uniform,  shorts,  shirtlift, <lora:shirtliftv3:1>,
+(low-key lighting:1.2),
+shot on iphone,

@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.1), pixel,
+1girl, (light blue hair:1.2), (teal hair:0.8), (long hair:1.1), (pink eyes:1.1), looking at viewer, naughty smile,
+standing, from front,
+(black micro bikini:1.1), skin tight, gothic, bracelet, choker, (golden:1.1) armlet, black thighhighs, (pink pump heels:1.1), medium (big:0.8) breasts,
+(simple white background:1.1),
+ <lora:pixel_f2:0.5>

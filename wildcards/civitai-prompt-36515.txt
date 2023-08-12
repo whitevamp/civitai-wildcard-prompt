@@ -1,0 +1,1 @@
+(RAW photo, best quality) , An  woman at a sauna, white towels, petite, cute, pale skin, candid, <lora:LowRA:0.5>,  smiling face, (steamy:1.4), (volumetric lighting:1.3) <lora:prone:1>, lying prone on her stomach

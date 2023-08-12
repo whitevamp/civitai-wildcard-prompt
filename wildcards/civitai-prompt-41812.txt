@@ -1,0 +1,7 @@
+(highres, high quality:1.2), intricate details, cinematic lighting, sharp focus, depth of field,
+Ingrid, 1girl, mature female, (dark-skinned female:1.1), dark skin, standing, arms behind head, cowboy shot, looking at viewer, cityscape, night, city light,
+determined, smirking,
+[pink|red] hair, very long hair, hair intakes, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, detailed face,
+helloutfit, (turtleneck:1.1), (underboob:1.1), black elbow gloves, (coattails:1.1), revealing clothes, center opening, highleg panties, thigh boots, (multicolored clothes:1.1)
+midriff, large breasts, areola slip, (nipple slip:0.8),
+<lora:IngridV2:0.9>

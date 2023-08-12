@@ -1,0 +1,1 @@
+fantasy landscape with a [mountain:lake:0.25] and [an oak:a christmas tree:0.75][ in foreground::0.6][ in background:0.25] [shoddy:masterful:0.5] (sampler has 100 steps)

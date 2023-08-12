@@ -1,0 +1,1 @@
+1girl,holographic,playboy bunny,upper body,  looking at viewer,simple background, <lora:holov7:0.8> <lora:LoconLoraOffsetNoise_locon0501:1.5>

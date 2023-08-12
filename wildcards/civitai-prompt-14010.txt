@@ -1,0 +1,5 @@
+Best quality, masterpiece, ultra high res,  raw photo,
+1girl,large breasts, cleavage,shirt, pencil skirt,  thighhighs, high heels, (mole:0.7), covered nipples, bangs,
+spread legs, glasses, 
+<lyco:futanarimix-v8-LoCon-DAdaptAdam-D32-A16-000030:1>,(futanarimix:1.3),erection, 
+<lora:photoblend:0.3> <lora:NegStd3:0.4>,   <lora:RussianDoll:0.4:FACEH>

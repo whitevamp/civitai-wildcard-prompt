@@ -1,0 +1,14 @@
+Aesthetic: ((ethereal, celestial, otherworldly, transcendent, delicate, mystical):1.4)
+BREAK
+Composition: <lora:GiftInBoxV1:1> 1girl, perfect face, perfect eyes,, ((bondage, arms behind back, hands tied behind back, lying, shibari)), (((girl laying in box))), girl tied up, restrained, looking at viewer, bound legs, breasts, (((girl lying on side))),, perfect anatomy, 2arms, 2legs,, completely naked, nude, erotic, sexy, perfect breasts, big ass, thin waist bondage, arms restrained, arms behind back
+BREAK
+Lighting: Mysterious Moonlight, Enchanting, Serene
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.998),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

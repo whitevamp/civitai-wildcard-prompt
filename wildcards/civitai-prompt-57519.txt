@@ -1,0 +1,1 @@
+<lora:sovietMatchboxCover_v10:0.6>, <lora:gawrGuraHololiveAll_v4AllOutfits:0.6>, 1girl, dynamic pose, gawr gura, blue hoodie, shark hair ornament, sly smile, shark tail, soviet_matchbox_art, stamp, japanese kanji, halftone, flat color, minimalistic, simple background, white background, blue background

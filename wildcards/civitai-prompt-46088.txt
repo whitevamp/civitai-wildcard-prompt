@@ -1,0 +1,1 @@
+(masterpiece),best quality,good anatomy, shuimobysim,(1 girl:1), (upper body),(smile),short hair,(hanfu),(ecchi0.5), (trees:0.5), (flowers:0.6) ,(wooden house:0.2),(bamboo forest:0.2),(creek:0.2),(river:0.2), <lora:Moxin_10:0.5>, <lora:Moxin_Shukezouma11:0.8>

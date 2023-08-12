@@ -1,0 +1,1 @@
+RAW photo, rear view of the Statue of Liberty (statue:0.8) [(statue:0.6)::0.6] (unpants:1.2), pants pull, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3 <lora:unpants.v1.0:0.9>

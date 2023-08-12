@@ -1,0 +1,2 @@
+nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, 1girl,solo,realistic, photorealistic,ultra detailed, diamond stud earrings, long straight black hair, hazel eyes, serious expression, slender figure,, full body, long legs, big breasts , <lora:iu_v35:1>
+photorealistic,ultra detailed,extremely detailed face, solo,1girl, white white tee,  <lora:corset_v10:1>, kneeling on the bed with legs open, both arms up, harp focus, detailed skin <lora:iu_V35:1>

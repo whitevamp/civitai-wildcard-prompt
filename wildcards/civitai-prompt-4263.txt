@@ -1,0 +1,1 @@
+masterpiece, best quality, Male07, beanie, fingerless gloves, jacket, uniform, from above, ahetobleh, hands on own head, tongue out, city<lora:Male07:0.8> <lora:ahetobleh-nvwls-v1-final:0.7>

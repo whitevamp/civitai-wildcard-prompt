@@ -1,0 +1,6 @@
+solo, full_body, (best quality, masterpiece, absurdres:1.2), extremely delicate and beautiful, front view, beautiful face, perfect face
+sharp focus, delicate, 
+smooth skin
+(huge_breasts:1.2), (thick thighs:1.2), , wide hips,pussy
+ <lora:add_detail_lora:0.5> 
+<lora:GodPussy1 v3:0.8>

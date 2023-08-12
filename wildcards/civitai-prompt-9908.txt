@@ -1,0 +1,1 @@
+nsfw, best quality, (masterpiece:1.2),ultra-detailed,(nose blush:1.2),open clothes, cinematic lighting, nude, breasts, nipples, ass, vagina, pussy, dreamy, soft, fluffy,  <lora:add_detail:0.4>, <lora:egirl:0.5>, <lora:Gothpunk:0.3>

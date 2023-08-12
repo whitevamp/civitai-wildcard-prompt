@@ -1,0 +1,1 @@
+jinxLol,solo,Jinx playing basketball,basketball outfit,detailed lighting, detailed shadows, detailed background,steampunk  <lora:JinxLolEp8dim8:1>,

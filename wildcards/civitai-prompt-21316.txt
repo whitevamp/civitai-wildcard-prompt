@@ -1,0 +1,2 @@
+<lora:pixelV2:0.5> (((pixelart))), <lora:add_detail:0.5>, 
+a tall stormtrooper, posing with pistol, in a village, on sand planet, moons in the sky, <lyco:BetterGuns-V1:1.0>

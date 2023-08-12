@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:hoteltransylvania_mavisdracula:0.8> mavis dracula, dress, striped thighhighs, 
+smug, smirk, fangs,   <lora:Exe:0.8> Exe, teeth, horror (theme),sharp teeth, glowing, dark, blood, tongue, grin, glowing eyes, evil smile,

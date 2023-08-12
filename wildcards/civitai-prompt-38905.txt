@@ -1,0 +1,3 @@
+30yo japanese woman, cat-ears, bokeh, dark, deep shadows, looking at viewer, happy, crop shirt underboob,
+highest quality, best quality, masterpiece 
+<lora:crop_shirt_underboob:0.6>

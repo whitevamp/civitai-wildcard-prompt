@@ -1,0 +1,2 @@
+Cthulhu lurking below (the earth), ([white background:overlapping desaturated color gradients background:5]), ((black frame)), writhing tentacle border, bat wings, dripping, abstract, green gold purple, star charts, ocean waves, ancient spires rising from the sea, the stars are right, the sleeper awakens, in the style of b1nk.
+<lora:add_detail:0.3> <lora:b1nk3CIVIT:0.8> <lora:Stylora:0.5> <lora:cthulhu-beta4-clipskip2-000009:0.9>

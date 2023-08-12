@@ -1,0 +1,6 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:torogao:0.5><lora:boldline:0.5> <lora:oil2.0_2-512-64:0.8>
+2girls,torogao,blush,large breasts, shiny skin,forehead,  black hair,nipples,pussy,  lingerie, 
+multiple girls, sex ,1boy,large penis,
+pov,Missionary,Sex from behind,group sex, kiss,licking, 
+cum in pussy, cum on body,cum on breasts, 
+<lora:PovGroupSex_v10:0.8>

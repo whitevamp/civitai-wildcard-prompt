@@ -1,0 +1,1 @@
+1girl,  <lora:Char - Ariel :0.5>, red hair, underwater, mermaid, blue eyes, smile, water,

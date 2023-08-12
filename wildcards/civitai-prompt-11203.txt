@@ -1,0 +1,1 @@
+<lora:koreanDollLikeness_v10:0.3>,<lora:taiwanDollLikeness_v10:0.2>(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl, solo, cute,beautiful detailed sky,detailed cafe,night,standing,dating,(nose blush),(smile:1.1),(closed mouth) medium breasts,beautiful detailed eyes, bowtie, long hair, legs, sweater

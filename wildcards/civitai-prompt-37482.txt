@@ -1,0 +1,2 @@
+<lora:more_details:0.75>, <lora:unhorny_v01:-1>,  , <lora:ClothingAdjuster2:0.5>, (small breasts:1.2),  <lora:MyBreastHelper:0.8>
+(masterpiece, best quality, sensual:1.3, waist-up shot) from behind, angel, (luminescent wings:1.2), in heavenly cloudscape, radiating divine light, looking over shoulder, (official art, extreme detailed, highest detailed, dynamic camera angle)

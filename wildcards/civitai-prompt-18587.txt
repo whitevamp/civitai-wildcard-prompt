@@ -1,0 +1,1 @@
+(masterpiece, best quality, solo, intricate details, chromatic aberration), realistic, The Joker, <lora:Char_Sigmas_Joker:0.7>, HoldingMonsterEnergy, <lora:Pos_HoldingMonsterEnergy:0.5>

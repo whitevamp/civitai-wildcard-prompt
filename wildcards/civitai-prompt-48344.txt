@@ -1,0 +1,1 @@
+huaniao, [(white background:1.5)::5], mid shot, full body, chinese style, flowers,((fish)),stone fragment, beautiful detailed water,pool,  <lora:huaniao:1>

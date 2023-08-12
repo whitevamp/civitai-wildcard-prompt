@@ -1,0 +1,4 @@
+professional photo of j3s1c4, shirt, skirt,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality, 
+<lora:Jessica_Rick_And_Morty-v1:0.58:MIDD>

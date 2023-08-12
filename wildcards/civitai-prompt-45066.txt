@@ -1,0 +1,2 @@
+<lora:yom:0.5>masterpiece, best quality, 1girl, office, pantyhose,  penis, pov, open shirt, blushing, embarassed expression, heels, ahegao, 
+ <lora:povSquattingCowgirlLora_pscowgirl:0.9> <lora:ahegaoRollingEyes_v1114:0.3>, sweating, looking at viewer, wearing glasses, hair ornaments, jewellery gold silver necklace, tongue sticking out, arms supporting chest, medium breast, small chest

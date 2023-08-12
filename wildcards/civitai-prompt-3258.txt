@@ -1,0 +1,8 @@
+(masterpiece),(best quality), 
+looking at viewer, 
+{top view|bottom view|middle view}, 
+{long hair|medium hair|short hair}, (wavy hair:0.8),
+{upper body|cowboy shot}, 
+{indoors|outdoors}, 
+{fantasy|modern|science fiction},
+{dawn|night},

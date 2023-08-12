@@ -1,0 +1,1 @@
+<lora:TanRealStockings:1>, <lora:opentoeNYX:1>, <lora:dongu:1>, RAW photo, woman, (TanRealStockings:1.1), (visible top lace bands:1.3), (dongu:1.1), (opentoeNYX:1), (high detailed skin:1.2), (outdoor:1.3) elegant garden, (cinematic light:1), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, (red dongu)

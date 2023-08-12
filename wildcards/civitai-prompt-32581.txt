@@ -1,0 +1,1 @@
+picture of kim jong un sneezing, closed eyes, blush, (hands covering mouth:1.26), (FISneezing:1.5) <lora:epi_noiseoffset2:1> , BREAK (masterpiece, extremely detailed skin, photorealistic, heavy shadow, dramatic and cinematic lighting, key light, fill light), sharp focus  <lora:FISneezing:1.5> , ((fire and explosions in the back))

@@ -1,0 +1,2 @@
+rawphoto, photorealistic:1.4, see-through black leotard:1.1,covered nipples:0.3,covered navel, masterpiece,1girl,cute,<lora:clothesSeeThrough_v10:0.8>,  city street,
+ f/1.4, ISO 200, 1/160s, 8K

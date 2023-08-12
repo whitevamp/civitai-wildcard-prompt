@@ -1,0 +1,8 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), (asian, cute, petite, smooth thigh, pale skin, detailed blonde hair, small breasts, glistening skin, blushing), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose,
+
+intricate, detailed, reflective,
+1boy, detailed penis, sex, ride, sweaty skin, horny, seductive expression, wet pussy, eyes closed, wet pussy, cum,
+bed, sheer flowing gown,
+white background, ink, scenery, roses, , statue, pedestal, crescent, ambient, 
+
+<hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1>    <lora:cow2:0.6> <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.6> <lora:CyberpunkStyleV3:0.6>

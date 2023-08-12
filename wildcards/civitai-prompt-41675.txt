@@ -1,0 +1,1 @@
+onoff, woman in a sari, dark skin, silk tapestries <lora:onoff4:1>

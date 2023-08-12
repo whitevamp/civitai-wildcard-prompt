@@ -1,0 +1,13 @@
+k4t3upt0nv1
+(young 18 years old girl), (detailed facial skin texture:1.2), (few) beauty marks, symmetrical eyes
+seductive smile, teeth visible
+(comfortable laid-back relaxed facial expression)
+(masterpiece), (best quality:1.4), highres, UHQ, HQ, 4K
+1girl
+(close up shot)
+nsfw, naked, nude, uncensored, uncensored nipple
+medium sized breasts, natural breasts, symmetrical tits, light red nipple color, (small circular areola, small nipple area)
+(face in shot)
+(flashlight, night photograph, low light environment:1)
+<lora:NightphotoV1-0:1> (nphot, high contrast, low key, dramatic lighting, rim lighting, dark background, amateur bad camera flash, only lighted by camera flash, one light source, sharp shadows, pronounced shadows, strong black shadows, light and shadows, strong contrasts between light and dark, dramatic effect of contrasting areas of light and dark, Chiaroscuro, clair-obscur, claro-obscuro, chiaro-scuro:1.3)
+<lora:add_detail:0.5>

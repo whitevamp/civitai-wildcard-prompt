@@ -1,0 +1,3 @@
+<lora:JPGirlCarAssistSeatMix1:1>
+(photorealistic:1.4), (8k, RAW photo:1.2)
+1girl, solo, long hair, smile, bangs, brown hair, shirt, smile white shirt, blurry, lips, eyelashes, traditional media, , ground vehicle, motor vehicle, realistic, car, painting (medium),, car interior

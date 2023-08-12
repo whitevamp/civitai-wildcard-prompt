@@ -1,0 +1,5 @@
+full body, standing,
+detailed skin texture, detailed cloth texture,  beautiful detailed face, detailed background,beautiful detailed face,
+inside a palace,
+masterpiece, best quality, ultra detailed, 8k, intricate details, film grain, looking at viewer, 1girl
+<lora:cuteGirlMix4_v10:0.2> <lora:koreanDollLikeness_v15:0.3>

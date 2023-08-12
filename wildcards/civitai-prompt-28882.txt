@@ -1,0 +1,1 @@
+1girl, photo, masterpiece, sweetlolita at bedroomgothic, heart shape on cheek, gloves, smile, pastel color, ornate, broderry, holding stuffed animal, bokeh,  <lora:ARWSweetLolita:1>  <lora:ARWBedroomGothic:0.4>

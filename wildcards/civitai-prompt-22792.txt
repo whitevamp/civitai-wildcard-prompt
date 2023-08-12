@@ -1,0 +1,1 @@
+<lora:neowrsk_v2:0.5> neowrsk, flying spacecraft, floating in the sky, dutch angle, <lora:add_detail:1> <lora:spaceship_:0.6> spaceship, <lora:ghostdom_20230621222536-000016:0.4>

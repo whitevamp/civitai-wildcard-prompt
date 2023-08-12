@@ -1,0 +1,12 @@
+(masterpiece, 4k ,ultra detailed:1.2),illustration,(photorealistic:1),
+(abstract:1.2),
+(backlighting:1.2),
+(simple background:1.4),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:1.5>,
+<lora:novel_bright:0.8>
+ADDBASE
+(landscape,scenery,ocean,wave,cloud,no_humans:1),(small boat:1.4),(white background:1.2) ADDROW
+(underwater,no_humans:1.2),(blue background:1.2) ADDROW
+(underwater,seabed,shark:1.4),(dark,abyss,no_humans:1),(black background:1.4),
+ <lora:epiNoiseoffset_v2:2>

@@ -1,0 +1,5 @@
+masterpiece, best quality, photorealistic, (1girl), 
+(pureerosface_v1:0.7), ulzzang, pale skin, long (pink hair), blue eyes, (medium breasts),  
+naughty face, (seductive) smile, 
+<lora:TeaseUnderboob:0.8>, (underboob), <lora:UniformMilitaryCamouflage:0.7>, wearing camouflage_uniform, military, narrow waist, 
+knife thigh strap, (skindentation),

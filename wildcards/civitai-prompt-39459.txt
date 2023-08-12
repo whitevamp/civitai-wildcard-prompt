@@ -1,0 +1,2 @@
+synthwave keeshond wearing  sunglasses,headshot,80s retro,Leonardo Style,illustration,vector art, <lora:leonardo_style:1>
+BREAK plain white background

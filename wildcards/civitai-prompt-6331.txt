@@ -1,0 +1,1 @@
+<lora:epi_noiseoffset-v2:0.9> <lora:PeterSellers:0.8> <lora:style-rembrandt:1> <lora:landsknecht:0.6> Peter Sellers as a landknt with armor, with a wide hat, sitting in a cozy medieval tavern, holding a big (mug of beer:1.4), dark corners, high contrast, (dark background:1.4), (candles:1.2), (masterpiece:1.2), (chiaroscuro:1.2), man, 40 yo

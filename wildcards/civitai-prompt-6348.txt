@@ -1,0 +1,10 @@
+(best quality, masterpiece, ultra high resolution),(photorealistic:1.5), award winning photo, highest quality, extremely detailed, (realistic),  f1.6 lens hyper realistic lifelike texture dramatic,
+cinematic lighting, film photograph,dynamic lighting, (pantyhose),
+1girl, solo focus,
+18yo, breasts, thin legs, pale skin, elegant, sacred, (scifi techmask and headphones), headset,
+(shiny skin), wire boundage, (glowing),
+ornaments, mechanical arms, synthetic skin, porcelain, (pearl), (diamond), (ruby), (sapphire), (gemstones), 
+cyberpunk, futuristic, cable, electric wires, microchip, machinery, screw,  bar code, full body,
+(pov),
+(inverted colors),
+<lora:perfectpantyhose:0.35>  <lora:add_detail:0.3>  <lora:OC:0.3>  <lora:cbpkv_20230612134125-000005:0.4>  <lora:tutu_20230530092930:0.4>

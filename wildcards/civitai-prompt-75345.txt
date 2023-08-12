@@ -1,0 +1,5 @@
+lifelike rendering, immersive atmosphere, chiaroscuro, moody lighting,atmospheric perspective, fluid movement, ethereal quality,mythic fantasy,(photorealistic:1.3), raw photo,
+solo,abdomen,Navy blue wrap top, brown wide-leg pants,(nsfw:0.85),
+Harmony,
+(Glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),
+<lora:OC:0.25>    <lora:LowRAv2:0.4>  <lora:GlowingRunesAIV6:0.2>

@@ -1,0 +1,4 @@
+<lora:restroom_v0.2a:1>
+1girl, inside urinal, restroom, multiple boys, 
+<lora:qos_tattoo_v0.5:0.8> queen of spades symbol, penis,
+<lora:blacked_v1.5:1>, masterpiece, best quality, highly detailed

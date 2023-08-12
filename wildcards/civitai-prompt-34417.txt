@@ -1,0 +1,1 @@
+masterpiece, best quality, 1boy, vpl, button up shirt and tie, risque, smirk, biceps, leaning back, <lora:more_details:0.1>, <lora:hardvpl:0.8>

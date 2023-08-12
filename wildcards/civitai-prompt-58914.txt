@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.4),
+<lora:Character - Rutina ルティナ (Isekai Meikyū de Haremu wo) v1.0:0.69>,
+white gloves, white and blue dress, gold details, elf, white dress, elf ears, blonde hair, ((long straight gold earrings)), hair between eyes, jewelry, long hair, long pointy ears, high ponytail, blue flower hair ornament, (large breasts:1.4), (beautiful face:1.5), (narrow waist),
+
+looking at viewer, embarrassed, shy, full body, abstract background, using magic, magic, spells, cating magic, casting spells, water magic, wind magic, magic circles, holding magic book,
+
+official art, Colorful, Bright Front face Lighting, ultra high res, ultra-detailed, highres, absurdres:1.2, (vibrant color:1.2)

@@ -1,0 +1,2 @@
+flashlight, at night, a paparazzi photo of a man and woman in the center of a club, dynamic pose, John Varvatos fashion, jewelry punk, extremely detailed, intricate, hyper-detailed, (crowd:0.7)
+<lora:flashlight_v15A:1>   <lora:LowRA:0.5>  <lora:cbrprdn2v:0.5>  <lora:jgfw00:0.5> <lora:GothicPunkAI:0.5>

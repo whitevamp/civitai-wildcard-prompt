@@ -1,0 +1,2 @@
+1 young guy leaning on the wall waiting subway coming,
+<lora:msw_v10:0.8> msw, <lora:Color Separation_B_1.1:1>

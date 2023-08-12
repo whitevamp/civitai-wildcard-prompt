@@ -1,0 +1,1 @@
+realistic, hyperrealistic, rim lighting, global illumination, dramatic lighting, (masterpiece), (best_quality), (ultra-detailed), (illustration), 8k, absurdres, contrapposto, (full body:1.7), vivid colors, pastel beige hair, Steampunk girl, brass machinery, nice hands, beautiful hands<lora:theovercomer8sContrastFix_sd15:1><lora:GoodHands-beta2:1>

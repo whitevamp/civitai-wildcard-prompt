@@ -1,0 +1,2 @@
+Photo of a sexy woman in an industrial nightclub, young, tall, skinny, sky-high stiletto heels, red lips, (evil woman:1.2), (poor quality photo:1.3), (blurry:1.4), smiling, best shadows, 8k, raw photo, crowd of people, UndergroundClub, flirting to the camera, close up, intricate, mist
+ <lora:UndergroundClub:0.6>

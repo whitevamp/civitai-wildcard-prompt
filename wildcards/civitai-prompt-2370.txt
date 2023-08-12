@@ -1,0 +1,2 @@
+(hyper realistic), (masterpiece:1.2), (best quality),, <lora:Helsie:0.4>, xyzhelsie, multicolored hair, ambient occlusion, 1girl, sinRedDress, closed mouth, naughty smile, (petite:1.2), (small breast:1.1), neon, bar, night life, night club, dancing background, sharp focus,(8k), (4k),very long hair,
+<lora:sinRedDressv1:0.9>

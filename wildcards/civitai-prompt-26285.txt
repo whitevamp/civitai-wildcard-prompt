@@ -1,0 +1,1 @@
+waves, sparkle, no humans, black background, water, ocean, bird, cloud, animal focus, sky  <lora:water_20230709214459:0.82>

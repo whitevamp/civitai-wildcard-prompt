@@ -1,0 +1,1 @@
+masterpiece,best quality,toon,3D,simple design, Pixar style,(house:1.5), sandbox ,Peach and Mint,(tree,:1.3) ,Florist, Arial view <lora:mScene_v10:0.8>,

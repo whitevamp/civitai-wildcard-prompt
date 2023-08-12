@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, cinematic lighting, adult, female, looking at viewer, (RSEEmma:1.5),  <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>,  <lora:tloz_midna-10:1>, (midnaimp:1.3), fang, helmet, colored sclera, yellow sclera, one eye covered, dungeon, castle, bricks, dark, gloomy, night, moon, nude, naked, horizon, glowing, smile, :), ponytail, small, stone

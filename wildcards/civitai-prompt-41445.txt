@@ -1,0 +1,1 @@
+simple background,masterpiece,from behind,all fours,Arima Kana,solo,intenseglare,blush,nude,medium breasts,<lora:eropose_allfours:0.5>,<lora:Arima Kana:0.7>,<lora:Intense_GlarerV2:0.9>,

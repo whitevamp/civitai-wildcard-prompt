@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl,<lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, shark tail,  two side up, shark hair ornament, cube hair ornament, 
+
+ <lora:changeACharacter_domv10:0.8> DominatrixA, leather, leotard, skirt,

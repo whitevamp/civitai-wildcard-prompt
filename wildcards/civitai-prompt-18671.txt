@@ -1,0 +1,1 @@
+wallpaper, background, masterpeice,  sy3 <lora:Sy3:0.4>    <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

@@ -1,0 +1,3 @@
+(photorealistic:1.2),( realistic:1.2),(best quality, masterpiece),
+1girl, huge breasts, asymmetrical breasts, navel,long hair, ringlets, (streaked hair:1.2), (dark gray eyes:1.2), bikini armor, pasties, v arms, Old, crumbling ruins, overgrown, enchanted, history, scattered pillars, sunbeams, hazy atmosphere ,dynamic pose,\ufeff1girl,OC illustration.tan skin,shiny_skin,
+<lora:bikini-pastie-armor:0.95> <lora:kanna_lora:0.1> <lora:aki:0.9>  <lora:OC illustration:0.3> <lora:oil2.0_2-512-64:0.5>

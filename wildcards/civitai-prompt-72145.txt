@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, gris, solo, mecha, bodysuit, mechanical arms, blue eyes, freckles, blue hair, short hair, blush, looking at viewer, thick lineart,  science fiction, simple background <lora:Gris:0.8> <lora:nijiMecha:1>

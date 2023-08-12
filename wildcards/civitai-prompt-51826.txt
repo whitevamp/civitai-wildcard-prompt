@@ -1,0 +1,4 @@
+masterpiece, best quality,highres, 8k,official wallpaper, arms behind back, portrait, , leaning forward,outdoors,1girl,solo ,in_school,crowd,real sunlight,
+srius symboli \(umamusume\),<lora:sriusSymboliUmamusume_loha:0.8>blurry,
+alternate costume,collarbone,smile,
+nontraditional playboy bunny, bare shoulders, black bowtie, wrist cuffs, detached collar,  pantyhose, <lora:vividImpactfulStyleYoneyamaMai_v40hLocon:0.55>

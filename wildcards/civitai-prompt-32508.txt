@@ -1,0 +1,1 @@
+solo, masterpiece, best quality, 1girl, <lora:Akane Ryuzoji:0.6> akane ryuzoji, leaning forward, open shirt, loose t-shirt, red hair, blue eyes, ponytail, drill hair, blush, large breasts, nurse, garter straps, white pantyhose, breasts, downblouse, white walls, hospital bed, looking at viewer, from front, <lora:add_detail:0.2> <lora:downblouse-v1:1>

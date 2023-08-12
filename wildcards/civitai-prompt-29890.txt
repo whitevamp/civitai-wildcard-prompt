@@ -1,0 +1,8 @@
+masterpiece, best quality, ultra-detailed, illustration,
+(1girl),beautiful detailed eyes,
+<lora:titaniafrost-lo-richy-v1:0.7> titaniafrost, blue hair, white hair, short hair, glowing eyes, red eyes, mature female, large breasts, BREAK
+, head tilt, (blush, full-face blush, embarassed:1.2)
+<lora:pajamas-10:0.6>, pajamas ,
+looking at viewer, modelshoot style, (fcDetailPortrait:0.8), bedroom, indoors, bed background, (full body:1.2),
+<lora:more_details:0.3> ,
+<lora:GoodHands-vanilla:0.5>

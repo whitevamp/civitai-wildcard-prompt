@@ -1,0 +1,5 @@
+(professional studio lighting), Wide angle, long shot,front view, (full body,dynaminc pose),photography of a woman, solo focus,
+ponytail, earrings, huge breast, thin waist, wide pelvic, (no panty under pantyhose:1.2), thick thigh, calf, highheels,harness,
+jewerly, luxury, tatoos,
+indoor,
+(realistic skin_details, sharp focus, masterpiece, best quality, realistic detail, clear image, realistic, high resolution:1.4) <lora:add_detail:0.7>

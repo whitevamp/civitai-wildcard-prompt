@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, sharp focus, depth of field,
+Ingrid, mature female, 1girl, (dark-skinned female:1.3), 1boy, hetero, arm grab, standing sex, sex from behind, doggystyle, top-down bottom-up, ahegao, blush,
+pink hair, very long hair, makeup, lipstick, (mole under mouth:0.8),
+nude, naked, elbow gloves, thigh boots,
+curvy, huge breasts, pussy
+<lora:IngridV2:0.8>  <lora:qqq-standing_doggystyle-v2:0.5>

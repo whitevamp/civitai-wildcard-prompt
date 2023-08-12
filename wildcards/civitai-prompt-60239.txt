@@ -1,0 +1,5 @@
+{{best quality}}, {{masterpiece}}, {{ultra-detailed}}, {illustration}, {detailed light}, {an extremely delicate and beautiful}
+beautiful
+Analog style, ChromaV5,nvinkpunk,(extremely detailed CG unity 8k wallpaper), (A Landscape of a snowy forest),award winning photography, Chromatic Aberration, Detailed , HDR, Bloom, style by Monet, Pissarro, and Sisley ,trending on ArtStation, trending on CGSociety, art by midjourney
+chinese girl
+ <lora:japaneseDollLikeness_v10:0.1> <lora:koreanDollLikeness_v15:0.1> <lora:tifosemix_v1064s:0.5>

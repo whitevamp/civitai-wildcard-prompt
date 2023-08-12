@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 8k, 1girl, full body shot, muscular body, medium, boobs, short hair [purple | pink] hair, lifting cloth, high school sport uniform, <lora:corruption_v21:0.45>, corruption, empty eyes, half-closed eyes, evil smile, no pupils, evil grin, (corruption tattoo:1.2), sitting on vaulting horse, facing viewer, view from below, 
+ <lora:gym_storeroom_v0.1:1>, gym storeroom

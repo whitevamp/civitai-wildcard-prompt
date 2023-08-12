@@ -1,0 +1,3 @@
+Best quality, masterpiece,  (photorealistic:1.4),  raw photo,  (from below, blurry background, depth of field:1.4), FilmG,  low key, 1girl, maid, solo, maid headdress, violet eyes, black thighhighs, black hair, black maid apron, earrings, indoors, medium breasts, cleavage cutout, panty pull,  twin braids, cross necklace, evil smile face, long sleeves, standing split,
+<lora:FilmG2:1:COLOR>
+<lora:Maid_3000:0.7:CLOTHING>

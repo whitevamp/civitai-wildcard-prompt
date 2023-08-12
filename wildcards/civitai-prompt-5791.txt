@@ -1,0 +1,16 @@
+isabelmoner-smf,  bandeau, petite,1girl,  micro cropped top,  messy  hair, looking at viewer,,
+portrait,  long hair, from below,
+
+ , brown hair,  shoulders, bracelet, (orange micro shorts:1.3), bangs, smirk, side view, leaning foward, 3/4 view
+
+ankymoore,  ( illustration:1.4),
+((shortstack:1.5)), (skindentation:2.8)
+ ankymoore, posing, makeup,
+temple ruins, moss, debris, mossy, 
+ flat chest, curlyt hair, pigtails,  looking at viewer,   (masterpiece), (best quality:1.2), absurdres, intricate details, skin tight, skin fold, , 
+
+(masterpiece, best quality), intricate details,    ((blushing)),
+
+<lora:ankymoore:0.35> <lyco:isabelmoner_lycoris_01-000003:0.86> <lora:Bandeau-fC-V1:0.75>, 
+
+ <lora:[LoRa] Clearlight 清光 Concept (With multires noise version):0.9> <lora:uv:0.8>

@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.4),
+1girl, standing, leaning back, upper body, body fur, (white fur, white skin:1.2), digitigrade, adjusting hair,
+white hair, long hair,
+black mask, (blue eyes, glowing eyes:1.2),
+(small breats:1.1),
+(blue nipples, glowing nipples, large nipples, large areolae, puffy nipples, puffy areolae:1.2),
+flaccid, huge penis, (huge testicles:1.4), sagging testicles, cock sheath, (blue penis, glowing penis:1.4),
+<lora:kindred:1> <lora:Flaccid Horse Penis:1> <lora:NoiseOffset:2>
+nature, river, caustics, water splashes, partially submerged, rocks,

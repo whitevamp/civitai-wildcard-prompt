@@ -1,0 +1,1 @@
+masterpiece,  best quality, (highres:1.2),  highly detailed ,<lora:sailor_moon_v1:0.9> ,aausagi, blonde hair, double bun, twintails, parted bangs, (nude:1.1), crescent moon, octane render, photorealistic,  galaxy background, closed eyes,

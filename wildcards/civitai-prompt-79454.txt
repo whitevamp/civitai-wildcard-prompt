@@ -1,0 +1,6 @@
+(makeup:0.3), beautiful Medium beasts, nsfw, nipples, nude, full body shot:1.3,bokeh:1.2,  yellow background,  model pose, standing, (small_head),
+1 girl,fit, solo, nun,collarbone:1.3, pelvic_curtain:1.3, smooth skin, necklace,
+big_breasts, black_hair,  long legs,   long hair,  tiny_waist, realistic_detailed_skin_texture,  good hands, good feet,  <lora:koreanDollLikeness:0.65>,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, ((Hasselblad photography)),physically-based rendering, professional soft lighting, light on face,  <lora:GodPussy1 v2:0.3>, pussy,
+ <lora:breastinclassBetter:0.2>, <lora:inniesBetterVulva_v11:0.1>
+<lora:badbrounderwear:0.3>, fishnets, lingerie, see-through,  pantyhose, bodysuit,

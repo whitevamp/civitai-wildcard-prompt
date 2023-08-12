@@ -1,0 +1,3 @@
+Taki, standing, upper body,  ponytail,  exposing pose,  smug, spread legs,  torn clothes,  
+dojo, night, moon, sengoku period,  window
+(insanely detailed, beautiful detailed face, masterpiece, best quality)    <lora:Taki-10v3:0.7>

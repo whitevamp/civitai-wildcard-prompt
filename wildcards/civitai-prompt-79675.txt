@@ -1,0 +1,1 @@
+(photorealistic:1.4), real photo, 8K UHD,realistic light,Best quality, masterpiece, ultra high res, 1girl , shiny skin best quality,[woman:Ana:0.9],long hair , cruvy figure,( red cheongsam dress), background is Chinese temple , outdoor, sky , ,35mm film , artistic elements that showcase the girl's natural beauty and grace, <lora:FilmVelvia:0.65>

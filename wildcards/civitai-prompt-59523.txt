@@ -1,0 +1,3 @@
+dark theme, steampunk ,
+A graceful woman wearing a men's top hat and a tight-fitting vest that reveals her shoulders and back. Her hair is styled in braids and colored chestnut brown. She holds a riding crop, casually resting it on her shoulder. The scene has a cinematic quality, evoking a sense of mystery and intrigue, (sexy black lingerie:1.2)
+upper body, dark light, (rembrandt light:1.3),back silhouette, riding crop, long leather glove, <lora:lowra_v10:1>

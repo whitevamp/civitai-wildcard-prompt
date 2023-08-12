@@ -1,0 +1,1 @@
+Analog style, NCCG wearing trekngs1 uniform, <lora:STTNGV018:0.8> <lora:NCCG3_3045:1>

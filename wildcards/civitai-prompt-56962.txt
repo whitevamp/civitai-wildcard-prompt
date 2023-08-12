@@ -1,0 +1,1 @@
+[(white smoke background:1.5),::5], isometric, 1 girl, mid shot, full body, pretty 1girl, absurdres, 8k uhd, platinum blonde hair, bob cut, medium breasts, black jacket, lingerie, metro background, neon signs, dynamic light, close up portrait  <lora:russianDollLikeness_v3:0.3>,  <lora:lightAndShadow_v10:0.2>, <lora:gachaSplashLORA_gachaSplash31:0,4>

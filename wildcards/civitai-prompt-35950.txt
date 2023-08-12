@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece, <lora:add_detail:1>,
+0.25 :: close-up , angled shot from the side , from below ,
+1girl, sophitia,  <lyco:Sophitia_LoCon:0.3>,  an extremely beautiful 25-year-old Caucasian milf,   (blonde hair:1.2),  long hair, low-tied_long_hair, hair_ribbon, blue_ribbon,  single_braid, green eyes, shiny skin, flawless skin, fair skin, cleavage, jewelry, wedding ring, (large breasts:1.35), light blush,  solo  , looking at viewer,
+nipples show through the clothes, sweat, seduction, nsfw,
+(The Crochet Bikini: A bikini made of crocheted fabric, offering a semi-sheer effect and intricate patterns that add a bohemian and playful vibe, (under2:0.9), (wet:0.5):1.3),
+(  The Tempting Tantalizer: Dressed in a revealing lingerie set, she entices the audience with her confident and alluring presence, leaving them yearning for more :1.3),
+at dark night ,
+((best quality)), ((masterpiece)), ((realistic)), Explore the 512x768 interior of a large mart, captured in stunning detail. The vibrant colors and lively atmosphere immerse viewers into the shopping experience. Soft ambient lighting adds a touch of coziness. on eye level, scenic, masterpiece  ,

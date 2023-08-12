@@ -1,0 +1,2 @@
+((katana, holding_katana, hand)),dynamic, action photo, fighting with water, (katana:1.2), female, floating,  floating blue_hair, long hair, (waterdrop:1.0), blue_kimono with detailed pattern,(textured_clothing), (black background:1.6), (in center of (tornado|water):1.0), ,
+, highres, shadows, masterpiece, best_quality, ultra_detailed, 8k, extremely_clear, absurdres, photograph, Portfolio piece, beautiful artwork, sharp focus, hdr,

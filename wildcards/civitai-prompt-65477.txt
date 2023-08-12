@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, facial hair, pink t-shirt, pink pants, (fake rabbit ears:1.2), crouching, warehouse <lora:solidsnake-nvwls-v3-000012:0.6>

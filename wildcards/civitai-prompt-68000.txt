@@ -1,0 +1,3 @@
+castlevania style, 1girl, solo, red eyes, long hair, blush, red hair, lips, parody, fur trim, pointy ears, brown hair, looking to the side, looking away
+, ((masterpiece))
+<lora:castlevania_style_offset:1>

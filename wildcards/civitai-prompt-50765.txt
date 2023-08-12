@@ -1,0 +1,2 @@
+masterpiece, best quality, hyperrealistic, fine art painting of 1woman, hungarian, medium closeup portrait, beautiful detailed eyes, perfect face, beautiful detailed face, looking at viewer, from below, amazing sharp focus, ultra detailed, soft skin,
+medium hair, multicolored hair, brown eyes, intricate crop top,  moaning, floating particles, aquatic atmosphere,  field, <lora:style_hipoly3DModelLora_v10:0.3> ,  <lora:jackRX:1> medium breasts<hypernet:By bad artist -neg:1>

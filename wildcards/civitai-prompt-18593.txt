@@ -1,0 +1,1 @@
+(1girl, 1person), (insanely detailed and intricate, hyperrealistic, photo), <lora:Other_MoreDetails:0.5>, A lost city of great wisdom and power, now drowned beneath the sea, dark fantasy, Demon, Raiden_Shogun_\(genshin impact\), Raiden_Shogun:1.2, blue hair, long hair, <lora:Char_GenshinImpact_RaidenShogun:0.8>

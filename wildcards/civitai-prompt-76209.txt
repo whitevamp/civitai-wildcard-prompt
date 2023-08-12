@@ -1,0 +1,6 @@
+1girl, (8k, best quality, masterpiece, perfect lighting:1.2), POV, cowboy shot,
+a photo of a cute girl,  minase iori, idolmaster million live!, cheerfully posing for a photo session in a booth of a gaming event, (smile:1.1), grin,
+<lora:flat2:-0.6>
+<lora:dsiori_lc_768:1>
+dsiori, brown hair, long hair, pink eyes, hairband, glossy pink playboy bunny, fake animal ears,
+sfw,

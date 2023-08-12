@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, japanese,narrow waist, <lora:Cute Asian Face:0.5>,medium hair,business suit,Pencil skirt,thighhighs,(panties:0.8),from back,leaning forward,  <lyco:elevator_v0.4-locon-000007:1.0>,elevator,cowboy shot, from below,(spread legs,hip focus:1.1),looking down,pov,smile

@@ -1,0 +1,1 @@
+girl,(synthwave,dawn,shaded,nude,dynamic_pose),(peaceful,chill,sparkles,indoors,outdoors,prettify),Stadium Background,Lying,Marcel,lavender Corset,magenta Shorts,jojo no kimyou na bouken,Triangle Bra ,(masterpiece,detailed,highres,vibrant:1.4) <lora:3shot:0.6>

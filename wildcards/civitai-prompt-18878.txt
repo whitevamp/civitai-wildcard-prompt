@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece, <lora:add_detail:0.7>,
+0.25 :: close-up , straight-on shot , from miiddle ,
+1girl, helena, <lora:Helena_DOA5LR-KK77-V2:0.125>, <lora:doa_helena:0.225>,  an extremely beautiful 23-year-old girl,  blonde hair,  long hair, low-tied_long_hair, hair_ribbon, blue eyes, shiny skin, flawless skin, fair skin, cleavage, jewelry, earring, light blush,  solo  , looking at viewer, 
+(chubby nipples under the clothes:1.2), sweat, seduction, nsfw,
+sling_bikini_top, bikini,<lora:sling_bikini_top_v1.0:0.5>, (under2:0.9), (wet:0.5), submerged, poolside  ,
+(0.085 :: gravure pose :1.3),
+sunset ,
+in front of a window ,

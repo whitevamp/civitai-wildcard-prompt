@@ -1,0 +1,3 @@
+A crying Palestinian woman holding her head in her hands, ((with streams of pixel sorting water flowing down from her eyes)).
+best quality, highres, high resolution, sharp focus, high detail, cinematic shadow, hdr.
+<lora:Pixel Sorting:1>  <lora:LowRA:0.3>

@@ -1,0 +1,6 @@
+nikon RAW photo,8k,Fujifilm XT3,HDR,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,cinematic lighting,gril,1girl,solo,(full body:0.9),from behind,(large breasts:1.4),earrings,(high heels:1.5),after rain,wet,(dynamic pose:1.4),happy,
+night,Nightclubs,stages,,
+(blue medium Gradient curly_hair:1.7),
+(hotpink see-through dress:1.6),
+(red pantyhose:1.4),
+<lora:perfectpantyhose:0.6.5> <lora:sd-No.178-000014:0.7>,

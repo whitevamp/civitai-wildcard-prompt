@@ -1,0 +1,1 @@
+face lighting,bright backlight,medium breasts,super high resolution,best quality,Photos,4k,(Realistic:1.2),1girl,Pink hair,(Snow:1.2),QiPao2,sky blue clothes,Half-body phase,<lora:girl_20230530180912:0.8>,<lora:LiquidClothesV1fixed:0.8>,<lora:QiPao2:0.5>,

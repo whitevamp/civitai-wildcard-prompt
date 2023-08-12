@@ -1,0 +1,1 @@
+a photo of a banana wearing a white suit <lora:dressedAnimalsLora_v10:1>

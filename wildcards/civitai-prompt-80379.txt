@@ -1,0 +1,1 @@
+masterpiece, highres, best quality, ultra-detailed, perfect lighting,  <lora:smol_20230527144512:1> smol,  <lora:Neco-Arc:0.8> neco-arc, 1girl :3, cat ears, cat girl, cat tail, solo, yellow hair, red eyes, ((white turtleneck)), white attire

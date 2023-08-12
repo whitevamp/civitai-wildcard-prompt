@@ -1,0 +1,1 @@
+cinematic, hyperdetailed, disgusting body horror giants <lora:BodHor-V1:0.8> dead, (surrounded by scientists in suits:1.1)

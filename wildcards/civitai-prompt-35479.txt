@@ -1,0 +1,2 @@
+<lora:unhorny_v01:-1> <lora:ClothingAdjuster2:0.6> , <lora:Squeezer2:0.4>, (OverallDetail:1.1),
+(best quality, masterpiece, highest detailed) waist up shot elf maiden, tree lean, ethereal garb, (nature-infused:1.2), ancient forest, (moss-covered tree:1.3), (intricate details, hyperdetailed:1.15), sunlight filtering through leaves, (official art, extreme detailed, highest detailed).

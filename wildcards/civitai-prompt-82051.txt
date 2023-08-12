@@ -1,0 +1,1 @@
+a pink pig running on the grass, animal photo, flowers, outdoor, grass, bright, day, soft lighting, cute, <lora:UltimatePinkPig_v1.0:0.65>, ultimatepinkpig,  <lora:add_detail:-0.8>

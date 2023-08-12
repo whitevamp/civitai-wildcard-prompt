@@ -1,0 +1,4 @@
+(masterpiece), f5.4 focal length, 25 mm lens, (dynamic lighting), (subsurface scattering), ray tracing, ambient occlusion,  depth of field,
+ ((1boy, 1girl, corneo_anal, nsfw,  girl on top, anal sex)), (curvy woman, small a cup size  breasts, amber almond shaped eyes with basic eyeliner ), (two tone black and dyed white with dark roots:0.4 traditional haircut),wearing only blue and white flower pattern shirt, 
+raining, winter, noon, candy world,
+wearing fancy earrings and jewelry , <lora:xiaoshazi:0.1> , <lora:add_detail:0.1>, <lora:breastinclassBetter:0.2>

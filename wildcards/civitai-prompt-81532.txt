@@ -1,0 +1,1 @@
+( watercolor \(medium\), drawing,   IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, painting of  a multiples animals in a mystical flower field, butterfly, intricate details, god rays,  sfw

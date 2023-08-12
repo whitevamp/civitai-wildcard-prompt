@@ -1,0 +1,1 @@
+Fcartoon,A cute cat,<lora:Fcartoon:0.6>,<lora:3DMM_V11:1>,3DMM,MJ3D,1girl, solo, looking at viewer, black hair, hair ornament, long sleeves, dress, holding, brown eyes, jewelry, upper body, flower, earrings, hair flower, wide sleeves, necklace, petals, makeup, rose, chinese clothes, lipstick, black background, red flower, gem, holding flower, red

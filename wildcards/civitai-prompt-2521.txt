@@ -1,0 +1,6 @@
+realistic,thick thighs,masterpiece, (highres:1.2), (ultra-detailed:1.3), (oil painting:0.8),thick thighs, (extremely detailed CG unity 8k wallpaper:1.1),solo, 1girl,thick eyelashes,long eyelashes,perfect dynamic composition,(gigantic breasts:1.6),thick thighs,huge ass,(extremely detailed CG unity 8k wallpaper:1.1), full body, solo, 1girl, looking at viewer,
+rice shower \(umamusume\),mature female,eyeliner,long eyelashes,(purple eyes:1.3),sharp eyes,((one eye covered)),long hair,horse ears,ear ornament, thick thighs, (looking at viewer),(see-through:1.4), covered nipples, see-through long black gown, pussy, thigh gap, muscular, abs, biceps, leg muscles, standing, nsfw, billowing gown, long full see-through skirt, long full see-through dress,black thighhighs,lace-trimmed legwear,gyaru,evil smile,naughty face,thick lips,(huge lips:1.3) , (massive lips: 1.3), (parted lips:1.3), (thick lips:1.6),(seductive pose),((ahegao)),open mouth, blush,midriff, covered navel, 
+(8k), (4k),(Masterpiece), (Best Quality), fantasy, extremely detailed, intricate, hyper detailed, detailed eyes,(perfect face), illustration,soft lighting,(specular lighting:1.4),shiny skin,looking at viewer, 
+ <lora:riceShower_10:0.6>
+ <lyco:AromaStyle-V9:0.4>
+ <lyco:TankTopSkinTightv320:0.8>

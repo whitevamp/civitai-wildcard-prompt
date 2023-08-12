@@ -1,0 +1,1 @@
+realistic, photorealistic, masterpiece, best quality, 1girl, long black straight hair,  solo, standing in garden, looking at viewer, white lolita_dress, (pureerosface_v1:0.5), <lora:lolitaFashionDress_floral_style3:0.7> , <lora:Cute Asian Face:0.6>

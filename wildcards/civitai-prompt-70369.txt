@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece,  0.35 :: wide shot , straight-on shot ,
+1girl,  <lyco:Ivy_Valentine:0.55>, (an extremely beautiful mature female), short hair, silver hair, dark green eyes, (large breasts:1.4), cleavage, looking at viewer,  solo, evil grim, 
+gravure pose, sexy pose, seduction, sweat,
+next to a police car, ( wearing sexy cop uniform:1.3), <lora:sexy_cop_uniform:0.3>, 
+holding a baton,
+cityscape  of los angeles ,
+sunset ,
+crowds bachground,

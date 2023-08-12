@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, raw photo, beautiful and aesthetic,deep shadow, dark theme,(photorealistic:1.4),
+((1girl, dragon from pink smoke)), ((smoke)),
+<lora:Smoke:0.9>

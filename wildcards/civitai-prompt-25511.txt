@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,river,close-up,pixie bob, Beaded wedding dress,depth of field, evening,Posing as if catching a frisbee
+ <lora:slg_20:1.0>

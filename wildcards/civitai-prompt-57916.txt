@@ -1,0 +1,1 @@
+wowicon of a battleaxe, red glow <lora:sxzWowIconsStyle_v2:0.7>

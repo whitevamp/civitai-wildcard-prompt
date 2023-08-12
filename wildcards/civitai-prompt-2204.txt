@@ -1,0 +1,3 @@
+Clive Barker ,  methurlant
+ A portrait of female necromancer , (intricate, atmospheric, surreal, gritty, cinematic, stylized, contrast, comic, eerie, stylized,   dystopian), Cloudy, Art Nouveau, (Simultaneous contrast:1.1), (Color Theory:1.1), (Frottage:1.1), (Reflected light:1.2), Fur, Cylinder, ultra detailed, intricate, dry brush, (surrealism:1.1), (disturbing:1.1) 
+<lora:methurlant:1> <lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

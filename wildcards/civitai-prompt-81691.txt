@@ -1,0 +1,1 @@
+masterpiece, best quality,photorealistic,best shadow, delicate, RAW,(1 girl,cute, black hair,very long hair),<lora:loong2:1>,(loong midair, flying,Looking at the camera,misty,fog, ), Dark clouds cover the sky,misty , cloudy sky (Sexy Chinese Taoist woman (long hair,Sexy Taoist robe ) ) , <lora:add_detail:0.6> ,<lora:style_masterpiece(0_7):0.3>

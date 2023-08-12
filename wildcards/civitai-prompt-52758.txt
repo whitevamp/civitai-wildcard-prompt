@@ -1,0 +1,4 @@
+<lora:dehyaGenshinImpact_v10:0.7> <lora:FirevfxCreateMore_v2:0.5><lora:hipoly3DModelLora_v10:0.1>
+(8k, raw photo, best quality, masterpiece),
+1girl, solo, cowboy shot, dehya \(genshin impact\), navel, large breasts, criss cross,  short, stockings, boots, red ribbons, dark skin, closed mouth, desert,  night,  standing, looking to the side, hand on hip,  from side, fire on hand,
+professional lighting,

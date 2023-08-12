@@ -1,0 +1,2 @@
+(close up:1.2), (pistoletov) , solo, 4K, as a (pirate:1.1), ragged clothes, baggy clothes, pirate hat, ship in background, beach, HQ, highres
+ <lora:alex pistoletov:1>

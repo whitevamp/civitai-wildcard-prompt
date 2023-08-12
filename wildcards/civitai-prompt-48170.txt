@@ -1,0 +1,10 @@
+8k wallpaper, {{{masterpiece}}}, detailed cloth texture, ulzzang-6500-v1.1, physically-based rendering,detailed background, depth of field,
+(best quality, masterpiece:1.2), photorealistic,(cinematic composition:1.3), ultra high res, cinematic lighting, ambient lighting, sidelighting, Exquisite details and textures,
+stained glass,professional lighting, photon mapping, radiosity,
+Caucasian,white skin, ((cleavage)),slim body,((perfect female figure)),divine goddess,((Long legs, chopstick legs)),(large areola),
+(((long_hair,A ridiculous amount of hair,Pale gold, ponytail))), detailed face,beautiful face, pure face, shiny skin, skindentation,Face highlights, sophisticated makeup,blush, (Face close-up, smile, gentle eyes, big eyes, pink eyeliner, bags under the eyes),
+earrings, thigh_strap,
+(flight attendant uniform), (((Silk stockings:1.2))), black high heel,((No bra, no panties),
+(((full body))), solo,(sitting,),
+((airport, lounge)),
+<lora:stLouisLuxuriousWheels_v1:0.4> <lora:fashionGirl_v50:0.4> <lora:shojovibe_v11:0.4> <lora:koreanDollLikeness_v15:0.4> <lora:hipoly3DModelLora_v10:0.3> <lora:breastinclassBetter_v13:0.4>

@@ -1,0 +1,3 @@
+clockworkspider, demonmawai, brassinstrumentai
+, best quality, masterpiece, intricate details, tensorfunk
+<lora:tensorfunkLoraVersion_v10:1.0>  <lora:epiNoiseoffset_v2:0.7> <lora:clockworkspider_v20:0.7> <lora:demonmawai_v10:0.7>  <lora:brassinstrumentai_v10:0.7>

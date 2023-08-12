@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:RavenTT:0.8> RavenTT,  navy-blue cloak, black leotard, brooch, belt, 
+ <lora:BrolyCuloMeme:0.4> BrolyCuloMeme, squatting, ass, muscular,

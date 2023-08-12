@@ -1,0 +1,8 @@
+(masterpiece), (best quality), (pixiv), <lora:KaedeTakagaki:0.7>, (takagaki kaede:0.8), 1girl, 
+standing, huge breasts, cleavage,
+blue eyes,  green eyes,  heterochromia, 
+short hair,brown hair, fringe trim, 
+seductive smile, mole, mole under eye, 
+(extremely detailed CG unity 8k wallpaper), intricate, cowboy shot, (detailed face, detailed eyes:1.2), best lighting, alley,
+slim waist, collarbone, black minidress, bodycon, 
+<lora:PerfectFullBreasts-fCV3:0.8> <lora:konoshige:0.6>

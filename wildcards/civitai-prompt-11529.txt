@@ -1,0 +1,7 @@
+(masterpiece, highres, best quality:1.3), stunning, professional artwork, intricate details, vibrant image, sharp focus, trending on pixiv
+Terayama Reiko, solo, (hand on hip:0.9), holding beer can, standing near motor vehicle, (tricky glance:1.1), looking at viewer, (cowboy shot:1.05), highway background, mountains and sky background
+black hair, long hair, hair between eyes,  lipstick, makeup, black eyeshadow, detailed hair, detailed face, brown eyes, perfect eyes, perfect face,
+red bodysuit, biker clothes,
+mature female, 40yo, sweat, large breasts, cleavage,
+<lora:TerayamaReiko-000009:0.9>,
+<lora:goodhandsBeta2.L2r5:1>

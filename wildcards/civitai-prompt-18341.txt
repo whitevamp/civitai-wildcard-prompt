@@ -1,0 +1,7 @@
+1girl (30yo) smiling, japanese, looking at viewer, dim, dark, night, dark background, sitting, (inside bedroom), super long orange hair,
+(nsfw:1.5), medium breasts, cute nipples,
+techwear jacket, with buckle and tape, ((see through)), choker, straps, black and orange, pantyhose, ((neon strips)), retroreflector,
+ <lora:urbansamurai_v0.3:0.4> 
+<lora:Cute Asian Face:0.2>
+highest quality, best quality, masterpiece, cinematic lighting,
+depth of field, bokeh, flare,

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), 1girl, ponytail ,white hair, purple eyes, (dress:1.3), medium breasts, collarbone, flowers and petals, (illustration:1.1), (perfect details:1.1), landscape, background, rose, abstract,, <lora:Gloomifier_V2_TheGlow:2.5>, bioluminescence, dark, night,darkness, cold, cold lighting, fog,

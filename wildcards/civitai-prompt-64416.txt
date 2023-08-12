@@ -1,0 +1,1 @@
+waterfall, cliff, dragon, bird, cloud, thousand miles, valley <lora:MoXin:0.4>

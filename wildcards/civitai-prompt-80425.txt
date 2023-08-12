@@ -1,0 +1,12 @@
+(RAW photo, 4k, realistic, exquisitely detailed skin), masterpiece, best quality, official art, unity 8k wallpaper, ultra detailed,(dark night), cinematic look,cowboy shot, natural skin texture, extremely realistic skin texture, finely detailed face,sunset,(film grain:1.2)(cinematic angle)
+1girl, slim body, narrow waist, high ponytail, white t-shirt, Washed ripped flared jeans, white converse sneakers, backpack, dynatic pose,
+Sitting by the basketball court, watching a basketball game, ((sunset)), taiwan, summer, excited, happy, 1990s \(style\),
+vivid illumination,
+masterful technique,
+harmonious composition,
+cinematic lighting,
+immersive atmosphere,
+exceptional detail,
+stunning visuals,
+<lora:FashionMagazineStyle_v10:0.6:MAGCOVER>
+<lora:FilmG4:0.5>

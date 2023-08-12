@@ -1,0 +1,1 @@
+simple background, red_background, 1girl,  upper body, beautiful face, portrait, medium hair, black_jacket, black_hair, short_hair, long eyelashes,  <lora:add_detail:1>

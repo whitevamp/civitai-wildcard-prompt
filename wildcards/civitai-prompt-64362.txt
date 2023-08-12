@@ -1,0 +1,5 @@
+best quality, ultra high res,prefect anatomy,
+(a girl has a head and the body of a snowman),standing, chibi,(scarf:1.2), sfw,red,
+open mouth,half eyes,
+<lora:gai:1>
+<lora:blindbox_V1Mix:1>

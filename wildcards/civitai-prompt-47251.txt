@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12 16Dim Cosine:0.8>,<lora:incomingHug_v10:1>,incoming hug,babydoll,smile,big breast,twintails,beach

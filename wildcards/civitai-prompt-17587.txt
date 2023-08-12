@@ -1,0 +1,2 @@
+masterpiece, best quality, extreme detail, 8k, detailed background, perfect face,freckles,(chubby girl,chubby:1.22), wide hips,(asymmetrical blunt_bangs), black hair, long hair, sanpaku_eyes, teeth, short shorts, v-neck shirt, cleavage, small breasts, freckels, teeth, outdoors, park, park bench, dirt path, garden, flowers, green eyes, solo, bare shoulders, smiling,
+ <lora:chubby girl:0.9>

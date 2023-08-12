@@ -1,0 +1,2 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ), <lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,
+realistic mutual masturbation,2girls, closed eyes,open mouth,blush,pussy juice, standing,looking at another,lying,spread legs, masterpiece,1girl,cute,pubic hair, vaginas,nsfw, <lyco:Saya-mutual masturbation(yuri):0.1>,((2gril)),kiss, sex,  <lora:hipoly_3dcg_v7-epoch:0.2>

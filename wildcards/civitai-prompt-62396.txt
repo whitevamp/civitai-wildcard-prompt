@@ -1,0 +1,2 @@
+best quality, outdoors, street, 1girl, <lora:ro500KancolleLora_ro5001280arb:0.8> ro-500 \(kancolle\), (kantai collection:0.8), backcrack, open back, revealing cosplay, probably no panties, very lowleg
+<lora:none>

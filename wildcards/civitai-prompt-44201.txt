@@ -1,0 +1,4 @@
+long shot scenic professional photograph of (38D breast:1.3), outdoor, (very short mini skirt:1.4), (Sheer white transparent Organza) (delicate decorated lace) (see through:1.4), (faded black and ash blonde) short hair,  (lace flowery crest), (short multiple strands pearl necklace and earrings), arms raised, RAW photo, full sharp, detailed face (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, perfect viewpoint, highly detailed, wide-angle lens, hyper realistic, with dramatic sky, polarizing filter, natural lighting, vivid colors, everything in sharp focus, HDR, UHD, 64K, By the wide lake, with distant mountains in the distance, stacked one after another
+ <lora:more_details:0.5>
+ epiCRealism
+ <lora:epiNoiseoffset_v2:0.3>

@@ -1,0 +1,1 @@
+(masterpiece, realistic:1.4), 1girl, standing, sexy pose, fullbody, (faceless:1.4), red star on forehead, (cleavage:0.5), (tie, schoolgirl uniform, long sleeve dress shirt, black pleated skirt, socks), volumetric lighting, (classroom:1.2), (depth of field:0.65)  <lora:atomic:0.75>, atomic heart, android, cyborg, robot, metal skin, silver skin,

@@ -1,0 +1,1 @@
+realistic, photo, 1girl, dark skin, dark-skinned female, blue eyes, braid, choker, jewelry, looking at viewer, smile, water, splashing, waterbending, <lora:KataraV2:1>, katara, <lora:add_detail:0.3>

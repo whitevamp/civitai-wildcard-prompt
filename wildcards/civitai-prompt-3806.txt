@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), (extremely intricate detail), extremely delicate and beautiful,
+(beautiful and aesthetic:1.2), (cute, pretty, amazing), supermodel, make up, feet out of frame, (sexually suggestive pose, dynamic pose, dynamic angle),
+(nsfw:1.2), (private craft shop, private workroom:1.7), oversized_sweater, off-shoulder, , chair, table, pantyhose, crotchless, nipples, pussy, fingering, spread pussy, breast grab, 
+seductive smile, (gigantic breast:1.2), mature_female, very long hair, (shiny skin, pale skin:1.2)
+<lora:add_detail:0.5>, <lora:oversized_sweater:0.5>, <lora:perfectpantyhose:0.6>,

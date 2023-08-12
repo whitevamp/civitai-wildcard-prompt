@@ -1,0 +1,2 @@
+1girl, queen, crow, solo, aodai clotthing, hell, sitting throne, necklace, thunder, sky, cloud
+ <lora:aodai_SD_chiasedamme_v02:0.6>

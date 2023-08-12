@@ -1,0 +1,1 @@
+(masterpiece), (best quality:1.2),A beautiful woman looks at  (braised pork rice)  in a glass bowl on the table, dark theme,<lora:GlassTech-20:0.9>, glasstech,scifi, transparent <lora:CommonTaiwaneseFood_24:1> <lora:GoodHands-beta2:1>

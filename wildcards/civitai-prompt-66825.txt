@@ -1,0 +1,4 @@
+photorealistic,
+1girl, upper body, standing,
+(((big lips, huge lips)))  <lora:biglips:0.8>,
+beautiful face, beautiful eyes

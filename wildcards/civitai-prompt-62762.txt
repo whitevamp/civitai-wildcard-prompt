@@ -1,0 +1,1 @@
+1girl , pretty , crazy smile <lora:AnimePunk:1> <lora:crazyExpressions_crazyExpressions:0.8>

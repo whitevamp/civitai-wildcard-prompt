@@ -1,0 +1,9 @@
+hocolatewetstyle, hasselblad portrait, (stunningly amazing blonde woman)1.2, braids, looking at camera, seductive look, (chin up)1.3, chocolate flowing down her body, centre composition, bokeh, depth of field, photorealistic, masterpiece, filmic, (romantic lighting)1.3, ultra realistic, 8k, dreamy background, withLora(ChocolateWetStyle,0.7)
+(small breast:1)
+, oily skin, wet skin, (clitoral hood:0.9) (cameltoe:0.9) (shaved pussy:1)
+
+(best quality, masterpiece), hyperdetailed,8k <lora:add_detail:1>
+
+<lora:zydink:0.5> zydink,, ink sketch, (abstract ink splash) top angle, topless, atmospheric, ecstasy photo naked dripping, drop, cum, sperm , happy girl
+tongue <lora:ftm-v0:0.3> <lora:superfacialized-v1.3:0.2> bukkake, 
+ 

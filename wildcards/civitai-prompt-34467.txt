@@ -1,0 +1,1 @@
+multiple girls,5girls,(lying),from below(masterpiece, high quality:1.2)<lora:MultipleAsses_v1:1>,high heels,<lora:VeryLongLegs_v2:0.38>,(very_long_legs:0.65), <lora:add_detail:1>

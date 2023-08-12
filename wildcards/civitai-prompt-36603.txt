@@ -1,0 +1,2 @@
+(realistic), masterpiece, best quality, 1girl, SaekiSayoko squatting, arms above head, restrained by tentacles, nude, purple hair, long hair, blue eyes, huge breasts, cum, (pussy:1.2),( cum on breasts, covered in cum), floor, pavement,darkness, dark, night,wall, alleyway, (tentacles),  scared expression, open mouth, tentacle pit, swarm of tentacles, 
+<lora:SaekiSayoko-000010:0.85>,   <lora:scaredExpression_v18:0.4> <lora:tentacle-pit-000008:0.75>

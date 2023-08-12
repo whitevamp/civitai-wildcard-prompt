@@ -1,0 +1,4 @@
+1 girl, standing, posing, smiling, wearing (crop top, cleavage), large breasts, and (red pleated skirt),small waist, wide hips, navel,
+(full body shot:1.3), bokeh:1.2, indoors, (red high heels, white thigh socks), solo, sitting,<lyco:GoodHands-beta2:1.0>,<lora:more_details:0.4>, <lora:LowRA:0.45>,
+flowing hair glamour, perfect illumination, detailed hairstyle,  good hands,  good feet, long legs,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, physically-based rendering, (ambient light:1.3), (cinematic composition:1.3),professional soft lighting, light on face,

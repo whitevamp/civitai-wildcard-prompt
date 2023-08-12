@@ -1,0 +1,5 @@
+<lora:ArtDecoAI:.9>
+concept art golden
+ArtDecoAI
+car 
+, detailed

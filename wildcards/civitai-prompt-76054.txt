@@ -1,0 +1,1 @@
+(well defined female:1.1),<lyco:[LoHa] Morning glory 朝顔 Style:0.8>,(masterpiece:0.8),(absurdres:1.2),(shy smile:0.8),(happy:1.1),(forest:0.9),(looking at viewer:1.1),<lora:Kneesocks:0.6>,(cute:0.9),(thighhighs:0.9),(Style-Autumn:0.8),(corneo_cowgirl:0.9),

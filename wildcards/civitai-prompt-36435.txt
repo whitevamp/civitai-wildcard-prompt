@@ -1,0 +1,4 @@
+(realistic photograph), (1 girl), (giantess) in, from sky, macrogts, small boobs, atmospheric perspective, mist, clouds, small waist, nude, nsfw, spread legs, very thin pussy
+<lyco:minigts_v3_lycoris:0.5>
+<lora:Asian girls faceV2:0.2> 
+<lora:very_thin_pussy.v1.0:0.5>

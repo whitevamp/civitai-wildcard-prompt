@@ -1,0 +1,1 @@
+character: ariel, <lora:Ariel_character:.8>, blue dress, corset, hair bow, red_hair, blue_eyes, blush, BREAK,  location: beach, ocean, sitting on rock, BREAK, quality: best quality, best aesthetic, instagram, intricate details,

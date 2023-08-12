@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, edgHalo, power armor, <lora:Outfit_HaloArmor:0.75>, Johnny, broken wall, face only,  <lora:HereIsJohnny:0.8>

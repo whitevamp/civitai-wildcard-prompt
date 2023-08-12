@@ -1,0 +1,1 @@
+1girl,jett,asian face,white hair,short hair,black gloves, shoulder pads, black pants, cropped sleeveless jacket,aserious expression,crouched, (ninja pose),dinamic pose,kunai knife,holding a kunai,wind effect,strong wind aroud body,masterpiece,extremely detailed CG unity 8k wallpaper, best quality,32k,focus sharp, <lora:Jett-05:1>, <lora:add_detail:1>,

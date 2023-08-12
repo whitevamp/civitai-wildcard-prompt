@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, motion trail, MotionTrail, <lora:MotionTrail:1.0>, 1boy, solo, full body, Ricardo, red bandana on the head, <lora:Char_Sigmas_RicardoMilos:0.9>

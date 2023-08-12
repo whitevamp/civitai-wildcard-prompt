@@ -1,0 +1,3 @@
+((masterpiece, best quality:1.2),solo,1girl,(cowboy shot:1.2),
+AnnaWaifu,(beautiful skin:1.2),16 years old,beautiful face,elegant face,(beautiful eyes:1.4),green  eyes,braids,brown hair,(gloves, dress, long skirt,boots, corset,cape:1.2),breasts,
+in dark room,(at night:1.3) , shyly smile,<lora:annaFrozenDisney_v10:0.5>

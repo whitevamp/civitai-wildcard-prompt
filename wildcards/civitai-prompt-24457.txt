@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.4), 4girls, standing, high ponytail hair, tanned skin, (blonde:0.5), detailed eyes, (red slingshot swimsuit, one-piece swimsuit:1), (pubic hair:1.2), open mouth, (smile:1), breasts, (crowd cheering:1.4), concert stage, <lora:micro_slingshot_v1:0.9>

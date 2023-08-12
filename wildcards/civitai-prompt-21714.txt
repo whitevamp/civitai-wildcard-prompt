@@ -1,0 +1,5 @@
+hmcf, long hair, antlers, branch, braided bangs, hair flower, cow ears, yellow eyes, large breasts, neck bell, collar, (cow print:1.2), print bikini, print gloves, print legwear, (green hair),
+lifelike, desire,
+Soothing Ambiance, Muted Hues, Gentle Warmth,,
+beautiful and aesthetic, masterpiece, best quality,
+ <lora:ceres_fauna_v2:0.95:CLOTHING>

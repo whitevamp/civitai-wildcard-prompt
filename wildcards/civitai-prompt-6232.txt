@@ -1,0 +1,1 @@
+high detailed, masterpiece, best quality:1.2, hdr, absurdres, 1girl, <lora:add_detail:1.4>,  <lora:jean1:1>, smiling

@@ -1,0 +1,1 @@
+wowicon portrait of demon  <lora:Concept SxzWowIcons wowicon of, wowicon portrait of v2:0.75>

@@ -1,0 +1,2 @@
+<lora:nina:0.8>,
+white dog,(brown hair:1.2),day,city,

@@ -1,0 +1,7 @@
+(photorealistic:1.2),beautiful and aesthetic, masterpiece,best quality,lifelike rendering,moody lighting,
+1girl,solo,
+research station,
+nsfw,
+Compassion,
+garden, blossoms, peaceful,
+<lora:oc_v10:0.2> <lora:LowRAv2:0.45>

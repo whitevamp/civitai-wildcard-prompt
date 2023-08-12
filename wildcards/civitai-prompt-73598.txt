@@ -1,0 +1,4 @@
+(masterpiece, illustration, best quality:1.2), detailed, intricate, 8k, HDR, cinematic lighting, sharp focus,
+1 boy, solo, (business suit, glasses:1.2), Goblin, green skin monster big ears, green skin,
+ <lora:goblin_v0.1a:1>,
+detailed background, office, documents, papers, mess, pen, pc, open window, city,

@@ -1,0 +1,1 @@
+(best quality:1.4, high quality, cinematic, solo:1.2),  <lora:Kermit:0.8>, solarpunkai kermit robot walking in water, canals, giant, mech, <lora:SolarpunkAI:0.6>, android, mechanical, plants, lilly pads, mist, outdoors, science fiction,  <lora:more_details:0.6> <lora:Doll_Joints:0.5>, doll_joints

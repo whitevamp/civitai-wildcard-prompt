@@ -1,0 +1,1 @@
+<lora:DominatrixA:0.8>, DominatrixA, 1girl, Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting

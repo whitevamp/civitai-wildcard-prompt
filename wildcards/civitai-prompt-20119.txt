@@ -1,0 +1,10 @@
+photography of a beautiful Chinese girl, 1girl, 
+<lora:koreanDollLikeness_v10:0.4>, 
+8k, RAW photo, (ultra high res), ultra detailed, ((physically-based rendering)), best quality, solo focus, looking at the viewer, 
+(realistic, photo-realistic:1.4), (high detailed skin:1.6),(pose:1.4), (perfect face),
+(close up:1.3),(fujifilm xt3:1.4),
+<lora:juan_v1:0.4>,
+beautiful detailed eyes,(extremely short hair:1.5), gray hair,
+(golden space suit:1.4),(golden armor:1.3), (astronaut helmet:1.3), 
+(global illumination:1.2), (natural lighting:1.6),(sunny day)
+(hiking on Mars:1.5),outdoor,

@@ -1,0 +1,4 @@
+(masterpiece, best quality),  stylized digital art,  colorful paint style, <lora:add_detail_v5:1>, <lora:anime3d:0.75>, <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult jewish woman,  hazel eyes, ginger twin drills hair,
+ looking up, solo, upper body, detailed background,  light smile, witch hat, witch, magical atmosphere, hair flowing in the wind, red trimmed dark colored clothes,  colorful whirlwind of swirling elemental spell in the air,  dark magic, (style-swirlmagic:0.8), floating particles, moonlit clearing background,  backlighting, 
+<lora:fantasy00d:0.3>,

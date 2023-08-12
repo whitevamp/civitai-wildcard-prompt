@@ -1,0 +1,2 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.8>, a nude diver girl deep underwater being attacked by an octopus, diving mask, face, nude, octopus, pubic hair, detailed underwater scene, sunbeams, beautiful, spread legs, tentacles, vaginal, detailed vagina
+<lora:octopus_v0.5:1>

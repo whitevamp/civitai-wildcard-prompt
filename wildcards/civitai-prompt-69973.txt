@@ -1,0 +1,1 @@
+female titan ,<lora:FemaleTitanV2:1>, 1girl, solo, ass, breasts, thighs, pawg, <lora:fitnessBabes-fC-v1.0a:1>, castlevania style,<lora:castlevania_style_offset:1>

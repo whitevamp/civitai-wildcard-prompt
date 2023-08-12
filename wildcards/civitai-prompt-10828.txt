@@ -1,0 +1,3 @@
+1girl, chibi standing on a roof, abs, 
+warm colors, masterpiece, dusk, golden ratio, ultra detail, isometric view, city background, 
+ thick hips, narrow waist, abs, <lora:blindbox_v1_mix:1>, full body, chibi,  <lora:Batgirl:1>, batgirl,

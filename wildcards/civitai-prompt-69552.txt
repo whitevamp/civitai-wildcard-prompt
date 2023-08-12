@@ -1,0 +1,5 @@
+1girl, fantasy, knight, prompt, crowd, ancient city ruins with multiple stalls set up on either side, lots of different travelers and goods, in middle distance a caravan of traders seen traveling through the middle of the ancient city to other land,
+//
+<lora:dungeon_v2.0:1>
+//
+, CGI, RTX, Establishing Shot, Birds Eye Shot, Overhead Shot, , CGI, RTX, Establishing Shot, Birds Eye Shot, Overhead Shot,

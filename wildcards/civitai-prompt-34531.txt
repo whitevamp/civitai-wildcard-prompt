@@ -1,0 +1,1 @@
+<lora:more_details:0.6>, <lora:litlights:0.2>, <lora:epi_noiseoffset2:1>, <lora:unhorny_v01:-1>, ((best quality)), ((masterpiece)), (ultra detailed:1.3), (1girl in gold bathtub:1.2), (lying on back:1.2), pussy, pov, gold bathroom, gold floor, , gold floor <lora:gold_bathroom_v1.0:0.8>, (water:1.1),

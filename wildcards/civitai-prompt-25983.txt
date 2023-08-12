@@ -1,0 +1,1 @@
+(ink art, ink illustration, ink, rough:1.4), 1girl, solo, (flowing lines), dreaming, dreams, sleeping, eyes closed, floating, flowing hair, hair flowing into ink, swirling ink, highly detailed background, multicoloured, ((abstract)) <lora:more_details:0.4>, <lora:inkstyle:0.9>

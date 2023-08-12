@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, cowboy shot, <lora:neonLights_Pink:1.2>, Open_Lingerie, lingerie, wearing Open_Lingerie <lora:edg_Open_Lingerie:1>

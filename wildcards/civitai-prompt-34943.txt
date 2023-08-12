@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:soul_fighter_evelynn_lol:0.8> soul fighter evelynn, 1girl, cropped jacket, hat, pants, short hair, blonde hair, cleavage, purple lips, 
+on beach, palm trees, sun, sand, waves,

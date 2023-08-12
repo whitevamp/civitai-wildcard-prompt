@@ -1,0 +1,11 @@
+child, bache \(azur lane\), wide hips, small breasts,
+denim micro shorts cutoffs, open fly, black sailor collar, sleeveless, midriff,
+yellow fur-trimmed jacket, off-shoulder, bare shoulders,
+two-side up, blonde hair, solo, harbor, bache_uss
+BREAK
+half-closed eyes, purple eyes, yellow pupils, v-shaped eyebrows, :d, [fang::6], symbol-shaped pupils,
+skindentation,
+fishnet single thighhigh, loose socks, uneven legwear,
+(anchor:1.1) sailor hat, belt, belt pouch, (chain:1.0), red collar, (dollar sign:1.1), [bandaid on knee::5], navel
+<lora:lolimerge2:0.8>
+<lora:Bache_USS-01:0.7>

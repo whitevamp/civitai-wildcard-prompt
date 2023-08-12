@@ -1,0 +1,5 @@
+(ultra detail:1.2), (masterpiece:1.4) ,(high detail skin:1.2),(8k, RAW photo,ultra quality:1.4), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper),(realistic shadow) ,(film grain, Fujifilm XT3), (physically based rendered photo of a 19yearold girl), 
+1girl, fit, muscular, (gym background), (spread legs), (cameltoe:1.4), (yoga pants),
+looking at viewer, smiling, wet, sweat, (shy), (arousing), (blush), small ass,
+(petite), small breasts, narrow waist, 
+<lora:koreandolllikenessV20_v20:0.35>,  (ulzzang-6500-v1.1:0.5)

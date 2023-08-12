@@ -1,0 +1,1 @@
+in container, 1girl, solo,short hair,red eyes,blue skirt,black hair,full body, sitting ,refrigerator,in refrigerator,looking at viewer,  <lora:in_containerV0.3-000004:1>

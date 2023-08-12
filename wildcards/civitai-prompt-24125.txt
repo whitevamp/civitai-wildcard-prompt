@@ -1,0 +1,3 @@
+1girl, typing, keyboard \(computer\), computer, from side, headphones around neck, long face, 
+(masterpiece, best quality, high quality, official art),(colorful),
+ <lora:md:1> <lora:add_detail:0.3> <lora:epi_noiseoffset2:0.1> <lora:LowRA:0.2>

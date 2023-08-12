@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,smiling,
+edgApron, a blonde Nadia with sunglasses and a choker in a black and white apron lingerie ,wearing edgApron,heart shaped, frills, ribbons, (((back view, butt view)))
+ <lora:edgApronXL:0.7>
+ <lora:NadiaXL:0.6>

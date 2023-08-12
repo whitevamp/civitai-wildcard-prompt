@@ -1,0 +1,3 @@
+<lora:ComissionCuppaGI_character-10finish28NBG:0.6> solo, 1girl, masterpiece, fuwacuppagi, :<, bags under eyes, tired eyes, small eyes (black hair, hair between eyes, red eyes, long sidelocks, collected hair), (eyes half closed, tired, half asleep, bags under eyes:1.4), (flat chest:1.4) BREAK
+black dress, white pantyhose, full body BREAK
+(JamOrbital), BDSM, gag, bondage <lora:JamOrbital:0.8>

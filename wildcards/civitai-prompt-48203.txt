@@ -1,0 +1,2 @@
+1girl, face, close-up,
+<lora:circle-glasses_v1.1:0.5>, circle-glasses, masterpiece, best quality, highly detailed

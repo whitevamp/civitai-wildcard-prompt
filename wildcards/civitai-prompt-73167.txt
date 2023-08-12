@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), hyper realistic,highestres,absurdres,extremely detailed,volumetic,dramatic lighting,(frontal view),
+20 year old boy,<lora:detailed_eye-02:1> ,face,detailed eyes

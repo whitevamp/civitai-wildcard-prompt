@@ -1,0 +1,2 @@
+1girl ,(RAW photo:1.2), ((photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res,(detailed facial features),(detailed clothes features),HDR,8k resolution, solo focus, bangs, skin tight, (shiny skin),(slender girl),dreamlike, (extreme detailed illustration),check commentary,commentary request,scenery,no text, white cat ear, white cat tail, white hair, long hair,bunches, medium breasts, dress, ribbon collar, smile,(gradient background:1.2 )
+<lora:koreanDollLikeness_v10:0.3> <lora:arknightsTexasThe_v10:0.4> <lora:gakki:0.9>

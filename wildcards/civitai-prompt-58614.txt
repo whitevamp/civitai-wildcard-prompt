@@ -1,0 +1,1 @@
+<lora:lowra_v10:0.7>, dog, (in a leather coat:1.3), intricate, epic realistic, [[rutkowski]], hdr, intricate details, hyperdetailed, cinematic, rim light

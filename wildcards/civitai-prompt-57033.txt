@@ -1,0 +1,2 @@
+multiple girls,2girls, blue hair, negative space,shuimobysim , willow branches, (masterpiece, best quality:1.2), traditional chinese ink painting, modelshoot style, peaceful, (smile), looking at viewer, wearing long hanfu, hanfu, song, willow tree in background,corneo_mercy,
+ <lora:bilibili2233Impart_v10:1> <lora:animeTarotCardArtStyleLora_v31:1>

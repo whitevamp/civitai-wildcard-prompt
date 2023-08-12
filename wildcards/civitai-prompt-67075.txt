@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, sharp focus,
+(1boy:1.2),    <lora:sauron:0.8> lotr, sauron,  <lora:scenery-000016:0.4> reflection, starry sky, lava, volcano,

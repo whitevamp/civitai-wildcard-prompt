@@ -1,0 +1,4 @@
+professional photo of katara, 1girl, brown_hair, choker, short_hair, blue clothes, (looking at viewer:1.2),
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:KATARA.LIT.F:0.77:MIDD>

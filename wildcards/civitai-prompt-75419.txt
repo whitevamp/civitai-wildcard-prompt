@@ -1,0 +1,1 @@
+best quality, masterpiece,4k 8k wallpaper, <lora:hutao1:0.9> hutaodef, (((closeup photo))),  (((Monochrome:1))), red background, <lora:LookingDisgusted_V1:0.4> ((looking disgusted)), looking at viewer

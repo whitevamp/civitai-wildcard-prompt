@@ -1,0 +1,4 @@
+(masterpiece, best quality, highres:1.4), absurdres, 1girl,large breast, star eye, (princess peach), blush, (realistic:1.5), blue eyes, happy, BREAK, pink dress, cute girl,white arm glove, from below, beautiful feet, soles,  
+cowboy shot,perfect illumination, distinct,  looking at viewer, sidelighting, perfect face, detailed face, bangs, perfect body, beautiful eyes, pretty face, bright skin, idol, 
+beautiful castle, beautiful city, <lora:peach:0.5> 
+ <lora:add_detail:1> <lora:feetpose-000006:0.6>

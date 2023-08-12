@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2), 1girl,Cheeky bitch, (finely detailed face:1.2),full body,huge breasts, (beige sweater:0.8),high heel,bare shoulders,strapless, long hair, (looking at viewer),necklace,laugh,(city, street, outdoor:1.2)  <lora:downblouseForBoobs_v1:0.8> <lora:extendedDownblouse_v10:0.2> <lora:shojovibe_v11:0.1> <lora:virtualgirlAim_v30:0.2>

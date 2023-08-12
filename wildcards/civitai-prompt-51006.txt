@@ -1,0 +1,3 @@
+(masterpiece:1.2, best quality),
+<lora:stomachinterior_v5-7:0.7>, 1girl, (naked), (inside a stomach), (stomach interior), legs up, (tight space), red background, (completely submerged by acids), (view from the side), on the side, adult,
+1girl, wet,

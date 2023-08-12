@@ -1,0 +1,5 @@
+(masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, 1boy, sex, squatting cowgirl position,
+1 young girl wearing see through dress, elegant dress, large brests, wide hips, tiny waist, hair ornament,
+sauna, spread legs, hands on panties, lotion bottle,
+bath towel, massage bed,
+<lora:seeThroughDress_v10:0.7> <lora:povSquattingCowgirlLora_pscowgirl:0.7>

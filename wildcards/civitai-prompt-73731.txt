@@ -1,0 +1,1 @@
+<lora:makima_offset:1.4>,  (perfect yellow eyes,  relaxed eyes, extremely detailed eyes,<lora:csmakima:0.4>, ringed eyes), relaxed face, extremely detailed face, perfect skin, small yellow ear jewelry

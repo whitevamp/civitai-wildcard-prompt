@@ -1,0 +1,4 @@
+(blaziken), female, (anthro:1.2), avian, (red body), red feathers, (blue iris:1.2), (yellow sclera), colored sclera, neck tuft, long hair, blonde hair, scutes, (scuted arms), talons, solo, (tight black tank top, midriff, tight black mini shorts, yellow sneakers, black gloves:1.2), medium breasts, gorgeous body, hourglass body, shiny body, <lora:blaziken_AT3:0.7>
+masterpiece, (best quality, perfect detailed, beautifully detailed face, detailed eyes) DOF, HDR, 
+autumn, forest, trees,  indoors, (gym), curling,
+(full body, sitting, closed beak, navel, looking at viewer, cleavage, visible crotch, sweating body, sweating clothes)

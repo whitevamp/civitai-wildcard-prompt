@@ -1,0 +1,6 @@
+photograph, realistic, hyperrealistic, extremely high detail, (best quality, masterpiece:1.2), 
+female, sailor, golden bob hair, pale skin, medium breasts, cleavage, 
+dark red uniform, garrison cap, 
+at airport, 
+salute, looking beyond, 
+high detailed skin, ultra high res, <lora:russianStewardess_v10:1>,

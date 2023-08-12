@@ -1,0 +1,2 @@
+zrpgstyle, portrait beautiful girl solo alone medieval RPG character painting ginger hair upsweep updo swashbuckler rogue corset shirt teal (leather pants:1.1) (straps buckles:1.2) armor indoors overgrown (ancient ruins:1.2) (bright morning light:1.2) from the side (atmospheric volumetric fog:1.1)
+(masterpiece:1.4) (illustration:1.2) (best quality:1.4) (8k) (HDR) (cinematic lighting) (sharp focus) (intricate) <lora:AZovyaRPGArtistToolsLORAV2art:0.7>

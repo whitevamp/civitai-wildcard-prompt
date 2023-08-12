@@ -1,0 +1,8 @@
+masterpiece:1.5, best quality:1.5, aesthetic, 1girl, solo, sidelocks, ((upper body)), looking at viewer, cinematic lighting, sharp focus,large breasts , mature female, horny ,16k, glowing eyes, detailed 4k eyes,
+playground,seduction,sexy lips, parted lips,detailed lips,
+red lips, high detailed background,blue eyes, big blueeyes, 
+meredith,zombie retreat,meredith_zr2,photorealistic, 3d,(anime style),reflection,
+lesliezr1_v2, 
+1girl, breasts, plaid shirt, shirt, solo, shorts, cleavage, blonde hair, denim, denim shorts, plaid, tied shirt, short shorts, hand on hip, long hair, huge breasts, gigantic breasts, mature female, red shirt, ponytail, red nails, thighs, looking at viewer, checkered shirt, midriff, cowboy shot, sleeves rolled up, cutoffs, standing, smile, lips, covered nipples, earrings, crop top, jewelry, curvy, red lips, ass visible through thighs, collared shirt, front-tie top, high ponytail, veiny breasts, blue eyes, contrapposto, micro shorts, collarbone, navel, blue shorts, thick thighs, unbuttoned, closed mouth, green eyes, nail polish, bangs, parted bangs, hand up, no bra, lipstick, pink lips, buttons, makeup, partially unbuttoned, legs apart, hand on own face, nose, light smile, torn clothes, dress shirt, unbuttoned shirt, unmoving pattern, fingernails, sidelocks, open shirt, alternate breast size, checkered clothes, hair tie, hair intakes, ribbon, open clothes, scrunchie, torn shorts, undersized clothes
+<lora:add_detail:1>   
+ <lora:Leslie_ZR1:0.5> <lora:oil2.0_2-512LORA:1>

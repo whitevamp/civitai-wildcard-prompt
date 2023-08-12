@@ -1,0 +1,4 @@
+best quality,<lora:add_detail:0.4>,<lora:concept_costume_miniatureMicrobikini:1>, 
+(1gir, solo),   <lora:character_harunoSakura_byKonan_(haruno sakura):0.8>, haruno sakura, pink hair, green eyes, red (string-only microbikini:1.5, pussy peek:1.5, clitoris slip:1.8, microbikini wedged in vulva:1.4, very lowleg:1.4), red microbikini, medium breasts, adult, long hair, smile, wet hair, wet body, muscular, biceps, leg muscles, seductive pose, skindentation, standing, hands on hips, thick thighs,
+BREAK,
+beach, tropical, ocean, sunny,

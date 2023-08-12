@@ -1,0 +1,1 @@
+from the Godfather  <lora:the_godfather_offset:1>, (masterpiece), (extremely intricate:1.3), (realistic), mafia boss, dimly lit, cinematic, the godfather

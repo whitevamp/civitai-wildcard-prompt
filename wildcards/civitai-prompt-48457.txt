@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+1girl,  sharp eyes,messy hair
+
+   <lora:animeLineartMangaLike_v30MangaLike:0.8> (lineart, monochrome:1.2)    <lora:gawrGuraHololive_v2:0.8> gawr gura, shark girl, shark tail, shark print, hoodie, sharp teeth, animal hood, shark hair ornament,  <lora:shirtPullTestSexAct_v10:0.8> <lora:front1-000025:1>,

@@ -1,0 +1,1 @@
+best quality, beatiful, toriel,  <lora:torielUndertale_v1:1>  fortnite, blue background, portrait,  <lora:FortSketcherAlpha:0.7> 1girl, red eyes, purple tabard, full body, (cycles render:1.3), caustics, (glossy:0.58), (artstation:0.82), unreal engine

@@ -1,0 +1,3 @@
+masterpiece, best quality, absurdres, photorealistic, analog photo, photolab, hdr, adobe lightroom, highly detailed, raw photo, ultra detailed natural skin textures, rim light, hyperrealistic, low contrast, sharp focus, soothing tones, 8k textures, intricate, film grain noise,
+a portrait photograph of 1girl brila_noexist smiling, a buxom brunette, athletic body, face complexions, 5 digit fingers, ultra detailed bright green eyes, looking pass the camera
+nude on bed, on both knees, <hypernet:sxzBloom_sxzBloom:0.6>  <lora:add_detail:1>  <lora:very_long_hair-10:0.6>

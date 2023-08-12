@@ -1,0 +1,1 @@
+masterpiece, best quality, hapi_academy, white jacket, crop top, amulet, white skirt, thighhigh boots, crossed arms, hallway, old wooden building, (dark skin:0.7) <lora:hapi-nvwls-v3-000014:0.9>

@@ -1,0 +1,5 @@
+nikon RAW photo,8k,Fujifilm XT3,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,cinematic lighting, gril,1girl,solo,full body, earrings, edium breasts, high heels, dynamic pose,happy,Surrounded by flowers,(flower:1.2),Rich details,fashion,
+bakery,
+DarkMagenta medium hime_cut,
+PaleTurquoise Rose Dress,<lora:lolita_dress_classic_1_v3:0.55>
+ <lora:anran:0.7>

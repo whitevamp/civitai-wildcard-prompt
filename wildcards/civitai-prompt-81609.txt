@@ -1,0 +1,1 @@
+white background, ((masterpiece)), best quality, (8k, best quality, masterpiece:1.2), super detail, Grand Canyon, <lora:add_detail:0.6>, <lora:Ink scenery:1.0>

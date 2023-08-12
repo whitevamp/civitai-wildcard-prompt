@@ -1,0 +1,1 @@
+1girl,cyberpunk,jacket,fit,crop top ,short shorts,smile,navel,standing,shiny skin,sweat ,perfect face,nose,blush,eyeshadow, perfect lighting,looking at viewer,looking at viewer  ,blue sky   (masterpiece, best quality, high quality, highres:1.2), detailed, extremely detailed, <lora:fitgirl_v10:1>

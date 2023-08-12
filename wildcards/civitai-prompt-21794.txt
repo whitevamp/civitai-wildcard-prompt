@@ -1,0 +1,1 @@
+sharp focus, highly detailed, photorealistic, flower fireworks, flowers  <lora:LowRA:0.6>

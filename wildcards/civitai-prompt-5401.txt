@@ -1,0 +1,5 @@
+Dreamweaver diva, phantasmal, surreal, night-sky hair, dreamscape, orchestrating, symphony of slumber, dress of dusk, floating among dreams, deep night, lullaby of the subconscious, dream orchestration scene,
+Neck,
+Unity,
+(from above),
+<lora:OC:0.15>  <lyco:GPTS6 Hella-sthetic_424353:0.3>  <lora:LowRAv2:0.4>

@@ -1,0 +1,5 @@
+<lora:neg_bdsqlsz_V2:1>
+1girl, 
+ <lora:Lgirl-v6_500steps:3>
+ maruyama akane, blue hair, long hair, blue eyes, braid, hair ornament, <lyco:maruyama akane:0.7>
+standing,

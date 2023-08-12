@@ -1,0 +1,2 @@
+real, photoshoot, realistic, perspective, luminescent, illusion, atmospheric scene, masterpiece, best quality, (detailed beautiful face, detail skin texture, ultra-detailed body:1.1), (cinematic light:1.1),
+<lora:ridingsexscene_lora_01-000004:0.8>, ridingsexscene, 1girl, solo, long hair, brown hair, closed eyes, nude, jewelry, earrings, profile, fine art parody, realistic, upper body, breasts, from side, arms up, blonde

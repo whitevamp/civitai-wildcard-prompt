@@ -1,0 +1,3 @@
+1girl,ringlets, (floating hair),Retro-inspired fashion,
+black pantyhose,
+<lora:Aurora_5D_black_pantyhose:1.0> <lora:slg_v11:0.7>

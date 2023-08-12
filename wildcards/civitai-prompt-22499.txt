@@ -1,0 +1,9 @@
+(Golden Ratio:1.2),(rose graffiti:1.2),(fault color:1.3),[(white background:1.4)::10], (full body:1.2),(ultra-detailed:1.3),(tarot:1.6),(the magician (tarot):1.6),
+
+(paper:1.2),(fairy:1.6),(fairy wings:1.2),full body, standing in the air,(cool:1.2),(red long hair),(butterfly hair ornaments),(flower hair ornaments:1.0),((sandal,Locket)),(colorful cocktail long dress:1.0)+(Loose sleeves coat :1.3)+(floting colorful tassel and ribbon :1.2),(White stockings:1.2),
+
+(colorful ink paper flower grow on the face:1.2),(colorful flower sea:1.3),
+
+(chaotic geometric images:1.3),(nagative space:0.8),(drawing board:1.3),
+
+(ether colorful ink flowing:1.3)

@@ -1,0 +1,7 @@
+((one male)) ((1boy)) ((front view)) ((full body)) ((figure fills frame))
+Very detailed flawless face, detailed open eyes, very handsome, epic, heroic, (muscular) bodybuilder, (big muscles), narrow waist. Shoulder length hair. Realistic face, realistic eyes, (detailed facial features), (smile).
+Standing, looking at viewer, wearing a loin cloth and cape.
+(white background, scenery, ink, mountains, water, trees)
+((soft colors)), ink on paper
+<lora:BulkedUpAIR1.5:0.1>
+<lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

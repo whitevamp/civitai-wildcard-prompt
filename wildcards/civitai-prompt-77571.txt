@@ -1,0 +1,4 @@
+(masterpiece:1.0), (best quality:1.0), looking at the viewer, seductive expression, charming, alluring, with perfect face, mature female, milf, beautiful face, beautiful eyes, evil, god-like, (full body), 
+(prestige,luxury,elaborate),(long evening dress(Random Color),(intricate ice princess dress),clothes embroidered with golden delicate Complex patterns,detached collar,loose plunging neckline,Low cut,bare_shoulders,halter,split),quality cloth,ace trimchoker,shawl,cape,lace elbow gloves,(lace white stockings:1.2,high heeled shoes:1.2),detailed crown,diadema,jewelry,gold,pearl,necklace,earrings,bracelet,armlet,rings,
+ancient kingdom,medieval,castle,(In the rich royal palace),random view,dreamlike,During the banquet,many celebrities,Sofa,carpet,candle light,plant on table,flowers,the sun shines through the window,
+<lora:pureInnocentGirl_v25:0.5>

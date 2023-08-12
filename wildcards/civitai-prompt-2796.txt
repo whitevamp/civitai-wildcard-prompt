@@ -1,0 +1,3 @@
+portrait of a muscular male  , penis,  glans, testicles, frenulum,     oil painting, determined face, large shoulders, 
+cloak,  leather gloves ,  medieval times,      muscular man,masterpiece,best quality,detailed,  beard, short hair,   intricate detail,hairy, pubic hair,  (looking at viewer:0.7),  green eyes, dramatic lighting, volumetric lighting, underground, gloomy atmosphere, 
+,   <lora:128dimTurbomaleV7_128:1>     <lora:APL_T2_L-000009:.42>

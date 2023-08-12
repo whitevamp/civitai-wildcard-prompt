@@ -1,0 +1,1 @@
+(masterpiece, best quality, 8K), wallpaper, Selphie Tilmitt, necklace, yellow dress, boots, smile, in the steam train, looking out of window, side view,  <lora:selphie-nvwls-v1-final:0.9>,  <lora:add_detail:1>

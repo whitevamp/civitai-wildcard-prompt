@@ -1,0 +1,3 @@
+(sci-fi story ink print :1.2),(red shiny lips),glowing eyes,Balancing in a dancer's pose,horror \(theme\),close-up, tattoo,
+(sketch:1.5),(a photo of ink print sketch),(Wonderful female cyborg sketches:1.3),(Parts Description:1.4),
+(detailed explanation and description, text, production drawing),(documentation),Design Process,high-tech,action, <lora:insanevoid2:0.8>

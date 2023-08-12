@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting,
+
+pyra \(xenoblade\), 1girl, backless outfit, bangs, black gloves, blush, bob cut, breasts, chest jewel, drop earrings, earrings, fingerless gloves, gloves, head tilt, impossible clothes, jewelry, large breasts, looking at viewer, parted lips, red eyes, red hair, short hair, skindentation, solo, swept bangs, tiara, upper body <lora:mythra_pyra_pneuma:0.65>
+
+, RAW photo, 8k uhd, film grain

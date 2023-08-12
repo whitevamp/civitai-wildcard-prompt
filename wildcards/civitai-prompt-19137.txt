@@ -1,0 +1,2 @@
+((wallpaper 8k)), ((high detailed)), ((masterpiece)), ((best quality:1.2)), ((hdr)), ((absurdres)), ((RAW photo)), 1girl, pale skin, portrait, transparent outfit, huge breast, nipples,<lora:breastinClass:0.5>, arms up, spreading legs, pussy,
+ <lora:add_detail:0.7>,  <lora:VividColorDetail_v1:0.6>,  <lora:GodPussy1 v4:0.2>,  (fingers:1.5),

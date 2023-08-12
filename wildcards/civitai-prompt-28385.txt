@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,(from below:1.2),taking off,( bended wings:1.5),looking at viewer, (lava lake:1.3),
+(1girl:1.2),looking down,landing,(cloud:1.2),dress,solo,floating long hair,(blurry:1.1),bare shoulders,parted lips,(tip:1.2),molten rock,lake,reflection,firefly,(floating particles:1.2),full body, wings, (floating:1.3),(halo:1.3),god rays,(bat wings:1.2),,colorful,ripples, splashing, ,<lora:landing-10:1> ,horns,demon tail, demon wings, cave,<lora:lowRA:0.6>,night, dark theme,dim light,

@@ -1,0 +1,2 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)), kinomoto_sakura with green eyes, shy, blush, tarot, 1girl, japanese clothes, long straight black hair, big hair, low twintails, ocean, island, beach, floating hair, white clouds, blue sky, (blue, white, pink), black hair, blue japanese clothes, black dress, white shirt, flower field, pink hair ribbon, tree, <lora:sakuraKinomoto_sakuraV2Epoch6:1>,
+ <lora:animeTarotCardArtStyleLora_v31:1>

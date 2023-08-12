@@ -1,0 +1,3 @@
+<lora:clayMann:0.6> detailed, masterpiece, absurdres, best quality, flat colors, vibrant colors
+<lora:Character YoimiyaGenshinImpact yoimiyadef, yoimiyarnd v11:1> yoimiyadef, 1girl, cute, stunningly attractive, exposed shoulder
+seductive smile

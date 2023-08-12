@@ -1,0 +1,3 @@
+shot from front, 25yo girl, pink hair, blue eyes, scared, panicking, white shirt, black jacket,
+abandoned warehouse location, (concrete wall), glory wall, stuck,
+professional, high resolution, 8k textures, epic detailes, hyperdetailed eyes, high sharpness, intricate details, hyperdetailed, hdr, depth of field, hyperrealism, realistic hair, hyperdetailed skin, realistic skin, <lora:glory_wall_front:0.9> <lora:Squeezer2:0.5>

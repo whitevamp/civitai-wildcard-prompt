@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,smirking,best quality, 
+Open_Lingerie, a woman in a black lingerie with a rose design ,wearing Open_Lingerie
+ <lora:edg_Open_Lingerie:1>

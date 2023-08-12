@@ -1,0 +1,1 @@
+photo, realistic, (anime style), ((mature female)), perfect face, beautiful face, colorful, beautiful eyes, STAR-KAFKA,PURPLE HAIR,HAIR BETWEEN EYES,   <lora:kafka-v1.5-lora-novaeany-64dim:1>

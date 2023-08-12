@@ -1,0 +1,4 @@
+Softlight,(warm color:1.2),Water color painting,light background,best quality exquisite details,3d rendering,Octane render,pastel,
+<lora:KK_paperCut_v1:1> paper_cut,
+Negative prompt: easynegative,badhandv4,blurry, shadow,
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3663968613, Size: 768x1024, Model hash: f9cd6dfa3d, Model: 1漫画_orientalMixV2_orientalMixV2, Clip skip: 2, ENSD: 31337, Hashes: {"vae": "f921fb3f29", "lora:KK_paperCut_v1": "1fab914749", "model": "f9cd6dfa3d"}

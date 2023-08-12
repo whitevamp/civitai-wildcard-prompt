@@ -1,0 +1,3 @@
+Photo of khan in a steppe landscape with topknot hair wearing intricate ornamented metallic armor, with a hawk, full armor, 
+(1man:1.1), sitting on throne, smiling, 
+ <lora:Khan MK1 by CARAXES:0.8>

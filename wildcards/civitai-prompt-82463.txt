@@ -1,0 +1,3 @@
+Betty
+<lora:BettyV1:0.7>
+striped_legwear, symbol-shaped_pupils,

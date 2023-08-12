@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.3), (image sharpness:1.2), highly detailed, intricate, hentai, professional artwork, trending on pixiv,
+Miriya, (mature female, 40yo:1.1), solo, curvy, milf, confused face, blush, (from behind, ass focus:1.1), (glory wall, through wall, stationary restraints:1.3), photo(object)
+(hair over one eye:1.15), (dark skinned female, dark skin:1.25), pointy ears, grey hair, long hair, hair ornament, lipstick, makeup, black eyeshadow, jewelry, earrings, ultra detail hair, ultra detail face, blue eyes, perfect eyes, perfect face,
+micro bikini, collar,
+large areolas, big ass, cleavage, <lora:MiriyaV1-000008:0.7>, <lora:glory_wall:1>

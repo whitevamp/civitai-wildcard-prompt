@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharpness, colorful,
+SaekiSayoko, solo, 1girl, mature female, milf, full body shot, side view, sitting on chair, drinking whiskey, smile, drunk, blush, indoors, complex pub background,
+[brown|purple|black] hair, short hair, hair bun, choker, makeup, blue eyes, perfect eyes, perfect face, detailed face, 
+white shirt, black pencil skirt, high heels,
+curvy,  large breasts, cleavage, ass, thighs,
+<lora:SaekiSayoko-000010:0.9>

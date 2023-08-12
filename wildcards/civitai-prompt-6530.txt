@@ -1,0 +1,8 @@
+at night, skyscrapers, on rooptop,
+feliciacat, 1girl, full body photo, jump,attack, dynamic pose,
+mask , serious, long hair,  white ponytail, black bodysuit , perfect body,
+shiny latex texture, skintight,
+huge breast, (extremely narrow waist:1.3), wide pelvic,big hip, thigh,calf, highheels,
+<lora:feliciablackcat:0.68>,
+<lora:add_detail:1>,
+(realistic skin_details, sharp focus, eyes_focus, masterpiece,best quality,finely detailed,extremely detailed, realistic detail,clear_image,realistic, high_resolution,distinct_image:1.2)

@@ -1,0 +1,2 @@
+masterpiece,(best quality:1.3),(1girl:1.2),
+<lora:BubbleBeautyV1:1>,(solo:1.3),bubble_beauty,

@@ -1,0 +1,5 @@
+professional photo of tamakiako, ahoge, sport tshirt, sport leggings,
+detailed skin, detailed eyes, looking at viewer,
+photo made with Canon EOS in naturalistic style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:TamakiAko-10:1:MIDD>

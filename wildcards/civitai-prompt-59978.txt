@@ -1,0 +1,8 @@
+masterpiece, best quality, extremely detailed, (detailed), photorealistic, full length shot,
+1boy, detailed face, big black eyes, black short hair, full-face blush, smile, eye reflection, frown, 
+full body, perfect male anatomy, muscular male, athletic body,  6 pack abs, buttocks,
+bent over, kneeling, spread legs, panty bulge, 
+wearing no underwear, no panties, white shirt, white short socks, torn clothes, wet clothes,
+indoors, hotel room, bedroom, on bed, 
+male focus, from below, soft light, rim light, side light, clearly background, 
+<lora:chineseMaleLikeness_chineseMaleLikeness3:0.5>, <lora:pantybulge_v10:0.3>

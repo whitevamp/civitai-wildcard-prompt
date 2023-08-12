@@ -1,0 +1,1 @@
+red_eyes, glowing eyes,  <lora:add_detail:1>, BREAK <lora:coven_evelynn:0.7>, coven evelynn, hyperdetailed intricately detailed art trending on Artstation triadic colors Unreal Engine 5 detailed , 8k resolution, deviantart masterpiece,

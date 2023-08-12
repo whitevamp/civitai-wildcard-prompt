@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),  <lora:purah-nvwls-v3-2:1>, <lora:downblouse-v1:1>, solo, 1girl, purah, smile, looking at viewer, leaning forward, red glasses, hair ornament, hair stick, red headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings, village background, bokeh

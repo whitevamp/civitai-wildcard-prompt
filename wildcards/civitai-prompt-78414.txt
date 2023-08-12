@@ -1,0 +1,2 @@
+(male:1.2), man, (beard:0.8), (bodybuilder:0.9), (skinhead:0.7),cold face, tough guy, cowboyshot, tattoo, french windows, luxury hotel
+masterpiece, best quality, photorealistic <lora:LowRA:0.6>

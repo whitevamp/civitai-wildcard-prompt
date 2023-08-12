@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), full body, standing, solo focus,
+1girl, kashiwazaki sena, butterfly_hair_ornament, blond hair, pink frilled dress, oudoors, park, laughing, open eyes,
+<lora:Kizuki - Haganai Kashiwazaki Sena:0.80>

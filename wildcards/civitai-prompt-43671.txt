@@ -1,0 +1,1 @@
+masterpiece, best quality,  <lora:DrakePostingMeme:1>,DrakePostingMeme,upper body,  1boy,1girl <lora:lxz:1>

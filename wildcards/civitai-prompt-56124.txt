@@ -1,0 +1,19 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:1),
+(solo:1.4),
+portrait,fullbody,kneeling,
+(smirk,smug:1),
+(selfie:1.2),
+(supermodel:1.4),
+
+(indoor,gym:1.2),(simple background:1.2),
+
+(sports bra,short pants,sneaker:1.2),
+
+(black_hair),(medium length hair,ponytail),
+
+(cleavage:0.5), (wide_hips:1),(milf,mature,35 years old:1.2),(curvy:1.2),(flat chest:1),(legs wide spread:1.2),
+
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:Cnbeauty4_v1:0.4>,
+
+<lora:musctonkStyle_v10:1>,(muscular:1.2),(lats,calf,thigh,calves, quadriceps, hamstring:1.8),

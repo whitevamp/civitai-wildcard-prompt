@@ -1,0 +1,2 @@
+black hair, red eyes, looking at viewer, blush, 
+<lora:add_detail:0.3>, masterpiece, best best quality,ultra_detailed,

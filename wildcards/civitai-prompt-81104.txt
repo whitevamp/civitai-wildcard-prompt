@@ -1,0 +1,2 @@
+<lora:AnatomicTech-20:0.8>, AnatomicTech ,scifi , blood vessels , 
+hamster,

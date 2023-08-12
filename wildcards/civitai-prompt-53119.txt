@@ -1,0 +1,5 @@
+highres, 4k, masterpiece, (photorealistic:1.4), best quality, ultra high res,
+<lora:koreandolllikenessV20_v20:0.65>,
+(small breasts),short hair,
+choker,
+hotel dusk,

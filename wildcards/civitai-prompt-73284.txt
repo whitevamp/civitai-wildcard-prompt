@@ -1,0 +1,2 @@
+(best quality, ultra-detailed, best illustration, best shadow, masterpiece, high res, professional artwork, famous artwork), (1girl, solo),  <lora:concept_costume_tacticalGear_(wearing epTactical):0.9>, wearing epTactical,
+ <lora:concept_betterGunsLocon_v10:1>, (holding, holding_gun:1.0), (rifle, assault_rifle:1.3), (trigger_discipline:1.2), earth-chan, blue hair, green hair, smirk, camouflage, load bearing vest, teenager, young,

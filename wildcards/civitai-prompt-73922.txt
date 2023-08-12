@@ -1,0 +1,6 @@
+ultra high res,Diverse postures,
+(masterpiece),(best quality),(ultra-detailed), (full body:1.4), chibi, 1 girl,(Soft light and shadow),
+(beautiful detailed face), (beautiful detailed eyes:1.12), (looking at viewer),  <lora:blindbox_V1Mix:0.8>,
+yae miko, bare shoulders, pink hair, long hair, japanese clothes, jewelry, purple eyes, breasts, torii,  lantern light,
+east asian architecture,yae sakura,
+<lora:yaeMikoRealistic_yaemikoMixed:0.8>

@@ -1,0 +1,1 @@
+a (old man chatlanin:1.1) and (young girl alisa selezneva:1.1), happy, film grain, <lora:chatlanin_v10:0.6>, <lora:alisaselezneva:0.6>, <lora:add_detail:0.7>

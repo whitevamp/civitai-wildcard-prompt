@@ -1,0 +1,1 @@
+<lora:Springfield:0.8>,<lora:GTS:1>,(partially obstructed:1.3),buildings along bottom of frame,springfielddress,blue dress,giantess,city,gts,standing,skyscrapers,(buildingseat:1.2),(sitting:1.2),full body,(strapless:1.1),hair rings,ground view,lovely smile,barefoot,arms at sides,(crowd of people:1.2)

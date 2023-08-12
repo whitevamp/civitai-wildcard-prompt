@@ -1,0 +1,2 @@
+masterpiece,best quality,highres, ultra-detailed,
+ overalls, no bra, Sandy blonde hair, hair braid, freckles, curvy, huge breasts, big lips, straw hat, in barn,  <lora:add_detail:0.5>, <lora:epi_noiseoffset2:0.5>,

@@ -1,0 +1,1 @@
+face lighting,bright backlight,super high resolution,best quality,Photos,4k,(Realistic:1.2),xem,1girl,solo,(redeye:1.6),pointed ears,long hair,(demon wings:1.1),(devil horns:1.1),navel,outdoors,(demon tail:1.1),smile,thigh,(naked:1.4),<lora:xem-10:0.8>,bsp,<lora:BetterStandingSlit:0.4>,

@@ -1,0 +1,9 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,cowboy shot,
+1girl,expressionless,
+<lora:tina-nvwls-v1-final:0.8> tina branford, green hair, blonde hair, cape, earrings, red dress, detached sleeves, hair ribbon, clothes around waist,
+snow mountain,rain,snow,cliff,coal mine,
+(night:1.3),
+<lora:sanDka2:-0.3>
+<lora:flat2:-0.5>,
+<lora:LowRa:0.5>, dark theme, 
+<lora:anime_minimalist_v1-000020:-0.1>

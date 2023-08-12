@@ -1,0 +1,1 @@
+shukezouma, (negative space:1.5),clean background,  shuimobysim, hanfu, beard, man, mustaches, playing  pipa, blue and green ink,  <lora:Moxin_Shukezouma:1> <lora:Moxin_1010:0.7>

@@ -1,0 +1,4 @@
+(Overhead view),dynamic angle,ultra-detailed, illustration, close-up, straight on, 1girl, 
+ ((<lora:AsukaV1-000016:0.8>, souryuu asuka langley, interface headset, red bodysuit:1.4, blonde)),Her eyes shone like dreamy stars,(glowing eyes:1.233),(beautiful and detailed eyes:1.1),(expressionless,closed mouth),(standing), 
+(mechanic room with tools<machine guns> and spaceship window<an epic space view outside the window> in a white SPACESHIP),
+(night:1.2),dreamy, [[delicate fingers and hands:0.55]::0.85],(detail fingers),

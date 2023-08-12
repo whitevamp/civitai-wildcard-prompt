@@ -1,0 +1,5 @@
+absurdres, 1girl,medium breast, blush, (realistic:1.6), (photorealistic), (masterpiece, Extremely detailed CG unity 8k wallpaper, best quality, highres:1.2), (ultra_detailed, UHD:1.2), perfect illumination, distinct, (1girl:1.4), unreal engine, sidelighting, perfect face, detailed face, perfect body, beautiful eyes, pretty face, (bright skin:1.4), (realistic skin texture), 
+ makeup,  
+(looking at viewer:1.6), cozzy bedroom, 
+(night party dress:1.4), sitting on bed, (medium shot), 
+ <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.76>

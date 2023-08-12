@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),1girl,beautiful detailed face,haizeiwang/\(wanted/\),<lora:wanted poster:0.7>,<lora:AnyaHD:0.8>,(Anya\(SPYXFamily\)),lovely,shy,navigation,boat,teeth,

@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),  <lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.8>, <lora:accidentalExposure_v10:0.8>,accidental exposure, pleated skirt, panties, bag, thighhighs,<lora:oversizedShirt_v10:0.8>,oversized shirt,from behind

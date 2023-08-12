@@ -1,0 +1,1 @@
+(best-quality:0.8), (best-quality:0.8), (((no humans))), broken introspective perfect anime illustration, front view, a house with a small letter box in front <lora:urbansketch:.42>

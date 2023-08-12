@@ -1,0 +1,7 @@
+MAX detail,
+<lora:MultipleGirlsGroup:1>multiple girls, 5girls,lineup,
+girl, (large breasts, curvy, smile, tight gym uniform,  naughty face, sweat stain, narrow waist, bent over, top-down bottom-up ), 
+outdoors, sweatdrop, 
+sunbeam, natural lighting,
+  from behind, from below, looking away,  group shot,
+ <lora:add_detail:0.2><lora:sweat_stain:0.1>

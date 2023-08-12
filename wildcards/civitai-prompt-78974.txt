@@ -1,0 +1,1 @@
+Softlight,(warm color:1.2),Water color painting,light background,best quality exquisite details,3d rendering,Octane render,pastel, (paper_cut:1.15), (white background:1.35), <lora:KK_paperCut_v1:0.8><lora:standingFullBodyWithBackgroundStyle_v10Offset:0.6> white background, full body, cloud,colorful, starry,stars,

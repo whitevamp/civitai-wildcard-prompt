@@ -1,0 +1,2 @@
+masterpiece award winning photograph of 25yo young girl,  (wearing spiderman costume:1.2), undercut half-shaved short wavy blonde hair, flawless skin, tiny waist, hourglass figure, perky big breast, cleavage,  long legs, glow lights, climbing a building, upright shot, 8k, raw photo, upfront shot, extremely detail, hyper realistic, detailed face and skin texture, nice hands, perfect hands,   
+<lora:add_detail:1> <hypernet:sxzBloom_sxzBloom:0.6>,   <lora:GoodHands-beta2:1>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, ultra-detailed:1.2), highres, 1girl, red hair, bat wings, wings, (slim body, small breasts, devil tail:1.3),  short twintails, (black latex bra), (black latex short shorts), open mouth, (cave with pools of lava background), <lora:etnaFromDisgaea_v1:0.6> etna (disgaea)

@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:wheatskin:1> <lora:LnF:1>
+woman, large breast, grin, blush, forehead,  blond hair,  dynamic pose,
+LNF, divine, cloak, black-framed eyewear,
+straight-on, from front, pov, from below,   cowboy shot,  solo focus, dark red background,

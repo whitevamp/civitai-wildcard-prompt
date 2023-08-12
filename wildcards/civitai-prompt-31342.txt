@@ -1,0 +1,1 @@
+masterpiece, detailed, best quality, award-winning photo, a woman with long straight black hair, sexy smile, full body view, hourglass figure,  <lora:kindgirls_josephine_v1:1> <lora:3breasts-default-lr-1640steps-fixeddata:1>, high detailed face, full breasts, sitting in a bed

@@ -1,0 +1,1 @@
+(best quality, Ultradetailed:1), young girl, upper body,   <lora:photo-nosehookv1:0.7>front lighting, front pov,open mouth

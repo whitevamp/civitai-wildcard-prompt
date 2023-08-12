@@ -1,0 +1,2 @@
+fechin oil painting style, oil brush strokes, large color blocksdisney,in the Palace of Westminster,a female Amazon, medieval theme, (((masterpiece))), ((best quality)), ((intricate detailed)), ((Hyperrealistic)), a muscular woman with feather coat, bracers, pauldrons, perspective, highly detailed, illustration, 1 girl, perfect hands, detailed fingers, beautiful detailed eyes, (fantasy:1.2), armor, detailed background, fierce look, dynamic view, 
+ <lora:fechin:1> <lora:add_detail:0.5>

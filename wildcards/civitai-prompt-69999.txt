@@ -1,0 +1,1 @@
+masterpiece, 1fairy, a flying female fairy, perfect face, light, glass tree forest, dramatic lighing,  blindfold, <lora:BlindMask_v1:1.2>,  <lora:GlassTech-20:1>, ultra detailed, floating glow lights, depth of field, (shining dust)

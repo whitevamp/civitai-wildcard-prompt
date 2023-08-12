@@ -1,0 +1,3 @@
+<lora:PecoraV1:0.7>
+pecora
+child, 1girl, medium breasts

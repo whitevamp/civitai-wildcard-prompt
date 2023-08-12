@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, volumetric lighting, mature female shewowgob, blue eyes, green skin, (pink:1.3) hair, piercings, short, revealing clothes, fantasy, detailed background, makeup, eyeshadow, lipstick, mascara, thick eyelashes  <lora:sxzGoblinsWarcraft_sxzGoblin:0.6>

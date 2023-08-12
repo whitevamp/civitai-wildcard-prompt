@@ -1,0 +1,1 @@
+green lantern, (((1girl))), beautiful, solo, (overhead shot:1.5), (full body:1.5), building terracet,  <lora:HalJordan:1>,  <lora:add_detail:1.5>

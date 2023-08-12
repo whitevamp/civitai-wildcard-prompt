@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo, looking at viewer, eye focus, <lyco:GoodHands-beta2:1.0>,  <lora:RQueen:0.5>, RQueen, WCar, (sports car:0.2), (race queen:0.2),

@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed), <lora:wojak:0.8>, wojak,  <lora:neco-arc:0.75>, 1girl, solo, looking at viewer, neco-arc, short hair, blonde hair, red eyes, animal ears, cat ears, cat girl

@@ -1,0 +1,3 @@
+masterpiece, best quality, ultra-detailed, 1girl,, 4k, 1girl, detailed face, <lora:MISC_ADD_DETAIL:1>, white hair, cold eyes, intricate hair band, earrings, looking down on viewer, intricate lingerie
+<lora:POSE_COWGIRL:1>, 1boy,squatting cowgirl position, (anal:1.1), pov, (corneo_anal:1.0)
+visible nipples, visible boobs, nsfw,  <lora:MISC_GOOD_HANDS_BETA_2:1>

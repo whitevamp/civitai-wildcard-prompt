@@ -1,0 +1,6 @@
+dutch angle, big diamond,
+1girl, looking at viewer, menacing look, smug,
+wariza, sitting, sweat.
+pikkyherta, 1girl, long hair, purple (glowing:1.2) eyes, solo, hat, dress, bangs, looking at viewer, flower, doll joints, brown hair, hair ornament, black headwear, hair flower, chains, frills,
+glowing background, diamond, crystals, dungeon, underground chasm, shining,
+<lora:hertaStarRailV1:1>  <lora:add_detail:0.3>

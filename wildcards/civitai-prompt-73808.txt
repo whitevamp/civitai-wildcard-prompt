@@ -1,0 +1,3 @@
+masterpiece, 1girl, solo,  pov, ayase fuuka, ingerie,  front view, bust shot, walking, happy, spread legs, kneeling,
+cowboy shot,, smile,  <lora:otoyomegatari:0.9>, greyscale, monochrome, halftone, drawing, manga, otoyomegatari,
+<lora:add_detail:1.8> ,face focus,  class room, <lora:AyaseFuukaLORA-000007:1>

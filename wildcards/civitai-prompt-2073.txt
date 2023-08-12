@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), (standing:1.2), spread legs,
+1girl, kurihara mari, black hair, medium breasts, dark blue eyes, long hair, (pantyhose:1.3), brown jacket, looking at viewer, classroom, blush, looking down,from below, 
+ <lora:Kizuki - Prison School - Kurihara Mari:0.85>

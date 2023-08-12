@@ -1,0 +1,3 @@
+(masterpiece:1.2), best quality,PIXIV, ChihunHentai,
+1girl, siege (arknights), breasts, solo, animal ears, long hair, lion ears, looking at viewer, large breasts, blonde hair, parted lips, yellow eyes, covered nipples, cleavage, see-through, bangs, upper body, nipples, white tank top, choker, tank top, bare shoulders, black choker, ponytail, artist name, collar, lion girl, bare arms
+ <lora:ChihunHentai_20230709225610-000004:0.9>

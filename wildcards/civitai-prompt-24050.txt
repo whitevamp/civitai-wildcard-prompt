@@ -1,0 +1,1 @@
+AND_PERP fullbody,city street,(milky way:1.3),solo,loli,twin tail hair,mini skirt,action:1.5 pose:1.2,<lora:handdraw:0.8> :1

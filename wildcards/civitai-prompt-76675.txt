@@ -1,0 +1,1 @@
+masterpiece, best quality, anime style, 1girl, aerith gainsborough, night, looking at viewer, power, (standing:1.4),smiling, sexy body, pink dress, red short jacket, brown boots, movie composition, depth of field, bokeh  <lora:add_detail:0.5>  <lora:nijiMecha:0.8> (mechanical arms:1.4), (armor:1.4), (science fiction:1.4), mechanic, anime coloring, <lora:ff7r_style_ned_offset:1>,

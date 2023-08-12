@@ -1,0 +1,2 @@
+(extreme closeup:1.3) (masterpiece:1.5) (photorealistic:1.1) (best quality) (detailed skin texture hairs:1.1) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus),
+<lyco:ellefanning_lycor_02-000003:1>, ellefanning-smf, 1girl, solo, realistic, blonde hair, green eyes, blue eyes, white dress, smile, mid-body

@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2)1girl,perfect face, perfect eyes,perfect hands,pureerosface_v1, hanfu, ming style,<lora:hanfu_v30:0.6>

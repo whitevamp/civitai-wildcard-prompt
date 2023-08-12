@@ -1,0 +1,12 @@
+(best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, milf, full body,
+silver hair, short hair, bun hair, 
+medium breasts, bustier, 
+lace elbow gloves,
+thigh highs,
+sitting on the sofa, 
+smile,
+indoors, 
+rim lighting, evening, night,
+best lighting, detailed background, detailed shadow, sharp focus, 
+[<lora:sd-No.405v2-000002:0.25>:<lora:taiwandolllikenessV20_v20:0.6:OUTALL>:0.3]

@@ -1,0 +1,1 @@
+(masterpiece, best quality), illustration, <lora:yoshidahirofumi_csmv2:1>, yoshida_csm, default_outfit, gakuran, buttons, smile, looking at viewer, from below, tentacles, ((dark background, black background))

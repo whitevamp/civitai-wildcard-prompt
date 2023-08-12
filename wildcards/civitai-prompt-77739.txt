@@ -1,0 +1,1 @@
+<lora:lyxvnc:1>  face, tan skin, smile, jacket, headband

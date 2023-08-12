@@ -1,0 +1,4 @@
+young woman standing, nude, 
+professional lighting, strobe, wet skin, shining skin,
+photorealistic, realism,   desaturated, sharp, high details, insane details, 
+ <lora:add_detail:1> <lora:FilmG3:0.8>

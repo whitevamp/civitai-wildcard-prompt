@@ -1,0 +1,3 @@
+best quality, intricate details, 
+1girl, long hair, ((blue eyes)), solo, black hair, Irelia, looking at viewer, purple hair,  lips, foreshortening, symmetrical eyes,    <lora:ireliaFromLeagueOf_ireliaV1:0.8> irelia,  arm ribbon, 
+ <lora:fbiMemeLora_v10:0.8> skistyle, (fbi cap, fbi, blue police uniform, police badge:1.4)

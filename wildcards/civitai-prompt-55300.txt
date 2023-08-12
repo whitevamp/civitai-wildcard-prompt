@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl,<lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, shark tail,  two side up, shark hair ornament, cube hair ornament, 
+
+<lora:animeGirlsHolding_v10:0.8> Holding_Sign,    <lora:blackedUnderwear_v19:0.8> sports bra, thong, blacked,

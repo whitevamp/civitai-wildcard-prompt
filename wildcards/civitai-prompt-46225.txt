@@ -1,0 +1,29 @@
+(masterpiece), best quality, highest quality, extremely detailed CG unity 8k wallpaper, complex and intricate, original,high res, cinematic lighting,
+\\
+beautifully detailed background, depth of field,loli:0.1,realistic:1.3,
+(ambient light:1.3),(cinematic composition:1.3),(neon lights:0.1),(HDR:1), Accent Lighting,
+\\
+(16yo),extremely detailed_eyes, fingernails, sexy, large breasts,
+(eyeliner:0.5),(blush:0.5), black hair,
+\\
+looking at the viewer, solo,
+\\
+white shirt, full body,
+
+street, subway station, shop border, Akihabara \(tokyo\), Shibuya \(tokyo\), Shinjuku \(tokyo\), tree, rain, cloudy, afterglow, cityscape,
+
+pureerosface_v1, [:(detailed face:1.2):0.2], shiny eyes, dramatic view,  
+
+STARRY, STARRY LIGHT, NIGHT, COLORFUL, CLOUD, STAR \(SKY\),  decent jacket, jacket pull, wind coat pull,
+Raining, Rainy, wet, damp body, water drops on skin,
+light blush, skinny,
+ulzzang,(raw photo:1.2), (photorealistic:1.4), beautiful detailed girl, extremely detailed eyes and face,
+light on face,
+cameltoe, (denim blue jeans, red leather jacket, black leather backpack on back), (black backpack)
+
+Shirt pull, earrings, FASHI-GIRL, dynamic expression, leggings, sportswear,
+
+Jumping, Running, Walking. see-through
+
+
+, <lora:chilloutmixss20_v20:0.2>

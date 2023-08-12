@@ -1,0 +1,3 @@
+<lora:dungeon_v2.0:1.0>
+1girl, dungeon, (realistic:1.1),  tiara, long hair, hallway, dark, darkness, shade, shadow, tunnel, princess, white dress, looking back, stairs,
+<lora:koreandolllikenessV20_v20:0.3> (pureerosface_v1:0.5),, masterpiece, best quality, highly detailed

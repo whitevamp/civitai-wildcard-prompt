@@ -1,0 +1,2 @@
+Best Quality, Masterpiece:1.4), (Realism:1.2), (Realisitc:1.2), (Absurdres:1.2), 4K,(photorealistic:1.3), Detailed, Ultra-Detailed, Digital Art,1 girl,colorful,Solo,Realistic Skin, beautiful detailed eyes, symmetric eyes,Large Breasts, <lora:SheerSkirtV2:0.7>,See Through,
+Pink Sheer Dress,Night, Outdoors,<lora:add_detail:0.5>,Cowboy Shot, <lora:fitgirl_v10:1>,Windy,

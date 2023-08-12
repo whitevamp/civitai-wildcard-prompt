@@ -1,0 +1,6 @@
+(masterpiece:1,2), best quality, scared expression, clenched teeth, sfw,1girl, (tears:1.1), shade face,<lora:scared-expression-v1.8-000005:1>
+snowfield,
+kneeling&setting on floot,
+ponytail, blue hair,
+Bunny Girl, (((rabbit ear))),
+ahoge,hair ornament,earrings,collar,leg ring,white socks

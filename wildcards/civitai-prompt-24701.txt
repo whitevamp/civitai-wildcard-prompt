@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, medium breast, long hair, blonde hair, high ponytail, brown pupils, smile, (diamond necklace:1.2), silver bracelet,
+<lora:DakotaWhiteHalterDress:0.85>, white halter dress, armlet,
+seductive pose, leaning on the door, hotel hallway, focus lighting,, masterpiece, best quality,incredibly absurdres, 1girl,

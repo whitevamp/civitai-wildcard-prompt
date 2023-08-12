@@ -1,0 +1,1 @@
+1girl,witch,purple coat,glowning eyes,white hair,hands behind back,luminous,magic,dark forest, <lora:InstantPhotoX3:0.7>

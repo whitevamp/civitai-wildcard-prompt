@@ -1,0 +1,2 @@
+Epic illustration of a cute Pikachu by alex horley, electricity
+<lora:horley_dataset:0.85>

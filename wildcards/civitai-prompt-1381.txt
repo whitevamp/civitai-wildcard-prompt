@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,        
+ <lora:exhibitionismV_Conv2D:0.8> exhibitionism, public indecency, public nudity, small breasts, petite, pussy, blushing,  
+<lora:full-face_blushConv2D2.5e-5_BF16:0.45> blush, embarrassed,  <lora:hohoaka:0.4>   <lora:anya-melfissa:0.8> anya melfissa, very long hair, hair ornament,   <lora:female pubic hair3:0.8> pubic hair,

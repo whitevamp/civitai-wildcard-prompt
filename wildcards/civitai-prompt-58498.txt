@@ -1,0 +1,8 @@
+solo, male, (muscular), shaman, (male anthro dragon):1.3, black body, white belly, (kneeling):1.3, (kemono:1.4)
+(praying):1.23, (tribal clothing, long loincloth, red pattern:1.2),
+detailed eyes, dragon tail, horn, 
+((bust portrait)), (detailed eyes, yellow eyes, glowing eyes):1.1,
+(outdoors:1.35), altar, fire, smoke, forest, candle, night, (particles ,firefly, blue glowing):1.3, 
+detailed background, photorealistic, realistic hands, 8k hd,
+(dark shadows, wide dynamic range, hdr, low light:1.2),
+by (by Pino Daeni, (by ruaidri), by virtyalfobo).

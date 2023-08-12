@@ -1,0 +1,3 @@
+A photo of Darth Talon flirting to the camera in a desolate desert wasteland.
+blurry
+ <lora:DarthTalon:0.9>

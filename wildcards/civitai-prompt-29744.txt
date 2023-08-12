@@ -1,0 +1,10 @@
+(Sacrilegious Photo:1.3) of (Ultrarealistic:1.3),(Satisfying:1.3),(by Artist Andrew Loomis:1.3),(by Artist Mead Schaeffer:1.3),Highly Detailed,(Conceptual Art:1.3),(Private Press:1.3),(Oversaturated:1.3),
+(iranian:0.8) girl with (Flexible,Endomorph body:1),
+nsfw, (Beaming,desirable,object of desire lips:1),
+(bottomless:1),
+(flat chest:1),
+(absurdly long hair Mahogany pointy hair:1),
+(Point-of-View Shot:1.2),
+(Far-reaching,Imperceptible detail,Step-by-step,Lavish:0.8),
+<lyco:add_detail:0.4>
+<lyco:breastinclassBetter:0.4>, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.35]

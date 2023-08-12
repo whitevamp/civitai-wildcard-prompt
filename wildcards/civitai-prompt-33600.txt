@@ -1,0 +1,6 @@
+(masterpice, best quality, high quality, highres:1.4), extremely detailed, detailed skin, soft skin, ambient soft lighting, 4K,
+1girl, solo, upper body, standing, ganyu \(genshin impact\), (claw pose:1.2), ganyudef
+aqua hair, mullet, black horns, 
+black gloves,
+mountainous horizon, mountain, flowers,
+ <lora:Genshin Impact - Ganyu:1>

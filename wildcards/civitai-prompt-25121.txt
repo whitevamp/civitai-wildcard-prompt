@@ -1,0 +1,7 @@
+(biophylltech cocktail:1.4), (volumetric fog:1.3), biophylltech background
+ADDCOMM
+<lora:style-biophylltech:1> product advertisement, style of kim keever, (back lighting, fluorescence:1.4), funky cold medina, this brother told me a secret on how to get more chicks, put a little medina in your glass, and the girls'll come real quick, it's better than any alcohol or aphrodisiac, a couple of sips of this love potion, and she'll be on your lap, (symmetry:1.5), (masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres:1.2), (extremely detailed, highly detailed, intricate details:1.2)
+ADDBASE
+(blue flame, fire, flamb:1.5), (blue:1.2) cocktail
+ADDROW
+(green:1.4) cocktail, (berries:1.2), (moss:1.1), (dew drop:1.2), polished wood

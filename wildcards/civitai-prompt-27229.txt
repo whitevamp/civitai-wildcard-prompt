@@ -1,0 +1,4 @@
+(masterpiece, best quality, high quality, highres:1.4), detailed, extremely detailed, ambient soft lighting, 4K, (2girls, 1boy, cooperative fellatio, anilingus, ffm, threesome, group sex:1.3) ADDCOMM
+(1girl), (mature female, milf, older female:1.2), (long hair, blonde hair, (forehead, straight hair):1.3), (blue eyes, sweat, blush:1.2), (large breasts:1.2), perky breasts, (nude, naked:1.2) BREAK
+(1boy), lower body, penis, testicles BREAK
+(1girl), (mature female, milf, older female:1.2), (short hair, red hair, blunt bangs, (straight hair), asymmetrical sidelocks, long sidelocks:1.3), (blue eyes, sweat, blush:1.2), big breasts, saggy breasts, (nude, naked:1.2) <lora:envybetterhandsLocon_beta2:1> <lora:jujunaughtStyleLora_v10:0.3> <lora:milfWeightEdit_v1:0.5> <lora:matWomen_v2:0.5>  <lora:cooperative fellatio anilingus-000007:0.9>

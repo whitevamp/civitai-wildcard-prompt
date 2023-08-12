@@ -1,0 +1,4 @@
+professional photo of turanga leela, 1girl, solo, breasts, purple hair, ponytail, large breasts, long hair, pants, tank top, makeup, cleavage, lipstick, toned, ((cyclops)), black pants, lips, white tank top, bare shoulders, (one-eyed:1.4), (one eye:1.4),
+detailed skin,
+high quality, volumetric light, highrez, masterpiece, best quality, complex detailed background,
+<lora:turanga_leela:0.8:MIDD>

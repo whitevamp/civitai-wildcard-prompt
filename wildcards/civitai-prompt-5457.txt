@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:ShiroganeNoelBikini:0.8> noel, bikini, bikini skirt, eyewear on head,  
+ <lora:bobsout1:0.8> nipples,  
+ <lora:uwu:0.8> ;3, uwu, catmouth, paw pose,

@@ -1,0 +1,4 @@
+outdoors, castle far away,
+1girl, fire, red hair, pointy ears, red eyes, short hair, bob haircut, solo, breasts, choker, cleavage, pyrokinesis, magic, fireball, fire magic, long hair, dress, jewelry, medium breasts, long sleeves, elf, wide sleeves, lips, earrings, looking to the side, looking away, closed mouth, embers, flame, upper body
+, ((masterpiece))
+<lora:western_animation_style:1>

@@ -1,0 +1,1 @@
+1girl,  blonde short hair, blue eyes, black gloves, lether belt,  fishnets <lora:FishNet:0.6>, <lora:GoodHands-vanilla:0.5>,  <lyco:teacherv2:0.7>,  android 18 <lora:android_18_v110:0.3>

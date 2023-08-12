@@ -1,0 +1,2 @@
+1girl, solo,full body,
+ <lora:Herta:1> <lora:unpants.v1.0:1> <lora:exposepanty-strong:1> <lora:Ass-CameltoeV1.2:1>

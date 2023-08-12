@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),<lora:shanyaogaoda:0.8>,shanyaogaoda, neonlight\(ttp\),  mecha, no humans, solo, <lora:Neonpunkai-8:0.6> ,Neonpunkai,  <lora:neonlight_V1_loha:0.3>

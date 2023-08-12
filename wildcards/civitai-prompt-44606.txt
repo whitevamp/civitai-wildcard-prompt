@@ -1,0 +1,2 @@
+(masterpiece, Raw photo, best quality, 8k, HDR), contrast, cinematic, (raytracing), realistic, a woman in futuristic dress is posing in front of a cityscape, in the style of realistic hyper-detailed rendering, 24mm, (vanishing point), scenery, science fiction, cityscape, concept art, official art, digital artwork, absurdres, detailed, (ultra-detailed), (volumetric lighting:1.2), (cinematic lighting:1.2),
+<lora:offset_0.2:1>   <lyco:neg4all_bdsqlsz_xl_V7:1.0>

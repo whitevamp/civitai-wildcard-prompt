@@ -1,0 +1,1 @@
+megadeth-album-cover featuring a hamster eating the skull of a rat, orange and purple accent, withLora(n47-v1-megadeth-album-cover,0.5) withLora(_add_detail,0.75)

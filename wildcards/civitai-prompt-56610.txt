@@ -1,0 +1,2 @@
+A hyper-realistic 3D rendering of a spacious and modern living room with a floor-to-ceiling green wall, featuring a mix of hanging plants, potted plants, and climbing vines. (Contemporary:1.3), (Highly detailed:1.2), (Natural light:1.2), (Botanical:1.4), art inspired by Livingetc, Elle Decor, and Architectural Digest
+ <lora:epiNoiseoffset_v2:1>

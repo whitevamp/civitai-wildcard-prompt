@@ -1,0 +1,2 @@
+1girl, solo, waist up, hanfu fashion, (flower blossom:1.2) jewelry, ancient art, chinese, long_hair, cloud, white smoke
+official art, unity 8k wallpaper, ultra detailed, aesthetic, masterpiece, best quality, photorealistic <lora:qianjinghui:0.6> <lora:Song_HanFu:0.5> <lora:FilmgirlLora_v30:0.3:PALETTE>

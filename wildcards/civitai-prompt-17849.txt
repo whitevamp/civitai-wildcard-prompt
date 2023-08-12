@@ -1,0 +1,1 @@
+(masterpiece),(best quality), <lora:cat_20230627113759:0.7>, cat, <lora:NijiExpressV2:0.4>,(playing with butterfly),

@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, face the front, slouching, on all fours, medium breast, wearing black Bustier, ((detailed pupils)), detailed face and eyes, indoor, <lora:japanesedolllikenessV1_v15:0.08>, <lora:koreandolllikenessV20_v20:0.08>

@@ -1,0 +1,1 @@
+(outdoors, lolita_dress, cowboy shot),  realistic_skin, healthy_skin,  highest detailed, realistic lighting, best quality, masterpiece, a woman, looking at viewer, <lora:lolitaFashionDress_v10:0.7>  <lora:koreandolllikenessV20_v20:.7>

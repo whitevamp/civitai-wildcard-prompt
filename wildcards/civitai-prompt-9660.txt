@@ -1,0 +1,7 @@
+(upper body shot), (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes, hyperdetailed, raytracing, rendered, (good proportions), (good anatomy), (subsurface scattering), (diffused soft lighting), (shallow depth of field), (Art by Oliver Wetter), perfect lighting, perfect shading, volumetric lighting, subsurface scattering, (photorealistic:1.5), centered
+BREAK
+<lora:defCamilla, tiara, armor, gloves, gauntlets, black panties, thigh boots:0.7> brvCamilla, mature female
+brvCamilla, crown, cape, armor, gloves, fur trim, armored boots
+ <lora:more_details:0.5>
+BREAK
+castle

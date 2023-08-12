@@ -1,0 +1,1 @@
+female knight wearing polished plate armor, red cape, fairytale castles and romantic countryside, r1ge,  <lora:r1ge - AnimeRage:0.65>  <lyco:Adventurers_v20:0.9>

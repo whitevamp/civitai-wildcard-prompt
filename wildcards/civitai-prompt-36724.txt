@@ -1,0 +1,3 @@
+Taki, standing, upper body,,brown eyes,ponytail, brown eyes,leg up, fighting stance, shins, serious, 
+rooftop, night, moon, sengoku period, 
+(insanely detailed, beautiful detailed face, masterpiece, best quality)    <lora:Taki-10v3:0.7>

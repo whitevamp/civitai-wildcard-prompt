@@ -1,0 +1,1 @@
+logo,masterpiece,(on a white background:1),white chinese dragon surrounded by white clouds,pink sakura trees,petals,wind,god,long wavy body,fangs,fantasy, mythical, high quality, highly detailed, masterpiece, epic,particles effect,dynamic effect,sun in the background  <lora:conceptLoongChinaDragon_v10:.8> <lora:logoarchive_v10:.8>

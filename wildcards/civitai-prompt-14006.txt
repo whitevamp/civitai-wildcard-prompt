@@ -1,0 +1,1 @@
+A forbidden castle high up in the mountains reaching for heaven, sunrise, pixel art, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (hyperrealism, soft light, sharp:1.2), <lora:add_detail:0.5>, <lora:epiNoiseoffset_v2-pynoise:2>,

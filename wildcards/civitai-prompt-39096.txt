@@ -1,0 +1,1 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.85>, nude (mime) girl, hands up, palms out, breasts against glass, surprised expression, (mime makeup), outside, on street, european city sidewalk, <lora:against_glass_v0.2:1>

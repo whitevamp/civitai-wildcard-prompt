@@ -1,0 +1,2 @@
+(((blue, silver, glimmer)), faerie), limited palette, contrast, phenomenal aesthetic, best quality, sumptuous artwork
+ <lora:cumbersome-block:1>

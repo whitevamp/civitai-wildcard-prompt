@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.37),(1girl <lora:rurumuSakyumamaKedamaMilk_v10:0.7> rurumu, demon_tail, in sever room), miniature, landscape, (isometric), glass box,<lora:miniatureWorldStyle_v10:0.8>,

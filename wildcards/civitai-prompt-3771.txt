@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2),
+1girl, (adult:1.2), solo, standing, upper body, face focus, cinematic shot, lyla,
+white hair, long hair, blunt bangs, horns,
+(black sclera, colored sclera, blue eyes:1.2), looking at viewer,
+red skin, white shirt,
+huge breasts,
+<lora:Lyla:1>

@@ -1,0 +1,3 @@
+8k, real picture, intricate details, ultra-detailed,(photorealistic),
+<lora:Nikka-05:1.0> Nikka, Blonde Hair, Short Hair, Blue Eyes, sweater, white pantyhose, 
+<lora:cameltoe_v21:0.1> cameltoe, simple background, cowboy shot,

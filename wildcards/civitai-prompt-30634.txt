@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination,
+1girl, full body, cowgirl outfit, cowboy hat, cowboy boots, fringe trim, vest, tied shirt, midriff, holster, bandana, sheriff badge, 
+sitting, on counter, bar, wooden wall, 
+ <lora:cowgirl_outfit_v0.1a:0.9>

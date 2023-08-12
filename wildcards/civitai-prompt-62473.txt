@@ -1,0 +1,3 @@
+(masterpiece, top quality, best, official art, beautiful and aesthetic, long exposure:1.2),  luminous trails,   captivating patterns,  visual chaos,
+(1man, masculine, adult hungarian male:1.2),  silver eyes, black taper fade,
+(style-swirlmagic:0.7), portrait, solo, (full body:0.6), looking at viewer, detailed background, detailed face, (<lora:style_gemstoneai_v10:0.4>, GemstoneAI, gemstone theme:1.1)  embodied star constellation, star sign, horoscope, calm composure, mythical, scorpio,   patterns, interstellar , galaxies,   aura,   floating particles,  backlighting, cosmic space background, surreal ethereal atmosphere,

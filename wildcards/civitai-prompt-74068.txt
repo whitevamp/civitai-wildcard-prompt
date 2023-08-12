@@ -1,0 +1,1 @@
+Girl, (laser transparent pvc texture clothing:1.4), evil smile, (half-closed eyes:0.96), smug, fang,brilliance, prism, jewelry, portrait,beautiful light on black background, <lora:nijiexpress:0.5> <lora:flat2:0.7>   <lora:shutenDoujiFateGrand_v10:1>

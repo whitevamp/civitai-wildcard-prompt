@@ -1,0 +1,6 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(naked:1.5),
+1girl, <lora:shibari_v10:0.5>,(((shibari,japanese bondage,rope))),(absurdres nipple:1.4),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(medium_breasts:1.5),narrow waist,((skinny legs)),
+medium hair,(blonde hair:1.2),
+<lora:A1_jpIDOL_v10:0.2>,<lora:A1_LoveOnLovely_lolStyleV10:0.2>,<lora:A1_DollLikeness_Korean_v15:0.2>,<lora:A1_cuteGirlMix4_v10:0.1>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Taiwan_v10:0.1>,<lora:A1_DollLikeness_Japanese_v10:0.1>,
+cherry blossom background,

@@ -1,0 +1,6 @@
+masterpiece, best quality, absurdres, 1girl, solo,
+virgin destroyer sweater, navel, garter straps, thighhighs, bob cut, outdoors, detached sleeves, clitoris, platinum hair, blue eyes, halo, huge breasts, wide hips, narrow waist, 
+intricate, 
+skin pores, detailed skin
+(realistic:1.2), UHD, dramatic shadows, global illumination, high contrast 
+ <lora:krekkovStyleLora_v10:0.3>  <lora:virginDestroyer_v13:1>

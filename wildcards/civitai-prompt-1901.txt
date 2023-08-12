@@ -1,0 +1,6 @@
+portrait of 1 beautiful woman, pale skin, blue short hair, blue lips, 
+spacesuit, complex background, city 
+futuristic Egypt,  detailed,  ( ink sketch by methurlant)
+high contrast, best shadow, cinematic lighting
+(masterpiece, best quality:1.3),
+ <lora:methurlant:0.9> <lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

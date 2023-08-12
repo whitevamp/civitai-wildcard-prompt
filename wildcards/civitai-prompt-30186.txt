@@ -1,0 +1,8 @@
+(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features),HDR,8k resolution, solo focus, bangs, skin tight, (shiny skin),(slender girl),dreamlike,
+(extreme detailed illustration),check commentary,commentary request,scenery,no text,
+<lora:VirtualGirl-Rin:0.2>,VirtualGirl-Rin, small breasts, bob hair, short hair, brown hair, brown eyes,black choker,
+1girl, upper body,
+Pink spotted cotton pajamas,
+Pink cotton pajamas,
+White cotton slippers,
+happy,smile,

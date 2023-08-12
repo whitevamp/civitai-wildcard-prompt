@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra-detailed, 1girl, destroyed city, city on ruins, realism, 
+<lora:marondbgt_ex_01:0.8>, marondbgt, blonde, twintails, low twintails  
+,pink dress,  pink headwear,  white shirt, collared shirt, 
+(1boy), 1girl, ass, barefoot,  feet, fellatio, hetero, implied_fellatio, oral, (seiza),  <lora:IMPLIED_V1:0.6>,  indoors,bed,

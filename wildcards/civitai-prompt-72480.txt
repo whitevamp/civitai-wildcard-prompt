@@ -1,0 +1,3 @@
+(RAW photo, best quality),  extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,intricate,
+Sub-Zero boy,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality,(zentangle),(entoptic patterns,multi-dimensional), <lora:Smoke:0.9> <lora:zhongfenghuaxiyou-000018:0.8>

@@ -1,0 +1,6 @@
+realistic, (masterpiece,best quality, official art, beautiful and aesthetic),
+1girl,offshoulder,A pink wrap dress with beige wedges and gold hoop earrings.,
+Spirituality,
+Zen temple, serene, spiritual,
+mesmerizing glow, evocative hues, captivating coloration,
+<lora:LowRAv2:0.4>

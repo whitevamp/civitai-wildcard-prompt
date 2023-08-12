@@ -1,0 +1,4 @@
+<lora:add_detail:1>
+(1man,  old  male:1.2), wise,  hazel eyes, graying hair, side-swept fringe,
+portrait, character focus, looking up, solo, half shot, detailed background, detailed face, (<lora:MusketPunkAI:0.6>, MusketPunkAI theme:1.1), royal  monarch,   sitting on throne,  throne room background, symmetrical composition, sidelighting, cinematic atmosphere,   royal crown,   
+<lora:FujiVelvia50:0.4>,

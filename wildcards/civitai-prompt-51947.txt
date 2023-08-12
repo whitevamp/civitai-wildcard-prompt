@@ -1,0 +1,1 @@
+(best quality,detailed), <lora:graphicNovelStyle_v1Bright:1>

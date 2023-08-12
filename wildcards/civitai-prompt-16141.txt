@@ -1,0 +1,3 @@
+1girl, solo, aphroditeS,  <lora:aphroditeS_v1:0.6>, blond hair, hair ornaments, flowers in hair, huge breasts, white dress, cleavage, neckale, golden bracelets, 
+sitting in throne, black background, arms down, arms resting in chair arm,
+masterpiece, best quality, vibrant colors,  <lyco:GoodHands-beta2:1.0>

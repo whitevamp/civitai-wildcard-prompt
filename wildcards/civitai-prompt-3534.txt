@@ -1,0 +1,6 @@
+1girl, a female warrior, wide shot
+(Ink sketch Moebius	,Odd Nerdrum	  methurlant,)
+intricate red armor,  futuristic,   surreal, war,fire, 
+high  contrast, flat color,
+(high quality, masterpiece)
+<lora:methurlant:1>

@@ -1,0 +1,3 @@
+absurdres, 1girl, , , masterpiece,  blonde hair,
+
+depth of field, soft lighting, masterpiece, best quality, intricate, (lens flare:0.7), (bloom:0.7), particle effects, raytracing, tone mapped, highly detailed,

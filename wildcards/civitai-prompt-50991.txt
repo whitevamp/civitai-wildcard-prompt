@@ -1,0 +1,3 @@
+slimes, goopy, transparent, faceless, 1girl, solo, voluptuous woman, thick thighs, wide hips, long hair, green hair, neon green body, green latex, latexskin, sexy pose, skintight, rubber bodysuit, pinup, masterpiece, ultra hd, absurdres, best quality, bottom heavy, sneakers, athletic clothes, belly button
+
+<lora:LatexSkin:.8> <lora:FemaleSlimes:.6> <lora:GlassSculptures:.6>

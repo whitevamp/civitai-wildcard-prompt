@@ -1,0 +1,5 @@
+(Masterpiece, Best Quality, High Quality:1.4), professional artwork, well drawn, Intricate Details, detailed painting, cinematic lighting, trending on pixiv, vivid lighting, vibrant colors, by by Nagasawa Rosetsu,
+MadamePresident, mature female, (male pubic hair:0.7), stomach, pussy, (vaginal sex, pubic, girl on top, naked male, male, 1boy, dick, cowgirl, riding on dick:1.2), (pov:1.1),
+blonde hair, long hair, wavy hair, lipstick, makeup, ultra detail hair, ultra detail face, perfect eyes, perfect face, earring, brown eyes, Looking at Viewer, (moaning, horny:1.1),
+(highheels:1.1),
+(Large Breasts:1.1), Cleavage, big ass, red nails, nail polish, <lora:MadamePresident-000009:0.8>, <lora:epi_noiseoffset2:1>

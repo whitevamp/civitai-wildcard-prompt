@@ -1,0 +1,4 @@
+(masterpiece, best quality:1.2), (RAW photo, realistic, photorealistic:1.3),
+1girl japanese girl, (crowded park:1.2), slender, thin waist, closed mouth, smile, red brown hair, red eye,
+low angle, bottom view, <lora:pulledwedgie:0.6>, pulledwedgie,pulled by self,wedgie,
+ <lora:edgleotard:0.6>, edgleotard, white thong leotard,

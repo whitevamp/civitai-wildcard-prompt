@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (anime:1.2), (photograph:1.1), girl, <lora:fuuFNarutoShippuden_v20:0.8>, fuu, (wearing a fancy red dress:1.1), inside a fancy dinner hall, sexy pose, cute, young, thighs, slender, orange eyes,
+BREAK (detailed face and eyes:1.1), cowboy shot, 8k, 4k, hdr, RAW photo, professional photography, intricate detail, detailed hair, sharp focus, perfect face, perfect eyes

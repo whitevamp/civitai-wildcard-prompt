@@ -1,0 +1,1 @@
+Head Texture, she-hulk, green skin <lora:Head Texture Map_v.1.0:1> <lora:SheHulk:0.5>

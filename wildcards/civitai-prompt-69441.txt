@@ -1,0 +1,1 @@
+masterpiece, best quality, highres,  lize helesta,  <lora:2434_LizeHelesta_v10:0.6>, short hair, sitting, indoor, teenage, hair accessories <lora:fuzichoco:0.5> <lora:EyesGen:0.5>(eyesgen:1.5)

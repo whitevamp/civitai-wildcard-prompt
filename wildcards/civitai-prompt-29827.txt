@@ -1,0 +1,1 @@
+(masterpiece, best quality), 1boy, bara, mature male, old, stubble, cleft chin, wear (white thong), male bulge, stubble, high fade haircut, chubby chest, abs, look at viewer, eyes opened, standing, (bokeh background:1.1), <lora:add_detail:0.3> ,<lora:epiNoiseoffset_v2:1>, <lora:Silverjow Style v3:1>

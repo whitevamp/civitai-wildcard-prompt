@@ -1,0 +1,1 @@
+Harley Quinn, 1girl, smile, (evil:1.3)  twintails, (blue+pink hair:1.3), (blue+pink+white color:1.3), (white background:1.2), (vector art:1.8), (punk style:1.5), (lineart:1.5), high quality, high detailed, cinematic light, dramatic light <lora:Harley:0.33>,

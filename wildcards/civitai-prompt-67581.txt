@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, <lora:KINK_paizuriinvitation-12:0.8>, paizuriinvitation, cleavage, partially unbuttoned, button gap, (hands on own chest,deep skin:1.2), looking at viewer, gloom \(expression\), multicolored hair, SPIRALWASH EYES, indoors, study room, statue, paintings, desk  <lora:KINK_spiralwash_800:1>

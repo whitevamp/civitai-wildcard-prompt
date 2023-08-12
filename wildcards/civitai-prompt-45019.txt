@@ -1,0 +1,9 @@
+best quality, intricate details, chromatic aberration, 
+
+1girl, long hair, black hair, messy hair, red highlights, hair over one eye, red eyes, sharp eyes, 
+
+choker, neon shirt, torn legwear, open jacket, 
+
+against wall, brick wall, graffiti, dim lighting, alley
+
+<lora:animeLineartStyle_v20Offset:1> , monochrome, lineart

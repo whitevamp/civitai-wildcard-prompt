@@ -1,0 +1,1 @@
+(firekeeper:1.2), ((wallpaper 8k)), ((high detailed)), ((masterpiece)), ((best quality:1.2)), ((hdr)), ((absurdres)), ((RAW photo)), 1girl, portrait, white hair, mask, braided hair, portrait, upper body,  dark lighting, masked eyes, <lora:firekeeper2:1>

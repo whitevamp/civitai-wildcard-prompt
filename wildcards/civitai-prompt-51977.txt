@@ -1,0 +1,4 @@
+1girl, solo, solo focus,  detailed eyes,extremely detailed eyes and face, ((extreme close-up,large close-up ,Cold tone,Loop lighting, closed mouth)),dark background,closed mouth, ((front)),cold_tone, bangs, parted bangs, 
+light on face,looking at viewer, straight-on, staring,detailed skin,detailed,Ordinary Complexion,small breasts, 
+white hair, collarbone, bare shoulders, longeyelashes,((black background)), aespakarina
+lace ,lace trim,   <lora:aespaKarina_aespaKarinaV5:0.85>

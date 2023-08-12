@@ -1,0 +1,3 @@
+1girl,ultra high res,(best quality, masterpiece:1.2),ultra-detailed,portrait,full body,style of a idol,(pleasure face:1.3,enchanting smile),
+looking at viewer,long hair,red lip,sitting,crossed legs,(flight attendant uniform,black stockings:1.2), small breasts, high heels, airport, lounge,
+<lora:Pure_Innocent_girl:0.3>,

@@ -1,0 +1,4 @@
+realistic,( photo-realistic), (best quality),official art, masterpiece,  ultra hires, 8k, (night, grey skin, dark and dreadful atmosphere), 
+(east asian architecture:1.5), indoors, luxury room,
+(2girls:1.8), <lora:Chinese_Zombie_cosplay:0.65>, cosplay costume, (chinese talisman on forehead:1.2), shiny skin, blood, blood on face, blood on clothes, 
+(((yuri, kiss,hug, touching breasts))), tongue, tongue out, dynamic pose,

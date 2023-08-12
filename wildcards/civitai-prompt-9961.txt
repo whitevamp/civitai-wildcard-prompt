@@ -1,0 +1,1 @@
+masterpiece, best quality,1man,chest hair, short hair, full body,barefoot,  loincloth ,cute face,outdoors, <lora:add_detail:0.7>

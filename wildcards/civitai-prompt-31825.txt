@@ -1,0 +1,1 @@
+1girl,<lora:Test1>,detailed face,detailed eyes,nty,(upper body:1.3),art,drawing,ballet dancer,dynamic pose,portrait,perfect pretty face, <lyco:_GoodHands-beta2:1.0>

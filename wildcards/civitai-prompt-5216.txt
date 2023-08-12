@@ -1,0 +1,2 @@
+Photo of a slender woman in (EIClothing:1.4), surrounded by majestic mountains, with white hair and [blue|brown] eyes, (tents:1.2). smiling, shorts, garter, high stockings
+<lora:ArknightsAurora:0.7>

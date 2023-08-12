@@ -1,0 +1,1 @@
+best quality,(masterpiece:1.4),perfect lighting,1girl,alice,blush,detailed face,cross earrings,blue eyes,blonde hair,breast lift,nipples,<lora:alice:0.7>,<lora:SelfBreastGrab:0.7>,<lyco:translucentBunnysuitClothes:1>,

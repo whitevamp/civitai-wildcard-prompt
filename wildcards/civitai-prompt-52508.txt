@@ -1,0 +1,10 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (ultra_highres), (ultra-detailed),
+1girl, solo, front view, looking at the viewer,
+top bun hair, beautiful face,
+bikini, bare shoulder, small breasts,
+tall, slim legs, slim waist, beautiful hip, perfect body, shiny skin,
+smile, standing, grin,
+supermodel, sunlight from top right, (wet, splash, water:0.8), sand beach, standing in the water, resort, dramatic scene,
+detailed shadow, sharp focus,
+virtualgirl-ak, kpop idol,
+(ulzzang-6500-v1.1:0.5) <lora:virtualgirlAki_v11:0.25>

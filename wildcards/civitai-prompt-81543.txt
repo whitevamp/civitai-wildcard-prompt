@@ -1,0 +1,3 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile, 24yo, bob cut,
+<lora:otl:1> otl, tan, micro bikini,  <lora:maid_bikini-clothes:0.8>maid bikini,  large breast, brown and white skin, huge breast, neon sign, night, walking, festival,
+maid headdress, detailed skin,

@@ -1,0 +1,7 @@
+(8K, HDR, highres), ((((Photography, RAW photo, hyperrealism, masterpiece, best quality, ultra highres)))), (pin light, cinematic light), sharp focus:1. 4, (hyper detail, finely detailed),
+sunset, 1girl, A whimsical flower garden bursting with vibrant blooms of various colors. The fragrant scent and cheerful atmosphere make it a joyful and uplifting backdrop. (whimsical flower garden:1.2) (vibrant blooms:1.1) (fragrant scent) (cheerful atmosphere) (joyful) (uplifting), magical realism, movie still, beautiful korean:1.3, japanese:1.2, full body, getting dressed,
+buzz cut, large breasts:0.4, Natural breasts:0.4, (slim waist:1.1), (wide hip, large pelvis:1.2), (hip_up:1.2), (thick thighs and legs:1.2), oiledwet:1.4,
+((detailed beautiful face)), (perfect eyes, detailed eyes), (detailed facial features), beautiful and clear eyes, detail eye pupil, lipgloss, (Eyelashes:1.4), (((hair over one eye))), glossy, perfect hands,
+(((Mermaid Dress:1.5, no bra, no panties, Leg warmers))), tight, (((pubic hair:1.4, cameltoe, high heels))), 
+fan earrings, necklace, shoulder bag, 
+<lora:more_details:0.3>, <lora:[NSFW]NaturalLargeBreasts:0.3>, <lora:koreanDollLikeness_v20:0.15>, pureerosface_v1:0.25,

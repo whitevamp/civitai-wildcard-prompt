@@ -1,0 +1,1 @@
+solo, closed eyes, long hair, profile,(liquid hair:1.5), from side, upper body, closed mouth, gradient, gradient background, multicolored hair, simple background, grey background, lips, dripping, eyelashes, medium breasts, liquid <lora:nijiexpressV2_v20:0.8> <lora:samdoesartsSamYang_offset:0.9>

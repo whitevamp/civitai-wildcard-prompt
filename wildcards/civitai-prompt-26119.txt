@@ -1,0 +1,4 @@
+masterpiece,best quality,ultra high res,
+1girl,solo, (nurse cap),(mask),((pink mask:1.4)),sexy lingerie,((nsfw:1.5)),((breasts out)),small breasts, 
+looking at viewer,upper body,(portrait:0.78),
+<lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4> ,<lora:masusu_breast:0.4>

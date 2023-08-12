@@ -1,0 +1,2 @@
+best quality, intricate details,
+ <lora:3_v20:0.8> ;3, uwu, catmouth,  <lora:moriCalliopeHololive_v10:0.8>  callisleepwear,  <lora:paimonsPaintingsStyle_gstamp02000008:0.8>

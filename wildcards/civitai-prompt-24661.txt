@@ -1,0 +1,1 @@
+outfit-rossiya, 1girl, solo, white coat, spread legs, snow<lora:outfit-rossiya-pynoise:1> <lora:char-hk416:0.8> <lora:char-carno_p:0>

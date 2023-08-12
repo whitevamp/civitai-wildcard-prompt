@@ -1,0 +1,3 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic), detailed, extremely detailed, ambient soft lighting, 4K, perfect eyes, perfect face, perfect lighting, nsfw,
+1girl, <lora:asunayuukitest:1>, long hair, (blue eyes:1.2), (blue hair:1.2), pointy ears, elf, nipples, navel, cameltoe, completely nude, nude,
+ <lora:pov_spitroast_v0.2:1>, pov, top-down bottom-up, spitroast,2boys, penis,

@@ -1,0 +1,1 @@
+<lora:hipoly3DModelLora_v10:0.6>, hiqcbody, <lora:hyperfusion100k_v4:0.3>, masterpiece, best quality, long brown hair, blue eyes, 1girl, (gigantic breasts:1.4), blue sorceress robes, Valkyrie crown, necklace, earrings, sheer, transparent, see through, fantasy, outside, winter, porch, snow background, detailed, intricate, makeup, blush

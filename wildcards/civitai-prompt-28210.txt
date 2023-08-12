@@ -1,0 +1,3 @@
+masterpiece,best quality,highres, ultra-detailed, solo,excited,
+1girl,(angel, angelic, angel wings, elegant, beautiful, pale skin), fantasy, exotic, nsfw, breasts out, sexy, gorgeous, hot, attractive, seductive, alluring, charming, enchanting, huge breasts, perfect round breasts, petite, skinny, perfect female body, ((narrow waist)), looking at viewer, presenting, perfect skin,
+<lora:detailed_eye:0.4>, <lora:FilmVelvia2:0.4>, <lora:add_detail:0.4>

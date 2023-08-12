@@ -1,0 +1,1 @@
+river:2, small eyes.smile:0.5, corrage:0.8,small head , <lora:WuMo:1>

@@ -1,0 +1,1 @@
+detailed  <lora:hoteltransylvania_mavisdracula:1>, 1girl, mavis dracula, black hair, black lips, (black_lipstick:1)(open_mouth:0,5),22 yo, fangs, vampire fangs,blue eyes, vampire, fangs, smile, medium breasts, sexy,looking at viewer, black dress, striped thighhighs, night shot, <lora:Perky-Breasts-V3:1>, <lora:eGirlMakeup:0.75>, <lora:ckrdress-fc-v2:0.75>

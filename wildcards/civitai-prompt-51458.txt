@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.1), pxint, (1boy:1.05) [tomhol:osisaac:0.2], detailed eyes, portrait, beautiful, looking at viewer, droplets, Tuscan red and Fulvous, sparkle, bubble, flowing, with a splash of paint, (abstract:0.8) <lora:abstractPortraits_v1:0.85>

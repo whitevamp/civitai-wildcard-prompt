@@ -1,0 +1,7 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, ((looking at viewer:1.2)), portrait, breasts squeezed together, arms down, nightclub, club, dress, red lips,
+realistic, (photorealistic),
+tinkerbell,slim, small breasts,
+((center)),
+ <lora:Elbow Squeeze LoRA:0.5>
+ <lora:breastinclassBetter_v141:0.2>
+ <lora:tinkerbell_character-10PROUNED:0.6>

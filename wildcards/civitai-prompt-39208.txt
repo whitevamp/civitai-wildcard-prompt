@@ -1,0 +1,1 @@
+(detailed skin textures, realistic,raw photo,gradients, colorful, masterpiece, best quality:1.4), <lora:add_detail:0.5>, <lora:add_sharpness:0.25>, (1girl:1.2), shenhe, (orgasm face:1.1) rolling eye, happy sex,  (detailed face:1.2), <lora:genshinfull1:1>,

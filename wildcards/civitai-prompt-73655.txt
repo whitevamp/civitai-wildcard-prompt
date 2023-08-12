@@ -1,0 +1,1 @@
+selfie angle,1girl,beautiful detailed eyes and face,masterpiece, best quality,close-up,upper body , <lora:style_v1.2:0.5> <lora:face_v1.2:0.2> <lora:add_lora_v1.0:0.2>

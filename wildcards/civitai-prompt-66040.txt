@@ -1,0 +1,6 @@
+masterpiece, best quality, extremely detailed, intricate, full-length shot, photo-realistic,
+1boy, topless male  wearing torn panties, (bare legs, white socks:1.2), colorful sneakers, muscular body, abs, big pectoralis, shiny skin,
+detailed face, naughty face, blue eyes, short black hair, choker, shiny necklace,
+sweat, pee, urine-drop, looking at viewer,
+indoors, shops, bookstore, fruit store, clothing store, supermarket, 
+<lora:epi_noiseoffset2:0.5>  <lora:chineseMaleLikeness_chineseMaleLikeness3:0.7>  <lora:handsomeMan_v10:0.3>

@@ -1,0 +1,1 @@
+high resolution,(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2),the whole body, topless, one breast out, detailed face, spread legs, (delicate texture, pattern, hanfu),<lora:taiwanDollLikeness_v10:0.15>, <lora:liuyifei_10:0.8>, face of liuyifei,<lora:koreanDollLikeness_v10:0.08>

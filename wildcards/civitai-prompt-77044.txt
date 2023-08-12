@@ -1,0 +1,6 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece, extremely delicate and beautiful, extremely detailed, 8k, Amazing, finely detail, ultra-detailed, highres, absurdres,
+1girl, young, mature female, mature face, intricate details, shiny skin, soft light, best illumination, High contrast, caustics, beautiful detailed glow, centered,
+(bright red long wavy hair:1.3), bangs, beautiful detailed girl, detailed fingers, detailed eyes and face, detailed nose, detailed eyes, detailed lips, detailed hair, (smile, bright smile), looking at viewer, makeup, red lips,
+standing, dynamic pose, from front, (large breasts), realistic face, realistic body, detailed thigh, detailed legs, detailed feet, detailed knee, detailed fingers, (ulzzang-6500-v1.1:0.8),
+(trendy hairstyles, hair accessories, earrings, necklaces, bracelets, tatoos), holding an LV bag, (wearing sexual fantasies, sexy, revealing, avant-garde, trendy clothes), 
+<lora:yurisaLora_v40:0.6>, (((nude, naked:1.3))), <lora:realisticVaginasGodPussy_godpussy2Innie:0.4>, (((ridding bike in the city:1.4))), tokyo's street, crowd:1.4,

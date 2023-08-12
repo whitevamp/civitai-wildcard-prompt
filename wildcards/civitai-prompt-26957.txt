@@ -1,0 +1,15 @@
+Aesthetic: ((atompunk, atomic age, retro-futurism, technology, nuclear power, Cold War):1.4)
+BREAK
+Composition: <lora:StandingAnal-v1-test3:0.8> 1girl, standing, ((bending over, bent over)), anal sex, (((standing anal, ass, 1boy, man, penis, view from below, close up))), (((man close behind girl fucking her, man grabbing girl both of his hands around her waist pulling her closer,  grabbing ass, sex, penis in ass))), extremely perfect mans hands, extremely perfect mans fingers, girl looking back at viewer bending over, perfect face, pretty face, perfect eyes
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

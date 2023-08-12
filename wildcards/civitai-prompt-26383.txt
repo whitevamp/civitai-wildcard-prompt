@@ -1,0 +1,1 @@
+(masterpiece, best quality,high resolution:1.2), extremely detailed, <lora:YaeMikoFox:0.8>, YaeMikoFox,

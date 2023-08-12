@@ -1,0 +1,6 @@
+best quality, intricate details, 
+
+
+ <lora:KukiShinobuLORAGenshin_v4:0.8> KShinobuV4,
+
+ <lora:jkJKSquatting_v1:0.8> squatting,

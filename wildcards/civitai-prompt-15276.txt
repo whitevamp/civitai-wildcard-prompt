@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female),  <lora:concept_goodHands:1>, <lora:detailed_eyes:1>, 
+<lora:character_frankieFoster_(frankie foster):1>, redhead, ponytail, green eyes, miniskirt, lowleg miniskirt, thong, crop top, cropped jacket, piercing, cleavage, white shirt, midriff, smile, huge breasts, choker, (v-neck), hair ornament, hairclip, open clothes, 
+<lora:concept_downblouse_(downblouse--extended downblouse):1>, extended downblouse, high angle, sitting

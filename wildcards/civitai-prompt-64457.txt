@@ -1,0 +1,3 @@
+realistic,  (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extremely detailed,fractal art,colorful,highest detailed,zentangle,(abstract background:1.3)
+ <lora:fidus_v2_7200:1> fidus style, (1boy:1.3), (golden birds),
+silver hair, bright eyes,hair slicked back, short hair, black robe,

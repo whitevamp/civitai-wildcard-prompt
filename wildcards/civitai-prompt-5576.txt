@@ -1,0 +1,3 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Cozy poncho, leggings, Madame, Short, Narrow Hips, Diamond-Shaped Face, Dark Skin, Gray Hair, jade Eyes, Short Nose, Thick Lips, Prominent Chin, Long Hair, Coarse Hair, Boho Braid, augmented breasts, Dangle earrings, coral velvet lipstick, Writing letters,
+<lora:fC-perfectFullBreasts-V3:0.6>, cleavage, large breasts, slim waist,  (fC-detailPortrait:0.2),

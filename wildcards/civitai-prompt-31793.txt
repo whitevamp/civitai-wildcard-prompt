@@ -1,0 +1,4 @@
+professional photo of Stella, FairyOutfit, twintails, long low pigtails, fairy wings, orange outfit, glittery clothes, sparkling clothing, blonde hair,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:WinxClubStella-10 (2):0.78:MIDD>

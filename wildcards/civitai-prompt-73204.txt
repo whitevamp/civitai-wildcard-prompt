@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, instantphoto, snapshot, gio, short hair, cheekbones, tan, freckles, closeup, <lora:INSPHOT2:.5>, filmg, <lora:FilmG3:.1>  <lora:Gio_Scotti:.8>

@@ -1,0 +1,1 @@
+a white paper origami paper dragon standing guard over paper coins. 4 legs, 2 wings, spines  <lora:modernOrigamiStyle_v10:0.7> Wooden table, breakfast,  Style-Kitchen, (8K, best quality:1.2),  (photo, photorealistic:1.37), (analog:1.2), (detailed pupils:1.1), detailed face and eyes,  realistic, real shadow, Canon EOS R6, 135mm, 1/1250s, f/2.8, ISO 400

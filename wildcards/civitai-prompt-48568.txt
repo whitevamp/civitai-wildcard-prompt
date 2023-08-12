@@ -1,0 +1,7 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean,realistic, masterpiece, professional artwork, famous artwork,photorealistic lighting,ultra detail texture,nsfw
+
+(Blonde hair),perfect face, beautiful face, alluring blue eyes,pale skin,gogerus,goddess, godlike, divine, ((perfect female body, narrow waist)),ponytail,hair over eyes,layer hair style,ultra detail hair, ultra detail face, medium breasts,huge ass,caucasian,thick thighs,curvy thighs,detail skin,make up,(red lips:0.5),(crowd:1.6),mole under eyes,
+
+(footballs stand), fantasy, dreamlike, unreal, science fiction,(rich:1.4),wearing (((baseball uniform)),trouser,sexy, erotic,seductive, ulzzang-6500-v1.1:0.8,<lora:koreanDollLikeness_v15:0.3>,<lora:Japanese-doll-likeness:0.5>
+
+<lora:hipoly3DModelLora_v10:0.3>,smiling,confident facial expression,((detailed facial features)),

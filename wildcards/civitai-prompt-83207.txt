@@ -1,0 +1,4 @@
+background is (in forest:1.2),
+ink wash painting, 
+detailed face, detailed, long hair, black hair,  looking back, looking at viewer, 
+ <lora:xiaorenshu:0.8>, <lora:shuimoxin:0.7>,(wuchangshuo:0.8),

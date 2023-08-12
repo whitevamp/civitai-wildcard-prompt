@@ -1,0 +1,2 @@
+masterpiece, best quality, ultra detail,  cocktailworld, scenery, sunset, blurry background, no humans, 
+ <lora:CocktailWorld:1>

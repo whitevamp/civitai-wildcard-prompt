@@ -1,0 +1,2 @@
+<lora:betterCuteAsian03:0.3>, (oversized_shirt:1.3), multicolor oversized_shirt,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((sitting on a bed))), outside,   <lora:oversized_shirt10:0.5>

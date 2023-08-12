@@ -1,0 +1,7 @@
+(gorgeous antique furniture background), kawaii cute 1girl dancing, solo, close up, mysterious, vivid color, (glitters, fluorescence flowers in vase, luminous flowers blooming), 
+(glowing light blue eyes), detailed dreamy stars pupils, (delicate blue hair, messy hair, very long hair, French braid, hair between eyes), black headband, light smile, open mouth, 
+[[delicate fingers and hands:0.55]::0.85], (detailed fingers), detailed beautiful skin, off-shoulder shining fluffy (pink dress:1.3), frills, floral print, thigh highs, 
+dynamic angle, dynamic actions, touch lips, volumetric lighting, beautiful lighting, (dim lighting), 
+(classical private room, dressing table, old books, French window in morning, park view outside the window), pictures on wall, clock, fruits basket, 
+(masterpiece, best quality, high resolution, absurdres, intricate details:1.3), illustration, lens perspective, fantasy, feminine, 
+hyper detailed, highly detailed, ultra detailed, small details, trending on artstation, award-winning, good anatomy, <lora:flatBG:-1.3>

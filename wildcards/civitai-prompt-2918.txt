@@ -1,0 +1,5 @@
+professional photo of mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt,
+detailed skin, detailed eyes, cowboy shot, standing, night,
+photo made with Canon EOS  in natural style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:mercury_v2:0.75:MIDD>

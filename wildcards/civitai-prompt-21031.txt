@@ -1,0 +1,1 @@
+masterpiece, digital art, woman, closed eyes, (pink long hair:1.2), astronaut, sitting on a cloud, deep space, vibrant, by greg rutkowski, by artgerm, <lora:More Details:1>, <lora:LowRA:0.6>

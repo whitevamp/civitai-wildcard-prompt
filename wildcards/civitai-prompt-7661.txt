@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), highly face and eyes, (watercolor:1.5), brush strokes, vibrant colors
+BREAK,
+<lora:yautja-10, monster, fangs:0.8> yautja, monster, hanging from tree, 
+armored, high tech gear, shoulder cannon
+BREAK
+vines, jungle canopy, nighttime

@@ -1,0 +1,4 @@
+((masterpiece)), ultra hd detailed, (best quality), realistic, (photorealistic:1.4),(8k, RAW photo,intricate detail, motion blur, depth of field, film grain),
+fantasy, medieval|cyberpunk setting, (green forest|futuristic city),(electronic|magic items),
+(small drone|magic stone), (energy spark|fire spell),
+<lora:hipoly_3dcg_v7-epoch:0.2>

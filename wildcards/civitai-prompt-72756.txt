@@ -1,0 +1,1 @@
+<lora:waa:1>waa,table,leaf,ahegao,facial, cum, <lora:ahegao_v12:0.6>

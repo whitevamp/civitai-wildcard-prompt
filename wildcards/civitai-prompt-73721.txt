@@ -1,0 +1,7 @@
+yor briar,
+
+1girl, bangs, bare legs, black footwear, black hair, dress shirt, earrings, flats, full body, green skirt, green vest, hairband, jewelry, kneeling, long hair, long sleeves, looking at viewer, miniskirt, office lady, open mouth, pencil skirt, red eyes, seiza, shadow, shirt, sidelocks, simple background, sitting, skirt, solo, vest, white background, white hairband, white shirt
+
+, ((masterpiece))
+
+<lora:yor:0.7>

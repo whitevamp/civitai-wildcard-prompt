@@ -1,0 +1,3 @@
+Masterpiece, (2girls:1.3),
+blonde, nsfw, see-through leotard, playboy bunny, slim and petite body, high ponytail hair, (smile:1.2), vintage hotel, <lora:transpbunny:1>
+<lora:MilaAzul_1.0:0.5>

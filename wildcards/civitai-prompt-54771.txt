@@ -1,0 +1,1 @@
+Masterpiece realistic digital illustration of slim mechanical girl in translucent skin, glowing body, simple background  <lora:wlopStyleLora_v1:0.5> <lora:TranslucentSkinMechanical_v10:0.7> <lora:thesabuStyleLora_thesabuStylea1:0.3>

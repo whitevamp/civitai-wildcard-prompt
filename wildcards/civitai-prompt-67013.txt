@@ -1,0 +1,1 @@
+masterpiece, ultra realistic,photon mapping,radiosity,physically-based rendering,realistic,(high resolution), 1girl,huge breasts,black hair,<lora:koreanDollLikeness_v15:0.3>,  <lora:taiwanDollLikeness_v10:0.3>,<lora:Photo_Comparison-v2:1>,nude,

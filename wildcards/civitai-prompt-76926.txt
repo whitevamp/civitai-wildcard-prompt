@@ -1,0 +1,1 @@
+(masterpiece), (best quality), (ultra-detailed), photorealistic, (best illustration), (an extremely delicate and beautiful), 1girl, (goya:1.22), manguri,  <lora:manguri:0.7:ALL> <lora:goya_nai_1:0.7:OUTALL> short hair, pink hair, pink eyes, ahoge, thighs, legs, barefoot

@@ -1,0 +1,4 @@
+masterpiece,best quality,highres, ultra-detailed, solo,vivid,
+1girl,double eyelid, Lum, solo, orange eyes, long hair, green hair, aqua hair, multicolored hair, tiger print, strapless bikini, small bikini, yellow boots, yellow horns, cowboy shot, arms behind head, one leg up,
+,depth of field, (upper body:0.6),(front side:0.4),
+<lora:detailed_eye:0.4>, <lora:FilmVelvia2:0.3>, <lora:add_detail:0.6>

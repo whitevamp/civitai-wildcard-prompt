@@ -1,0 +1,1 @@
+(weightobese:1.3) aespawinter upper_body bob_cut bangs realistic, on a pier <lora:AESPA_Winter_V1:1>, (giant pizza boat) <lora:obeseGirlsConcept_v10:0.9>, lighthouse

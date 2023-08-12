@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>,  <lora:CannabisPunk_v1:0.6> CannabisPunk bus background, (velmadinkley),  <lora:velmadinkley_finetuned:0.7>, close to viewer, (chubby body, chubby thighs, orange sweater, glasses), (night, colorful smoke cloud, haze), (vibrant colors, psychedelic)

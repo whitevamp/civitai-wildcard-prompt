@@ -1,0 +1,1 @@
+<lora:v2BrainwashMachine-20:1>, BrnWshM, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, absurdres, highres, 1girl

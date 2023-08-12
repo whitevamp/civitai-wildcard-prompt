@@ -1,0 +1,8 @@
+(leashed:1.05), (masterpiece), (best quality), (pixiv), mature woman,
+collar, walking, looking at viewer,
+huge breasts, curvy, breasts out,
+anger, embarrassed, blush,
+(extremely detailed CG unity 8k wallpaper), intricate, cowboy shot, best lighting, shopping_district,
+microskirt,  pussy juice, 
+<lora:OnALeash-v2:0.7>,
+(bodywriting:1.2), <lora:toiletGirl:0.4>,

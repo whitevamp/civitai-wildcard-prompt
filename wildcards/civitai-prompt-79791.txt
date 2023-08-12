@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), large breasts, extremely detailed wallpaper, 
+pool party miss fortune, 1girl, one-piece swimsuit, sun hat, heart-shaped eyewear, red hair, smile, closed mounth, solo, detailed face, pool, villa, palm, umbrella, lying,
+dusk, sunset,Rays of Shimmering Light, Cinematic Lighting,
+<lora:pool_party_miss_fortune-000016:1>

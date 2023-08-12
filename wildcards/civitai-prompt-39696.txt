@@ -1,0 +1,1 @@
+(best quality, masterpiece, realistic), teenage mutant ninja turtle, alleyway, city, sunset, (soft light, sharp), <lora:TMNTDonatello:0.8>, <lora:more_details:0.5>

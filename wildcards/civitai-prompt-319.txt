@@ -1,0 +1,3 @@
+<lora:hiqcg_body_epoch-000005:0.5>, hiqcg, 1girl, anime, full body, open toe high heels, bare legs,
+detailed skin texture, detailed cloth texture,  beautiful detailed face,
+masterpiece, best quality, ultra detailed, 8k, intricate details,

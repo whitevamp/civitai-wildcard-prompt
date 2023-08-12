@@ -1,0 +1,1 @@
+<lora:boltedontitsV3:0.6>, masterpiece, best quality, 1girl, (woman in her twenties), teacher, in front of class, standing behind a desk, (boltedontits, cleavage), ponytail, tight white blouse, slacks, holding a book, serious look, in classroom, <lora:more_details:0.5>

@@ -1,0 +1,4 @@
+(masterpiece),
+(best quality),
+girl, (cinematic:0.7), 
+summer, light,

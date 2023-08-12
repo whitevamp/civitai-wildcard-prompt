@@ -1,0 +1,1 @@
+landscape, baligapura gate, stone statue, wall stone, village, stone stairs, yellow cloth, detailed, ornament, bali, tree, grass, flower, frangipani flower tree, epic, dawn, night, moon, yellow light lamp, fog, dramatic lighting, dim light, bokeh, <lora:ARWBaliGapura:1>  <lora:epi_noiseoffset2:0.4> advntr

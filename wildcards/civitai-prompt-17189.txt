@@ -1,0 +1,3 @@
+Real photos, touching polar bears on site, detailed polar bear fur, Interplay of Light and Shadow, Rembrandt, Professional 3D mesh, perfect polygon<lora:touch_grass-05:1> touch_grass,
+bear A hand is stroking a polar bear
+<lora:volibearV1:0.265>

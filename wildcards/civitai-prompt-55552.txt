@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl,   <lora:konosubaMegumin_v10:0.8> red dress, bare shoulders, witch hat, cape, asymmetrical legwear, belt, red eyes,dark brown hair,
+
+ <lora:smallPorcelain_v10:0.8> vallavica_animals, porcelain animal, ceramic figurine, chibi, cute,

@@ -1,0 +1,6 @@
+Ray Tracing, detailed,
+1 girl, detailed skin texture,
+photo realistic,
+(photo studio, gradient background),
+(big breasts, narrow waist, sensual sexy underwear with luxury jewelry trinkets), (toned body, toned thigh), (from above:1.2),
+21 years old cute korean idol girl, (fair skin, shiny skin, pale skin), <lora:LowRA:0.15>, <lora:koreandolllikenessV20_v20:0.3>,

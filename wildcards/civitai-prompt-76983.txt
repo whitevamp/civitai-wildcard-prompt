@@ -1,0 +1,1 @@
+<lora:sexyneiyi_v2:1>,sexyqun001,qun001,(severed_head:1.4), (photorealistic:1.5), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, glowing skin, (flower field:1.4), lens flare (floating colorful wind:1),elegant,Dutch windmill, (nsfw:1.2) <lora:add_detail:0.2>,(full body)

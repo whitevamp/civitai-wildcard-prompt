@@ -1,0 +1,4 @@
+<lora:grabbingOwnAss_v1Pruned:0.8>, ,detail hands,posing (hands on own ass), (grabbing own ass), 1girl, from behind, back, naked, nude, NSFW, anus, pussy, ass stretch , ass spread, picture painted in impressionist style, brushstroke painting technique, palette knife painting, an expressive oil painting, twin braids, one eye closed, black long hair,looking at viewer, smile, lips, upper body, standing, (leaning forward:1.3)
+<lora:add_detail:0.5>
+<lora:aftersex:1>
+<lora:Lora_v20:1>

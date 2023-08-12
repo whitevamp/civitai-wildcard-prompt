@@ -1,0 +1,3 @@
+nsfw, (autumn night), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, (waist up:1.1),
+beautiful 18 year old fergie, solo, huge round breasts, crop top, denim shorts, choker, (graffiti:1.5), paint splatter, arms behind back, against wall, looking at viewer, armband, thigh strap, paint on body, head tilt, bored, multicolored hair, aqua eyes, smile, ((highly detailed natural skin)), (skindentation), intricate details, hyper detailed,
+<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia2:0.4>,  <lora:leg_split_dress:0.5>

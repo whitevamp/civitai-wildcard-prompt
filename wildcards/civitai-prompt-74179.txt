@@ -1,0 +1,1 @@
+filmg, <lora:FilmG4:0.7>, 1girl holding a birthday cake with strawberries on the side in her hand((upper body, happy,)), masterpiece, best quality, ultra-detailed, solo,, (skin texture), (film grain:1.3), (warm hue, warm tone :1.2), close up, cinematic light, sidelighting, ultra high res, best shadow, RAW, upper body, (matte skin, skin pores), (bedroom)

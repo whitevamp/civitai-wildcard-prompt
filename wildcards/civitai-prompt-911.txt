@@ -1,0 +1,1 @@
+masterpiece, best quality, yandere, evil smile, from below, closed mouth, <lora:yameroyandere-v2:0.8>, <lora:add_detail:1>, head tilt, <lora:to8contrast-1-5:0.7>, dark, pink theme, pale skin, shaded face, empty eyes,

@@ -1,0 +1,2 @@
+violet_evergarden, highres, highest quallity, illustration, cinematic light, ultra detailed, detailed face, (detailed eyes), best quality, hyper detailed, masterpiece, (detailed face),1girl, blonde hair, blue eyes, highest details, luminous eyes, medium breasts,backlighting, light rays, (high contrast), (colorful), ribbon, jewellery, jacket, dress, gem, hair_ribbon
+ <lora:violetEvergarden_v10:0.7>

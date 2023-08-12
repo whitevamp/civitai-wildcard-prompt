@@ -1,0 +1,13 @@
+((masterpiece))((sfw))
+(best_quality)(1girl)
+(fisheye) (facing_viewer)(from_above)(angle) (close-up)
+(blurry_background) (depth_of_field)
+(gaming_room) (gaming_chair:1.4)
+(messy_room)(otaku_room)
+<lora:ainoku_HatsuneMiku:0.25>
+(Hatsune Miku) (twintails)
+(medium_breasts)
+(skindentation) (thick_thighs)
+(blush) (light_smile) (smile) (blue_eyes:1.4) (detailed_eyes)
+(legs_up) (sneakers:1.4) (black_legwear) (arms_behind_head) (knees_together_feet_apart)
+(yoga_pants)(arm_support)(wariza)

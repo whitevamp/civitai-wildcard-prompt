@@ -1,0 +1,1 @@
+photorealistic,(best quaility:1.2), red hair, long cut, red eyes, open mouth, nipples, saliva, on the beach, (from below:1.2), <lora:POVArmSupportAndFromBelow_v10:1>,  <lora:aliceNikke_v30:0.7>

@@ -1,0 +1,1 @@
+(photorealistic:1.20),(realistic:1.2),  hyperrealistic, ultra detailed, masterpiece, best quality, official art, unity 8k wallpaper, finely detailed, detailed background,  <lora:pugna:1>, pugna\(dota\),(huge long horns:1.5), green flames,

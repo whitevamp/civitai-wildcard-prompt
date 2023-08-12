@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details,
+(1girl),  <lora:scarlet:0.8> Maximoff, leotard, cleavage, cape, gloves, helmet,

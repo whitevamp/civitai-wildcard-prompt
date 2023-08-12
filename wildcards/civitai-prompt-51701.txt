@@ -1,0 +1,1 @@
+russian, 1girl  <lora:biomechanicalsHRGiger_v2:1.3> Alien,Predator,((spaceship):1.1) <lora:aMechaMusumeA_arc:1.1>

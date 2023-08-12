@@ -1,0 +1,1 @@
+from_side, btpt-fc, <lora:btpt-fC_v1.2a:1>, DSLR RAW filmgrain photo, shot on iphone, photography, edited in Adobe Lightroom, cleavage, cropped-fC, detailed face, colorful clothing, park, sky, trees, <lora:cropped-fC_v1.0:0.4>

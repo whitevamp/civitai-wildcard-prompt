@@ -1,0 +1,1 @@
+(1girl, alternate hair color absurdly long hair half updo, cyan eyes, , expressionless) (digital) (in detailed changing room, (mechanical arms, turtleneck, jeans, necklace, glowing)) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2>  mechanical arms, glowing, powerarm, <lora:powerarm:1>

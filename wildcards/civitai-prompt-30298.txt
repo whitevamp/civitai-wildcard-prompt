@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,best quality, cowboy shot,
+edgSDress, 1girl, solo, long hair, breasts, looking at viewer, blue eyes, brown hair, white background, dress, standing, full body, black dress, sandals, fishnets , wearing edgSDress
+ <lora:edgSDress:1>

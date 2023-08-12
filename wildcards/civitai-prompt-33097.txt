@@ -1,0 +1,2 @@
+amelia_detective, collared shirt, red necktie, plaid skirt, thighhighs, blonde hair, deerstalker, brown skirt, smile, walfie
+<lora:ame-10:0.6> <lora:walfie-10:1>

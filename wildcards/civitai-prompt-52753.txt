@@ -1,0 +1,5 @@
+best quality, intricate details, laughing,
+
+1girl,   <lora:shalltearBloodfallen_v10:0.8> shalltear bloodfallen, shalltearcostume, 
+
+ <lora:jkJKSquatting_v1:0.8> squatting,  <lora:gesugao_v10:0.8> gesugao, gesugao facial expression, sadistic smile,

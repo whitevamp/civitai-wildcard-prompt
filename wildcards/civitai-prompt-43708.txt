@@ -1,0 +1,4 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,
+(organic, geometric, harmonious, kaleidoscopic),mythological creatures, otherworldly, transcendent realms, inner peace, nature's embrace, magnetic allure, dark and mysterious,rich textures, art nouveau,
+nsfw,offshoulder,Navy blue blazer, black straight leg pants,
+<lora:LowRAv2:0.35:PALETTE> <lora:OC:0.2>

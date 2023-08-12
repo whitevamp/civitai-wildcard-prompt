@@ -1,0 +1,8 @@
+zydink,monochrome,ink sketch,
+1boy,black hair,short hair, very short hair,male focus, (((topless male))),
+detailed face,1boy cradling a ((dragon)),  <lora:db_gohan:0.4>
+mature,(muscular:1.5), male only,jacket,boots,(open chest),
+hot,sweat,((exhibitionism)),hairy, legs spread,looking at the viewer,
+(beautiful Background,detailed background:1.5),
+ illustration.media, masterpiece, best quality,   <lora:wuxia:0.5>
+detailed green eyes,, Best quality, masterpiece, ultra high res, (photorealistic:1.4), 8k, intricate, elegant, highly detailed, majestic, digital photography,

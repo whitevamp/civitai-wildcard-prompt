@@ -1,0 +1,2 @@
+woman , detailed and intricate nanosuit,photorealism,gold vault background , detailed and intricate nanosuit,full body shot,standing,stacks of gold,high quality texture,piles of gold,  full body shot,8k,hdr
+,ambient , cinematic, studio , (realistic), hd, hdr, beautiful , dynamic , colors, environment design, global illumination, subsurface scattering, 8k, chrome, <lora:nanosuit_v10:0.3> <hypernet:sxzCinematic_800StrongEnough:.3>

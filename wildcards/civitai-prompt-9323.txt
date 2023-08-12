@@ -1,0 +1,5 @@
+masterpiece, high quality, highres, 1girl, nsfw,
+<lora:DemonSlayerStyle:0.4>, <lora:Mitsuri-v2-04:0.4>, kimetsu no yaiba style, anime coloring,
+ChopioMitsuri, braid, twin braids, long hair, pink hair, multicolored hair, green hair, gradient hair, two-tone hair, hair between eyes, mole under eye, green eyes,
+bedroom, large breasts, bare shoulders, cleavage, (orgasm face:1.1), tearing up, tears,
+implied sex, see-through silhouette, pov, see-through, oversized clothes, nightgown,  <lora:ImpliedSexThroughClothes:0.35>, penis,

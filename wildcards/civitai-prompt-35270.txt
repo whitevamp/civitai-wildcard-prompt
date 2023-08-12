@@ -1,0 +1,1 @@
+(masterpiece, best quality), <lora:school_lockers_v0.5:1> lockers, 2girls, school uniform, hug, size difference,  evening light,

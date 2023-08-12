@@ -1,0 +1,1 @@
+realistic, best quality, masterpiece, woman's face, blonde straight hair, blue eyes, smiling, beach, intense sunglight, <lora:OC:0.7> <lora:add_detail:1>

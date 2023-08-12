@@ -1,0 +1,1 @@
+muscular,dark skin female,<lora:muscle2:0.7>

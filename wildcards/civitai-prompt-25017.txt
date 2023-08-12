@@ -1,0 +1,1 @@
+<lora:add_detail:0.5> (masterpiece, detailed, realistic, photorealistic, vibrant colors, highres, cinematic, atmospheric:1.2), (cute cat as main subject:1.2), sitting, wearing 'honeytech armor', outdoors, <lora:HoneyTech:0.7>

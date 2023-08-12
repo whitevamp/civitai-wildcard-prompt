@@ -1,0 +1,1 @@
+<lora:povAcrossTable_v008Beta:0.5>  <lora:aprnil:0.4> , aprnil, a woman in yellow jumpsuit, short red hair (european appearance, photorealistic:1.4, pov across table:1, table, sitting on a chair, sitting, china restaurant, food, cafe), (masterpiece, sidelighting)

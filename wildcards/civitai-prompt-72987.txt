@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), (intricate details:1.3), 8k, artstation, wallpaper, official art, splash art, sharp focus, (1girl:1.5), mechanical parts, robotic, <lora:reelmech:1>, <lora:Futuristicbot4:1>

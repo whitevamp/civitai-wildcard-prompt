@@ -1,0 +1,1 @@
+girl,(fantasy,isekai,magic,particles,rays,heroine),Elf,Lava Background,Turned away but looking back over the shoulder,Blunt Bangs,Fall Clothes,final fantasy ,(masterpiece,detailed,highres:1.4),(dota2:1.4) <lora:dota:1>

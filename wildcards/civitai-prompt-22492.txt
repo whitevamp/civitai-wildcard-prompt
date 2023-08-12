@@ -1,0 +1,2 @@
+<lora:easynegative:1> full body, 1girl, revealing clothes, messy hair, medium hair, see-through, dynamic pose, blonde hair, bent over, swimsuit, beach, blue sky, 1girl, 
+ <lora:Ronin:1>

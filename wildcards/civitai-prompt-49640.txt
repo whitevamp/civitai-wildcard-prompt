@@ -1,0 +1,3 @@
+multi-colored background, best quality, detailed background, highres, absurdres, bloom, disheveled hair, shiny hair, exposed in lighting, bright pupils,
+1girl, fashionable clothing, fashion model, looking at viewer, focus on leg, flower hair ornament, earpiece, long hair, ((panties)), (white sexy lace underwear), white hair, large_breasts, action_pose, sitting, white architecture, folded hands, outdoors, street, city,
+<lora:shenheLoraCollection_shenheMedium:0.6>, shenhe \(genshin impact\), hair_ornament, hair over one eye, underboob cutout, chinese clothes, (((upper body))), white clothes,<lora:colorbox:0.6>

@@ -1,0 +1,1 @@
+(((realistic))) photo, masterpiece, highest quality, 1girl, slender waist, best quality, pale skin, souryuuasukalangley, plugsuit 02, white background, (detailed face and eyes:1.1), smug, blush, ((shy)), extremely delicate and beautiful girl, dynamic pose, (to8contrast style), <lora:theovercomer8sContrastFix_sd15:.6>, <lora:asukaLangleySohryu_v9:.7>,   <lora:add_detail:.5>

@@ -1,0 +1,3 @@
+masterpiece, best quality, <lora:makima_offset:0.75>, makima \(chainsaw man\)  sweat, lips, 1girl, red hair, long braided hair, (golden eyes), bangs, blush,solo,dogeza ,makeup,hands behind head ,(sagging breasts,huge breasts:1.2),big areola ,toenail polish, toenails, full body, thighs, barefoot, looking at viewer, lipstick , smirk, low-tied long hair, blush, (sweat), (steam), (damp:1),office ,Bottom-up camera angle,nude, (pubic hair:1.2)
+, <lora:Concept-dogezaV5-000007:0.6>,  <lora:add_detail:1>
+ nsfwEM

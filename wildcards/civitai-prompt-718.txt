@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+<lora:Chopper:0.8> ChopperCzar, ArmPoint, (brown fur, animal ears, antlers, hooves, black eyes,  snout, fingers, fist), (hat, pink headwear, full body),
+ <lora:riding_a:0.8> riding on a reindeer,

@@ -1,0 +1,2 @@
+masterpiece, best quality, war machine, (3d:1.2),syberpunk,
+ <lora:Vehicle-000008:0.8>

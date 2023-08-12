@@ -1,0 +1,4 @@
+(masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),
+weighed down with sorrow,silence,falling leaves,wide sleeves, grey sky,  cloudy sky, long sleeves, robe,Poetic lens,obscure light and shadow,full body,
+1girl, waist up, Bluestar-Amsonia hubristic,blue flower,double exposure, fussion of fluid abstract art,surrounded by flower,
+ <lora:cuteGirlMix4_v10:0.4:FC> Rackflower,<lora:Rackflower:0.8>

@@ -1,0 +1,3 @@
+1girl,solo, smile,  dress,shiny legwear ,
+city,outdoors,finger to cheek, looking at viewer, realistic, short hair 
+  <lora:MaryElizabethWinstead23Apr:0.6>

@@ -1,0 +1,2 @@
+ultradetailed (intricately detailed, fine details, hyperdetailed), depth of field, detailed face and eyes, detailed background, intricate, detailed, trending on instagram, trending on tumblr, hdr 4k, 8k
+ <lora:epiNoiseoffset_v2:1>

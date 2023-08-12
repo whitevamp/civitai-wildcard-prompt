@@ -1,0 +1,5 @@
+in disco and bar in background,looking at viewer,depth of field, bokeh,light falling,
+1girl wearing shiny leather dress,sinRedDress,black panties,cleavage,large breasts,
+green eyes and red hair,earrings necklace,pout,close up,upper body,
+photography, masterpiece, best quality,HDR, highres,realistic details,
+40K, HDR, highres,  <lora:sinRedDressv1:0.9:1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0>

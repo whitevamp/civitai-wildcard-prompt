@@ -1,0 +1,1 @@
+mecha musume, mechanical parts, robot joints, headgear, full armor,1girl, solo, (masterpiece, best quality, high quality, highres, ultra-detailed), <lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.7>

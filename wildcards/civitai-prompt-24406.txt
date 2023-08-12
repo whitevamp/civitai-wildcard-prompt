@@ -1,0 +1,2 @@
+Masterpiece, highly detailed,absurdres,smirk, fine detail, HDR,edgJumpsuit, edgPantyhose,a woman in a ([black pantyhose |edgJumpsuit, embroidery ]::0.5) and a mask,wearing edgPantyhose
+ <lora:edgPantyhose:0.7>

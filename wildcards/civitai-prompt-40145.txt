@@ -1,0 +1,3 @@
+masterpiece, best quality, (2 girls), city, (skirt lift:1.3), blush, from below, embarrassed, (pussy:1.2), pussy juice, heavy breathing, female orgasm,
+BREAK  aaakane, short hair, red eyes, large breasts, purple bowtie, collared shirt, white shirt, off shoulder, purple jacket, partially unzipped, long sleeves, <lora:shinjou_akane_v2:0.6>, :D, 
+BREAK  rikka1, takarada rikka, black hair, blue eyes, long hair, school uniform, bangs, red bow, white cardigan, long sleeves, bowtie, white shirt, white sweater, closed mouth, serious, <lora:takarada_rikka_v1:0.6>

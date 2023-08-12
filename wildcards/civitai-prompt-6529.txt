@@ -1,0 +1,6 @@
+masterpiece, best quality, RAW photo ,   stunningly beautiful ,
+( <lora:orczor_v4.0:0.7> ,orczor : 0.8 ) ,  kneeling  ,
+<lora:Slingshot_V_Conv2D:0.8> slingshot swimsuit, color one-piece swimsuit : 0.7  ,
+Volunteer work in a foreign country ,A future world where humans have merged with machines  ,
+ink drips , graffiti art , insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr , faded    ,
+<lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:1>  ,  white background  ,  POV, nikon d850, film stock photograph ,4 kodak portra 400 ,camera f1.6 lens ,rich colors ,hyper realistic ,lifelike texture, dramatic lighting , cinestill 800 , <lora:add_detail:0.3>  ,  <lora:ClothingAdjuster:0.5  >

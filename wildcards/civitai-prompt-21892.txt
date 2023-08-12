@@ -1,0 +1,1 @@
+(best quality, masterpiece), 3dmm, (1girl, red skin:1.3), <lora:3DMM_V12:1>, (short black hair), horns, in a beautiful garden of flowers, <lyco:ColoredSkin-000019:0.5>, smile, overalls

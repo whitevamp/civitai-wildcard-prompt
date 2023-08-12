@@ -1,0 +1,5 @@
+parameters
+
+City,rainy day,Wet,Car,a bustling street,bichu,oil painting,masterpiece,best quality,HDR.UHD.4K,8K,64K,<lora:bichu0612:0.6>,<lora:油画笔触Oil brushstrokes:0.7>,
+Negative prompt: worst quality,low quality,bad quality,lowres,
+Steps: 24, Sampler: DPM++ 2M, CFG scale: 7, Seed: 2172989216, Size: 512x768, Model hash: 364a13041d, Model: 厚涂--M2150Fp16.FsqZ, Clip skip: 2, Lora hashes: "bichu0612: 069fd5176bd3, 油画笔触Oil brushstrokes: fea77195f5f0", Version: v1.3.2, Hashes: {"vae": "c6a580b13a", "lora:bichu0612": "b35b695a5e", "model": "364a13041d"}

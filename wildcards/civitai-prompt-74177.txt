@@ -1,0 +1,1 @@
+ultra-detailed, solo, 1boy, link \(totk\), earrings, green tunic, pants, gloves, belt, single bare shoulder, blonde hair, blue eyesm narrow face, lightly blurry, film portrait photography, 35mm film, filmg,  <lora:CHAR_GAME_ZELDA_tloz_link_totk-10:0.8>   <lora:STYLE_FilmG3:0.25> <lora:improve_backgrounds:0.2>

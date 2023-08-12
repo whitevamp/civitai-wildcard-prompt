@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lora:HeadpatPOV:0.8> HeadpatPOV, pov, headpat, 
+1girl,    <lora:nanashi_mumei_v1:0.8> aamumei, very long hair, ponytail, ahoge, multicolored hair, feather hair ornament, hairclip, white shirt, brown corset, dagger, belt, red skirt, thigh strap, single kneehigh, single thighhighs, brown cloak, cape, capelet, brown bow, 
+ <lyco:GoodHands-beta2:0.8>

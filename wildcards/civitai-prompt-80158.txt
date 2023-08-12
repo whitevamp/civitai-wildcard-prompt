@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1girl, long hair, dark blue hair,green eyes,(dark skin),gasping,breath,sweating,sweat,tired,tired expression,(desert clothes),mouth open,(hand on forehead:1.3),standing,sand desert background,closeup, day,day light,strong sun light,<lora:STYM_Eb-000005:0.5> ,<lora:sweat_lotion_v2:0.3>,   <lora:LAS:0.4>

@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), (6girls), (naked, nude:1.2), (breasts:1.2), (pubic hair:1.3), detailed eyes, open mouth, (smile:0.8), (serving in a fastfood:1.3), looking at viewer, (skin tanning), shiny skin, smiling, mcdonalds, (pink hair:0.7), <lora:mcdonalds-10:0.8>

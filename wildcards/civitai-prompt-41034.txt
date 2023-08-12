@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),beautiful colors, sharp contrast,photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,smiling,
+edgHO, fishnet_dress,((fishnets,cut out dress)),hairband, blue ascot, hair ribbon, in a black dress ,wearing edgHO,
+ <lora:edgHO:0.7>
+ <lora:elie-ver2-nv-lightbaked-v1:1>

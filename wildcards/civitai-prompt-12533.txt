@@ -1,0 +1,4 @@
+cosplay,pov,natural lighting,1girl,solo,
+lolita_dress,standing,bonnet,
+<lora:cuteGirlMix4_v10:0.1>,crowd,cosplay,<lora:Comicon:0.6>,
+blur,blurry,blurry background,nsfw,

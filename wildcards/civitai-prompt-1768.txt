@@ -1,0 +1,6 @@
+4K, RAW photo, best quality, masterpiece, ultra high resolution, (photorealistic:1.4), realistic,
+(best quality, masterpiece:1.2), (extremely intricate, detail_face:1.2), (1girl, slim), full body, dynamic pose, dynamic angle, ((from behind)), (exhibitionism),
+shibuya \(tokyo\), bus stop, bus stop sign,
+(nsfw:0.8), ((only_sweater)), (off shoulder-sweater, crop top-sweater, long sleeves-sweater), ((low-rise)), (pleated skirt, miniskirt), choker, earrings, navel piercing, 
+light_on_face, black hair, shiny skin, (gigantic breasts), narrow waist, (thighs), thigh gap, realistic_fingers, whole_fingers, red lips, makeup, huge ass, 
+ <lora:add_detail:0.7>

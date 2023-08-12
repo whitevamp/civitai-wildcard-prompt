@@ -1,0 +1,1 @@
+(best quality:1.2), robot, soviet unioin, crowd, future, red flag, <lora:soviet-poster:0.7>

@@ -1,0 +1,3 @@
+Hisako, grey skin,long hair, hair over one eye, black sclera, white pupils,   looking at viewer, crazy eyes, crazy smile,  standing,  legs spread wide,  perspective angle,
+HIattire,red kimono with floral print, off shoulder, torn clothes, cleavage
+(insanely detailed, beautiful detailed face, masterpiece, best quality)  <lora:Hisako-01:1>   <lora:Crazy_ExpressionsV2:0.8>,

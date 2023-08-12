@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, bibleblack,
+YukikoMinase, 1girl, solo, lying, on back, full body shot, looking at viewer,  bed, too many sex toys, sex toy, big black dildo, 
+(blush:1.1), shy, open mouth, sweat,
+[black hair:green hair:30], short hair, lipstick, eyelashes, yellow eyes, detailed eyes, perfect face, jewelry,
+(two-tone shirt:1.3), (multicolored clothes:1.1), tank top, denim shorts, short shorts, (open fly:1.1),
+curvy, midriff, navel, large breasts, cleavage, (female pubic hair:1.1), breast slip, nipple slip, 
+<lora:YukikoMinase:0.9> <lora:bb-style:0.3>

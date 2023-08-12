@@ -1,0 +1,2 @@
+sfw, (masterpiece, ultra high res, best quality:1.3),
+1girl,  cape, armor, black bodysuit, gauntlets, underboob,large breasts, <lora:lanceralter-nvwls-v1-final:0.9>, night, chatedral, from below

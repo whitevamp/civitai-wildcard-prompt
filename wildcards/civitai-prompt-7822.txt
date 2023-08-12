@@ -1,0 +1,2 @@
+tohru,  ((big tail)), monster girl, outside,grass, smile, teeth, mountains, clouds,solo,armwear,standing, denim shorts, black crop top,underboob,long hair
+<lora:tohru v1.3-000008:1>

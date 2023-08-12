@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), stunning, professional artwork, intricate details, vibrant image, sharp focus, trending on pixiv
+Terayama Reiko, (lying on the motorcycle:1.1), breast grab,  (shot from above, full body:1.25), motorcycle background,
+black hair, long hair, hair between eyes,  lipstick, makeup, black eyeshadow, detailed hair, detailed face, brown eyes, perfect eyes, perfect face,
+naked, nude,
+mature female, 40yo, large breasts, female pubic hair, pussy, thighs, spread legs,
+<lora:TerayamaReiko-000009:0.9>,

@@ -1,0 +1,7 @@
+(nsfw:1.15), full-body shot,
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors, (depth), warm colors,
+charturnerv2, A character turnaround of a beautiful busty milf in stockings and gaters as a actor, Pleased facial expression, wearing a victorian dress above it., fetish, sweaty,
+Multiple views of the same character in the same outfit,
+seductive, lustful, dominant,
+victorian age,
+<lora:add_detail:0.5> <lora:realistic:.6>  <lora:sharpen-soften:-0.5>

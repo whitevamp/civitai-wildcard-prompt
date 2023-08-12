@@ -1,0 +1,2 @@
+<lora:AI_Utaha:0.3> <lora:sd-No.144:0.22>  <lora:T2:0.25>, wide pelvis, the creamy smooth skin,
+(masterpiece, best quality), 1girl, nude, beautiful detailed eyes, upper body, splashing, abstract, psychedelic,

@@ -1,0 +1,1 @@
+Hitman,red tie , lighting, shadows , quality, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15)

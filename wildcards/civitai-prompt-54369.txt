@@ -1,0 +1,3 @@
+best quality, intricate details,
+
+ <lora:belleDelphine_v10:0.8>pink hair,

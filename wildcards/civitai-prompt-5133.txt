@@ -1,0 +1,1 @@
+robot assembly line, advanced electronics, complex machinery, advanced manufacturing,<lora:NijiExpressV2:0.4> fcPortrait  <lyco:Robotaction:0.6>

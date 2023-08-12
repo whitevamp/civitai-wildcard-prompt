@@ -1,0 +1,3 @@
+high quality,  \(8k, RAW photo, best quality, masterpiece:1.2\), \(realistic, photo-realistic:1.37\),  reflection light,
+eletre,a gray car, (gray Wheel hub:1.2),parked on a road,(yellow wall:1.1), (blue sky:1.2),  urban, sharp focus, intricate details, 8k wallpaper, trending on artstation,
+ <lora:Eletre:1>eletre

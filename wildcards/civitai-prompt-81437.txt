@@ -1,0 +1,4 @@
+((one male)) ((1boy)) ((full body)), very detailed flawless face, detailed open eyes, very handsome, epic, heroic, heavenly, (muscular) bodybuilder, (big muscles), ((large pectorals)), narrow waist. Shoulder length hair. Realistic face, realistic eyes, (detailed facial features)
+Standing, looking at viewer, wearing a loin cloth and cape.
+shukezouma, negative space, shuimobysim, <lora:shuV2:0.8>, willow branches, (masterpiece, best quality:1.2), traditional chinese ink painting, modelshoot style, peaceful, (smile), looking at viewer, song, willow tree in background, wuchangshuo
+<lora:BulkedUpAIR1.5:0.1>

@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+1girl,height chart,Height measurement,
+<lora:FemaleTitanV2:0.9> female titan, blonde hair, short hair, blue eyes, giantess, muscular, nude, scar, hair between eyes, teeth,
+ <lyco:barbieMugshot_A:0.9>,barbie mugshot , holding sign, 
+ <lora:flatBG:-0.3>
+ <lora:LowRa:0.2>

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1boy, ((okabe)), CRT, messy, wires, floppy disc, detailed background, anime style, <lora:okabe:0.8>

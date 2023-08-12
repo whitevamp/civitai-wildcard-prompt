@@ -1,0 +1,4 @@
+best quality, 1girl, highres, suzume \(rance\),
+slingshot swimsuit, blue one-piece swimsuit, neck bell, (large breasts), (soft breasts:0.8),
+masterpiece, absurdres, bright colors, 
+<lora:LohaOnonoimokoStyle_v10:0.7>, <lora:SuzumeRance:0.8>, <lora:Slingshot_V_Conv2D:0.75>

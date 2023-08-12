@@ -1,0 +1,1 @@
+1 girl, full body, riding a horse, (dynamic poses), Hanfu, (Winter hanfu), (cloak, headwear:1.1), (snow, red flowers, chinese outdoors:1.2), <lora:Winter_Hanfu:0.65>,

@@ -1,0 +1,1 @@
+beautiful female robot (cyberpunk scene:1.2), neon lights,hll,futobot, <lora:NijiExpressV2:0.6> <lyco:EnvyBeautyMix04:1.0> <lora:hll_v1:0.6> <lora:Futuristicbot4:0.75>

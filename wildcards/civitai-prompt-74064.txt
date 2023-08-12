@@ -1,0 +1,2 @@
+Girl, (laser transparent pvc texture clothing:1.2),evil smile,close mouth, (half-closed eyes:0.9), smug, black background,portrait,particles in the air,finger pointing viewer,
+<lora:nijiexpress:0.3> <lora:flat2:0.5>   <lora:shutenDoujiFateGrand_v10:1>    <lora:deluster2:-0.4>

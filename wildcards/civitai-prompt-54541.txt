@@ -1,0 +1,2 @@
+((pepe_frog)) ((boy person)), a female in space suit on space station, in weightlessness, holding a cup, photorealistic, intricate details, hdr, antialiased, 8k, syd mead, sharp details, vallejo, little smile, illustration, artgerm, donato giancola, Joseph Christian Leyendecker, Les Edwards, Ed Repka, WLOP, Artgerm , by studio ghibli , cartoon,
+ <lora:pepe_frog_v2:1>

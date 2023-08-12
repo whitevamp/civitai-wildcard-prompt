@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.3>, <lyco:vividImpactfulStyleYoneyamaMai_v40hLocon:0.2>,  (masterpiece), red eyes, long hair, chain background,<lora:huTaoGenshinImpact_v12:1.0>

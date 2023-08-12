@@ -1,0 +1,5 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ),<lora:add_detail:1>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:1:NONE>,
+<lora:danshitoilet_test4:0.6> danshitoire,syobenki,koshitsu,toilet,at toilet,
+<lora:Milf:0.6> milf,<lora:LR-000007:0.7> nude,breasts,large breasts,huge breasts,nipple,muscular,
+realcumAI,after sex,cum,cum in pussy,(cum on body, cum string, cum pool) <lora:cumshot_49:0.7>ejaculation,cum on face,taking a cumshot on her face,cumshot,<lora:koreanDollLikeness:0.2> <lora:hairyarmpits_v1.24.576.5e:0.3>,((armpit hair,)) <lora:excessive_pubic_hairConv2D:0.3>((excessive pubic hair)), wooden floor, pureerosface_v1
+(( white hair, brown eyes,))

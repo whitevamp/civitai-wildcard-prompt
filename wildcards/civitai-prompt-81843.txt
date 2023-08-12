@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:Ruined_Karma:0.8> ruined karma, 
+ <lora:eager_pet_pose_v1:0.8> eager pet pose, squatting,

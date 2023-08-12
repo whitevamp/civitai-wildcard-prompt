@@ -1,0 +1,4 @@
+1girl,solo, parted lips, 
+( midriff),(yoga pants,cameltoe ),
+forest,outdoors, finger to mouth, looking at viewer, realistic,      
+  <lora:MaryElizabethWinstead23Apr:0.65>

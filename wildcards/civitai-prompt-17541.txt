@@ -1,0 +1,2 @@
+masterpiece,best quality,(1girl:1.5),solo,looking at viewer, soft light,(PinkRanger:1.4),(fighting pose:1.2),(pink pants1.1),day light,scree field,ruin,(Explosion Artstyle:1.8), Explosion:1.2,backlight,sparks,
+ <lora:PinkRanger:1> <lora:Blow It Up - (Trigger words are Explosion Artstyle) :1>

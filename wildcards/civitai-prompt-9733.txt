@@ -1,0 +1,1 @@
+(Authentic skin texture:1.4),beautiful detailed eyes and face,masterpiece,ultra high res,high details,(photorealistic:1.4),raw photo,(film grain:1.3),character portrait,close-up,1girl,brown eyes,<lora:FilmVelvia2:0.5>,<lora:asianGirlsFace_v1:0.4:FACE>,(light smile:0.9),grassland,shaded face,

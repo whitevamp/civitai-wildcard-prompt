@@ -1,0 +1,5 @@
+waist shot, (completely naked:1.5), detailed large breasts, detailed large areolae, navel, natural pubic hair, sitting, (smile),
+retrobigguns, <lora:bigguns_v121:0.7>,
+(masterpiece), best quality, absurdres, nsfw, (photo-realistic), a beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, black hair,
+indoor, on the bed, white sheets, daylight, white curtains, white pillows,
+<lyco:GoodHands-beta2:0.8>, pureerosface_v1

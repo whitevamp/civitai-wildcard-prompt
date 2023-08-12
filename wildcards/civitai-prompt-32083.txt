@@ -1,0 +1,2 @@
+<lora:anxiang:0.6>
+ hanfu,1girl,(gilt gradient background:1.2), chinese style,(elegance:1.4), ancient decoration,swirl style, ink splash,

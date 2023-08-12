@@ -1,0 +1,6 @@
+(cowboy shot), sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:Supergirl_Galatea:0.7>  Supergirl, 1girl, long blonde hair, midair, flying
+hairband, \(white\) crop top, short sleeves, cape, blue pencil skirt, gloves, boots
+BREAK
+(clouds, city, gorgeous view)

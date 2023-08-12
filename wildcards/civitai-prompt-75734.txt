@@ -1,0 +1,8 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,
+1girl,solo,
+cleavage,pink,
+court house,
+indoor,
+Trust,
+ruin, crumbling, forlorn,
+ <lora:LowRAv2:0.3>  <lyco:GPTS4 dreamwave full_478773:0.25>

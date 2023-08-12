@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl, (slimthick, bottomheavy, massive thighs, hyper hips, gigantic ass:1.1), bent over, leaning, standing,
+masterpiece, best quality, highres, highres, absurdres, gonzarez, nia \(blade\) \(xenoblade\), nia \(xenoblade\), 1girl, :d, animal ears, breasts, brown eyes, cat ears, cleavage, detached sleeves, double v, fangs, gloves, grey hair, leotard, long hair, looking at viewer, medium breasts, simple background, sitting, smile, solo, thighhighs, thighs, v, white background, white gloves, white sleeves, white thighhighs,
+(slimthick, bottomheavy, massive thighs, hyper hips, gigantic ass:1.1), 
+<lora:hyper_bottom_heavy_v3_weighted-lr2e-4-4b-4ga-16dim-flip-te1e-4-tkn225-a8-t_drp0.15-drp0.3-cosine_with_restarts-cap_weight2-n-locon-[bottomheavy]-000120-:1.2>

@@ -1,0 +1,1 @@
+masterpiece, best quality, <lora:hdl:0.8>, 1girl,cleavage,huge breasts,(grin,teeth:1.2),(table,food,restaurant,:1.3), <lora:BeautyNwsjMajic2-01:0.7>

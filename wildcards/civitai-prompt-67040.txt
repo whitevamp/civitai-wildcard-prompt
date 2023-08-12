@@ -1,0 +1,3 @@
+dancer, dancing, slender, winking, smile, upper body, forehead, white longhair, clear skin, clear slit dress, cleavage, bare skin, ass,
+sweat, particles, depth of field, bokeh, live stage, motion blur, horizontal blur, energetic , moving, wind, splash, lens flare,
+ <lora:flat2:-1>

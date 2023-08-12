@@ -1,0 +1,1 @@
+<lora:TakenOver-18:1>, TOver, NOMASK, 1girl

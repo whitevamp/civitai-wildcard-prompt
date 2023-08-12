@@ -1,0 +1,8 @@
+(masterpiece:1.2),(best quality:1.2),8k,absurdres,8k unity wall papper,(extremely detailed:1.4),highestres,from below,dim,(dim light:1.2),elusive,hazy,enchanting,(dark theme:1.2),<lora:lowRA:0.6>,
+<lora:smoke_model:0.3>,fox,
+BREAK,
+1girl,(solo:1.2),(smirk:1.2),(long hair:1.1),(hairpin:1.1),mature,<lora:stylized3DModelLora_v30:0.4>,(slim:1.1),
+sitting on armchair,(crossed legs:1.2),(hand up:1.1),(head rest:1.2),(cigarette holder:1.2),holding,(languidly exhales tendrils of smoke:1.2),(smoking:1.4),<lora:cheongsam:0.7>,
+(peony pattern cheongsam:1.2),sleeveless,high-heeled shoes,frosted texture red nails,
+BREAK,
+armchair,(curtain hanging down:1.4),(Decorative pillow:1.2),(luxury carpet:1.2),(rosewood flooring:1.1),(round wooden display table:1.1),(vintage gramophone:1.2),(smoke swirling:1.3),(Rose and Thorn:1.1),Violet,(vase:1.3),(Intricately carved mahogany panels:1.3),tassel,(Gold thread:1.1),(silver thread:1.1),(mist:1.1),(The smell of leather and tobacco:1.2),(Floating figure:1.2),<lora:noctiluca:0.4>,noctiluca,

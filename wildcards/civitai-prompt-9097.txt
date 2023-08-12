@@ -1,0 +1,1 @@
+Best quality,masterpiece,ultra high res,(photorealistic:1.4),raw photo,(Authentic skin texture:1.3),(film grain:1.3),panorama,18yo girl,character portrait,very wide shot,upper body,ponytail,school uniform,narrow waist,indoor,Tyndall effect,hollow eyes,beautiful detailed eyes and face,head down,brown eyes,<lora:tianfeng_filmgirls5:0.6>,<lora:asianGirlsFace_v1:0.4:FACE>,

@@ -1,0 +1,15 @@
+Aesthetic: ((ethereal, celestial, otherworldly, transcendent, delicate, mystical):1.4)
+BREAK
+Composition: <lyco:MultipleGirlsGroup:0.8>, (((3girls))), (group photo), (nsfw), wearing (bikinis, beach ball, fun, nipples showing), MULTIPLE GIRLS, LINEUP, HAREM, (pretty face, detailed face and eyes)
+BREAK
+Lighting: Magical Fairy Lights, Whimsical, Enchanting
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.983),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

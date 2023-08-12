@@ -1,0 +1,5 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, cinematic lighting, cinematic bloom, narrow waist, extremely_detailed_background, detailed eyes
+(necklace, bracelet, straight hair, blonde hair, sky blue eyes, leather skirt, leather gloves, leather armor)
+((forest, woods, treetops, lake, waterfall, extremely detailed clothing))
+(((elven archer, from above, medium breasts, show pussy, wet hair, (raining), wet clothes, nsfw, shirtlift)))
+  <lora:breastinclassBetter_v141:0.3>  <lora:taiwanDollLikeness_v1:0.2> <lora:adventurers_v1:0.5>  <lora:koreandolllikeness_V10066:0.3>  <lora:zovyasWetHair_v1:0.2> <lora:inniesBetterVulva_v11:0.25> <lora:shirtliftALORAFor_shirtliftv1:0.8>

@@ -1,0 +1,1 @@
+<lora:busujimaSaekoHOTD_v10:0.3> busujima saeko, black skirt, side slit, <lora:fionaFrostSPYXFAMILY_v11:0.3> fiona frost \(tennis\), hair over one eye, white shirt, <lora:ironcatlora1Artoria_v10:0.3> artoria pendragon \(fate\), dress\(fate/stay night\),  <lyco:MultipleGirlsGroup:1.0>, 3 girls drinking tea under a big umbrella, in garden, flowers, table and seats, ((smiling))

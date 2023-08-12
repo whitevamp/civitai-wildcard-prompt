@@ -1,0 +1,1 @@
+A space fire warrior, in the style of t3xtn, glowing colors background, <lora:t3xtn:0.5>,  <lora:add_detail:0.8>, <lora:more_details:0.8> ,<lora:colorfulart:0.3> ,<lora:improve_backgrounds:0.2>

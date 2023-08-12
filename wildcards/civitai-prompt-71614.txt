@@ -1,0 +1,10 @@
+RAW photo, best quality, (photorealistic:1.4), ultra high res, 8k, realistic, film grain, soft lighting, sharp focus,
+1girl, (24 years old:1.2), refined woman, famous japanese idol,
+looking at viewer, cowboy shot, from behind, standing,
+big breasts, realistic body, wide hips, fair skin, shiny skin, slender body, good figure, round ass,
+black hair, long straight hair, (blunt bangs:1.2),
+smile, cute, cute face, realistic face, beautifully detailed eyes, drooping eyes,
+maid bikini, maid headdress, hair ornament, maid, (waist apron:1.1), black bikini top, (frills:1.1), alternate costume, (bottomless, bare ass, no panties, npclearly, obviously no panties:1.2), pussy, anus,
+indoors, maid cafe, coffee shop,
+dynamic lighting,
+<lora:japanesedolllikenessV1_v15:0.2> <lora:maid_bikini:0.5> <lora:npm-v11t-000005:1>

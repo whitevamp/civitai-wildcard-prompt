@@ -1,0 +1,4 @@
+high resolution, ((best quality)), (ultra-detailed), illustration, disheveled hair, floating, cinematic lighting, chromatic aberration, caustic, lens flare, beautiful detailed glow, dynamic angle, depth of field, light leaks, Amazing,finely detail, extremely detailed CG, Original, sunlight, an extremely delicate and beautiful,glowing, bright, (best quality)
+BREAK,<lora:lightAndShadow_v10:0.65> ,<lora:epiNoiseoffset_v2:0.25>, <lora:LAS:0.4>
+<lora:kokomi:0.7>
+(detailed ice:1.2), ice, (crystal:1.1),

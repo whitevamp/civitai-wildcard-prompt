@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:AsukaLangleySouryuuV2:0.8> souryuu asuka langley, interface headset, 
+ <lora:edgEarP_LoRA:0.8> edgEarPiercing, EAR PIERCING, silver chain,  portrait, upper body, face focus,

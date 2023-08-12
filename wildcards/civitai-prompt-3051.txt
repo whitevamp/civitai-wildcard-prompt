@@ -1,0 +1,4 @@
+in container, 1girl, solo,
+underwear,red eyes,
+looking at viewer, full body,sitting,(drinking glass:1.2),in drinking glass,
+<lora:in_containerV0.3:1>

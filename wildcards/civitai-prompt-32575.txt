@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, 1girl, solo, fantasy, outdoors, clouds,night, ((lightening)), fantasy culture, <lora:add_detail:0.6>, <lora:epi_noiseoffset2:1>, gold hair, floating hair, warrior , knight, sword and shield, red floating cape, war zone

@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,
+beautiful edgPersian_woman, a woman with a high bun with a smile on her face ,perfect edgPersian_face, perfect edgPersian_body
+<lora:edgPersian:0.75>

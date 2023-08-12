@@ -1,0 +1,9 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.5), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
+(freckles:0.85),korean,
+high heels,
+off-shoulder shirt, black skirt,
+open legs, spread legs, pussy view,((messy long hair)),night, virtualgirl-aim,orgasm,
+sitting on chair,
+playful, horny,
+view from below,
+ <lora:breastinclassBetter_v141:0.4>

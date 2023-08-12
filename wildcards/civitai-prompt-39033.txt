@@ -1,0 +1,1 @@
+masterpiece, best quality, solid snake, facial hair, headband, harrieroutfit, feather cape, navel, cowboy shot, thighs, looking at viewer, furrowed brow, serious, crossed arms, night, docks, moon <lora:harrieroutfit-nvwls-v1-000012:1>  <lora:solidsnake-nvwls-v1-final:0.7>

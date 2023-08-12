@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),1girl,haizeiwang/\(wanted/\),<lora:wanted poster:0.7>,(navigation:1.1),<lora:Spiderman-KK77-V1:0.8>,Spiderman,

@@ -1,0 +1,1 @@
+enhance,preserve details,high quality,best quality,high definition,repair,context, <lora:add_detail:1>

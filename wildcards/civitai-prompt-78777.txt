@@ -1,0 +1,4 @@
+(masterpiece:1.3), (best quality:1.2), (intricate detailed:1.2), (hyperrealistic:1.2), (professional photograpy:1.1), highly detailed, illustration, absurd res, perspective, detailed background, background blur, focus, (NSFW:1.3), a japanese woman in a black sheered robes posing for a picture, intimate, milf, mature woman, mixed Korean, beautiful detailed eyes, perfect eyes, seductive eyes, brown eyes, long hair, brown hair,  black choker, earrings, (big breasts:1.2), bang, legs spread, indoors, luxurious hotel, night, plants, looking at the viewer, tilt camera, from front shot, dynamic angle shot, film grain, bokeh, ray tracing, dynamic lighting, lens flare, <lora:odaNonStyle-v1.5newcraft:0.4> <lora:add_detail:1> <lora:danni2D_e5:0.2> <lora:edg_sexyAttireTemptation_v10:0.754>, sexy_attire, wearing sexy_attire,
+beautiful hands,
+art by tim burton, 
+(photographed on a DJI Mavic Pro 2, 1/500th, f/2.8, ISO 100),

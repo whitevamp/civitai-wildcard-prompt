@@ -1,0 +1,4 @@
+AS-YoungV2, Caucasian, (leaning forward:1.4), emo, (downblouse:1.3), beautiful face, (heavy makeup:1.2), (black colored lipstick), (messy hair:1.2), (emo_hairstyle:1.2), black hair with purple color streaks, pale skin, freckles, happy face, petite body, slender body, (black colored open faux leather jacket:1.1), (black jeans:1.4), small breast, (detailed skin texture:1.1), (blush:0.5), (goosebumps:0.5), subsurface scattering, in a (crowded urban skate park:1.2), (breast focus:1.2), (closeup:1.3),
+(masterpiece, best quality, photorealistic:1.2), bokeh, intricate details, 8k, HDR, canon d5, sharp focus, vivid colors,
+<lora:emo_hairstyle:0.5>
+<lora:downblouse-v1:1.1>

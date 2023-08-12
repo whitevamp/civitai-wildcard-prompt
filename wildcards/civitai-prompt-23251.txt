@@ -1,0 +1,4 @@
+masterpiece,best quality,(Night:1.7),CityView,(outdoors:1.3),city lights,skyscraper,street,close up,praying,
+1girl,jewelry,earrings,necklace,beautiful face,black hair,
+<lora:add_detail:1>,
+<lora:Black velvet cheongsam_20230704154020:0.7> black dress, black gloves, pantyhose,

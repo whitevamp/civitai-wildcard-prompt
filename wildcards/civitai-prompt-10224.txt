@@ -1,0 +1,1 @@
+<lora:Nikaidou Yulia:0.5>,(best quality), big head, (1girl blonde with big breasts:1.2) in a sexy tight suit <lora:add_detail:1> <lora:LowRA:0.2>

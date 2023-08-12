@@ -1,0 +1,5 @@
+(photorealistic raw photo), (vintage film style), masterpiece
+scene from a movie, movie still, filmic, (heavy film grain:1.2), Sony FX6, IMAX
+<lora:epiNoiseoffset_v2:1>
+soft light, studio light, high details, detailed skin, small imperfections
+grungy dirty style, analogue style, filmic colours, movie colours, skin colour lut

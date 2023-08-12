@@ -1,0 +1,1 @@
+(masterpiece, side lighting, finely detailed beautiful eyes: 1.1), masterpiece*portrait, realistic, 3d face, glowing eyes, shiny hair, lustrous skin, solo, embarrassed, full body, large breasts, <lora:hugeAssAndBoobs_v1:0.4> <lora:taihouAzurLane_v30:0.5>, outdoor, crowded, Japanese old building

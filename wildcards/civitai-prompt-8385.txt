@@ -1,0 +1,5 @@
+(best quality, masterpiece),
+1girl, cozy ,
+black sweet kawaii ballgown, frills, puffy sleeves, bare shoulders,  freckles,
+blonde twintails,
+,  <lora:3DMM_V11:1>

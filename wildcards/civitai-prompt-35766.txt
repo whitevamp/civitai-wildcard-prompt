@@ -1,0 +1,5 @@
+<lora:manul-pallas_cat-by_leosam:0.72> <lyco:envybetterhands-beta2:1.0> a beautiful female witch with long white hair is standing next to her (beautiful majesctic:1.4) tusun familiar in the ruins of an ancient temple in a jungle, thigh boots, overknee boots, perfect hands, nice hands, epic scenery, digital art, cinematic lighting, (crepuscular rays:1.2), (masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres, photorealistic, ultra realistic, accurate, sharp focus, professional artwork, famous artwork:1.4), extremely detailed, highly detailed, intricate details
+ADDBASE
+a beautiful female witch with long white hair, wearing a black robe, ruins of an ancient temple, jungle, thigh boots, overknee boots, perfect hands, nice hands
+ADDCOL
+(beautiful, fluffy, majesctic:1.4) tusun, ruins of an ancient temple, jungle

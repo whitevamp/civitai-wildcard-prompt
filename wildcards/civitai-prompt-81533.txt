@@ -1,0 +1,1 @@
+( watercolor \(medium\), drawing,   IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, painting of  arctic alpine tundra, landscape, sfw

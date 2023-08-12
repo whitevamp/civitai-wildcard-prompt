@@ -1,0 +1,11 @@
+RAW photo, sharp, 8k, masterpiece, highres, (full body shot, dynamic pose:1.1), 
+(nsfw, exposed breasts, huge breasts, nipples, navel), (bastard_face_002:1.2)
+__bastard-encyclopedia/raw-long-girl-prompts__
+ultra realistic professional photograph,
+BREAK
+hyper detailed background, (extremely detailed CG unity 8k wallpaper), full shot photo of the most beautiful artwork of a (__bastard-encyclopedia/setting/real-locations__ , {sky, sun|moon, night|darkness|rainbow|golden hour}), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
+BREAK
+__bastard-encyclopedia/temp/image_details__ __bastard-encyclopedia/temp/art_light_desc__ __bastard-encyclopedia/temp/artist_mixes__
+__bastard-encyclopedia/sex-prompts__
+ <lora:GoodHands-beta2:1>
+ <lora:murkyPorn:1>

@@ -1,0 +1,5 @@
+<lora:tatsumakiselect:1> (Tatsumaki:1.2), (solo:1.2), (short curly green hair:1.2), (green hairs:1.4), unamused, (mouth open, looking down, beautiful detailed eyes:1.3)
+in a medieval dungeon, stone wall, against wall, leaning forward, arms tied behind her back, bondage,
+hyperdetailed, photograph, (realistic, photo-realistic:1.37), photo mapping, radiosity, intricate details, high detail, detailed, detailed eyes, HDR, (skin pores, ultra detailed skin, diffused natural skin glow), sharp focus, ((masterwork)), best quality,
+<lora:epi_noiseoffset2:1>, dimly lit, rim light, dark studio, low key, sun rays, shadows, deep shadows,
+<lora:breast_crimper:0.6> breast_crimper,

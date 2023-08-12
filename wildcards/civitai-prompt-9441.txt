@@ -1,0 +1,3 @@
+(photorealistic:1.4),8k,(masterpiece), best quality, highest quality, (detailed face:1.5),original,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork, ((perfect female figure)),mature female, milf, narrow waist, skinny,detailed skin,
+1girl, solo, panties, long hair, (standing:1.2), indoors, short sleeves, looking at viewer,  white shirt, behind curtain, curtain grab,white curtains,window, full body, bangs, smile, no shoes, black eyes, legs,  bedroom,nature light,sunlight,kahuka1,pn1,medium breasts, (open shirt:1.3), (open clothes:1.2), (nsfw:1.5),nipples,( show breasts:1.2), bf_shirt_nopants,sexy,breast curtain lift, 
+<lora:PinkNipples:0.5> <lora:kahuka-pynoise:1.5>  <lora:bf_shirt_nopants:0.5>  <lora:breastinClass:0.2> <lora:Film_v20:0.2>

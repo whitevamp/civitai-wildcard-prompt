@@ -1,0 +1,3 @@
+Close-up, Enigmatic, Martian knight fashion, poster-like, transcendent allure, Enchanted, Knightcore fashion, arcane atmosphere
+best quality, high quality, absurdres, masterpiece, beautiful, intricate details,
+<lora:add_detail:0.75>

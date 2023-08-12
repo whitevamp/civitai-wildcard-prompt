@@ -1,0 +1,5 @@
+(masterpiece:1.0), (best quality:1.0),[:(detailed face:1.2):0.2] ,rim lighting, two tone lighting, low key
+((perfect female figure)), beautiful, handsome face, delicate patterns, intricate details, skin indentations, abs, painted graffiti tattoos, full body
+1 girl, breasts, white hair, belly button, sneakers, socks, tactical undershirt, transparent, transparent raincoat, technical wear jacket and shorts with buckle and tape
+giant advertising screens, Japanese, trams, crowds, rain, sidewalks, fiber, carbon, plastic, delicate (headphones, bracelets, arm bands, earrings, backpacks, simple necklaces, rings)
+<lora:fashionGirl_v50:0.8><lora:LuisapBladerunner2049_v1:0.2> <lora:urbanSamuraiClothing_urbansamuraiV03:0.35> <lora:epiNoiseoffset_v2:1> <lora:hipoly3DModelLora_v20:0.55> <lora:breastinclassBetter_v141:0.35> <lora:cuteGirlMix4_v10:0.1> <lora:wetTShirtLORA_10:0.1>（ulzzang-6500：1.2）

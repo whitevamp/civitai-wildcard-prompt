@@ -1,0 +1,3 @@
+best quality, master piece
+<lora:doll4:0.7> face, glasses, close_up, portrait_photo,
+<lora:xiapei:0.4>red and gold dress, hanfu, Chinese clothes,

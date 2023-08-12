@@ -1,0 +1,4 @@
+photo of <lora:hun:1> hannahhays,
+detailed face, detailed skin, detailed eyes,
+best quality, realistic, quality, masterpiece, photorealistic, dramatic, ray tracing, soft cinematic lighting,
+ponytail, green pants, black gloves, large breasts, long hair, sports bra, white socks, white footwear, toned, <lora:sonya:0.9:MIDD>

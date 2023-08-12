@@ -1,0 +1,14 @@
+belle delphine, 21yo, beautiful, woman, solo,  heavy black eyeliner,  beautiful face,  (blush:1.7),cute smile, smirk, pink lips, (freckles:1.4), (black eyes:1.5),
+shiny skin, (wide hips:1.1), (small breast:1.1) ,   tight clothes ,  (thigh gap:1.1), (RSEEmma:1.2), wide hips, (showing ass:1.4),
+(light blue hair:1.5), very long hair, (bushy hair:1.4), pig tails,
+looking at viewer, cowboy shot, sexy pose,
+absurdres, ((cinematic lighting)),ultra detailed, highres,  best quality, face focus, (8k, RAW photo, best quality, masterpiece:1.2), photon mapping,  35mm focal length ,particles, accent lighting,
+ film grain, depth of field,   ((masterpiece:1.2)), ((best quality:1.2)),   ,beautiful lighting ,   high detailed, 8k, muted colors, chromatic aberration, ,vibrant  , behance hd, best quality, (realistic:1.2), (low contrast:0.8), wide depth of field, bloom, accent lighting, extremely detailed, 8k, hyper detailed, best quality, ultra high res, high resolution,  (photorealistic:1.4)
+
+(dynamic angle:1.2),
+simple background, (blurry background:1.8),  (bokeh:1.3), candy land, Sugar Rush, fluffy cotton candy, sweet-scented clouds
+choker,  lace, ruffles, , powder-lilac, porcelain-like, (corset:1.3), playful look,  trimmed with lace, delicate charm, pastel color palette,
+frilly white , whimsy,bloomers, garnet belt,
+
+<lora:add_detail:0.2>  <lora:FilmG2:0.6>    <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.4>,<lora:edgNuisette:0.45>,<lora:lit:0.47>
+<lora:Bdelphine760x1024v2:0.40> <lora:Beldel LORA RHM 5E 25 576 Cosine:0.15> <lora:DI_belle_delphine_v1:0.46> <lora:DI_IWR-BelleDelphineUltimate:0.15> 

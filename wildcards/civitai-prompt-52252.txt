@@ -1,0 +1,1 @@
+RAW, analog style, A stunning portrait of a beautiful woman, nbdy-julia-sd15, plaid blouse, ((highly detailed skin, skin details)), plain simple background, sharp focus, 8k UHD, DSLR, high quality, film grain, Fujifilm XT3 <lora:epiNoiseoffset_v2:1>

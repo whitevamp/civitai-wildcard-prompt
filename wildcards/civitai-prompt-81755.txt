@@ -1,0 +1,3 @@
+(detailed face and eyes:1.3),full body,
+<lora:niji_dola-10:1>,niji_dola,dola \(nijisanji\),dragon girl,solo,red hair,horns,red eyes,dragon horns,large breasts,cleavage,blush,hair between eyes,dragon tail,tail,navel
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,

@@ -1,0 +1,3 @@
+<lora:baggy_jeans_v0.9:1>
+1girl, jeans, 
+<lora:shimakaze_v1.33:1> blonde hair, blue sailor collar,rabbit ears, highleg panties,, masterpiece, best quality, highly detailed

@@ -1,0 +1,4 @@
+(1girl:1.2),solo,__body-parts__,
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,Expressive Hues, Vibrant Palette, Dynamic Brushwork,
+(boudoir), watercolor painting, delicate fabrics, sensual forms, the harmony of softness and seduction, Victorian elegance, essence of the intimate, pastel color palette, enticing art, influenced by Edgar Degas, Auguste Rodin, John William Waterhouse, Gustave Courbet, Franois Boucher, Zalman King, Agent Provocateur, La Perla, the fusion of the demure and the daring,
+ <lora:oc_v10:0.15> <lora:lowra_v10:0.5>

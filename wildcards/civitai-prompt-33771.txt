@@ -1,0 +1,1 @@
+cute adorable girl, (FantChar:1.1), age 20, (pixar style:1.1), (sexy anthro canine girl character:1.1), lovable dog girl, dog ears, (dog nose:1.4), (perfect human face:1.1), (long tongue, sticking her tongue out, panting:1.1), (best quality, masterpiece, 4k, ultra detailed, sharp focus, 8k, high definition:1.2) <lora:Lit:0.7> <lora:fantchar_v4:0.75>

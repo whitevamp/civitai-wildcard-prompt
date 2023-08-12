@@ -1,0 +1,2 @@
+1girl,cowboy shot,beautiful noelle_silva,long hair ,twintails, bangs,silver hair,purple eyes, cleavage, tiara, monster girl,  (mermaid:1.1), water, navel, bare shoulders, hair ribbon,underwater, shell, scales,(volumetric lighting), best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on ,nipple,see through ,Artstation, 
+ <lora:noelleSilvaBlack_v1:0.8> <lora:add_detail:0.5>,(nipples:1.5)

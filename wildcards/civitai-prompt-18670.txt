@@ -1,0 +1,14 @@
+Aesthetic: ((retro-futurism, nostalgia, vintage, futuristic, past, throwback):1.4)
+BREAK
+Composition: <lora:large_insertion_v0.1:1.5>,1girl, 1boy, sex, spread legs, very large vaginal insertion, perfect face, perfect pussy,,<lora:PSCowgirl:0.8>, (looking at camera, 1boy, squatting position, vaginal, pov, a girl having sex,, cowgirl position, pov, face_foward, (extremely detailed pussy), detailed face,((good anatomy:1.2)), Feminine Expressions, ((erotic, sexy, horny)))  ((huge penis, real penis, perfect penis)),, 1girl, clothes, (wearing clothes, wearing shirt, wearing dress shirt, wearing button up shirt), huge breasts , covered breasts, (breasts underneath shirt), cleavage 
+BREAK
+Lighting: Magical Fairy Lights, Whimsical, Enchanting
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.998),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

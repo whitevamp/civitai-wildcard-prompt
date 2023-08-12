@@ -1,0 +1,1 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.85>, a nude blonde girl in a suburban home bathroom, covering breasts, covering crotch, shocked, embarrassed, sink, cabinets, (clutter:1.2), shower curtain, window, toilet, makeup brushes, <lora:covering_breasts_v0.1:1>

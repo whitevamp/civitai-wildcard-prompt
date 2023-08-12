@@ -1,0 +1,1 @@
+(bestquality,masterpiece),  TsunadeNS, solo, japanese_clothes, looking_at_viewer, breasts, large_breasts, kimono, cleavage, collarbone, simple_background, white_background, sash, crossed_arms, jacket_on_shoulders <lora:TsunadeNSS:0.7>

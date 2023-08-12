@@ -1,0 +1,12 @@
+24yo,
+1girl, solo,beautiful detailed girl,urban beauty, detailed face,(detailed facial features), beautiful face,
+masterpiece, best quality,raw photo, realistic,highlight and shadow,HDR, professional light,highres,
+pale skin, (full body),depth of field
+(dress, open slightly,tug),
+soft lips,
+(floating hair),
+(sexy face), (smile),
+(detailed eyes:1.0) ,(looking at camera:0.6),
+(sexy pose),
+(random color bar),
+ <lora:RKG_TanyaLee:0.8>

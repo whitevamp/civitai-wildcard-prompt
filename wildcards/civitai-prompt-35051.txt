@@ -1,0 +1,6 @@
+beautiful female inquisitor, malevolent facial expression, zrpgstyle, fcDetailPortrait, wearing a red colored Spanish Inquisition attire, shoulderless, long robe, wide and flowing sleeves that reached the wrists, big conical-shaped intricated hat, cleavage, big breast, slender body, (cross necklace:1.1), (masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, dramatic, perfect hands, looking at viewer, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering, in an gloomy underground (torture chamber:1.2), iron cage, torture wheel, religious cross,
+<lora:AZovyaRPGArtistToolsLORAV2:0.3>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3>
+<lora:dpep:0.2>

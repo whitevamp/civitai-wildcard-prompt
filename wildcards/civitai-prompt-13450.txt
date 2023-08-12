@@ -1,0 +1,6 @@
+(photorealistic:1.4),(masterpiece),best quality,(detailed face:1.5),detailed nail,detailed finger,(realistic:1.5),raw photo,original,highres,ultra realistic 8k,perfect artwork,((full body shot:1.5)),(extremely tall ceiling),
+black_hair,tanlines,no bra,covered nipples,puffy nipples,pussy juice,dripping,skinny, very long legs, ((see-through:1.3)),
+(nsfw:1.3),microskirt,wet_shirt,tan,dark_skin,white_skirt,sweat,dark-skinned_female,sleeveless_shirt,white shirt,tanlines,looking_at_viewer,hair_ribbon,
+1girl,tennis_racket,solo,hug breasts,long_hair,fence,ball,pink sneakers,looking at viewer,white thighhighs,ponytail,
+<lora:FilmGX:0.8>,<lora:GirlfriendMix2:0.8>, 
+skirtlift,<lora:skirtlift-v4:0.8>,

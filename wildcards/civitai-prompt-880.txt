@@ -1,0 +1,5 @@
+((text, logo, watermark)), ((best quality, masterpiece)), sharp focus, natural lighting, masterpiece quality, absurdres, ultra detailed, intricate detail, ultra detailed, (8k, uhd), many colours
+BREAK
+picture of a strange cryptic underwater creature, sea, monstergirl, fangs, fins, wings, membranes, bubbles, tentacles, scales, has eyes everywhere, sharp teeth, claw, predatory curves, manifestation of malice, lovecraftian, surrealistic, air_bubble, naked, focus on asshole, spread asshole, nsfw
+BREAK
+((jav cover, text, logo, watermark)),  <lora:JAV Cover:0.5>

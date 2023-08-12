@@ -1,0 +1,5 @@
+(hyperbreasts, gigantic breasts:1.6), fair-skinned girl sitting on a stone wall, (from above 1.4),
+(muscular legs, huge thigh muscles:1.5), 
+(denim short shorts), (tight black cotton tshirt:1.2), (very short hair), subtle smile, flirting with you,
+(wide hips, massive thighs, huge ass, slim waist, pawg, gympawg:1.1), (short girl, shortstack:1.15), shapely thighs, 
+<lora:hyperbottomheavy_LoRA_v2:0.6>,  <lora:fitnessBabes-fC-v1.0a:0.2>,  <lora:hyperbreasts_v6:0.7>

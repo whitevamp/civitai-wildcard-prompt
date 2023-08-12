@@ -1,0 +1,1 @@
+wallpaper, background, masterpiece, outdoors,  flowers, sy3, lqdgod <lora:Sy3:0.5>    <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1> <lyco:Lqg:1>   <lyco:Dreamwave v2L:1>

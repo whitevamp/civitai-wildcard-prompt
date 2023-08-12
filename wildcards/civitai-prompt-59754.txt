@@ -1,0 +1,2 @@
+<lora:LowRa:0.6> dark
+an old chieftainman, (astronaut outfit:1.2), feathers headdress, medium shot

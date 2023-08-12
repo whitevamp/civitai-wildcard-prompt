@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, PlayingCards, <lora:PlayingCards:0.4>,1boy, solo, holding, card, table, holding card, sitting, indoors, playing card, pov across table, closed mouth, looking at viewer, gigachad, <lora:Char_Sigmas_GigaChad:1>

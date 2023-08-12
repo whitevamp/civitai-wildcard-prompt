@@ -1,0 +1,4 @@
+1girl, 
+Hair styled in loose, natural waves, wearing a trendy, boho-inspired outfit that showcases the eclectic and creative side of urban fashion, her eyes revealing the creativity and passion of an artist, standing within a vibrant, artsy neighborhood filled with colorful murals and bustling cafes, her hair adorned with a quirky, handmade hair accessory, passionately sketching the urban landscape as she takes in the city's rich culture and diversity, her attire embodying the city's unique and diverse fashion trends, alone, BREAK,
+Striking juxtapositions, personal symbolism, masterful technique, mystical wonder, naturalistic representations, harmonious composition,
+ low key,deep shadow,  <lora:lowra_v10:0.45>  <lyco:GPTS7 comic_443703:0.4>

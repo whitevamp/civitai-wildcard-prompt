@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,smirking,best quality,garterbelt,GothGal,
+beautiful edgHapa_woman, a woman wearing  (([garterbelt,lingerie|GothGal,dress,metal, iron chains, leather harness]::0.75):1.2) , pretty edgHapa_face, perfect edgHapa_body
+<lora:edgHapaDollLikeness:1>  <lora:edgGothGarterbelt:0.77>

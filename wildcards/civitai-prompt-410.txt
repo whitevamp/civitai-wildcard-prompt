@@ -1,0 +1,4 @@
+(8k, RAW photo, best quality, ultra high res, photorealistic, masterpiece, ultra-detailed, Unreal Engine), absurdres, best quality, <lora:tangbohu-detailer_1.0:1>,
+1 girl, adult  woman,  yellow eyes, copper beach waves hair,
+portrait, solo, (full body:0.6), detailed background, detailed face, (<lora:FiveDecorsAIx3:0.4>, crystallineAI, crystalline theme:1.1), dark red winter warrior,  stoic expression,  dynamic pose, furs,    ice shards,   snowy background, frozen natural landscape in background low light, dark night, cinematic atmosphere,
+<hypernet:sxzBloom_sxzBloom:0.2>,

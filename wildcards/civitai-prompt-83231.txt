@@ -1,0 +1,1 @@
+(best quality, masterpiece), 1girl, curly hair, witch, glitter, smoke, contrapposto, <lora:flat2:2>, <lora:Addetail:0.4>, <lora:Lightt:0.8>, <lora:Flatillur:0.2>, <lora:lightline:0.5>, <lora:Ad_Real:-0.8>, <lora:LowRA:0.8>,

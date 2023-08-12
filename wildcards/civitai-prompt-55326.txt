@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl,<lora:gawrGuraHololiveAll_v4AllOutfits:0.8>gawr gura, sharp teeth, shark tail, gura_hoodie, blue hoodie, shark hood,
+
+ <lora:fairytaleai_v10:0.8> fairytaleai,

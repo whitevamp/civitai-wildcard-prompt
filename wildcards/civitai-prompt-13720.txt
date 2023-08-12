@@ -1,0 +1,4 @@
+RAW photo, high quality, film grain,
+1girl,  dark skin, black girl,(adjusting clothes:1.5), (ass), life preserver, adjusting swimsuit with hands, thicc,
+boat, looking down,
+<lora:adjusting_clothes_ass_v0.1:1.3>,<lyco:NegStd3:0.3>, <lyco:InsPX:0.2>, <lora:GoodHands-vanilla:0.4>

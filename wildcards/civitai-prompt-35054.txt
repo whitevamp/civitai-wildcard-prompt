@@ -1,0 +1,3 @@
+(masterpiece, best quality, absurdres, 8k:1.2), best lighting, complex pupils, detailed background, indoors, shopping mall, crowded, men in the background, exhibitionism,
+1girl, lewd, solo, upper body, ((wide hip, perfect female figure, medium breasts)), looking at viewer, dynamic pose, exhausted look, drunk blush, eye rolling, highly detailed skin, (abs:0.6), hand on thigh, nail polish, see-through, 
+nipple erection, lowleg panties, crop top, underboob, metal collar, lipstick, <lora:metalCollar:0.6>, <lora:crop_shirt_underboob:0.8>

@@ -1,0 +1,7 @@
+((best quality, highest quality, masterpiece, absurdres, high resolution, 8k uhd, super resolution, megapixel, ultra realistic, clean picture, smooth picture, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details)),
+galaxy girl, galaxy background, transparent skin, cosmic skin, star skin, glowing skin, glowing eyes, stars, planets,
+levitating, flying, hands behind head,
+elegant, graceful, stylish, classy, exquisite, gorgeus, beautiful, graceful, cultured, majestic, female of class, stunning,
+beautiful face, detailed face, sharp face, jawline, detailed eyes, expressive detailed eyes, detailed pupils, long eyelashes, dark eyelashes, full eyebrows, full lips, mascara, eyeliner, makeup, blue eyes, glowing eyes, long hair, tank top,
+big breasts, looking at viewer, thick thighs, wide hips,
+<lora:galaxy_girl-V01:1>

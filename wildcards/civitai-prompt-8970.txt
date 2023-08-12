@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), 8K, highly detailed, intricate, colorful, vibrant image, volumetric lighting, sharp focus, hentai,
+Agatha, 1girl, 1boy,  missionarypose, lying, penis, pussy, wet, sweat, missionary, vaginal, (ahegao:1.15), (blush:1.1), cumming,
+black hair, long hair, blunt bangs, hair ornament, hair stick, bow, lipstick, makeup, ultra detailed hair, detailed face, brown eyes, perfect eyes, perfect face, earrings, jewelry,
+uniform, necktie, open clothes, half covered breasts, stomach,
+(mature female, 40yo:1.1), breasts, curvy, areola, nipples,
+<lora:Agatha:0.87> <lora:POVMissionary:0.5>

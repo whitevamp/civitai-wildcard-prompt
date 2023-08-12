@@ -1,0 +1,1 @@
+(muscular:1.1) norwegian viking woman, (hard abs:1.1), grimy and rugged face, wearing steel plate armor, breastplate, (shirt made of iron plate:1.3), shirtlift, <lora:shirtliftv1:0.75>  grinning,

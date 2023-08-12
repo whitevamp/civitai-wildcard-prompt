@@ -1,0 +1,7 @@
+(RAW photo), best quality, realistic, photorealistic, extremely detailed, an extremely delicate and beautiful, RAW photo, professional lighting, light on face, depth of field,
+a 18 years old girl,1 girl, ((((topless)))), white_hair, blue eyes, smaller head, (((((full body))))), hair covers ears, hair ribbon, beautiful eyes, natural breast, (((nipples))), real face, real skin, realistic face, realistic skin, detailed eyes, detailed facial features, detailed clothes features, detailed face and breast, (ulzzang-6509:0.1),
+<lora:chilloutmixss30_v39:0.01>,
+<lora:koreanDollLikeness_v19:0.01>,
+<lora:fashionGirl_v59:0.15>,
+<lora:breastinclassbetter_v149:0.01>,
+under water, air bubbles, head floating, sunbeams, sunbeams, girl standing in water,

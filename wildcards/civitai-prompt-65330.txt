@@ -1,0 +1,1 @@
+hotify, ps1 style, A seductive woman in the style of PlayStation 1 graphics, low poly, pixelated, wearing a form-fitting outfit, striking a captivating pose, reminiscent of early 3D gaming, with vibrant colors and a nostalgic atmosphere <lora:RW_PS1v1:0.8> <lora:pixelart:0.4>

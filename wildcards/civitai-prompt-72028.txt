@@ -1,0 +1,9 @@
+masterpiece,best quality,ultra-detailed,very detailed illustrations,extremely detailed,intricate details,highres,super complex details,extremely detailed 8k cg wallpaper,cowboy shot, full body,
+caustics,reflection,ray tracing,red theme, nebula,dark aura, cyber effect, ironman suit
+(1boy:1.4),solo, alone, gold_theme, mecha musume, mechanical parts, robot joints,single mechanical arm
+intricate mechanical bodysuit, mecha corset, full armor, mecha wings, ninja mouth mask
+messy hair, sliver hair, hair between eyes, multicolored hair, colored inner hair,
+golden eyes, glowing eye,eye trail,
+random expressions,random action,
+ancient japanese architecture,pond, starry sky,skyline,
+<lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:1>

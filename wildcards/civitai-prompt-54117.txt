@@ -1,0 +1,1 @@
+1 girl, detailed skin, detailed hair, detailed clothes, (masterpiece), portfolio, in a back alley, (arms behind back:1.3),,cinematic lighting,, shining eyes, beautiful,  standing, , school uniform,(cute)<lora:erikaIkuta_v20:0.5>  <lora:japanesedolllikenessV1_v15:0.6>

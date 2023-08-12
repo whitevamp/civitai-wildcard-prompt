@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting, (ulzzang-6500:0.5), (beautiful face), (high detailed face), looks at viewer, 1 girl, solo, (bodybuilder, biceps, abs, quads:1.1), (hozukikaede:1), green bikini, shopping mall,shops,smile,closed mouth,gigantic breasts, RAW photo, 8k uhd, film grain,  <lora:hozukikaede:1>,  <lora:Muscle:1>

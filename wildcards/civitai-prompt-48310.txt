@@ -1,0 +1,1 @@
+[lich,zombie,undead:(spider,arachnid,shelob:1.5):0.1],plump,Turned away but looking back over the shoulder,armor,[navel:0.3],(red_eyes,red_pupil:1.4),hell,dungeon,(cave,caves:1.3),robe,webs,(medieval:1.4),(1990s:0.8),(nightmare,dark,grim,noir:1.4) ,(masterpiece,detailed,highres,cinematic,atmospheric:1.4)

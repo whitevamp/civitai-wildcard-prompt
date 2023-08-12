@@ -1,0 +1,5 @@
+woman, dynamic pose (super long flowing hair swirling and wrapping), (black (flowing-fabrics) swirling and wrapping), looking menacing at viewer, black openblouse, breasts, nipples, pussy, strong wind, power, levitation,
+dramatic lighting
+ <lora:flowing-fabrics:0.5> 
+ <lyco:GoodHands-beta2:1.0> 
+<lora:openblouse:0.5>

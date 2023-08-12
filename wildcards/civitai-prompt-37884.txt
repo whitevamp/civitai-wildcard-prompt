@@ -1,0 +1,2 @@
+normal hand, weapon, light particles, sword,  no humans, simple background
+<lora:hand-noise:1>

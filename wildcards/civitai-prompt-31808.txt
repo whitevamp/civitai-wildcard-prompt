@@ -1,0 +1,10 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic),  woman, soft light, real skin texture,
+(freckles:0.9),slim, 2 beautiful girl, 20 years old,playful,horny, yorha no. 2 type b,  
+red lips, (eyeliner:1.3),bangs,
+auburn hair, short hair, ponytail,
+bare shoulder,
+revealing sundress,
+((night)), nightclub,pub,
+full body,
+ass up wait,
+<lora:ass_up_wait.v1.3-sd:0.7>

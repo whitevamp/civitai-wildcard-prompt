@@ -1,0 +1,6 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 
+1girl, 
+earrings, 
+face focus,
+pureerosface_v1:0.6
+ <lora:koreandolllikeness_v15:0.3> <lora:FilmG2:0.4>   <lora:Jisoo Blackpink:0.6>

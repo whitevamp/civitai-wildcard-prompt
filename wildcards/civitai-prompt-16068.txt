@@ -1,0 +1,4 @@
+(charming:1.2), from below, looking at viewer,  ,eyelashes, red eyeliner,  Taking the knee, got down on knee, on knee, yellow glasses,  round glasses, High horsetail, long hair, Gold wire glasses, closed mouth, (Yellow sunglasses:1.3),(yellow shades), (sunglasses, ),
+ firecracker vayne, 1girl, glasses, china dress, hair ornament, ribbon, pantyhose, ponytail, upper bodyholding crossbow, panties, (arm tattoo, shiny skin, oiled skin, real skin),
+(Masterpiece:1.2), (best quality:1.2),depth of field, highres, 8k, 
+<lora:firecracker_vayne-000014:0.9>,  <lora:add_detail:0.7>,  <lora:hipoly_3dcg_v7-epoch:0.4>,  <lora:Dalcefo_v3_Painting_Kappa-LoRA300:0.2> <lora:LowRA:0.5> <lora:epi_noiseoffset2:0.3>

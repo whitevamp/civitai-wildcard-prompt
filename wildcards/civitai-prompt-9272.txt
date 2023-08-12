@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.6), best quality, beautiful lighting, (ulzzang-6500:0.5),
+
+((komi shouko)), 1girl, bangs, black pantyhose, blazer, blue jacket, blush, bow, bowtie, breasts, closed mouth, collared shirt, bag, cowboy shot, diagonal-striped skirt, expressionless, outdoors, highres, jacket, (komi-san wa komyushou desu), long hair, looking at viewer, medium breasts, pantyhose, pleated skirt, purple eyes, purple hair, red bow, red bowtie, red skirt, school uniform, shirt, skirt, solo, striped, striped bow, striped bowtie, striped skirt, swept bangs, white shirt <lora:komi_shouko:0.55>
+
+, RAW photo, 8k uhd, dslr, soft lighting, high quality, (film grain:1), Fujifilm XT3

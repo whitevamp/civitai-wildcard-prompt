@@ -1,0 +1,4 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1girl,(chibi:1.5),cute,
+hair ornament, 1girl,standing,looking at viewer,miniskirt, flower, (beautiful detailed face), (beautiful detailed eyes), shooting,blue hair, starry sky ,comet,night,
+lake, cape,layered dress,frilled dress,cafe, 
+<lora:blindbox_V1Mix:1.0>  <lora:himekoHonkaiStarRail_v10:0.15> <lora:LoconLoraGirls_v10:0.25> <lora:liselotteCretiaSeirei_liselottecretiaLora:0.25>

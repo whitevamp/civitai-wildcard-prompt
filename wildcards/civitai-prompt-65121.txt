@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, sd1, charlotte dunois, ponytail, bikini, bikini skirt, pendant, medium breasts,  <lora:charlotte_dunois_v1:0.7>, ocean, wet,

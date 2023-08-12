@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful,
+Aliya, mature female, 1girl, solo, (hands on waist:1.1), cowboy shot, from below, sky background, grass, trees,
+angry, (blush:1.2), clenched teeth, purple hair, very long hair, lipstick, makeup, closed eyes, detailed eyes, detailed hair,
+pauldrons, breastplate, white armored dress, vambraces, armored boots, skirt lift, 
+huge breasts, cleavage, thighs, female pubic hair,
+<lora:Aliya-000009:0.87>

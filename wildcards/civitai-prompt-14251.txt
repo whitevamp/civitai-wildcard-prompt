@@ -1,0 +1,1 @@
+a 20 yo woman,long hair,dark theme,soothing tones,muted colors,high contrast,(natural skin texture, hyperrealism, soft light, sharp),<lora:InstantPhotoX3:0.45:PALETTE>,(sea:1.1),blouse,light smile,

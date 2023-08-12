@@ -1,0 +1,10 @@
+masterpiece, best quality,
+1girl,
+Dreamweaver diva, phantasmal, surreal,
+night-sky hair,
+dreamscape, orchestrating, symphony of slumber, dress of dusk, floating among dreams, deep night, lullaby of the subconscious, dream orchestration scene,
+Neck,Unity,
+(from above),flower
+Negative prompt: badhandv4,(ng_deepnegative_v1_75t) easynegative,watermark,website,characters,
+Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7.0, Seed: 3360727028, Size: 512x768, Model: v4.0, Seed resize from: -1x-1, Denoising strength: 0.5, Clip skip: 2, Hires resize: 1024x1536, Hires steps: 10, Hires upscaler: 4x-UltraSharp
+Used Embeddings: " badhandv4 [dba1], ng_deepnegative_v1_75t [1a3e], easynegative [119b]"

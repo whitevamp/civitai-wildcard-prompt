@@ -1,0 +1,1 @@
+((masterpiece, best quality)),a man, solo, 25 years old,welding torch, flashing sparks,   ((inside space ship cargo bay)), full body, drilling a hole in a wall with a machine,  inside space ship, indoors , messy short hair, looking to the left, blue eyes, <lora:add_detail:1> <lora:SBGF:1> <lora:epi_noiseoffset2:1>

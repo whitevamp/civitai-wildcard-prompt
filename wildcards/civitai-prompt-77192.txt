@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.4), absurdres, [:intricate details:0.2], hyperrealistic,  kkw-ph1,
+(1man, masculine adult jewish male:1.2),  green eyes, black hair, straight hair,
+(style-swirlmagic:1.0),  looking up, solo, upper body, detailed background, detailed face, (<lora:kVoidEnergy-000001:0.5>, V0id3nergy, void theme:1.1) evil sorcerer, tattered light blue magical robes, determined expression, scarlet color scheme, dark crimson light, study room,   evil book, dark atmosphere, shadows, realistic lighting, floating particles, sparks, surrounded by green lightning <lora:LightningvfxCreateMore_v1:0.1>, casting spell, summoning, (thick melting candles:0.8), purple arcane symbols, corrupted by eldritch power,  
+<lora:add_detail:1>

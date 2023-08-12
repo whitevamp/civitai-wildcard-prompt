@@ -1,0 +1,1 @@
+<lora:SuzukachanLoRA_V2.2:0.8>, twintails, ,masterpiece, best quality,Ray tracing, pastel color,,outdoor, 1 littlegirl,depth of field, best quality, action pose,dutch angle, tree, smile, big eye, greencolor eyes, drooping eyes, red hair, very long twintail, ahoge, puffy short sleeves, (blue pinafore dress:1.1), (light particles:1.2),

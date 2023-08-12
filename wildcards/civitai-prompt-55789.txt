@@ -1,0 +1,1 @@
+shz,((best quality)), ((masterpiece)), (detailed), realistic, mecha,(sitting),tradition chinese art,chinese general,looking at viewer, full body,tree,night,moon in the night sky,outdoors,mecha<lora:zaku:0.8> <lora:Xiaorenshu_v20:0.7>

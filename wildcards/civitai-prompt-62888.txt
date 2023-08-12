@@ -1,0 +1,8 @@
+(1boy:1.1), Grey hair, Red shiny eyes, fade side head, British hairstyle, Cool
+((Black jacket, Grey Oversize T-shirt, green cargo Pant, White Shoes)),
+chibi, full body, cute, (small:1.1),
+((3D model, Zbrush, complex 3D rendering super detailed)),
+oversaturated, ultra realistic, digital art, art station, (colour contrast: 1.1), finest masterpiece, 8K, HDR, ((best quality)), ((masterpiece)), (detailed),
+centered,
+look at viewer,
+ <lora:blindbox_v1_mix:1>

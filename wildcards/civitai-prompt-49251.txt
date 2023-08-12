@@ -1,0 +1,1 @@
+leica_style, hilly terrain, old flimsy shabby steampunk townhouse, overgrown, highly detailed, extremely sharp focus, <lora:leicaLensStyle_v10:1>, closeup, bokeh  background, art nouveau

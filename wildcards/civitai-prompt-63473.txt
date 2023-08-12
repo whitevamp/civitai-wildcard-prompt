@@ -1,0 +1,2 @@
+from_below FollyNobodySD15 portrait RonaldChan as a McDonald's super hero (red hair yellow gloves, striped thighhighs, striped sleeves) beautiful blue sky marching downtown followed by a crowd of restaurant customers waving McDonald's logo banners (windy dust confetti debris storm:1.2) (volumetric lighting fog:1.1) bright morning light from side
+(masterpiece:1.2) (best quality) (detailed) (intricate) (8k) (HDR) (key visual) (dramatic cinematic lighting) (sharp focus) <lora:McDonaldChan_characeter-20:0.5>

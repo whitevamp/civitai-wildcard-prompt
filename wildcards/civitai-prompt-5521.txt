@@ -1,0 +1,1 @@
+CircusPunkAI,Harley Quinn,colorful,  fcPortrait  <lora:CircusPunkAIv2:1> <lora:NijiExpressV2:0.6> <lora:Harley:0.8>

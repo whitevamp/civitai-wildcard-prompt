@@ -1,0 +1,2 @@
+a woman wearing a blue sexy astrosuit with helmet floating,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed suit, sharp focus, (cinematic lighting), collarbone, night, soft lighting, view from above, [:(detailed face:1.2):0.2], medium breasts,(((inside spaceship station:1.25))),  <lora:sexy_astronaut_suit:0.3>, <lora:europeanDollLikeness_v10:0.5>

@@ -1,0 +1,3 @@
+(masterpiece, top quality, best, official art, beautiful and aesthetic, long exposure:1.2),    fluid movement, captivating patterns,  
+1 girl, adult russian woman, freckles, jade eyes, black lob hair,
+ portrait, solo, upper body, looking at viewer, detailed background, detailed face, (<lora:style_crystallineai_v10:0.6>, crystallineAI, crystalline theme:1.1),  elemental water wizard,  swirling water, <lora:style_WatervfxCreateMore_v1:0.8> controlling the water, fantasy sorcerer clothes, dynamic pose, floating particles,  ethereal dynamic, water,  vapor, ocean in background, blue tones, shore,  ethereal atmosphere,

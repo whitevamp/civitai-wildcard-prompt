@@ -1,0 +1,8 @@
+Style: { (masterpiece:1.2, best quality) }; BREAK
+Composition: { 1girl, multiple boys, body hair, (fat man, ugly man:0.1), gangbang, all fours, sex from behind, ahegao, :o, large penis, penis_grab, jerking, handjob, hand_on_head, hand_on_shoulder , pull_hair, (tits_grope:1.3), (breast_grope:1.1),  (groping:1.1), (nipples_pulling:1.2)} BREAK
+Appearance: { (milf:1.15), (reieneris:1.1), fit, muscular, slender, slim, skinny, small_hips, huge_boobs, giant_breasts, heavy_breasts, breasts_apart, sagging breasts, bright_eyes }; BREAK
+Hair: { medium_hair, brown_hair }; BREAK
+Clothing: { lace_stockings, choker }; BREAK
+Behavior: { mouth open}; BREAK
+Location: { simple_white background, empty_background, no_background }; BREAK
+Loras: { <lora:fat_man_v5.4a:0.75><lora:fechin:1.0><lora:saggingBreasts_v10:0.8><lora:LR:0.5><lora:DW-000008:0.25><lora:animemalet:0.25><lora:fantasyV1.1:0.1><lora:lasto_v1:0.25> };

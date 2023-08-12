@@ -1,0 +1,10 @@
+High resolution,
+a professional photo of a zingy (((milf))), upper body,
+Fairyland: A place where fairies and other magical creatures live,
+dramatic eyeliner,
+rope earrings,
+flower crown,
+one shoulder dress,  (nsfw),
+<lora:fashionGirl_v52:0.1>
+<lora:Japanese-doll-likeness:0.1>
+<lora:Korean-doll-likeness:0.1>

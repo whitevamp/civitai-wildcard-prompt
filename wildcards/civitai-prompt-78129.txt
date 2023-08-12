@@ -1,0 +1,1 @@
+(masterpiece:1.2, best quality), (old man:1.2), , solo, white background, balck eyes, (white Beard:1.2), Fur clothes, muscular, open chest, fantasy wourld, fighter pose, jacket, tattoo <lora:add_detail:1>

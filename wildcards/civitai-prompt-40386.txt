@@ -1,0 +1,1 @@
+hdr, alien_god, reading a book in a living room, looking at camera,  <lora:alien_god:1>

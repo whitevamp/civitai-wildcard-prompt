@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, outdoors, night, open mouth, smile, looking at viewer, floating hair, squatting, dutch angle,
+mizuki yukikaze, hair ribbon, elbow gloves, red gloves, red leotard, red thighhighs, thigh boots, showgirl skirt, highleg panties, <lora:MizukiYukikazeV1_1:1>,  <lora:more_details:0.3>

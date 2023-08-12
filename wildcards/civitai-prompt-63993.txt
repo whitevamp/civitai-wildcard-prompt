@@ -1,0 +1,1 @@
+<lora:NightmarishAIv2:1>, NightmarishAItoilet, wc

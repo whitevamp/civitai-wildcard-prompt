@@ -1,0 +1,4 @@
+lifelike rendering, immersive atmosphere,impeccably detailed, visually stunning, creative zenith, exceptional standard, subdued contrasts, soft illumination,
+transfixing looks,emotive depth, artistic emotionality, compelling glances, subtle facial expressions,
+gallery,flower trim,copper,bowl cut,shoulder,outdoor,solo,nsfw,
+<lora:lowra_v10:0.35> <lora:OC:0.23>

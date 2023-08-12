@@ -1,0 +1,1 @@
+<lora:add_detail:0.7> ,<lora:FilmProvia2:0.5>,outfit-blackgh, 1girl, breasts, solo, huge breasts, <lora:OutfitGreenHeartBlack:1>,smile,spoken heart, red eyes,  <lora:IrisHeart:0.72>,irisx,lying on back,dakimakura \(medium\), thighs, bed sheet,navel,cleavage,, masterpiece, best quality,incredibly absurdres, 1girl,

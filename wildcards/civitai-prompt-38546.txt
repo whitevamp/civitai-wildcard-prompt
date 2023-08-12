@@ -1,0 +1,1 @@
+best quality, masterpiece, (realistic:1.2), 1 girl, brown hair, brown eyes,Front, detailed face, beautiful eyes, <lora:taiwanDollLikeness_v10:0.6>, <lora:russianDollLikeness_v3:0.4>,  <lora:shirtliftALORAFor_shirtliftv1:1>, breast, (nsfw),

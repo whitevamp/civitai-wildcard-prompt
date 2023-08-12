@@ -1,0 +1,10 @@
+(best quality, masterpiece, ultra high resolution),(photorealistic:1.5), award winning photo, highest quality, extremely detailed, (realistic),  f1.6 lens hyper realistic lifelike texture dramatic, ((simple background)), 
+((1girl)), solo focus, ((pantyhose)), ((solo)), Neonpunkai, (breasts),  mecha musume,mechanical parts, headgear, perfect eyes, perfect face,
+18yo, thin legs, pale skin, (glowing),
+byDylanKowalski, ornaments, mechanical arms, porcelain, (pearl), holographic, titanium, (diamond), (ruby), (sapphire), (gemstones), clockwork, worn edges,
+(staring),
+(from behind),
+(inverted colors),
+(white pantyhose),
+ (pureerosface_v1:0.7),
+<lora:dylanKowalski:0.2>   <lora:add_detail:0.3>  <lora:Neonpunkai-8:0.4>  <lora:OC:0.3>  <lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.2>

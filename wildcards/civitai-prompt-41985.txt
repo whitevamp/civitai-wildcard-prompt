@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, sunbeam, sun beam, god rays,
+1girl, solo, Ingrid, mature female, dark-skinned female, dark skin,
+pink hair, very long hair, hair intakes,
+red cape, turtleneck, underboob, elbow gloves, coattails, revealing clothes, center opening, midriff, highleg panties, thigh boots, multicolored clothes, sword,
+<lora:IngridV2:1>

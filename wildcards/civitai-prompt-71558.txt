@@ -1,0 +1,1 @@
+1girl, face, woman,  bmb-fc <lora:bimbo-fc-1.6a:1>, dark, rim lighting, two tone lighting, dimly lit, low key,  ,<lora:epi_noiseoffset2:1>, portrait of woman by Flora Borsi, style by Flora Borsi, bold, bright colours, orange Mohawk haircut, ((Flora Borsi))

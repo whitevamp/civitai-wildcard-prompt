@@ -1,0 +1,3 @@
+<lora:denim_shorts_v0.2:1>
+1girl, high-waist shorts, sweater,
+<lora:sono-bisque_v4.0b:1> kuroe shizuku, sweater, looking back,, masterpiece, best quality, highly detailed

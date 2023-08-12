@@ -1,0 +1,3 @@
+<lora:ClothesInMouth-06:1>,
+mouth hold, clothes lift,
+1girl, rio, blunt bangs, long hair, halo, hair ornament, long sleeves, white sweater, close-up, large breasts, breasts out<lora:RioBA-v1:1>

@@ -1,0 +1,2 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:empty_eyes:1.3>  (6+girls,multiple girls, crowd:1.3),group picture, 
+Religious Meetings,religious offering,  empty eyes,  looking at viewer, facing viewer, group shot

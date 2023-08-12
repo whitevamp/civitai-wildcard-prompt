@@ -1,0 +1,1 @@
+masterpiece, best quality, [(white background:1.5)::0.1], 1girl in dynamic pose,  (beautiful detailed colorful splash art:1.5), rotational symmetry, <lora:koreanDollLikeness_v15:0.3>

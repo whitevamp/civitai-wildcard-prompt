@@ -1,0 +1,3 @@
+face portrait of a gorgeous female human necromancer scythe , skeleton armor Clive Barker , methurlant fantasy, dark room, dim light , blood moon, (masterpiece, best quality:1.3),
+Andre Kohn
+(masterpiece, best quality:1.3),<lora:nijiMecha:1> <lora:epiNoiseoffset_v2:1>

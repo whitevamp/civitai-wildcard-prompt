@@ -1,0 +1,2 @@
+absurdres , highres, colorful, ultra detailed, (girls concept sheet), Cardcaptor_Sakura_pink_Style,
+BREAK,  <lora:flat2:-1>

@@ -1,0 +1,2 @@
+(GS-Womanly:0.5) chucknorris, long ginger hair under hat dressed as a texas ranger jeans boots hat shirt vest outdoors
+(masterpiece:1.2) (photorealistic:1.2) (bokeh) (best quality) (detailed skin:1.3) (intricate details) (8k) (HDR) (analog film) (canon d5) (cinematic lighting) (sharp focus) <lora:ChuckNorris_SD1.5_V1:0.8>

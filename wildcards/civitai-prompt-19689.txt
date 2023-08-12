@@ -1,0 +1,2 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>1girl ,looking at viewer, smile,;D,
+ <lyco:OlgaPataki:0.5>OlgaPataki, ((blonde short hair)), green miniskirt, white shirt, black vest, black hairband, stylish pose,dynamic ungle, city,  <lyco:anime_minimalist_v1-000020:-0.5> sitting bench, <lyco:add_detail:0.3>from below,spread legs, panties,cowboy shot,

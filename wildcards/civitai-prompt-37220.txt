@@ -1,0 +1,2 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (realistic, photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, nice hands, perfect hands, perfect fingers, perfect body shape, (natural skin texture, hyperrealism, soft light, sharp), cowboy shot, dynamic angle, nsfw, BREAK (late night, in deserted dark room, dim light, inside a dark abandoned building), (night view, moon light, night sky, dark night:1.1)
+<lyco:GoodHands-beta2:1>, <lora:breastinClass:0.3>, <lora:add_detail:0.6>

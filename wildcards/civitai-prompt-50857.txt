@@ -1,0 +1,1 @@
+(beautiful face),<lora:cgm:0.2>,best quality, medium long hair,(full body:1.2) (photorealistic:1.4), professional lighting, photon mapping, radiosity,(black hair:1), TF AG,chinese,(Sitting),white_dress,(nude:1.1),((nipples)),sexy, <lora:b:0.9>

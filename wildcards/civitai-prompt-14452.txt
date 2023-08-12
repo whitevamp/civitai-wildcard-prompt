@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female), <lora:detailed_eyes:1>,
+<lora:concept_kawaiiTech_(kawaiitech--pastel--kawaii):0.9>, kawaiitech, kawaiitech makeup,  seductive smile, 
+<lora:concept_bimbofy_LOCON_changeACharacterBimbofy_v10:0.8>, pastel clothes,  BimboT, kawaiitech cat ears,

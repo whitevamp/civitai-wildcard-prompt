@@ -1,0 +1,2 @@
+(smile:1.2)
+ <lora:kitagawa_marin_v1-1:0.85>, kitagawa marin, 1girl, purple hair, medium hair, purple eyes, bonnet, red rose, collar, gothic, frills, black dress, black necktie, cleavage, long sleeves, white apron, thighhighs,

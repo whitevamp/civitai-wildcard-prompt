@@ -1,0 +1,15 @@
+Aesthetic: ((minimalism, simplicity, minimalistic design, clean lines, reduction, essentialism):1.4)
+BREAK
+Composition: ((upskirt, skirt, from below)), <lora:upskirt_below_v2:0.7>, pussy,, from behind, ass
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.991),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

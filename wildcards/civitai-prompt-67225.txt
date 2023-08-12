@@ -1,0 +1,1 @@
+masterpiece,((High Angle Shot)),  <lora:BugattiAI:0.8>, bugattiai,  chrome and glass city, city lights, RTX

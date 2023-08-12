@@ -1,0 +1,1 @@
+simple_background, red_background, 1girl, beautiful woman, beautiful face, perfect face, portrait, upper body, large breast, low-cut, sext, realistic,  <lora:breastinClass:0.3>

@@ -1,0 +1,7 @@
+1girl (30yo) stunningly beautiful sexy mature (Japanese), beautiful realistic face, long blue hair,
+((sitting on a bed)), sexy pose,
+looking at viewer, realistic blue eyes, (happy, smiling:1.2), dimples, (separated-lips, open mouth:1.1),
+(nsfw:1.2), breasts (perfect nipples), shoulder,
+(cinematic lighting:1.5), (deep-shadows:1.2), dim, depth of field, chromatic aberration, bokeh, lens flares, raytracing, sharp focus,
+highres, 8k, high quality, masterpiece,
+<lora:JapaneseDollLikeness_v15:0.1>

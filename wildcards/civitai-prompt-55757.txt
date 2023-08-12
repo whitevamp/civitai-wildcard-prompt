@@ -1,0 +1,1 @@
+<lora:nijiexp-000010:0.9>,letterboxed, 1girl, solo, face, blue_eyes, looking_at_viewer, white_hair, close-up, hair_between_eyes, drinking water

@@ -1,0 +1,4 @@
+photography, bokeh, highres, ultra detailed, intricate details, absurdres, masterpiece, full body shot, BREAK
+1girl, beautifully detailed woman, beautifully detailed mouth, extremely detailed eyes and face, beautiful detailed eyes, matte eyeshadow, eyelashes, eyeliner, ultra glossy lipstick, (pouty lips:1.3), makeup, blush, BREAK
+detailed background,  BREAK
+Vaiana, smile, barefoot, <lora:Vaiana_v1:1>, BREAK

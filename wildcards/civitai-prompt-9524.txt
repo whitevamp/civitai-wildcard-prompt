@@ -1,0 +1,2 @@
+(ultrarealistic, extreme detail),(realistic:1.2),render, (masterpiece), (best quality), detailed face, 1girl,(hollie would woman:1.25) standing, bathroom, , bathtub, window, faucet, sink, mirror, (blonde hair:1.2),hair bun, side bangs, nude, blue eyes, medium breasts, natural breasts, hands behind head, pubic hair, sweating, smiling, blushing, wet, running
+ <lora:holli_would_v1.0:0.6> , <lora:Garterbelt2:0.85>

@@ -1,0 +1,1 @@
+[(white background:1.5),::5], 4k, (masterpiece),(best quality),(ultra-detailed), 1girl, mid shot, witch hat, magic aura, splash, butterflies, smile <lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:1>  <lora:cute_oil:1.1>  <lora:impasto:0.8>  <lora:3DMM_V10:1>, perfecteyes eyes <lyco:locon_perfecteyes_v1_from_v1_64_32:1>

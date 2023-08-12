@@ -1,0 +1,8 @@
+<lora:GTS:1> GTS, 1girl,  nsfw, (16k, high quality, masterpiece:1.1), (fisheye:1.3), (perspective:1.2), full body, (straight-on:1.5),
+(from below, low angle, pantyshot, sky view:1.3), (looking ahead:1.5),
+BREAK
+a photo of a cute girl, minami yume, turned into giantess, far taller than buildings, standing straight, (spread legs:1.1), sexually suggestive, (upset:1.1),
+on street of city, akihabara \(tokyo\), outdoors, detailed background, daytime,
+BREAK
+straight hair,  school uniform, pleated microskirt, (crotch:1.1), (white panties:1.1), cameltoe, jacket, blazer, sweater, open jacket, (black thighhighs), (zettai ryouiki:1.1),  loafers,
+<lora:ssssDYNAZENONMinami_minamiYumeV1:0.5>

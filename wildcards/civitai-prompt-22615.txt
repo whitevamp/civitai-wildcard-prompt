@@ -1,0 +1,3 @@
+small smile,  [natural hazel eyes|natural green eyes], realistic, natural body, cinematic lighting, sharp focus, intricate details,  expression lines, slightly frizzy hair, natural eyebrows, fine hairs on skin, realistic skin texture, natural indentations in body and face, facial definition, looking at camera, serious, (dark circles around eyes:0.7), blush, cute,
+<lora:rcnz_hqr_v2:0.6> rcnz_hqr style, <lora:epi_noiseoffset2:0.6> (dark studio:0.5), (rim lighting:0.5), (two tone lighting:0.5), (dimly lit:0.5), (low key:0.8),<lora:add_detail:0.6> intricate detail, (realistic),
+messy blonde hair, dark streaks in hair, white pants, adorable face, looking at viewer, busyph1

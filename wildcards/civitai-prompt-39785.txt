@@ -1,0 +1,13 @@
+masterpiece, best quality, absurdres, 4K, 8K, high resolution, unity 8k wallpaper, anime key visual, official art, (anime, 2020 style anime:1.3), (illustration:0.8), (beautiful detailed eyes:1.3), (perfect anatomy, nice hands, perfect hands, perfect fingers),
+<lora:GoodHands-vanilla:1>, <lora:epiNoiseoffset_v2Pynoise:1.0>, <lora:flat2:-0.3>, <lora:lit:0.1>, <lora:hipoly3DModelLora_v10:0.2:1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0>
+hatsune miku, green hair, very long hair, long twintails, BREAK, green eyes, BREAK
+pov, looking at viewer, front view
+1girl, solo, (smile:0.7), (moaning, screaming:0.9),
+(close-up:1.1), luminescent, atmospheric scene, (shiny skin, ultra-detailed body:1.1),
+natural lighting, cinematic lighting, soft lighting, backlighting, light particles, intricate shadow, hdr, volumetic lighting, 
+indoors, (viewing outdoors through window:1.2), highly detailed background, messy background,
+(night:1.3)
+<lora:boldline:0.2> <lora:hairdetailer:0.2> (restrained, cum, tpit, tentacles, tentacle pit:1.3) <lora:tpit:1>
+(open eyes:1.2), closed mouth, (happy:1.1), exhibitionism, female orgasm, (saliva:0.8), (crying, moaning:0.7), (spread legs, m legs:1.5), (completely nude:1.6), 
+(anal object insertion, tentacles inserting anal:1.3),
+<lora:folded_anal-10:1.0:1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0>, (solo folded anal, anal, anus, gaping anal, folded:1.4),

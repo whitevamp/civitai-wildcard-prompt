@@ -1,0 +1,1 @@
+masterpiece,best quality,(detailed face, perfect face, perfect eyes, realistic eyes, perfect fingers),(clear face),fantasy girl,long hair,hair ornaments,looking at viewer,outdoors,intricate,high detail,sharp focus,dramatic,beautiful girl,full body,kneeling, outdoors, white dress,bow,cleavage,  <lora:detailed_eye:0.2>

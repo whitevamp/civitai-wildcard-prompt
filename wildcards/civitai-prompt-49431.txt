@@ -1,0 +1,4 @@
+(chibi)
+looking at viewer, (sad:1.2), (crying, tears:1.1),closed eyes,  open mouth, rubbing eyes, 
+small girl ,white dress, 
+<lora:nahida_bs4_unet_2e-4_te_1e-4_dim64_alpha_32_768-000060:0.9>  <lora:paimonsPaintingsStyle_gstamp02000008:0.9>

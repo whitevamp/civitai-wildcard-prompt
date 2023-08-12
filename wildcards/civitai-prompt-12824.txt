@@ -1,0 +1,1 @@
+flashgitz, vocaloid3, fat <lora:FlashgitzV1:1.2> <lora:hatsunemiku1-000006:0.8>

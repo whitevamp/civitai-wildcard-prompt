@@ -1,0 +1,4 @@
+(realistic:1.4), (photorealistic:1.4), hyperrealistic,
+(ulzzang-6500-v1.1:0.7), pureerosface_v1, <lora:koreanDollLikeness_v15:0.3>,
+(rindou:1.0), tentacles, dripping, slime \(substance\), bukkake, cum, (tentacle pit:1.2), monster, cum pool, vore, wet, torogao, from behind, looking back, from below, 
+<lora:rindou_v4.2:0.7>,, masterpiece, best quality, highly detailed

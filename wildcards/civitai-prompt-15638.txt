@@ -1,0 +1,1 @@
+origin,horns,  outfit-bremerton,squatting,,sitting,1girl, solo, long hair, navel, blush, looking at viewer, red eyes, breasts, bottle, sports bra, sweat, grey hair, holding, braid, midriff, sky, water bottle, towel <lora:outfit-bremerton-pynoise-000003:1>  <lora:Arknights-mudrock-Obsidian (With multires noise version):0.55>

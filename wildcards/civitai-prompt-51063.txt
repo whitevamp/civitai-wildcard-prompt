@@ -1,0 +1,1 @@
+((masterpiece)),(best quality), absurdres,sadako_yamamura,<lora:Sadakobest:0.8>,   <lora:conceptBagsUnderEyes_v10:1.2>,Bags under eyes, portrait, using phone, on computer, looking at computer, dark room, light from computer, sitting on chair,

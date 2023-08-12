@@ -1,0 +1,4 @@
+<lora:zombie_v1.3:1> 
+1girl, white background, 
+multiple boys, zombie,
+<lora:blade-doodle_v2.0:1> sketch, linart,, masterpiece, best quality, highly detailed

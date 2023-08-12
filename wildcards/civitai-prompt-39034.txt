@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, 1boy, cowboy shot, short hair, black hair, medium breasts, exotic black dress, black thong, kneeling on the bed,
+ <lora:breasts_squeezed_together_v0.2:0.75>, breasts squeezed together, v arms,
+in the bedroom,

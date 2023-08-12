@@ -1,0 +1,1 @@
+((1girl,solo)),masterpiece, best quality, portrai,tultra-detail, illustration, close-up,straight shot,((focus on face)),looking into the distance,forest,sun,wind,butterfly,studio lighting,yokozuwari,tree,lake,sitting,ganyu \(genshin impact\), twin horn, bare shoulder, bodysuit  <lora:ganyu2:0.9>

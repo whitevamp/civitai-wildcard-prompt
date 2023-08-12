@@ -1,0 +1,22 @@
+(hyper-detailed:1.4), ultra-detailed, sharp, HDR, absurd res, (realistic:1.4),
+sunlight
+no borders, 
+flat canvas, linear, extra dimensions, mixed reality, mind forever voyaging, 
+ ,
+twin explosion,
+<lora:pmccullerpaintingstyle-000003:0.9>
+,
+fireworks
+,birds, bees, butterflies, flowers
+,
+Dazzling,
+vines
+,
+Halcyon,Gauzy,
+cyborg sorcerers
+,Don't give me any of that intelligent life crap, just give me something I can blow up
+,time does not pass and things do not happen
+,
+,
+Worsted wool,
+perfect eyes, focused, <lora:more_details:0.4>, <lora:wowifierV3:0.8>,

@@ -1,0 +1,8 @@
+lifeguard, beach, summer, sun, ocean waves,  sunglasses,  lifegurad vest, detailed background,( photorealistic, realistic, photo \(medium\):1.4),
+beach umbrella, 
+    lying on side,
+
+solo,
+(penis ,glans,testicles:1.05),(frenulum), bara, 
+
+muscular man,  male only,masterpiece,best quality,detailed,  beard,  game_cg, detailed, intricate detail, highres , <hypernet:EasyNegative:1>  <lora:animemale_v1-000008:.33> <lora:animePenisLORA_animePenisV3:.3>

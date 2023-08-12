@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),(zentangle:1.2),classical,Tyndall Effect,light background,vibrant color,
+1girl, (anyachalotra:0.8), full body, looking at viewer, ruffled blouse, high-waisted shorts, espadrille wedges, sitting,
+in the dark, deep shadow, low key, glass bottle, grey background, gib\(concept\),  <lora:bottle_locon_v2m:0.7>

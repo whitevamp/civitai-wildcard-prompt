@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, perfect skin, female,  (looking at viewer:1.5),solo, perfect illumination, distinct, (1girl:1.4), perfect face, detailed face,  perfect body, beautiful eyes, pretty face, soft light, (blue eyes:0.7),
+bare shoulders, black skirt, 
+ slim, large ass,
+red glasses, hair ornament,  sleeveless shirt, black skirt, (red leggings:1.3),
+purah, from below,
+ <lora:purah-nvwls-v2-final:0.75>

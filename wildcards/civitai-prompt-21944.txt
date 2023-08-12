@@ -1,0 +1,5 @@
+<lyco:locon_perfecteyes_v1_from_v1_64_32:0.3>  <lyco:GoodHands-beta2:1.5>
+(ultra realistic, absurdres:1.6) (8k, RAW photo, best quality, masterpiece:1.2), depth of field, (realistic, photo-realistic:1.5) (professional lighting:1.4) award winning photograhy
+a photo of a beautiful young woman falling through the air, skydiving ((5000 feet in the air)), full body, (falling, sky, clouds, bouncing breasts, dynamic action:1.4) legs spread 
+(naked) (brown hair, messy hair:1.2)
+medium breasts, pubic hair    <lora:breastinClass:0.3>

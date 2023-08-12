@@ -1,0 +1,1 @@
+<lora:Black_See-through_Bodysuit:0.6>,1girl, black see-through bodysuit,standing,(long hair),blue eyes,nipples, (dynamic poses), large breasts,natural breasts,NSFW,(looking at viewer),facing viewer,(full body) ,black high heels,highleg panties, (masterpiece, best quality, high quality),<lora:add_detail:1> , outdoors, streets of new york, early in the morning

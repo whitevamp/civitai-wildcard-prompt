@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl, full body,  closed eyes,(wet clothes:1.2),see-through,(naked boobs:1.1),nude,(water on skin:1.1), drooling, bathroom,shower head,showering,(wet hair:1.2),dim lighting,standing under shower,open mouth,from below,fucked silly,blush,  <lora:ClothingAdjuster3:0.1> <lora:InstantPhotoX3:0.6>

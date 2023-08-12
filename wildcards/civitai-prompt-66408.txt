@@ -1,0 +1,4 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), finely detail, masterpiece, highres,best illustration,depth of field,(dramatic lighting:1.4),high quality,(film grain),
+Neko witch, Neko ears and tail, cat spell, cat familiar, cat caf, enchantment magic,
+Warm Highlights, Inviting Atmosphere, Honeyed Tones,
+<lora:lowra_v10:0.4>

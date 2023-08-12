@@ -1,0 +1,1 @@
+Masterpiece, exquisite, 8k, 1 girl, luminous skin, exquisite long hair, silver | pink | blue hair, exquisite makeup, lipstick, eye shadow, eyeliner, Cowboy, Laser shirt, pink Cowboy hat, (Phosphor stockings:1.2), Cyberpunk, neon light, blue purple light, shining, (technology city:1.2),(bright, daytime,:1.1) (color lens glasses:1.1)<lora:LASER-V1:0.7> <lora:3DMM_V10:0.5>  

@@ -1,0 +1,1 @@
+<lora:PotatoPunkAI_pruned:.9> PotatoPunkAI coffee machine

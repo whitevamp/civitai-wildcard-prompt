@@ -1,0 +1,4 @@
+best quality,(RAW photo:1.2),(masterpiece:1.4),(photorealistic:1.4),(highres:1.4),
+1girl, long hair, floating hair, hand fan, depth of field, from above,
+hanami, cherry blossoms, lake, beautiful detailed water, goldfish, 
+ pureerosface_v1, <lora:hanfu_v28:0.8>, hanfu, tangstyle,

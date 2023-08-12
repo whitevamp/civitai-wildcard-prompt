@@ -1,0 +1,2 @@
+(masterpiece, best quality, high resolution), 2girls, multiple girls, outdoor, beach, day,((mature female)), beautiful body, Beautiful Nose, Beautiful character design, perfect eyes,perfect face, alluring, wallpaper,perfect lighting, Colorful,ultra highres, photography, 8K, HDR, <lora:pov panties:1> from below,
+<lora:add_detail:1>

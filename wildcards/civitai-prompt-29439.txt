@@ -1,0 +1,1 @@
+woman, flower dress, colorful, darl background  <lora:Iridescence:0.7>

@@ -1,0 +1,1 @@
+(intricate detail), (highly detailed, fine details), best quality, 1girl,beautiful lighting, film grain, solo, blue eyes, black hair, eyeshadow, suit, closed mouth, eyeliner, cowbot shot, (old building environment), Re-l, <lora:BeautifulDetailedEyes:0.3>, <lora:Ergo:1>

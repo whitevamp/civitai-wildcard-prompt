@@ -1,0 +1,6 @@
+best_quality, highres, extremely_detailed, 
+1girl, beautiful_face, navel, ((red_hair, twin_braids, hairpin):1.1),
+angry, pointing_at_viewer, ((t-shirt, shirt, apron):1.1),
+<lora:VillageSuccubus_v4:0.39>, obscenity_tattoo, firemage, fire_tattoo, waist_tattoo,
+BREAK
+beach, sunlight, ocean,

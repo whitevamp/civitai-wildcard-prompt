@@ -1,0 +1,3 @@
+masterpiece, best quality,1 adlut girl,black long hair，blues eyes,lookig at viewer,sex_from_behind , ass_focus,ass,white pantyhose,on bed,lying
+Negative prompt: extra limbs，EasyNegative,house,building,plants
+Steps: 18, Sampler: DPM2 a Karras, CFG scale: 6, Seed: 1114243076, Size: 448x832, Model hash: ef3faac5dc, Denoising strength: 0.5, Clip skip: 2, ENSD: 31337, Hires upscale: 1.4, Hires upscaler: Latent (nearest)

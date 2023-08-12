@@ -1,0 +1,3 @@
+Masterpiece, 1girl, 
+dynamic pose, woman, shiny skin, (skinny woman:1.5), long legs, long torso, (muscular:0.7), very narrow waist, wide hips, big breasts, haircut, detailed face, <lora:more_details:1>, <lora:POSE-tied_wrist:0.5>, torn clothes
+<lora:MilaAzul_1.0:0.5>

@@ -1,0 +1,1 @@
+masterpiece, best quality, lucina, tiara, cape, armor, shoulder armor, long sleeves, upper body, face, close-up, eating huge burger with both hands, burger, eating <lora:lucina-fef:0.9> <lora:borger-nvwls-ver-2:0.7>

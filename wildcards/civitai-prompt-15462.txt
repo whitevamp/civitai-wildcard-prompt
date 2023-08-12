@@ -1,0 +1,2 @@
+<lora:AI_Utaha:0.33> <lora:sd-No.144:0.22> <lora:T2:0.25>,wide pelvis, the creamy smooth skin,
+(masterpiece, best quality, highres, ultra-detailed, detailed background, detailed eyes, beautifull face:1.2), 1girl, solo, white hair, short straight hair, blunt bangs, grey eyes, flat chest, narrow waist, pale skin, petite, outdoors, street, winter, snow, school uniform, winter uniform, white winter coat, white scarf, school bag, black legwear, pantyhose, open mouth, smile, happy, looking at viewer, cowboy shot,

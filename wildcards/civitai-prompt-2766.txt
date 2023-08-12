@@ -1,0 +1,1 @@
+original-art, lineart, inked, 1girl, green eyes, long hair, orange hair, kim possible, jeans, black top, black gloves, midriff, belt ,<lora:kim_possible_offset:0.7>, night sky background

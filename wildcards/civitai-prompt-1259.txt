@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, low color saturation,
+lineart, 
+ankymoore, 1girl, solo, long hair, hair ornament, long sleeves, dress, holding, brown eyes, jewelry, closed mouth, upper body, braid, flower, earrings, artist name, hair flower, wide sleeves, necklace, black eyes, lips, animal, plant, dog, yellow flower, holding puppy,
+ <lora:ankymoore-04:0.9>

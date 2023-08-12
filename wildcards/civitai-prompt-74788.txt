@@ -1,0 +1,12 @@
+(Night:1.7), outdoors, Purple_sky,cloudy sky, 
+Flying,
+chain, cleavage, cleavage_cutout, clothing_cutout, collar, heart_cutout,torn_bodysuit, torn_clothes, torn_legwear, underboob,
+collarbone,choker,black outfit,navel,collar, shoulder armors,
+<lora:Raynare_DxD-KK77-V1:0.7>,<lora:saiminSeishidou:0.2>,<lora:Mai_Shiranui-KK77-V2:0.1>,highleg,boots,thighhighs,black_wings,black_wings,
+purple_eyes,,black_hair,very_long_hair,elbow_gloves,
+1 girl, 20yo,mature female,Beautiful Finger,Beautiful long legs,Beautiful body,Beautiful Nose,Beautiful character design, perfect eyes, perfect face,
+looking at viewer, (innocent_big_eyes:1.0),(expressionless:1.3),
+NSFW,official art,extremely detailed CG unity 8k wallpaper, perfect lighting,Colorful, Bright_Front_face_Lighting,
+(masterpiece:1.0),(best_quality:1.0), ultra high res,4K,ultra-detailed,
+photography, 8K, HDR, highres, absurdres:1.2, Kodak portra 400, film grain, blurry background, bokeh:1.2, lens flare, (vibrant_color:1.2)
+(Beautiful,large_Breasts:1.4), (beautiful_face:1.5),(narrow_waist),

@@ -1,0 +1,1 @@
+creature in the dark, <lora:lowra_v10:0.6> night

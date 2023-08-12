@@ -1,0 +1,1 @@
+1girl,((photo-realistic)), ((high detailed)), ((best quality)),pale skin, cute,brown hair,green eyes,long hair,jewelry,blue sweat shirt,black jean,beautiful lighting,  <lora:add_detail:1>

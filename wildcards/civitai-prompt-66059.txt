@@ -1,0 +1,1 @@
+skeleton, sexy pose, skirtlift <lora:Skeleton_01:.6> <lora:skirtlift-v1:1>

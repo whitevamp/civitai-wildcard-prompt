@@ -1,0 +1,5 @@
+cowboy shot, from below, smile, ((natural pubic hair)), spreading legs, standing, hanging breasts, posing for a photo, 
+(front view), looking at viewer, (completely naked:1.3), nude, detailed areolae, navel, (wearing metal frame square glasses:1.25), choker, 
+lib_bg, indoor, library, soft light, bright floor, bokeh, depth of field, intricate detailed background,
+((masterpiece)), best quality, absurdres, nsfw, ((photo-realistic)), beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, black hair, bangs, (lob:1.3), good hands, good fingers,
+<lyco:GoodHands-beta2:0.8>, <lora:libbg_v11:1>

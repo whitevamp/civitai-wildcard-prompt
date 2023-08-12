@@ -1,0 +1,1 @@
+1girl,bikini,short shorts,perfect face, perfect eyes, perfect lighting,looking at viewer  (masterpiece, best quality, high quality, highres:1.2), detailed, extremely detailed,  <lora:fitgirl_v10:1>

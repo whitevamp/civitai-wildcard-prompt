@@ -1,0 +1,1 @@
+full body,standing,high resolution,(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2),full body, sea,hanfu, topless, walking, undressing, face of mikuya, detailed face, lipstick, long hair, hair ornament, medium breasts, looking at viewer, night, stars, moon, village, trees, flowers, path, wind, <lora:hanfu_v29:0.8>, <lora:mikuya_v15:0.9>

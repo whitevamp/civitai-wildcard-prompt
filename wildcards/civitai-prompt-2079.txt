@@ -1,0 +1,5 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(highres),elaborate, cowboy shot, solo
+<lora:Kizuki - Seikon no Qwaser - Yamanobe Tomo:0.8>, yamanobe tomo, purple hair, red eyes, medium hair, huge breasts, hairband, <lora:LWclothLora:0.7>, LuxuriousWheelsCostume,silver dress, date, pov, see-through, colorful, abstract background, walking away, smug, doyagao,
+<lora:anime_minimalist_v1-000020:-0.2>,
+<lora:flat2:-0.5>,
+<lora:LowRA:0.2>

@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl,cute, solo,beautiful detailed sky,detailed tokyo street,night, medium breasts,beautiful detailed eyes,(collared shirt:1.1), bowtie,pleated skirt,(short hair:1.2),floating hair,
+ <lora:koreandolllikeness_V10:0.3>

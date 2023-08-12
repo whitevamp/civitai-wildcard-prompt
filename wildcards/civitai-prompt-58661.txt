@@ -1,0 +1,2 @@
+((masterpiece,best quality, detailed)), 1girl, solo, (sketch:1.1), paper, monochrome, cropped torso, portrait,
+misty \(pokemon\), side ponytail, suspenders, yellow tank top, smile, one eye closed, open mouth,  <lora:oldSketchStyle_v1:1>,  <lora:mistyPokemon_v2:0.9>

@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination,
+masterpiece, best quality, looking at viewer, smile,
+1girl, cure melody, navel, pink hair ribbon, hairband, pink thighhighs, pink shoes, wrist cuffs, twintails, gem, frills,
+ <lyco:locon_cure_melody_5:0.9>

@@ -1,0 +1,3 @@
+ASCII(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,stunning skin details,
+ many beautiful girls stand on the balcony of an ancient chinese house, (((laughing:1.4))),in the style of photographically detailed portraitures, 32k uhd, larme kei, fine art photography, romantic depictions of historical events, exquisite clothing detail, fantasy settings,
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), Fujifilm XT3, (blue and orange tone impression), <lora:add_detail:1>  <lora:multiplegirlsgroup:0.8>

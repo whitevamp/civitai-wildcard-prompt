@@ -1,0 +1,2 @@
+(intricate detaild:1.4), (masterpiece), (high resolution), 1girl,
+ (21 years old pretty korean girl:1.2),(kpop idol:1.2), (korean beauty:0.8), (korean mixed), <lora:korInstaGirl_v10:0.7>,

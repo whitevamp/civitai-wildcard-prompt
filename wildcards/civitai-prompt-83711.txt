@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl, <lora:ngnl_jibril:0.8> ngnl_jibril, long hair,pink hair,halo,large breasts,symbol-shaped pupils,tatoo,low wings, sideboob,midriff,asymmetrical legwear,mismatched legwear,drooling,    <lora:plastic bag:0.8> plastic bag,swimsuit,,

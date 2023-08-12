@@ -1,0 +1,7 @@
+1girl, solo, portrait, sharp focus, soft lighting, hdr, colorful, good composition, extremely detailed, (highly detailed face), (highly detailed eyes), illustration, depth of field, (bloom:0.4), 1girl, breasts, solo,blush, large breasts, smile,((red dress)),(amy rose), pink skin, looking at viewer, detailed eyes, hairband,((arms behind back)),beach, stormy skies,(closed mouth), neck, collarbone, shoulders, bare shoulders, 
+BREAK
+(skindentation), (cleavage),huge breasts,
+BREAK,
+<lora:amyRose_v1:1.2>
+BREAK
+<lora:SaggingBreasts:0.5> <lora:giganticbreasts:0.3> <lora:LoconBurstingBreasts_v1:0.75>

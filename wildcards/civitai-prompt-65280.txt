@@ -1,0 +1,1 @@
+masterpiece, best quality, woman police officer, purple-dyed hair with red tips, pixie hair cut, piercings, (police uniform:1.2), (bite lips, sultry:1.1), (upper body:1.1), deep cut, necklace, arm watch, jewellery, digital art, clean linework, artstation <lora:fashionGirl_v45:0.7>  <lora:ics_a3_lora:0.7>

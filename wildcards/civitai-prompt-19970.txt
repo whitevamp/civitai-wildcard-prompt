@@ -1,0 +1,2 @@
+masterpiece, best quality,highres, 1girl, <lora:2023-05-14_150133:0.5:CLOTHING>, (qipao:1.3), <lora:GamerFashion-rgb-V1:1.0:EXCEPTFACE>,detailed face, cinematic lighting, intricate, 1girl,huge_breast
+, hair ribbon, ribbon, pink eyes, twin braids, (rgb:1.8), (GAMER:1.4), rave festival, night, light rays, edc, rave, lens flare, led, perfect skin, long purple hair, toned, cameltoe, thighhighs, legs focus, dramatic colors,  beautiful background, detailed background, dutch angle

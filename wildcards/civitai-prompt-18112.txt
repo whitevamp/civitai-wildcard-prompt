@@ -1,0 +1,1 @@
+cow, organic painting, matte painting, bold shapes, hard edges, street art, trending on artstation, by huang guangjian, m and gil elvgren and sachin teng, ultra-detailed, EdobCow cow, (realistic:1.5), <lora:EdobCow_v1.0:0.8>

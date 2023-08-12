@@ -1,0 +1,4 @@
+Masterpiece, absurdres, fine detail, HDR,
+beautiful woman,smiling,
+1girl, solo, breasts, blue eyes, blonde hair, simple background, hat, dress, cleavage, medium breasts, lips, makeup, wearing edgToxic
+ <lora:edgToxic1:1>

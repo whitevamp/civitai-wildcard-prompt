@@ -1,0 +1,1 @@
+masterpiece, best quality,1 girl,full body,<lora:kirikoOverwatchLORA_v1:0.9>,(hands in pocket:1.4),huge torii,floating ofuda,(floating colorful {wind|water magic|ink|crystals|ice|fire|flame|lightning|web|rocks|sand|particles|sparkles|blood}:1.0),

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1boy, <lora:kratos:0.8> kratosGOW_soul3142, 1boy, scar, beard, realistic, bald, armor, 
+ <lora:r1ge - AnimeRage:0.8> r1ge,  angry, glowing, lava, rage,

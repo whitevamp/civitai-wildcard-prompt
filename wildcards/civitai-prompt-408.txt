@@ -1,0 +1,4 @@
+(best quality:1.4), (intricate details:1.2),  digital artwork, detailed cgi,
+1 girl, adult (elven:0.7) woman, freckles, hazel eyes, blonde fringe hair,
+(style-swirlmagic:0.8), portrait, looking up, solo, upper body, detailed background, detailed face, (gothic dark fantasy theme:1.1) evil mage, tattered dark purple magical robes, determined expression, scarlet color scheme, dark green light, library,   evil book, dark atmosphere, shadows, realistic lighting, floating particles, embers, surrounded by fire, <lora:FirevfxCreateMore_v2:0.4>,  summoning,  blue arcane symbols,  power-hungry eyes, bloom,
+<lora:graphicNovelStyle_v10:0.2>,

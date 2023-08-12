@@ -1,0 +1,2 @@
+(ultrarealistic, extreme detail:1.25),(realistic:1.3),render, (masterpiece), (best quality), detailed face, 1girl,(hollie would woman:1.25) standing on beach, (slingshot swimsuit:1.25), facing viewer, (blonde hair:1.2),hair bun, side bangs,  blue eyes, medium breasts, hands behind head, sweating, smiling, makeup, solo,, sand, water, sea, palm trees,
+<lora:holli_would_v1.0:0.6> ,<lyco:Slingshot_V_Conv2D:0.75>

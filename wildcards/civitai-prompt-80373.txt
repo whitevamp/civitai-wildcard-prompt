@@ -1,0 +1,2 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:capi-09:1><lora:LR-000007:1>
+(capybara is girl:1.5),(capybara has breasts )nude

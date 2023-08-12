@@ -1,0 +1,1 @@
+made_of_ice, cannon, wings, 2 balls, slide, <lora:made_of_ice:1>, snow, snowfield,

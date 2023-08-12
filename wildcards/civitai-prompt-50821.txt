@@ -1,0 +1,1 @@
+realistic photo, realistic, photo, masterpiece, best quality, woman,man, <lora:unobjectifiedWomenHijab_v213:0.4>, ((niqab)), fully clothed, smiling, (black skin),dress, <lora:obsidianSkin_v1:0.75>

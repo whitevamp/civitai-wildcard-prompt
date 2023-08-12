@@ -1,0 +1,4 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+Jungle, explorer, safari hat, binoculars, machete, [khaki shirt|cargo pants:1.2], adventure,
+(nsfw:0.9),(see-through|areola slip|nipple_slip),
+deep shadow, low key, <lora:lowra_v10:0.3>

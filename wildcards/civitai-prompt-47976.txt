@@ -1,0 +1,4 @@
+(8k, RAW photo, best quality, masterpiece:1.2),
+(((1girl, solo))), (perfect eyes), detailed face, detailed skin, aqua eyes, ((gray hair)), long hair, (hair ornament, earrings, necklace), portrait, revealing clothes, looking at viewer, looking at camera, ((pantyhose, thighhighs, stocking)), crossed legs,
+(sliver high heels:1.5), standing, (colorful dress:1.3),
+city space, street, daytime, skyscraper, skyline, outdoors, <lora:japaneseDollLikeness_v10:0.4>  <lora:koreanDollLikeness_v15:0.6>

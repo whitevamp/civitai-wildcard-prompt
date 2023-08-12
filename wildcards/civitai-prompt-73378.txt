@@ -1,0 +1,1 @@
+(masterpiece, best quality, high detail), (8k, photorealistic), (dslr, medium shot, 18mm focal length, f/5.6 aperture), a cyborg woman Mech4nim4lAI, in a futuristic cyberpunk city with cyberpunk structures:.4, cloudy sky, detailed face, detailed eyes:1.4, detailed skin, outdoors, <lora:Mech4nim4lAI:.2> <hypernet:LuisapSciFiHard_v1:.4> Koh_MillaJovovich:.4

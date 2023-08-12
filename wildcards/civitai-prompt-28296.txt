@@ -1,0 +1,1 @@
+1 girl, sitting, (holding umbrella:1.1), Hanfu, (Winter hanfu), cloak, (raining, snow, winter outdoors:1.2), <lora:Winter_Hanfu:0.65>

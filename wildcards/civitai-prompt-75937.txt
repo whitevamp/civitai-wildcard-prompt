@@ -1,0 +1,2 @@
+<lora:ballbra-10:0.4>,
+  <lora:ballbra-06:0.8>

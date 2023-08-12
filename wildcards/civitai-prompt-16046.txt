@@ -1,0 +1,7 @@
+Absurdres, intricate details, masterpiece, best quality, high resolution, 8k,
+(1boy:1.4), topless male, underwear, bare legs, white socks,
+sweat, manly,
+muscular male, abs, big pectoralis, shiny skin, bare pectorals, large areolae,
+detailed face, naughty face, black eyes, short black hair, shiny blue necklace, eye reflection,
+outdoors,
+<lora:cute boys3:0.72> <lora:handsomeMan_v10:0.4>

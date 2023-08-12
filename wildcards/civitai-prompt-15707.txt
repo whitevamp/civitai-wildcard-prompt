@@ -1,0 +1,6 @@
+(solo focus:1.4), close up photo of a girl, kalifa (one piece),
+back view, seductive pose, beautiful face,
+blonde hair, glasses, earrings,  choker, 
+gloves, long sleeves,  
+skinny, black dress, bodysuit, huge breast, thin waist, wide pelvic,  garter straps, fishnets, thick thigh, calf, thin Ankle, highheels,
+ <lora:Kalifa-10:0.8>, (realistic skin_details, sharp focus, eyes_focus, masterpiece,best quality,finely detailed,extremely detailed, realistic detail,clear_image,realistic, high_resolution,distinct_image:1.2)

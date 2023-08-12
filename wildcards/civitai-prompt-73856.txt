@@ -1,0 +1,3 @@
+(editorial photo of sci-fi alien robot in jungle, sci-fi cyborg, wires, sci-fi elements), depth of field, bokeh, professional photo,
+(best quality, high quality, absurdres, intricate detail, masterpiece, cinematic, moody, dramatic), highly detailed, photorealistic, sharp focus, motion blur, film grain, noise, lens effects,
+<lora:Niji:0.75>,<lora:add_detail:0.3>

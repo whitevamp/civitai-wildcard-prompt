@@ -1,0 +1,2 @@
+1girl, 1boy, night, stars, moon, cloud, (blush:0.8), light smile, hugging, (looking at another:1.2), from side
+<lora:lxz-1boy and 1girl - 1girl,1boy -  strapless dress - cape:1>

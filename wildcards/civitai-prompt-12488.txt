@@ -1,0 +1,3 @@
+RAW Photo, DSLR BREAK
+(Alien Infusion Beverage, out-of-this-world drink, alien elixir, extracts, rare extraterrestrial plants, infused ionized energy, distant nebula, served in a glowing glass vessel:1.2) BREAK
+cinematic lighting, professional colorgraded, <lora:foodphoto:0.5>

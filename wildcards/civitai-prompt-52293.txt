@@ -1,0 +1,5 @@
+masterpiece best quality (hyperdetailed intricate river side), coconut tree, huts,starry night, Crescent moon, cloud,
+18 year old goblin  girl,naughty smile,wavy hair,nose blush,(white school uniform, serafuku, navy_blue pleated skirt,necktie worn below), thighhighs, choker, earrings,(underwear line),
+NSFW, (lying :1.6),(POV from behind),shine skin,
+(8k, RAW photo, best quality, masterpiece:1.2), PHOTOREALISTIC, highres, depth of field,absurdres, physically-based rendering, dslr, Exquisite details and textures, an extremely delicate and beautiful, CG, extremely detailed, stunning innocent symmetry face, beautiful detailed girl, extremely detailed eyes and face, detailed realistic skin, masterful composition,  light on face, front lighting, cinematic lighting, rim lighting, professional lighting, face highlight,
+ <lora:beautifuleyeslikeness_halfBody:0.2> <lora:thaiHighSchool_thaiHighSchool:0.3>

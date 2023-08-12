@@ -1,0 +1,2 @@
+((masterpiece, best quality)),a girl holding spear, floating hair, white hair, night, moon, cloud, yellow clothes, Chinese general
+<lora:Chinese_general:0.6>

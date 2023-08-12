@@ -1,0 +1,1 @@
+(art by Makoto Shinkai:0.9) ,art by Eiichiro Oda, [anime key visual, Stone Mirza, Phantom, background is Freeway, equirectangular 360, Overdetailed art, Energetic::1],  <lora:GoodHands-beta2:1> <lora:hairdetailer:0.4> <lora:add_detail:0.7> <lora:detailed_eye:0.4>

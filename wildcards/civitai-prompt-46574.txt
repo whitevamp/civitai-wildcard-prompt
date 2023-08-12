@@ -1,0 +1,3 @@
+sam yang,
+((1girl)) , uniform, backlighting, bare shoulders, black choker, blurry, blurry background, blush, breasts, choker, collarbone, earrings, forehead, freckles, hair over shoulder, jewelry, long hair,  pointy nose, red lips, shadow, solo, thick eyebrows, thick eyelashes, (blonde hair), ((masterpiece)), shiny skin, black skin, headphone, stocking
+<lora:sam_yang-000028:0.65> <lora:samdoesartsSamYang_offsetRightFilesize:1> <lora:murkysSpreadAssLora_1:1>

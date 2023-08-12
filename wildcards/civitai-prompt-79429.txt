@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),(highres),
+1girl,raise hand,standing,
+ <lora:sailor_venus_v2:0.8> sv1, sailor senshi uniform, orange skirt, elbow gloves, tiara, orange sailor collar, red bow, orange choker, white gloves, jewelry, 
+(hologram:1.4),(star:1.3),(swirling:1.1) ,tornado,abstract background,(star effect:1.4),
+<lora:anime_minimalist_v1-000020:-0.2>,
+ <lora:flat2:-0.5>,

@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,colorful,highest detailed ((ultra-detailed)), (highly detailed CG illustration), ((an extremely delicate and beautiful)),cinematic light,
+cultivation tank,1girl, solo, restrained, science fiction, bound, arms up, bondage, bdsm,
+full body,machine made joints,mechanical cervial attaching to neck,expressionless,wires and cables attaching to neck,wires and cables on head,character focus,science fiction,
+<lora:cultivation_tank_lora01:0.8>, <lora:Mechacog:0.8>, meccog, cog,front view,looking at viewer, mecha bra,

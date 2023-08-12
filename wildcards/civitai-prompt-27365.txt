@@ -1,0 +1,5 @@
+masterpiece, best quality, ultra-detailed, illustration,
+
+1girl, (holding weapon, aiming at viewer, assault rifle,left view:1.5), carbine, open fire, firing,
+
+<lora:HK416-v2:0.6>

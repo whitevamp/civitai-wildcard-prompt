@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+<lora:Battle_Bunny_Riven_LOL:1>battle bunny riven, 1girl, strapless leotard, pantyhose, rabbit ears, folded ponytail, white hair, necktie, wrist cuffs
+(wearing a satin corset and thigh highs), leaning back, sitting, front view, looking at viewer,  inside Motel room, midnight, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.1> (hyper realism, soft light, dramatic light, sharp, HDR)

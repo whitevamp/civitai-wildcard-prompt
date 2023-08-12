@@ -1,0 +1,5 @@
+FECCC, ExtraCCCOutfit, 1girl, solo,huge breasts,
+lifelike,
+Luminous Illumination, Ethereal Glow, Glowing Highlights,
+beautiful and aesthetic, masterpiece, best quality,
+ <lora:FatePassionlip:0.8>

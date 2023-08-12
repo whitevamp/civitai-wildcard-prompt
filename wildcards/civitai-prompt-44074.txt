@@ -1,0 +1,4 @@
+(masterpiece, best quality, high resolution), 1girl, stuck, washing machine, ass, looking back, ((mature female)), beautiful body, Beautiful Nose, Beautiful character design, perfect eyes,perfect face, alluring, wallpaper,perfect lighting, Colorful,ultra highres, photography, 8K, HDR,
+<lora:add_detail:1>
+<lora:stuck_in_washing_machine_v0.1:1>
+<lora:doggystyle_piledriver_v0.3:1>

@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, photo, realistic, unreal engine, 
+ <lora:Mecha:0.8> Mecha,     <lora:robotGirlLora_v10:0.6> humanoid robot, robot, robot joints, joints, helmet, armor, robot girl,  breasts, rusty, abandoned warehouse, computer terminals, arcing electricity,  <lora:Unholy:0.5> sp3ct4,  dark atmosphere, <lora:JourneyLoRA:0.8>

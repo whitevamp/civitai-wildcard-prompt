@@ -1,0 +1,6 @@
+(cowboy shot),  sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:MitsukiMHA:0.7> MitsukiMHA, mature female, red eyes, seductive
+<lora:halter_dress:0.4>  gold choker, open slit, necklace, black halter_dress, gold cuffs,
+BREAK
+(explosion, gorgeous view)

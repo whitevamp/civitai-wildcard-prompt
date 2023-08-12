@@ -1,0 +1,5 @@
+(8k, highest quality, best quality, masterpiece, highly detailed:1.2),
+
+1girl, oliviamunn, woman is nude except for a loose boyfriend shirt, (naked shirt, shirt tug), midnight
+
+<lora:shirtTugPoseLORA_shirtTug:.9> <lora:braless_v11:0.6>

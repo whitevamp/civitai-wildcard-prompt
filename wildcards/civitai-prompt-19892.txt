@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, 1girl, japanese girl, adjusting clothes, elevator, from below, upskirt, skirt lift
+<lora:elevator_v0.4-locon-000007:1>, masterpiece, best quality, highly detailed

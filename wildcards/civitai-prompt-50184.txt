@@ -1,0 +1,19 @@
+(8k, RAW photo, best quality, masterpiece:1.2), 
+
+Hight detail TAW colour photo, professional photograph, (realistic, photo-realistic:1.37), ((best quality)), cinematic light, 
+
+(bokeh:1.2), 35mm:1.25, wide angle, (high angle:1.2), portrait photo, shot from her top front or side or back
+
+2 girl,  double, white skin,  detailed skin texture, (finely detailed face:1.2),  detailed beautiful and delicate face:1.3, 
+
+medium natural breast, narrow waist, detailed hair with bangs, detailed long messy hair:1.3, random hairstyle, Smiling:1.2, 
+
+(full body), (standing),(wearing mini skirt),(black pantyhose), look_at_viewer, 
+
+detailed cloth detail,  
+
+(2 girls on the same  street)
+
+
+
+<lora:cuteGirlMix4_v10:0.7>, <lora:20d_v10:0.4>,<lora:breastinclassBetter_v141:0.3>,<lora:taiwanDollLikeness_v15:0.4>

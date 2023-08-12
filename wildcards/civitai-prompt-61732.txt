@@ -1,0 +1,2 @@
+masterpiece, best quality,(8k, RAW photo, best quality, masterpiece:1.39), (realistic, photo-realistic:1.2), Ahri_Cosplay, (full-body angle), forest background
+ <lora:Ahri_Cosplay-05 (1):0.8>  <lora:koreanDollLikeness:1>

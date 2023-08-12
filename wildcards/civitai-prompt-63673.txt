@@ -1,0 +1,3 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,
+a (male:1.2) hugging a girl from behind,(naked:1.4),epic realistic, cinematic, dramatic, muted colors, (low key,dimmly light, dark scene),(foggy:1.4), (((forest:1.4))),
+sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), Fujifilm XT3 <lora:LowRa:0.82>

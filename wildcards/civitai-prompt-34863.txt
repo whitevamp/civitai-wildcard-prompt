@@ -1,0 +1,1 @@
+nsfw, (1girl, multicolored eyes, , open mouth) (digital) (  in detailed train interior (see-through, swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

@@ -1,0 +1,1 @@
+(masterpiece:1.4),(volumetric lighting:1.3), (2girls, yuri), tongue kiss, short tight  dress,sleeveless, outdoors, cityscape,road, heavy rain,storm, dusk,dawn, twilight,sunset, full body, soaking wet, sensual body, closed eyes, (silhouette:1.2), wet ground, <lora:KISSING_V1:0.9>

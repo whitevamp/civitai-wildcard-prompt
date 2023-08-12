@@ -1,0 +1,1 @@
+(photorealistic), hyperrealism, Gekko, (bright cinematic lighting), full body shot, rim lighting, indirect light, (shot from below:0.7), (global illumination), (front facing:1.3), vpl, underwear, (wet:1.2) (black background) <lora:hardvpl:0.8> <lora:GekkoValorantV2.0:1>

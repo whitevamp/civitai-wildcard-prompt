@@ -1,0 +1,1 @@
+ANIME,WATERCOLOR,CHINESE,PAINTINGS,ARTSTYLE,(white background:1.4), original,(illustration:1.1),(best quality),(masterpiece:1.1), (colorful:0.9),(medium shot:1.4),upper body, clear sharp focus,indoors, looking at viewer,a young woman in a red dress,((beautiful)), pretty face,brown hair,black eyes ,INPAINTING ,<lora:Colorwater_v4:0.7>, <lora:Moxin_10:0.3>

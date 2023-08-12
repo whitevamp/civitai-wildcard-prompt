@@ -1,0 +1,1 @@
+(best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (8k, RAW photo:1.2), 1girl,  tracer, overwatch cosplay, bomber jacket,  yellow spandex pants,  <lora:traceroutfit2-000008:0.8>, (white arms armor), empty hands, short hair, futuristic city

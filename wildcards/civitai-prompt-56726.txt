@@ -1,0 +1,6 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, detailed background
+short bob haircut, sky blue eyes, narrow waist, beautiful eyes,
+tavern background, chairs, hearth, fireplace, beer, ale, crowded place, dagger face down in table,
+((hood, leather armor, leather bra, leather boots, leather leggings:1.5, scabbard, rogue, gold coins))
+(((medium breasts, full body shot, sitting in a chair drinking ale)))
+  <lora:breastinclassBetter_v141:0.3> <lora:adventurers_v1:0.8> <lora:taiwanDollLikeness_v1:0.2>

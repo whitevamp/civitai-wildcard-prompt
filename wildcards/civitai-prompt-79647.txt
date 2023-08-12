@@ -1,0 +1,2 @@
+(best quality:1.1), (masterpiece:1.1),1girl, Betty Rubble, short hair, hair bow, barefoot, dress, large breasts, thick thighs, narrow waist, arms behind back, (leaning forward:1.1), looking at viewer, 
+ <lora:Betty_Rubble1-10:0.8>,  <lora:add_detail:0.8>

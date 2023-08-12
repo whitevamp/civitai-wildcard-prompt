@@ -1,0 +1,3 @@
+(best quality, masterpiece, ultra-detailed), 1girl, (solo), (detailed face), (realistic), (full body), illustration, extremely beautiful, (background, pale pink),
+((flowers)), (colorful), (petals), (flowing), (fantasy), (paper cut), ultra thin silk, lace, (elegant), (charming), looking at viewer,
+<lora:Lady:0.1>, <lora:KK_paperCut_v1:0.6>,

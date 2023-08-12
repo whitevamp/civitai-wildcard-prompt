@@ -1,0 +1,2 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile,  <lora:exbikini2:0.9>, pink micro bikini,  BREAK, black hair, bob cut, cowboy shot, happy, large breast,
+<lora:add_detail:1.2>, from below, night pool, water bubbles, water splash, flowers, cherry blossoms, newyork, full moon, star light, forest, head wind, from below,squatting

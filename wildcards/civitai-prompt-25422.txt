@@ -1,0 +1,7 @@
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,
+BREAK
+(1girl, solo, dynamic pose, standing, embarrassed, nsfw, nude, naked, smooth body, looking at viewer, medium breasts, perfect breasts, nice hands, perfect hands),
+BREAK
+high ponytail, blonde hair,
+BREAK
+clothes on floor, yoga mat, yoga, gym,  <lyco:GoodHands-beta2:1.0>

@@ -1,0 +1,10 @@
+white liquid, laying, white, white milk, partially submerged, woman,
+([Sandra Bullock|Amanda Seyfried|Taylor Swift]:0.85), cowboy shot,
+ dark skin, brown hair,breasts, solo, closed eyes, nipples, 
+EDGORGASM,
+FACE FOCUS,
+WOMAN WITH EDGORGASM_FACE,
+large breasts, (milk:1.3), white liquid, white theme, from above, foam,
+white paint, naked, centered, 
+ lips, short hair, upper body, shiny, white slime, bare shoulders,  collarbone, 
+parted lips, shiny skin, makeup, realistic,  white background,  <lora:edgOrgasm:0.8>

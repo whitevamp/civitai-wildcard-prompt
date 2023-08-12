@@ -1,0 +1,6 @@
+(best quality), (masterpiece), ultra-detailed, ,(looking at viewer),
+1girl,(red vending machine),(kicking vending),(high kick),(kicking:1.2)
+<lora:misaka_mikoto:0.9>,brown hair,glowing brown eyes,hair_ornament,tokiwadai_school_uniform,
+glare,angry,
+park,outdoor,
+professional lighting, photon mapping, physically-based rendering,

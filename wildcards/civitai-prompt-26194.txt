@@ -1,0 +1,8 @@
+(RAW photo, best quality),
+(realistic, photo-realistic:1.3),
+best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed  ,2k wallpaper, Amazing, finely detail, masterpiece,light smile,best quality, extremely detailed 8k wallpaper,huge filesize , ultra-detailed, highres, extremely detailed,asymmetrical bangs,short bangs,bangs,pureerosface_v1,beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes,light on face,looking at viewer, straight-on, staring, closed mouth,(((brown hair))),long hair, collarbone, bare shoulders, longeyelashes,(huge breast,thigh gap, fit body:1.5), nipples,upper body, lace ,lace trim,1girl,nude, naked girl, (full body:1.3),
+(highly detail face: 1.5),
+beautiful detailed eyes, beautiful detailed nose, vaginal detailed, nipples, realistic face, realistic body, beautiful pussy, pussy detail, comfortable expressions, thigh spread,smile, look at viewer,comfortable expressions, (((professional pose))),((thigh spread)),natural light, (((japanese public bathroom)))
+ass detail , ((standing)),
+(pubic hair),
+((full body)) <lora:Thigh_gap_by_Gaart_v1:0.3> <lora:InstantPhotoX3:0.8>

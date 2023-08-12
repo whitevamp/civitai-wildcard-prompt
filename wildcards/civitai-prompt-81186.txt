@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.3), realistic 3D, 8K, saturated, HDR, bloom magic, highly detailed, intricate, trending on artstation,
+Eredar, (FemEred:1.1), mature female, 40yo, demon girl is standing with spread legs in magic circle and (casting ultimate demonic green spell:1.2), solo, (thunder black sky with green lightnings background:1.3), green fire sea background, (full body shot:1.1),
+(dark red skin:1.2), horns, black hair, long hair, bracelet, anklet, lipstick, makeup, black eyeshadow, jewelry, detailed hair, detailed face, glowing eyes, green eyes, perfect eyes, perfect face,
+demon tail, naked, nude, green glowing tattoo, (hooves:1.1),
+(pussy:1.1), (gigantic breasts:1.1), cleavage, <lora:EredarFemFut:0.85>,  <lora:add_detail:0.5>

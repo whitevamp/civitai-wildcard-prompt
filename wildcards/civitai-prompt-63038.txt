@@ -1,0 +1,4 @@
+Exceptional detail, stunning visuals, lifelike rendering, crisp textures, high contrast, chiaroscuro, dramatic lighting, immersive atmosphere, true-to-life,
+bold creativity, imaginative flair, daring expression, visionary artistry, unconventional style, daring perspective, experimental approach, expressive compositions, inventive techniques,
+1girl,white hair,mechanical,crazy,hurt,weapons,semi-coverage, metallic, claw arms, jetpack, future,outdoor,energy,war,war shot,
+<lora:epiNoiseoffset_v2:1>

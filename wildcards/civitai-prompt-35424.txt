@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, High detail RAW color art, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting,
+edgHalo_armor,power armor,
+blonde Nadia with sunglasses and a choker,
+wearing edgHalo_armor <lora:edgHaloArmors:1> <lora:Ultimate_Nadia:0.5>

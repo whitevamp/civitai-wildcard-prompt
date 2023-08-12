@@ -1,0 +1,5 @@
+, (best quality), (masterpiece),
+ DisintegrationEffect, <lora:DisintegrationEffect:1.1>,
+boston terrier,Iggy,(swirling:1.2) ,
+sand,dust,desert,
+ <lora:sanDka2:-0.5>

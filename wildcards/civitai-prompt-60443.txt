@@ -1,0 +1,4 @@
+best quality, intricate details,
+<lora:sillyCatThatOneFemboy_v10:0.7> silly cat, (uploaded to e621), (uploaded to pixiv), on model, (Teasing), (girly pose, girly expression), (sweating), (detailed visuals, rtx on, sexy expression, sexy), (digital art), (male), (Cute pawpads, cute smile),
+1girl, solo, <lora:gawrGuraHololive_v3:1> gawr gura, shark girl,  shark print, blue hoodie, shark hair ornament,  white cat ears,<lora:3_v20:0.6> ;3, uwu,  (smug:1.2)
+<lora:youLikeKissingBoysDontYou_v10:0.2> boy_kisser,

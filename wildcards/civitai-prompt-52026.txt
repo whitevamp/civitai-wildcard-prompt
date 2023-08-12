@@ -1,0 +1,1 @@
+lineart, monochrome, hyperdetailed, futuristic city, neon lights, a man standing on wasteland, snow in the background, sunny day, cold color palette, (Realistic:1.5), hyper-detalied, 8k, cinematic light, volumetric light <lora:animeLineartStyle_v20Offset:1.5>

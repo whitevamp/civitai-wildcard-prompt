@@ -1,0 +1,5 @@
+<lora:koreanDollLikeness_v15:0.5><lora:nwsjmajic-10:0.2> 1 girl,CG,ulzzang,(masterpiece,ultra high res),(photorealistic:1.2),
+(detailed puffy eyes),(aqua eyes:1.2),(aegyo sal:1.2)
+(white shiny skin),(thin waist),(medium breasts),(short black braided hair)
+(facing front),(looking at the viewer),(intricate earings),(excited),(white hair band),(cinamatic light),(tranparent background)
+(necklace),((gold round glasses)) <lora:GirlfriendMix_v1_v20:0.1> <lora:chilloutmixss_xss10:0.6> <lora:yuantu:0.2>

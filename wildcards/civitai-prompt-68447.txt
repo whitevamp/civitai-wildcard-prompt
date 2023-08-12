@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  <lora:Daisy_Lora:0.8> Daisy_SM,  brown hair,  blue eyes,
+ <lora:whipMarks:0.8> whip marks, nude, bleeding, cuts, <lora:cryTearyFace_v10:0.8> teary,tear,sad,sorrow,crying,open mouth,nipples, pussy,

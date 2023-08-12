@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+1girl, <lora:aceTrainerXYPokemonXY_v10:0.8>  cowboy shot, standing, contrapposto, acexy, bowtie, hairclip, socks, skirt,
+
+ <lora:angleFromBack_v1:0.8> back, back focus, 
+
+ <lora:appleButtButtThatLooks_v10:0.8> Apple_butt, huge_ass,

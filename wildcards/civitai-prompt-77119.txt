@@ -1,0 +1,7 @@
+<lora:onOff3:1>,ONOFF,side-by-side photo of clerk,
+best quality ,masterpiece,ultra high res,(photo realistic:1.4),looking at viewer, (from below:1.2),(full body:1.2),(embarrassed smile:1.2),1girl,25yo,sitting on chair,(from side:0.8),(open mouth:0.8),
+japanses famous actress, very beautiful,(kawaii:1.2),(huge breasts:1.2), cutter shirt,(dark color hair:1.2),(Neat and clean:1.4),
+(clerk:1.2) uniform, (business wear:1.1),natural makeup,muted clothes,tight clothes,pantstyle ,(updo hair style:1.05),(ecstasy face:1.1),sexual excitement,(half undress:0.7),
+break Cinematic, 35mm lens, f/ 1. 8, accent lighting, 8k, (sexy pose:0.2),
+(desk:0.8) ,(PC:0.8) ,in (night office room:1.2),(staff identity card:1.2) with neck strap,
+  <lora:Bex_v06:0.7>,pussy,

@@ -1,0 +1,5 @@
+ASCIIwaist shot view of a mysterious (sks woman:1) wearing a pilot outfit with a crashed spaceship in the background,
+(artwork by Moebius, Bilal, Druillet, methurlant)
+sci-fi, fantasy, horror,
+<lora:methurlant:0.85>,
+<lyco:locon_emmastone_v1_from_v1_64_32:1.4>

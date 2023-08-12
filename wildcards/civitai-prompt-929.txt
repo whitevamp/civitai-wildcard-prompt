@@ -1,0 +1,1 @@
+best quality, 1girl, WHRPCostume, Harness, Gloves, Skirt, stockings, beautiful face, green long wavy hair, sensual, nipples, delicate, seductive smile, looking at viewer, 8k, ultra high res, hyperdetailed, ((full body shot))  <lora:BWHRPCostume:0.6>  <lora:LowRA:0.6>, witch hut background,  <lora:GoodHands-beta2:1>

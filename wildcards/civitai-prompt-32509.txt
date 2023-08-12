@@ -1,0 +1,3 @@
+<lora:school_yard_v0.1:1>
+2girls, school yard, gym uniform, 
+<lora:princess_carry_v0.1:1> princess carry, buruma, looking at another, (arm around waist:0.7),, masterpiece, best quality, highly detailed

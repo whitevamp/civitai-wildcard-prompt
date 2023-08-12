@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12 16Dim Cosine:0.8>,front-tie bikini top,<lora:acrossTableConcept_v10:1>,elbows on table, cup, blurry background, indoors, upper body

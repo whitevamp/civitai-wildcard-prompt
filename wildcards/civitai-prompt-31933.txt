@@ -1,0 +1,6 @@
+<lora:hand_on_anothers_head_v0.1:1.0> 1girl, 1boy, (hand on another's head:1.2), top-down bottom-up, head grab,
+ (spoken hearts:1.2),(sweat:1.2),(deep breathe:1.2),(on bed:1.2),(steam:1.2) 
+, <lora:Megumin_V1.0-000006:1>megumin, megumin's style
+,
+,
+, masterpiece, best quality,BREAK,

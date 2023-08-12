@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),  <lora:add_detail:1>  <lora:add_sharpness:0.5>  rnd1, nude, on bed, simple background, indoors, fucked silly, sex from behind, 1boy,  <lora:fucsil1-000011:1>

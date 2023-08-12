@@ -1,0 +1,6 @@
+((best quality)), ((masterpiece)), (detailed),
+1boy, skinny, greek temple, water, renaissance,
+priapus, short curly hair, handsome masculine face, detailed eyes,
+big chest, (narrow waist), bubble ass, thick thighs, topless, golden chain belt, draping cloth see-through shorts, arm ring, detailed skin,
+realistic, style of pino daeni, [style of Daniel F. Gerhartz::0.5],
+uhd image, hires, 8k, semi-realistic, epic lighting, sharp focus, realistic, romantic,  <lora:priapus_v1:0.3>

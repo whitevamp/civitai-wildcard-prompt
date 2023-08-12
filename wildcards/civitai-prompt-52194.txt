@@ -1,0 +1,5 @@
+absurdres, masterpiece, best quality, (1girl), perfect eyes, anime:1.2,
+(petite:1.4), (cute:1.3), short, (black hair:1.3), long hair, (shaggy hair:1.4), detailed face, big head, (shiny skin:1.1), big eyes, (grey eyes:1.2), (thin waist:1.3), small torso, (slender:1.2), thin legs, 
+oversized sweatshirt, black shirt, graphic tshirt, black lace panties, goth, silver jewelry,  long sleeves, choker, 
+(standing:1.3), (embarrassed:1.3), shy, skirt lift,
+indoors, bedroom, furniture,  <lora:lottalewdsBagsUnder_v1:0.9>, bags_under_eyes,

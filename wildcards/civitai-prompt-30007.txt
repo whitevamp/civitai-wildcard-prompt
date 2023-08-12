@@ -1,0 +1,3 @@
+RAW Photo, DSLR BREAK
+photo woman at a gym, shallow depth of field, Sharp focus, Flirty character portrait, full body, dynamic compositon, elegant pose BREAK
+detailed, professional colorgraded <lora:epiCRealismHelper:1>

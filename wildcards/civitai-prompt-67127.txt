@@ -1,0 +1,2 @@
+Cream
+ <lora:ADD_seieki:0.3>,seieki

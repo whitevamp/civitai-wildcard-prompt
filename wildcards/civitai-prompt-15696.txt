@@ -1,0 +1,8 @@
+close up photo of kalifa (one piece),
+front view,
+blue eyes, blonde hair,
+seductive pose,
+gloves, long sleeves, earrings, glasses, choker,  
+black dress, bodysuit, garter straps, fishnets, highheels,
+skinny, huge breast, thin waist, wide pelvic, thick thigh, calf, thin Ankle,
+ <lora:Kalifa-10:0.78>, (realistic skin_details, sharp focus, eyes_focus, masterpiece,best quality,finely detailed,extremely detailed, realistic detail,clear_image,realistic, high_resolution,distinct_image:1.2)

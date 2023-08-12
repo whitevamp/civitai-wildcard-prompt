@@ -1,0 +1,3 @@
+<lora:baggy_jeans_v0.9:1>
+1girl, jeans, 
+<lora:elizabeth_bathory_armor_v1.1:1> elizabeth bathory, t-shirt,, masterpiece, best quality, highly detailed

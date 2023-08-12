@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, sunbeam, sun beam, god rays,
+1girl, solo, Ingrid, mature female, dark-skinned female, dark skin, running, from behind,
+pink hair, very long hair, hair intakes,
+yellow eyes, long eyelashes, thick eyelashes, looking at viewer,
+smile,
+beach, sand, waves, water, seashore, rocks, plants, blue sky, clouds,
+<lora:IngridV2:1>

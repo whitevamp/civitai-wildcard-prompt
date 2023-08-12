@@ -1,0 +1,1 @@
+(masterpiece, best quality, HDR:1.2), Marin Kitagawa, school outfit, white shirt, necktie <lora:MarinKitagawaV12a:0.7>

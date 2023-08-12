@@ -1,0 +1,1 @@
+(best quality, masterpiece),1girl, standing, white shirt,  <lora:shirtliftv1:1> <lora:add_detail:1>

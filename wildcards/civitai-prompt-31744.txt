@@ -1,0 +1,2 @@
+((masterpiece)), (best quality), perfect anatomy, highres, detailed, (8k), photorealistic,best quality, ultra highres,  ((detailed face)),
+<lora:britneyspears_smf_lora_01-000004:0.9>, 1girl, britneyspears-smf, solo, blonde hair, realistic, smile, long hair, brown eyes, shirt, grin, looking at viewer, simple background, ((t-shirt)), clothes writing, blue background, upper body, lips

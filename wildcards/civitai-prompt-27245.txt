@@ -1,0 +1,7 @@
+(nogizaka girl:1.3),(fair skin:1),(perfect body:1),(athlete:1),(nude:1.5),(curvy body:1),(model:1),(large breasts:1),(incoming kiss:0),(looking at viewer:1.3),(ultra high resolution:1.2),(best quality:1.2),(masterpiece:1.2),(realistic:1.2),(photo realistic:1.2),(professional lighting:1),(professional photo:1.1),(perfect anatomy:1),(sharp focus:1),(highly detailed:1.1),(intricate details:1),(ultra detailed:1),(RAW photo:1),(8k:1),(4k:1),(blurry background:1),(face:1.8)
+BREAK
+(extremely detailed eyes and face and skin:1)
+BREAK
+The setting is a traditional Japanese onsen, surrounded by natural elements like trees and rocks. It's a beautiful, peaceful day with a light breeze. Several young women, all around 20 years old, are depicted. They are all wearing bath towels wrapped around their bodies. The women have different hair lengths and styles, such as long flowing hair, a short bob, or a high ponytail. Their skin tones vary, reflecting diversity. They are positioned in a way that showcases their profiles, with their backs slightly arched as they use small wooden buckets to pour water over themselves. The steam from the hot spring water is gently rising, creating an ethereal atmosphere. Soft sunlight filters through the trees, casting a warm glow on the scene. The women have relaxed and content expressions on their faces, emphasizing their enjoyment and tranquility.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5>

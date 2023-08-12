@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:Cana Alberona:0.8> Cana, Cana Alberona, Fairy Tail, 1girl, solo, tattoo, long hair, breasts, brown hair, large breasts, bikini top only, midriff, cleavage, navel, swimsuit, cup, long hair, bracelet, alcohol, jewelry, black hair, 
+<lora:boldline2:0.8>   <lora:apuspill:0.8> apuspill, laying down, spilled food, french fries, crying,

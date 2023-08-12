@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.4), high res, dramatic, scerery, large area sky,  starfall, night, sky, stars,  <lora:conceptBetterSky_sky:0.7>, puffy clouds, water surface, forest

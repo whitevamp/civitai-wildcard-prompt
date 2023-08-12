@@ -1,0 +1,5 @@
+realistic, (best quality, masterpiece:1.3),
+1boy,solo, reading,
+silver hair, bright pupils, short hair, hair slicked back,black long sleeve shirt,
+study, near the window, well-lit
+fansty world<lora:fansty world_20230601105102:0.7>

@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details, 
+1girl,     <lora:kiara1:0.8> takanashi kiara,  orange hair, feathers, multicolored hair, 
+ <lora:through_the_thighs:0.8> through_the_thighs,  thighs, thigh focus,  pussy, nude,  <lora:whipMarks:0.8> whip marks,  crying, tears,

@@ -1,0 +1,1 @@
+(masterpiece),(high quality),dirt, the_observer, concrete and shiny metal, fog, mist, fujifilm, photorealistic, details, texture, film grain, symmetric, dynamic light, color grading, (disturbing:1.2),  <lora:the_observer:1>, indoor

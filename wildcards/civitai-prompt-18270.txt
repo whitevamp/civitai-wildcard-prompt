@@ -1,0 +1,2 @@
+1boy, from above, from behind,  (photorealistic, realistic , surreal ), (best quality, highres, 8k, raw, realistic, masterpiece, ), outdoors, sunset, seaside, training, bare back, exercise,, exercising, jeans, biking, bicycle, riding bicycle, 
+<lora:LowRA:0.2> <lora:epi_noiseoffset2:0.2> <lora:add_detail:0.3>

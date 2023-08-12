@@ -1,0 +1,3 @@
+<hypernet:Cornflower_Phantom:0.6>, Cornflower, (2 girls), on bed, face to face, sideboob, standing, in castle,
+masterpiece, best quality, detailed, high res, depth of field, best quality, highly detailed, detailed, sharp focus, realistic,  shirt, ((oversize shirt)), seductive, intricate background, comdoms, pillows, sheet, panties, cum inside, cum on thighs
+<lora:face-jisooBlackpink_v1:0.2>, jisoo, <lora:dress-oversizedShirt_v10: 0.6> <lora:dress-seeThroughSilhouette_v10:0.6>, see-through silhouette

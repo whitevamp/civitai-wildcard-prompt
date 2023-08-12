@@ -1,0 +1,5 @@
+ASCIIview of a beautiful (sks woman:1) floating in space with the universe in the background,
+sci-fi, horror, intricate details, high contrast,
+(artwork by Beksinski, methurlant),
+<lora:methurlant:0.66>,
+<lyco:locon_emmastone_v1_from_v1_64_32:1.4>

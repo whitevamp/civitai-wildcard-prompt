@@ -1,0 +1,5 @@
+<lora:mikuya_v15:0.5><lora:taiwanDollLikeness_v10:0.3> <lora:erikaIkuta_v10 (1):0.2>
+dalcefo realistic, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 
+1 girl, cute, solo, 
+<lora:jackOChallengePoseLora_jackoposefront:1>, 
+jack-o' challenge, flexible, spread legs, top-down bottom-up,

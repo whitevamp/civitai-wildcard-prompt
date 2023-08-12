@@ -1,0 +1,1 @@
+(classroom, facing away, using chalkboard, ass focus, shot from below), (microskirt, vibrant shapes and colors on dress), <lora:microskirt_v0.2:1>, (Valerie frizzle),  <lora:Ms_frizzle1:0.7>, (mature, milf), ((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>

@@ -1,0 +1,1 @@
+forest, sunlight, creek, water, pebbles, SHISHKIN, bush, grass, best quality, ultra_detailed, landscape, <lora:SHISHKIN(LANDSCAPE)_V1-000001:1>, oil painting, scenery

@@ -1,0 +1,4 @@
+(full body, sports shoes, wide angle shot, baseball uniform, baseball gloves, baseball stadium, baseball match), shiny skin, <lora:shinyOiledSkin_v1:0.1>
+<lora:janna:0.5>
+janna \(league of legends\)
+tiara, floating hair, blonde hair, necklace, jewelry, body chain, gold chain, hair ornament, makeup, (blue eyes, very long hair)

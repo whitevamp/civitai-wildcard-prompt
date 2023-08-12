@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, nm1, maid, maid headdress, apron, <lora:nanami_mami_v1:0.7>, indoors, sitting

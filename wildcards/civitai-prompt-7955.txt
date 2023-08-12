@@ -1,0 +1,8 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, bed, large windows, indoors,
+blonde hair, twintails, orange eyes, eyes reflection, bright pupils, happy, smile, full blush,
+flat chest, breasts, nipples, ass,
+soles, lying down, on stomach, <lora:rest_on_stomach_feet_up:0>,
+skindentation, <lora:LegSkindentation_v11:1>,
+hat, thigh strap, topless, bottomless, kleedef, <lora:klee1_000009:1>

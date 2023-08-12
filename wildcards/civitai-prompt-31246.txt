@@ -1,0 +1,1 @@
+masterpiece, highly detailed, ultra realistic, watercolor and ink painting, dancing young woman in (black:1.0) maillot, thin muscular body, long hair blowing in the wind, (falling leaves background:1.5), colorful, sheer fabric scarf blowing in the wind <lora:lora_perfecteyes_v1_from_v1_160:1> cr1styren, perfecteyes eyes

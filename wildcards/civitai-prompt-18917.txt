@@ -1,0 +1,2 @@
+Masterpieces,official art,anthro,male,(wargreymon:1.2),Delicate face,Delicate eyes,helmet, armor, horn, digimon, upper body, depth of field, perfect lighting, light particles,(best quality),(masterpiece),(ultra detailed),sharp focus,light particles
+<lora:Wargreymon_mix_v1_12ep:0.8>

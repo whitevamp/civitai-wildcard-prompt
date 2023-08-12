@@ -1,0 +1,20 @@
+zero two, zero two \(darling in the franxx\), darling in the franxx, glowing green eyes, hairband, long sleeves, , red jacket,red  closed jacket, red military uniform, horns,  oni horns, orange ascot,
+petite, focus,, looking at viewer,  (full body:1.2), leaning, sitting, crossed legs
+ankymoore,  ( illustration:1.4),
+hmaw6, ,ankymoore, posing, 
+flat breast, flat chest, straight hair,  looking at viewer,   (masterpiece), , <lora:ankymoore:0.65>
+ (tight gap:1.3), 
+ solo, beautiful face,  
+( bright pink hair:1.5), short hair, (bushy hair:1.4), bangs, white headband,
+(dynamic angle:1.2),
+[(
+(blush:1.7),cute smile, smirk, 
+makeup, heavy red eyeliner, stephanie,  
+ (best quality:1.2), absurdres, tight clothes, (masterpiece, best quality),  ((blushing)),  freckles,
+absurdres,   best quality, face focus, (8k, masterpiece:1.2),
+ bloom,accent lighting, film grain, 
+simple background, (blurry background:1.8),  (bokeh:1.3),pink leafs, trees, school isle, 
+, garnet belt, stockings,
+<lora:add_detail:0.2>  <lora:FilmG2:0.6>   ,<lora:lit:0.41>, <lora:stephanie_V2:0.55>  
+):8]
+<lora:zerotwo_offset:1>

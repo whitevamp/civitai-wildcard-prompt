@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:tow-concept-richy-v2:1> towlauncher, tripod, scope, aiming, standing, <lora:nino_fe_v1:1> nino, green hair, short hair, blue eyes, purple hairband, (confused, ?, !, !?, scared, shocked:1.2), aiming at viewer, looking at viewer,

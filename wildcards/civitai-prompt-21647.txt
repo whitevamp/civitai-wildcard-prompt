@@ -1,0 +1,14 @@
+Aesthetic: ((ethereal, celestial, otherworldly, transcendent, delicate, mystical):1.4)
+BREAK
+Composition: <lora:Showeringv2:0.6> (1girl, solo), wet, sweaty, perfect body, perfect face, perfect eyes,, (<lora:ClothingAdjuster2:-0.5> clothes, (wearing clothes, wearing shirt, wearing dress shirt, wearing button up shirt), big breasts, covered breasts, (breasts underneath shirt), cleavage , ((in the rain, outside in the rain)), <lyco:TankTopSkinTightv320:0.2> see-through) 
+BREAK
+Lighting: Dramatic Spotlight, Theatrical, Captivating
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.997),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

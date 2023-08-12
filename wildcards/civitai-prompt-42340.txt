@@ -1,0 +1,12 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, day, dusk, sky, dark clouds, forest, outdoors, close up,
+blonde hair, high ponytail, blue eyes, (sad, crying, teardrop, angry, scowl, glaring, saliva, drooling:1.2), full blush,
+large breasts, nipples, long nipples, puffy nipples, small areolae,
+pussy, pussy juice, pussy juice trail,
+sweat, steam, steaming body, heavy breathing, arms behind back,
+blood, injury, bruise, whip marks, <lora:whipMarks:0>,
+constricted pupils, <lora:ConstrictedPupils_WideEyes_v0.2a:0>,
+pillory, bent over, stationary restraints, <lora:ConceptPillory_v2:0>,
+tongue out, open mouth, circle gag mouth, <lora:OpenGagMouth_v2.8_000008_dim_32:0>,
+white boots, detached sleeves, topless, bottomless, jeanfavonian, <lora:jean1_000009:0.75>

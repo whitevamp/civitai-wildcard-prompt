@@ -1,0 +1,1 @@
+an actress (standing behind a podium), accepting an (award),  shirtlift, holding a trophy  <lora:shirtliftv1:0.75>

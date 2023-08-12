@@ -1,0 +1,10 @@
+darkskin_style, latina, tan
+petite,  focus,, outdoors, messy hair, looking at viewer,
+brown hair, bangs,
+ankymoore,  ( illustration:1.2),
+((shortstack:1.2)), (skindentation:1.2)
+hmaw6, ,ankymoore, posing, makeup, shoulders,
+flat breast, flat chest, straight hair,  looking at viewer,   (masterpiece:1.3), (best quality:1.2), absurdres, , <lora:ankymoore:0.65>
+((blushing)), 
+wearing striped_dress,
+<lora:striped_dress:0.42>

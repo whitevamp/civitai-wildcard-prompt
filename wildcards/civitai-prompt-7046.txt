@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl), (fractal art:1.2),absurdres, highres, ultra detailed, Ultra-precise depiction, Ultra-detailed depiction, solo, (zentangle:1.2),  floating hair, (skinny, thin body: 1.2), tanned skin, shiny skin, (abstract:1.2),cbpkv3, pantyhose,
+<lora:cbpkv_20230612134125:0.8>, beautiful,pretty,mecha,gears,

@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 1girl, 1boy, cowboy shot, dim lighting 
+ <lora:EDB-000010:0.95>, downblouse, extended downblouse, (black sweater), off-shoulder sweater, long blue jeans, 
+muscular, slim and petite body, medium boobs, long hair, ([light orange | brown] hair), looking at viewer, blush, tipsy, smiling, alcohol beverage on the counter, (sitting and leaning forward across the kitchen counter:1.2), in the kitchen, night time,

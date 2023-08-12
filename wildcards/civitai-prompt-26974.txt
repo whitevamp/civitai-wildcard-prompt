@@ -1,0 +1,2 @@
+(penis shot:1.2), (equine penis:1.1), (erection:1.2), anatomically correct, (urethra, flared penis, medial ring, saggy balls, mottled penis:1.1), (horse:1.1),( large balls:1.1), (veiny penis:0.7), (farm:1.0), (solo:1.1), (side view:1.2), (leaking, precum,:1.1)
+BREAK (masterpiece, best quality, realistic, detailed, detailed fur, hi res, photograph:1.2), <lora:more_details:0.4>, (8k, uhd, ultra-detailed, depth of field,:1.1)

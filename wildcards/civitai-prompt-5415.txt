@@ -1,0 +1,7 @@
+yae_miko, 1girl, bare_shoulders, breasts, detached_sleeves, jewelry, lips, long_hair, long_sleeves, looking_at_viewer, pink_hair, sash, sitting,  solo, wide_sleeves, 
+<lora:Yae_Miko:1>,
+Charming eyes, smile,
+Sitting on the chair, sunlight, Autumn,
+masterpiece, best quality, 
+  RAW photo, 8k, 4k, (intricate details:1.0), (ultra detailed:1.0),  (depth of field:1.0), (blurry background:1.0), (classroom:1.1), (spotlight effect:1.0), (light from the front:1.0), (fair skin:1.0), (super detailed skin:1.0), (clear translucent skin:1.0), (perfect body:1.0), (skinny,:1.0), (curvy body:1.0), (face:1.0), (sensual:1.0),
+ <lora:JapaneseDollLikeness_v1.5:0.3>

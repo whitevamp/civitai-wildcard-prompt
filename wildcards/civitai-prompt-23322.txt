@@ -1,0 +1,1 @@
+absurdres, 1boy, (at night:1.4), dark alley, moon, BREAK grey (android (batman:0.8)) in (matte black hardsuit:1.2), military, roughed up, mechanical arms, city fog, (glowing white eyes)  <lora:nijiarmor_v2:0.9>

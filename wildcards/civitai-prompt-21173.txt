@@ -1,0 +1,1 @@
+(masterpiece), 1girl, full body,Sunset, explosion,outdoor,Tall buildings, cities,(long shot), <lora:GachaSplash4:0.9> ,<lora:JinxLol:0.7> ,jinxlol,  (white background:1.5), [(white background:1.5),::5],

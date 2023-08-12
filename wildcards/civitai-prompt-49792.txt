@@ -1,0 +1,1 @@
+(masterpiece, best quality, female_child, 1girl, solo:1.05), eating sandwichies, faceless, crying, low twintails, hair tie, short hair, black hair, brown eyes, collared shirt, short sleeves, white shirt, neck ribbon, red ribbon, pleated skirt, dark blue skirt, white socks, loafers, JMT, toilet, indoors, still life, <lora:modernToiletsIn_v1:0.55>

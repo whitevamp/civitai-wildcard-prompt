@@ -1,0 +1,6 @@
+(1girl), (solo), (female focus),
+<lora:blueArchiveTsukatsuki_rioVer2:0.8>, tsukatsuki rio, black long hair, cleavage, bangs, large breasts, red eyes,
+<lora:exbikini2:0.6>, micro bikini,
+outdoors, a resort in Thailand, night sky, looking at viewer, seductive posing,
+beautiful, (masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting,
+cowboy shot,

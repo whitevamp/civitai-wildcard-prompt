@@ -1,0 +1,2 @@
+Mandalorian, miniature, cartoon, caricature, minimalism, drawing
+ <lora:Pastel:0.88>

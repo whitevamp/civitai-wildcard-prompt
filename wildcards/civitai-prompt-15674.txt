@@ -1,0 +1,15 @@
+Aesthetic: ((cassette futurism, analog nostalgia, lo-fi, synthwave, retro technology, vintage aesthetics):1.4)
+BREAK
+Composition: <lora:folded_anal_sex:1> sex, anal, folded, reverse suspended congress, full nelson, sex from behind,, 1girl, detailed face and eyes, perfect body, 1boy, penis, large penis, penis penetrating pussy,, man standing, detailed hands, detailed fingers, holding girl, man behind girl
+BREAK
+Lighting: Bright Daylight, Sunny, Cheerful
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5),
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

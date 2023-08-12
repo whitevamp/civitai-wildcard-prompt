@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3),  (zentangle:1.2), dynamic streaks, luminous effects, vibrant colors, visual chaos, fluid movement,   highest detailed,
+1 girl, adult italian woman,  turquoise eyes, copper beach waves hair,
+ looking down, solo, upper body, detailed face, (wild west mormon theme:1.1), 18th century wild west,  gunslinger,  bandana,   (cape:0.8), bolo tie, wild west era red rocky canyon  in background,   arid, sunshine, bright lighting,  cinematic atmosphere, wind blowing,
+ <lora:add_detail:1>

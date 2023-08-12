@@ -1,0 +1,1 @@
+<lora:cuteGirlMix4_v10:0.5>,mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering

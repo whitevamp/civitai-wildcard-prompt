@@ -1,0 +1,1 @@
+high quality, photorealistic,   <lora:penis_art-v1.2:0.9>,(penisart:1.2), <lora:ArmorSuit_v1:0.3>,armor,metal,(museum:1.6), (show_case:1.5)

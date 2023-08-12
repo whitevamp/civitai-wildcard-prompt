@@ -1,0 +1,8 @@
+{Space Dandy he's a dandy guy in space}
+(best quality), (masterpiece), (photo-realistic), ultra-detailed, ,(looking at viewer),
+1boy,universe,disco,solo,space ship,
+<lora:Dandy-000015:0.8> dandy, jacket, jumping,falling,
+ shocked,   (open mouth:1.3),
+<lora:crazyExpressions_crazyExpressions:0.4> crazy face, crazy eyes, horrified, scared, small pupils, constricted pupils, 
+<lora:rageMode_v1:0.2>  , destruction
+professional lighting, photon mapping, physically-based rendering,

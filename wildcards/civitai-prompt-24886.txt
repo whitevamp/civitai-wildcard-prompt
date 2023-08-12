@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format,  (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman, freckles, black eyes, platinum blonde straight hair,
+portrait, solo, (full body:0.6), looking at viewer, detailed background, detailed face, (warhammer 40k theme:1.1) vampire, glowing eyes, vampiric, pale skin, vampire fangs, tattered [dark:white:5] clothes, hooded,   pendant, movement,  blood stains,  supernatural abilities, ethereal aura,  ravens in background, cobwebs, dark castle in background,   dark night, contrast,   eerie atmosphere,
+<lora:nuclearDiffusionBrush_v10:0.3>,

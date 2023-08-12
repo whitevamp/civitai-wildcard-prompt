@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1girl, <lora:ameliaWatsonHololive_v2AllOutfits:0.8> amelia watson, monocle hair ornament, 
+
+
+
+ <lora:oldegyptai_v10:0.8> OldEgyptAI, safari jacket, safari hat, egyptian, pyramids, sand, sand dunes, wind, sun, mummies,

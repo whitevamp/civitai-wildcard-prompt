@@ -1,0 +1,6 @@
+nsfw, 8k, RAW photo, best quality, masterpiece,real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),
+1girl,  wedding dress, off shoulder, elbow gloves, garterbelt, 
+ (((torture))), torture room , (((suspended rope))), down, (black rope:1.1), ((bound arms:2)), (bdsm:1), shibari:1, ((arms behind back:1.5)), restrained, (leaning forward), 
+ indoor,  long hair, ribbon, two side up, hair ribbon, hair ornament, black ribbon, solo,  white hair, navel,  breasts, nose blush, very long hair, bangs, orgasm expression, mouth opened, looking at viewer, naked, pussy, 
+<lora:milking_machine1e-4:0.8> milking machine, lactation, nipples,  pump ,pump machine, 
+<lora:suspension:1.4> suspension, spread legs, rope, shibari, down, bdsm,     <lora:yangmi_v4:0.3>  yangmi,

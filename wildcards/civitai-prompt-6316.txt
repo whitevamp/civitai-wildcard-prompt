@@ -1,0 +1,2 @@
+Cthulhu lurking below (the earth), below the waves, in a prison of stone, ([white background:overlapping green gold purple color gradients background:5]), (black stone frame, black edges), writhing tentacle border, bat wings, dripping, abstract, ocean waves, ancient spires rising from the sea, the stars are right, the sleeper awakens, in the style of b1nk.
+<lora:add_detail:0.3> <lora:b1nk3CIVIT:0.8> <lora:Stylora:0.3> <lora:cthulhu-beta4-clipskip2-000009:0.9>

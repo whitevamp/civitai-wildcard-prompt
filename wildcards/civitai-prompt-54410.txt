@@ -1,0 +1,1 @@
+((best quality)),single tree,complete,comfortable, full_body, grass, grey_background, no_humans, pokemon_\(creature\), red_flower,reasonable structure,shock,high detail,abundant,8k,,tree,Reasonable light and dark relationship,concept art,high detail,distinct, <lora:tree:0.6> <lora:Scene_SS:0.7>

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),  <lyco:kyrie-nvwls-v1-final:0.8>, <lora:concept_dripmeme:0.9>, solo, 1girl, kyrie canaan, smile, looking at viewer, own hands together, cabbie hat, dripjacket, short shorts, spandex shorts, striped thighhighs

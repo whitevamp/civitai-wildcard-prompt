@@ -1,0 +1,7 @@
+kirisame marisa,outfit-Implacablenun, 1girl, solo, blonde hair, long hair, blush,large breasts,
+offshoulder,
+(wide hips:0.5), (thick thighs:0.5)
+lifelike,nsfw,
+Glowing Illumination, Soft Highlights, Luminous Atmosphere,
+masterpiece,best quality, beautiful and aesthetic,
+ <lora:outfit-Implacable-pynoise:1>

@@ -1,0 +1,1 @@
+(the last of us:0.9), (Ellie:0.9), natural hair, realistic portrait, 4k, supreme detail, highly detailed, artstation, smooth, sharp focus, cinematic lighting, facing the camera, dark studio, rim lighting, two tone lighting, dimly lit, low key, <lora:epiNoiseoffset_v2:1>

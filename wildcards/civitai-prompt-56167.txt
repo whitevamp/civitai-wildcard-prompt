@@ -1,0 +1,1 @@
+<lora:jcm2Style_v1:1> 1 girl, sitting, cross legged, full body, cartoon, ginger hair, jean shorts, white shirt, (smiling), missing tooth, ((blue eyes)), ((blushing)), ((looking at viewer)), ((seductive)), (((small breasts))),  <lora:croppedShirtUnderboobAnime_v10:1>, ((underboob)), ((lifting shirt))

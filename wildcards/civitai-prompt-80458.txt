@@ -1,0 +1,8 @@
+raw photo, photorealistic, best quality ,masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,8k wallpaper, Amazing, finely detail, masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper,absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed,
+(looking at viewer, extremely detailed face, beautiful eyes, detailed eyes, symmetric eyes, seductive eyes, slim face:1.2),
+(eyeshadow, makeup:1.5),
+(necklace, black choker, earrings, thigh strap, arm strap, jewelry:1.5),
+(1girl, milf, mature female,face focus, close-up, medium hair, whole face, hair_over_one_eye, blonde_hair, blue_eyes, hairclip, microskirt, fishnet sleeves, ninja, clothing cutout, crop top, muscular female, purple clothes, loose belt, ear piercing:1.7),
+(whole body, lower body, huge breasts, long legs, wide hips, thick thighs, thigh focus, long legs, thigh focus, collarbone, bright face, blush:1.5),
+(armpits, arms up:1.0),
+<lora:yamanakaInoNaruto_v1:1>

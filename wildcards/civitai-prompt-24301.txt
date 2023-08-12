@@ -1,0 +1,4 @@
+princess carry,  2girls, 
+<lora:princess_carry_v0.1:1>
+<lora:busujima_saeko_v1.0:1> busujima saeko, 
+<lora:miyamoto_rei_v1.5:1> miyamoto rei, school uniform, skirt,, masterpiece, best quality, highly detailed

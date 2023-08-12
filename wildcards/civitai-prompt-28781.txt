@@ -1,0 +1,12 @@
+best quality, masterpiece, realistic,
+adult female, erotic goddess,
+(nude),
+(exposing breasts),
+(breasts grab),
+((petite, small breasts)),
+messy [updo|hanging] hair,
+(full body:0.6),
+solo, (full body:0.6), looking down, detailed background, detailed face, (<lora:Unholy:0.5>, Sc3pt4, scifi theme:1.1), mercury-wizard, melancholic, surrounded by waves of iridescent silver,   alchemical imagery,   reflections, silver-colored fluid, metallic sheen,  shiny, dynamic pose, fluid movement, floating particles, droplets of mercury, flowing metal,   blending mercury, foreign planet in background, dripping mercury formations, volumetric lighting, cinematic atmosphere,
+sharp details, high detail skin,
+realistic skin texture,
+<lora:lora_perfecteyes_v1_from_v1_160:0.75> perfecteyes eyes

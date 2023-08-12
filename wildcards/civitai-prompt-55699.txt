@@ -1,0 +1,1 @@
+<lora:PhonePic-18:1>, PhonePic, viewer holding phone, <lora:TohruDM-14:0.7>, TohruDM, 1girl

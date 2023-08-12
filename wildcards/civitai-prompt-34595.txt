@@ -1,0 +1,2 @@
+1guy,,neon effect, ultra-wide angle, from above, watching to the sky,
+<lora:cyberhelmetv0.7:0.5> cyberhelmet,  <lora:CyberskullAI:0.7> CyberskullAI, armor,  <lora:add_detail:1>, CR1.3, <lora:neonlight-effect_v1.0:0.5>,  <lora:BokehMecha:0.5>

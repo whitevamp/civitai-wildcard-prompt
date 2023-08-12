@@ -1,0 +1,6 @@
+\(Style\): { (flat_color, masterpiece:1.2, best quality) },
+\(Composition\): { 1girl, solo, cute, mid shot from_side, kneeling, looking up },
+\(Hair\): { long_blonde_hair, wavy hair },
+\(Appearance\): { mature female, princess zelda, nintendo, the legend of zelda, oot, young zelda, slim, slender, fit, small_breasts, flat_chest, blue eyes },
+\(Location\): { outdoors, dreamy autum forest on hills landscape with river in the valley, crystal blue sky, birds flying away }, 
+\(Loras\): { <lora:young_zelda_v1:.8> }

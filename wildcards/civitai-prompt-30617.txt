@@ -1,0 +1,1 @@
+1man, photography, man wear frenchcourtsuit  in palace, silver wig, golden, paintings, ornate, details, ornament, dim light, dawn, bokeh background, <lora:ARWCourtSuit:1> <lora:ARWBedroomGothic:0.6>

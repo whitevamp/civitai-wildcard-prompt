@@ -1,0 +1,2 @@
+((( splash of paint))) Colorful, beautiful cat lady, splash, disembodied head, Black ink flow, photorealistic, intricately detailed, fluid gouache, calligraphy, acrylic, watercolor art, 8k concept art, intricately detailed, complex, elegant, expansive, fantastical, (style-paintmagic) <lora:more_details:0.8> <lora:painted clothes5:1>  BREAK
+(style of Kim Keever:1.2),  (cat), disembodied head, photorealistic, intricately detailed, 8k concept art, intricately detailed, complex, elegant, expansive, fantastical

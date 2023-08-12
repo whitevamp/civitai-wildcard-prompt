@@ -1,0 +1,3 @@
+nsfw, realistic,
+<lora:Merribit_Stapleton_GUNDAM_IBO-KK77-V1:0.55>,jewelry, earrings, necklace, blonde hair, blue eyes,short hair, breasts, large breasts, huge breasts, curvy, milf, mature female,
+<lora:coveringV2:0.8>, embarrassed, blushing, covering breasts, covering crotch, wet, sweat, nude, exposed breasts, exposed,

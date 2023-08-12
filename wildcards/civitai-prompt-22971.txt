@@ -1,0 +1,1 @@
+(AS-YoungV2:1), <lora:more_details:0.6>,  multiple girls dressed in business suits sitting in sofa pulling their suits open exposing their breasts and smiling at viewer, breasts, <lora:pulld:0.8> <lora:harem_4:0.5> <lora:ClothingAdjuster2:-0.3> <lora:unhorny_v01:-1>

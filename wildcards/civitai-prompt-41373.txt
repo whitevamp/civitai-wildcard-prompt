@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),edgQuality
+smiling,smug,
+edgHL,hentai_lingerie, 1girl, solo, long hair, breasts, looking at viewer,hair ribbon,corset, blush, smile, grey hair,green eyes, large breasts, simple background, thighhighs, navel, underwear, purple eyes, collarbone, panties, cowboy shot,  bra, highleg panties, purple panties, purple thighhighs, purple bra ,wearing edgHL
+<lora:edgHentai_Lingerie1:0.85> <lora:elie-ver2-nv-lightbaked-v1:0.5>

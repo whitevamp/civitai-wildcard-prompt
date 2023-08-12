@@ -1,0 +1,1 @@
+pixel, pixel art, 1girl, brown hair,  brown hoodless jacket, body, smile,  <lora:pixel_f2:0.5>

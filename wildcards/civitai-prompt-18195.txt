@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), (1 girl, nude:1.4), (pouting, sulking:1.3), (cross her arms:1.2), <lora:Waifu_pouting-000002:0.35>, <lora:Luocha_fm_v11:0.7>, luocha, blonde hair, long hair, white pants

@@ -1,0 +1,3 @@
+<lora:skirt_tug_v0.1:1>
+1girl, clothes tug, full body, skirt, wind, wind lift, leaf, 
+<lora:sono-bisque_v4.0b:1> kuroe shizuku,, masterpiece, best quality, highly detailed

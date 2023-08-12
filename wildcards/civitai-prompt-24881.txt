@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format,  (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman,  yellow eyes, dark red messy hair,
+ solo, upper body, looking down, detailed background, detailed face, (<lora:GothicHorrorAI:0.5>, gothichorrorai, gothic theme:1.1) vampire,  vampiric,  vampire fangs,  vampire clothes, hooded, cape,  necklace, menacing posture, evil expression,  haunting,  otherworldly aura,  red glow,   forest in background, red moon, dark clouds,   fog, shadows, eerie atmosphere,

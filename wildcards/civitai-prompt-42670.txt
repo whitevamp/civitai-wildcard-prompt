@@ -1,0 +1,3 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Wide-legged dress pants with a colorful blouse, Baroness, Tall, Toned, Round Face, Olive Skin, Chestnut Hair, Hazel Eyes, Straight Nose, Full Lips, Prominent Chin, Shoulder-Length Hair, Thick Hair, Twisted Bun, soft breasts, Hoop earrings, brown, metallic lipstick, leaning backwards, wearing edgCT, chic top, abs,
+<lora:edg_chicTops_v10:0.6>, edgCT, blouse, choker,

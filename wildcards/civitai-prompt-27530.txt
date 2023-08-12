@@ -1,0 +1,1 @@
+japaninterior, bathroom, bathtub, steam, dim light, ornament, mirror, ornate, detail, traditional, wooden floor,  <lora:ARWJapanInterior:1>

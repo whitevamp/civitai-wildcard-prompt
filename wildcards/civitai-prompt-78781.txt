@@ -1,0 +1,15 @@
+pov, (photo realistic:1.4), (masterpiece, best quality, ultra detailed),[reflections], ultra realistic,
+(best illumination, best shadow, extremely delicate and beautiful), finely detail, beautiful detailed, shiny eyes, shiny skin,
+1girl, 20yo girl, (Increase quality),looking at viewer,
+accent lighting, (backlighting:1.3), professional lighting, light on face, cinematic lighting, bokeh,
+(best quality real texture skin:1.4), finely detailed eyes, finely detailed face, finely quality eyes,
+black hair, hair pulled back, folded tied hair, simple earrings, simple necklace:0.1, mature female,
+angel face, detailed face, cleavage, collarbone, (medium breasts), slim waist, abs, navel, belly fat:0.1, (perfect anatomy), bust body,
+in a blue lush jungle with flowers and birds, blue sky, flower crown, covered nipples,
+(luxurious bodycon dress:1.3), city street at night, cowboy shot,
+(from below:0.2), cameltoe, (spread legs:0.2), (right hand up and hold her hair),
+(bright, smile and happy and tired and sleepy),
+(Increase beauty and gorgeous and sexy:0.1),(PureErosFace_V1:0.6)
+<lora:koreanDollLikeness_v15:0.2>
+<lora:japaneseDollLikeness_v10:0.1>
+<lora:taiwandolllikenessV20_v20:0.1>

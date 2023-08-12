@@ -1,0 +1,1 @@
+sinsya, 1girl, lantern, solo, chinese clothes, hair ornament, long hair, looking at viewer, hanfu, brown eyes, detailed eyes, black hair, paper lantern, bangs, holding , <lyco:[LoHa] Sinsya辰砂しんしゃ Concept (With HD dataset& noise version):0.6>, chinese architecture, CNoperaCostume, CNoperaFlag, CNoperaHeaddress, <lora:ChineseoperaV1.0:1>,

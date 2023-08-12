@@ -1,0 +1,4 @@
+Photo of a slender female cyborg smiling in her bedroom with red lips, short hair, and cat ears, with screens in the background, sitting on the bed.
+(robot:1.3), kawaiitech, pastel colors, metalic reflection, (plush toys:1.2).
+bra, thong, bow tie.
+<lora:KawaiiTech:1.0>

@@ -1,0 +1,6 @@
+Subtle narrative, enigmatic atmosphere, atmospheric perspective, fluid movement, ethereal quality,
+1girl,solo,
+bar,
+Time,
+Cool Ambiance, Frozen Hues, Crisp Illumination,
+<lora:oc_v10:0.3> <lora:LowRAv2:0.5>

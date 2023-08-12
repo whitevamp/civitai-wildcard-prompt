@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), professional artwork, highly detailed, intricate, colorful, vibrant image, sharp focus, trending on pixiv
+Ingrid, solo, mature female, 40yo, milf, curvy, (dark skinned female:1.15), dark skin, sitting on bench, spread legs, night, city lights, park, (scowl look:1.25), looking at viewer, full body shot,
+pink hair, very long hair, forehead, hair intakes, purple lipstick, black eyeshadow, makeup, (mole under mouth:0.7), yellow eyes, perfect eyes, perfect face, ultra detailed hair, detailed face,
+business suit, (mini skirt:1.1), (court shoes:1.03), lace panties,
+large breasts, covered nipples, nipple slip, areola slip, cleavage,
+<lora:Ingrid:0.83> <lora:MakaiKishiIngrid:0.6>

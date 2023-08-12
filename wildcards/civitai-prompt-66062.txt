@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close up,
+1girl, momo velia deviluke, hair ornament, bob cut, short hair pink hair, purple eyes, medium breasts, yellow school uniform, looking at viewer, classroom, (blush:1.2), smile,
+<lora:Kizuki - To Love Ru - Momo Velia Deviluke:0.8>

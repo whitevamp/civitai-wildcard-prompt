@@ -1,0 +1,1 @@
+yangmi,(masterpiece, best quality:1.2), traditional chinese ink painting, modelshoot style, peaceful, looking at viewer, hanfu, willow tree in background,early youth, sword,strapless <lora:chinadolllikenessyangmi_v10:0.8> <lora:cuteGirlMix4_v10:0.2> <lora:Moxin_10:0.6> <lora:Moxin_Shukezouma11:0.3>

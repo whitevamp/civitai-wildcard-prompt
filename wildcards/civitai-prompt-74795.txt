@@ -1,0 +1,7 @@
+<lora:onOff3:1>,ONOFF,side-by-side photo of STEWARDESS ,
+nsfw,best quality ,masterpiece,ultra high res,(photo realistic:1.4),looking at viewer, (smile:1.2),1girl,25yo,(squatted in front of the seat:1.2),fullbody,
+in airplane,row of seats,
+japanses famous actress, very beautiful,kawaii,(huge breasts:1.2),horizontal French twist hair,dark color hair,
+STEWARDESS,DARK BLUE UNIFORM,GARRISON CAP,
+break Cinematic, 35mm lens, f/ 1. 8, accent lighting, 8k, <lora:aeroflot_2LYCO:1> ,(beautiful nipple:1.2),
+<lora:Bukkake:0.8>,(BUKKAKE:1.1),CUM,(SEMEN:1.1),FLUIDS,SALIVA,EJACULATION

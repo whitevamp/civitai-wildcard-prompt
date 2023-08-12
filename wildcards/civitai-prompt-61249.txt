@@ -1,0 +1,7 @@
+(Masterpiece, Best Quality, High Quality, Highres:1.4), Detailed, Extremely Detailed, Ambient Soft Lighting, 4K, Ornate,
+Indoors, (Renaissance, Vintage:1.4), Plants, Window,
+(1boy,smile,breast grab,arm over shoulder,manly, muscular male, ugly man,old man),  <lyco:conceptBreastGrabOver_v11:1> <lora:uglyBastard_v54a:0.7>
+(1girl, (Milf:1.2), Standing,
+(Extremely Detailed Hair:1.2), Blonde Hair, Long Hair, Long Sidelocks, Bangs, (Hair Intakes, High Ponytail:1.4),
+(Extremely Detailed Eyes:1.4),  (Red Eyes,Angry, Contempt, Disgust,Glaring back :1.2),Curvy, Gigantic Breasts, Skindentation,
+(Tiara:1.2), Crown, (Cleavage,areola, Strapless, Red Dress,Low cutout,  Frilled Dress, Long Skirt, Puffy Skirt, Puffy Sleeves, Juliet Sleeves, Long Sleeves:1.2), Jewelry),

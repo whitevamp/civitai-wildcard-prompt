@@ -1,0 +1,2 @@
+(Realistic painting style:1.0), (faux traditional media:1.0), masterpiece, best quality, soft lighting, absurdres, looking at viewer,
+closed mouth,  <lora:Z_RaidenShogun-HandsFix:0.7>,

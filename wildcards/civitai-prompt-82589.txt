@@ -1,0 +1,10 @@
+(masterpiece, best quality, high quality, highres:1.2), ultra high res, absurdres, sharp focus, detailed,
+from side, cowboy shot,
+(1boy:1.1), penis, (fellatio, oral, irrumatio, sidefellatio:1.1),
+kneeling,
+1girl, (light blonde hair:1.1), (medium (long:0.6) hair:1.1), (single:1.1) (small:0.8) ahoge, (blue eyes:1.1), thick eyelashes, (finely-detailed eyes:1.1), sharp pupils, (angry:1.3),
+(pink jacket:1.1), white shirt, star-shaped necklace, jeans, medium breasts, glossy lips, pink sneakers,
+defined pupils, finely-detailed eyes, (looking upwards:1.1), arms down,
+perfect hands, skinny, detailed skin, shiny skin,
+indoors, convenience store,
+detailed background, brilliant colorful, subsurface scattering, volumetric lighting, extremely detailed <lora:SideFellatio:1>

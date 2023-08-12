@@ -1,0 +1,3 @@
+<lora:miyamoto_rei_v1.5:1> 
+miyamoto rei, school uniform, torn clothes, street, night, fleeing, white shirt, green skirt, 
+<lora:zombie_v1.3:0.8> multiple boys, zombie,, masterpiece, best quality, highly detailed

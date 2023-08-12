@@ -1,0 +1,3 @@
+masterpiece,best quality,highres,close-up,onsen,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,mature female,elf,white hair,short hair,braid,green eyes,excited,endured face,breasts,breasts out,(paizuri:1.2),nude,<lora:pzuri:1>,1boy,penis,

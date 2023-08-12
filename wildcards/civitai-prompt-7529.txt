@@ -1,0 +1,1 @@
+(mature woman:1.2), solo, long hair, yellow eyes, big breasts, (pale skin:0.9), (white woman:1.1) <lora:add_detail:0.6> ((masterpiece)), (high quality), (best quality), (detailed), hd, perfect lighting, detailed face, detailed body,  <lora:ZebraStyle:0.8>, zebra print

@@ -1,0 +1,2 @@
+<lora:add_detail:0.5><lora:epiNoiseoffset_v2:0.8><lora:3dcharacter:0.6:MIDD>
+3dcharacter, Dove Cameron as wonder woman, (red and blue costume, full body:1.2), (tiara:1.2),

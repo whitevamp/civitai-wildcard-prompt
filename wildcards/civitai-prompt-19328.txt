@@ -1,0 +1,2 @@
+<lora:adjusting_clothes_ass_v0.1:1.2>, masterpiece, best quality, highly detailed, adjusting clothes,
+1girl, ass, <lora:sono-bisque_v4.0b:1> rizu-kyun, bedroom, on bed, bent over,

@@ -1,0 +1,1 @@
+1girl, <lora:ironcatlora1Artoria_v10:0.7> (armor:1.2), outside, grass, tree, <lora:karyl_v1:1> karyl, hair bow, low twintails, red bow

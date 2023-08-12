@@ -1,0 +1,3 @@
+(masterpiece, best quality, detailed), 1girl, solo, outdoors, night, torii, shrine, east asian architecture,
+standing, contrapposto, headpiece, smile, open mouth,
+shuten douji, ((madoka outfit)) <lora:MadokaCostumePackV1_2:1>  <lora:more_details:0.3>  <lora:ShutenDoujiV11-000003:1>

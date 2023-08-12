@@ -1,0 +1,3 @@
+in_prison, prison bars (reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, extremely beautiful detailed face, best shadow, 8k, 
+medium breasts, looking at viewer, on floor, prison clothes, 
+AS-Adult, <lora:add_detail:0.6>, <lora:in_prison:1>, <lora:LowRA:0.7>,

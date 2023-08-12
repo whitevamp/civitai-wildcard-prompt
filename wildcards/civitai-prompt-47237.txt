@@ -1,0 +1,1 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) ,(1man:1.6), (muscular:1.8),solo, floating_hair,glowingeyes,green hair,greeneyes, twintails, halterdress,  atdan, green background, <lora:animeTarotCardArtStyleLora_v20Offset:0.8>,

@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),  <lora:purah-nvwls-v3-final:1>,purah, 1girl, solo, nsfw,from behind, orange leggings pulled down red glasses, hair ornament, white jacket, sleeveless shirt, black skirt, high heelslooking back at viewer,smile,8k wallpaper, detailed village background,<lora:pantPullDownLora_pantpulldownV1:0.5>, detailed pussy,<lora:more_details:0.9>,

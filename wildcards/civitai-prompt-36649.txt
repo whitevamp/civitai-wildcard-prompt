@@ -1,0 +1,1 @@
+realistic, detailed, best quality, masterpiece, 1 boy, RAW portrait of a man posing for a photo in the middle of a city street, city, centered, facing viewers, day, day time, blue sky, clouds, natural lighting, festive atmosphere, intricate details, detailed background, signs, lights, billboards, <lora:add_detail:0.5>,

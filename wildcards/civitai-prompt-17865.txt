@@ -1,0 +1,5 @@
+FGO1, 1stClothing, 1girl, solo, huge breasts,
+lifelike,
+beautiful and aesthetic, masterpiece, best quality,
+Enchanting Ambiance, Whimsical Beauty, Radiant Illumination,
+ <lora:FatePassionlip:0.85>

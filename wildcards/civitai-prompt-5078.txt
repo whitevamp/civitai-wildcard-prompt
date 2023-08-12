@@ -1,0 +1,2 @@
+Photo of cammyst with her long blonde hair, blue eyes, and a green leotard, standing confidently while wearing a beret and sporting a stylish braid, looking directly at the viewer. she is striking a powerful pose amidst the ancient temples of Thailand, with vibrant lanterns and ornate architecture in the background. 
+ <lora:cammyst:0.6>

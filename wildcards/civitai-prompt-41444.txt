@@ -1,0 +1,5 @@
+1 girl, 15yo, solo, white hair, long hair, lady shirt, butterfly bowtie, pleated skirt, black tights, strap shoes, throne, medieval castle, pink flowers, night sky, stars, wide angle, realistic, beautifully detailed background, depth of field, HDR, ambient light.<lora:xk_20230628160345:0.4>
+<lora:mocha style:0.4>
+<lora:LECO_LessCrotch:0.2>
+ <lora:add_detail:0.5>
+ <lora:plana:0.4>

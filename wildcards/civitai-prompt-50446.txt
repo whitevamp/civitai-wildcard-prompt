@@ -1,0 +1,7 @@
+1  giant battle super robot,  glowing eyes, wing, firing lase beams,  upper body portrait 
+battlefield, sun, sunlight, blue sky, high contrast
+mech heavy armor, dynamic pose, backpack, fighting, firing, weapons, missiles, damaged, upper body close up shot
+smoke, dust, fire
+anime, motion lines, blurry, highres, extremely detailed, solo, sharp focus, cinematic lighting,
+
+<lora:epiNoiseoffset_v2:1>  opt-6000

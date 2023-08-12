@@ -1,0 +1,1 @@
+<lora:denim_shorts_v0.2:1> high-waist shorts, from behind, cutoffs, oversized shirt, (CatherineVG), <lora:catherineCatherine_v10:0.7>,, ((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1.5>,

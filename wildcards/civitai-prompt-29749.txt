@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:rosa-nvwls-v1:0.8> rosafarrell, 
+ <lora:plaguemarine:0.8> plaguemarine, green armor, skull, slime,

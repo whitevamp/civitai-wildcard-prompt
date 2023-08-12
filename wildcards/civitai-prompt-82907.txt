@@ -1,0 +1,4 @@
+soyjaks, (2girl, duo,open mouth, :o, pointing)  <lora:soyjaks:0.8>
+masterpiece, highest quality, best quality, hair bow, 
+masunya, cat ears, (purple skin color:1.1),  <lora:my_LoRA_masunya_v3:0.3>
+lozhkin, big smile, open mouth, accurate teeth with gaps, <lora:lozhkin_V1:0.3>

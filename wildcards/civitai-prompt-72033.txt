@@ -1,0 +1,1 @@
+absurdres, best quality, masterpiece,1girl, very short hair, pixie cut, (muscular:0.75), <lora:Bodypaint-000012:0.5>, <lora:tattoo_lora01:0.5>, tattoo, bodypaint, from behind, full body,

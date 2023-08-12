@@ -1,0 +1,7 @@
+(a 22 age girl),  <lora:nwsjmajic-05:0.85>,<lora:Elegant hanfu ruqun style:1>,full body, solo, 
+(ultra high res,photorealistic,realistic,best quality,photo-realistic), 
+(8k, raw photo, best quality, masterpiece),
+(photon mapping, radiosity, physically-based rendering,automatic white balance),
+(technological sense, best quality, masterpiece,unity,wallpaper, official art, Amazing, finely detail, an extremely delicate and beautiful,extremely detailed, highly detailed, sharp focus),
+(real person,photograph),
+rich background,

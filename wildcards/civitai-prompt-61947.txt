@@ -1,0 +1,1 @@
+masterpiece, award-winning, perfect image, perfect face, (sfw), a face-focus photo of Hideo Kojima in the style of Yoji Shinkawa <lora:Style-ShinkawaYoji:0.9> <lora:Character-HideoKojima:0.6>

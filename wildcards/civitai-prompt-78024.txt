@@ -1,0 +1,1 @@
+masterpiece, best quality, renne_sen3, hair ribbon, black jacket, purple shirt, short sleeves, white skirt, from above, ahetobleh, closed eyes, hands on own head, night, moon, rooftop <lora:ahetobleh-nvwls-v2-000010:0.8>  <lora:renne-nvwls-v1:0.9>

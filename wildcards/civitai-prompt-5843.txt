@@ -1,0 +1,14 @@
+M1lly4c0k2222,(sks woman:0.6), woman,  adult,  nude,   brown hair,  shoulders,  scared, ,makeup, ((shortstack:1.2)), (skindentation:1.3), (blush:1.4), flat chest, looking at viewer,   (arms extended up:1/3), 
+half body,eyes closed
+RSEEmma, wet skin, shiny skin, 
+ messy  hair, wet hair, long hair, blond hair, 
+restrained,
+portrait, (realistic:1.1), ankymoore,  masterpiece), (best quality:1.2), absurdres, intricate details,   (masterpiece, best quality), intricate details, 
+(vore:1.2,  scared, tears, restrained),
+white slime \(substance\),(inside creature:1.9), dripping, wet, (being swallowed:1.8), ,trapped,  tight,skin , , 
+body horror,
+ dewdrops, drops,   tied, tentacle ropes, 
+ back lit, 
+<lora:ankymoore:0.41> 
+ <lora:jkUnderwaterShot:0.2> <lora:reelunderwater:0.2>underwater,
+ <lora:inside_creature_v0.1:0.95> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.75> <lora:zovyaWetHairLORA64_V1:0.2> <lora:uv:0.78> <lora:LowRA:0.66>  <lora:Bodypaint:0.55>  <lyco:locon_millyalcock_v1_from_v1_64_32:0.54>  <lora:bodhor:0.3>

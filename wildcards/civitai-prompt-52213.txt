@@ -1,0 +1,4 @@
+(masterpiece, best quality :1.5),beautifully painted, highly detailed, 
+1girl,beautiful eyes,
+<lora:chara_Gundam_Miorine3:1>,  miorine rembran, miorine1,solo, long hair, grey eyes, grey hair, ahoge, seamed legwear, bangs, hair between eyes, black pantyhose, floating hair, nude ,nipple,pussy,bare shoulders,crossed legs, 
+dynamic light,deep shadows,bright,vivid color,

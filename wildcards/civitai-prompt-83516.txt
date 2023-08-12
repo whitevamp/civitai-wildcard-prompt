@@ -1,0 +1,1 @@
+beautiful illustration, petite,best quality, cute girl,blonde long hair,nature,bright lighting, <lora:add_detail:0.5> <lora:lolitaFashionDress_floral_style3:0.7>

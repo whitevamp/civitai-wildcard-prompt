@@ -1,0 +1,2 @@
+3dmm,girl holding cat, cat ears, chibi, blue, gold, white, purpple, dragon scaly armor, forest background, fantasy style, (dark shot:1.17), epic realistic, faded, ((neutral colors)), art, (hdr:1.5), (muted colors:1.2), hyperdetailed, (artstation:1.5), cinematic, warm lights, dramatic light, (intricate details:1.1), complex background, (rutkowski:0.8), (teal and orange:0.4), colorfull, (natural skin texture, hyperrealism, soft light, sharp:1.2), (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), white hair,
+<lora:3DMM_V12:1>

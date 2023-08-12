@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:annetakamakitest:0.8> anne takamaki, blonde hair, blue eyes, hair ornament, hairclip, long hair, swept bangs, twintails, wavy hair
+ <lora:ChinaDressSideless:0.8> china dress, blue dress,

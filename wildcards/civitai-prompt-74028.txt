@@ -1,0 +1,1 @@
+grainy, <lora:FilmG4:1> , filmg4, detailed, natural lighting, dark lighting, dynamic lighting, cat, menacing, looking from inside bush, red glowing eyes, <lora:m0nst3rfy3(0.5-1)M:1>, m0nst3rfy3,

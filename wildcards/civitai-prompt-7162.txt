@@ -1,0 +1,2 @@
+<lora:Mix patterns_20230613233118:1>,mix patterns, <lora:shuihu2:0.0.6>, Masterpiece,best quality,Master,extremely detailed CG unity 8k wallpaper,ultra-detailed,detailed background,Caustic,dynamic angle,beautiful detailed glow,beautiful detailed face,beautiful detailed eyes,good anatomy, (bokeh), (sharp focus),
+upper body,1boy:1.5),standing,looking at viewer, Ancient Chinese, armor,

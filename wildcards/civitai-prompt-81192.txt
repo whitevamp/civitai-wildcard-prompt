@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 
+ <lora:NamiLoL:0.8> nami, mermaid, monster girl, blonde hair, colored sclera, black sclera, red eyes, orange eyes, helmet, jewelry,

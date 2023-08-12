@@ -1,0 +1,3 @@
+(breasts on glass:1.5) <lora:breasts_on_glass:1>,  masterpiece, high quality, absurdres, 4k, pixel-perfect duplicate, bathroom, (((breast press against glass))), against glass:1.5, tifa lockhart, final fantasy vii remake, black hair, breasts, ultra detailed eyes, (((beautiful detailed red eyes))), dress, large breasts, long hair, looking at viewer, purple dress, solo, crescent earrings, lingerie, negligee, official alternate costume, very short dress, (tifa lockhart's refined dress), ((masterpiece)), blush, wet, bathing, wet clothes, wet body,
+ <lora:tifa_lockhart_offset:1>
+ <lora:add_detail:1>

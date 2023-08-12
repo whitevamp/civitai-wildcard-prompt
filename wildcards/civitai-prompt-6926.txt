@@ -1,0 +1,1 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.30),8k uhd, dslr, soft lighting, high quality, film grain,, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality,(autumn day ),lady ,necklace ,eardrop, (flower)<lora:add_detail:1>, <lora:FilmVelvia2:0.4>, stunning environment ,vibrant colors,soft lighting

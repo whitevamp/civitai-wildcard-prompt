@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,         <lora:EnvySorceress:0.8> witch, black hair, red eyes,
+ <lora:Demifiend:0.8> dftattoo,   torn robes <lora:EnvyBeautyMix04:0.8> <lora:Torn:0.5> torn clothes,

@@ -1,0 +1,9 @@
+best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, warm color, (nsfw:1.2),
+((nude)),
+1 girl,
+leopard print underwear, bending over,
+large breast, chocker, large ass,
+warm lighting, tied hair, 
+ass view, view from behind, 
+(lifelike rendering, immersive atmosphere, moody lighting, glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),
+<lora:Cute Asian Face:0.4>

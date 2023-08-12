@@ -1,0 +1,7 @@
+((black hair),ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom, perfect face,(young:1.5),(hi-top fade:1.1),(Voluptuous),(1girl, woman, solo, sexy, gorgeous, elegant, (slim:1.2), (nsfw, naked, nude), red eyes, eyelashes, puffy lips, parted lips, red hair, hair over one eye, straight hair, makeup, smooth body, soft skin, large breasts, bare breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+hand on own head,
+BREAK
+concrete wall,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details, <lora:kafka-v2-naivae-final-6ep:0.65>

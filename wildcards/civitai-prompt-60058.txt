@@ -1,0 +1,1 @@
+best quality,many details,4k,isometric city, on top of a mirror against a paleblue sky,surrounded by flowers,blender,octane render,C4D,transparent glass texture,blue|green,frosted glass,transparent technology sense, industrial design,white background,studio lighting, sunshine,flat, minimal,quasi-object,axisymmetric <lora:ddiconLora_v20:1>

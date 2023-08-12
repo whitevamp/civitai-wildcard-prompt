@@ -1,0 +1,4 @@
+(masterpiece, best quality, intricate details, chromatic aberration), (realistic),(skin),( long legs:1.2),no panties,no bra,
+, ((intricate detailed)), ((Hyperrealistic)), absurd res, milf,  perspective, highly detailed, illustration, big breasts, perfect hands, detailed fingers, beautiful detailed eyes, long hair, brown eyes, nametag, neck collar, earrings, detailed background, perfect eyes, seductive eyes,
+<lora:odanon-lora-v1-128dim-4ep-novae:0.2> ,<lora:add_detail:1>, (1 gorgeou beautiful 30 age years old sexy korean women:1.1),(kpop idol, korean mixed),(1girl:1.6), <lora:hipoly3DModelLora_v10:0.2>,colorful hair,
+transparent Biker suit , transparent bikesuit , transparent bodysuit , latex, <lora:bikesuit:0.7>,(white background)

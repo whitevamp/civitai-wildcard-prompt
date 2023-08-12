@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,
+(1girl:1.2),sitting,looking to the side,,ancient_chinese_indoors,(window:1.3),indoors,(courtyard:1.3),sunlight,painting (object),blurry,curtains,tree,plant,see-through,(trees out of the window:1.2),(translucence:1.2),,hanfu,wooden floor, <anci <lora:ancient_chinese_indoors-07:1>,water,lake,lotus,feet,mist,trees,building,(barefoot:1.2),

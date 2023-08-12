@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl,beautiful and aesthetic,deep shadow, dark theme,
+Capture the intensity and raw emotion of the human experience, drawing inspiration from artists such as Francis Bacon, Michal Mraz, Adrian Ghenie, and Ashley Wood,Utilize a dynamic color palette, featuring bold, expressive brushstrokes to create a sense of movement and energy within each composition,Experiment with abstract and figurative elements, juxtaposing the elegance and chaos of the human form and psyche,Incorporate atmospheric effects to heighten the emotional impact and depth of each piece,
+offshoulder,
+<lora:oc_v10:0.2> <lora:LowRAv2:0.2>

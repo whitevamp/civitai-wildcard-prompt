@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close-up, 
+1girl, hasegawa kobato, (flat chest:1.1), blonde hair, twintails, long hair, (heterochromia:1.2), dress, hairband, looking at viewer, indoors, smile,  stuffed animal,
+<lora:Kizuki - Haganai - Hasegawa Kobato:0.95>

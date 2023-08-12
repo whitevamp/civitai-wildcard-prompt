@@ -1,0 +1,5 @@
+woman, realistic, police uniform, policewoman, <lora:fbb-000008:0.7> ((travel attendant,stewardess) ),(smiling:1.1),(shiny skin:1.1),blush,
+(looking at viewer),
+
+( on bench, ,hand on own head,garden),toned,muscular,stockings,
+, masterpiece, highest quality, highres,absurdres,realistic,

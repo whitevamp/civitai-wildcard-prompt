@@ -1,0 +1,6 @@
+at ruin, illustration , depth of field, bokeh, Rembrandt light, mature, curvy thick MILF, korean woman, (long legs in stockings:1.1), legs spread:1.5, mixed korean, (small tits:1.5), pelvis, (portrait  shot:1.5), (huge juicy hips:1.6), sexy thick thigh, waist to hips ratio, lit by candles,
+(((1girl drow ranger <lora:DrowRanger30CROP:1> , hood, ))) , stockings, 
+blue bra, blue eyes and blonde hair, braids hair, necklace,pout,
+photography, masterpiece, best quality,HDR, highres,realistic details, earrings,
+40K, HDR, highres,
+<lora:LowRA:0.1> <lora:sxz-niji-v2:0.4>  <lora:knight_v4.1SD:0.3>

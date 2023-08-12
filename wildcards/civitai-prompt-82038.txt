@@ -1,0 +1,1 @@
+<lora:dog-20:0.61>, anime portrait of duane with long hair, blonde hair, miami beaches at dawn, big guns, cel shading, cel-shading, anime, sunglasses, orange dougi, ki charge aura, <lora:DBKiCharge:0.51> <lora:SonGokusOutfit:0.51>, supersaiyan <lora:SuperSaiyanHair:0.1>, clenched hands, fighting stance,

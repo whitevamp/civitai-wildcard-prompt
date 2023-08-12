@@ -1,0 +1,1 @@
+portrait, 1girl,  wendyw, striped socks, freckles, white and blue dress, red hair, at a restaurant, windows, supermodel pose, detailed eyes, face focus <lora:wendysGirl_v10:0.64>

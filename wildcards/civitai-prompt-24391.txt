@@ -1,0 +1,7 @@
+(by kenket:0.8) (by photonoko:0.5) (by Arthur Lismer:0.6), (by pixelsketcher:0.4), BREAK,
+
+solo,female (cute:1.1) <lora:master_tigress_v2_PMv1_896:0.6> master tigress, perfect breasts, pink nipples, close-up, transparent pink lingerie, (lying:1.1),
+
+detailed background, outdoors, cinematic lighting, sexy, animated movie, artistic
+
+8k hd, photo, photoreal, (detailed fur:1.1) (furr detail, fluffy:1.1), (big detailed red eyes:1.2) (yellow sclera:1.3), <lora:add_detail:0.3>, depth of field, <lora:povsitting:1> povsitting

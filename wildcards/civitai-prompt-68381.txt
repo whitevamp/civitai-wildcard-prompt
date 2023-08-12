@@ -1,0 +1,1 @@
+<lora:PsyAI_128:1>, PsyAI, cat facing camera, visionary art, forest background

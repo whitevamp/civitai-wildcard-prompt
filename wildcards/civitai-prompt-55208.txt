@@ -1,0 +1,2 @@
+portrait photo, starlight, in a garden, smiling, 4K, HQ
+ <lora:Starlight1:1>

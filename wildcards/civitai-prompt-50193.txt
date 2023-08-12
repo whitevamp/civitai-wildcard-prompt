@@ -1,0 +1,1 @@
+1girl, (helltaker:0.8), best quality, masterpiece, demon, formal, red eyes, red hair,  demon tail, <lora:helltakerLora_10:0.6>, makima \(chainsaw man\),  <lora:makimaChainsawMan_offset:1.3>, office in background

@@ -1,0 +1,9 @@
+(((masterpiece))), (((best quality))),((ultra-detailed)),(cinematic lighting), (illustration), high res, original, extremely detailed wallpaper,     nsfw
+1girl,  large breasts,light smile,
+masterpiece,1girl,solo,blush,  bare shoulders,
+seductive smile,
+1girl,formidableswim,blue_bikini,large breasts, (wet),sea wave
+<lora:FormidableSwimsuit[formidableswim,blue_bikini]V1-000004:0.7>,white_single_thighhigh,,outdoors,(( wariza)),heart-shaped pupils, blush,open mouth,
+beach, nudist beach uniform, beach umbrella, water, waves, 
+ <lora:ahegao_v1:0.4> ahegao, rolling eyes, blush, tongue out, drooling,  saliva, blush ,
+<lora:SelfBreastGrab:0.7>sbg, breast grab, breast lift,nipples

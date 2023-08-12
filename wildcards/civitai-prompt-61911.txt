@@ -1,0 +1,2 @@
+masterpiece, best quality, a_young_girl,realistic, photorealistic,soft_light,cloudy sky,outdoors, city,(upper_body:1.4), <lora:04050143-05:0.6>,<lora:no123Girl_no123:0.5> <lora:shojovibe_v11:0.2> <lora:chicvibe_v100:0.1>
+leica_M1,back_light

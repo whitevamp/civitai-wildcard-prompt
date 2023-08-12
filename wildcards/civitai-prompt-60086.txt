@@ -1,0 +1,1 @@
+Dog laying on a bed <lora:PastelVectorAi:0.7> PastelVectorAi, saturated colors, (Flat vector illustrated:1.3)

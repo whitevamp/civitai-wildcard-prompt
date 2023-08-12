@@ -1,0 +1,5 @@
+best quality, ultra high res, (photorealistic:1.4),prefect anatomy,prefect skin,
+extremely intricate, 8k uhd,
+1girl, solo,sea,beach,sand,
+ breasts, green eyes, solo, black hair,cape,chain,jewelry, 
+ <lora:xiaoji_fengling:0.6:1,0,0,0,0,0,2,0,0.8,1,1,0.2,0,0,0,0,0>

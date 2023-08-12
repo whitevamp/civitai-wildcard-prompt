@@ -1,0 +1,1 @@
+norway, snow, high quality, 8k, realistic, best lighting, detailed, sunrise, utra high res, photorealistic, raw photo, in the style of gravityfalls <lora:gravityFallsStyle_v1:0.5>

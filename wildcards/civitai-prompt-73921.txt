@@ -1,0 +1,5 @@
+(((masterpiece))),(best quality), 1girl,solo, extremely detailed, detailed face,detailed eyes,illustration,2k,(full body:1.2),
+makima \(chainsaw man\),standing, red hair, long braided hair, golden eyes, bangs, white shirt, necktie,(sinister smirk),
+((In the corridor)),looking at viewer, the portrait is centered,(close-up:1.4),upper body,(from above:1.4),(wide-angle lens:1.2),(Fisheye effect:1.1),head sideways,evil,
+<lora:makimaOffset.BPvL:0.7>,,looking at viewer, (bow one's head),(night),(Holding a knife:1.2),
+scared, horrified,(constricted pupils:1.5),(crazy smile:1.2),<lora:Crazy_ExpressionsV2:0.8>,

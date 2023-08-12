@@ -1,0 +1,2 @@
+masterpiece, best quality,highres,perfect lighting,4k,hdr
+(quokka:1.1),aidaishu,hat, <lora:quokka:0.8>

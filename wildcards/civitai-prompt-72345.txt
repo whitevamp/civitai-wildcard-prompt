@@ -1,0 +1,1 @@
+1girl,pneuma \(xenoblade\),  <lora:pneumaNEW30_1.0_ALL0.5:1>

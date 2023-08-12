@@ -1,0 +1,8 @@
+red leaf,  
+1girl, solo, 
+red eyes, black hair, mole under eye, (freckle:0.6), lips, eyebrows,red lips, 
+ (braid:0.5), 
+hanfu, 
+night, 
+architecture,building, 
+ <lora:add_detail:-0.3>,   <lora:Isometric_Chinese_style_architecture_v1:0.9> <lora:SilvermoonMix04:0.85>

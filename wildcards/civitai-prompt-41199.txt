@@ -1,0 +1,2 @@
+((nude:1)),(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl):1.9,riding Giant Rooster,extreme detailed,
+ shiny glossy skin, subsurface scattering, (sharp:0.7), [(colorful explosion psychedelic paint colors:1.21)::0.05], amazing fine detail, Nikon D850 film stock photograph Kodak Portra 400 camera f1.6 lens, rich colors, lifelike texture, dramatic lighting, dynamic composition, unreal engine, trending on ArtStation, cinestill 800 tungsten <lora:noribs_v11:1.2>

@@ -1,0 +1,4 @@
+Exceptional detail, stunning visuals, lifelike rendering, crisp textures, high contrast, chiaroscuro, dramatic lighting, immersive atmosphere, true-to-life,
+classic elegance, enduring grace, timeless appeal, vintage charm, ageless allure, timeless sophistication, traditional finesse, enduring allure,
+1girl,solo,half naked,cleavage,
+<lora:lowra_v10:0.6>  <lora:oc_v10:0.23> <lora:girlfriendmixV1_v20:0.8:FACE0.5>

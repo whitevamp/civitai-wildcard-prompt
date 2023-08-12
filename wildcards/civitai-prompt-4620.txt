@@ -1,0 +1,7 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:RavenTT-000007:0.7> RavenTT, pouting, hands on hips
+yellow leotard, logo on chest, yellow gloves, yellow boots
+<lora:hyouka_offset:1> hyouka
+BREAK
+indoors, gorgeous view

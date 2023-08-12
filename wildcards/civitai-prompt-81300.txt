@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+monochrome, lineart, comic, cross-section, manga \(object\), left-to-right manga,  MangaHentaiStyleConceptv2
+  nude,  blushing, surprised, spoken !
+ <lora:mumei:0.8> nanashi mumei, shirt, corset, cleavage cutout, skirt, single thighhigh, cloak, ribbon, ponytail, very long hair, hairclip, feathers, knife, belt, partially fingerless gloves,

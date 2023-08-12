@@ -1,0 +1,8 @@
+delicate, masterpiece, beautiful detailed, finely detailed, intricate details,detailed lips,elegance,(1 girl),solo, (a beautiful 30 age years old sexy Korean girl), instagram, (kpop idol, korean mixed), (photograpy:1.1), (photorealistic:0.8), sexy smile, (slim girl:1.75),
+looking_at_viewer,
+kamisato ayaka (heytea), kamisato ayaka, official alternate costume, ponytail, serafuku, blunt bangs, hair bow, black bow, hair ribbon, red ribbon, school uniform, sailor shirt, sailor collar, pleated skirt, grey eyes, light blue hair, mole under eye, (pantyhose), (white hair:1.4),
+(glowing),(cbpk),ornaments, mechanical arms, synthetic skin, porcelain, (pearl), holographic, titanium, (diamond), (ruby), (sapphire), (gemstones), 
+night, outdoors,outdoor, only 1 moon, moonlight, huge moon on coastline, sky full of stars, over looking Oia night, (Oia night wallpaper), busy house lights, busy background, (( Greece Oia background )), (pureerosface_v1:0.6),
+<lora:add_detail:0.4> <lora:LowRA:0.2> 
+<lora:kamisatoAyakaSpringbloom_v10:0.5> 
+ <lora:tutu_20230530092930:0.7>  <lora:cbpk_20230604161353:0.5>

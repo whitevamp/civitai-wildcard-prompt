@@ -1,0 +1,6 @@
+(photorealistic:1.4),best quality, ultra high res,
+4k, instagram, 
+higly detailed,
+blue hair,ponytail ,silver dress, Louis,(luxurious wheels\) \(azur lane\),hair ornament, earrings, blue nails, pink eyes, 
+VirtualGirl-Aim, medium breasts, long hair, crystal pendant,
+<lora:virtualgirlAim_v20:0.5> , <lora:stLouisLuxuriousWheels_v1:1>

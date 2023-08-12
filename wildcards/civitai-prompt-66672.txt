@@ -1,0 +1,1 @@
+masterpiece, best quality, 8k, super detailed skin, perfect anatomy, looking off into the distance, bored, cute, 1girl, beautiful short hair, wearing rash guard, a secret government facility hiding a monster, <lora:cuteGirlMix4_v10:0.2>, <lora:NaganoS:0.2>, <lora:flat2:-0.5>

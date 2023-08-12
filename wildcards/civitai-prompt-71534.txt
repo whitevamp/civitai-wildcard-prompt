@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,  <lora:onepiece_sadi-chan-10:0.8> sadi-chan, hair over eyes, horns, revealing clothes, underboob, cape, jewelry, earrings, 
+ <lora:squeezerExperimental_:0.8>

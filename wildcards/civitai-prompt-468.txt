@@ -1,0 +1,2 @@
+best quality, masterpiece,  
+<lora:kamado_nezuko_offset:1> ,kamado nezuko, (bit gag, gagged:1.3), brown hair, checkered sash, gradient hair, hair ribbon, haori, japanese clothes, kimono, long hair, multicolored hair, orange hair, pink eyes, pink kimono, pink ribbon, ribbon, horn,<lora:teri:1.0> teriderp, chibi, running

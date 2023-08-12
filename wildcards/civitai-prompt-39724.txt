@@ -1,0 +1,3 @@
+masterpiece, best quality, dim lighting, cowboy shot, 1girl, medium breasts, blonde hair, long hair, white stockings, (squat on the table:1.2), spread legs, smile seductively,
+ <lora:covering_breasts_v0.1:0.5>, covering crotch, covering breasts,
+(in the office:1.2)

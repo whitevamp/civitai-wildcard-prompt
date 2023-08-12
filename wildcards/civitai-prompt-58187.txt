@@ -1,0 +1,5 @@
+lucy \(cyberpunk\), 
+
+1girl, alternate costume, animal ears, asymmetrical hair, bangs, bare shoulders, black leotard, blue hair, blush, breasts, cleavage, cyborg, detached collar, fake animal ears, fingernails, gradient hair, green hair, hair ornament, highleg, highleg leotard, leaning forward, leotard, lips, looking at viewer, medium breasts, multicolored eyes, multicolored hair, orange hair, parted lips, pink hair, playboy bunny, purple hair, rabbit ears, rabbit tail, shadow, shiny clothes, shiny skin, short hair, simple background, solo, strapless, tail, thighs, white background, wrist cuffs
+
+<lora:lucy_offset:1>

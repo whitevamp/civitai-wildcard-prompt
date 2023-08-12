@@ -1,0 +1,8 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), soft light, night light, slim,raw photo,
+ass up wait, (photorealistic:1.6), 
+short hair, black hair, tights, ((ponytail)),
+facing away, (sport school uniform:1.2),
+fit ass, ((upskirt)),
+(((crowded classroom:1.4))),  
+nsfw,
+ <lora:ass_up_wait.v1.3-sd:0.45>

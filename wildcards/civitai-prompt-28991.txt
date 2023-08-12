@@ -1,0 +1,1 @@
+robot, simple_background, artist_name, english_text, 1girl, pet robot, still_life, vintage ad style, <lora:ad:1>, (masterpiece:1.1), (best quality:1.1), beautiful, unity 8k wallpaper, ultra detailed, beautiful, aesthetic, <lora:add_detail:0.5>

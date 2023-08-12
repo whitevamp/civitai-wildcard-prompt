@@ -1,0 +1,1 @@
+<lora:LowRa:0.8> 250 gto, motion shot, dark theme, (hdr:1.2)

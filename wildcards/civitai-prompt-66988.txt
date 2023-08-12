@@ -1,0 +1,3 @@
+((woman, sitting, close up shot, photorealistic )) true-to-life visuals, artistically refined,captivating beauty, dramatic contrasts,  8k wallpaper, absurdres, incredibly absurdres,  silver helmet
+  gadaxintai gaodanvshen
+  <lora:nvwushen-000006:0.7> <lora:gaodaxintai:0.4>

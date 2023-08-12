@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette,  (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+(1man, masculine adult  male:1.2),  red eyes, brown hair, razor cut,
+style-rustmagic, portrait, solo, upper body, looking down, detailed background, detailed face, ((space_style:0.6), cosmic outer space theme:1.1), warhammer 40k space marine, face, adeptus astartes, wearing black  power-armor, heavy shoulder-plates, bloodied armor, melter weapon, power pack,  technological implants, war-cry,  techmarine, psyker powers,   blood angels chapter, dynamic lighting,  in background, grim-dark atmosphere,
+<lora:BG2_dpep4+silicon29dim64:0.8>,

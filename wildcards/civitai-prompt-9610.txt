@@ -1,0 +1,4 @@
+(masterpiece, best quality,  ultra detailed, high resolution, 4k, 8k, Kyocera Finecam L4v, Kodak Gold 200, 1ms shutter speed, __photo_angle__:1.2), Beautiful Beach, midsummer
+BREAK
+The world's most beautiful girl, bikini, tanned skin
+<lora:more_details:0.3>

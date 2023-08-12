@@ -1,0 +1,1 @@
+masterpiece, best quality, 8k uhd, dslr, RAW photo,Fujifilm XT3,film grain,sharp focus, 1girl,long black hair,huge breasts,white dress,field, natural light,(hair blown by the wind:0.5), (high detailed skin:1.2), cinematic lighting, professional colorgraded, extremely detailed,<lora:add_detail:1.0.7>, <lora:ClothingAdjuster3:0.2>, <lora:FilmProvia2:0.6>

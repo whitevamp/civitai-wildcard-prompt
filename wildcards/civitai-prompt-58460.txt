@@ -1,0 +1,4 @@
+golden halo background,
+extremely detailed, 8k, golden armor, wide shoulder pads with red cloth stripts, masculine, ((hecavill:0.9)), lich king, arthas menethil, opposite looking at camera, vaporing powder gold yellow dust,
+unparalleled masterpiece, (best:1.0) (quality:1.0), UHD, volumetric lighting, cinematic lighting, rim light,  lens flares, subsurface scattering, (sharp:1.0) (focus:1.0), Depth of Field, aperture of f/5. 6, ISO 200, shutter speed of 1/125 sec, var-cinematic-fx,
+(style-rustmagic:0.4), (danahamm:0.6), <lora:warhammer40000Emperor_v10:0.6>,  <lora:flatIllustration_flatIllustration:0.2>

@@ -1,0 +1,2 @@
+A photo of a robot girl with long hair wearing a white combat suit with mecha wings, ready to fight in the desert.
+ <lora:aki:0.6>

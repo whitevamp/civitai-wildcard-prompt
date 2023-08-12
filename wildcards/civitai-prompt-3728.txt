@@ -1,0 +1,8 @@
+(1girl),<lora:Colorwater_v4:0.5>, <lora:MoXinV1:0.4> <lora:shukezouma_v1_1:0.3>
+masterpiece, painting,
+water color painting, (shukezouma, negative space:1.6), 
+(MoXin, shuimobysim, ink wash, chinese ink painting:1.6),
+peaceful,facing front
+flower tree branch in background, (song, poem, verse, stamp:1.2),
+WUCHANGSHUO, BONIAN, ZHENBANQIAO, BADASHANREN 
+<lora:hatsunemiku1-000006:0.9>, yukimiku2018,twintails,white hair

@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close-up
+1girl, ikishima midari, short hair, black hair, eyepatch, looking at viewer, red school uniform,  black skirt, classroom, smile, (metal studs), red sweater,
+ <lora:Kizuki - Kakegurui - Ikishima Midari:0.95>

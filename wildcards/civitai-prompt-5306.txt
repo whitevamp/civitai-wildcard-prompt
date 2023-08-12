@@ -1,0 +1,2 @@
+masterpiece, high quality, grainy,
+BREAK <lora:phcrystal:0.75>, cat made out of extremely high quality phcrystal

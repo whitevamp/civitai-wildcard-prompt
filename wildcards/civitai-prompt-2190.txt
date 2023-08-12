@@ -1,0 +1,6 @@
+4K, RAW photo, ultra high resolution, (photorealistic:1.4), extremely delicate and beautiful,
+(best quality, masterpiece:1.2), (extremely intricate details, detailed fingers:1.4), beautiful and aesthetic, (cowboy shot, scenery:1.5),
+((a sense of wonder with atmosphere of the misty)),
+background of a misty swamp, (BREAK misty_field:1.4), BREAK shrouded thick veil of fog, BREAK moss-covered rock, BREAK towering trees rise majestically from the murky waters,
+((from side, profile)), ((head to upper:1.7)), ((nude, naked, nsfw)), walking forward to swamp, gigantic_breasts, (long_legs:1.5), (long hair:1.5), straight hair, barefoot, model,
+<lora:add_detail:1>

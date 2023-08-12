@@ -1,0 +1,1 @@
+ultra realistic 8k cg, masterpiece, (highly detailed, fine details), best quality, <lora:David Martinez:0.7>, 1boy, solo,  <lora:unionsuit_v250:0.3>, sexy pose

@@ -1,0 +1,9 @@
+2girls,multiple 2girls, nsfw, photorealistic, ultra high res, intricate, hyperdetailed, (skindentation),
+cute, feminine, [symmetrical:0.8], detailed body , (detailed face:1.1), (outlined iris),  (hidrocor lenses), (perfect eyes),
+4k, beautiful, (masterpiece:1.2), (best quality:1.2), <lora:eyeLora_eyesV10:0.4>:1.3 ,
+ 
+<lora:bimbostyleThreeU:0.85>
+
+standing at (beach),
+
+a tank top and hotpants made out of spandex and leather

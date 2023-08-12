@@ -1,0 +1,1 @@
+Best quality, ultra high res, (photorealistic:1.4), 1girl, korean girl, elegant dress, (large breasts:1.2), 100mm border light, looking at viewer, closeup, face details:1.2  <lora:KoreaG-01:0.9> <lora:shirtliftv1:1> shirtlift

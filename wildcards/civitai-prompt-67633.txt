@@ -1,0 +1,10 @@
+(((masterpiece))), ((ultra-detailed)), ((an extremely delicate and beautiful)), cinematic light, solo, science fiction, extreme detailed, colorful, highest detailed, (((best quality))),
+(8k, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, beautiful woman, ((detailed pupils)), (angry:1)detailed face and eyes, dark makeup, dark colored lips, (pale skin:1.5), nudeheaddress, best quality,
+tifa, masterpiece, beautiful, 1 character, adult, (mature female), milf, sweat, large breasts, shiny skin, shiny skin, skindentation, very long hair, red eyes,
+///////////
+<lora:tifa_arSphere_mk.03.v6:1>
+///////////
+rawphoto, photorealistic:1.4, masterpiece, 1girl, cute, f/1.4, ISO 200, 1/160s, (large breasts, cleavage, breasts, covered nipples), 8K,
+///////////
+(((masterpiece))), (((best quality))), ((ultra-detailed)), (highly detailed CG illustration), ((an extremely delicate and beautiful)),(from side),cinematic light,((1mechanical girl)),solo,full body,(machine made joints:1.2),((machanical limbs)),(blood vessels connected to tubes),(mechanical vertebra attaching to back),((mechanical cervial attaching to neck)),(sitting),expressionless,(wires and cables attaching to neck:1.2),(wires and cables on head:1.2)(character focus),science fiction,extreme detailed,colorful,highest detailed,
+ <lora:A-Mecha-REN:1>color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor,

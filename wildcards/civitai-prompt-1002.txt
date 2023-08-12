@@ -1,0 +1,1 @@
+,girl sitting cuddle dog, ((dog)), <lora:SweetCandy_Girl_and_dog_v1:0.5>, size difference

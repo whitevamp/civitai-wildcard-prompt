@@ -1,0 +1,2 @@
+<lora:stuck_in_washing_machine_v0.1:0.9>
+1girl, washing machine, ass, princess dress, bent over,, masterpiece, best quality, highly detailed  <lora:princessPeachMario_v10:0.6> peach

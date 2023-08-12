@@ -1,0 +1,3 @@
+real, photoshoot, realistic, luminescent, atmospheric scene, masterpiece, best quality, (detail skin texture, ultra-detailed body:1.1), RAW photo, (high detailed skin:1.2), 8k uhd, dslr, film grain, Fujifilm XT3, cinematic light, a 30yo girl,
+<lora:ridingsexscene_lora_01-000004:0.9>, (angry:1.2), (pain expression:1.5), ridingsexscene, closed eyes, hetero, nipples, breasts, realistic, nude, (open mouth:1.2), medium breasts, arms up, armpits, looking down, from below,
+<lora:add_detail:1>

@@ -1,0 +1,1 @@
+animeR, 1girl, architecture, east asian architecture, green eyes, looking at viewer, smile, solo, standing <lora:animeRv1:0.6>

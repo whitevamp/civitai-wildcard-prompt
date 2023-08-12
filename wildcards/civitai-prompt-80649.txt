@@ -1,0 +1,6 @@
+absurdres, highres, ultra detailed, (1girl:1.3),
+BREAK
+, watercolor style, soft blending, dreamy washes, delicate textures,
+BREAK
+casual style, comfortable clothing
+ <lora:_rL2170:0.5> <lora:flat2:-0.5>

@@ -1,0 +1,1 @@
+derpd, lethal cyborg assassin wearing robes armor, danger, red sky,post apocalypse <lora:derpd - DerpdeedooStyle:0.8> <lyco:EnvyAssassin01:0.7> <lora:nijiarmor:0.6>

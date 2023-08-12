@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:1> <lora:yoneyamaMaiStyle_yoneyamaMaiV2Locon:1> 1 girl, \hatsune_miku\,(depth of field), (colorful hair:1.5), side_angle, masterpiece, best quality, spotcolor, (colorful:1.5), heterochromia, open smile,  <lora:yoneyamaMaiStyle_yoneyamaMaiV1Lora:1>

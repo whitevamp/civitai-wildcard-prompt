@@ -1,0 +1,3 @@
+tarot card, 
+tree in the jungle, flames, 
+psychedelic, magazine ad, advertisement, intricate, detailed, nice frame, <lora:3DMM_V11:0.8>, <lora:add_detail:1> <lora:animetarotV51:1>, <lora:papercut02:0.5>,

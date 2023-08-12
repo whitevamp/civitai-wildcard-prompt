@@ -1,0 +1,6 @@
+((masterpiece,best quality)),the beautiful night sky,moon,shining,stars,twinkling,calm,night,blowing in the wind,
+outdoors,(forest:1.6),sunlight, river, tree, water drop, 
+1girl,flat chest,cowboy shot,curvy,((black nylons), black transparent dress with black laces, transparent dress, super deep v cut, lace chocker, )fox ears,fox girl, fox tails,fluffy tail,white eyes,multicolored eyes,heterochromia,bright pupils, ((very long hair, side braids,black hair, white hair, floating hair,colored inner hair,asymmetrical hair)), fang,black hair ribbon,hair bow,hairclip,mole under eye,white hair flower, flowers,grass, looking at viewer, open eyes,light smile, petals,backlighting,wind lift, from below, white panties, posing, bluish hue, beautiful face, dreamy, official art, (realistic shades), (small hips)
+<lora:oversizedShirt_v10:1>
+<lora:beautifulDetailedEyes_v10:1>
+<lora:mochaBeautifulSky_v10:1>

@@ -1,0 +1,2 @@
+best quality, intricate details, solo, alone, deserted ilsland,
+woman, 1girl forced to walk on a tropical beach, one-piece_swuimsuit, tight clothes, painted clothes,fake clothes,form fitting,swimsuit, bodypaint <lora:painted clothes5-000006:1>, (blush, nose_blush:1.5), ( ashamed, shameful:1.3), collar, shiny, sweat, (v:1.5), cowboy pose, scared expression,<lora:scared-expression-v1.8-000005:0.9>

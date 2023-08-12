@@ -1,0 +1,1 @@
+(best quality:1.2), (masterpiece:1.2), (highres:1.2),(Extreme detail:1.2),1girl,long_hair, (solo:1.7), flower, white_hair,medium_breasts, white_dress,blue_eyes,upper_body,Beautiful face, <lora:epoch-000002:0.8>,black background,

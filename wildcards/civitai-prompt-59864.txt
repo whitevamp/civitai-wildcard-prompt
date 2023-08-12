@@ -1,0 +1,1 @@
+(masterpiece:1.5), illustration, 4k, 8k, (high quality:1.1), highly detailed, HDR, vivid colors, <lora:catmouth:1>, catmouth, ;3, closed mouth, cute face, blush, posing, 1 girl, smug, backlighting, city, night, bokeh

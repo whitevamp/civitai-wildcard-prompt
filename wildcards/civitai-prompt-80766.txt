@@ -1,0 +1,1 @@
+,white ogre fang, <lora:adddetail:1>, beautiful proportion fang,((metallic white ogre fang)), robotic fang details <lora:warframe_v10.5:0.5>

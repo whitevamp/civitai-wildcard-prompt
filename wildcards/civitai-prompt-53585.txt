@@ -1,0 +1,13 @@
+(perfect_finger),(look at viewer:1)
+(bra),close up face,
+,(1girl:1.8),solo,(21 years old pretty korean girl:1.2),(kpop idol:1.2), (korean mixed),small head,
+,black_eyes,detailed eyes,  <lora:smoking:0.6>,(woman with a cigarette in her mouth:1.5),
+
+
+(masterpiece), (best quality:1.2), absurdres
+pale skin, ((perfect female figure)),
+mature female, cinematic lighting,
+(high resolution), (photorealistic:1.4),
+(extremely intricate),(exquisitely detailed),
+highly detailed, highres, original, extremely detailed 8K wallpaper,best quality, illustration,
+detailed face, ultra-detailed, raw photo, realistic

@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.6), <lora:MISC-GlossyFace:0.3>, <lora:MISC-BreastInClass:0.2>,  smile, :),   <lora:CHAR-HatKid:0.6>, Hat Kid, purple hat, top hat, (hourglass:1.2), purple hoodie, school, brown hair, purple clothes,

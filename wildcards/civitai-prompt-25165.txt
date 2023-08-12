@@ -1,0 +1,2 @@
+photo of russian guy talking to bear
+<lora:bss:0.75>

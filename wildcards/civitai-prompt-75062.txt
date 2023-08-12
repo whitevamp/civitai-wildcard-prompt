@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, <lora:zelda_shorthair_v5:0.8>,zelda\(princess\),<lora:cheekpinching-12:1.3>,cheekpinching,cheek pinching, holding,upper body,one eye closed,looking at viewer,pov,smile

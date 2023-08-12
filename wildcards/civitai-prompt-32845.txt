@@ -1,0 +1,2 @@
+(1girl) (digital) (ruin, (latex bodysuit, gas mask)) , best quality, upper body, gas,steam, fog,  Smoke,mist,(light a cigarette in hand:1.2),chemical complex,
+gasmask, <lora:gasmask:1>

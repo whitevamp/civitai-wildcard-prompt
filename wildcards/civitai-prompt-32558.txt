@@ -1,0 +1,4 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,long hair, arms up, navle,bare waist,black panties, light smile,
+indoors, sofa,
+<lora:add_detail:0.6>, <lora:FilmVelvia2:0.4>

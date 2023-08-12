@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, <lora:whiteBodysuit_v15:0.6:OUTD>, white bodysuit,see-through,nsfw, <lora:conceptNippleTagAnd_v10:1:OUTD>, nipple tag, name tag, nipple piercing, sitting, from above, classroom, sweat, black hair, green eyes, arms up

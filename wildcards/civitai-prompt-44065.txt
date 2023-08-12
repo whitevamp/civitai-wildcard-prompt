@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, ultra-detailed, in ballet boots, looking at viewer <lora:l_bbts_raw512_cc:1>

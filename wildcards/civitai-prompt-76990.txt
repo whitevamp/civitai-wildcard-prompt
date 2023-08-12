@@ -1,0 +1,1 @@
+1girl, solo, fish, underwater,looking at viewer, bubble, bangs, coral, , sunlight, air bubble,  ribbon <lora:waterlight-000007:1> <lora:kaltist0-000006:1>

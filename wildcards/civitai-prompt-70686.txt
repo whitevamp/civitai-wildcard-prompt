@@ -1,0 +1,4 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+(organic, geometric, harmonious, kaleidoscopic), urban jungle, mythological creatures, otherworldly, transcendent realms, inner peace, nature's embrace, magnetic allure, dark and mysterious, a cubist perspective, rich textures, art nouveau, by alphonse mucha, jenny saville, hikari shimoda, ai weiwei, banksy, gustav klimt, egon schiele, yayoi kusama, roy lichtenstein, julie mehretu, immersive, play of light and darkness,
+(nsfw:0.9),cleavage,A black and white striped T-shirt and green cargo pants,
+ <lora:oc_v10:0.2> <lora:LowRAv2:0.35>

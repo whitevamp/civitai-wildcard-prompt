@@ -1,0 +1,3 @@
+(masterpiece:1.3),best quality,highres,game cg,nsfw,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1:1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0>,1girl,standing,mature female,elf,white hair,short hair,blush,green eyes,collarbone,medium breasts,nipples,navel,pussy juice,<lora:POVBGV2:0.9:1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0>,((((1boy standing behind this girl,grapping her breasts from behind)))),

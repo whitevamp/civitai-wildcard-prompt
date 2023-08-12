@@ -1,0 +1,1 @@
+(robot leaking acid) <lora:BodHor-V1:0.2> <lora:weirdreelhorror_v1_2:0.05>  disgusting body horror dof, high definition, detailed, intricate, Style-Necromancy best quality, ultra high res, dismembered, gore <lora:add_detail:0.2>   evil by Heather Theurer  <lora:reelhorror2:0.5>

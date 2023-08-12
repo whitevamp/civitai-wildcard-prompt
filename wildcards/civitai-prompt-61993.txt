@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.3>,  (masterpiece), purple hair, long hair, purple eyes, temple background, goddess, <lora:gachaSplashLORA_v40:1>, [(white background:1.5), ::5], (long shot), isometric, full body,<lora:raidenShogunLora_raidenShogun:1.0>

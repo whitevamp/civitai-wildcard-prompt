@@ -1,0 +1,1 @@
+gusfring <lora:GustavoFringDoguMini:0.95> , portrait, holding a (chicken in arms:1.3), glasses, (outdoors:1.2), natural lighting

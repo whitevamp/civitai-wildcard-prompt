@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, ook up to,full body, masterpiece,Black hair, blue eyes, full body, chibi,snow <lora:blindbox_v1_mix:0.9> ,perfect ratio,chin grab, <lora:epi_noiseoffset2:1>

@@ -1,0 +1,13 @@
+beautiful, (masterpiece:1.2), (best quality:1.2),
+perfect eyes, perfect face, perfect lighting, highly detailed, realistic,
+sharp focus, absurdres, ultra detailed,
+1girl, 
+breasts out, breasts, big breasts,
+((((dark skin, dark-skinned female)))),
+(sweaty body, wet body, sweat), ,
+(muscular, muscular female, broad shoulders, abs),
+(sauna,  steam),
+(naked towel, towel, wearing towel),
+looking at viewer, female focus,
+ ((pov, ))
+mirko, <lora:Mirko:0.65>, rabbit ears, rabbit tail, choker,

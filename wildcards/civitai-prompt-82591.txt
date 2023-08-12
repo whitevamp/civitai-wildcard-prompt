@@ -1,0 +1,4 @@
+(full body shot:1.2), bokeh:1.2, outdoors, in stadium, dynamic angle, blonde hair, <lora:AmericanDollLikeness:0.55>,  cheering audiences, running, 
+1 girl,fit, solo,playing american football, (wearing football_uniform:1.3), thick thigh, (((high ponytail))), (((holding football))), 
+big_breasts:1.2, muscle, floating_hair, long hair, tiny_waist, realistic_detailed_skin_texture, long legs, good hands, pefect feet, <lora:football_uniform:0.5>,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, ((Hasselblad photography)),physically-based rendering, professional soft lighting, light on face,<lora:GoodHands-beta2:1.3>,<lora:add_detail:0.4>, <lora:flat:-0.65>,

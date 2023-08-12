@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres:1.4), detailed, extremely detailed, ambient soft lighting, 4K, <lora:celestine-lora-v1.5-naivae-4ep-32dim:0.6>, rolling eyes, ahegao, tongue out, drooling, saliva, sweat, blush, <lora:Ahegaoo:0.6>

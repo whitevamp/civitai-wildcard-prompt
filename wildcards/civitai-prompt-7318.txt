@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 20mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> sitting , bed,  <lyco:FilmVelvia:0.3>, deep shadows, contrast, hands on vagina , mouth open aubreyplazav2-300, <lyco:InsPX:0.2>Military-inspired coat with gold buttons and epaulettes,  (looking at camera , blushing), giggling

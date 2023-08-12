@@ -1,0 +1,2 @@
+raw color, best quality, (masterpiece:1.1), absurdres, absurd detailed mature female, (gwen tennyson), (1girl:1.3), (ginger hair|single braid:1.2), (freckles:1.1), sweaty skin, (leopard print bra|yoga shorts|choker|bracelets:1.2), (full lips:1.3), (awesome eyes|green eyes:1.2), (fake boobs|narrow waist|plus size legs|plus size hips:1.2), (smile|blush:1.2), (cafe|coach|sitting:1.3), (cinematiclighting:1.1), (eyeshadow|lipstick:1.3).
+<lora:gwendolynTennysonBen_v10:0.6> <lyco:animeGalGyaru_v10:0.4>

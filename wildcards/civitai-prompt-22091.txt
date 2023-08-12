@@ -1,0 +1,1 @@
+<lora:sdvx2:0.75>,rasis(\\sdvx\\),1girl,solo,long_hair,standding, <lyco:GoodHands-beta2:1.0>, upper body

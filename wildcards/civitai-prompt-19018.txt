@@ -1,0 +1,1 @@
+(AS-YoungV2:1), <lora:more_details:0.6>,  <lora:wedding:0.6>, girl in wedding dress standing on water beneath a blue sky lifting her dress to show her ((naked ass)) to viewer (from behind), <lora:bluetheme_skywater:0.5> <lora:Squeezer2:0.7> <lora:epi_noiseoffset2:1> <lora:ClothingAdjuster2:-0.6> <lora:skirtlift-v4:0.4>, skirt lift, ((detailed face)), hq, quality

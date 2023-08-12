@@ -1,0 +1,2 @@
+fashion photography of a wise ruby old man, in a lush ruby tree house with flowers and birds, 3d render, cgi, symmetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.2), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.3),
+<lora:epiNoiseoffset_v2:1>

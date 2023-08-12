@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,street
+ <lora:mPixel_v30MordenPixel:0.6>

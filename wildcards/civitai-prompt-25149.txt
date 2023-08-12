@@ -1,0 +1,15 @@
+Aesthetic: ((cyberpop, futuristic pop, digital culture, neon, technology, internet aesthetics):1.4)
+BREAK
+Composition: pretty girl, sitting, presenting, (pretty face, perfect face, perfect eyes),, <lora:CatholicSchoolUniformDogu:0.5> ((wearing catholic school uniform, red pleated skirt, white button up shirt, red neck tie)), ((wearing clothes, fully clothed, covered breasts)), perfect breasts
+BREAK
+Lighting: Dramatic Spotlight, Theatrical, Captivating
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:0.995),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

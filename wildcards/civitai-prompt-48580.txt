@@ -1,0 +1,1 @@
+tattoo, qmark,  <lora:photorealisticQueenOf_v202:1.2>

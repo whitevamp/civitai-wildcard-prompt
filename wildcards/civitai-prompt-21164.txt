@@ -1,0 +1,5 @@
+(masterpiece, best quality, highres),in school,classroom,day,
+BREAK,
+<lora:Detail_Tweaker_LoRA:1>,1girl,elf,white hair,short hair,blush,embarrassed,open mouth,tongue out,half-closed eyes,tears,school uniform,miniskirt,thighhighs,bra lift,nipples,pussy juice,
+BREAK,
+<lora:PSCowgirl:0.9>,1boy,penis,squatting cowgirl position,vaginal,pov,on ground,lying,on back,

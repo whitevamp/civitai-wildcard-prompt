@@ -1,0 +1,1 @@
+woman, (pouting:1.0), closeup,<lora:bitch_breaker_v2:1.2>, masterpiece, hires, ultra-detailed

@@ -1,0 +1,2 @@
+best quality, masterpiece, (photorealistic:1.4), 1girl,20 years old,school uniform,pleated skirt,((showing panties)), realistic skin,large breast,highly detailed background,Picking up a dropped object,E235, train interior,bra,face light source,sitting,open legs, rosy face,octane render,
+ <lora:E235_V5:0.6>,  <lora:epi_noiseoffset2:1>

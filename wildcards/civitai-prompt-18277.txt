@@ -1,0 +1,2 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality
+(Vintage Vietnamese house:1.3),(Rustic charm:1.2),(Traditional architecture:1.4),(Antique wooden furniture:1.3),(Weathered table and chairs:1.2),(Beautiful garden view),(Soothing tea aroma:1.3),(Gentle sip from the cup:1.2),(Sunlight filtering through the windows),(Tranquil atmosphere:1.3),(Appreciating nature:1.2),(Relaxation:1.4),(Peaceful moment:1.3)<lora:add_detail:1.0>

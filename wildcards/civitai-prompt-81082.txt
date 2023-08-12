@@ -1,0 +1,3 @@
+realistic, (best quality, masterpiece:1.3),1girl, solo,Design an image featuring beautiful calligraphy, with expressive lettering, elegant flourishes, and a sense of craftsmanship and skill.
+silver hair,bright pupils, long hair, expressionless, 
+ <lora:idc128dim-epoch-000007:0.7>

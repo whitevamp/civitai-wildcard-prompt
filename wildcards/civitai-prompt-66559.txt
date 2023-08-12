@@ -1,0 +1,10 @@
+(RAW, best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, perfect body, (covering her breasts with her hands:1.2), from front, topless,
+light blonde hair, bun hair, short hair,
+medium breast, slim waist, slim legs,
+shiny skin, real skin texture, :q,
+rim lighting, studio photography,
+supermodel, 
+best lighting, detailed background, detailed shadow, sharp focus, depth field,
+saturated, high contrast, strong light and shadow,
+[<lora:sd-No.405v2-000002:0.25>::0.6]

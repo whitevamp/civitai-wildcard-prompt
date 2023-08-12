@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,    
+ <lora:Elixir:0.4> <lora:GoodHands-vanilla:0.4> <lora:more_details:0.4> <lora:LowRA:0.3> dark theme,
+ egirl, choker, cat ears, skirt, crop top, goth, chains,  <lora:egirl:0.8>

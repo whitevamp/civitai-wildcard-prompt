@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,  robot girl,  black robe, blue hair, glowing blue eyes, 
+pointed ears,elf,  dungeons and dragons, fantasy, magic, 
+ <lora:constructed:0.8> construct, robot, mechanical,

@@ -1,0 +1,2 @@
+1girl,solo,outdoors,nature,arms up,best quality,absurdres,<lora:add_detail:1>,sexy pose, seduction pose, dragon ball,blmpony,aqua hair,hair ribbon,braided ponytail,pink shirt,belt,scarf,pink skirt,clothes writing,brown gloves,medium breasts,sexy,skimpy,view from below,green hair,
+<lora:bulma_9:0.7>,wearing VR glasses vision pro <lora:vision_pro_v2:0.6>,

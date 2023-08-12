@@ -1,0 +1,5 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,from above,
+<lora:HeadpatPOV:0.9> HeadpatPOV, pov, (headpat:1.2),looking down,
+<lora:wanostyle_2_offset:0.9>,1boy,Luffy, wanostyle,white T-shirt,Shorts,
+(straw hat:1.2),(chibi:1.1),child,(clenched teeth:1.1),(tears:1.2),
+ <lora:flat2:-0.3>

@@ -1,0 +1,7 @@
+a close-up photography fisheye of a resplendent [woman|Princess] with  long loose ombre burgundy hair, mesmerizing peepers, indignant, 
+she is posing in her canopy bed, 
+she is wearing a beautiful purple see-through bowed teddy
+intricate pattern, detailed, hair accessory
+instagram, pale skin, (textured skin, skin pores:1.1), (moles:0.8), imperfect skin, goosebumps, flawless face, (light freckles:0.9),
+window revealing Acropolis, Athens
+(night:1.1), dark theme, star, moonlit, <lora:xLowra:0.55>

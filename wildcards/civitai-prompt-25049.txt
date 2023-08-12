@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format, (depth), (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult french woman, freckles, yellow eyes, ginger messy hair,
+(style-swirlmagic:0.7),  solo, upper body, looking at viewer, detailed background, detailed face, (sinister (DarkFantasy:0.8), dark fantasy theme:1.1)  living star constellation, zodiac, horoscope, dynamic pose,  leo, esoteric geometric symbolism, celestial power, stars, bright pink lights, cosmic light, aura,  transcendence,  cosmic dust, backlighting, cosmic space background, surreal esoteric atmosphere,
+<lora:epi_noiseoffset2:0.5>,

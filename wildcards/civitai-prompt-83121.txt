@@ -1,0 +1,6 @@
+(cowboy shot), sfw, (best quality:1.0), (ultra highres:1.0), detailed eyes, 
+BREAK 
+<lora:charizard_AT3:0.5> charizard, dragon, orange body, anthro, posing, seductive, wings
+bodysuit, cleavage cutout, highleg
+BREAK 
+bedroom background

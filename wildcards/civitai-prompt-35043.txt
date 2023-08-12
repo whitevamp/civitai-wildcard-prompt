@@ -1,0 +1,4 @@
+Best Quality,Masterpiece,Ultra High Resolution,(Realisticity:1.4),Original Photo,Cinematic Lighting,
+NSFW, 1girl, 20 yo, solo, model shooting pose, medium breasts, nipples, blonde hair, bangs, bun, (tired up short braids), hair ornament, fair skin,  full body,  pussy, pubic hair, midjourney portrait,  (hanfu:1.39), acient east asia architecture, china dress, avatar, lois van baarle, ilya kuvshinov, rossdraws, tom bagshaw, global illumination, radiant light, detailed and intricate environment 
+<lora:add_detail:0.8>  <lora:ClothingAdjuster3:0.2>   
+<lora:midjourney portrait_20230625143136:0.8>

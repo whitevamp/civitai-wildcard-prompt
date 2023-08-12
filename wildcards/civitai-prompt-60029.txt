@@ -1,0 +1,1 @@
+masterpiece,best quality,Carpet,<lora:lowra_v10:0.65>

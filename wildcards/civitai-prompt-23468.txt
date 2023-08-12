@@ -1,0 +1,4 @@
+1girl,slg,
+ponytail,Carnation Pink  Bow-front blouse with a sweetheart neckline and puff shoulders,
+depth of field, evening
+<lora:slg_v11:1>

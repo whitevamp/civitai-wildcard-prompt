@@ -1,0 +1,2 @@
+absurdres, intricate details, masterpiece, best quality, high resolution, 8k, Best quality, masterpiece, ultra high res,detailed background,solo,male,bara,slim,facial hair,mature male,swim pool,swimmer, swimsuit,swim trunks,blue sky,looking at viewer,depth of field,summer, 
+ <lora:add_detail:1> <lyco:GoodHands-beta2:1.0>

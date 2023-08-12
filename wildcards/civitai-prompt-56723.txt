@@ -1,0 +1,5 @@
+(elf girl partially submerged in a pool of water), (arms extended:1.3),(completely naked, pale skin), (bright blue, enchanting eyes), (freckles), (long, straight, black, long hair), (wet hair, ), (looking at viewer), (center of the frame)
+BREAK
+(an enchanted pond deep in the forest:1.2), (ultra detailed fantasy landscape: 1.2), (moonlight), (will-o'-the-wisp), (fireflies), (frog prince:1.3), (tree), (deer in the background)
+BREAK
+ <lora:aaaa-(quad-a)-1197it-novae:0.5>,(masterpiece, best quality), solo, 4k,official art, promotional art,center composition, (highly detailed), close-up, (perfect lighting)

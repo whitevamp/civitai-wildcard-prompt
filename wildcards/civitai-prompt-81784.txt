@@ -1,0 +1,2 @@
+<lora:remilia:1>,remilia scarlet,1girl,mob cap, wings,ribbon,frilled shirt collar, short sleeves,(miku hair:1.4),red eyes,ascot,pink dress,
+ <lora:DBKiCharge:1:INALL>,Ki Charge,aura,fighting stance, (muscular:1.6),

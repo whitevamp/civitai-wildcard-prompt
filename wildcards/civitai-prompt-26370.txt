@@ -1,0 +1,4 @@
+14mm f2.8, wide angle, portrait of Lisa Blackpink,(no expression),(thai university uniform),(white shirt),(black pleated skirts:1.4),(short skirt:1.2),(short hair),
+,perfect body, k-pop Idol,  best quality, ultra high res, soft light,(photorealistic:1.3), 1girl, small breasts,
+, sunlight, shot, blue sky, cloud,(from below)
+, beauty512,cinematic lighting,natural light,(legs spread:1), (bloom:1)  <lora:thaiUniversity_v10:1>, <lora:lisaBlackpink_v1:0.5>

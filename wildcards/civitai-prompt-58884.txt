@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl,   <lora:divineSwordIreliaLora_divineSwordIreliaV1:0.8> Divine_sword_Irelia, 
+  <lora:onarmorMeatShield_v01:0.8> onarmor, fanny packing, meat shield,  chain, size difference, bound, dark dungeon, underground cave

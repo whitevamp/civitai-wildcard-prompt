@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp, (vex) league of legends,(grey skin:1.4),1girl,small,small body,small legs,yordle,green hair,short hair,(black coat),dark red short pants,eyeshadow,laying,on back, on bed,(messy hair:1.6),(sleepy face),yawning, <lora:vex3-000007:1>, <lora:add_detail:0.9>

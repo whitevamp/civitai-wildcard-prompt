@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, perfect lighting, 1girl, mature female, black micro bikini, sweating, smirking, tall, curvy, wide hips, narrow waist, (muscular), long (red:1.3) hair, pompadour cut, blue eyes, makeup, eyeshadow, thick eyelashes,  <lora:fellatrixStyle_v1:0.6>  <lora:exMicroBikini_v1:0.7>

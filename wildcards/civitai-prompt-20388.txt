@@ -1,0 +1,1 @@
+tree,standing,from behind,red theme,1boy,weapon,hat,solo,holding,<lora:zuowangdao:1>,  <lora:zwd_v2:1>,zwd

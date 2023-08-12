@@ -1,0 +1,1 @@
+((porcelaine art)), porcelaine colors, (masterpiece), high quality, a pretty girl ,painting , oil  , ((porcelaine art)), looking at viewer, intricate ornaments,  <lora:add_detail:1>,  <lora:zyd232_ChineseInkStyle_v1_0:0.6>, <lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:0.5>

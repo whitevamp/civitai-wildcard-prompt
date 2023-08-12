@@ -1,0 +1,1 @@
+1woman, solo, ,flash_dccomics, <lora:add_detail:1> ,

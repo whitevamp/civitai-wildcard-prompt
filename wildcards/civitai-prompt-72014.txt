@@ -1,0 +1,3 @@
+masterpiece, best quality,
+ha yuri zahard, 1girl, shiny skin, red eyes, white jacket, black shirt, necktie, red skirt, ponytail, hair ribbon, pantyhose, closed jacket, <lora:Ha_Yuri_Zahard:0.7>,
+high contrast, dark room, rim lighting, red hues,

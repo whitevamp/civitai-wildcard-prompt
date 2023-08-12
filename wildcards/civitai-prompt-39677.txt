@@ -1,0 +1,2 @@
+by pixar, (masterpiece, best quality),Megamind, NoBitches,close up, portrait,(from above),  indoors, room,fisheye, green eyes,futuristic hallway, blue skin, looking up, looking at viewer, frowning, pouting,fisheye lens, profile
+ <lora:NoBitchesMeme:0.9> ,<lora:Megamind:0.85> <lora:fisheye2:0.55>

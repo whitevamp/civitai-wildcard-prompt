@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 
+1girl,    <lora:pool_party_miss_fortune:0.8> pool party miss fortune,

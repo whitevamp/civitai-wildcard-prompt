@@ -1,0 +1,3 @@
+1 girl, adult  woman,  hazel eyes, light brown ringlets hair,
+<lora:piratepunkai_v10:0.3>, piratepunkai,  skin, character focus, portrait, (battlescars:0.7), looking up, solo, upper body, detailed background, sinister smile, cursed evil naval officer,  pirate captain outfit,   fantasy theme, high seas,   kraken,  flames,  gunpowder, muskets, flying debris, pirate battle,    tropical beach, pirate hideout, pier, docks, shacks,   palm trees,  calm,  pirate tents,  loot, compass, treasure map,   treasure, cannonballs,
+<lora:add_detail:1>

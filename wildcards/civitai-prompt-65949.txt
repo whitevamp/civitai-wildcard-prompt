@@ -1,0 +1,5 @@
+<lora:mtu_virusConv2D2.5e-5_BF16:1>,mtu virus, multiple views
+ BREAK beautiful woman, ordinary face, serious, large breasts, wide hips,   best detail body, black hair, black glasses, serious, school uniform, long necktie,  layered skirt, 
+BREAK  decollate tight g-string, 
+simple background, 
+ from below,

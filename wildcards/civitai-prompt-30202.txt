@@ -1,0 +1,3 @@
+8k uhd, (best quality:1.2), (masterpiece:1.2), very detailed, intricate details, hyper detailed, <lora:realistic:0.3>, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman, freckles, aquamarine eyes, silver layered hair,
+  solo, (full body:0.6), looking at viewer, detailed background, detailed face, (masseffect theme:1.1) (glowing eyes:1.05), embodied star constellation, star sign,  at peace, occult, cancer,  geometric patterns, interstellar ,  bright  lights,  aura,  consciousness,   backlighting, cosmic space background, surreal ethereal atmosphere,

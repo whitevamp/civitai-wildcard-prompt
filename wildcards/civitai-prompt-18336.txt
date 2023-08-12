@@ -1,0 +1,5 @@
+1girl (30yo) smiling, japanese, dim, dark, night, dark background, long orange hair,
+(nsfw)
+techwear jacket, with buckle and tape, straps, black and orange,
+ <lora:urbansamurai_v0.3:0.4> 
+<lora:Cute Asian Face:0.2>

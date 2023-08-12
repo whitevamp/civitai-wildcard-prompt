@@ -1,0 +1,1 @@
+3d, corona render, extrude, realistic, ultra quality, iridescent light, bloom, flares, ray tracing, portrait, girl, wide hips, sexy pose, looking at viewer, space ship, sun, planets, stars, ((white silk fabric, detailed, tight bodysuit, (see through bodysuit, translucent bodysuit))), long hairs  <lora:add_detail:1.4>

@@ -1,0 +1,1 @@
+<lora:centaurConcept_centaurConcept:1> megara, 1girl, solo, long_hair, breasts, blue_eyes, ponytail, red_hair, high_ponytail, lipstick, (Centaur:1.2), best quality, trending on artstation, arms crossed, annoyed expression, in a field, fully in view, <lora:megara_Safetensors:.85>

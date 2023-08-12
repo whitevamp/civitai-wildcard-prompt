@@ -1,0 +1,2 @@
+<lora:tangbohu_xia:0.2> <lora:inklora:1>  ink ,scenery <lora:tangbohu:0.3> <lora:huaniao:0.3>tangbohu huaniao break 
+sword ,stone,melting, abstract,  dust ,water splash,long hair, boots, 1boy, very long hair, braid, black hair, bug, bird, branch, looking at viewer, yellow eyes, red footwear, brown hair, traditional media,

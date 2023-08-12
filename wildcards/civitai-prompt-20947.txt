@@ -1,0 +1,5 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.15), realistic skin,realistic, (photorealistic),  woman, soft light, real skin texture,
+(freckles:0.9),slim, beautiful girl, 20 years old,playful,horny,
+school background, nude, black thong, sitting, 
+braids,
+ <lora:breastinclassBetter_v141:0.3>

@@ -1,0 +1,1 @@
+(best quality, masterpiece), upperbody, portrait, (fox girl:1.1), small fox ear, 1girl, (cute:1.2), looking at viewer, (white border:1.2), office, light pink long hair, office clothes, short skirt, shiny black high heels, (simple background:1.2)<lora:uenomigiArtStyle_hard:0.65> <lora:squeezerExperimental_:0.4>

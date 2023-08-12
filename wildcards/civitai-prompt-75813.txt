@@ -1,0 +1,3 @@
+close portrait of an artic fox alabaster statue , (under the ocean,  fishes, coral, algua, treasure, gold, shining, sand:1.1),  epic, in the style of M4rbleSCNEW,
+very detailed, 8k, hd, full color,
+<lora:M4rbleSCNEWCIVIT:1>

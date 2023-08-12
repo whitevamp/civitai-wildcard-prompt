@@ -1,0 +1,1 @@
+<lora:Sangonomiya_Kokomi:0.65>, sangonomiya_kokomi,cowboy shot,dancing, standing, smile, arms behind back,looking at viewer, leaning forward,(((sweet girl))), bow-shaped hair, pink long hair, blue shirt, bare shoulders, wide sleeves,looking at viewer, detached sleeves,frilled sleeves, bow ornament (clothes),  blunt bangs, upper body,fantasy, high contrast,  <lora:add_detail:1>

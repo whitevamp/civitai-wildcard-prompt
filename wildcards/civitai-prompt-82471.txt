@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 1girl, 1boy, closeup shot
+<lora:upshirt-000015:0.95>, upshirt, underboob, loose white shirt, short blue jeans, (sexy panty straps:0.5), (crouch tattoo)
+slim and petite body, medium boobs, long hair, ([light orange | brown] hair), (full body:1.2), seductive pose, looking at viewer, (view from below:1.2), smiling, standing in the small alley,
+ <lora:koreanDollLikeness_v20:0.45>,  ulzzang-6500-v1.1

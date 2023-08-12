@@ -1,0 +1,11 @@
+masterpiece, top quality, best quality, (highly detailed CG illustration), beautiful and aesthetic, extreme detailed, colorful, highest detailed, cinematic light,
+1girl,
+office_lady, formal, strict, black_vest, tight_blouse, messy clothes, microskirt,
+eyelashes, purple lips, (makeup:1.2), lipstick, blue lips, blue eyes,multicolored eyes, long_haire, twintails, blonde_haire, detailed beautiful eyes
+choker, high heels, thighhighs,
+tears, blush,
+clenched teeth, scared expression, no_panties,
+lift skirt, lifted by self, slightly lifting both sides of skirt,skirt pull,
+pussy visible, pussy juice, pubic tattoo,
+office room, huge window,
+(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, (ultrarealistic:1.3), <lora:scared-expression-v1.8-000005:1.0>

@@ -1,0 +1,4 @@
+volumetric cinematic lighting, (highly detailed:1.4), digital render, smooth, sharp focus, full body 8k render, action shot, realistic reflections, cinematic composition, 
+calgar, solo, 1boy, middle aged man, military man, bionic eye, one glowing red eye, power fist, pauldron, iron halo, poised, 
+close-up, upper body, portrait, sitting, sitting on throne, large blue flag background, red carpet, regal ,
+ <lora:Calgar MK1 by CARAXES:0.9> <lora:tool - add_detail:0.7>

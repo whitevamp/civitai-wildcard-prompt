@@ -1,0 +1,1 @@
+masterpiece, best quality, (detail skin texture, ultra-detailed body:1.1), (high detailed skin:1.2), ridingsexscene, 1girl, solo, black hair, necklace, jewelry, tongue, facing upwards, looking down, nude, long hair, sweat <lora:ridingsexscene_lora_01:0.7>, (anime:1.3)

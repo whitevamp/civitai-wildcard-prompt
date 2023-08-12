@@ -1,0 +1,5 @@
+blue eyes,twintails,blonde hair,long hair,Faux fur coat,
+takamaki anne(persona 5),
+(nsfw),breasts,
+Mysterious Atmosphere, Intense Glow, Enchanting Depth,
+<lora:takamaki_anne:0.75>

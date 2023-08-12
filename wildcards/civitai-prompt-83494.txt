@@ -1,0 +1,2 @@
+(long_braid_hairstyle:1.3),woman posing for a photo, wearing elegant dress,
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((in hair salon))),  <lora:long_braid_hairstyle-10:0.5>

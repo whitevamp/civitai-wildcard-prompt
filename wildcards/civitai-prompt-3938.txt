@@ -1,0 +1,2 @@
+((best quality, masterpiece)),
+1girl, power pose, medieval, fantasy, white (kawaii) plunging  armor, orange afro wavy hair,   outdoor, clouds,    castle on background, <lora:more_details:0.5>  <lora:3DMM_V7:1>

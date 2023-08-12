@@ -1,0 +1,5 @@
+best quality, masterpiece, [(white background:1.5)::5],(isometric:1.0),double exposure, mid shot, 
+bonsai, 
+1girl, 
+mountain, tree, flower,pool, cloud, 
+ <lora:gachaSplashLORA_v40:1>

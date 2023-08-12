@@ -1,0 +1,4 @@
+ultra realistic 8k cg, picture-perfect face, flawless, masterpiece, professional artwork, famous artwork, huge filesize, fine detail, high saturation, cinematic lighting, cinematic bloom, lens flare, soft light, in the stadium, 
+1girl, solo, (upper body), perfect face, beautiful face, beautiful eyes, detailed eyes, beautiful eyelashes, white skin, fantasy, dreamlike, unreal, makeup, thin thighs, slim waist, light blush, medium breasts, shiny hair, black long hair, black wavy hair, (hair ornament), (crystal necklace), (round earrings), many clothes, sportswear, 
+<lora:nwsjmajic-05:0.7>,
+ backlighting, <lora:VolleyballUniform_v20LoRA:0.8> volleyball uniform, sports bikini, holding volleyball,

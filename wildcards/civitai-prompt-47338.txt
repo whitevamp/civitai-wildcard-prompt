@@ -1,0 +1,1 @@
+(photorealistic:1.4), (best quality:1.0), (ultra highres:1.0), 8k, RAW photo, (1girl:2), beautiful skin, detailed skin, (Real picture), (realistic skin), (intricate details), a face of perfect proportion, <lora:jangWonYoung_jwyV10:1>, jwy1

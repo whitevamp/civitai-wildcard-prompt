@@ -1,0 +1,1 @@
+(Masterpiece:1.2, high quality), <lora:cat_20230627113759:0.8>, lineart, 1cat, (high angle), (tears, sorrow, crying), <lora:teary:0.7>, full body, blue cat, cat holding 1bowl, simple background, white background, detailed pupils, detailed paws

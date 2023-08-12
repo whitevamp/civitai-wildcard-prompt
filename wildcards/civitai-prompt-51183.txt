@@ -1,0 +1,1 @@
+masterpiece, realistic, 1 woman, (wearing a yellow full coverage VR - techpunkmask with smallish antenna), (wearing orange shirt and blue rosette), blond hair, smiling eyes, sitting by the palm-fringed beach, sunny and rich in color, HDR, iso 1000<lora:techpunkmask_v0.5-000002:0.7>

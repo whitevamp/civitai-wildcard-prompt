@@ -1,0 +1,3 @@
+<lora:ass_support_v0.1:1>
+1girl, ass support,
+<lora:HOTD_v0.4:1> miyamoto rei, bikini,, masterpiece, best quality, highly detailed

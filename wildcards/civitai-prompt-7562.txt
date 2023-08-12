@@ -1,0 +1,5 @@
+<lora:add_brightness:0.7><lora:add_detail:0.7> <lora:capi:0.8> <lora:between_breasts_v0.1:0.9><lora:add_saturation:0.4>woman, (between breasts:1.1), (capybara:1.1),
+ large breast, embarrassed , blush,forehead, black long hair,  glasses,dirndl,sweat, 
+festival, 
+pov,straight-on, portrait, depth of field, capybara focus
+sunlight:0.2

@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality),1girl, blonde hair, long hair, white flower, white dress ,plant,  smile, greenhouse,
+ <lora:stylized3DModelLora_v30:1>

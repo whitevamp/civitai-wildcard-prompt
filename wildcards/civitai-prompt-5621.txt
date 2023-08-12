@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra highres, photorealistic  8K, 1girl, full body, souryuu asuka langley, (track jacket:1.2), plugsuit 02 under clothes, animal hat, interface headset, long hair, sitting, drinking, holding a cup of cola, <lora:souryuuasukalangleyV9:0.8>, science fiction, spacecraft, indoors, <lora:IvoryGoldAIv2:1>, from below

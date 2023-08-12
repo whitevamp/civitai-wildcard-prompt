@@ -1,0 +1,4 @@
+masterpiece, best quality, official photo, 8k, highly detailed
+samus aran, ponytail, blonde hair, blue eyes, blue crop top, sleeveless, midriff, wristband, blue shorts, toned body, standing, contrapposto,  upper body, 
+<lora:samus-nvwls-v1:0.8>, 
+ colorful,(flying jellyfish:1.5),standing in the ocean,(blue sky:1.2),(large amount of jellyfish:1.3),(Mysterious:1.3),(luminescence:1.3),

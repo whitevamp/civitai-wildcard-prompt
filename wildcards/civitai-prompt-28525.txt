@@ -1,0 +1,5 @@
+{shy face|curious face|happy face},
+outdoors, (cartoon:1.2),
+looking at viewer, cowboy shot, 
+(masterpiece), (best quality),
+({black|white|ivory|dark|light black} theme),

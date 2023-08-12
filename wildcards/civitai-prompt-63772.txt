@@ -1,0 +1,4 @@
+<lora:HertaStarRailV1:1>,
+extremely detailed CG unity 8k wallpaper,illustration,masterpiece, best quality,highly detailed,
+hertasr,:o, (1girl),solo,dress,dollgirl,beret,small breasts,looking at viewer, purple eyes, full body, arms behind back,sideways glance,
+jacaranda,light particles,(plants),((mountain)), blue sky, river,bridge, water,reflection,shadow,sunlight,sun,

@@ -1,0 +1,2 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile <lyco:moko-chan_v10:0.5>
+1980s \(style\),retro artstyle,toy box art,logo,riding ground vehicle,moko-chan <lyco:toriyama_akira_3:0.3>

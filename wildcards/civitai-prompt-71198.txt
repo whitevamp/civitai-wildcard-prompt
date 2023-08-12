@@ -1,0 +1,3 @@
+a close up of a futuristic looking cyborg girl with a fantastic cyberhelmet head with red triangle led lights and a halo, wearing a orange techwear jacket, white background 
+photorealistic, masterpiece, best quality, 35mm film, film grains, 
+<lora:cyberhelmetv0.7:0.8>

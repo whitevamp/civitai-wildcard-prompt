@@ -1,0 +1,3 @@
+excellent oil painting of a mountain landscape in summer, vibrant colors, powerfull style with epic dramatism,   small willage, gothic castle on mountian peak, river and lake, 
+BREAK 
+masterpiece, best quality, maximum quality, intricate details, ultrasahrp, ambient oclusion, realistic shadows, art by Bastien Lecouffe Deharme, 8k, oil art,  <lora:add_detail:1> <lora:royta v1.1:0.4> best quality, deep shadows, 8k, dslr, Kodak ektar 100, Fujifilm XT3, F4, 1/800s, ISO 100, RAW <lora:Masterpiace:1>

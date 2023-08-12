@@ -1,0 +1,4 @@
+Masterpiece, ultra realistic,absurdres,HDR,8k,excited,best quality,sunglasses, city background,
+edgSDress, 1girl, solo, looking at viewer, medium hair, blue eyes, blonde hair,  red dress, holding, standing, full body, short sleeves, floral print, sandals, leather belt, fashion , wearing edgSDress
+Blonde nadia with sunglasses and a choker,off shoulder,
+ <lora:edgSDress:0.687>  <lora:Nadia:0.456> <lora:Anime_Nadia-000002:0.35>

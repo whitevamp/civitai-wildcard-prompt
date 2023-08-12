@@ -1,0 +1,1 @@
+xyzloserfruit,<lora:NijiExpressV2:0.4> fcPortrait  <lora:FF14 Art:0.5>  <lora:LoserFruit640:0.7>

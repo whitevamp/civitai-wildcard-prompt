@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),edgQuality
+smiling,smug,
+edgHL,hentai_lingerie, 1girl, solo, long hair, breasts, looking at viewer, smile, blue eyes, blonde hair, hair ornament, navel, medium breasts, underwear, panties, braid, detached sleeves, bra, lips, blue background, underwear only, blue nails, blue panties, blue bra, wearing edgHL
+<lora:edgHentai_Lingerie1:1>

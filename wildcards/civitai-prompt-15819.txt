@@ -1,0 +1,6 @@
+A photo of a woman standing in a baroque room, wearing a shoulder less, dark laced Victorian dress, (lips parted), serious face, dark theme, intricate details, jewelry, earrings, necklace, gothichorrorai,
+long blonde stylish hair, realistic blue eyes, beautiful symmetrical face, perfect sparkling eyes, well-defined pupils, high contrast eyes, vellus hair, finely detailed features,
+realistic, dof, bokeh, low illumination, low key, night time, illuminated by mysteriously flickering candles and a soft halo of light filtering through an arched window, (candles:1.1),
+<lora:MarryQ:0.7>
+<lora:LowRA:0.5> <lora:victorian:0.2>
+<lora:GothicHorrorAI:0.3> <lora:add_detail:0.5> <lora:detailed_eye:0.5>

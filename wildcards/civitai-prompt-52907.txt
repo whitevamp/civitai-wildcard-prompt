@@ -1,0 +1,2 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), (huge head:1.5), simple background, dim colors
+1girl,chibi:2.5, shy, small body:2:0, big eyes:2.0 ,hinata, hyuuga_hinata, bangs, empty_eyes, black_hair, blunt_bangs, grey_eyes, grey_sleeves, headband_around_neck, highres, hime_cut, hooded_cardigan_purple, long_sleeves, looking_at_viewer, petals, smile, solo, straight_hair, upper_body, hooded_jacket, full_body, pants, sandals,<lora:blindbox_V1Mix:1>, detailed eyes, stands on a stand,  <lora:hinataHyuugaLora_hinata:0.8>,

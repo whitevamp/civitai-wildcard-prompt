@@ -1,0 +1,11 @@
+focus,
+ <lyco:Dasha Taran:0.45>, Dasha Taran
+sks woman,    1girl,   looking at viewer,
+straight hair,  flying hair, long hair
+petite, , looking at viewer,  ((shortstack:1.1)), (skindentation:1.5), posing, makeup, flat breast, flat chest
+(best quality:1.3), ((masterpiece)), ((realistic)) , abstract,  ,ankymoore, ( illustration:1.2), absurdres, intricate details, 
+dress focus, choker, wearing gymnast_outfit
+ , outdoors,
+film grain, 85mm, focus,
+<lora:LowRA:0.8> <lyco:GoodHands-beta2:0.7>
+<lora:ankymoore:0.65>  <lora:add_detail:0.45>  <lora:gymnast_outfit:0.45> eonn

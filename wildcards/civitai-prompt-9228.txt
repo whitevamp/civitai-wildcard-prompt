@@ -1,0 +1,8 @@
+Style: { (masterpiece:1.2, best quality), (real picture, intricate details) } BREAK
+Composition: { 1girl, queen sitting on throne, crown, front_view, full body, two man standing behind throne, multiple boys (fat man:0.3, ugly man:0.1), old man } BREAK
+Hair: { short_red_hair } BREAK
+Appearance: { mature female, reieneris, muscular, huge_breasts, breasts apart, sagging breasts, green_eyes } BREAK
+Clothing: { (queen_outfit:1.3) } BREAK
+Behavior: { confident, smirk, looking_at_viewer } BREAK
+Location: { throne room } BREAK
+Loras: { <lora:fat_man_v5.4a:0.5><lora:fechin:0.9><lora:saggingBreasts_v10:0.8><lora:add_detail:0.5><lora:fantasyV1.1:0.1><lora:DW:0.25><lora:lasto_v1:0.25> }

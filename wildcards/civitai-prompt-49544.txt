@@ -1,0 +1,4 @@
+Masterpiece, absurdres,award winning photo, extremely detailed, amazing, fine detail, extremely detailed eyes and face, by lee jeffries nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten, beautiful woman , slim, tiny waist, smiling, excited, looking at the viewer seductively, pencil_dress, a woman wearing a pencil_dress, a woman wearing a black and white checkered pencil_dress, holding a purse, buttons, blazer, white shirt with frills, white pantyhose, (twbabe7, twbabe6, twbabe5, twbabe4, twbabe3, twbabe2, twbabe1),
+solo, 1girl, (dudou,white, a woman standing up, red floral embroidery, lining, woman wearing the dudou:1.25)
+
+<lora:PencilCD:0.75> <lora:twbabe_4:0.4>

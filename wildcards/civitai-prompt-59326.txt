@@ -1,0 +1,9 @@
+flaccid penis,
+photo of a naked muscular man, cowboy shot, blue eyes, sunset, beautiful landscape,
+digital painting, game_cg, 
+standing, 
+facial hair,
+1boy, solo,
+smooth,  flexing,
+muscular man,  male only,masterpiece,best quality,detailed,  beard,   detailed, intricate detail,  highres ,
+<hypernet:EasyNegative:1> <lora:TurbomaleV7_64:.99>      <lora:superFlaccidPenis_v20:.69>

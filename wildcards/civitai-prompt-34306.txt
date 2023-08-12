@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), cowboy shot, 1girl, blonde, ponytail, short hair, medium breast, fit and petite body, cheerleader uniform, white sox, squat position, spread legs, looking at viewer,
+ <lora:school_gym_v0.1:1>, school gym, basketball court, basketball,

@@ -1,0 +1,10 @@
+nsfw,
+8K raw photo, Best quality, masterpiece, ultra high res, 1girl, looking front, natural skin texture, realistic eye and face details, full lips, lipstick, rouge \(makeup\), red eyeshadow, fluffy short hair, messy hair, little smile, beautiful legs, medium tall female, skinny, slim_legs, solo,  looking at viewer,ponytail,blurry background,depth of field,wet skin,
+cherry blossom,around flower, outdoor,
+sexy posing,random posing, bikini,
+enormous breast, cleavage,
+jk skirt,
+ribbon around neck,Put a pretty ribbon around your neck,ribbon neck,
+navy skirt,navy jk socks,socks,short skirt,glasses,
+blurry background, blurry, , brown hair,bangs, parted lips, lips, black hair,
+<lora:Lora_v20:0.7>, <lora:LoRA_train:0.4>,(pureerosface_v1:0.3)

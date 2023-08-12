@@ -1,0 +1,1 @@
+holographic, detailed, <lora:Holographic-V1-000020:1>, pawg, <lora:fitnessBabes-fC-v1.0a:1>

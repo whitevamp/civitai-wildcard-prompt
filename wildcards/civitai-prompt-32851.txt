@@ -1,0 +1,2 @@
+(masterpiece, best quality), 1woman, torn clothes, dirty, cute face, 
+ <lora:tied_wrist:1> tied_wrist,

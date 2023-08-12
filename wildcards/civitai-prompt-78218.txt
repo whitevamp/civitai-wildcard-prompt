@@ -1,0 +1,1 @@
+(masterpiece,best quality,absurdres ), 1man, muscular, detailed eyes, blue eyes, open jacket, running to camera, upper body, (fluorescent lamp),(colorful), ((abstract background)),<lora:add_detail:0.5>

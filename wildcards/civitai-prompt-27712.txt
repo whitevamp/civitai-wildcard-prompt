@@ -1,0 +1,5 @@
+1girl, ((upper body, half body, narrow waist, waist, european girl, mixed blood )), (front view, from front, beautiful clothes, Facing light, faces the light), 
+super model, looking at viewer,  lightning, day_light, summer, light, cinema light, nature light, simple background, 
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), 8k, clean, (incredibly absurdres, ultra-detailed,CG ,unity ,8k wallpaper), (detailed face :1.4),(beautiful detailed eyes :1.2),(detailed hair), light on face, huge filesize ,cinematic lighting,
+perfect face, lips,  adult,  solo, (( wheaten skin, brown skin, dark skin, real skin, middle_breast, lower abdomen)),
+ <lora:add_detail:0.3> <lora:XXMix9_v20LoRa:0.5> <lora:XBV2:0.0>

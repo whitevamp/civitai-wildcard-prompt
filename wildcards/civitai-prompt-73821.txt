@@ -1,0 +1,4 @@
+1girl, solo, red hair, robe, brown_blazer, white_undershirt, long hair, skirt, hair down, long skirt, outdoors, architecture, buildings, cloudy mountaion, 
+highly intricate details, realistic light, trending on cgsociety,neon details, ultra realistic details, 
+global illumination, shadows, octane render, 8 k, ultra sharp,
+ <lora:PAseer的山海世界:1.2>

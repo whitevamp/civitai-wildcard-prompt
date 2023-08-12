@@ -1,0 +1,1 @@
+4k,looking at viewer, masterpiece, best quality, high quality,kodak portra, realistic, photorealistic,ultra detailed,1girl,solo, portrait, beautiful blue sky, gorgeous expression, facial proportions, fancy jewelry, wearing a fluffy jacket, in a green garden minju, detailed face, detailed eyes, detailed iris,<lora:sayhello0o-v2-minjuizone:0.9>, <lora:fluffy_jacket01:0.8>

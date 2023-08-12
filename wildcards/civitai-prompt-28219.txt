@@ -1,0 +1,2 @@
+(masterpiece,best quality:1.5), (style of Hishikawa Moronobu ,style of Mike Allred :1.5)
+portrait, <lora:Nami:0.6:MIDD>,nami

@@ -1,0 +1,2 @@
+game icon institute, game icon, laser, crystal,cloth, no humans, still life, simple background, black background,
+ <lora:laser_v1_230612:1.2>

@@ -1,0 +1,21 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,
+(solo:1.2),
+(teasing,smirk,smug:1.1),
+(looking at viewer:1.4),(from side:1.2),
+
+(kneeling:1.2),(supermodel:1.4),
+(indoor,hotel,bedroom,carpet:1.1),
+
+(schoolgirl_uniform,long sleeve dress shirt,checkered_skirt ,black black_socks,simple choker),
+(ear piercing:1.2),
+
+(black_hair),(medium length hair,ponytail ),
+
+(cleavage:0.5), (wide_hips:1),(milf,mature,35 years old:1.2),
+
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:Cnbeauty4_v1:0.4>,
+
+(futanari,hyper penis:1.2),
+ <lora:bigFutanariPenis_v10:0.5>,
+(legs wide spread:1.2),leaning back

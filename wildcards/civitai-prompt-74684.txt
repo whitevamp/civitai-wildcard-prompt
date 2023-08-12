@@ -1,0 +1,1 @@
+1girl, white hair, multicolored hair, purple eyes, sidelighting, light particles, wallpaper, colorwater,  <lora:Colorwater_v1TheOriginal:0.9>, <lora:animeLineartMangaLike_v30MangaLike:0.5>,  <lora:absintheArknights_v10:0.4>, <lora:gachaSplashLORA_v40:1> [(white background:1.5), ::5],

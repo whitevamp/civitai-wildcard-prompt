@@ -1,0 +1,2 @@
+color photograph, close-up, ((a realistic photo of a female warrior)), beautiful, strong, muscular, intense look,erotic, confident, (leather armor, ornate armor), underbust, medium breasts, nipples, (battle scars:0.9), pale, light, ((glowy skin)), looking at camera, (fit body:1.0),  white blouse, high ponytail,  masterpiece, high quality, realistic, very detailed face, steve mccurry, portrait,
+photorealistic, realism,  natural colors, desaturated, sharp, high details, insane details, <lora:epi_noiseoffset2:0.3> <lora:add_detail:1>

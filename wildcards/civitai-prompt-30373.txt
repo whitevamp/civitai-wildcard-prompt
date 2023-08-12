@@ -1,0 +1,1 @@
+<lora:csm_yoru:1>, yoru \(chainsaw man\), pinafore dress, shirt, neck ribbon, long sleeves, <lora:LowRA:0.8>, dark theme, <lora:add_detail:1>, (close-up, looking at viewer, portrait:1.5), <lyco:eGirlMakeup-10:0.8>, EGirlMakeup, red details, (closed mouth:2.0)

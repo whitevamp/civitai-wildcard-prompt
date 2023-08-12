@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo, (middle finger),  <lora:Chair:0.5>, motivatedchair, plastic chair,  <lyco:GoodHands-beta2:1.0>

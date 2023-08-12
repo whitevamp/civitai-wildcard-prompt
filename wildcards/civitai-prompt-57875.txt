@@ -1,0 +1,2 @@
+absurdres, 2girls, beach, tight swimsuit, sweat, breasts out, smile, (hug:0.9), (realistic:0.45), eyes reflection, intricate beautiful eyes,
+ <lora:sam_yang_offset:1>, sam yang,

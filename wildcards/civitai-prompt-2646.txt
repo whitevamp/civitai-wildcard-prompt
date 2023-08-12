@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+(1girl),  <lora:bl8ckIC-1CIVIT:0.8> in the style of bl8ckIC, bl8ckIC,  aztec, jungle, ruins,

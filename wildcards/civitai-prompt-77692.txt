@@ -1,0 +1,4 @@
+(masterpiece, best quality, photorealistic, ultra high res, 8K raw photo:1.1),
+1girl, nsfw, parmy,
+wizard hat, cloak, water, light beam,
+<lora:pparmy:0.8>

@@ -1,0 +1,8 @@
+best quality, ultra hi res, photoreaslistic, a photography of a beautiful girl, detailed face, highly detailed eyes, extreme face closeup,
+(film grain:0.9),(analog film, photography:0.7),chromatic aberration, detailed deep-plunge jumpsuit with strappy heels, (SFW) , (soft:1.1), (face shadow:1.16), (intricate details:1.22), (beautiful detailed:1.1), (colourful:1.1), (finely detailed:1.1), (masterpiece:1.16), (drawn by mochizuki kei:1.34), (limited palette:1.1), (two-tone eyes:1.1), (focus face:1.16), (pixiv:1.48), (unity CG 8K wallpaper:1.16), (focus Character:1.1), (colourful shadow:1.1), 1 girl, solo, Dark Burgundy hair, short hair, shaggy hair, dog ears, tails, (paw gloves animal hands:1.22), black shorts, (front tie white shirts:1.1), Dark Girl Scout Green eyes, (cute:1.1), ahoge , black leather jacket, white t-shirt, and high-waisted black jeans, winter season,sweater_lift, off_shoulder, clothes_lift, from below, sex,
+light smile , blush, dynamic lighting, seductive look, no bra, partially unzipped pants,skirt lift, ,
+(ulzzang-6500:1) , (PureErosFace_V1:0.625)
+BREAK
+,
+,
+pale skin, portrait, a photography of a beautiful girl, detailed face, sweet smile, (blush:1.2), koubou (cowbow kun),  breast grab:1.4, breasts, breasts apart, cowboy shot, crop top, film grain, grabbing, hair between eyes, heterochromia, huge breasts, Shag haircut:1.4, Bangs with layers:1.2, looking at viewer, lying, navel, no bra, on back, on bed, parted lips, pov,solo focus, stomach, sweat, underboob:1.8, upshirt:1.4, upshorts, <lora:upshirtUnderboob_v10:1> <lora:no119Girl_no119Girl:0.46:TEST>

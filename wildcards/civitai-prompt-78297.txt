@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), cute,photon mapping, radiosity, physically-based rendering,light, masterpiece, an extremely delicate and beautiful, extremely detailed, CG, unity , Amazing, finely detail, light smile,extremely detailed eyes and face, beautiful detailed nose,  beautiful detailed eyes, long eyelashes, light on face,Slight penetration, lying, on back, spread legs:1.5
+(((white hair,intricate choker necklace, intricate earrings, intricate maid headdress,Bundle,wet hair, wet clothes, white silk stockings,wet face, wet body, slim figure, )))
+<lora:PovMissionaryVaginal-v1:0.7>
+<lora:TW_black_long_hair:0.3> <lora:shojovibe_v11:0.3> <lora:enako_v2:0.3>
+((girl fucked by man:1.5), (sex:1.5), 1 girl, 1 man, boyfriend,

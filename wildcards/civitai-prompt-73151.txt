@@ -1,0 +1,1 @@
+<lora:GelatoStyle:1> GelatoStyle woman

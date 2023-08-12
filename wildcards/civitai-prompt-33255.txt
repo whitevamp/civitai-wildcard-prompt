@@ -1,0 +1,5 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+sensuous, Beautiful palla with intricate lacework and delicate fringed edges, Miss, Short, Narrow Hips, Diamond-Shaped Face, Dark Skin, Honey Blonde Hair, yellow Eyes, [[Curved Nose]], Pouty Lips, Round Chin, Shoulder-Length Hair, Coarse Hair, Triple Braided Crown, small breasts, Hoop earrings, hot pink stain lipstick, Celestial palace suspended in the clouds, accessible only by a golden staircase,
+Balancing on a rooftop ledge, she gazes at the city skyline, a sense of freedom in her heart,
+Retro arcade bar with craft cocktails and vintage video games,
+<lora:simplePointedToeHeelswithoutStrap:0.4>, beautylegs, slim legs, long legs, high heels, <lora:edg_swedishDollLikeness:0.7>, beautiful edgSwedish_woman, perfect edgSwedish_face, perfect edgSwedish_body,

@@ -1,0 +1,5 @@
+masterpiece, hyperdetailed, adult, mature, woman, short hair, voluptuous, ((tight dress:1.1)), flat colors, vivid colors,
+(wind blows:1.421),(blue, red, pink, flower clusters: 1.6532),(looking at viewer) Deep view,(lights:1.1), , (blue, red, pink, flower clusters: 1.6532),  (wearing a black qipao dress:0.9), playful face, vibrant eyes, 
+<lora:add_detail:0.6>,
+(iridescence holographic Clothing:1.3)
+<lora:iridescence_holographic_Clothing:0.8> <lora:planet_Simulator_style_Lora:0.2>  <lora:LowRa:0.3>

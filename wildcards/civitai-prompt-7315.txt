@@ -1,0 +1,2 @@
+RAW photo, (high detail) ,film grain, masterpiece, 85mm lens , 
+<lora:GoodHands-vanilla:0.6>, <lora:breastinClass:0.3> sitting , bed,  <lora:InsPX2:0.2>, deep shadows, contrast, (selfie), mouth open corneo_makima , <lyco:InsPX:0.2>Faux fur vest in a patchwork design with a mix of colors and textures,  (looking at camera , freckles ), angry

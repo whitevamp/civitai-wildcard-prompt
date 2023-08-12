@@ -1,0 +1,1 @@
+nsfw, (1girl, blind eyes, , open mouth) (digital) (  in detailed island (see-through, swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

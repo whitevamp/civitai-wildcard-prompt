@@ -1,0 +1,5 @@
+masterpiece, best quality, full body shot, 1girl,
+<lora:Gun2HeadV4:1.25>, fg2h, fingergun, 
+<lora:jinx_default_lol-000021:1>, jinx \(league of legends\), 1girl, twin braids, single elbow glove, short shorts, bikini top only, necklace, belt, bullet, fingerless gloves
+<lora:Crazy_ExpressionsV2:0.3>, crazy face, crazy eyes, crazy smile,
+standing, rooftop, apocalypse, building on fire,

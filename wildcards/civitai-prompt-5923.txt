@@ -1,0 +1,3 @@
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2),realistic, looking at viewer, 
+<lyco:multipleGirlsGroup_v10:0.5>Harem,multiple girls,3girls,line-up, (school uniform, serafuku, pleated skirt, miniskirt, thighhighs),detailed panties,
+standing on show-window,  <lyco:add_detail:0.4>

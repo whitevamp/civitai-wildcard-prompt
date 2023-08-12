@@ -1,0 +1,4 @@
+highres,official art,masterpiece,best quality,
+1girl,light smile, hotel room,standing,from behind, 
+(large breasts),mature female,
+hanying, china dress,  <lora:hanying-000008:0.6>

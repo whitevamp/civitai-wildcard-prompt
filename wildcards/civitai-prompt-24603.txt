@@ -1,0 +1,3 @@
+masterpiece,best quality,(detailed face, perfect face, perfect eyes, realistic eyes, perfect fingers),(clear face),fantasy girl,long hair,hair ornaments,looking at viewer,outdoors,intricate,high detail,sharp focus,dramatic,beautiful girl,(full body:1.3),(living room:1.3),sofa,sitting,close-up, 
+<lora:add_detail:0.9>,
+<lora:Japanese maid dress v3_20230708141144:0.75> hair bow,black dress,white thighhighs,

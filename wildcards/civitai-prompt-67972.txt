@@ -1,0 +1,1 @@
+masterpiece,best quality,1girl, (solo), <lora:bulma_v1_1:0.6> bulma, smile, gym uniform, in city,

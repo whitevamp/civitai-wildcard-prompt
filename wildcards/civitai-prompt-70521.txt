@@ -1,0 +1,2 @@
+cinematic still shot of 1 sexy woman,  luxury dress
+hyperdetailed photography, soft light, studio lighting, 35mm film, film grains <lora:add_detail:1> <lora:epiNoiseoffset_v2:1>

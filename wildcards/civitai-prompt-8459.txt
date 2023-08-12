@@ -1,0 +1,4 @@
+8k, RAW photo, best quality, masterpiece, pov, Aerial view, 1girl, South American, solo, detailed eyes, smiling, very tuned skin, shiny oil skin, matte black hair, wavy hair, dj, dancing, headphones, abs,
+techno, Fishnet tights, (simple white background:1.1), detailed facial features, 
+GoPro, action shot, 
+<lora:simple_background_v2:1> <lora:epiNoiseoffset_v2:1>

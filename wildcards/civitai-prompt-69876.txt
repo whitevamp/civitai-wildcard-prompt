@@ -1,0 +1,1 @@
+masterpiece, best_quality, <lora:samdoesartsSamYang_normal:0.7>, <lora:pastelmix-lora:0.7>, 1girl, solo, shirt_tucked_in, long_skirt, black_hair, brown_eyes, supermarket, curvy, long_eyelashes, low_tied_hair, pale_skin,

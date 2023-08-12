@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), <lora:concept_indexfingerstogether-10:1>, upper body, solo, 1girl, nervous, looking at viewer, index fingers together

@@ -1,0 +1,1 @@
+(Best Quality, Masterpiece:1.4), (Realism:1.2), (Realisitc:1.2), (Absurdres:1.2), (photorealistic:1.3), 1 girl,Realistic Skin,Solo, <lora:add_detail:0.5>,<lora:fitgirl_v10:0.5>, <lora:Winter:0.6>,outfits,dark academia,,Amazing Waist Line,winter,outdoor,Beanie,Cute Poses

@@ -1,0 +1,1 @@
+absurdres, (((masterpiece))), portrait, beautiful man, 1boy, dark black hair, dynamic composition, <lora:vividImpactfulStyle_v40g:0.7>, vvi\(face\), vvi\(eyes\)

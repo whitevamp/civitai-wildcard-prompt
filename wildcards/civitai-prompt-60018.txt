@@ -1,0 +1,5 @@
+(photorealistic:1.4), ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+lifelike rendering, immersive atmosphere, chiaroscuro, moody lighting,premium artwork,
+1girl,solo,upper body,(nsfw:0.85),half naked,
+dynamic lighting, cinematic mood, evocative shadows, nuanced shading, atmospheric depth, immersive illumination, captivating chiaroscuro, subtle highlights, moody undertones,
+<lora:lowra_v10:0.5>  <lora:oc_v10:0.28>

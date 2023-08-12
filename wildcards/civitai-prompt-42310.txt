@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+ChopioLenora, orange hair, cloak, fur trim, long hair, hair ornament, red eyes, (pale skin:1.1), makeup, lipstick, pointy ears, (blush:1), looking at viewer, 1girl, solo <lora:Lenora:0.4>
+(edgBunny,Haute_Couture, corset, long skirt, woman wearing a Haute_Couture designer dress, front view, wearing edgBunny, bunny ears <lora:edgLycoris_Lapin:0.8>), leaning back, posing, front view, looking at viewer,  inside Motel room, noon, midday, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.25> sakimichan <lora:sakimichan-v1.6-lora-naivae-newcraft:0.55>, (hyper realism, soft light, dramatic light, sharp, HDR)

@@ -1,0 +1,6 @@
+ultra realistic 8k cg,best quality, picture-perfect face, flawless, clean,realistic, masterpiece, professional artwork, famous artwork,photorealistic lighting, volumetric lighting,cimeatic bloom,detailed background,RAW photo,8k uhd,detailed texture,
+
+(((Blonde hair,blue eyes))),perfect face, beautiful face,beautiful idol face,((perfect female body, narrow waist)),long ponytail,hair over eyes,floarting hair,detailed hair,detailed face,large breasts,large ass,caucasian,european,milf,(thick_lips:1.3), ulzzang-6500-v1.1:0.5,(half submerged on water:1.3),(soaing wet, glistening skin, wet face, wet hair:1.15),((covered by water)),ora:atomichips_v1:0.7>
+
+(In Ocean water),outdoor,detailed skin,(rich:1.4),<lora:fashionGirl_v20SmallFileSize:0.3>,hoop earrings,(((nsfw))),nude
+<lora:hipoly3DModelLora_v10:0.3>,confident facial expression,((detailed facial features)),(haughty face:1.3),from behind, standing

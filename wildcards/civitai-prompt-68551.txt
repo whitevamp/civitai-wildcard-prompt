@@ -1,0 +1,4 @@
+sam yang,
+1girl, animal, bird, blurry, blurry background, brown eyes, brown hair, cherry blossoms, dog, full body, holding, holding umbrella, jewelry, looking up, medium hair, necklace, rain, shiba inu, shoes, short sleeves, smile, sneakers, solo, squatting, transparent, transparent umbrella, umbrella, watch, wristwatch
+, ((masterpiece))
+<lora:sam_yang_offset:1>

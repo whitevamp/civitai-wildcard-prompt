@@ -1,0 +1,1 @@
+nipslip, (mature:0.8) teacher in glasses wearing a khaki blouse with a pleated skirt, holding a red marker, chalkboard, stern expression <lora:RealDownblouse15_v2.08:1>

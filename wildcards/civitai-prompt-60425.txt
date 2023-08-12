@@ -1,0 +1,1 @@
+<lora:GothicC:0.9>, GothicC, Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting

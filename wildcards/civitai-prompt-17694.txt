@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.4), (beautiful, perfect, delicate, detailed, intricate, aesthetic:1.2), cinematic shot, natural light, light particles, sunlight, atmospheric, vivid colors, (depth of field:1.4), (princess girl:1.2), looking at viewer, (ebony, black skin:1.4), (perfect face, detailed face, eyeliner, glossy lips), smiling, (natural breasts, cleavage), (thick braid), (delicate dress, detailed dress, ornate dress), (cowboy shot:1.4),, girl with (petite sexy  body:1),
+(pussy close up shot:0.6), 
+(nude:1), 
+(tiny waist:0.6), (cute:0.8), (wide hips:1), (perfect face:1), 
+<lyco:LowRA:0.1> <lyco:add_detail:0.4><lyco:breastinclassBetter:0.2>
+, [best quality, masterpiece, good lighting, professional, detailed, crisp, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2]

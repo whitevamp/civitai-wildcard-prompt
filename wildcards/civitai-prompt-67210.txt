@@ -1,0 +1,7 @@
+(RAW photo, best quality), photorealistic, (realistic, photo-realistic:1.3), best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed, 2k, 8k,Amazing, finely detail, masterpiece, best quality, extremely detailed CG unity 8k, huge filesize, ultra-detailed, highres, beautiful lighting, ray tracing, skinny, perfect anatomy,
+<lora:JapaneseDollLikeness_v15:0.2>, <lora:koreanDollLikeness_v15:0.15>, <lora:mix4:0.2>, <lora:xss3-0:0.2>, <lora:taiwanDollLikeness_v20:0.2>,<lora:jpn-idol:0.2>,
+1girl, young girl, (maid), young girl, shiny eyes, (jk_tie:1.2), (tie:1.2), necklace, (hair ornament:1.4), (pants:1.1), pussy,
+short hair , ponytail ,
+(spread legs), looking down, (smile512 ), backward,
+(nipples), fancy breasts,
+(moist pussy, wet pussy:1.2),  (pussy cum:1.5),  <lora:GodPussy1 v2:0.2>, <lora:spp_spreadpussy-W-V1:0.2>,<lora:Creampie_v11:0.2>, <lora:cervix:0.2>,

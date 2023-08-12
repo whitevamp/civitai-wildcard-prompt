@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl
+<lora:detailed_eye:0.6>, <lora:add_detail:0.4>
+beach, starry sky, sunset, water, sitting, blonde hair, blue eyes, white dress, happy

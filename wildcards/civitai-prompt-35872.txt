@@ -1,0 +1,1 @@
+1girl, flower, solo, nsfw, dance, braid, rose, red flower,pink flower, long hair, ribbon, long sleeves, fantasy background  <lora:add_detail:0.4>  <lora:anxiang:0.6>

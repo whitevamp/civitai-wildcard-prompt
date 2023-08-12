@@ -1,0 +1,7 @@
+mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),(1 girl:2),cute, professional lighting, photon mapping, radiosity, physically-based rendering, soft real shadow,
+dusk, rain, wet, cityscape, detailed sky,
+high detailed beautiful face,milky white pale skin, (high detail eyes),long black hair, small head, (Full body photo:1.331), cute oval face,
+perfect shaped breasts,flat belly, perfect body proportions, straight slender legs, 
+looking at viewer, standing, (smile:0.7), straight real teeth,
+((Brown-Gray Gradient Short Loose Linen V-Neck Camisole Dress)), no bra, Silver Sapphire Necklace, Delicate thin belt with metal buckle, 
+<lora:cuteGirlMix4_v10:0.3>, <lora:koreandolllikenessV20_v20:0.15>

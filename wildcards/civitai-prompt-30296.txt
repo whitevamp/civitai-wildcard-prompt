@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,best quality, 
+edgSDress, 1girl, solo, long hair, looking at viewer, skirt, brown hair, rown eyes, jewelry, earrings, boots, miniskirt, crop top, lips, knee boots, realistic , wearing edgSDress, sunglasses, city background
+ <lora:edgSDress:0.7>

@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,Under Cut, ,large breasts
+BREAK
+<lora:antifreez3-lora128:0.7>
+,depth of field,looking at viewer,((standing on the , Temple_located_on_a_mountain_peak,)),((upper body)),polka dot panties,laughing
+BREAK
+day,sun,rainbow,bus stop,((cumulonimbus)),from below:1.3,

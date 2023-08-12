@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), english text, chibi, sanic, segs <lora:Sonic:0.8> <lyco:Segs:1.0>

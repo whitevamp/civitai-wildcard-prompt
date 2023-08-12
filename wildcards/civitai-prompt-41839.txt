@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, cinematic lighting, sharp focus, depth of field,
+Ingrid, 1girl, solo, mature female, dark-skinned female, dark skin, full body, from behind, from below, pantyshot, standing, bent over, leaning forward on table, office,
+pink hair, (single hair bun:0.9), 
+(secretary:1.1), striped jacket, (striped skirt:1.1), (fishnet pantyhose:1.2), high heels, 
+large breasts, huge ass, 
+<lora:IngridV2:0.85>

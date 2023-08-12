@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),illustration,8k,hd,1girl,solo,upper body,(portrait:1.2),long_hair,brown_hair,bow,school_uniform,purple_eyes,jacket,bowtie,blazer,long_sleeves,pleated_skirt,kneehighs,white_socks,<lora:Akitsuki Marina-V1>,

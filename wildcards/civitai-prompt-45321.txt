@@ -1,0 +1,4 @@
+masterpiece,masterpiece, top quality,  best quality,  realistic, unity,  8k wallpaper,  official art, extremely detailed CG unity 8k wallpaper, ulzzang-6500, (original: 1.2), (realistic: 1.4),  ultra detail, high resolution, ultra detailed,amazing,  fine detail,  cinematic lighting, 
+(1girl:1.4 ), (brown|black hair:1.4), medium hair,  (realistic skin:1.2), (light brown skin:1.2),(small breasts),  beautiful girl with beautiful details,  extremely detailed eyes and face,  eyes with beautiful details, huge file size,  ultra detailed and beautiful, blushing,  ashamed,(smile:1.2), black eyes,  model shoot tyle,  full body shoot, (random color lace underwear), earings, chain necklace, loft apartment, living room, (almost empty room),
+<lora:koreanDollLikeness_v15:0.4>
+<lora:chilloutmixss_xss10:0.4>

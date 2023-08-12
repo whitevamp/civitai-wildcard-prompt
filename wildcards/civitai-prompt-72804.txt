@@ -1,0 +1,13 @@
+(RAW photo, best quality, science fiction, photo realistic:1.2),
+(intricate details),
+(1girl,solo:1.2)
+( SIMPLE WHITE BACKGROUND),
+(27 years old beautiful gorgeous cute european woman:1.1), 
+flat chest, narrow waist, skinny stomach, thick thigh,medium hair, high ponytail,
+(pale skin, shiny skin, porcelain skin, white skin, tall female),
+(make up:0.2),
+(parted lips, red hair, blue eyes, perfect eyes),
+looking at viewer, lying, from above, 
+(cyborg full body in parts, Cybernetic organisms, mechanical legs, mechanical parts, single mechanical arm, artificial life, genetic engineering, bionics, assault rifle, sniper rifle :1.2),
+DISASSEMBLE\(TTP\), 
+<lyco:dis_V1-000020:0.6>,

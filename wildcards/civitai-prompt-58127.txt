@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, smile, happy, portrait, upper body, (RSEEmma:1.2), <lora:MISC-GlossyFace:0.3>, redhead, <lora:CHAR-Ariel:0.5>, (ArielWaifu:1.0), purple shell bikini, (Mermaid tail:1.05), ariel, mermaid, underwater, (cave:1.5), caving,  dark,  <lora:POSE-BreastFocus:1>, rocky, rocks

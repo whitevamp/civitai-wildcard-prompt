@@ -1,0 +1,1 @@
+masterpiece, best quality, ((((boy)))),mecha,(hammer), <lora:planetSimulatorLora_:0.8>,earth,milky_way,starry,no_humans,water,((armor)), water

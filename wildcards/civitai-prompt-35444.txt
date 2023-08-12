@@ -1,0 +1,1 @@
+(((Fantasy Art))), (Best Quality), Portrait, ([beautiful female cyborg : dark elf:30]:1.2), (pointy ears), destiny and honor, courage of the brave, highly detailed, (dark skin), intricate, masterpiece, fantasy style, fantasy theme, <lora:drow_offset:1> <lora:add_detail:1> <lora:epi_noiseoffset2:0.5> <lora:kVoidEnergy:0.6>

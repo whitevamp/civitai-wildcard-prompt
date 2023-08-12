@@ -1,0 +1,3 @@
+1girl, mature, long silver hair, night, mountain, aurora, moon,((random camera shoot1.4)),(random body pose:1.4),<lora:add_detail:1>
+girl sitting on rock at peak of mountain during night looking up of sky aurora,
+volumetric lighting, dynamic lighting, dynamic composition, reflection, caustics, subsurface scattering, (masterpiece, best quality, ultra-detailed, best shadow), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, stunning gradient colors, no watermark signature,(detailed background),(ultra detailed), (best shadow:1.1)+++++,(high contrast)+++,(best illumination)+++,

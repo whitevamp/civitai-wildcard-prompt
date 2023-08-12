@@ -1,0 +1,4 @@
+1girl,pixie cut,Embroidered mesh overlay fit and flare dress,beautiful long legs,
+, kneehighs,clear heels,
+s-curve,pantyshot, from below,
+  <lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>  <lora:tangbohu_saturation_v1.0:0.65>

@@ -1,0 +1,7 @@
+6girls, <lora:kobenicrashes:1>, car interior ADDBASE
+<lora:bocchiloconresize95:0.6>, 1girls, scared, gotou hitori, pink jacket, steering wheel BREAK
+<lora:bocchiloconresize95:0.7>, 1girls, scared, ijichi nijika, green jacket,scared  BREAK
+<lora:bocchiloconresize95:1>, 1girl, upper body, yamada ryou, expresionless, emotionless, sweat, closed mouth BREAK
+<lora:bocchiloconresize95:1>, 1girl, upper body, kita ikuyo, scared, sweat, looking to the side BREAK
+<lora:bocchiloconresize95:1>, 1girl, ijichi seika, full body, black shirt, jeans, confused, BREAK
+<lora:bocchiloconresize95:1>, 1girl, upper body, gotou futari, leaning forward, happy, excited BREAK

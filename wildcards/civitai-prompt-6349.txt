@@ -1,0 +1,4 @@
+View in a lush remote, dense foliage tropical jungle, butterflies, distant waterfalls. Heavy rain.
+Masterpiece, best quality, high quality, extremely detailed CG unity 8k wallpaper, oil painting, award winning photography, Bokeh, Depth of Field, HDR, bloom, Chromatic Aberration, Photorealistic, extremely detailed, trending on artstation, trending on CGsociety, Intricate, High Detail, dramatic, art by midjourney, volumetric lighting.
+<lora:landscapes-6-2023-04-27-120356-6faaedf2:0.8>
+<lora:[LoRa] Birch Light シラカバの光白樺樹之光 Concept (With multires noise version):1>

@@ -1,0 +1,5 @@
+masterpiece, best quality, (1girl, solo),
+Oomori Anko, roller skates, skates, blonde hair, blue eyes, twintails, tongue out, tongue, 1girl, inline skates, ahoge, looking at viewer, bow, nail polish, confetti, hair bow, smile, squatting, dress,
+<lora:OomoriAnko:0.7>
+perfect anatomy,cowboy shot,(dynamic pose),((((panties)))). looking at viewer, (spread legs), (pov),(((cameltoe))), 
+concert,  stage,  ((( blush,sweaty)))

@@ -1,0 +1,2 @@
+close-up of a cute girl with black hair with a fringe hugging a panther, mouth covered, scared and emotional, crying, masterpiece, (photorealistic:1.4), detailed eyes, dramatic lighting, shadows,
+<lora:cudd13 - 0nt0p - CuddleAndHeadOnTop:0.3>, (Chi_testv1:0.5), <lora:detailed_eye:0.4>, <lora:add_detail:0.4>, <lora:k0d4chrom3:0.1>, <lora:InsPX:0.2>,

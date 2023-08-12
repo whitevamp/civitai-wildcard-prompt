@@ -1,0 +1,6 @@
+masterpiece, best quality,
+outdoors, beach, 
+mature male, solo, full body, sitting, leaning back, hawaiian shirt, shorts, furrowed brow, wet hair, very short hair,
+friedrichnietzsche, huge mustache, wrinkled skin,
+<lora:FriedrichNietzsche:1>
+<lora:LowRA_Dark:0.4>,

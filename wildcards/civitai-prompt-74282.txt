@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, happy, sitting, holding strawberry, glistening, wet fruit, hands, minigirl, strawberry, on table, legs, own hands together, (sparkling eyes:1.3), white legwear, 
+ <lora:FoodGen:0.7>

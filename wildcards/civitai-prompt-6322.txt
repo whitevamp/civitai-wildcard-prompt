@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo,  <lora:teamaquagrunt-nvwls-v1:0.8>, pkmntag, bandana, striped crop top, armband, black shorts, black gloves, striped leggings, blue boots, (dark skin:0.8)

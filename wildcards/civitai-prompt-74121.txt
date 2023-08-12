@@ -1,0 +1,5 @@
+(official art:1.1),(beautiful lighting:1.5), ((ultra detailed:1.4)), super fine illustration,  large_filesize, absurdres, magnificent, high resolution, 8K, 4K,  8K wall paper,  (((kawaii))), zentangle, detailed skin BREAK
+ <lora:milkingMachine_v11:1.7>, (round face:1.2), ((cute girl:1.6)), cowgirl, milkingmachine, detailed face, ((detailed eye)), toddler body, ((((pink hair)))), (gigantic breast:1.5), CLEAVAGE,  ((big blue eyes)),  light_hair, long hair, shiny hair, wavy hair, unamused, shiny skin,  two-tailed hair, ahegao, open mouth, mole under eye BREAK
+starry sky, sleeping,   perfect lighting, looking away, ((Princess Maid)), frill, BREAK
+full body shot, shot from above in the car,  <lora:anime_minimalist_v1-000020:-0.1>,  <lora:flat2:-0.4> BREAK
+steel suspension, absurdres, (cowgirl position:1.1), ahegao, blush,shibari, drooling, milk_cow_ears,crying, a lot of milk, machinery, (orgasm:1.2)

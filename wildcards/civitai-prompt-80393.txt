@@ -1,0 +1,2 @@
+1girl,((wearing headphones:1)),((earphone:1.2)), (((music player machine))), high ponytail hair, night, dynamic pose, (denim shorts, sweater hoodie), solo, cityscape, official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
+neon,CyberpunkAI <lora:CyberPunkAI:0.65>

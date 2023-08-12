@@ -1,0 +1,1 @@
+1girl,fisheye,sea,wind,messy hair,sunset,beach,(aesthetics and atmosphere:1.2),long hair,green camisole,light smile,happy,<lora:MengX girl_Mix_v30:1>,<lora:FujiVelvia50:1>,<lora:lit:0.2>,shallow depth of field, wavy hair, looking  up

@@ -1,0 +1,4 @@
+insane details,intricate details,hyperdetailed,low contrast,soft cinematic light,raw,8K,HDR,DOF,bokeh, 
+On a rainy day, a slender young girl lazily sits in a coffee shop wearing a tight skirt,
+(cinematic look:1.4),soothing tones,(dim colors:0.6),slate gray atmosphere,
+<lora:8_Ymiao:0.6>

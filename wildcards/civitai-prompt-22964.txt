@@ -1,0 +1,3 @@
+zanhua, red flower on head, ((butterfly)) , Best quality, masterpiece, brilliant colors , 1 girl, black eyes, solo, (looking at viewer), smile, happy expression, dancing with butterfly, red hanfu, holding flower, 
+((in the garden)), floral background,  outdoor, chinese traditional architecture,
+ <lora:zanhua_v1:0.8>

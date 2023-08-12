@@ -1,0 +1,1 @@
+masterpiece, best quality, cloud strife, shoulder armor, NoBitches, face focus <lora:NoBitchesMeme:1.3> <lora:cloudstrife-nvwls-v1-final:1>

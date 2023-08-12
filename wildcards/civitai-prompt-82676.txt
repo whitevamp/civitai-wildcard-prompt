@@ -1,0 +1,2 @@
+masterpiece, best quality,(cgi, realistic),photo, extreme detail, 8k, detailed face,mature woman Wearing edgTemptation,(mature:1.25),smiling,  standing, stretching, ars above head, facing viewer, (beth_pacen:1.25), blonde hair, stockings, frills, fur, room, bed, window, curtain, plant
+<lora:BethPacen_v1:1> <lora:edgTemptation1:1>,lace intricate lingerie edgTemptation, negligee, garder belt,

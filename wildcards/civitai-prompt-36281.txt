@@ -1,0 +1,1 @@
+pensketch_style, ink sketch, (dark background:1.2), starry sky, darkness, kirisame marisa, shy, embarrassed, blush, superb, extremely detailed, intricate, (extremely low contrast:1.1), looking away, full body, mid shot forest, nature, tree <lora:loraslayernoiseoffset:0.45>  <lora:pen_sketch_v1.3_dim_16:0.6>

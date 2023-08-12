@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12E 16Dim Locon Cosine3:0.8>,see-through silhouette,standing, white shirt, cowboy shot, grey background, oversized shirt,  <lora:seeThroughSilhouette_v11:1>

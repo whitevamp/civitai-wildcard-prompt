@@ -1,0 +1,1 @@
+Film quality, realistic, high detailed, 4k, morning, outdoor, street view, a girl standing, smiling, blue eyes, delicate makeup, brightening, view from below, P_nurse, skirt, nsfw, looking down, , <lora:P_nurse_v1.0:0.4>, <lora:koreanDollLikeness:0.4>

@@ -1,0 +1,6 @@
+masterpiece, best quality,
+outdoors, cobblestone cityscape,
+mature male, solo, cowboy shot, straight-on,
+friedrichnietzsche, huge mustache, wrinkled skin, very short hair, black trench coat, hair slicked back, 
+<lora:FriedrichNietzsche:0.8>
+<lora:LowRA_Dark:0.4>,

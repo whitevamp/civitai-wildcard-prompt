@@ -1,0 +1,1 @@
+masterpiece, best quality, high quality, 1girl, ponytail, black hair, shotgun, firing, muzzle flash, scared, (constricted pupils:1.2), cargo pants, ammunition belt, bandaged leg, open mouth, street, outdoors, 1boy, (zombie:1.3),  <lora:zombie_v1.3:0.8>

@@ -1,0 +1,2 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres,  1cat, (Chartreux:1.2),  Chartreux, paw, space, universe, earth,  (magical robe), marvel, time travel, magical circle, summon, summon circle,  space and time distortion, universe inside a metal hour glass, hour glass, marvel cinematic universe, 
+<lora:Chartreux_38-000002:0.7>, <lora:c4ttitudeflexver:0.65>

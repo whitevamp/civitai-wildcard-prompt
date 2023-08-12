@@ -1,0 +1,5 @@
+<lora:mitsurikanrojitest:0.9>
+mitsuri kanroji, braid, gradient hair, (green eyes:1.5), green hair, long hair, mole,  mole under eye, multicolored hair, pink hair, twin braids, two-tone hair, (navel), 
+belt, black skirt, cleavage, coat, demon slayer uniform, haori, japanese clothes, long sleeves, miniskirt,  partially unbuttoned, pleated skirt, skirt, uniform,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile,
+symmetry,Symmetrical composition,

@@ -1,0 +1,9 @@
+Aesthetic: ((goth, dark, macabre, subculture, fashion, music):1.4)
+BREAK
+Lighting:(dreamwave), detailed, clean, scenery, ink
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (18 years old), skinny italian girl, ((punk colored hair))
+BREAK
+(good quality:0.996)

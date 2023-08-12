@@ -1,0 +1,1 @@
+masterpiece, highly detailed, wallpaper, scenery, no humans, bubble, sky, nature, candyland, tree, star (sky), forest, outdoors, cloud, air bubble, water, fantasy, (rainbow), water drop, blue sky, planet, reflection, sunlight, light particles, full background   <lora:Felt_Craft:1>  <lora:Candyland:1>

@@ -1,0 +1,2 @@
+masterpiece, best quality, 1boy, vegeta, short hair, black hair, black eyes, top white armor, shoulder armor, red cape, white gloves, white boots, blue clothes, training, standing, smiling, angry face, looking to viewer, standing
+,crossed arms, floating particles, aura power, boots, night, natural light,standing, angry eyes, black eyes, smiling, black hair, male focus, strong muscles, movie composition, deth of field, bokeh,  <lora:add_detail:0.5> <lora:dbz_vegeta-03:1>  <lora:nijiMecha:0.7>

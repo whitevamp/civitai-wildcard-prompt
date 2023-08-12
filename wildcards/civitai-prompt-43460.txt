@@ -1,0 +1,1 @@
+masterpiece, best quality, 8k, natural lighting, soft lighting, sunlight, wide-angle, (action shot of a red and black crusader spaceship stadning on ground inside a futuristic spacestation port, people working on the spaceship, repairing it:1.3) <lora:starcitizen-lora:0.8>  <lora:wowifierXL:0.3> art by mooncryptowow

@@ -1,0 +1,1 @@
+<lora:4_last:0.3>, (extra deatailed),(nomakeup),(girl)(extra deatailed body:1.3),cute, j-pop girl,1 young girl, (18yo:1.3), (soft focus:1.4), (Taiwanese:1.1)(slim),holding own breast, <lora:breastGrab_self:1>,breastgrab

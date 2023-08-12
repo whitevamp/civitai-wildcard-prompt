@@ -1,0 +1,6 @@
+<lora:Valeera Sanguinar:1.1>,
+masterpiece,best quality, ultra realistic 8k cg, ((transparent background)),
+elvaan, (full body),((((looking at viewer)))),dynamic pose,((smile)), 
+handsome face,((green eyes)),long eyebrows,pointed ears,blonde hair,ponytail,
+red hood,red armor,red cape, ((((Holding a green crystal glowing dagger)))),
+volumetric lighting,photorealistic,cinematic lighting,soft colors,realism, Surrealism, high detail, Hyperrealism, Verism, soft lighting,

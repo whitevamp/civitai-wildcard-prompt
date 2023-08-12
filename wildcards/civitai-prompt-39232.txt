@@ -1,0 +1,1 @@
+masterpiece:1.1, highest quality:1.3,   <lora:violet-06:0.7>, vi0let, front view, robes, smile, open mouth, portrait, shoulders, breasts,

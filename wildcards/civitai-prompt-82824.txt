@@ -1,0 +1,2 @@
+<lora:kEighties_pruned:1>, (Eighties:1.4),  absurdres,
+World,

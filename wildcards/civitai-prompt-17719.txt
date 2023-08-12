@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,large breasts
+BREAK
+realistic:1.49, Nami/League of legends/,mermaid,cleavege, <lora:NamiLoL:0.7>
+,depth of field,looking at viewer,((standing on the school bed room)),((full body))
+BREAK
+day,sun,rainbow,Area_with_many_trees_and_vegetation,((cumulonimbus)),from below:1.3

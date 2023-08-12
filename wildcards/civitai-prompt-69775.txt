@@ -1,0 +1,1 @@
+cowboy shot  <lora:IvoryGoldAI:.8> IvoryGoldAI girl riding horse, space <lora:add_detail:1>

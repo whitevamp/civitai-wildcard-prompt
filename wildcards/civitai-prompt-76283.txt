@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,
+[ballgown|edgMarquise], edgMarquise, a woman with a white wig and a pearl necklace ,with a edgMarquise_hairstyle, wearing a ballgown
+ <lora:MarquiseGown:0.7>

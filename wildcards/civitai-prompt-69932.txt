@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details
+ 1girl,    <lora:AnkhaAnimalCrossing1:0.8> Ankha (Animal Crossing), Ankha, blue hair,

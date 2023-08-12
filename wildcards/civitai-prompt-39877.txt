@@ -1,0 +1,1 @@
+simple_background, red_background, 1girl,  beautiful face, beautiful woman, portrait, upper body, orange_hair, green_eyes, large breasts, sexy, low-cut, shirt, <lora:breastinClass:0.3>

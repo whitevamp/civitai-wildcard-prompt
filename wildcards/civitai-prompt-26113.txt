@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:hutaotest:0.8> hutao, brown hair, long hair, symbol-shaped pupils, (red eyes:1.3), twintails, flower-shaped pupils, 
+RagClothing,  <lyco:Rags:0.8>brown clothes, brown dress, dirty clothes, torn clothes, blood on clothes,  dirty street, begging for food,  barefoot,

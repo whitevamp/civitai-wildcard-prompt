@@ -1,0 +1,4 @@
+(masterpiece,best quality),(ultra-detailed),(full body, chibi),
+1girls, long_hair,(full body:1.2), hair ornament, necklace, jewelry, long hair, earrings, highres, Beautiful face, detailed beautiful eyes, detailed eyelash, focus face, skinny body, shiny skin, Slim waist,(8k_wallpaper), Intricate and refined delicate details,toned abs,
+(beautiful detailed face), (beautiful detailed black eyes),
+<lora:blindbox_V3:1>,

@@ -1,0 +1,5 @@
+1girl, cinematic shot of  female warrior,  
+(photorealistic, rim light,   ), 
+fantasy, dnd,  dungeon, 
+(masterpiece, best quality:1.3), depth of field
+  <lora:methurlant:0.1>

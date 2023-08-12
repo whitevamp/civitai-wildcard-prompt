@@ -1,0 +1,1 @@
+colorful,masterpiece,best quality,ultra high res,highly detailed,extremely intricate,intricate details,1girl,nude,white hair,looking at viewer,smiling,from above,a girl lying on the colorful bedsheet,outdoors,day,<lora:dreamflower:1>,<lora:shojovibe_v11:0.3>,

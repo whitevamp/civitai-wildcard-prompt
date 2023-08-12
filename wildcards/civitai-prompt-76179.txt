@@ -1,0 +1,1 @@
+1girl,solo,light_blue_hair,liquid hair, long hair,floating hair, full body, standing,sundress, liquid clothes, water,waves, tsunami,tide,sea,water dress,  <lora:LiquidClothesV1:1>

@@ -1,0 +1,2 @@
+8k resolution, best quality, masterpiece:1.2, realistic, photo-realistic:1.37, ultra-detailed, best quality, ultra high res, professional lighting, photon mapping, radiosity, physically-based rendering, cinematic lighting, unreal engine, depth of field, sharp focus, raw photo, good composition, bokeh:1.2, 35mm lens:1.25, <lora:Concept - Add_detail:0.5>  <lora:Race - Jawa:0.7> jawa, hood up, glowing eyes, shrouded face, very short, 
+Desert, sand, rusted machinery, junkyard, robots,

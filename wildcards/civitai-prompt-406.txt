@@ -1,0 +1,3 @@
+<lora:add_detail:1>
+1 girl, adult (elven:0.7) woman,  teal eyes, white prom hairstyle,
+(style-swirlmagic:0.8),  solo, upper body, looking at viewer, detailed background, detailed face, (tribal celtic barbarian theme:1.1), (glowing eyes:1.05), elemental water wizard, surrounded by swirling water, <lora:waterVFX:0.4> water ball, fantasy spellcaster clothes, dynamic pose,  smiling, ethereal  water, drops of water,  ocean in background,  shore, bright lighting, ethereal atmosphere,

@@ -1,0 +1,3 @@
+portrait of muscular strongman, masculine, charismatic, assertive smile, striped shirt, mustache, snobby, mutant power, strong contrast, wide shoulders, circus, closed eyes, cartoonish weightlifter
+BREAK
+loose clothing, soft fabric, chained, thick metal collar,  <lora:stainless_glass_SDXL_da32:0.75>

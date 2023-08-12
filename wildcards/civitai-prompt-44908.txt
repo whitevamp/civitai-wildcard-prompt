@@ -1,0 +1,2 @@
+(shop,window,street),
+1girl_with beautiful feet,soles,big eyes,unparalleled masterpiece, ultra realistic 8k CG, clean, beautiful face, shiny skin,(skindentation),<lora:feetPoseRealistic_v10_with beautiful feet,soles:0.65>

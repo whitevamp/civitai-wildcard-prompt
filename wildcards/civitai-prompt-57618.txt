@@ -1,0 +1,1 @@
+<lora:ANIME_PeterPan_TinkerBell_v10:0.4><lora:STYLE_stainedglass_v10:0.25>, stained glass fairy wings, 1girl, tinkerwaifu, solo, smile, green dress, floating, glass-like wings, strapless dress, hair bun, blonde hair, in a forest, floating, colorful stained glass, 64K, f1.2, 800mm, UHD, dynamic lighting

@@ -1,0 +1,6 @@
+AS-Adult, , mini person, masterpiece, isometric,  1girl, full body, from above,
+tiny, minigirl,  a girl shrunken to miniature size, (held in hand:1.2),one hand,  indoors, 
+BREAK
+black hair, long hair, bangs, lingerie, breasts, narrow waist, barefoot,
+ <lora:minigirls:1> 
+<lora:flat2:-0.7>

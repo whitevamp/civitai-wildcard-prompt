@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,     <lora:Star_Nemesis_Morgana:0.8> star nemesis morgana, 1girl,  cone hair bun, hair ornament, 
+ <lora:futanari_horse_penis_050623:0.6> horse penis, bottomless, nsfw, futanari,

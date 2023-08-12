@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details, 
+<lora:Chopper:1>ChopperCzar, ArmPoint,
+<lora:DetailTweakerLoRA_v10:0.8>
+<lora:epi_noiseoffset_v2:0.6>

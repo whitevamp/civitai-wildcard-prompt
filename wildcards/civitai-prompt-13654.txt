@@ -1,0 +1,4 @@
+<lora:skirt_tug_v0.1:1>
+1girl, clothes tug, dress tug, see-through, backlighting, wind, wind lift,
+linen dress,
+<lora:linen_dress_v0.3a:1>, masterpiece, best quality, highly detailed

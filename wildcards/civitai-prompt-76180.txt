@@ -1,0 +1,1 @@
+liquid clothes, 1girl, solo,   sangonomiya kokomi, ,kokomidef, kokomirnd,<lora:LiquidClothesV1:1>, <lora:sangonomiyakokomi1-000008:0.7>,standing,liquid hair, water,wave,sea,blue theme, cowboy shot, starry sky, galaxy,cleavage,

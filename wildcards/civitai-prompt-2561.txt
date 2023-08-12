@@ -1,0 +1,4 @@
+ankymoore,  blonde, fashion lady,
+illustration, oil painting style,
+1girl, solo, hat, multiple ladies, bag, coat, ground vehicle, dog,
+ <lora:ankymoore-04:0.9>

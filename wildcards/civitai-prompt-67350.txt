@@ -1,0 +1,4 @@
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting,whole body,
+2girls,  multiple girls, (outdoor), nude, breast press, ((french kiss:1.2)),kneeling,  asymmetrical docking, symmetrical docking,nipples,
+AND ((whole body:1.5)) , (completely nude:1.5),2girls, yukinoshita yukino is ((tan skin)),(small breast),long black hair,((high twintails)),(heart-shaped pupi:1.2) ,hair between eyes,<lora:YukinoshitaYukino_yyV1:0.4>,mole on breast,blush
+AND   ((whole body:1.5)),(completely nude:1.5),2girls, miorine,long hair, silver hair, long hair,((medium breast)),mole on breast,grey eyes,hair between eyes,<lora:miorineRembranMobileSuit_v10:0.4>,mole on breast

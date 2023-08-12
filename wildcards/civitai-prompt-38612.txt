@@ -1,0 +1,1 @@
+(best quality, masterpiece),  <lora:pepsi:1> pepsi, can, brand name imitation,English text, water background

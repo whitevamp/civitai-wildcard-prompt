@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), Flat-colors, (depth),  <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman, freckles, brown eyes, light brown braided hairstyle,
+ portrait, solo, half shot, looking at viewer, detailed background, detailed face, (<lora:GlassTech-20:0.6>, glasstech, glass theme:1.1)  verdant-warrior, leaf armor, mixing of plants with armor, furred armor,  flower crown, green magical lights, walking, graceful, druidic nature powers,  natural markings on skin, glowing  druidic runes on armor, magical energy , plant overgrowth, dark rocks in background,  fireflies, lightning crackling, backlighting, mystical atmosphere,

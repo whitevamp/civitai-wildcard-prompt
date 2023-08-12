@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo young girl, blond long wavy hair, large breasts,
+embarrassed, 
+swimwear, gothic, leather, choker, leash, spikes, punk, cyberpunk, opsw, spread legs, hands on legs,
+stage, spotlight, crowd audience,  <lora:hardSwimwear_hardest:0.7>

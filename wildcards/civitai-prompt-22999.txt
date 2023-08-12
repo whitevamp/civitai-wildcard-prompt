@@ -1,0 +1,1 @@
+1girl, swimming, blue background, plant pattern, sun <lora:flat_colour_v4:0.7>

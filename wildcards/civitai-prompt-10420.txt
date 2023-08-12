@@ -1,0 +1,2 @@
+<lora:GlassSteelAI:.9> GlassSteelAI
+spaceship in space, stars  . detailed, intricate

@@ -1,0 +1,4 @@
+((supermarker, as a supermarket employee)), shiny skin, <lora:shinyOiledSkin_v1:0.1>
+<lora:janna:0.5>
+janna \(league of legends\)
+tiara, floating hair, blonde hair, necklace, jewelry, body chain, gold chain, hair ornament, makeup, (blue eyes, very long hair) <lora:add_detail:1>

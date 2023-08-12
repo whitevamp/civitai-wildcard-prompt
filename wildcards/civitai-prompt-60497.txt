@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, <lora:ibarazaki_emi_v0.1:0.8>, ibarazaki_emi,  green eyes, gym uniform, leaning forward, facing viewer, <lora:downblouse:.6>, down blouse, loose shirt, small breasts

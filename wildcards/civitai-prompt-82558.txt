@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1girl,(kobeni),short hair,white shirt,black necktie,front view,full body,scared expression,scared face,(tears:1.2),(eager pet pose),crouched,restaurant background,good face,(good hand),good finger,looking at viewer, <lora:eager_pet_pose_v1:1.2>, <lora:Character_Kobeni:1>, <lora:add_detail:0.8>

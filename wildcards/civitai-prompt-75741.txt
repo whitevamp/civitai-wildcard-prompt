@@ -1,0 +1,4 @@
+(masterpiece, best quality), photorealistic rendering, game cg cinematic, abstract and colorful paint style,
+(1man, wrinkled face, old  male:1.2),   ruby eyes, light brown hair, slick back,
+ solo, half shot, detailed background, detailed face, (<lora:kVoidEnergy-000001:0.5>, V0id3nergy, void theme:1.1), smirk], (glowing eyes:1.1), (card-wizard:1.05), swindler, yellow magician outfit, dynamic pose, (cards floating in the air:1.15),  dark brown magic glowing lights in background, updraft, ethereal atmosphere,
+scg, <lora:stylized3DModelLora_v20:0.2>,

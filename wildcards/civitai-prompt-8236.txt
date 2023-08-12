@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+1girl,jumping,
+ <lora:tina-nvwls-v1-final:0.8> trance tina, monster girl, claws, wavy hair,wind,
+(glowing:1.2),particles,pink fire,(pink fur:1.1),(pink skin:1.1),body fur,pink aura,purple lightning,electrified,
+Glowing Purple, 
+ <lora:flat2:-0.5>,
+ <lora:LowRa:-0.3>,

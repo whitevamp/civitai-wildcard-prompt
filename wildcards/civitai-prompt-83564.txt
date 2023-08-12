@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, Sanic,  <lora:Sonic:0.8>, aiming at viewer, handgun, weapon, <lora:Pos_AimingHandgunAtViewer:1>

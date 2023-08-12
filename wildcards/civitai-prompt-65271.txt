@@ -1,0 +1,1 @@
+Sorayama Style, robot, masterpiece, best quality, detailed, 1girl, hair, looking at viewer, walking towards viewer, bright lime (mini skirt:1.45), people, (arms behind back:1.4), sunny sky, house, street, cafe <lora:atomic:1> <lora:lowra_v10:.6> <lora:sorayamaStyleHajime_v11:.3>

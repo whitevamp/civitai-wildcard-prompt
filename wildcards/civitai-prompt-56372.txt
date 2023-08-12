@@ -1,0 +1,2 @@
+masterpiece, best quality, highest quality, photorealistic, perfect anatomy, perfect face, perfect eyes,
+<lora:bradbgt_ex_02:1>,  aqua hair, brabulladbgt, red hairband, red gloves, red crop top,  blue eyes, skirt, hoop earrings, choker, 1girl, city, sexy pose

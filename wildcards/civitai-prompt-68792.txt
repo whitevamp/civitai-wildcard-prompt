@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl,solo,chibi,full body, gradint background, fluorescent color, blue theme, 
+ traditional Chinese clothing, surrounded by blue roses,  
+ <lora:blindbox_V1Mix:1> <lora:nijiexpress:0.9>

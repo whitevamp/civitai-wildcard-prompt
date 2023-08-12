@@ -1,0 +1,2 @@
+(4k, best quality, highres:1.1), (masterpiece:1.1), medium shot, man, Chinese male, eyes closed, (wearing headphones, Sony WH-1000XM3:1.2), holding ink brush, doing calligraphy, (Chen Daoming:1.6), facial_hair, hanfu, 1boy, beard, male_focus, mustache, chinese_clothes, old, solo, old_man, wide_sleeves, long_sleeves, topknot, robe, 
+ <lora:TheThreeKingdoms_v11:0.7> <lora:Moxin_10:0.3> <lora:Xiaorenshu_v20:0.2>

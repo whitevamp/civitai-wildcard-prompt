@@ -1,0 +1,2 @@
+A photo of a gothic Victorian woman, looking wistful, her auburn curls restrained under an ornate hat. She is dressed in a black mourning gown with delicate lace sleeves. She stands in the heart of a once-vibrant ballroom, now abandoned and draped in cobwebs. The faint glow from the chandelier overhead lends a somber tone, and the camera angle is behind her, capturing her contemplative gaze in the dusty mirror.
+<lora:VictorianGoth:0.5> 66Vic22Goth11 style

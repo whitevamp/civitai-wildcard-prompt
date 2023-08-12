@@ -1,0 +1,3 @@
+<lora:locker_room_v0.1:1>
+locker room, 2girls, gym uniform, 
+<lora:princess_carry_v0.1:1> princess carry,, masterpiece, best quality, highly detailed

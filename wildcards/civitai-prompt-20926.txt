@@ -1,0 +1,4 @@
+professional photo of zenigata, running, yelling, trenchcoat, glare,
+detailed skin, detailed eyes, dynamic angle, full body,
+volumetric light, highrez, masterpiece, best quality,
+<lora:Zenigata:0.58:MIDD>

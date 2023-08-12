@@ -1,0 +1,2 @@
+masterpiece, best quality, detailed, 1girl, solo, indoors, wooden floor, blood on face, blood on clothes, smile, parted lips, looking at viewer, dutch angle, wariza,
+gasai yuno, school uniform, red bowtie, blue skirt, short sleeves, blue shirt, white socks, loafers,  <lora:GasaiYunoV2_2-000009:1>, <lora:more_details:0.5>

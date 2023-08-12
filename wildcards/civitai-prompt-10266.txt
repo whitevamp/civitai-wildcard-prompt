@@ -1,0 +1,1 @@
+neotech woman wearing magic-fantasy-mech armor flowing cape, standing in a lush bio utopia,BiophyllTech,fcPortrait <lora:magic-fantasy-mech-v1:0.5> <lora:NeoFuturisticTech:0.8> <lora:BiophyllTech:0.6>

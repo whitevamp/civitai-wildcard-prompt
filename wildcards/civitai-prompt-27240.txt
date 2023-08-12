@@ -1,0 +1,1 @@
+<lora:aphrodite-v1-lora-any-6ep-resize:0.4> aphrodite, blonde hair, short hair, hair flower, white dress, revealing clothes, mature female, laughing , tear, <lora:GirlsReactingToBikinisMeme:1>GirlsReactingToBikinisMeme, <lyco:WheezeMemeTemplate:1>8_wheeze, wheeze meme, face focus, tear

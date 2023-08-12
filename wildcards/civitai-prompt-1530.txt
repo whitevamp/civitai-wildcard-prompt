@@ -1,0 +1,7 @@
+jim lee,
+
+1girl, barbara gordon, batgirl, belt, bodysuit, breasts, cape, domino mask, gloves, green eyes, long hair, mask, orange hair, pouch, solo, superhero, yellow gloves, ((night)), city, 
+
+, ((masterpiece))
+
+<lora:jim_lee_offset:1>

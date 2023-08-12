@@ -1,0 +1,1 @@
+masterpiece, sharp, ultra detailed, 8k,cinematic,(Mass Effect:1.1),(Commander facing the great old one Cthulhu),H.P Lovecraft,(high detailed character:1.0)((soft dimmed light)), best quality, dimmed, (high detailed background:1.2),8k uhd, dslr, soft lighting, high quality, film grain, intricate detail, milkyway background,  <lora:milkyWay_v10:0.9>

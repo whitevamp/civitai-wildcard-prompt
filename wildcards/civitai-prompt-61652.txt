@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.1>, (masterpiece), pink hair, long hair, detailed purple eyes,<lora:yaeMikoRealisticAnime_offset:1.0>

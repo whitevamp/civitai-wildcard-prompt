@@ -1,0 +1,1 @@
+<lora:skirt_tug_v0.1:1.0> 1girl, (clothes tug:1.4), implied pantyshot, hand between legs, Tall body, cleavage, big breast, open clothes, sweater, Light Sea Green skirt, Lodge  , masterpiece, best quality, absurdres,  <lora:more_details:0.5> <lora:envybetterhandsLocon_beta2:1>

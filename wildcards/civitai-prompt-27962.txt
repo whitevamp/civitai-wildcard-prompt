@@ -1,0 +1,4 @@
+masterpiece, best quality, highres,GuyTiredafther, 
+(1boy) solo,  Shirogane_Miyuki,1boy, cleavage, closed mouth, collarbone, closed eyes, hetero, red hair, lying, indoors
+<lora:Shirogane-final:0.8>
+<lyco:GuyTiredafther:0.6>

@@ -1,0 +1,1 @@
+<lora:cuteGirlMix4_v10:0.6>, <lora:shirtliftv1:0.25>, <lora:realisticVisionV20_v20:0.1>, <lora:mix4:0.05>,a girl ,young, slim,smile,lovely,  black hair, (raw photo),(best quality), (photorealistic),(simple white background:1.2), dress shirt and jeans, White background, ,Canon 5D Mark4 , create a polished and powerful look,

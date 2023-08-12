@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, aesthetics and atmosphere, dark shot, film grain, soft focus, bokeh, night shot, masterpiece realistic volumetric light, 
+1girl, purple eyes, white hair, curly hair, smirk, (freckles:0.8), thigh, medium breasts, upper body, (sparkly:1.3) sequins long cns dress, ray tracing reflection, desert street, path, city lights, incredible sky, relying on the wall, from side,
+<lora:LowRA:0.1><lora:epi_noiseoffset2:1>,

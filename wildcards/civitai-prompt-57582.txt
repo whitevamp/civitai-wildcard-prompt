@@ -1,0 +1,5 @@
+(a girl running at the olympics), (sports outfit), (exploding clothes),sweat, motion lines, motion blur, (blush), (embarrassed)
+BREAK
+(a view of an olympic stadium full of spectators:1.2), (full raftors),(running track:1.2), (a crowd of spectators:1.2), (intricate details:1.4), colorful details, iridescent colors
+BREAK
+<lora:aaaa-(quad-a)-1197it-novae:1>,((masterpiece, best quality)), 4k, subsurface scattering, ultra detailed, solo,  detailed lighting, inspired H.R. Giger, official art, promotional art, composition

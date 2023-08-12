@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, <lora:obeseGirlsConcept_v10:0.8>,WeightChubby, <lora:gawrGuraHololiveAll_v4AllOutfits:0.8>,gawr gura, blue hoodie, shark hood,

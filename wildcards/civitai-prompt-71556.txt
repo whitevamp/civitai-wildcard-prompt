@@ -1,0 +1,7 @@
+(masterpiece, 4k ,ultra detailed:1.2),(fantasy:1.2),illustration,(realistic:1),(photorealistic:1),
+(Volibear, the champion from League of Legends:1.6),
+(white hair,very long fur:1.6),(roaring with open mouth:1.3),(white bear with blue eyes and a glowing light on its face:1.4),
+(musculous body,blue rays coming out of eyes,rays surrounding around,giant bear:1.3),
+(forest, night, lighted mushrooms, fireflies:1.2),
+<lora:volibearV1:0.75>,
+<lora:LowRa:0.55>

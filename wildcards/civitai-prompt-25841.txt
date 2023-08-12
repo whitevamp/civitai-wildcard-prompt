@@ -1,0 +1,2 @@
+edgOrgasm,face focus, a woman with her eyes closed and mouth open , woman with edgOrgasm_face
+ <lora:edgOrgasm:0.7>

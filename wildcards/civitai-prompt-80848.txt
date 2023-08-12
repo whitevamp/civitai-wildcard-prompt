@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (ultra realistic details), highly intricate details, 8k, dark atmosphere, horror, 1girl, (mechanical body and face:1.5), silver hair, robotic girl, sitting in a chair, eyes closed, (dark theme), gothic,  <lora:LowRA:1>,  <lora:add_detail:1>

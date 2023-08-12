@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (RSEEmma:1.4), <lora:MISC-GlossyFace:0.3>, <lora:CHAR-MarieRose:0.2>, twintails, cleavage, sundress, smile, blush, big black ribbons, blonde, eating, cream, big cake, birthday, gifts, (balloons:1.2), table, sit,

@@ -1,0 +1,1 @@
+masterpiece, best quality, serra, purple eyes, hildauniform, looking at viewer, smile, one eye closed, one eye open, school, classroom <lora:serra-nvwls-v2-000010:0.9> <lora:fireemblem_hilda-10:0.8>

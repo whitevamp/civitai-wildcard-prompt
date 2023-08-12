@@ -1,0 +1,4 @@
+((masterpiece, best quality, photorealistic)), (1girl, solo),Sunshine,outdoors,
+(pureerosface_v1:0.7), ulzzang, pale skin, long pink hair, beautiful eyes, (petite, small breasts:1.6),
+midriff, wearing camouflage_uniform, short shorts, cleavage,
+(naughty face), seductive smile, (seductive pose), presenting, invitation, teasing, wearing hat, revealing clothes, (skindentation) <lora:koreandolllikenessV20_v20:0.4> <lora:sexyCopUniform_v10:0.3>  <lora:aespagiselle-v1:0.3>

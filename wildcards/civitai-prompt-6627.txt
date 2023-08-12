@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, indoors, smile, open mouth, hands on hips, stage, spotlight,
+mizuki yukikaze, hair ribbon, one-piece tan, bridal garter, detached sleeves, frills, heart cutout, corset, breastless clothes, frilled collar, micro panties, brooch, <lora:MizukiYukikazeV1_1:1>,  <lora:more_details:0.3>

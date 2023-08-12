@@ -1,0 +1,1 @@
+<lora:tsukumizuAva_v10:1>, <lora:avas_jun_07-03--tsukumizu_yuu_005-095--ham_rifl_09-01:1>, sketch, tsukumizu yuu \(style\), (masterpiece:1.5), illustration, 1girl, adult, office clothes, (crying in front of a computer)

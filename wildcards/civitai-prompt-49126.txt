@@ -1,0 +1,2 @@
+shinkawa youji, (programmer:1.0), 1boy, smoke, short beard, bald,  sunglasses, male focus, solo, middle age, white man, ((masterpiece)), (paint splashes, abstract, painting_\(medium\), water paint:1.4)
+ <lora:yojiShinkawaStyle_offset:1>

@@ -1,0 +1,2 @@
+((best quality, masterpiece)),  ((style-swirlmagic):0.35), 
+dragon , wings, claws,   outdoor, night, moonlight, clouds on background, ((full moon ):1.1), medieval, castle on background, <lora:more_details:0.5>

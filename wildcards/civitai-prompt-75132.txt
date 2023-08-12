@@ -1,0 +1,3 @@
+masterpiece, best quality, photorealistic, light rays, light particles,
+misty lake, sunlight, 
+1girl,  floating hair, floating clothes, white serafuku, floating in the air, fix, flat bangs, stunning symmetry face, emotional, <lora:add_detail:1>,   <lyco:FilmGX2:0.7>

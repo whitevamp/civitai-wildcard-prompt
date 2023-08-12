@@ -1,0 +1,3 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres, 
+CN_Girl1, 1girl, ass, black_footwear, black_hair, blurry, blurry_background, brown_hair, brown_jacket, brown_legwear, classroom, depth_of_field, desk, formal, from_behind, high_heels, indoors, jacket, lips, lipstick, long_hair, long_sleeves, looking_at_viewer, looking_back, makeup, office, office_lady, open_mouth, pantyhose, parted_lips, red_lips, sepia, shoes, sitting, skirt, solo, squatting, stiletto_heels, suit, teacher, thick_thighs, thighs, thong, underwear, brown_dress
+<lora:cn_girl-000001:0.85>

@@ -1,0 +1,2 @@
+award-winning photography,1girl, purple and blue hair, sitting on a throne made of ice, CRYSTALLINEAI, ice castle background, (bokeh, UHD, HDR, highres, ultra detailed, intricate details, textural effects, absurdres, masterpiece, 8k:1.2),  
+ <lora:crystallineai_v10:1>

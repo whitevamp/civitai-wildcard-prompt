@@ -1,0 +1,1 @@
+8k,best quality,masterpiece,realistic,1boy, chaozu, black eyes, black hat,chinese clothes, (light blue sleeves),(black vest),(light blue pants),kanji, black boots, blush stickers, smile, open mouth, flying high in the air, (blue sky), city far in the background, <lora:hipoly_3dcg_v7-epoch-000012:0.5>, red pom pom \(clothes\)

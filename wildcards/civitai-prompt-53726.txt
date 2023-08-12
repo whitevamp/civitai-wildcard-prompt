@@ -1,0 +1,7 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1 girl, small body, small breasts, 
+rebecca \(cyberpunk\), solo, long hair, mechanical eye, colored sclera, red sclera, colored skin, white skin, leg tattoo, neck tattoo, green hair, long hair, small breasts, underwear, fang, red pupils, skin fang, red eyes, black jacket,
+(sitting on red sofa),
+seductive posture, smile,
+A sleek black coffee table sits in front of the sofa and a few decorative items are placed on the shelves,
+(beautiful detailed face), (beautiful detailed eyes), 
+ <lora:rebeccaCyberpunk_v10:0.8>

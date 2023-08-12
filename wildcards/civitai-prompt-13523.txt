@@ -1,0 +1,1 @@
+hll,evil female cyborg with (mechanical wings:1.4) wearing (black robes:1.2) (cloak:1.2),mechanical legs, <lora:hll_20230617094651:0.3> <lora:NijiExpressV2:0.4>    <lora:mechanical_wings-000007:1.0>,  <lora:AMechaSSS:0.8>

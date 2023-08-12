@@ -1,0 +1,9 @@
+realistic, detailed, realistic details, intricate detail, masterpiece, best illustration
+break,
+nsfw, 1girl, slender, tanned skin, small breast, cleavage, long hair, petite, detailed skin complexion, seductive face, wet, realistic fluid fx, transparent tank top, wet clothes, open jacket, skin tight shorts, dynamic pose, looking at viewer, ((cyborg, mechanical arms, mechanical legs))
+break,
+(((detailed background, cyberpunk, night, dark, neon, dystopian, futuristic city, brutalist architecture, raining, cold, depressing, volumetric fog, wet ground, people in background)))
+break,
+cowboy shot, portrait, perspective, rule of third, depth and dimension, depth of field, proportion, light and shadow contrast, color contrast, hue contrast,
+break,
+<lora:C_RV:0.25>

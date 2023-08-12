@@ -1,0 +1,1 @@
+<lora:LowRA:0.7>, dark theme, absurdres, best quality, [1boy:1girl:0.2], tomboy, solo, very short hair, pixie cut, tan, (muscular:0.8), messy hair, blue eyes, (from behind), looking back, looking looking at viewer,  <lora:Bodypaint-000012:1>, bathroom, BREAK nude BREAK dragon tattoo, bodypaint,

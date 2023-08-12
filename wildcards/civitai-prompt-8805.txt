@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details, <lora:add_detail:1>
+1 girl, adult  woman, freckles, pink eyes, dark red layered hair,
+portrait, (bloody scars:0.7), looking at viewer, solo, (full body:0.6), detailed background, close up, (evil <lora:NodesTech:0.6>,  holographic, NodesTech theme:1.1), superhero, focusing,  cape, urban battle scene,  running,  cars,  concrete, steel beams, building frame,   battle scene,  cinematic atmosphere,

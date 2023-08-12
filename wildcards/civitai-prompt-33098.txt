@@ -1,0 +1,2 @@
+gawr gura, blue hoodie, shark hood, smile, walfie
+<lora:gura-10:0.6> <lora:walfie-10:1>

@@ -1,0 +1,2 @@
+a man (jimkong) wearing (sunglases) sprinkling salt (SaltBaeMeme:1.2) onto a (cute puppy on a dish) outdoor. (backdrop of rockets and missles firing:1.3).
+ <lyco:KimJongUnDogu:0.69>, <lora:SaltBaeMeme:0.9>

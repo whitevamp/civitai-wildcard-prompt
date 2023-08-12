@@ -1,0 +1,1 @@
+highres, masterpiece, perfect light, mature, (lashes:1.2), blonde bob hair, (dark deep green eyes:1.3), looking at viewer, frightened, perfect teeth, wet hair <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3> <lora:add_detail:0.4>

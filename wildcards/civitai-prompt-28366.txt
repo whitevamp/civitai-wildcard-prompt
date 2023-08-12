@@ -1,0 +1,2 @@
+best image quality, masterpiece, super high resolution, (fidelity:1.4), photo, 1 girl, white shirt, torn jeans, white sneakers, dim, darkness, despair, pity, poor, movie, tears, teardrops, (torn clothes:1.5), (wet clothes:1.4), bare shoulders, real rain, wet hair,.. (chibi) 
+<lora:add_detail:1>, (masterpiece,best quality:1.5)

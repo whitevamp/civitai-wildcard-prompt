@@ -1,0 +1,1 @@
+masterpiece, best quality, benny, tan skin, upper body, portrait, ahetobleh, from above, hands on own head, closed eyes <lora:benny-fnv-richy-v1:1> <lora:ahetobleh-nvwls-v1-final:0.9>

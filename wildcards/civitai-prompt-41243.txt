@@ -1,0 +1,2 @@
+<lora:chilloutmixss_xss10:0.7>,<lora:cnBeauty_v1.2:0.6>,(masterpiece), (best quality), (ultra high res:1.2),(photorealistic:1.4),  1girl,extremely detailed face,posing,
+((looking at viewer)),beautiful detailed eyes,smiling,school uniform,t shirt,((black shirt,red skirt)),whole body,laughing

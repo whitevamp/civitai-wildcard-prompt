@@ -1,0 +1,1 @@
+giant octopus lay on old couch, multi many eyes, (fractal tint tentacles:1.3), smooth shiny colorfully skin, lots of stuffed gems and various clutter and mess in background, intricate, highly detailed,  <lora:epiNoiseoffset_v30:1>, <lora:theovercomer8sContrastFix_sd15:1>

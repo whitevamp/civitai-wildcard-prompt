@@ -1,0 +1,4 @@
+(masterpiece:1.0),(best quality:1.0),(ultra highres:1.0),(8k resolution:1.0),(ultra realistic:1.0),(ultra details:1.0),(sharp focus:1.0),(RAW photo:1.0),dynamic angle,(film grain:1.2),professional lighting,photon mapping,radiosity,physically-based rendering,
+1girl,(dynamic pose:1.0),detailed beautiflul skin,smile,solo,(Kpop idol:1.1),absurdres,[:(detailed beautiflul face:1.2):0.2],makeup,PureErosFace_v1,(parted lips:1.1),red lipstick,tall figure,golden proportions,wide shoulders,(middle breasts),(cleavage:1.1),detailed skin-texture,thigh gap,detailed hair,random hair style,finely detailed beautiful eyes,(aegyo sal,puffy eyes,eyelashes:1.0),glistening skin,portrait photo,
+ming hanfu,ming style outfits,long coat,mamian skirt,short shan,ear rings,(necklace:1.0),futuristic,studio,simple background,looking at viewer,(upper body shot:1.2),
+fashi-g, <lora:shojovibe_v11:0.3> , <lora:fashionGirl_v54:0.4>, <lora:daili_v20:0.4>

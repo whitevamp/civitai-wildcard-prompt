@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,realistic,photo-realistic:1.37),best quality,<lora:catman:0.75>,masterpiece,maomi,scarf,umbrella,blurry,holding,blurry background,outdoors,transparent umbrella,transparent,holding umbrella,boots,standing,solo,brown footwear,coat,pants,blue scarf,

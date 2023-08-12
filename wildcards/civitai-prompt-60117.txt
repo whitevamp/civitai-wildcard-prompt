@@ -1,0 +1,2 @@
+(masterpiece, best quality, official art, beautiful and aesthetic:1.2), extremely detailed,(fractal art:1.2),colorful,highest detailed,(zentangle:1.2), (dynamic pose), (abstract background:1.5), (many colors:1.4),
+1 female, mature female, (cajwes:0.8), black hair, hanfu, jin style, <lora:hanfu_v30:0.5>, Tree Fern, panda,

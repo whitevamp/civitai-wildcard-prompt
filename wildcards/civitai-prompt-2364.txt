@@ -1,0 +1,2 @@
+<lora:CoalPunkAI:.95> CoalPunkAI
+battleship  , detailed, intricate

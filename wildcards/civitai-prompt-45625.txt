@@ -1,0 +1,4 @@
+<lora:position_murkys pronebone:1>,sex,sex from behind,penis,hetero,1girl,1boy,lying,on stomach,prone bone,ass, ass focus, pov, anus,looking back
+
+
+ <lora:character_prim_kuroinu_epoch 10:1>,kuroinu_prim,1girl,

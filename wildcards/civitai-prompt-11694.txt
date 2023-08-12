@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed),  <lora:add_detail:1>, (Sally, SalDre),  <lora:Sally:0.7>,  (multi colored skin, stitches, long red hair, stitched face, lips, makeup, small pupils, stitched dress), <lora:adjusting_clothes_ass_v0.1:1> (adjusting clothes, ass focus, close-up, from below:1.1)

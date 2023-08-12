@@ -1,0 +1,1 @@
+1girl, portrait of female mecha robot godanubis with  jackal head in hanggar, magic astral, ornate <lora:add_detail:0.4>   <lora:ARWgodanubis:1> <lora:mecha(mjstyle):0.5>

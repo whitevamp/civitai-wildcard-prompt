@@ -1,0 +1,1 @@
+masterpiece, highres, best quality, ultra-detailed, perfect lighting,  <lora:gura:1> gawr gura,  <lora:smol_20230527144512:1> smol,

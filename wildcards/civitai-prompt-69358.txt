@@ -1,0 +1,4 @@
+lucy \(cyberpunk\), 
+masterpiece, best quality, top quality, ultra highres, 8k hdr, 8k wallpaper,  intricate details, sharp focus, realistic, delicate, amazing, CG, finely detailed, beautiful detailed, colourful, Leaning against a fence, cyberpunk city, blue sport tights, purple hood, (smoking), looking away, night, gyaru, bishoujo, adorable girl, girl, 3/4 portrait bust in profile,
+ pureerosface_v1:0.6,
+ <lora:lucyCyberpunk_35Epochs:0.7>

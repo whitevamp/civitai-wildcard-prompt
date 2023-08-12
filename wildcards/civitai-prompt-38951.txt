@@ -1,0 +1,3 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.85>, a shocked nude girl being grabbed from behind by (lizardman) in a flooded city at night, horror, dramatic, city lights, ruin, clutter
+<lora:lizardman_v0.1c:0.9>
+<lora:LowRA:0.8>

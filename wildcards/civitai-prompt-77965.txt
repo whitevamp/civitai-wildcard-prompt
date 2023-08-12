@@ -1,0 +1,2 @@
+<lora:add_detail:1><lora:add_saturation:0.5> <lora:WhippedCreamTopStyle:0.1><lora:capi-09:0.8>
+WhippedCreamTopStyle capybara

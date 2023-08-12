@@ -1,0 +1,1 @@
+(1girl, white hair medium hair twin braids, furrowed brow) (digital) (in detailed zoo, (Bustier )) , best quality, <lora:boldline:0.2>  <lora:hairdetailer:0.2>  (torn clothes, wet, slime, livcloth, tentacles, living clothes), <lora:livcloth:1.2>

@@ -1,0 +1,2 @@
+(Absurdres, Absurd Amount of Details, Intricate Details, Masterpiece, Best Quality, High Resolution, 8k), 2boys, kiss, indoors, (masterpiece, best quality, highres), school, classroom, sportswear, closed eyes, blush, crotch bulge, slim, short hair, soft fluffy hair, masculine, soft skin, young adult, 19 years old, facing eachother, face to face, peaceful, Depth of Field, VFX, soft light, front light, rim light,
+ <lora:add_detail:1> <lyco:GoodHands-beta2:1.0>

@@ -1,0 +1,2 @@
+(detailed arena background), masterpiece, best quality, Soul_Fighter_Gwen, multicolored_eyes, heterochromia, ,twin_drills ringlets, long_hair, closed mouth, tears, wavy mouth, tearing up, pout, :i, meme, :t, parody, frown, v-shaped eyebrows, crying, sad, crying with eyes open, puffy cheeks
+ <lora:Soul_Fighter_Gwen-15:0.89> <lora:merrytail_aqua_crying_meme_v02-05:0.5>

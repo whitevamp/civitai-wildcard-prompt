@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),illustration,8k,hd,1girl,upper body,(portrait:1.2),long_hair,blue_eyes,blonde_hair,breasts,shirt,white_shirt,blue_necktie,long_sleeves,pleated_skirt,miniskirt,brown_footwear,knee_boots,center_frills,collared_shirt,single_side_bun,<lora:Enome-V1:0.9>,

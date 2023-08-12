@@ -1,0 +1,1 @@
+octane render, hdr, (hyperdetailed:1.15), (soft light, sharp:1.2), Tifa, (Tifa Lockhart:1.1) , final fantasy VII remake, <lora:sidewayass:0.8>, sidewayass, perfect legs, (reality filter)

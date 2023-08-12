@@ -1,0 +1,3 @@
+best quality, intricate details,realistic, photorealistic, 
+
+ <lora:hannahOwo_v1:0.8> hannahowo,

@@ -1,0 +1,1 @@
+masterpiece, best quality, (a cyborg with a cyberhelmet head and a halo), wearing orange techwear jacket, extramly detailed <lora:cyberhelmetWearable_cyberhelmetv01:0.9>

@@ -1,0 +1,1 @@
+outdoors background,, (masterpiece:1.2), (best quality:1.15), extremely detailed, perfect lighting, (alternate costume), (White shirt:1.2), female shirt, shorts, denim shorts, short sleeves, <lora:[Genshin] Yoimiya (Numeratic):0.9>, yoimiyadef

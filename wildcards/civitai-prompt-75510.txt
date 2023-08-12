@@ -1,0 +1,2 @@
+Photo of a captivating girl in a futuristic ensemble, stands in a clandestine caf within a bustling metropolis, iridescent bodysuit, neon barrettes, enigmatic setting, cyan hair, red lips, (evil:1.2), (poor quality photo:1.3), (blurry:1.1), smiling, light valve, best shadows, (gold:0.5), (sad:1.2)
+<lora:1970RetroFuturism:0.7>

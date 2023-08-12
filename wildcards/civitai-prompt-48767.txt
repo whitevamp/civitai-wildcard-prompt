@@ -1,0 +1,4 @@
+realistic, beautiful female,
+ turtleneck sweater, dinner, party, hall,Ceremonial meeting  , looking at viewer, 
+office,(parted lips:1.05), ( sad,crying, tears),
+shiny skin, skindentation  <lora:ZhaoJinmai-3.5:0.5>

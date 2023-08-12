@@ -1,0 +1,5 @@
+<lora:zwd_v2:0.75> zwd,
+true-to-life visuals, artistically refined,captivating beauty, breathtaking aesthetics, dramatic contrasts, atmospheric depth,
+1girl,
+warehouse conversion, industrial, trendy,
+Ambition,

@@ -1,0 +1,2 @@
+masterpiece, best quality, stage, 1girl,solo,
+ <lora:emiV1:0.7>emi,

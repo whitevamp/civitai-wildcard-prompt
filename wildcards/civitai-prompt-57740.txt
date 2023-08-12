@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:1> <lora:yoneyamaMaiStyle_yoneyamaMaiV2Locon:1> 1 girl, portrait, multicolor_hair, looking_at_viewer, masterpiece, best quality, (colorful:1.2), open smile, heterochromia, water, splash

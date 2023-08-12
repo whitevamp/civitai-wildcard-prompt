@@ -1,0 +1,5 @@
+absurdres, best quality, 2girls, (eye contact:1.5),  from above, on side, on bed, <lyco:GoodHands-beta2:1.0>, yuri, (eye focus:0.5), hug, from side
+BREAK
+very short hair, blonde hair, earrings, tattoo, choker, pixie cut, tomboy, blush, (panicking:0.25), (embarrased:0.25), (lovestruck:0.1) messy hair, black theme, (large breasts:0.5), holding another's arm
+BREAK
+long hair, black hair, serafuku, (lovestruck:0.25), (smile:0.69)

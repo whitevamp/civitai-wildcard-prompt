@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, perfect hands, jackal, long hair, pink hair, shorts, hairclip, open jacket, red eyes, white jacket, cleavage, streaked hair, pink gloves, navel, ahoge, midriff, tattoo, facial mark, pink shorts, choker, hair between eyes, twintails, long sleeves, white hair, thigh strap, belt, single pink thighhigh, gesugao, evil smile, high detail skin, high detail hair, high detail eyes, outdoors, post-apocalypse, ruins, <lora:jackal-v1:0.5>
+ <hypernet:yandereGesugaoStyle_v10:1>

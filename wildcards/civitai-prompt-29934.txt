@@ -1,0 +1,1 @@
+masterpiece,Solaire, 1man,sunlight, open_arms, <lora:Solaire:1>   ,from_below ,upright, hands ,(draw up:1.2) ,chain mail ,aigrette ,

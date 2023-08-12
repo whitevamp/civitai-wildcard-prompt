@@ -1,0 +1,4 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting, cinematic bloom,RAW photo, 8k uhd, film grain  BREAK
+perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), red hair,office,dreamlike, unreal, science fiction, huge breasts, beautiful clothes, lace, lace trim, lace-trimmed legwear, nsfw, breasts out, absurdly  intricate detail, delicate pattern, sexy, charming, alluring, seductive, erotic, enchanting,rear view,big butt
+
+makima \(chainsaw man\), (red hair)+(long braided hair)+(bangs), yellow eyes, golden eyes, (ringed eyes), (white shirt), (necktie),stretching her ass with hands,pantpulldown <lora:makimaChainsawMan_offset:1> ,<lora:pantPullDownLora_pantpulldownV1:1>

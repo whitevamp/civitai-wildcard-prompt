@@ -1,0 +1,1 @@
+1girl, solo, digital art, ultra detailed, <lora:cleave_gag_v1:1> clv,  <lora:kafka-v1.5-lora-novaeany-64dim:0.8> star-kafka, eyewear on head, purple hair, sunglasses, red gloves, hair between eyes, nude, bra, upper body, white cleave gag, angry, <lora:add_detail:0.5>, <lora:wowifierV2:0.3>

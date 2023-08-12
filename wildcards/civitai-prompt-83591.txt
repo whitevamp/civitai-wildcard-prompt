@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, SuperSonic,  <lora:Sonic:0.8>, wheelchair, <lora:Pos_Wheelchair:0.3>

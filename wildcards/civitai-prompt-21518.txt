@@ -1,0 +1,1 @@
+female, woman, robot wearing hitech suit of mech armor, astral cape, <lyco:EnvyBeautyMix27:0.8> <lora:nijiMecha:0.6>

@@ -1,0 +1,5 @@
+best quality, masterpiece, ultra high res, realistic,  raw photo, official art, cowboy shot, (photorealistic:1.4),(detailed face, detailed eyes),upper body, sexy pose, ass focus,
+1girl, solo, looking at viewer, little smile, skinny, outdoors,
+ <lora:korraTheLegendOfKorra_v2:0.6>, (korra, dark skin, dark-skinned, ponytail, hair tubes),
+<lora:xxxmicro-v5:0.6>,(tiny microbikini:1.2),
+<lora:oiled skin:0.8>,(shiny skin),oiled skin,

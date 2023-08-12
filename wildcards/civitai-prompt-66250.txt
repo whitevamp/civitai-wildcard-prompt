@@ -1,0 +1,2 @@
+masterpiece, 8k, intricate details, hyper quality, ultra detailed, beautiful composition, realistic shadows, physically-based rendering, absurdres, 3D render, isometric,
+a maze with brick walls, labyrinth, plants growing, Moss, vines, ferns, mysterious, abandoned, Torches, dimly lit, Traps, Abandoned building, secret passages, <lora:miniatureWorldStyle_v10:0.75> , nmini\(ttp\), miniature, landscape, in dreamy forest

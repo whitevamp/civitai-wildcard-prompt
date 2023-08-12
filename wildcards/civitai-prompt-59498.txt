@@ -1,0 +1,1 @@
+(original: 1.5), (far shot), (realistic: 1.5), masterpiece, best quality, beautiful clean face, full body, 1girl, wearing army green techwear jacket and trousers with buckle and tapes, tactical vest, in a jungle, posing for a picture, long legs, <lora:urbanSamuraiClothing_urbansamuraiV03:0.2>, <lora:epiNoiseoffset_v2:1>, pureerosface_v1

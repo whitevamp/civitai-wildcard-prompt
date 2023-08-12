@@ -1,0 +1,4 @@
+professional photo of Claudia chiffre, red shirt, black leather pencil skirt, glasses, looking at viewer,
+detailed skin, detailed eyes,
+volumetric light, highrez, masterpiece, best quality,
+<lora:Claudia Chiffre V1:0.5:MIDD>

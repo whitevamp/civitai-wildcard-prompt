@@ -1,0 +1,7 @@
+Best quality details, realistic,8K UHD, High definition, hyperdetailed, High quality detailed texture, High quality shadow, Detailed beautiful delicate face, Detailed beautiful delicate eyes, Depth of field, Ray tracing, perspective, 20's, only one person,
+indoors,ancient china background, china patterns,
+Pretty Kpop girl group,
+head tilt, leg up, legs together, perfect body, lean body, medium breasts, thin waist, wide hips,
+hair stick, hairpin, hair ornaments,
+light smile, lovely face, slender face, fair white skin, glowing eyes, glossy lips, bags_under_eyes, pale pink lip, beautiful eyes, eyelashes, Thin lips, (noble girl), eyeshadow, makeup, eyeliner,
+shawl, hagoromo, hanfu,  detailed clothes, <lora:elegantHanfuRuqun_v10:0.5>,

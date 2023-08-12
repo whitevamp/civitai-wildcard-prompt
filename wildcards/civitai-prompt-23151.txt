@@ -1,0 +1,3 @@
+CLOSEUP_PORTRAIT, a photograph of 1girl 28 yo, terminator, biomechanical, long blonde hair, (epic human cyborg, half cyborg half human:1.4), complex robot, full body, hyper realistic, insane fine details, Extremely sharp lines, (cyberpunk aesthetic:1.2), a masterpiece,
+8K resolution, 8K UHD, perfect detailed skin, skin pores, detailed eyes, breasts, cleavage,detailed hair, (white latex dress:1.2), cinematic lighting,
+<lora:LowRA:0.3> <lora:insanobot:0.8> <lora:CyberpunkStyleV3:0.2>

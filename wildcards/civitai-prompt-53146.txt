@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),  horror art, pale skin, creepy woman, ahegao, ahegao face, awaitingtongue, tongue out, saliva drool, pleasure,  looking at viewer,  <lora:kayako_v10:0.6>  <lora:tonguedropAhegaoALoraIn_tonguedropV1:0.7>

@@ -1,0 +1,7 @@
+masterpiece,best quality, beautiful and aesthetic,
+1girl, thighs, choker,strapless dress,cowboy hat, fur trim,multicolored hair,brown thighhighs, boots,gloves, very long hair,
+Cozy Ambiance, Gentle Shading, Subtle Depth,
+nsfw,
+(from below:1.3),
+passion, desire,
+<lora:Azure:0.75>

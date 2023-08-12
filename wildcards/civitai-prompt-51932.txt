@@ -1,0 +1,7 @@
+best quality, intricate details
+
+
+<lora:mirkoMyHeroAcademia_v10:0.8> mirkomha, boku no hero academia, rabbit ears, ((dark-skinned female)), ((dark skin)), red eyes, sleeveless, white gloves, highleg leotard, (white hair, long hair), large breasts, fur collar, purple thighhighs, white leotard, city, night, looking at viewer, smirk 
+
+
+  <lora:chubbyGirlsBigger_v10:0.8> chubby girl, chubby, curvy, plump, big belly,

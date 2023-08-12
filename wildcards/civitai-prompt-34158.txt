@@ -1,0 +1,1 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, <lora:kamisatoAyakaLora_v01:1>

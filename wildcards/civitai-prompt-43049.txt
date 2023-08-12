@@ -1,0 +1,5 @@
+(8k, best quality, masterpiece:1.2, realistic:1.37, photorealism),professional photograph,ultra-detailed,perfect,beautiful,petity,18yo,
+a character portrait,by Alexander Kucharsky,fantasy art,featured on cg society,beautiful young female shaman,(he sits on his knees:1.3),naked chest,without a bra,
+a woman sitting on the ground in front of a fire,aztec fantasy,anime girl cosplay,yulia nevskaya,stunningly beautiful,pocahontas,feathers,provocative indian,wears the ankh symbol,inspired by Jodorowsky,
+<lora:beautiful detailed eyes:0.7>,
+<lora:more_details:0.7>,<lyco:GoodHands-beta2:0.7>,

@@ -1,0 +1,5 @@
+outfit-narcissus, 1girl,short hair, blonde hair,green eyes,chinese border,large breasts,full body,standing,(from below:1.3)
+lifelike,
+Enchanting Aura, Evocative Hues, Captivating Glow,
+beautiful and aesthetic, masterpiece, best quality,
+<lora:outfit-type_95_narcissusv3-pynoise:0.95>   <lyco:[LoHa] Dome Concept:0.5>

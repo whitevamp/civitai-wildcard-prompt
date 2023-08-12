@@ -1,0 +1,2 @@
+(best quality:1.2) (4k:1.) (very high resolution:1.1) , (realistic photograph:1.1) , (ultra detailed CG:1.1) ,
+1girl , solo , (detailed design:1) , (small breasts:1) , no human , robot , humanoid , symmetry , horns , glowing body , black armor , sun visor , movements , fighting position , light particles , head haze , beam , <lora:ExcalV1:.8> , architecture , in battlefield , perspective , <lora:epiNoiseoffset_v2-pynoise:1> (two tone lighting:1)

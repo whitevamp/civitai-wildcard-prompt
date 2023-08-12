@@ -1,0 +1,2 @@
+1girl,slg,(Golden hour),Cotton bralette with a sporty logo band,depth of field,Pretending to shoot a basketball
+<lora:slg_20:1.0>

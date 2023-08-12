@@ -1,0 +1,1 @@
+ragemode, man, cloak, medium view, lightning, red, <lora:rageMode_v1:1>

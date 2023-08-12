@@ -1,0 +1,9 @@
+1girl,teenage,lucy \(cyberpunk\),(white jacket), (open jacket), short shorts, (bodysuit), (detached sleeves),hip vent,
+pouch, (white hair),(bangs:1.6), (asymmetric hair:1.1), (short hair), (multicolor hair), (beautiful detailed hair) ,(hair blowing), red eyeliners,midriff,(smile,naughty face),detailed face, white skin,big eyes,(looking at viewer:1.4),from below, facing viewer,
+(white jacket), (open jacket), short shorts, (latexbodysuit), (detached sleeves), pouch,covered navel ,covered mouth,short shorts ,kneehighs,red circles on the eyes,v-shaped_eyebrows,
+(outdoors:1.5), electronic instruments, wires, and water pipes, unreal engine, fine portrayal, (Cyberpunk:1.2), bright,focusing, Tindal effect, HD, photography style,(pink or green neon from back :1.2), night sky,highways, light signs,road,stars,starry sky,moon light,detailed clear,ripple,Colorful aurora,dynamic,  luminous,strong dynamic poses,  (various clutter and mess in background:1.1), (lush detailed),
+(stunning), (dynamic perspective shot, medium shot), portrait , colorful light, vanishing point, atmospheric perspective,
+masterpiece, best quality,award-winning work, 8k, RAW photo, best quality, award-winning work,huge filesize,absurdres,ultra high res, best shadow, physics-based rendering, an extremely delicate and beautiful, extremely detailed, amazing, finely detail, official art, extremely detailed, beautiful detailed girl, (light on face:1.2),  (hyperrealistic:1.5),(High quality facial lighting:1.2), cinematic lighting, intricate, High Detail,  dramatic, (photorealistic:1.2),
+<lora:lucyCyberpunk_35Epochs:0.7>,
+<lora:LoraJapaneseIdolCostume_v10:0.3>,
+<lora:koreandolllikeness_V10:0.2> <lora:beautifuleyeslikeness_purefacelikeness:0.3>

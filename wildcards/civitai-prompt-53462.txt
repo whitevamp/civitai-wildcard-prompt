@@ -1,0 +1,2 @@
+portrait young witch Hermione Granger of hogwarts wizard school uniform short pleated skirt stockings ginger hair long black robe charging running hogwarts school midnight moonlight depth volumetric lighting fog dusty dark (windy billowing cape:1.2)
+(zrpgstyle) (masterpiece:1.2) (illustration:1.1) (best quality:1.2) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) (Style-HogLegacy2:0.9) <lora:fongletsHermioneGranger_v11:0.6>

@@ -1,0 +1,1 @@
+Ki Charge:1.4),(red aura:1.4),wuxia,female,robot cyborg mech fighter,wmma, wearing sports bra fingerless gloves, martial arts,fcPortrait <lora:NijiExpressV2:0.6> <lora:wmma-fC-v1:0.9> <lora:wuxia2:0.6>  <lora:DBKiCharge:0.8>

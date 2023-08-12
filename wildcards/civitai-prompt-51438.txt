@@ -1,0 +1,5 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), chibi,
+1 girl,(Soft light and shadow),(big head), big eyes,(small body), lovely makeup, 
+<lora:lucyCyberpunk_35Epochs:0.7>, neon palette, science fiction, short hair, 
+seductive posture, (beautiful detailed face), (beautiful detailed eyes:1.12), (looking at viewer), 
+<lora:blindbox_V1Mix:1>

@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), perfect eyes, perfect face, volumetric lighting, 1girl, mature female, smiling, blushing, sweat, huge breasts, thick body,  bedroom, (thin_waist,wide_hips, slim_thick, beautiful, ((aubrey_plaza)))
+<lora:hugeNipples_v10:1> <lora:darkNipples_v10:1>

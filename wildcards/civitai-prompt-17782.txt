@@ -1,0 +1,2 @@
+masterpiece, best quality, medium full shot, 1girl, solo, ingridms, hairpods, gloves, skirt, pantyhose, bow, dress, magical forest, purple background, purple forest
+<lora:streetFighterIngrid:0.9>

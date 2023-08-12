@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3), solo,1girl, smile, full body, traditional chinese ink painting, shuimobysim, shukezouma ,<lora:Moxin:0.6>,  <lora:ShukezoumaMoxin:0.6>

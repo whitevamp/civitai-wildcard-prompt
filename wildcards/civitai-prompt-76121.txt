@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp, 1girl,pink hair,long hair, glowing red eyes,expressionless,gothic clothing,black lipstick,shadoweye,GlowingRunesAI_red,closeup,hell, good hands,good arms,<lora:InfernalAIv8:0.9>,<lora:GlowingRunesAIV6:0.7>, <lora:add_detail:1>

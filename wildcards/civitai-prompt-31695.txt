@@ -1,0 +1,1 @@
+(masterpiece, best quality, highres, detailed:1.1), (in restaurant:1.4), (full body), 1girl, solo, d.va, long hair, ((beautiful face)), small breasts, (arrogant smirk,looking down, looking at belly), (standing), (white collared shirt, black pants), (immobile, blob, wide hips, thick thighs, huge belly), <lora:sizemologist-nai-v8-000006:0.5>, <lora:diva:0.7>,  <lora:BGV5EX:1>

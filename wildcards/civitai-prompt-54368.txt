@@ -1,0 +1,4 @@
+best quality, intricate details,
+
+
+ <lora:aiHoshinoLycorisOshiNoKo_v25:0.8>  weapon, gun, holding weapon, camouflage,sniper rifle, outdoors, holding, holding sniper,  <lora:sniperTypeBarrettM82_v2:0.8> 50Caliber,

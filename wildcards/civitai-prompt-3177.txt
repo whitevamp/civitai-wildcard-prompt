@@ -1,0 +1,3 @@
+(masterpiece, top quality, best, official art, beautiful and aesthetic, long exposure:1.3), fluid movement, captivating patterns, (1girl: 2), (dynamic pose), absurdres, (huge breasts:1.4), wet , portrait, solo, upper body, looking at viewer, detailed background, detailed face,
+swirling water, floating particles, ethereal dynamic, water, Splash, vapor, ocean background, green, (pink:0.8), shore, ethereal atmosphere, (crystallineAI:0.8), <lora:blindbox_v1_mix:0.5> ,<lora:CrystallineAI:0.4> <lora:waterVFX:0.7>,
+BREAK <lora:miLs_v4:0.95>, (blue hair, gradient hair, short hair, twintails:1.4) , (smile:1.2), <lora:maid_bikini:0.8:ware>,(maid bikini,maid headdress, lace maid apron, skirt:1.4),

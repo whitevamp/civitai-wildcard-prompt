@@ -1,0 +1,3 @@
+nsfw, (autumn night), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 
+((very long pure white hair reaching ass, pony tail:1.3)), (long eye lashes), beautiful seductive eyes, captivating expression, [:(detailed face:1.2):0.2], (RSEEmma:1.5), <lora:MISC-GlossyFace:0.3>., feminine, nsfw, (sexy smile:1.2), (wearing skimpy turtleneck croptop, naked:1.3), (leaning forward:1.2), (ass view:1.2), cyberpunk urban city, road, neon lights, flying cars, pedestrians, 
+<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia2:0.4>,

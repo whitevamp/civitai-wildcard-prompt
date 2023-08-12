@@ -1,0 +1,1 @@
+(masterpiece,best quality), [CG,wallpaper,HDR,high quality,high-definition], (3d, blender, intricate details, pastel, cold lighting, cinematic:0.3), 1girl, (nsfw:0.5), lace dress, floating hair, standing on the water, high angle, dark theme,  <lora:lowra_v10:0.7>

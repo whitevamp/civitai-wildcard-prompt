@@ -1,0 +1,1 @@
+<lora:2Bout_SD15-000006:0.85>, young woman, bout, breasts, nipples, upper body,  __color__ (bodysuit:0.5), futuristic, sci-fi, cyberpunk, cyborg, (bondage:0.7), (cutout:1.2), lace (leather:0.6), metal armor, __color__  __hair, sunglasses, leggings (intricate floral patters:1.1), headpiece, highly detailed, frill, rim light,, raw photo

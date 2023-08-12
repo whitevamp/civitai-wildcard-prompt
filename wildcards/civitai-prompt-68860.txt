@@ -1,0 +1,2 @@
+detailed
+ <lora:COOLKIDS:1>

@@ -1,0 +1,3 @@
+girl, (smile:0.5), raining garden, detailed sky, sunset , street, station,
+Negative prompt: (worst quality, low quality:1.4) ,(easynegative:0.8)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3716068395, Size: 1024x640, Model hash: eb4099ba9c, Model: AOM3A3_orangemixs, Denoising strength: 0.55, Clip skip: 2, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, AddNet Enabled: True, AddNet Module 1: LoRA, AddNet Model 1: Синкай(ca429a1460f9), AddNet Weight A 1: 0.1, AddNet Weight B 1: 0.1

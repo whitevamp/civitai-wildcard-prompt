@@ -1,0 +1,4 @@
+professional photo of edgEV, 1girl, long hair, blonde hair, twintails, wearing edgEV_vintage dress, BREAK aqua eyes,louvre, pregnant,
+detailed skin, detailed eyes, finely detailed hair, looking at viewer, abstract background,
+volumetric light, highrez, masterpiece, best quality,
+<lora:edgEuropean_Vintage:0.78:MIDD>

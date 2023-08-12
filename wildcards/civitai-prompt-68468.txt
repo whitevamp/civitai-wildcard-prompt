@@ -1,0 +1,4 @@
+<Lora:CuteGirlMix4:0.3> (Mix4) (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ((1girl)), petite, cute, professional lighting, photon mapping, radiosity, physically-based rendering, full body, dynamic pose (a beautiful mature Angel inside a church, squatting) (cathedral, wedding, indoors, stain glass windows, holding flowers, candelabra, Jesus statue) wearing ((an angelic wedding gown, white stockings, white shoes, flower crown:1.2)) ((blonde hair, hair tied up, blue_eyes:1.4)) ((large breasts, cleavage))<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3> (Rseemma:1.5), ((blushing, smiling:1.2))
+<lora:has_wings:0.5> (has wings, Angel_wings, large angel wings:1.3)
+ <lora:perky_breasts:0.5>
+ <lora:seethru_v10:0.4> (Seethru:1.2)

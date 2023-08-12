@@ -1,0 +1,4 @@
+(professional chef, chef hat, chef apron, chef jacket, working in a restaurant kitchen,  looking at viewer, talking, amused), shiny skin, <lora:shinyOiledSkin_v1:0.1>
+<lora:janna:0.5>
+janna \(league of legends\)
+tiara, floating hair, blonde hair, necklace, jewelry, body chain, gold chain, hair ornament, makeup, (blue eyes, very long hair)

@@ -1,0 +1,1 @@
+<lora:RPGVendorPotatoes:0.7>(vendor (potatoes):1.2), 1girl, vest, looking at viewer, red hair, holding potato, grin, teeth, sitting, potato, sack, crate, hair over shoulder, food, scarf, long sleeves, mole, egg, blurry, blurry background, (realistic:1.3), (medieval market:1.1)

@@ -1,0 +1,3 @@
+A popularmechanics vintage magazine cover featuring an illustration of a sleek chrome artdeco motivatedchair on the moon.
+highres, high resolution, sharp focus.
+<lora:LowRA:0.3> <lora:Chair-000034:0.9> <lora:vintagePopular_v10:1>

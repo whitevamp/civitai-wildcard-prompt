@@ -1,0 +1,1 @@
+vg,<lora:vgv1:1>,a pack of monster swept through the streets of the city,details

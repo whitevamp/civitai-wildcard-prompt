@@ -1,0 +1,2 @@
+Iizunamaru Megumu, blue tokin hat, white circle scarf, blue dress, golden pauldron, black cape, pom pom (clothes), purple tengu-geta, city, buildings, road
+ <lora:Iizunamaru_Megumu_v2.0:0.8>

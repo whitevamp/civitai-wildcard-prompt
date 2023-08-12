@@ -1,0 +1,2 @@
+((masterpiece, best quality)), illustration, ultra detailed 8k, photorealistic, sharp focus, highly detailed, professional lighting, colorful details, iridescent colors BREAK
+extreme long shot of a factory, large mechanical robot construction, microchip, computer, glowing, intricate details <lora:add_detail:0.5> <lora:nijiMecha:0.4>

@@ -1,0 +1,1 @@
+masterpiece, best quality, leanne, wings, long white dress, pink trim, standing, FEH, black background, simple background, looking sideways, smile, outstretched arms <lora:leanne-nvwls-v1-000011:0.9> <lora:FEH_Concept_v2:1>

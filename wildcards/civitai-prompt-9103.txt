@@ -1,0 +1,2 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), frown
+ <lora:kitagawa_marin_v1-1:0.85>, kitagawa marin, 1girl, purple hair, medium hair, purple eyes, bonnet, red rose, collar, gothic, frills, black dress, black necktie, cleavage, long sleeves, white apron, thighhighs,

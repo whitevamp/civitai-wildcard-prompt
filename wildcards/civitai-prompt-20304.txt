@@ -1,0 +1,7 @@
+photorealistic:1.49,film grain:1.49,  (masterpiece),(intricate details),1girl,mature female,huge breasts:1.5
+BREAK 
+rorymercury, <lora:rorymercury:1>, rory mercury, black hair, blunt bangs, hime cut, hair ornament, lipstick, long hair, makeup, (small chest:1.2), (red eyes:1.5), 
+BREAK
+day,sun,rainbow,((cumulonimbus)),
+((walking on the stairs)),((upper body)),smile,
+from below:1.2,depth of field,looking at viewer

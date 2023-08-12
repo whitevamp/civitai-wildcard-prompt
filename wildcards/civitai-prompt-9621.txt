@@ -1,0 +1,6 @@
+8k, RAW photo, realistic,
+(asian woman), naked, (full body),
+earrings, eyelashes, natural breast,
+thigh, (laying down), (bent over bed), (view from behind),
+(depth of field), (sunset:1.3), (looking at camera:1.2),
+<lora:japaneseDollLikeness_v10:0.33>,  <lora:innievag:0.6>

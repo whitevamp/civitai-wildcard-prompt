@@ -1,0 +1,4 @@
+1gir,ulzzang-6500-v1.1,FilmG,black stiletto heels,(no panties:1.2),(tight dress:1.2),looking at viewer,beautiful detailed faces,picture-perfect face, perfect face, beautiful face, ((perfect female body)),skinny,long legs,thin waist,slender waist,narrow waist,wide hips,large breast,huge ass,white skin,pale skin,skin tight
+,RAW photo, best quality, best quality, 8K,realistic, photo-realistic,masterpiece,
+character focus,blurry background,cinematic lighting, ambient lighting,
+<lora:FilmG2:1>,<lora:chilloutmixss_xss10:0> ,<lora:koreanDollLikeness_v15:0>,<lora:nwsjmajic-05:0>,<lora:chinaDollLikeness_v10:0.7>

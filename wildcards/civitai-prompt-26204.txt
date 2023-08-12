@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 1girl, medium breast, short hair, black hair, black stockings, fit and petite body, black stockings, black exotic bra, (black thong:1.2),
+<lora:OnALeash-v2:0.7>, leashed, chained, looking at viewer, smile, tongue out, 
+<lora:AllFoursFromAboveV1:1>, all fours, top-down_bottom-up,
+on the bed, dim lighting

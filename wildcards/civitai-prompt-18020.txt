@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, looking at viewer, huge breast, long hair, black hair,
+<lora:OutfitEugenFinalLap:1>, outfit-eugen, cropped jacket, miniskirt, black thighhighs,
+<lora:fitgirl_v10:0.45>, abs, ab lines, abs, navel
+standing on the street,

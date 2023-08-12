@@ -1,0 +1,3 @@
+Exceptional detail, stunning visuals, lifelike rendering, crisp textures, high contrast, chiaroscuro, dramatic lighting, immersive atmosphere, true-to-life,
+classic elegance, enduring grace, timeless appeal, vintage charm, ageless allure, timeless sophistication, traditional finesse, nostalgic beauty, enduring allure,
+<lora:lora_zhuzhu3_v10_ep10_lr7e5_dim128:0.9>,faux hawk,custom-made

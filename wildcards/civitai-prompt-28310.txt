@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:tow-concept-richy-v2:1> towlauncher, tripod, scope, aiming, squatting, <lora:M14_GirlsFrontline:0.8> m14

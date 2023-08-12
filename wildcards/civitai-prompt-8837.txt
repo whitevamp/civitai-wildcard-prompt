@@ -1,0 +1,3 @@
+ultra realistic 8k cg, picture-perfect face, masterpiece, professional artwork, famous artwork, depth of field, ray tracing, detailed face, beautiful face, detailed hair, beautiful hair, beautiful eyes, dewy skin, 1girl, 18 y.o,
+(angel face, superstar face, perfect face), blue eyes, tall, slim body, (perfect female body, narrow waist, slender), long legs, large breasts, (beautiful breasts, beautiful pussy), makeup, red lips,
+Hotpants, ultra-tight short shorts, (open clothes, unzipped:1.4), exposed white pearl thong:1.4, <lora:add_detail:0.8>, <lora:LowRa:0.5>, <lora:pantyPullPantyDrop_onlyPullV2:0.4>,

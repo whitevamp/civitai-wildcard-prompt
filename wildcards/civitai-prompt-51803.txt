@@ -1,0 +1,3 @@
+masterpiece:1.4, quality:1.4, photorealistic:1.4, resolution:1.4, sharpness:1.4, ultra-detailed:1.4, professional lighting
+
+<lora:Yorha2B_v0.9:0.8>, yorha2b, solo, 1girl, ass:1.2, upskirt, white leotard, (distinct shape of pussy):1.2, from below

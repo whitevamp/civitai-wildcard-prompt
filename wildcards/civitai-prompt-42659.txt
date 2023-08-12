@@ -1,0 +1,3 @@
+<lora:dolphin_shorts_v0.1:1>
+1girl, dolphin shorts, 
+<lora:HOTD_v0.4:1> takagi saya, pink shorts, twintails, happy, bathroom, t-shirt, smile,, masterpiece, best quality, highly detailed

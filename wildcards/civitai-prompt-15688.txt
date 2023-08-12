@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination, sharp focus,
+1girl, solo, blonde hair, (one-piece swimsuit:1.5),
+upper body,  blue eyes, angry,small breasts, (dark skin:1.5), open mouth,
+bound on table, belt, restrained, from above, 
+<lora:boundontable:0.7>,

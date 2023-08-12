@@ -1,0 +1,2 @@
+<lora:PersonaCutIn-06:0.9> <lora:capi-09:1>capybara, looking at viewer, 
+Persona Cut In

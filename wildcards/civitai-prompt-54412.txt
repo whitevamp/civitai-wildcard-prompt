@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+ <lora:kirikoOverwatch_v20:0.8> tag:1girl,facial mark,fox, 
+
+ <lora:glorywallStuckOnWall_v1:0.8> glorywall, ass, stuck, ass focus,

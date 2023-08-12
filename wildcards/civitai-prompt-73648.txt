@@ -1,0 +1,7 @@
+nsfw, (A woman peeing in public:1.2), absurdres, best quality, masterpiece,  extremely detailed beautiful girl, extremely detailed, 8k wallpaper, extremely detailed face, extremely detailed eyes, extremely detailed skin, extremely detailed fingers,
+<lora:BCfilmmixV1:0.7>, 1girl, full_body, korean, kpop_idol, solo, (standing:1.25), streaked hair, crop top, uncensored, bottomless, (puccy, hairless_puccy), 
+choker, (graffiti:1.2), (white_sneakers:1.3),
+(upturned eyes), (looking at viewer), eye focus, (open mouth), 
+<lora:PeeingWoman1.2:0.65>, spread legs, (peeing, touching vagina),
+(small_head), (slouching), leaning back, against wall,
+armband, thigh strap, streaked hair, loose clothes,

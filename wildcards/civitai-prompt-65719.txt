@@ -1,0 +1,1 @@
+best quality, intricate details,  (hyper-realistic digital illustration),(masterpiece:1.1), <lora:Robot Girl:0.8> humanoid robot, robot, robot joints, joints, helmet, armor, robot girl, <lora:C-mecha_musume[mecha musume, mechanical parts, robot joints,headgear]:1> mecha musume, machanical parts, robot joints, headgear, from back, half-side, black and white parts, (full body)

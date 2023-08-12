@@ -1,0 +1,16 @@
+((emma watson)) wearing a Tight black (latex) , nude , (harness:1.2), ( latex gather belt) , (glossy finish), latex, (latex gloves), choker, (intricately detailed clothing, eleborate clothing), multilayer , ((transparency)) , 
+highre , (highly detailed) , masterpiece , best quality ,
+,  (cameltoe) ,
+small waist , large breasts  , finely detailed skin , (fit) , muscular ,
+ shiny skin ,
+(looking at the camera:1.1) ,
+((minimalist)) ,
+((simple background)) ,
+(geometric artstyle) ,
+(dark background:1.5) ,
+extremely detailed eyes and face ,beautiful detailed eyes , beautiful detailed lip , 
+sharp focus ,
+beautiful detailed ,
+(realistic, photo-realistic) , (bisexual lighting), HDR , RAW photo , (film grain:1.1) , dramatic lighting ,
+<lora:add_detail:0.4>
+<lora:reflect:0.3>

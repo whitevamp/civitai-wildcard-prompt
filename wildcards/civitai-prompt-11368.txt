@@ -1,0 +1,4 @@
+<lora:hairstyle-egyptian_bob:0.4> (masterpiece, best quality, highest quality, 8k, ultra highres, absurdres, highres:1.2), (extremely detailed, highly detailed, intricate details:1.1), (style-hamunaptra:1.2), in ancient egypt, dramatic lighting  ADDBASE 
+palm trees, (lush jungle:1.3) oasis, exotic bird, butterfly ADDCOL
+(stunningly beautiful face:1.3), yellow eyes, sharp eyes, (thick eyelashes:1.2), (black egyptian makeup, eyeliner:1.2), (thick eyelashes:1.2), captivating eyes, sharp eyes, detailed iris, (nsfw, nudity, sexy attire, seductive clothing, cameltoe:1.2), (white silk clothes:1.1), flowing, (transparent, see-through:1.4), (small breasts, puffy nipples:1.2), a stunningly beautiful (young egyptian princess:1.2), walks along a (beautiful brook:1.2), pyramids in background, looking at viewer, barefoot, short black haircut, bracelets, jewels, (circlet:1.2), dark skin ADDCOL
+palm trees, (lush jungle:1.3) oasis, exotic bird, butterfly

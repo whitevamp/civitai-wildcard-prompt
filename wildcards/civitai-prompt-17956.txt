@@ -1,0 +1,1 @@
+best quality, masterpiece, highres, detailed, perfect anatomy, <lora:Style - add_detail:0.1>, Picklefy, pickle, science experiment, pickle body, pickle with human face,  <lyco:Pickle-fy-10:1.0>, 1boy,

@@ -1,0 +1,5 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (realistic, photorealistic:1.4), ultra highres, RAW photo, high definition, ultra detailed, intricate details, detailed texture, perfect body shape, (natural skin texture, hyperrealism, sharp focus), stunning, exquisite, gorgeous, high quality texture, finely detailed, upper body, dutch angle, nsfw, BREAK
+solo, a young woman, cute, pretty, sexy, (wavy hair, blonde hair), (lying on back), nice hands, perfect hands, (see-through crotchless thong, see-through sexy bra), BREAK
+
+perfect anatomy, seductive smile, professional lighting, realistic shadow, in luxurious bedroom,
+<lyco:GoodHands-beta2:1>, <lora:breastinClass:0.3>, <lora:add_detail:1>

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, white pantyhose,  <lora:AWPV2:0.8>  <lora:Alice_8d_white_pantyhose:0.8>

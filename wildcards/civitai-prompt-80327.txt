@@ -1,0 +1,3 @@
+(masterpiece:1.0), (best quality:1.0), (ultra highres:1.0), (realistic:1.0), 
+1girl, slskmz short, sailor school uniform, school swimsuit,  <lora:slskmz_v2:0.5>, beach, 
+shiranui mai, <lora:doa_shiranui_mai:0.5>,

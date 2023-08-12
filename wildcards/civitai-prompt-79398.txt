@@ -1,0 +1,2 @@
+1girl, science fiction, Science fiction background,mechanical halo, mechanical arms, metal collar, Low angle view,Trendingon pixiv conceptart,Cyberpunk light,single mechanical arm, 
+best quality, masterpiece, (photorealistic:1.4) <lora:PastelVectorAi:0.6> <lora:FilmG2:0.5>

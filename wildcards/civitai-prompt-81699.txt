@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,photorealistic,
+edgBunny, a woman in a black bathing suit posing,wearing edgBunny
+ <lora:edgBunny:0.75>

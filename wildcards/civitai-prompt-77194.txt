@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.4), absurdres, [:intricate details:0.2], hyperrealistic, vintage photo, kkw-ph1,
+1 girl, adult jewish woman, freckles, blue eyes, medium blonde drill hair,
+portrait, solo, (full body:0.6), detailed background, detailed face, (imperial chinese theme:1.1) (glowing fiery eyes:1.05),  angry expression, primal fiery armored fighter, [heavy armor:molten rock:2], engulfed in flames, ruby gemstone,  lava,   dynamic pose,    firestorm in background, <lora:FirevfxCreateMore_v2:0.3>, (style-swirlmagic:0.8), cinematic fiery atmoshpere,
+<lora:add_detail:1>

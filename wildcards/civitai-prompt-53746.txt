@@ -1,0 +1,1 @@
+1girl, black hair, black eyes,   closed mouth, collarbone, earrings, jewelry, lips, long hair,twintails,  looking at viewer, parted bangs, portrait, simple background, solo, white background,(shiny skin),puuzaki puuna,(masterpiece:1.4),(best quality:1.4)  <lora:fashionGirl_v20:0.2> <lora:twintails-000001:0.6> <lora:fte_futuanerV1:0.2>

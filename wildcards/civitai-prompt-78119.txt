@@ -1,0 +1,1 @@
+absurdres, best quality, 1girl, solo, looking at viewer, eye focus, <lyco:GoodHands-beta2:1.0>,  <lora:dragon_sorceress_zyra:0.8>, dragon sorceress zyra, dragon girl, dragon horns, tail, wings

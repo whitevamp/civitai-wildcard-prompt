@@ -1,0 +1,1 @@
+wolf girl, standing, monotone, white background, simple background <lora:threshold:2>

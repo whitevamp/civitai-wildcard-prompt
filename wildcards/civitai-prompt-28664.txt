@@ -1,0 +1,3 @@
+Masterpiece, absurdres,HDR,8k,excited,smirking,best quality,
+GothGal,edgApron, a woman in a ([sheered edgApron_lingerie|black GothGal_lingerie , black ribbons]::0.75) posing ,wearing edgApron,see through frilly apron with embroidery,
+ <lora:edgGoth_Apron:0.8>

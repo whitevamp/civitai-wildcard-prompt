@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.37),(chinese temple), miniature, landscape,  (isometric), glass tank,<lora:miniature_V1:0.8>,  in bowl, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,

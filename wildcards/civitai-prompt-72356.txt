@@ -1,0 +1,23 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin, beautiful detailed face, beautiful detailed eyes,
+2girls, chinese architecture, indoors,
+AND
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin, beautiful detailed face, beautiful detailed eyes,
+2girls,
+blue hair, short hair,
+eyes reflection, bright pupils, full blush, emotionless, closed mouth,
+small breasts, long nipples, puffy nipples, small areolae, nipples to nipples,
+ass, (anus, pussy, vaginal, pussy juice trail:1.4),
+top, detached sleeves, white dress, kneehighs,
+ganyudef, <lora:ganyu2:1:MIDD>
+AND
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin, beautiful detailed face, beautiful detailed eyes,
+2girls,
+purple hair, long hair,
+eyes reflection, bright pupils, full blush, (angry, scowl, glaring:1.2), clenched teeth,
+small breasts, long nipples, puffy nipples, small areolae, nipples to nipples,
+ass, (anus, pussy, vaginal, pussy juice trail:1.4),
+top, detached sleeves, purple dress, kneehighs,
+keqingopulent, <lora:keqing1:1:MIDD>

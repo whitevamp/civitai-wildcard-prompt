@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper),
+
+<lora:dunhuang_v20:0.6>, (dunhuang_dress:1.2), (1girl), (solo:1.1), (full body:1.2), medium breasts, (long floating hair), jewelry in hair, extremely detailed, (dancing:1.4), (floating ribbon:1.6), wind, (style-swirlmagic:1.1), (rainbow-candy:0.85),
+
+china landscape, fantastic, spectacular, (fog:1.4), cloud, sun, desert,

@@ -1,0 +1,3 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,white hair, short hair,center opening, grabbing own breast, black clothing,white background,
+<lora:add_detail:-0.2>, <lora:FilmVelvia2:0.4>, <lora:detailed_eye:0.4>

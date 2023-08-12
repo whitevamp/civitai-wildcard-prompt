@@ -1,0 +1,8 @@
+Neon (one male:1.9) (1boy:1.9) (front view:1.6), CyberpunkAI
+Very detailed flawless face, detailed open eyes, very handsome, epic, heroic, (muscular) bodybuilder, (big muscles), (big pecs:1.4) (big pectorals), narrow waist. (homoerotic). (mohawk undercut), (long hair:1.2). Realistic face, realistic eyes, (detailed facial features), (smile).
+(shirtless:1.5) (topless male:1.5).
+Setting is a (cyberpunk city street) at (night), neon signs, hovercars.
+High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light, rich colors, depth of field.
+<lora:CyberPunkAI:0.8>
+<lora:BulkedUpAIR1.5:0.3>
+<lora:undercut_sd15_640x8:0.8>

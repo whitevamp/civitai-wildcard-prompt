@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best quality:1.4), (high resolution:1.4),girl, kiki riding  a broom flying in the sky,broom handle between legs,cloud, black robe, red hair bow, <lora:kiki_v1:1> ,

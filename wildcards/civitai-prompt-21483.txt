@@ -1,0 +1,4 @@
+1girl, full body, looking at viewer, white jacket,purple shirt,pencil skirt, ((sitting on desk)), office lady, office, lamp, note book on desk, wariza, charming, milf, sexy, large breasts, pantyhose, 
+(masterpiece),
+(detailed), (semi-realistic), detailed background, warm_light, night, indoors, 
+  <lora:add_detail:0.6> <lora:LowRA:0.4> <lora:SaekoNogami2:0.7>

@@ -1,0 +1,4 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.8>, a girl having sex with a werewolf, on a cliff overlooking the ocean, full moon, huge moon, doggystyle, vaginal, ahg, rolling eyes, tongue, beautiful, ships on the water, city lights below, dramatic, large insertion
+<lora:werewolf_v0.2:1>
+ <lora:ahe:1>
+ <lora:large_insertion_v0.1:1>

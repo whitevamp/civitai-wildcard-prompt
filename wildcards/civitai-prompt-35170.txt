@@ -1,0 +1,3 @@
+real, photoshoot, luminescent, masterpiece, best quality, (detailed beautiful face, detail skin texture, ultra-detailed body:1.1),
+<lora:helenV3:0.6>, helenparr, 1girl, short hair, brown hair, brown eyes, milf outfit, housewife ,
+<lora:ridingsexscene_lora_01-000004:0.6>, ridingsexscene, solo, nipples, breasts, realistic, closed eyes, nude, open mouth, medium breasts, arms up, from below, open mouth, pain expression,

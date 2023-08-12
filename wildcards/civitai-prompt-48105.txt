@@ -1,0 +1,3 @@
+masterpiece, best quality, <lora:Gwen-10:1> ,
+
+Gwendolyn_Tennyson, 1girl, solo, sundress , sitting, (campfire:0.7) ,(nighttime :1.2) ,( forest, warm lighting :1) , hand on own face , annoyed, head tilt, looking to the side,

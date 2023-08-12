@@ -1,0 +1,1 @@
+<lora:BrnWshM:0.8>, BrnWshM, standing, helmet, salute, electricity, glowing, sweat

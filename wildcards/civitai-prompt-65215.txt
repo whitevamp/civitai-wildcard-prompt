@@ -1,0 +1,2 @@
+dark, highres, highest quallity, illustration,  ultra detailed, (detailed face), (detailed eyes), cinematic lighting, best quality, hyper detailed, masterpiece,1girl, solo, blonde hair, OriginalOutfit, Commander Dress, ponytail, luminous eyes, large breasts, light rays, (colorful), mid shot, wet, japan, town, moon, night, lantern, water, outdoors, sky, full moon, cloud, paper lantern, cloudy, wet hair, rain, tree, flowers, bush
+ <lora:yorhaCommanderNierAutomata_v10:0.7>

@@ -1,0 +1,8 @@
+realistic , realistic details, detailed masterpiece, award winning photography, HDR, cinematic lighting, bokeh, vivid colors 
+(30 year old Scandinavian woman, striking blue eyes, short hair, redhead, beautiful face, thick and juicy lips, square jaw, prominent cheekbones, fierce expression, angry, gritted teeth, warpaint:1.2 )
+busty, fit body
+(wearing full body mech armor, shoulder cannon, intricate mechanical moving parts, exposed face)
+directing troops against an alien army, wide stance, action pose, pointing at enemy, fully clothed, sfw 
+distant future battlefield, dust clouds, dust particles, explosions, plasma beams, laser beams, ongoing battle 
+(diagonal back view, low viewing angle, closeup, rule of thirds composition)
+<lora:epiNoiseoffset_v2:2> <lora:add_detail:0.6>  <lora:MechStyV1:0.4>

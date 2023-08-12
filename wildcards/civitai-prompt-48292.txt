@@ -1,0 +1,1 @@
+masterpiece,best quality, highly detailed, huge_filesize, detailed face,detailed skin,looking at viewer,boxing, walking, muscular, boxing gloves,<lora:hypermuscle_:0.7>, full body, black pantyhose, 1girl,spread_arms, cleavage,(sliver boxing shoes:1.2)

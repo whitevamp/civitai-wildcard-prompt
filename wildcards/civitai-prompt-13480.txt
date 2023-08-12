@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:Cassiopeia:0.8> cassiopeia \(league of legends\), 1girl, lamia, cleavage, helmet,

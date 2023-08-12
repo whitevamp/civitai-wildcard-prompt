@@ -1,0 +1,1 @@
+3D cinematic film.(Amy Winehouse:2.0) 50 years old (caricature:0.2).  bokeh, professional, 4k, highly detailed <lora:SamaritanEsdxl:0.45> <lora:william_eggeston:0.55> <lora:filmicVibesXL_v1.1:0.2> <lora:Josef_Koudelka:0.2> mole near the mouth. drunk. tired. concert lights. small tits

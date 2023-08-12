@@ -1,0 +1,3 @@
+hd, high definition, 8k, absurdres,
+nun, sexy, church background, breasts out, latex, (golden eyes:1.2), black outfit, (carrying cross with chains:1.4), full body, micro panties, standing in front of altar, light ray from above, gigantic breasts, (pointy ears:1.4), absurdly long hair, blond hair, holding hands,
+<lyco:shinyoiledskin_v1:0.6> <lora:add_detail:1>

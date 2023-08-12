@@ -1,0 +1,1 @@
+masterpiece, (realistic, photo-realistic:1.37), stlouis, stlouis, large breasts, looking at viewer, upper body, blue hair, <lora:st louis v2 epoch 5:1> <lora:add_detail:0.6>

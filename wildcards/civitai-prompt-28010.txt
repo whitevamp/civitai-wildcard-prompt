@@ -1,0 +1,2 @@
+1boy,tank top,huangman,undercut,(masterpiece, best quality:1.3),beautiful detailed glow,best illuminate,(((best quality,textile shading,ultra detailed))),extremely detailed CG unity 8k wallpaper,Highly Detailed beautiful and aesthetic,best light,high resolution,detailed,dynamic lighting,super detailed skin,intricate details, hyper detail, sharp detail,detailed, highres, intricate details,
+  <lora:huangman-000016:0.8>

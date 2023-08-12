@@ -1,0 +1,6 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 
+thomasin mckenzie, Marylin Monroe, mature women, (short blonde hair, red lip:1.2),  (2girls:1.4), 
+(a kissy face:1.4), (female orgasm:1.2), seductive pose, (spread legs:1.2), wet hair, 
+BREAK
+lace-up leather crop top corset, black thigh highs, lace garter belt, fishnet stockings, lace-up black leather panties, thigh gap, 
+in brothel, <lora:add_detail:1.5>, <lora:LowRA:0.4>

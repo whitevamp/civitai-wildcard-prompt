@@ -1,0 +1,8 @@
+(RAW, best quality, masterpiece:1.5), (realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, solo,  
+green eyes, extremely detailed eyes and face, earrings, <lora:taiwandolllikenessV20_v20:0.6>
+(silver hair), very short hair, bob cut, curly hair, blush, flower,
+black blouse, high waist miniskirt,
+slim waist, slim legs,
+shiny skin, skin pore, highly detailed skin, small breasts, necklace,
+supermodel, best lighting, detailed background, detailed shadow

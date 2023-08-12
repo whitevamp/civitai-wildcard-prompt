@@ -1,0 +1,1 @@
+off-center pov, pov, 69 <lora:pov69_v2:0.6>

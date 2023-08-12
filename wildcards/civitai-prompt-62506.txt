@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, perfect skin, female,photography, portrait,  (RSEEmma:1.1), looking at viewer, smile, happy, joy, <lora:MISC-GlossyFace:0.3> , (VanellopeVon:0.3),  green hoodie, ponytail, black hair, green eyes, <lora:CHAR-Vanellope:0.4>, (chocolate:1.6), (charlie factory:1.4), candy, (sweets,:1.7)

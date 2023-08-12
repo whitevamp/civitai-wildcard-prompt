@@ -1,0 +1,3 @@
+<lora:Mitsuri KanrojiV1:0.7>
+upper body, looking at viewer, masterpiece, best quality,
+Mitsuri Kanroji

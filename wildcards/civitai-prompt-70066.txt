@@ -1,0 +1,1 @@
+<lora:blacked_v1.5:1.0> hestia, multiple boys, v sign, standing, cowboy shot, facing viewer, boxers, surrounded, :o, blacked underwear, sweat, wet, shiny skin, narrow waist, black man, masterpiece, best quality, highly detailed  <lora:blacked_underwear_v1.9:1> <lora:hestiaDanmachiLora_v10:1>

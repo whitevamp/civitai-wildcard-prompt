@@ -1,0 +1,4 @@
+(masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes,
+BREAK
+ <lora:Kuvira_TLOK:0.7> Kuvira
+<lyco:Saya-hand in panties:1.0> hand in panties

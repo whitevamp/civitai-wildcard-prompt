@@ -1,0 +1,5 @@
+best quality, face focus, (depth of field) ,ultra high res, (photorealistic:1.4), RAW photo, Japanese-style room, alcove, hanging scroll
+(portrait:1.4)
+1japanese girl, solo, cute, smile, (brown eyes), natural face, (midi hair), 
+(kimono:1.5)
+<lora:japaneseDollLikeness_v10:0.2>

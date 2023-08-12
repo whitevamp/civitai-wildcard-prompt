@@ -1,0 +1,6 @@
+4k, photo, realistic,
+1 korean woman, naked, (full body),(parted lips),
+earrings, white hair, (looking at camera:1.6), pale skin,
+(detailed eyes:1.4), (ponytail), (thigh:1.3),
+sunset, lens flare, depth of field,
+<lora:breastInClass:0.5>

@@ -1,0 +1,1 @@
+masterpiece, hyperreal, 4k <lora:hairdetailer.lora:1> <lora:Mild detail adjusterV10:1> <lora:add_detail:1> <lora:sharpen-soften:-0.3>

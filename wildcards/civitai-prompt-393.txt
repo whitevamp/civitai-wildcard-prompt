@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0),  portrait, close-up,
+1girl, ekaterina kurae, twintails, low-tied_long_hair, hair ends, very long hair, blonde hair, flat chest, blue eyes, black dress, maid headdress, neck ribbon, looking at viewer, outdoors, (blush:1.2), city, smile,
+<lora:Kizuki - Seikon no Qwaser - Ekatarina Kurae:0.95>

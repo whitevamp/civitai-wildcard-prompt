@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,  (abstract:1.2),     visual chaos,  captivating patterns,  highest detailed,
+(1man, wrinkled face, old  male:1.2), wise,  green eyes, gray hair, goatee,
+ solo, half shot, looking up, detailed background, detailed face, (imperial chinese theme:1.1), footsoldier, keeping watch, stoic, shield, iron armor,   purple banner, town square in background,   low light, medieval atmosphere,
+<lora:granblue2:0.5>,

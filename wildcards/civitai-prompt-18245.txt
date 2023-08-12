@@ -1,0 +1,6 @@
+(masterpiece), (best quality), looking at viewer, 
+{girl|lady},
+({black|white|ivory|grey|dark|light black} theme), 
+{outdoors|indoors|cloudy sky},
+{happy face|curious face|shy face|peaceful face},
+{upper body|cowboy shor|close up|zoom out|top view},

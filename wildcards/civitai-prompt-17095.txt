@@ -1,0 +1,2 @@
+1girl, solo, ludmilla, <lora:ludmilla_evertale_v1:0.7>, blue hair, long hair, ponytail, green eyes, red ribbon, large breasts,red armor, cleavage, outdoors, blur background, hands in waist, posing,
+masterpiece, best quality, highres, 8k, wallpaper, hdr, <lyco:GoodHands-beta2:1.0>

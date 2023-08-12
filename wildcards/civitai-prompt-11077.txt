@@ -1,0 +1,7 @@
+(cowboy shot), (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes, (photorealistic:1.2)
+BREAK
+<lora:ShayeraDC:0.7>  ShayeraDC, green eyes, mask, metal wings, wings, holding weapon, large spiked mace, electricity
+navy-blue plate armor, black pants, midriff, belt,
+<lora:more_details:0.5>
+BREAK
+sky, lightning, clouds

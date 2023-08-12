@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,extremely detailed eyes and face,science fiction,
+[(crNanosuit|War_Glam)::0.5], Blonde Nadia with sunglasses and a choker, [power armor|armor] ,armored, wearing [(crNanosuit|War_Glam)::0.5]_breastplate,cowboy shot
+<lora:edgNanoWarrior:1>

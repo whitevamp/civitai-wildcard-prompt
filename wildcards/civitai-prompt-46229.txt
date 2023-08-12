@@ -1,0 +1,2 @@
+(64K,UHD,
+ best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl, cute, solo, beautiful detailed sky, detailed cafe, night, sitting, dating, (nose blush), (smile:1.15), (closed mouth) small breasts, beautiful detailed eyes, (collared shirt:1.1), night, wet, business attire, rain, white lace, (short hair:1.2), floating hair NovaFrogStyle, <lora:taiwanDollLikeness_v10:0.2>, <lora:koreanDollLikeness_v15:0.2>, <lora:japaneseDollLikeness_v10:0.2>, topless, <lora:breastinclassBetter_v13:0.3>,

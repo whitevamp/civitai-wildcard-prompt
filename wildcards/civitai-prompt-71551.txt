@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ <lora:ChintoraPuss:0.8> art by chintora, chintora, pussy drawn by chintora, body drawn by chintora,  1girl,   <lora:cupaMinecraftLora_v00:0.8> cupa_minecraft,

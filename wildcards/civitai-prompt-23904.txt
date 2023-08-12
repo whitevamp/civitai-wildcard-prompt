@@ -1,0 +1,6 @@
+(facial, cum:1.4), (masterpiece), (best quality), realistic, Nikon RAW photo, Fujifilm XT3, young 20yr girl,
+large breasts, cleavage, 
+big grin, cute, pale skin, petite, slim,
+(ultra detailed), 8k, 4k, intricate, upper body, detailed face, warm lights, best lighting,  
+blonde hair, dog_collar, barn, 
+<lora:facialized:1>, <lora:add_detail:1>

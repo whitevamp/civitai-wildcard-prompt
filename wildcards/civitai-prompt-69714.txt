@@ -1,0 +1,1 @@
+1girl,fantasy elf,fit,armor,cape,dress,thighs ,arm up,smile,standing,perfect face,nose,blush,eyeshadow, perfect lighting,looking at viewer,looking at viewer  ,  (masterpiece, best quality, high quality, highres:1.2), detailed, extremely detailed, <lora:fitgirl_v10:1>

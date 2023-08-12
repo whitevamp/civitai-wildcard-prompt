@@ -1,0 +1,5 @@
+photorealistic, 4k, cold light, highly detailed,
+a mature man, short hair, navel, topless male, shorts, tattoos,bulge, martin boots, with buckle and tape, big sunglasses, full body shot, big chest, narrow waist, muscular arms and thighs and legs,
+battle field, fire,
+highly detailed, intricate, masterpiece, award-winning, vivid color, artstation,
+<lora:urbansamurai_v0.3:0.6>

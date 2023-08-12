@@ -1,0 +1,1 @@
+realistic, masterpiece, best quality, <lora:Concept_pony_play_v2:0.8>,pony play,1girl, large breast, (multiple boys:1.2), (goblin:1.2), <lora:Concept_goblin:0.9>,goblin in cart, cart

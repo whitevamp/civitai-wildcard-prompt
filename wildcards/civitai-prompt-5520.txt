@@ -1,0 +1,2 @@
+((1 man)), ((riding on a giant duck)), 
+<lora:riding_a:0.7> 

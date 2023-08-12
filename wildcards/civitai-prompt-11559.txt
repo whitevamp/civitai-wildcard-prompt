@@ -1,0 +1,2 @@
+(delicate illustration:1.4), (renaissance art:1.2), (8k, RAW photo:1.2), (soft focus:1.4), 1 young girl, (18yo:1.3), (sharp focus:1.4), (Japanese:1.0), (korean:0.7), detailed beautiful face, (black hair), (detailed clothes:1.4), (black lace choker:1.2), beautiful white shiny h
+umid skin, <lyco:FilmProvia2:0.2>, short hair, sad look, colorful background, <lora:epi_noiseoffset2:1>, <lora:add_detail:0.5>, angelic, crystal pendant, innocent, epic lighting, facing straight at the camera, <lora:add_saturation:-0.5>, ((ruby)), ((dress)), ((leaves)), ((lying on leaves))

@@ -1,0 +1,10 @@
+medium angle eye level shot,
+from Game of Thrones,
+Daenerys Targaryen, a 20 yo beautiful gorgeous girl, sitting, majestic, elegant, relaxed, breasts, large breasts, solo, molten rock, torn clothes, torn dress, (smirking, eye focus:1.3), (torn white latex dress, slide up:1.3), heels, vampire, (covered in blood:1.1), (skinny body:1.4), (low neckline:1.3),
+a giant burning dragon stands behind her with spread wings,
+she holds a glass of wine in one hand,
+(Epic maximalistic giant dragon mecha throne made of skulls and bones with a dragon head on the backrest:1.2),
+dark background clouds flanders burning cities battlefield smoke action explosions hellfire Hellcore Horrorcore, a detailed painting of destruction, fantasy art, Intricate + Hyperdetailed Painting, CGSociety + ZBrush, Maximalist, (realistic fabric texture), perfect lighting, perfect shading, volumetric shading, subsurface scattering,
+burning, fire, embers, evening, fire, flame, multible lightning strikes, sky, sparks, sunset, sun rays,
+cinematic lighting, Ultra Highly Detailed, 3D,CG, Masterpiece, Amazing Depth, HDR, (photorealistc:1.5), (realistic:1.3), A detailed Unreal Engine 5,
+<lora:epi_noiseoffset2:0.4> <lora:CyberpunkStyleV3:0.4><lora:more_details:0.2><lora:game_of_thrones_offset:0.7> <lora:VampiricTech:0.6>, <lora:MechaArmor:0.4>,<lora:A-MechaMusume:0.4>, epiCRealism <lora:GlassTech:0.3>

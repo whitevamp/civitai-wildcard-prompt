@@ -1,0 +1,5 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile, 
+ miniskirt, yellow cardigan, long sleeves, sailor collar, red neckerchief, black kneehighs,
+ <lora:himiko-toga-locon:1>TogaHimiko, ruins, blood splash, from below, micro mini skirt,
+blood splatter, blood rain, red background, graffiti wall art, <lora:add_detail:1>, red wall, red ground, JUMPING, pink panties,calligraphy characters, 
+blood bubbles, medicine capsule

@@ -1,0 +1,1 @@
+masterpiece, best quality, samus aran, blue bodysuit, upper body, PinchingPOV, pov, cheek pull, hand on other's face, furrowed brow, angry <lora:PinchingPOV:1>   <lora:samus-nvwls-v1-final:1>

@@ -1,0 +1,7 @@
+RAW photo,soft lighting, (rim lighting:1.3), colour grading, focused,colour correction, masterpiece,best quality, 8k, canon 5d,f/1.8, iso 6400, ((wide angle)),HDR, bloom,Chromatic aberration, Photorealistic,trending on artstation,trending on CGsociety,dramatic,(Insane skin detail), (photorealistic skin:1.2),(high skin detail:1.2), extreamly detailed, Intricate,High Detail,
+((best quality, masterpiece)), dramatic camera shot,RAW footage, 8K , difuse lighting, raytrace light, speckle highlights,v0id3nergy mistajones the primordial void shattering through into the univ<lora:kVoidEnergy:0.9>,
+((full body,head to boots)), jean-grey<lora:jean_grey:0.9> arms out wide,clenched hands, floating in the air, red hair, large breasts, thighhighs, boots, elbow gloves,((signature dark red bodysuit)), gold hip scarf,  thigh boots,,white eyes, no pupils,looking at viewer,floating hair,
+legs spread,  suspended in the air, thin, (underboob:1.3), looking at viewer, surprised,  intricate details,  blushing, bdsm,
+long hair,sexy, alluring,
+<lora:add_detail:0.3>,
+naked bandages, <lora:attire_nakedbandage:0.36> , ((best quality, masterpiece)), dramatic,

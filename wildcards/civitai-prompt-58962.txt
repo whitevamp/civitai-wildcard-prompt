@@ -1,0 +1,5 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo beautiful woman (wearing sexy cop uniform:1.5), blue uniform, embarrassed,  
+large breasts, tiny waist, (bound wrists, arms behind head:1.4), huge ass, squatting,
+(from side, looking back:1.4), 
+underground, dark room,
+ <lora:sexyCopUniform_v10:0.6>

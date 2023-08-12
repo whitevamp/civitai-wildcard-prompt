@@ -1,0 +1,10 @@
+masterpiece,
+, full body,  girl, 
+simple background, indoors, living room, 
+, ,(foot fetishist:1.1), , focus feet,
+ little feet,from below, feet up
+  , ,see-through dress,transparent, 
+ sitting, 
+  , socks,,  m-leg ,slim leg,narrow leg
+ ,,    , ,  ,,stepped on sofa   ,,Folded_Socks
+,,(feet pov:1.1),<lora:Folded_Socks:0.7>

@@ -1,0 +1,11 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, all fours, large windows, indoors, from back, close up pussy,
+blue hair, long hair, blue eyes, eye reflection, bright pupils, full blush, looking at viewer, smirk,
+medium breasts, nipples, long nipples, puffy nipples,
+(ass, pussy, pussy juice, pussy juice trail:1.2),
+(sweat, steaming body, steam from mouth, heavy breathing, thick thighs:1.2),
+<lora:masusu_v10:0>,
+cameltoe, rear pussy, <lora:InniePussy1_v3:0>,
+aftersex, used condom, condom left inside, <lora:condom_left_inside_19:0>
+kamisatoayakaspring, <lora:kamisatoayaka1_000008:1>

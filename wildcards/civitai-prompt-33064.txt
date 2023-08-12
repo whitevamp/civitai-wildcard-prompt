@@ -1,0 +1,2 @@
+drow, female, realistic, pointy ears, solo, elf, navel, hood, colored skin, midriff, looking at viewer, long hair, cloak, dark elf, breasts, white hair, hood up, cape, medium breasts, hooded cloak, belt, pouch, red eyes, grey skin, orange eyes, upper body, weapon, glowing eyes, lips, detailed skin, film grain
+, ((masterpiece, best quality)), raw photo, 4k hdr, (photorealistic:1.4)  <lora:drow_offset:1>

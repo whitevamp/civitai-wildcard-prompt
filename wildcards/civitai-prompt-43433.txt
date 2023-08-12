@@ -1,0 +1,3 @@
+(Glass ring:1.3), masterpiece, best quality, landscape, <lora:RingArt_Sora:0.8>, (style of Alberto Vargas:1.3)
+(masterpiece, best quality:1.5), 
+Tahitian pareu, Shopping mall, Clear skies,

@@ -1,0 +1,1 @@
+robort, female cyborg (ninja:1.2) wearing  (robe:1.2),cape, battlefield, fire,smoke,fcPortrait <lora:NijiExpressV2:0.4>  <lora:FINAL Robort:0.6> <lora:add_detail:0.3>

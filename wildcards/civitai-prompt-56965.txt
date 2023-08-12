@@ -1,0 +1,4 @@
+masterpiece, best quality, cinematic lighting, realistic, photorealism, 
+(shevenom woman:1.5),  <lora:shevenom_v20:0.5>, spiderman, black suit, teeth, smile, black venom, full body,
+ <lora:largeFutanariLora_v10:0.8> (zfuta), (futanari), erection, 
+new york city background, muscular, breasts, ((biceps)), milf, thicc, perfect female body, (penis), (testicles), (frenulum), standing, tongue

@@ -1,0 +1,1 @@
+c4ttitude joker in the style of 0mib <lora:0mib3(gut auf 1):0.65>  <lora:c4ttitudeflatver:0.75>

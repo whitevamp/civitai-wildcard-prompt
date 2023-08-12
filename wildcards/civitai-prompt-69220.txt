@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl,      <lora:fireemblem_ordelia_pruned-12:0.8> lysithea von ordelia, lysitheauniform, blue pantyhose,  
+ <lora:paimonsPaintingsStyle_gstamp02000008:0.8>

@@ -1,0 +1,4 @@
+(hyper detail, finely detailed, colorful,perfect artwork), professional photography, award winning photo, photoshoot, centered photo, RAW, bokeh, soft lighting, realistic shadow, detailed skin texture, photon mapping, film grain, looking at viewer, (intricate details:1.3), (hyper detail, finely detailed, colorful,perfect artwork), Jpop idol, perfect face,  Japanese cute girl, 1girl, solo,beautiful,beautiful detailed eyes,bright eyes,mature female ,beautiful face,
+(big smile:1.5),  in the school, (in the classroom:1.5), (blackboard), full body, colorful aodai with cute flower patterns, big breasts, <lora:aoDaiVietnamese_v10>,
+bright sun light, looking at the viewer,
+(long hair:1.5), (hair bun| bun hair| piggy tails hair| messy bun hair| updo hair|curl outward hair|braid|long messy hair), hair accessory, (mouth closed:1.5)

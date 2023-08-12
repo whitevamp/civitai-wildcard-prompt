@@ -1,0 +1,1 @@
+masterpiece, (((best quality))), ((highres)), [(white background:1.5)::5],  ray tracing, bokeh, (steampunk:1.5), brown, polluted sky, (gothic building), (((giant clock right behind the character))), 1girl, (((solo))), from side,  (((looking at viewer))), hiten1, <lora:gachaSplashLORA_gachaSplashFantasy:1>

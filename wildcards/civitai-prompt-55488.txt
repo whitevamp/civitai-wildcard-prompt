@@ -1,0 +1,1 @@
+{best quality}, {{masterpiece}}, {highres}, original, extremely detailed 8K wallpaper, 1girl, {an extremely delicate and beautiful}, <lora:asukaLangleySohryu_v9:0.8>,ouryuu asuka langley,  bodysuit under clothes,white bodysuit, eyepatch,upper body,foreshortening,closed mouth,smile, <lora:shaftHeadTilt45Pose_fromBehindFromSide:1.5>,from behind,shaft head tilt

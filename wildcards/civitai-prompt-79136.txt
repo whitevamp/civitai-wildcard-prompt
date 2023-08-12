@@ -1,0 +1,1 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close-up, 1girl, sailor neptune, (mature woman:1.3), small breasts, aqua eyes, dark green hair, medium hair, sailor senshi uniform, plead skirt, looking at viewer, alley, (blush:1.2),  embarrassed, aged up, hand on chest,<lora:kizukiSailorMoonSailorNeptune:0.95>, (torn clothes:1.3)

@@ -1,0 +1,17 @@
+chi-chi,  bikini armor, aqua cape, pink helmet, (pink gloves:1.2), pink boots, (blue collar), tight  shorts, panty line
+portrait, solo,   (looking at the viewer:1.1), straight hair , tan lines,
+, (shorstack:1.2),  (skindentation:1.5), sensual pose, choker, tight fit, groin, flat chest,
+at night, color corrected,
+action shot,   half body,
+[(
+smirk,
+crowd,cosplay,comic con,
+motion blur, slow motion, low brightness,
+muted colors, soft light, bloom, bokeh,
+film grain, 85mm, focus,
+<lora:FilmG2:0.66>
+<lora:cc:0.56>
+):8]
+<lora:uv:0.6>
+<lyco:GoodHands-beta2:0.65>
+<lora:LowRA:0.7> <lora:Chi-Chi3:0.8>

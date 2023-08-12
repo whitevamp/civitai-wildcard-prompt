@@ -1,0 +1,3 @@
+((masterpiece, best quality)),full body, high heels, empire blade, masked, faceless, 1girl, solo, revealing clothes, cyborg, large breasts, thighs, short sleeves, bare arms, miniskirt, white stocking, 
+blue sky, white cloud, soviet architecture, imperial russia, red flag, winter, city landscape,
+(white background:0.8), lihuifa_style, additional space, special effect, <lora:arknights-empire blade:1:MIDD>, <lyco:RoleBackground_loha2.0:0.6>

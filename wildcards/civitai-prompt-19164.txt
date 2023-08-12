@@ -1,0 +1,2 @@
+(masterpiece, top quality, official art, professional work, beautiful and aesthetic:1.2), (1 girl:1.4), (full body, dynamic pose:1.3), (zentangle:1.3), (detailed eyes, detailed mouth and lip, detailed face, detailed nose), (abstract background:1.5), extremely detailed, fractal art, vibrant colors, multi- colors, splash of colors, highest detail,  trending on artstation, digital painting, concept art, intricate, sharp focus, soft shadow, digital illustration,
+<lora:add_detail:0.72>

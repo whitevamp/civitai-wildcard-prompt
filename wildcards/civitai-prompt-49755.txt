@@ -1,0 +1,11 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(8k, raw photo, best quality, masterpiece),
+technological sense, best quality, masterpiece, illustration,CG ,unity ,wallpaper, official art,
+Amazing, finely detail, an extremely delicate and beautiful,extremely detailed,
+highly detailed, sharp focus,rich background,
+(real person,photograph),
+((high detailed skin)),
+((Cyberpunk,Future City,Night,Rainstorm)),Neon, Display Screen, Advertising, wires, waste,
+1 girl,solo, cowboy shot,serioys,honorable,cold,grim,elegant Haughty,armoured,machinery,Tight combat uniform
+(short hair,pink hair,thick bangs),(small breasts,Very thin),
+(Mottled light and shadow,depeh of field,cool light), <lora:urbanSamuraiClothing_urbansamuraiV03:0.8> <lora:koreanDollLikeness_v15:0.2>

@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, vibrant image, sharpness, colorful, soft lighting, 
+NonoharaMikako, 1girl, mature female, milf, posing, pinup \(style\), standing on one leg, full body, looking at viewer, side view, mansion, window, luxury room,
+blush, tired, purple hair, long hair, lipstick, makeup, blue eyes, perfect eyes, detailed eyes, detailed hair, hair ribbon,
+black playboy bunny, black bodysuit, rabbit ears, pantyhose, high heels, 
+curvy, huge breasts, cleavage, thighs, 
+<lora:NonoharaMikako:0.85>

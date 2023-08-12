@@ -1,0 +1,3 @@
+((masterpiece, best quality:1.2),
+jasmine,princess jasmine from disney,(dark skin:1.2),18 years old,beautiful face,elegant face,(beautiful slanted eyes:1.4),brown eyes,black hair,hair tied back,turquoise arabian royal outfit,small breasts,
+outdoors,at night,starry sky,arabic palace,fearless smile,sitting on flying carpet <lora:jasmineAladinDisney_v10:0.4>

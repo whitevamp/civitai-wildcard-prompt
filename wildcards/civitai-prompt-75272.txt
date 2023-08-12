@@ -1,0 +1,8 @@
+((masterpiece,best quality)),((ultra detailed,extremely intricate,ultra high res,RAW,HDR,))(photorealistic:1.2)
+1girl,looking at viewer,upper body,lens 135mm,f1.8,
+inely detailed beautiful eyes,perfect eye makeup,wide-eyed,glowing eyes,
+Detailed skin texture, detailed cloth texture, stunning gradient colors,ray tracing,
+side lighting, Rim lighting,best shadow,
+perfect female body,skiny and thin,slim legs,lustrous skin, glossy skin,shiny skin,perfect breasts,perfect hips,perfect anatomy,
+city street background, busy street view,(night),
+<lora:shiny dress,wearing luxury dress:0.6>,red shiny dress,wearing red luxury dress <lora:liYitongCN_v10:0.3> , <lora:GirlfriendMix_v1:0.3>

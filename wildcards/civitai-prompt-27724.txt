@@ -1,0 +1,1 @@
+1man, solo, portrait muscular gladiatorarmor man wear a full face helmet in arena, gladiator, armor strap, ornate, details, blood, debris, realistic, photography, blurry background, softfocus, bokeh,  <lora:ARWGladiatorArmor:1>

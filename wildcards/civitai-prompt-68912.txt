@@ -1,0 +1,1 @@
+(ultra realistic 8k cg, masterpiece), ((ultra detailed background, delicate pattern, intricate detail)), (highly detailed, fine details,), (beautiful detailed face and eyes and hair:1.1) ,1girl,Trailblazer (Honkai Star Rail), black jacket, white shirt, skirt, looking at the sky, night, sitting on the ground, lake,   <lora:TrailblazerHonkaiStarRail4:0.8>

@@ -1,0 +1,4 @@
+masterpiece, best quality,
+lynette bishop, 1girl, ahoge, single braid, smile,
+portrait, outdoors, thighhighs,
+<lora:strike-witches-501st-lynette-bishop:0.8>

@@ -1,0 +1,3 @@
+(reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, extremely beautiful detailed face, best shadow, 8k, breasts out, school gym, 
+medium breasts, looking at viewer, Ash white Hair, ice blue Eyes, Wide Nose, Plump Lips, track suit, shocked, nipple tweak, covered nipples, 
+AS-Adult, <lora:add_detail:0.6>, <lora:school_gym_v0.1:1>,

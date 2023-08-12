@@ -1,0 +1,1 @@
+111cine8matic55, a full body batman in the rain,dramatic  visuals, atmospheric immersion, shot with sony alpha a9 II and sony fe 200-600mm/5.6-6.3 g oss lens, natural light, hyper realistic photograph, ultra detailed,  <lora:add_detail:1>,   <lora:CineStyle5:0.5>

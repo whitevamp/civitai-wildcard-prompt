@@ -1,0 +1,1 @@
+<lora:miyamizu_mitsuha:0.7>,miyamizu_mitsuha,1 girl,solo,(upper body),(smile),(holding hair:1.2),looking at viewer,red bowtie,yellow school uniform,white t-shirt,black school skirt,outdoors,(light rays:1.2),(sun:1.2),(blue sky:1.1), park,flowers,lawn,trees,

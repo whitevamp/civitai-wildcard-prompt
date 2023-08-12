@@ -1,0 +1,4 @@
+cat, <lora:concept_hoac-13:1>,pov, solo focus, upper body, hand on another's cheek
+8k,  masterpiece, best quality, ultra-detailed,
+looking at viewer,
+upper body,

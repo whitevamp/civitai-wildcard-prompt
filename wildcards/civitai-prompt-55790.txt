@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+ <lora:photoComparisonBETA_v10:1.1>
+
+
+Photo_Comparison,1girl, <lora:ameliaWatsonHololive_v2AllOutfits:0.8> amelia watson, monocle hair ornament, amelia_detective, collared shirt, red necktie, plaid skirt, thighhighs (amelia_detective accesories:0) deerstalker, brown capelet, pocket watch, stethoscope, syringe,  standing,(phone,cellphone, smartphone, holding, Picture:1.5)
+
+Amelia watson, Nude, naked,

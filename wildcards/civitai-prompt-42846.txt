@@ -1,0 +1,2 @@
+<lora:soren-nvwls-v1-final:0.8> soren, forehead mark, black cape, black robe, sash
+beautiful, masterpiece, best quality, <lyco:Chopper:1.0> chopper, choppermeme, chibi, tearing up,

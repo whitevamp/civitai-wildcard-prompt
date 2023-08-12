@@ -1,0 +1,1 @@
+(2girls:1.5),(fisheye:1.1),sea,wind,messy hair,sunset,beach,(aesthetics and atmosphere:1.2),long hair,black sunmer dress,light smile,happy,<lora:MengX girl_Mix_v30:1>,<lora:FujiVelvia50:1>,<lora:lit:0.2>,shallow depth of field,wavy hair,hoop  earrings,hair  ribbon,large breasts,thin straps,

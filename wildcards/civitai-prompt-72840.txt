@@ -1,0 +1,8 @@
+8k, (best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, (full_body:1.4),
+1girl, standing on street,  cute, solo, beautiful detailed sky,
+nose blush, closed mouth, blushing,  blue eyes,  beautiful detailed eyes, (looking at viewer),
+(long pink hair:1.2),
+(t-shirt in leather jacket), small breasts, (navel), uncensored, bottomless, nsfw, puccy, hairless_puccy, <lora:Addams:0.6>, Thin thighs, thin calves,  white_sneakers, 
+city, rain, night, matte colors, dark background, bokeh,
+realistic, photo, detailed background,
+<lora:JapaneseDollLikeness_v15:0.8>,  <lora:epiNoiseoffset_v2:1>

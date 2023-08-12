@@ -1,0 +1,9 @@
+(Masterpiece, unparalleled masterpiece, ultra-realistic 8k CG, extremely detailed CG unity 8k wallpaper, perfect artwork, ultra-detailed, intricate detail), ((Perfect female figure)), (best illumination, best shadow, an extremely delicate and beautiful), extremeley detailed, intricate detail, (finely detail), extremely detailed illustration, Huge breasts, An extremely meticulous and beautiful face, best quality, 8k, 8k [:(Delicate arms and hands):0.8]
+Detail:(masterpiece), (best quality:1.2), absurdres 1girl, Solo ,
+
+Place:
+
+Body: arm_tattoo,tattoo,silver hair
+
+Clothing:red_pants, crop_top, leather_jacket, red_jacket,
+<lora:Hipoly 3D Model v20:0.2><lora:wzx:0.5>  <lora:Zoya:0.7>

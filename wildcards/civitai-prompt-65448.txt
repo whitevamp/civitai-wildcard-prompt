@@ -1,0 +1,1 @@
+absurdres, highres, ultra detailed, Ultra-precise depiction, Ultra-detailed depiction, 1girl, solo, (zentangle:1.4), dynamic pose, floating hair, (skinny, thin body: 1.2), <lora:PencilDress1.3:0.7>, pencil_dress, large skirt, tanned skin, shiny skin, lace, (Fashion Magazine Cover:1.4)

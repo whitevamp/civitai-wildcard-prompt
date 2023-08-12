@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,(abstract, fractal art:1.3), colorful,highest detailed, cat:1.3 ,fire, water,  (splash_art), <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.6> ,  scenery, ink,

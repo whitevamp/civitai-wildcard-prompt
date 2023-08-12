@@ -1,0 +1,3 @@
+(bichu, oil painting, Impressionism) of (one male), (looking at viewer), (upper body:1.2), (side view:1.25),
+Very detailed manly face, heroic, detailed realistic open dark gray eyes, (muscular:1.5), (big muscles), (massive pecs), (hairy pecs), narrow waist and hips, (honey hair), (slight smile), (shirtless) (topless male). highly detailed, high quality, masterpiece
+<lora:bichu-v0612:1>

@@ -1,0 +1,1 @@
+a cute smoky kitten made out of metal, (cyborg:1.2), ([tail | detailed wire]:1.3), (intricate details), hdr, (intricate details, hyperdetailed:1.2), cinematic shot, vignette, centered, <lora:to8contrast-1-5:0.65>, by Stray game, futuristic technology , robots , spaceships , by Vitaly Bulgarov , Maciej Kuciara , Jama Jurabaev , Sparth , Karla Ortiz

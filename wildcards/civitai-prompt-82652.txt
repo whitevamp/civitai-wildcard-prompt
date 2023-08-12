@@ -1,0 +1,2 @@
+Best quality,masterpiece,ultra high res,ultra realistic 8k cg,
+(a mature middle-aged woman:1.6),Female robot,Eyes emit red light,infrared eyeball,(thick pubic hair:1.3),(((mechanical body:1.1))),(huge breast:1.2),Cyberpunk,(mechanical arm:1.2),(mechanical thigh:1.3),(Metal parts combined into a body:1.5),With a weapon in hand,Combat Posture,Neon Light,Metallic texture,(Broken body:1.1),(Scars:1.2),(Moist skin:1.1),<lora:reelmech1v2:0.25> reelmech,<lora:BodHor-V1:0.45>, <lora:fashionGirl_v51:0.65> fashi-g,

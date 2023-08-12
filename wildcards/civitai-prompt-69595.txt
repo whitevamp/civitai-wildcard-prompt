@@ -1,0 +1,1 @@
+<lora:spiderwebbed_v1:0.65>(best quality, masterpiece, realistic, detailed, 8k), 1girl, covered face, fetal position, foot focus, bound legs, bound arms, ((spiderwebbed)), (suspension), spider web, tree<lora:epiNoiseoffset_v3:4>

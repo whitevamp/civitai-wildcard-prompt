@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, scenic shot
+BREAK
+<lora:TonraqTLOK-000007:0.7>TonraqTLOK , muscular male,
+, dark-blue capelet, blue shirt, long sleeves, blue pants, (riding polar bear)
+BREAK
+winter, gorgeous view

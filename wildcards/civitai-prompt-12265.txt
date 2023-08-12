@@ -1,0 +1,3 @@
+[PAseer的古风模型/PAseer's Classical Style]
+(high quality), ink painting,  
+1girl, cute face, beautiful, buterfly, full body, <lora:PAseer的蝶之影:0.6>

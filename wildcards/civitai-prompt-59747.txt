@@ -1,0 +1,1 @@
+(original: 1.2), masterpiece, best quality, a woman with a fantastic cyberhelmet, wearing red techwear jacket, on the street <lora:cyberhelmetv0.7:0.9>

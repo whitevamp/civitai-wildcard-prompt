@@ -1,0 +1,2 @@
+(masterpiece),(best quality), upper body,
+disfigured,bad face,poorly drawn face,extremely detailed 2K wallpaper,highly detailed,ultra-detailed,best quality,illustration depth of field,best shadow,detailed light solo,(man),boy,holding smoking pipe,smoking, <lora:DingZhenLora_v1:0.9>, <lora:RX78_V1:0.6>,mecha,

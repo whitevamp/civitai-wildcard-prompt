@@ -1,0 +1,1 @@
+female, cyberpunk scene, woman criminal, dangerous (yakuza:1.2) android (prostitute:1.1),sleek (visor:1.5) hi-tech, glossy black mecha armor bodysuit, detailed silk cape, intricate designer (lingerie:1.2), red lipstick, (neon red sun:1.1), moody night scene, <lora:nijiarmor:0.9>

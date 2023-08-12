@@ -1,0 +1,1 @@
+1girl,sneakers,masterpiece, glasses, cinematic lighting, perfect skin, small breasts, female, dynamic pose,shirt, thighhighs, pleated skirt,long vivid colorful hair, sex body,classroom,  <lora:epiNoiseoffset_v2Pynoise:1.6>, <lora:nerdy_fc_v1.0.safetensors:0.5>

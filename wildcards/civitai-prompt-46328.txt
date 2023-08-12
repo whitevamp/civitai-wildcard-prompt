@@ -1,0 +1,9 @@
+best quality, intricate details, chromatic aberration, nipple tweak,pov hands, nipples, medium breasts,
+
+1girl, long hair, black hair, messy hair, red highlights, hair over one eye, red eyes, sharp eyes, 
+
+choker,torn legwear, open jacket, 
+
+against wall, brick wall, graffiti, dim lighting, alley
+
+ <lora:conceptNippleTweak_v10:0.8>

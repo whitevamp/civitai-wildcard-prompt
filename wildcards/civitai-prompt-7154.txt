@@ -1,0 +1,6 @@
+(one male:1.9) (1boy:1.9) (side view) (facing viewer)
+Very detailed flawless handsome face, detailed eyes, heroic, bodybuilder, (big muscles), (big pectorals), narrow waist. (Long hair). Realistic face, realistic eyes. Seductive smile.
+(shirtless) (topless male), wearing jeans.
+Standing by a window. Sunset. (Very low ambient light), soft illumination.
+High contrast, high saturation, highly detailed, high quality, masterpiece, soft volumetric lighting, (black and white photograph). In the style of George Hurrell.
+<lora:BulkedUpAIR1.5:0.3>

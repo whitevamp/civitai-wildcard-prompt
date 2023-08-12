@@ -1,0 +1,1 @@
+<lora:VRAMsViolet640v2:0.5>,xyzviolet,1girl,long hair,beautiful,masterpiece,tube top,microskirt,<lora:3DMM_V11:0.2>,3DMM,dynamic angle,standing, in a city park,

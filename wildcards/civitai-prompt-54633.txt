@@ -1,0 +1,1 @@
+jar jar binks, blacked, Beautiful Art Style, 1girl, young woman, looking at viewer, quiff, mountain, sitting with elbows on knees, mardi gras costume <lora:jarJarBinksGunganStar_v3:0.6> <lora:blackedUnderwear_v19:1>

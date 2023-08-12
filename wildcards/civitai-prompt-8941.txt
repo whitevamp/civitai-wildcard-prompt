@@ -1,0 +1,4 @@
+(dark theme:0.9), medieval full body of a woman darkwaifutrap sharp features, blonde hair, very long hair,  makeup, eyeliner, eyelashes, mascara, dark skin,clevage, flat breasts, red lipstick, earrings, grim, cold stare, dark colors, Volumetric lighting, baroque oil painting by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha dynamic lighting hyperdetailed intricately detailed, (hdr:1.22), muted colors, complex background, hyperrealism, hyperdetailed, amandine van ray <lora:epiNoiseoffset_v2:1>,panty house,squating,
+<lora:darkwaifutrap-10:0.2>, fcPortrait, <lora:add_detail:-1>,
+<lora:tajnaclub_high_heelsv1.1:0.6>, high heels, platform footwear, platform heels,(black footwear:1.3), 2000ccplus, fcPortrait, <lora:booscapes:1>, booscapes background,
+<lora:sexy_attire:0.75>, sexy_attire, wearing sexy_attire,

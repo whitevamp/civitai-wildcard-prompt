@@ -1,0 +1,5 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+inspiring, Ornate peplos with intricate geometric patterns and a belted waist, Phenom, Tall, Athletic, Round Face, Fair Skin, White Hair, grey-blue Eyes, Long Nose, Full Lips, Round Chin, Shoulder-Length Hair, Coarse Hair, Long Curly Hair, saggy breasts, Huggie earrings, plum sheer lipstick, Architectural marvel adorned with murals depicting epic battles and mythical creatures,
+Seated on a velvet chaise longue in a sunlit boudoir, she radiates sensuality and quiet confidence,
+Ancient Greek temple ruins overlooking a scenic coastal landscape,
+<lora:simplePointedToeHeelswithoutStrap:0.4>, beautylegs, slim legs, long legs, high heels, <lora:edg_swedishDollLikeness:0.7>, beautiful edgSwedish_woman, perfect edgSwedish_face, perfect edgSwedish_body,

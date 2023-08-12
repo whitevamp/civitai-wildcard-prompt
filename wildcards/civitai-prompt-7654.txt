@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:JinxTT-000008:0.8>Jinx,
+purple capelet, black dress, choker, striped thighhighs
+BREAK
+abstract background

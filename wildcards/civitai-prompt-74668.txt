@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, petite, cyborg, short hair, extremely beautiful, seductive, tanned skin, detailed skin complexion, mechanical arm, cyborg eyes, small breast, barefoot, casual and sexy clothes, crawling, looking at viewer,
+break
+indoor, futuristic, cyberpunk, neon light on wall, dirty, concrete, brutalist architecture, overlooking futuristic city scape, moody vibe, intricate detail, inadequate lighting, night
+break
+from front, light and shadow contrast, rule of third, sharp focus, foreground background, verticality, proportion, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)

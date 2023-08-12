@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), 1girl, (plump), mirabel madrigal, (bikini:1.2)  glasses, smile, looking at viewer, <lora:MirabelMadrigal_v1-000024:1>

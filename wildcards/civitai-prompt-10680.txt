@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, short bob, school girl, jk uniform, jk suit, shirt, necktie, (portrait:1.2), beach background, realistic photo, Fuji negative film, low saturation, low contrast, fuji ftx5 <lora:FilmVelvia2:0.4>   <lora:jk:0.4>

@@ -1,0 +1,5 @@
+(masterpiece),(best quality),
+(full body:1.5), chibi,1girl,solo,
+flower, outdoors, playing instrument, music, guitar, beret, holding instrument,  jacket, blush, tree, :3, shirt, short hair, cherry blossoms, green headwear, blurry, brown hair, blush stickers, long sleeves, bangs, headphones, black hair, pink flower,
+(beautiful detailed face),(beautiful detailed eyes),
+<lora:blindbox_v2:1>,

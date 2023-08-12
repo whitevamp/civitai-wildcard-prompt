@@ -1,0 +1,1 @@
+( watercolor \(medium\),    IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, painting of a woman, Taupe Brown theme, abstract background

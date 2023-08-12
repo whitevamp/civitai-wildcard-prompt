@@ -1,0 +1,1 @@
+masterpiece, best quality, highly detailed, bisquedoll anime style, kuroe shizuku, cowboy shot, <lora:myDressUpDarling_v40b:0.8>, <lora:bisquedoll_anime_style_offset:0.9>

@@ -1,0 +1,2 @@
+<lora:otoyomegatari:1>, otoyomegatari, 1girl, greyscale, monochrome, halftone, drawing, manga, asian, eyeforcus, nature, bob cut,
+  <lora:add_detail:1.5> face focus, bust shot, <lora:TraditionalMaid:0.9> maid cloth, many book shelf, study room, teacup, front view, lying,

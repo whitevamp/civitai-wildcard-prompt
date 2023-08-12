@@ -1,0 +1,1 @@
+(masterpiece:1.2), portrait of a medieval knight, intricate details, natural skin details, cinematic photography, angry,( ornamental filigree design over armor:1.4), engraving, very detailed armor, rusty, absurdres, jehovatis witnesses, golden hours, <lora:TelkariAI-10:1>, cross

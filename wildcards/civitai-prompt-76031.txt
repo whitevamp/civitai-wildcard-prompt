@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, sv1, sailor senshi uniform, orange skirt, elbow gloves, tiara, orange sailor collar, red bow, orange choker, white gloves, jewelry, <lora:sailor_venus_v2:0.7>, (1990s \(style\):0.9), sitting, crossed legs, throne,

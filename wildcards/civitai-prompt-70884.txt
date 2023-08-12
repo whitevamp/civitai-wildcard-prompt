@@ -1,0 +1,3 @@
+(Film Grain:1.4), nsfw, best quality, masterpiece, ultra high res, cowboy shot, (photorealistic:1.4), raw photo, official art, (detailed face, detailed eyes), rouge \(makeup\), red eyeshadow, little smile, beautiful legs, tall female, skinny, slim_legs, thigh_gap, 1girl, solo, black hair, short hair, flower, realistic, looking at viewer, dress, black eyes, white dress, yellow flower, bob cut, upper body, lips, bangs, near flower background,  
+beautiful big breast, cleavage,
+<lora:FilmG2:0.8>,  pureerosface_v1, <lora:babaF:0.4>, <lora:JapaneseDollLikeness_v15:0.2>

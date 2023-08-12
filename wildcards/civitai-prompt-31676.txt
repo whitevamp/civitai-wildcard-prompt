@@ -1,0 +1,8 @@
+1girl, solo, (tomboy:1.2), (face focus, close-up face:1.2), upper body,
+black hair, (very short hair, long sidelocks:1.2),
+red eyes, looking at viewer,
+smile, closed mouth,
+black bra, cleavage, sleeveless, bare shoulders,
+choker,
+white background, simple background,
+<lora:Tomboy:1>  

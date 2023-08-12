@@ -1,0 +1,1 @@
+<lora:WhiteSlimeAI:.8>, WhiteSlimeAI breakfast

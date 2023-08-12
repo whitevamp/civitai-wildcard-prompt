@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), 8K, highly detailed, intricate, colorful, vibrant image, sharp focus, 
+Ingrid, (Helloutfit:1.2), (holding glowing sword:1.2), mature female, (dark skinned female:1.15), skyscrapers, night city background, looking at viewer, (v-shaped eyebrows:1.1), (full body shot:1.1),
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.7), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+black (halterneck:1.3), (underboob:1.1), cape, center opening, elbow gloves, (black panties:1.1), thighhighs, boots, highleg, 
+large breasts, (covered nipples:1.03), nipple slip, areola slip, cleavage, curvy
+<lora:Ingrid:0.9>

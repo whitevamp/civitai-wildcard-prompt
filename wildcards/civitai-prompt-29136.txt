@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,
+<lora:bismuth-10:0.7> ,bismuth,1girl,portrait, wings,<lora:landing_wings_sd-10:0.6> ,landing_wings_sd

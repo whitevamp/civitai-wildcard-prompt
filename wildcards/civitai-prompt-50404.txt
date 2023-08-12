@@ -1,0 +1,1 @@
+1 vmpr,  big head, big eyes,small body, full body, beautiful shoes, no background, <lora:blindbox_V1:1>, (8k, best quality, masterpiece:1.2),(best quality:1.0), (ultra highres:1.0)

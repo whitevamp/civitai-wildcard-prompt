@@ -1,0 +1,3 @@
+(a beautiful roman temple),(ancient greece),(nude:1.3),(crowd:1.2), (crowded)
+BREAK
+<lora:epiNoiseoffset_v2:1>,((masterpiece, best quality)), (perfect lighting), (exposed subject),(official art, promotional art), (composition), (art by Hieronymus Bosch)

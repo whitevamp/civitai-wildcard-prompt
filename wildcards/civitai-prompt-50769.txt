@@ -1,0 +1,12 @@
+(masterpiece:1.2), (best quality:1.2)
+ (thick thigh),
+
+(looking at viewer:1.3),
+
+(emotionless:1.0)
+energetic
+(competition swimsuit:1.1) 
+evocative pose
+in swim pool
+
+<lora:ancient_princess_menace:0.8> ancient_princess_menace, jewelry, blue eyes, earrings, revealing clothes, short hair, crown, blunt bangs, dark skin

@@ -1,0 +1,4 @@
+ultra detailed 8k cg, vintage photograph,
+<lora:add_detail:1>, <lora:epi_noiseoffset2:0.5>
+(1man, wrinkled face, old  male:1.2), frail,  brown eyes, gray hair, long mustache,
+(style-swirlmagic:1.0), portrait,  looking up, solo, upper body, detailed background, (<lora:1001ArabianNightsV3:0.6>, 1001ArabianNights theme:1.1)  determined, focusing, pursed lips, mage, casting spell,  dark clouds, (dark blue lightning <lora:LightingVFX:0.1>), floating particles, arms raised, dark brown robe, hair flowing in the wind, magic crystal ball, arcane spell, mana, grim dark realistic lighting, battlefield in background,

@@ -1,0 +1,1 @@
+Best quality,masterpiece,ultra high res,raw photo,unity 8k wallpaper, 1 girl, eating watermelon, summer, film color, (film overlay:1.2), (faded overlay:1.5), <lora:JPfilmColor-000002:0.45>, (film poster:1.2)

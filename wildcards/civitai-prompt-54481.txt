@@ -1,0 +1,8 @@
+best quality, 8k,raw photo, ultra realistic, masterpiece:1.2,professional light, highlight on face, 
+1girl, upper body, close-up,black hair,
+
+choker, 
+
+night,city,
+
+ <lora:no105Girl_sdNo105000014:0.8>

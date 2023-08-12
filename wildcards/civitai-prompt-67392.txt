@@ -1,0 +1,1 @@
+masterpiece, best quality, 8K, HDR,(capybara), (multiple animals), depth of field, street, a few people,  <lora:capi-09:0.8>, rain, water on ground

@@ -1,0 +1,1 @@
+masterpiece,highres,1girl, thiccwithaq  <lora:thiccwithaQ-17:.8>, <lora:jinxLeagueOfLegends_v10:1> jinxlol, simple background, cowboy shot

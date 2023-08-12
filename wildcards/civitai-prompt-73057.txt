@@ -1,0 +1,4 @@
+liv tyler WARFRAME, red  glowing eyes, long silver hair, wind blown hair,  elegant, intense, biomechanical , transparent armor, bloody wings, solo,  claws, veins, 
+dramatic lighting,
+(masterpiece:1.2), best quality, high resolution,   beautiful detailed, extremely detailed, perfect lighting,  mshn
+<lora:warframe_v1-000012:0.5>    <lora:mshn:0.5>

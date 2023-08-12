@@ -1,0 +1,1 @@
+(digital color photo) of [man:RYUK:0.2], photorealistic, analog style, modelshoot style, 35mm, vignette, intricate detail, film grain, portra, <lora:ryukDeathNote_v01:0.8>

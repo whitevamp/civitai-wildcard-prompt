@@ -1,0 +1,3 @@
+esmeralda  hairband, bare shoulders, dress, puffy short sleeves, corset, purple skirt, 
+watercolor painting by artgerm and greg rutkowski
+ <lora:sxzEsmeraldaDisney_sxzEsmeralda:0.8>

@@ -1,0 +1,3 @@
+(((Masterpiece))), (((Best quality))), ((Ultra-detailed)),
+hyper realistic, (detailed face and eyes:1.3), (perfect eyes:1.1),
+(princess zelda:1.3), intricate clothes, long sleeves, dark pants, <lora:Chara-PrincessZelda:0.5>

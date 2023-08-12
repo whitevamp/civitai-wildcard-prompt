@@ -1,0 +1,2 @@
+realistic face, realistic skin, (extra detailed), ( detailed texture), interesting details, realistic shades, contrast lights, symmetrical, sci-fi, hi-tech, glasses, realistic hair
+ <lora:epiNoiseoffset_v2:1>

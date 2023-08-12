@@ -1,0 +1,1 @@
+masterpiece, best quality, rosado, otoko no ko, cone hair buns, hair bow, black crop top, bubble tea challenge, drinking straw, crossed arms <lora:rosado-nvwls-v1-final:1> <lora:concept_bubbleteachallenge-16:1>

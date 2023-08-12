@@ -1,0 +1,1 @@
+masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,1girl, 24yo, <lora:69 siyun v2:0.7>, siyun, ultra high res, (photorealistic:1.4), golden hour lighting, sportswear, very white skin,  upper body, (Kpop idol), looking at viewer, facing front, smiling, laughing, uncensored,front lighting, glowing face,   <lora:46 shirtliftALORAFor_shirtliftv1:0.8>,

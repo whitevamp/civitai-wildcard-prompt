@@ -1,0 +1,3 @@
+woman in plate armor, unveiling dangling leather clothes, exposed stomach, (nsfw:0.7), (porn:0.35), medieval, black skin, dark skin, western comic style, fantasy, (aroused:0.7), casting spell, (cocky attitude), dangerous gauntlets, teasing, spikes, looking at viewer, perfect anatomy, perfect blue eyes, (fit:0.83), [(fire magic):0.2]
+Negative prompt: art by bad-artist, bad-image-v2-39000, bad-hands-5, worst quality, bad quality, low quality, lowres, cover
+Steps: 17, Sampler: DPM++ 2S a Karras, CFG scale: 7, Seed: 1278336424, Size: 512x768, Model hash: 7f2b83628d, Model: MoonRide Mix 10, Denoising strength: 0.4, Clip skip: 2, Hires upscale: 1.3334, Hires steps: 17, Hires upscaler: R-ESRGAN 4x+ Anime6B

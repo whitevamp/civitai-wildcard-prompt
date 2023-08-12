@@ -1,0 +1,2 @@
+<lora:GlowingRunesAIv4-000005:0.9>  GlowingRunes_red 
+coffee machine, detailed, intricate

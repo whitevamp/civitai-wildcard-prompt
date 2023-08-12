@@ -1,0 +1,3 @@
+dramatic cinematic light ADDCOMM
+cluttered room ADDCOL
+TI_Vermeer , portrait of a beautiful European woman wearing a wedding dress, black dress, detailed skin imperfections

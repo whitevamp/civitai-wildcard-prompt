@@ -1,0 +1,5 @@
+3DMM
+1girls, ,,grin smile smile
+8K image, a vibrant woman, hair styled like a colorful coral, eyes shimmering with joy. In a dress made from woven rainbows, she stands in a world where every object has a pastel hue. The scene, under the radiant rainbow light, captured in the style of a pop art painting.
+<lora:tw:0.5>
+(masterpiece, best quality, official art,intricate details:1.2) <lora:3DMM_V10:1>

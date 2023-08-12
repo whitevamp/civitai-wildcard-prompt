@@ -1,0 +1,12 @@
+((masterpiece)), (((best quality))), (detailed), (extremely detailed CG unity 8k wallpaper,masterpiece, best quality, ultra-detailed), (best illumination, best shadow, an extremely delicate and beautiful), dynamic angle, floating, finely detail, Depth of field , (shine), glinting stars, classic, (painting), (sketch),((ultra-detailed)), ((illustration)), ((an extremely delicate and beautiful)),dramatic shadow,ray tracing,(from below:1.3)
+
+masterpiece, best quality, detailed, sidelighting, 3d face, realistic, lustrous skin, 1girl, lying, night, indoors, close-up, white long hair, hair over one eye, full blush, smile, shy, blue eyes, eye reflection, bright pupils, beautiful detailed eyes, large breasts, small areolae, long nipples, puffy nipples, navel, pussy, vaginal, pussy juice, sweat, steam, steaming body, heavy breathing, kneehighs, detached sleeves, topless, bottomless, slit_pussy, <lora:InniePussy1 v3c:0.25>, bed, bed sheet, bed_invitation, <lora:bed_invitation:0.25>, shenhernd, <lora:shenhe2:1>
+
+
+[主要特征:0],
+[效果:0],detailed skin texture,detailed clothes texture,fine fabric emphasis,
+[人物特征:0],beautiful legs, narrow waist,slim legs,long legs,medium breasts,model,
+[头发:0],floating hair,parted lips,long eyelashes, hair glowing,((messy hair)),((fine hair texture)), very long hair,
+
+[脸部特征:0],beautiful face,beautiful face, extremely detailed face,extremely detailed eyes and face, beautiful detailed eyes,detailed eyes,medium breasts,cleavage,
+[插件:0], masterpiece, best quality,

@@ -1,0 +1,7 @@
+RAW photo, subject, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, absurdres, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed skin:1),
+cinematic lighting, dynamic angle, cinematic pose,
+sexy, seductive, provocative, energetic, frenzied, excited,
+smooth thighs, petite, small breasts, pale skin, blushing, lying, grabbing, squeezing,
+simple background, ambient lighting, soft shadows,
+reflective, wet, shower,
+ <lora:stylesqueeze_v1b:0.8> <hypernet:OverallDetail:1> <hypernet:SkinHairDetail:1>

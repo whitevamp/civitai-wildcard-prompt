@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3),    luminous effects, vibrant colors,  fluid movement,  creative experimentation, highest detailed, <hypernet:sxzBloom_sxzBloom:0.1>
+1 girl, adult  woman, freckles, aquamarine eyes, medium blonde ponytail,
+portrait, (bloody scars:0.7), looking at viewer, solo, (full body:0.6), detailed background, close up, (evil sinister (DarkFantasy:0.8) theme:1.1), superhero, focusing, fighting stance,  underwater, under the sea, submarine,  swimming,   smoke, explosions, battle scene, epic cinematic atmosphere,
+<lora:mitsuart_v8.1a:0.6>,

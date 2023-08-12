@@ -1,0 +1,9 @@
+(masterpiece, best quality, high quality, highres:1.4), ultra high res, absurdres, sharp focus, detailed, soft ambient lighting, 4K,
+cowboy shot,
+1girl, (light blue hair:1.1), (vibrant teal hair:0.8), (long hair:1.1), (pink eyes:1.2), thick eyelashes, (finely-detailed eyes:1.1), sharp pupils, (looking at viewer:1.2), naughty smile,
+medium (big:0.9) breasts, perfect hands, detailed skin, shiny skin, glossy lips,
+(black micro bikini:1.2), skin tight, bracelet, choker, golden armlet, (heart-shaped earrings:1.1), solid black thighhighs, (highleg thong:0.7),
+standing, (used condom, condom in mouth, condom belt:1.2), holding arm,
+(outdoors:1.1), stores, alley, motel, signs, night, sky,
+detailed background, brilliant colorful, subsurface scattering, volumetric lighting, extremely detailed
+<lora:condomBelt_v12:1>

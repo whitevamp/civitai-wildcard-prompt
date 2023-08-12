@@ -1,0 +1,10 @@
+(RAW, best quality, masterpiece:1.5), (photo realistic, intricate details:1.2), ultra highres, absurdres,
+1girl, perfect body, 
+light blonde hair, pixie cut,
+medium breast, slim waist, slim legs,
+bikini, 
+shiny skin, real skin texture, 
+supermodel, :q, infinity pool,
+best lighting, detailed background, detailed shadow, sharp focus, depth field,
+saturated, high contrast, strong light and shadow,
+[<lora:no109Girl_sdNo109000014:0.5>::0.8]

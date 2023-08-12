@@ -1,0 +1,1 @@
+(masterpiece, best quality, beautiful and aesthetic:1.2), ultra high res, 8k, 4k,detailed,(fractal art:1.3),colorful, radiosity,automatic white balance, 1girl,<lora:add_detail:1>

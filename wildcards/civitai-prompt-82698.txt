@@ -1,0 +1,2 @@
+masterpiece, best quality,(cgi, realistic:1.25),photo, extreme detail,volumetric lighting, 8k, detailed face,34yo woman ,(mature:1.3), (beth_pacen:1.25), blonde hair, short hair, retro hairstyle, (detailed flower pattern yukata),robe ,breasts out, nipples, large breasts,  looking at viewer, (arms behind back:1.2), outdoors, street, japanese architecture, gravel path, alley, bushes, vegetation, park, door,doorframe
+<lora:BethPacen_v1:1>

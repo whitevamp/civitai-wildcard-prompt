@@ -1,0 +1,4 @@
+[(white background:1.5)::5], hexagon,
+1 girl, mid shot, full body, 
+standing on ocean, sea waves, water splashes, sky, detailed moon, light particles, butterflies, night, starry sky,
+<lora:Elysia1-remake-re4-128-1-16-ALL-DA:1>

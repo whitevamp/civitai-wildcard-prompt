@@ -1,0 +1,2 @@
+(fullbody shot) ,(a beautiful woman):1.8, from (A dark, foreboding castle where a wicked queen reigns) , a witch's prophecy comes true,ultra realistic, nude:0.5
+(joshua middleton comic cover art:1.1), (Action painting:1.2),(concretism:1.2),theater dance scene,(hypermaximalistic:1.5),colorful,highest detailed,<lora:anxiang:0.55>,

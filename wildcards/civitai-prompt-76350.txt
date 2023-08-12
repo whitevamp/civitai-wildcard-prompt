@@ -1,0 +1,3 @@
+Best quality, masterpiece,
+1boy, <lora:Trigger:0.7>, UltramanTrigger, armor, bodysuit, boots, gloves, helmet, pauldrons, shoulder_armor, shoulder_pads, white_gloves, solo, 
+a giant in city, fighting stance, fire on city, fire background, upper body,

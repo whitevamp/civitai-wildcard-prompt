@@ -1,0 +1,2 @@
+best quality, masterpiece, highres, 1girl,china dress,hair ornament,necklace, jewelry,Beautiful face,upon_body, tyndall effect,photorealistic, dark studio, rim lighting, two tone lighting,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, volumetric lighting, candid, Photograph, high resolution, 4k, 8k, Bokeh,
+ <lora:sailorJupiterSailor_v10:0.6>,cyan close

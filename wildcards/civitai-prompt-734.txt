@@ -1,0 +1,3 @@
+(extremely detailed CG unity 8k wallpaper,masterpiece, best quality, ultra-detailed, beautiful detailed eyes:1.2),best illumination, (best shadow, an extremely delicate and beautiful, bloom),
+1gril,solo,pink eyes,pink hair, smile, 
+neon_woman <lora:NeonWomanV1:0.5>

@@ -1,0 +1,1 @@
+<lora:mix4:0.5>, mix4, <lora:20d_new:0.6>, 20d, solo,waitress, (((sitting))), high_heels, look_at_viewer, full_body, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering, blurry, blurry_background, depth_of_field

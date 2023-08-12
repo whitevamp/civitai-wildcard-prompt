@@ -1,0 +1,5 @@
+(8k, RAW photo, best quality, masterpiece:1.2), highres, absurdres,
+sun,
+standing,
+beach,
+ 1girl, (colorful),(finely detailed beautiful eyes and detailed face),cinematic lighting,bust shot,extremely detailed CG unity 8k wallpaper,solo,smile,((miniskirt)),building, fantasy, <lora:hipoly_3dcg_v7-epoch-000012:1:people>

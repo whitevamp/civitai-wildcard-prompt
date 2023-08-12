@@ -1,0 +1,4 @@
+male focus,(by null-ghost, by thebigslick, by darkgem, by honovy),explicit,abs,anthro,(black body:1.3),clothing,genital outline,male,muscular,plant,solo,(topwear:1.3),tokyo,street,akihabara,neon lights,humanoid penis,genital fluids,foreskin,balls,
+BREAK,
+by bruteandbrawn,by personalami,by kenket,(intricate, high detail, film photography, soft focus, RAW candid cinema, photorealism, realistic, photorealistic, analog style, subsurface scattering, masterpiece, best quality, ultra realistic, 8k),
+(huge muscles:1.4),<lora:konig_20230730190441-000002:0.8>,glowing eye,(konig:1.5),male focus,(black body:1.3),(amattle:1.2),(mma_gloves:1.2),(hood:1.2),(humany:1.5),(red eyes:1.1),<lora:BulkedUpAIR1.5:0.3>,(human:1.2),headband,(huge muscles:1.2),

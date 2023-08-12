@@ -1,0 +1,1 @@
+fullbody, 1girl, white horns, black wings, back view, (masterpiece:1.2), best quality, absurdres, extremely detailed wallpaper, perfect lighting, (extremely detailed CG:1.2) <lora:Albedo(Overlord):0.1> <lora:Albedo (Overlord) v1.1:0.7>

@@ -1,0 +1,2 @@
+1girl, black hair, glasses, blue-crop top, short dress, detailed skin, literature and art, blurry background, masterpiece, best quality, masterpiece, highres, original, cinematography, intricately detailed, magnificent, maximum details, extremely hyper aesthetic, realistic skin textures, lace, black thighhighs,  <lora:Glorywall-v1:1.6>, ass, ass focus, stuck, glorywall, (symmetrical), nsfw, (mugshot on wall),  bent over, full view, lower body, (anus), 
+ <lora:add_detail:1>,  <lora:FilmVelvia2:0.5>,  <lora:InsPX2:0.3>

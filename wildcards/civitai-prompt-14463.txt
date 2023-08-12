@@ -1,0 +1,2 @@
+old manuscript, an open book, two pages, page gutter, storybook, (large text, calligraphy, full page text), (2D flat sketch:1.2) of the (lustyargonian maid:1.3) bending over to make the bed in the nobleman's bedchambers, full body, scales, maid, black maid dress, lace apron, desaturated, low saturation, faded, in the style of a historical account.
+<lora:add_detail:0.7> <lora:LustyArgonian_7_10-000009:1> <lora:Pack2Doc-10:0.5>

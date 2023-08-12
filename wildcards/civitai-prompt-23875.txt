@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),1 girl, full body shot <lora:Sexy office lady:0.9>Sexy office lady,office suit,micro mini skirt,slender<lora:NataliePortmanV2Dogu:0.9>natpor

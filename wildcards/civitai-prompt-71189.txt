@@ -1,0 +1,3 @@
+official art, masterpiece, best quality, 4k, 8k, extremely detailed, dslr, photorealistic, UHD, in the style of realistic and hyper-detailed rendering, 3d rendering,
+(a beautiful dark haired mod_woman), smile, glow blue eyes, beautiful earrings, necklace, sitting, in forest, noble, rim lighting, sunshines through the leaves, warm tones, sun flare, soft shadow, vibrant  colors, hazy glow, dreamy atmosphere, mysterious, bright background, nature,  butterfly, river, close-up,
+<lora:edg_maghrebDollLikeness:0.35> <lora:hauteCouture_v11:0.8>perfect mod_face, perfect mod_body, wearing a Haute_Couture designer dress, portrait,

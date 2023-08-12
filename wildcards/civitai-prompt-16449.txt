@@ -1,0 +1,1 @@
+background: <lora:Codriver05:0.3>, (Codriver:1.4), blurry, blurry_foreground, depth_of_field, seatbelt,

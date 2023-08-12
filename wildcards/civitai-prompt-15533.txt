@@ -1,0 +1,3 @@
+<lora:add_detail:0.5> <lora:copax_charm_eu:0.225> (1girl,3d, photorealistic,masterpiece, best quality, intricate), angry, portrait, huge boobs, seductive pose, in a science laboratory
+yaoyorozu momo,red leotard, center opening, collarbone, cleavage,black hair, hair pulled back, ponytail 
+ <lora:mha_yaoyorozu:1>

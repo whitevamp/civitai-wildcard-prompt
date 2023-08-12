@@ -1,0 +1,4 @@
+Masterpiece,best quality,ultra-detailed illustration,
+1girl,sneakers,fashion style,long legs,depth of field,a melancholy mood,
+<lora:lit:0.2>,full body,
+lib_bg,big,depth of field,<lora:libbg_v16:1>,in the library of the train station,the door to a different world,universe,top view,bird bird map,

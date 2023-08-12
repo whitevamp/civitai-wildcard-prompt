@@ -1,0 +1,6 @@
+(masterpiece, best quality, high quality:1.4), 
+1girl, solo, standing, furry, furry female, body fur, chest tuft, white fur, white skin, white hair, long hair, (kindred, lamb:1.2), mask, 
+blue eyes,
+(erection, huge penis, huge testicles, gigantic testicles:1.2), (cock ring:1.2),
+fantasy forest, twilight, dark, night, plants, grass, trees, black trees, 
+<lora:kindred:1>  <lora:Erect Horse Penis:1>

@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), (detailed), <lora:ExoticDance:0.7>, exotic_dance,1girl,persona dancing,solo, <lora:dunhuang_v20:0.6>,dunhuang_cloths,dunhuang_style,dunhuang_background,dunhuang_dress

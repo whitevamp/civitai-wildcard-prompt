@@ -1,0 +1,1 @@
+masterpiece,best quality,ultra-detailed, <lora:AMechaSSS[color_theme,mecha musume, mechanical parts,robot joints,headgear]:0.8>, 1girl,solo,large breasts, grey theme, mecha musume, mechanical parts,robot joints, blush,standing,cowboy shot, cat ears,sakamata, <lora:SakamataMaid:0.75>

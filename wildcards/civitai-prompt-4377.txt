@@ -1,0 +1,7 @@
+(masterpiece),(best quality:1.0), (ultra highres:1.0), (upper body shot:1.5), detailed,
+1 young girl,
+ (detailed eye:1.5), glasses,
+detailed beautiful skin,face focus, (detailed face:1.5),looking at viewer, sleeveless, bare_shoulders, lace, collarbone, lace_trim, 
+long_hair, hair_flower, hair_ornament, brown_hair, windy,
+soft light,
+ (gakki:1.2), <lora:gakki-auto-height:1.0>

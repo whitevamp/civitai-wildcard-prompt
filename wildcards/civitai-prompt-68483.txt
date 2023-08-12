@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, (long black hair), (red eyes:1.5), beautiful eyes, <lora:beautifulDetailedEyes_v10:1>, dragon horns, face_focus, upper body,(dutch angle), sketch, Line art, <lora:animeLineartMangaLike_v30MangaLike:0.6>  <lora:Mohun_v1:0.4> <hypernet:anime_3:1>

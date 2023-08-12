@@ -1,0 +1,2 @@
+despues,used condom,(torn clothes),tears,body writing"
+<lora:afterSexBrokenDefeated_maximumTraining:0.8>

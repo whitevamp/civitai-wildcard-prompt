@@ -1,0 +1,1 @@
+woman assassin wearing embroidered black and gold cloak,fantasy00d, <lora:NijiExpressV2:0.4> <lora:fantasy00d:0.4> fcPortrait

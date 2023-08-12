@@ -1,0 +1,1 @@
+girl,fit,(girlfriend,scifi,futuristic,robot,mecha,indoors,outdoors,hotify),Steampunk Background,Hands on face,Crochet Braids,viridian Lace Top,pokemon ,(masterpiece,detailed,highres:1.4) <lora:4shot:0.6>

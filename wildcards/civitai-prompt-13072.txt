@@ -1,0 +1,2 @@
+cyberfusion,robot
+,<lora:cyberfusion_3Drender:0.85>

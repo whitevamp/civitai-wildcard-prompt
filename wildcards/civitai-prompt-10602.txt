@@ -1,0 +1,1 @@
+dramatic lighting, 1girl, re4ashley, blonde hair, <lora:sxz-ashley-graham:0.7>, micro bikini, areola slip,  <lora:exbikini2:0.7>, forest, trees, looking at viewer, <lora:add_detail:0.3>

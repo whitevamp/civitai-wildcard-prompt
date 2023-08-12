@@ -1,0 +1,11 @@
+(ultra realistic 8k CG:1.2),perfect artwork,delicate pattern,intricate detail,
+(unparalleled masterpiece,best quality:1.2),(extremely intricate:1.2),
+-------------------------------
+(1girl,solo:1.2),woman,
+(big boltedontits:1.2),<lora:boltedontitsV3:0.3>, (gigantic breasts:1.2)
+-------------------------------
+a woman in a red and gold dress, Phoenix crown,hair stick,standing,Cosmetic,blush,shy,black_hair, Cosmetic,(forehead dot), chinese_clothes, curtains, earrings, hair_ornament, hanfu,  jewelry, red nails, long_sleeves, red dress, red lips, tassel,<lora:xiapei:0.2>
+-------------------------------
+indoors,(Red quilt),(red palace:1.2),(ancient Chinese architecture)
+-------------------------------
+<lora:Mild detail adjusterV10:1>, <lora:llftongliya:0.5>, <lora:Liliya_v10:0.4>

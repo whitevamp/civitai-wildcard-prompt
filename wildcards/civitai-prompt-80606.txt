@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), woman,28yo, smile, extremely detailed, highest detailed,(zentangle:1.2), (dynamic pose), abstract background, (shiny skin),
+<lora:randoseru_v1.1:1>, wearing pink randoseru backpack, huge breast,   <lora:otl:1>, otl, tan,, brown and white skin, suntan, from behind,

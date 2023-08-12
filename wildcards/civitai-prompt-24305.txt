@@ -1,0 +1,3 @@
+princess carry,  1boy, 1girl, elf, large breasts, 
+<lora:princess_carry_v0.1:1>
+<lora:minotaur_v0.1b:1> minotaur,, masterpiece, best quality, highly detailed

@@ -1,0 +1,1 @@
+masterpiece,best quality,highres,photo background,depth of field,(classroom:1.2),1girl,elf,white hair,short hair,embarrassed,shy,medium breasts,beauty spot,school uniform,thighhighs,jack-o' challenge,flexible,spread legs,top-down bottom-up,<lora:JackOPoseFront>,<lora:Detail_Tweaker_LoRA>,

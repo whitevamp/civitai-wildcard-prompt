@@ -1,0 +1,1 @@
+<lora:Hastur-000001:.7> Hastur, king in yellows, magic<lora:add_detail:1>

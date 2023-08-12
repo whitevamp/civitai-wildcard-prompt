@@ -1,0 +1,11 @@
+(huge BREASTS:1.0), (thick thigh),
+
+(looking at viewer:1.3)
+
+in cathedral
+(nsfw:1.3)
+evocative pose 
+(serious:1.1)
+
+
+ <lora:siggy:0.0> siggy, nun, green eyes <lora:siggy-000001:0.7>  <lora:endouOkitoStyleLora_okitoStyle:0.6> <lora:1600sLORA:0.3>

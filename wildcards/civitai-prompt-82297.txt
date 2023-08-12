@@ -1,0 +1,4 @@
+1girl, straight hair, best quality,
+,   shiny hair,
+depth of field, detailed face, face focus,(looking at viewer:1.25), imai nobume, night, city lights, cityscape, bangs, expressionless, 
+shiny skin,  game cg, (blurry background:1.2),  hime cut,  <lora:nobume(mimawarigumi)v3-000005:0.9>

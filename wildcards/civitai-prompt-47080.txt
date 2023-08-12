@@ -1,0 +1,2 @@
+delicate, beautiful detailed, finely detailed, dramatic_light, (soft light:0.5), intricate details , hiqcgbody, <lora:hipoly3DModelLora_v10:0.6>, <lora:koreanDollLikeness_v15:0.2>,
+<lora:japaneseDollLikeness_v10:0.3>, (nsfw:1.4), (8k, RAW photo:1.2), dslr, masterpiece, (a photo of:1), perfect anatomy, 1girl, full body, curvy body, slim waist, (athletic:1.2), brown hair, wavy hair, looking at the viewer, (oiled_body:1.4), (hairy pussy), on the stage, happy512, nude_sheer_stockings, (ulzzang-6500-v1.1:0.4), <lora:inniesBetterVaginas_v11:0.2>

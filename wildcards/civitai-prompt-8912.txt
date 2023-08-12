@@ -1,0 +1,4 @@
+(1girl:1.21),(solo:1.21), (long hair:1.1), (huge breasts:1.4), (looking at viewer:1.21), (bangs:1.1), (black hair:1.1), (hair ornament:1.1), (bare shoulders:1.1),(curvy:1.2),look at viewer, armpits,(shiny skin:1.5), (nude, completely nude, topless), 
+(1girl:1.21), (breasts:1.21), (black hair:1.1), (solo:1.1), (jewelry:1.1), (earrings:1.1), (looking at viewer:1.1), (mole under eye:0.90909091), (blue dress:1.1), (parted lips:1.1), (cleavage:1.21), bare shoulders, (bangs:1.1), long hair, (pink eyes:1.1), (cowboy shot:1.1), (blush:1.1), thighs, <lora:tingan:0.6:HEAD>,  
+(realistic:1.2), (photorealistic:1.2),(nsfw:1.2), 
+<lora:offset_p-0.5-0.1:0.4>, <lora:Light and Shadow:0.2>, <lora:add_detail:0.4:ADD>

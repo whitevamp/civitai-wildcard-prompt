@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination, 
+1girl, prettye girl, supermodel,
+(mathayom uniform), white shirt, short sleeves, (black pleated skirt) , (miniskirt:1.5), belt,
+<lora:mathayom22:0.9>

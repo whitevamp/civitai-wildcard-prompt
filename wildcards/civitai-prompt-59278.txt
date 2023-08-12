@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4) a (male:1.4), facial hair, mascular,  <lora:lowra_v10:0.5:PALETTE> detailed skin, detailed eyes, shiny skin

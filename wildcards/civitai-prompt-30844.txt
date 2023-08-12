@@ -1,0 +1,4 @@
+1girl In the glass cover, kneeling girl \(kancolle\), kneeling, full body,  from above, dutch angle,  bare arms, single mechanical arm,  sad,  face upward , empty eyes,   ( Long-range lens, distant,  prospect, ),  head to sky, raise her head, head up,  full body, front,  ((nude, naked, breasts, )), kneeling,  on ground, ((Plug the cable into the body) , ( Stuffed with cables , Connecting wires to the body)), (kusanagi motoko, expressionless, ,purple hair,, short hair,), 
+best quality, masterpiece,(Depth of field:1.5), cyberpunk, Booths, display cabinets, spacecraft,, a sense of technology and sci-fi style, shiny skin, light, pale skin, bare legs, 
+(masterpiece, best quality:1.2),  solo, 1girl,dark background, despair, fantasy, (photorealistic:1.4), speed lines, diffraction spikes, scanlines, 
+ <lora:ghostintheshell_kusanagi_sac:0.7> <lora:reelmech1v2:0.3> <lora:Mtentacles:0.3> <lora:epi_noiseoffset2:0.1> <lora:add_detail:0.4>

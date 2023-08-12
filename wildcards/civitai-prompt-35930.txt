@@ -1,0 +1,1 @@
+(best quality, masterpiece), <lora:duct_tape:1> duct, no humans, raining background

@@ -1,0 +1,2 @@
+1girl,solo, parted lips, see-through,turtleneck,muscular ,forest,outdoors, own hands together, looking at viewer, realistic,bangs 
+    <lora:BrieLarson23Apr512-640:0.6>

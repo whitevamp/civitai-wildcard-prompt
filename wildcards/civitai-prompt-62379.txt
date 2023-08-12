@@ -1,0 +1,4 @@
+best quality, indoors, window, (potted plant:0.8),
+1girl, sexy maid cosplay, frilly, miniskirt, thighhighs, bare shoulders, long hair, blunt bangs, hime cut, black hair, purple eyes, 
+npmaybe, hidden privates, hidden by clothes, maid, lifted by self, slightly lifting both sides of skirt, (upthigh:1.2), groin, partially visible crotch, probably no panties, pussy juice,
+<lora:npm-v11t-000005:0.8>

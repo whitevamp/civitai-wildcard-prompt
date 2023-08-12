@@ -1,0 +1,2 @@
+(masterpiece:1,2), best quality, scared expression, sex ,cum,  green hair, chinese bun hair <lora:scared-expression-v1.8-000005:1.2>  
+((tape gag)) <lora:tapeGag_v10:0.8>

@@ -1,0 +1,7 @@
+(masterpiece),(intricate details),1girl,mature female,shiny_skin,huge breasts
+BREAK 
+<lora:kochou_shinobu_v1.2:0.7>,kochou shinobu, butterfly hair ornament, purple eyes, multicolored hair, short hair, parted bangs, forehead, haori, wide sleeves, long sleeves, black jacket, belt,pantyhose,high heels,depth of field,looking at viewer,((sit on the Shopping mall: Shops, fashion, sales, escalator, bags)),((full body)),
+BREAK
+sweat, lying on back, in bed, spread legs, leaning back, sex, vaginal, missionary, pov
+BREAK
+day,sun,rainbow,((cumulonimbus)),from below:1.2,<lora:more_details:0.3>

@@ -1,0 +1,1 @@
+1girl, looking at mirror, greyscale, grey theme, dudou, <lora:InstantPhotoX3_2:0.6>, <lora:dudou_623:0.5>

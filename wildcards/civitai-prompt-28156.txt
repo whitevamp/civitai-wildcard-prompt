@@ -1,0 +1,1 @@
+RAW Photo, DSLR, professional color graded, BREAK (closeup) portrait photograph of girl Em1ru, female romanarmy warrior and red cape, ancient roman street background, sharp focus, HDR, 8K resolution, intricate detail, sophisticated detail, depth of field, analogue RAW DSLR, photorealistic, looking at viewer,, <lora:detailed_eye:0.8>, <lora:Em1ru:0.65> <lora:ARWromanarmy:1>

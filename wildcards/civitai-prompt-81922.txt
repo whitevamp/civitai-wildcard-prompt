@@ -1,0 +1,3 @@
+masterpiece, best quality,detailed eyes
+a naked  girl in the beach, long hair, from behind,
+ <lora:takahashi_rumiko_offset:1>,takahashi rumiko,1990s \(style\), watercolor\(medium\).

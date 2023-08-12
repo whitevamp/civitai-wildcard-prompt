@@ -1,0 +1,2 @@
+a pretty cute woman with curly long hair, detailed mexican muertos queen colorful face art, wreath of roses (on head:1.4), detailed long red dress with black lace details, body portrait, gray detailed eyes, 
+ <lora:handmix101:0.6> hand101

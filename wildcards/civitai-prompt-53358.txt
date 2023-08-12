@@ -1,0 +1,3 @@
+<lora:postapocalypseAI:0.65> postapoAI, 
+concept art, white background ,
+woman, gas mask, nsfw, goggles, harness

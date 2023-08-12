@@ -1,0 +1,1 @@
+(masterpiece, best_quality, ultra-detailed, immaculate:1.3), epic, illustration, 1girl, (demonic, infernal, evil:1.25), (full body:1.2), side braid, (spines:1.3), heavy armor, scaled skindim lighting, princess,  chinese, (in the sulfer flats:1.2)<lyco:EnvyInfernal01:1.35:1.35:lbw=LORA_OUTALL>

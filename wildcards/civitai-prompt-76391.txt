@@ -1,0 +1,4 @@
+<lora:seifuku cosplay_v2:0.2> <lora:add_brightness:0.5><lora:add_detail:0.5> <lora:MultipleGirlsGroup:0.7>
+from behind,  looking ahead, wide shot,
+3girls,multiple girls,  seifuku cosplay,seifuku cosplayer, sheer lace panties,
+outdoors, wind lift,

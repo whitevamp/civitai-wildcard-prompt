@@ -1,0 +1,5 @@
+ankymoore Robert Motherwell	
+1 woman ,  Irish , red curly long hair, archer, 
+fantasy, DnD
+(best quality, masterpiece),
+<lora:ankymoore-04:1>

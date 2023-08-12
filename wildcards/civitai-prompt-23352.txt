@@ -1,0 +1,4 @@
+4K, Masterpiece, highres, absurdres,
+beautiful edgPersian_woman, perfect edgPersian_face, perfect edgPersian_body,bedroom background, makeup, lipstick
+pantyhose, high heels, leotard, see-through, long legs, head out of frame, wearing edgJumpsuit <lora:edgJumpsuit:0.25>
+<lora:edgPersian:0.75>

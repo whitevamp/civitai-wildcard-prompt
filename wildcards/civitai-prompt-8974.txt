@@ -1,0 +1,6 @@
+masterpiece, best quality, highres, 
+hmsalome, drill hair, parted bangs, purple eyes, black hairband, 
+ribbon, large breasts, tattoo, red dress, long sleeves, bare shoulders, black gloves,
+ojou-sama pose, laughing,naughty face, open mouth,spoken heart, hand on hip,
+ indoors, 
+ <lora:hyakumantenbara_salome_v1:0.7>, <lora:OjouSamaPose:1>

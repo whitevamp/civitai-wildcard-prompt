@@ -1,0 +1,2 @@
+1girl, dp12swimsuit, gtscity, looming, (stepping, from below, foot, toes, soles:1.4), barefoot
+<lora:GTSv5:1>  <lora:(p)DP12:.8>

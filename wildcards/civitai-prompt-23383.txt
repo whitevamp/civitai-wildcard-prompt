@@ -1,0 +1,8 @@
+(masterpiece),(intricate details),1girl,1boy,mature female,pale skin,large breasts:1.49
+BREAK 
+overlordalbedo, <lora:albedotest:1>, albedo, ahoge, black hair, horns, long hair, (yellow eyes:1.5), BREAK bare hips, bare shoulders, black wings, detached collar, elbow gloves, feathered wings, gloves, gold trim, high collar, hip vent, jewelry, low wings, white gloves, wings|
+BREAK
+sex, clothed sex, (pov), pov penis, uncensored, nsfw, blush, moaning, orgasm, ahegao, drooling, open mouth, smile, (trembling), motion lines, motion blur, spoken heart, vaginal, penis in pussy, looking back, from behind, grabbing ass, girl on top
+BREAK
+day,sun,raining,rainbow,((cumulonimbus)),
+((upper body)),from below:1.4,depth of field,looking at viewer

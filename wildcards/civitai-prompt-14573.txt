@@ -1,0 +1,9 @@
+1boy, standing, upper body, astolfo \(fate\), stretching, arms behind head, arms up,
+pink hair, short hair, streaked hair,
+purple eyes, looking at viewer,
+open mouth, tongue out, breath, 
+flat chest,
+black microskirt, denim shorts, black thighhighs, (crop top, crop top overhand:1.2), long sleeves, white shirt,
+eqcok, (erection, large penis, large testicles, sagging testicles:1.2), (blunt tip, urethra:1.2), cock sheath, (thick penis:1.2),
+dark testicles, pink penis,
+<lora:Horse Erect:1> <lora:Fate - Astolfo:0.8>

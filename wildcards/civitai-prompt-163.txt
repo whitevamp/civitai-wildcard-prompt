@@ -1,0 +1,1 @@
+illustration, cartoon, soothing tones, calm colors, Best quality, masterpiece, ultra high res, (photorealistic:1.4), absurdres, Misty Blue Limonium blossom in the pot, fantasy creature ,<lora:add_detail:0.6>, <lora:epi_noiseoffset2:0.6>,  <lora:Playstation5AI:0.9>,Playstation5AI,, (natural skin texture, hyperrealism, soft light, sharp)

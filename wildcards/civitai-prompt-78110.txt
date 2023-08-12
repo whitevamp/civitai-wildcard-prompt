@@ -1,0 +1,3 @@
+(masterpiece, best quality;1.3), ultra detailed, 1girl, solo, smile, gold hair, pov, looking at viewer,
+miniskirt, yellow cardigan, long sleeves, sailor collar, red neckerchief, black kneehighs,micro mini skirt,  from above, open mouth, kneeling,
+<lora:TogaHimiko-01:1>Himiko Toga, TOga, Himiko,   <lora:heart_eyes-10:0.8>,heart_eyes_full, heart_eyes_inside, angel wings, <lora:style_horikoshi_kouhei-20:0.4>

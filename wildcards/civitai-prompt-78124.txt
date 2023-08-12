@@ -1,0 +1,3 @@
+<lora:fantasticmixReal_v30:0.5><lora:koreandolllikenessV20_v20:0.5>( pureerosface_v1:0.5),mustee,Korean Doll,
+Realistic photography,High quality,8k resolution,real photos,A mech girl with long hair,brown hair,medium breasts,,chinese girl,tight fitting,navel,shitu-mecha behind the girl,Magnificent and spectacular,full body,mysterious,photo by Brandon Woelfelmist,surreal dream,dynamic,lut,hdrmprofessional lighting,photon mapping,radiosity,physically-based rendering,delicate realism,araydynamic and expressive animations,
+<lora:shitu-mechaV24:0.5>,shitu-mecha,<lora:mecha_V2:0.3>,<lora:Niji:0.3>,(Sunny day:1.2),(Afternoon on the street:1.1),Yellow Style,

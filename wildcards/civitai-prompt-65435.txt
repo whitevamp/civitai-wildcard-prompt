@@ -1,0 +1,4 @@
+(best quality, high quality, good quality)
+doctor emmet brown, back to the future,
+(facing viewer, looking at viewer) , thin  man with white hair , wearing yellow radioactive biohazard suit,  worried anxious surprised shocked expression ,
+<lora:drEmmetBrownDocBrownBack_v1:1>

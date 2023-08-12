@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, yuri, 2 cute girls kissing, cheerleader outfit, (posing for a photo, dancing:0.1), large breasts, short hair, (yuri kiss:1.2),
+stadium, crowd people,
+ <lora:realisticCheerleader_v10:0.7>  <lora:yuriKiss_v01Beta:0.5>

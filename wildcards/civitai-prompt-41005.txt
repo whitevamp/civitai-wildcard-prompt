@@ -1,0 +1,1 @@
+masterpiece, <lora:add_detail:0.3>, <lora:delicate background:0.3>

@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),photorealistic,ultra high res,upper body,
+1boy,japanese style,Alley,
+<lora:Kenshin_RK-10:0.8> kenshin rk, long hair, ponytail,kimono, japanese clothes, scar,
+holding katana,silhouette ,moon,
+(night:1.1),(blood splatter:1.1) ,blood on body,
+<lora:flat2:-0.5>,
+<lora:LowRa:0.3>, dark theme,

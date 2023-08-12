@@ -1,0 +1,3 @@
+woman jumping for joy, firefighter jacket and helmet, mini skirt, thighhighs, burning building
+
+ <lora:epiNoiseoffset_v2:0.7>

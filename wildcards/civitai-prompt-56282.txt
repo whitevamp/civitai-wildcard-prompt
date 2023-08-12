@@ -1,0 +1,1 @@
+sword, weapon, 1girl, katana, gradient, gradient_background, sheath, sheathed, earrings, jewelry, scabbard, solo, ponytail, ear_piercing, black_hair, piercing, bandages, hand_on_hilt <lora:OC illustration:1>

@@ -1,0 +1,1 @@
+glamour shot (close-up:0.9) from behind of a kneeling sad male in his 20s, torn shirt, 1boy, starving, dirty, leaning on a window, freezing, boots, end of the world, (hdr:1.4), apocalypse, abandoned, night, (intricate details), (intricate details, hyperdetailed:1.2), artstation, complex background, building, from bottom, <lora:add_detail:0.7> <lora:epiNoiseoffset_v2-pynoise:1.5>

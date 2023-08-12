@@ -1,0 +1,7 @@
+(masterpiece, best quality, intricate details:1.2), (photorealistic, ultrarealistic, hyperrealistic:1.1), BREAK
+side view, 1girl, (detailed eyes, looking up:1.3), tears, saliva, (white socks:1.3), (red panties:1.4), (red bra), medium breasts, school desk,  (black pleated skirt, torn skirt:1.2), 
+hogtie, shibari, rope bondage, (bound wrists, bound arms, arms behind back, bound ankles:1.1), BREAK
+1boy, giant dick, (ballsdeep, deepthroat, testicles, male pubic hair:1.1), hetero, (head grab, hand on another's head:1.1), BREAK
+classroom background, chalkboard
+<lora:hogtie_v1:0.9>  <lyco:bondage-v11-p20:0.5>
+<lora:MS_Real_Deepthroat:0.85> <lora:difConsistency_detail:0.25> <lora:difConsistency_photo:0.05> <lora:gigantdicks3:0.05>

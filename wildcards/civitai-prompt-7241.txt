@@ -1,0 +1,1 @@
+<lora:Morrigan Aensland:0.6>, hand drawn sketch illustration of a beautiful vampire with white hair, green eyes, symmetrical dragon horns, illustration, watercolor sketch, (best quality)), intricate detailed, busty<hypernet:By bad artist -neg:1> <lora:hipoly_3dcg_v7-epoch:0.4> <lora:onOff3:1>, pink nipples

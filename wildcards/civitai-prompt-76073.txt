@@ -1,0 +1,17 @@
+8k, RAW photo, best quality, (masterpiece:1.2),
+ultra high res,
+(photo realistic:1.4),
+(extremely detailed CG unity 8k wallpaper),
+professional lighting,
+1girl,
+detailed beautiful face,
+detailed clothes,
+naughty smile,
+top view,
+looking at viewers,
+35mm lens, f/ 1.8
+wearing oversized off-shoulder knit over lingerie,
+nipple,
+nsfw, naked,
+very-short-hair,
+action, <lora:JapaneseDollLikeness_v15:0.2>

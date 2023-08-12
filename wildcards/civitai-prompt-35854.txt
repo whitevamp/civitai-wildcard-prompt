@@ -1,0 +1,1 @@
+simple background, red_background, 1girl, upper body, beautiful face, portrait, medium hair, brown hair, tank_top, fit belly, large breast, mole on breast, sexy, curly hair, bangs,  <lora:add_detail:1>

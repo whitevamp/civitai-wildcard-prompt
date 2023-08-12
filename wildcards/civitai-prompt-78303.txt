@@ -1,0 +1,8 @@
+((8k,  masterpiece, best quality, ultra-detailed)), (an extremely delicate and beautiful, beautiful detailed eyes, hyperrealistic), fantasy, 
+kawaii, cute, very big eyes, Aesthetic Anime Eyes, small face,
+1girl, solo, warrior, large breasts, 
+looking at another, scared, 
+torch, short sword, leather armor, 
+dungeon, dark,
+(cowboy shot),  
+<lora:dungeon_v2.0:0.>,<lora:NonHentaiElf_v10:0.9>

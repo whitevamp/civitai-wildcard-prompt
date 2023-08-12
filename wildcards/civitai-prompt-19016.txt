@@ -1,0 +1,1 @@
+(art by Ruth Bernhard:0.7) ,art by Anne Brigman, (art by Vanessa Beecroft:1.0) , [photograph, angle from above of a mature female with copper skin, =4, Anime screencap, film grain, Canon R5, Depth of field 270mm::10], absurdres, high quality,  <lora:add_detail:0.8>

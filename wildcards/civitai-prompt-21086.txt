@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), (realistic:1.37),(((mechatronic female warrior))), miniature, kawaiitech, landscape, (isometric), <lyco:miniature_V1:0.8> <lora:KawaiiTech:0.2> <lora:NeoFuturisticTech:0.3> <lora:PastTech:0.5>

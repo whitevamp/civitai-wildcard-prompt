@@ -1,0 +1,7 @@
+(ultra detailed, ultra high res, an extremely delicate and beautiful, ultra realistic details:1.2),
+(1 girl:1.4),
+(known for her stunning japanese looks and mixed heritage, 20 years old:1.4), (huge breasts, wide hip bones:1.5), (skinny:1.4), (happy smile:1.4),
+(sling_bikini_top), (Mermaid hair), (chestnut), earrings, (full body:1.5), (high heels:1.5), (wide shot:1.4), <lora:sling_bikini_top_v1.0:0.4 OUTALL>,
+(Bright Pink background:1.5),
+(from below),
+ <lora:koreanDollLikeness_v10:0.3 OUTALL> <lora:koreandolllikeness_V11:0.3 OUTALL> <lora:koreanDollLikeness_v15:0.3 OUTALL> <lora:koreandolllikenessV20_v20:0.3 OUTALL> <lora:taiwanDollLikeness_v20:0.3 OUTALL> <lora:JapaneseDollLikeness_v15:0.3 OUTALL>

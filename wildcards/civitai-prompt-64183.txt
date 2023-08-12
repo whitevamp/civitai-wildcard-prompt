@@ -1,0 +1,1 @@
+1man,dynamic angle,solo,beach,alexios,cowboy shot,muscular,swimsuit,facial hair,flower, sunglasses,tree,island,volumetric lighting, best quality, masterpiece, realistic, depth of field,<lora:alexios:0.7>

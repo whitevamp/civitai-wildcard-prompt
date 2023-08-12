@@ -1,0 +1,1 @@
+(masterpiece), (highest quality), 2 beautiful girls, <lora:yuna_yunis:0.5>, <lora:marguerit_farom:0.5>

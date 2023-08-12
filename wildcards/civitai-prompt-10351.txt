@@ -1,0 +1,8 @@
+1girl,  (8k, best quality, masterpiece:1.2), (looking ahead:1.3), full body,
+BREAK
+<lora:inside_creature_v0.1:1>  inside creature, being swallowed, slime \(substance\),  tentacle pit, vaginal, narrow, injection,horror, helpless, (a mature female shrinking to microscopic size:1.1),  tiny specimen in glass case, laboratory, 
+BREAK
+nsfw, uncensored,
+long hair, bangs, lingerie, outfit,
+<lora:inside_creature_v0.1:0.7>
+<lora:flat2:-0.7> <lora:tomohiro-v1-lora-naivae-6ep-resize:0.>tomohiro kai

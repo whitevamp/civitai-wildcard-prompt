@@ -1,0 +1,3 @@
+<lora:ass_support_v0.1:1>
+1girl, ass support, dolphin shorts, hands, deep skin, 
+<lora:dolphin_shorts_v0.1:1>, masterpiece, best quality, highly detailed

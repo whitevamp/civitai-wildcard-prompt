@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece1.2), (fashion photography portrait,realistic, photo-realistic1.37), best quality, ultra high res, photon mapping, radiosity, physically-based rendering, NSFW, full body, front angle, warm tone,
+1girl,looking at viewer,((glasses)),(( naughty wink)),(happy),(laughing), silver long hair, (hair blown by air),off_shoulder,((hoodie)),medium breasts, high-waist, narrow waist,white skin,posing, sitting, short bottoms,white lace thighhighs, intricate choker, (pretty legs1.2), (long legs1.2), slim legs, (high heels1.3),
+cityscape, night,street light, beautiful detailed sky, detailed cafe street, (bokeh1.4), <lora:OrientalBeauty_MIX:0.49>

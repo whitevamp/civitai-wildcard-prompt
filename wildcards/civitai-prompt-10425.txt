@@ -1,0 +1,10 @@
+((best quality, masterpiece)), dramatic,  1girl , solo,  blond hair, groin cloth, (cobwebber:0.8), naked bandages, hands up ,
+ (suspension:1.3),  suspended in the air,  perky breasts, covered nipples,
+   (silk, cocoon, spider web:1.2), 
+(flat chest, tiny breast:1.3), (flat chest:1.3) thin, (skindentation:1.5), (underboob:1.3), 
+, looking at viewer,   focus,
+red ribbons,
+(masterpiece, best quality)intricate details,    bdsm, 
+indoors, bdsm, ribbon,,long hair,hair_ribbon,sexy, alluring,
+<lora:more_details:0.3>
+ <lora:spider_web_v0.3:0.8>  cobwebber,  <lora:uv:0.68> <lora:attire_nakedbandage:0.67>     <lyco:perkyBreasts-000017:0.3>

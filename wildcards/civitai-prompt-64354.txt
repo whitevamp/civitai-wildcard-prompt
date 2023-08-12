@@ -1,0 +1,1 @@
+ground vehicle, tank, military vehicle, military, no humans, tree, nature, outdoors, vehicle focus, mountain, forest, rock, scenery, <lora:Moxin_10:0.8>, <lora:shukezouma_v1_1:0.4>

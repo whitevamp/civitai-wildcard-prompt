@@ -1,0 +1,1 @@
+(masterpiece, high quality:1.2), best quality, official art, skin indentation, 1 girl, sexy, white tank top, blue eyes, rolling eyes,    laughing, blinking, from behind,<lora:add_detail:1> <lora:multiple_insertions_v0.2:1.0> <lora:faketail:0.5>

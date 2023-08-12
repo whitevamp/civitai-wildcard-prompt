@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, (fractal art:1.3), (geometric:1.2), (zentangle:1.2),  luminous trails, vibrant colors,  fluid movement, captivating patterns, creative experimentation, highest detailed,
+1 girl, adult  woman, freckles, jade eyes, gray layered hair,
+portrait, solo, upper body, looking at viewer, detailed background, detailed face, (<lora:SteamPunkAI:0.4>, cogpunkai, cogpunk theme:1.1)  (master of time and space:1.1), infinity, mesmerizing, endless geometry,  (style-swirlmagic:0.8),  clockwork, clock gears, sands of time, energy,   clock-face in background, ethereal atmosphere,
+<lora:hipoly3DModelLora_v10:0.1> <hypernet:sxzBloom_sxzBloom:0.1>,

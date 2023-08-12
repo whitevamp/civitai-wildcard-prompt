@@ -1,0 +1,2 @@
+dark_forest, tomb,graveyard, 12 years old, sad, looking_down, sunlight, light_rays, 
+ <lora:trucyWrightAceAttorney_v10:1>, 1girl, solo, outdoors, full_body, wide_shot,, (masterpiece:1.2), (best_quality:1.2), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),

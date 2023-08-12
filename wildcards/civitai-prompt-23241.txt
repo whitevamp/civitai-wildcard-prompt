@@ -1,0 +1,8 @@
+8k, best quality, real picture, intricate details, ultra-detailed, ultra highres, depth field,(photorealistic,realistic:1.2),masterpiece, <lora:add_detail:1>,
+0.35 :: medium shot , straight-on shot , dutch angle ,
+1girl, dccriho, <lora:dreamcclub_futaba:1>,  an extremely beautiful 18-year-old Japanese girl, (brown hair:1.2), (green eyes:1.2), perfect shiny skin, flawless skin, fair skin, large breasts, cleavage, light blush, solo, looking at viewer, 
+(chubby nipples under the clothes:1.2), sweat, seduction, nsfw,
+((slingshot swimsuit, red  one-piece swimsuit, pubic hair, <lora:micro_slingshot_v1:0.8>, (wet:0.5), submerged, poolside ):1.2),
+(0.1 :: The Enchanting Empress: Draped in regal attire, radiating power, and beauty with an air of mystique :1.3),
+twilight ,
+mountain valley ,

@@ -1,0 +1,6 @@
+<lora:GlassSteelAI:1> GlassSteelAI (one male) (front view:1.6), Very detailed masculine face, (stubble), detailed realistic open eyes, bodybuilder, (big muscles), (big pectorals), narrow waist, (long hair), (smile).
+(nsfw:1.5), (nude) (completely naked), huge penis, glans, frenulum, huge balls, (male pubic hair:1.25).
+Obelisk, Supernova
+Realistic, photoreal, High contrast, high saturation, highly detailed, high quality, masterpiece,volumetric light, vibrant colors, depth of field.
+<lora:BulkedUpAIR1.5:0.3>
+<lora:FuturisticScape-V3:1>

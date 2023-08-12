@@ -1,0 +1,15 @@
+Aesthetic: ((sovietwave, retro, nostalgic, USSR, synthwave, Soviet aesthetics):1.4)
+BREAK
+Composition: <lora:panties_pulled_aside_fuck.v1.0:0.8> (panties pulled aside fuck, 1girl, looking at camera, pretty face, detailed face and eyes, perfect breasts), (having sex), (vaginal intercourse, missionary, 1boy, penis, vaginal, creamy pussy) (((wearing panties, panties pulled aside fuck))), orgasm
+BREAK
+Lighting: Bright Daylight, Sunny, Cheerful
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+<lora:gym_storeroom_v0.1:1.1> (gym storeroom:1.2), gym uniform, volleyballs, ball rack, pummel horse, gym mat,
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

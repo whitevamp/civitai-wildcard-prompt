@@ -1,0 +1,4 @@
+(Masterpiece, Best Quality, Highres:1.2), Detailed, Intricate Details, 4K, 
+(puzzle (kadath):1.2), 1girl, large breasts, furry female, solo, furry, animal ears, shirt, (black bra, black sports bra:1.2), covered nipples, cleavage, earrings, jewelry, orange skin, parted lips, orange eyes, colored skin, pointy ears, choker, orange hair, red hair, long hair, (hair over one eye:1.2), standing, big eyes, anime, smile, looking at viewer, curvy, plump,
+outdoors, beach, plants, sand, sea, ocean, waves,
+ <lora:puzzle_(kadath):0.8>

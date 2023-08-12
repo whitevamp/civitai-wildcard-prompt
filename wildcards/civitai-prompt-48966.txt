@@ -1,0 +1,1 @@
+realistic, beautiful female,hair bun, spacecraft, spacesuit,helmet , looking at viewer, office,(parted lips:1:1), (light_smile), shiny skin, skindentation,  <lora:zhaoJinmaiChinese_v35:0.5>

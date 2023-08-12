@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, sharp focus, depth of field, makaikishiingrid,
+Ingrid, mature female, (dark-skinned female:1.1), squatting, spread legs, gangbang, 6+boys, (group sex, orgy),multiple people, multiple penises, (bukkake, cum on body, facial:1.25), night, street, city lights,
+embarrassed, blush, open mouth,
+pink hair, very long hair, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, 
+helloutfit,  turtleneck, underboob, elbow gloves, high boots, midriff, center opening, 
+curvy, huge breasts, nipple slip, pussy
+<lora:IngridV2:0.87> <lyco:gangbangV20.Xnen:0.6>  <lora:MakaiKishiIngrid:0.6>

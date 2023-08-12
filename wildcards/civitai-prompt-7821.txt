@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details, (fractal art:1.2), 
+(1girl),   
+ <lora:Frostblade_Irelia:0.8> frostblade irelia, 1girl, short hair, blue hair, bodysuit, detached sleeves,  
+from behind, ass focus,

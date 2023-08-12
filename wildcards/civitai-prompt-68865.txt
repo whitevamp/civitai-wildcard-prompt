@@ -1,0 +1,6 @@
+1girl, (8k, best quality, masterpiece, perfect lighting:1.2), full body, dynamic angle, (from above:1.3), (fisheye:1.2), perspective, looking ahead,
+a photo of a cute princess (lize helesta:1.1), nijisanji,  giving the grand order cheerfully,  in the royal hall of her  castle, fantasy magnificent castle, (dynamic pose:1.3), detailed background, beautiful vivid religious wall painting and clorful stained glass, the right hand up and poinging straight up,
+above,
+<lora:flat2:-1>
+ <lora:lize_helesta_v10:0.7>
+detailed luxury and glossy dress, lh1, hair ornamnet, long hair, long sleeves, pleated skirt, blue thighhighs, armband, frilled skirt, white jacket, white shirt, blue skirt, thigh strap, boots, glossy white silk panties, chick

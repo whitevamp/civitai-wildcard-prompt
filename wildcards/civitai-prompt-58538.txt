@@ -1,0 +1,8 @@
+[(from below), (from front)]:2,
+photo of a 25 years old beastgirl standing in a middle of a forest at night time, wearing a (fur coat over naked body), {wearing torn and ripped revealing (dirty) (scuffed) leather skirt}, leather belt, (white scarf:1.3), armsleeves,
+outdoors, snowing winter, snow background, ice, cold, forest, snow, snow hills, 1 moon, photo realistic, backlit, intricate details, highly detailed, slate atmosphere, cinematic, dimmed colors, dark shot, muted colors, film grainy, lut, spooky, (standing):2,
+(extremely thin):2, ((perfect female figure)), {{{fur coat over naked body}}}:2, (fur coat), dynamic pose, (parted lips):1.2, sexy, looking at viewer,(crossed arms:1.3), confident pose, (gentle smile:1.2), skin imperfections, skin pores, detailed facial features, ((beautiful face)),
+full body, (thin lips:1.3), pale skin, <lora:akameGaKillGirlPack5_leonev12:0.5>, japanese, <lora:japaneseDollLikeness:0.4>, (long blonde hair), bangs, side swept bangs, (spiked hair:1.3), animal ears, streaked hair, yellow eyes, (detailed eyes):1.4, <lora:muscleGirl_v1:0.2>
+low hanging breasts, ((gigantic breasts)):1.2, cleavage:2, (exposed breasts):2, (exposed nipples):2, gigantomastia, <hypernet:gigantomastia:0.1>, <lora:saggingBreasts_v10:0.4>, <lora:gigatitums_:0.3>,
+(very hairy pussy):2, {{{pubic hair}}}:1.8, cameltoe:2, innie, <lora:thatsMyBush_v10:0.3>, <lora:fatpussyPrettyVaginas_fatpussyv17:0.3>,
+<hypernet:incaseStyle_incaseAnythingV3:0.5>, bimbostyle:0.8,  <lora:jujunaughtStyleLora_v10:0.3>

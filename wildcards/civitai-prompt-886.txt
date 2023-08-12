@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, HoldingMonsterEnergy, <lora:Pos_HoldingMonsterEnergy:0.5>, vergil(dmc5), <lora:Char_DMC_Vergil:0.75>, motivatedchair, <lora:Pos_Chair:0.75>

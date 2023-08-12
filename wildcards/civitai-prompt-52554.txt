@@ -1,0 +1,1 @@
+<lora:SagittariusArmor:0.6>, masterpiece, best quality, masterpiece, detailed face, detailed eyes, full body,  1girl, SagittariusArmor, female armor, long  golden wings,  walking on the ancient greek battlefields, nsfw, sexy, (8k, RAW photo, best quality, masterpiece:1.2), solo focus, <lora:mgq_valkyriev0.1:0.4>, mgq_valkyrie, wings, sky,

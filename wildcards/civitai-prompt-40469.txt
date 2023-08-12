@@ -1,0 +1,9 @@
+(masterpiece), (best quality), (extremely intricate:1.3), (realistic, photorealistic, hyperdetailed photography), (full body:1.1), 
+portrait of Iona, the cute (blonde:1.3) (female:1.5) (Paladin:1.3) of the Moons, in a (worn mech suit:1.5),( heavily armored:0.5) woman, cute beautiful girl, with (dark angel wings:1.3), glowing green eyes
+giant woman (wearing baroque (medieval armor:1.2), full plate armour, fully enclosed armor, fully clothed:1.3), (wearing hyperadvanced sci-fi (armored:1.4) exosuit:1.3), armored gloves, gorget, cuisses, reflections, outdoors, intense sunlight, far away castle, chainmail, covered chest, (obsidian black_armor:1.4), armor with (intricate golden embossing:1.2) around the edges, (arcane magical writing,  runes:1.3), holding spear,
+(muscular female, tall female:1.4), armored legs, chest plate, armored chest, covered chest, armored arms, armored hands, perfect hands, small head, large breasts, hard features, tough viking, warrior braids,
+cinematic lighting, volumetrics dtx, (film grain, sunset, motion blur:1.3), side key lighting, (rim lighting), particle effects, god rays, film still, fine texture, smooth color gradations, wide dynamic range, (bloom:0.7), shot on ALEXA 65,
+magic effects, particle effects, large particles, embers, misty mountains, smoke, ice, explosive shockwave, BREAK
+([BelleDelphine|Anna Torv|SabrinaLynn]:0.5),
+ <lora:BelleDelphineIMAGE2V2:0.4>, <lora:AnnaTorv:0.3>
+<lora:Elixir:1>, <lora:more_details:1>, <lora:LowRA:0.2>, <lora:lit:0.2>, <lyco:de-anime-er_v10:0.6>, <lora:A3D_Beta:0.4>, <lyco:zoom_slider_v1:-4.0>, <lora:muscle_slider_v1:0.7> <lora:Unholy:0.6>, <lora:polyhedron_new_skin_v1.1:0.2>, <lora:polyhedron_all_eyes:0.2>

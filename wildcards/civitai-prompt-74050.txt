@@ -1,0 +1,6 @@
+highres,absurdres absolutely resolution,(masterpiece,realistic, real life:1.2),best aesthetic, best quality,very wide shot, High quality texture, a girl, little girl,wearing Japanese kimono and obi, (kimono:1.5),
+,break, full body, (freckles),(short black bob hair:1.5), (extremely detailed eyes and face:2), blunt bangs, Put her hair up, (smile), black eyes,(small chest), cowboy shot,BREAK, near hot spring,old-fashioned Japanese buildings, which are hot spring inns. These structures feature traditional Japanese architectural elements such as tile roofs, wooden lattice windows, and lanterns,
+
+ Model: _m2150_fp16_no_ema_f16.ckpt, 
+ LoRA 1 Model: hipoly_3d_model_lora_f16.ckpt, LoRA 1 Weight: 0.3, LoRA 2 Model: japanesedolllikeness_v15_lora_f16.ckpt, LoRA 2 Weight: 0.6, 
+LoRA 3 Model: epi_noiseoffset_v2_lora_f16.ckpt, LoRA 3 Weight: -0.1

@@ -1,0 +1,5 @@
+methurlant , Syd Med,  Richard S. Johnson
+  1 female,  cyborg, armor  mecha, ((looking at viewers)),    Cannon,glowing, spikes,
+futuristic, surreal,  post-apocalyptic
+((concept art, ink, comic  ))
+<lora:methurlant:1>

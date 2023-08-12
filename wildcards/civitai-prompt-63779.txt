@@ -1,0 +1,1 @@
+(masterpiece), (best quality), (high resolution), hyper detailed, solo, girl, detailed_background,buried under cables, dim light,  cyborg girl<lora:epiNoiseoffset_v2:1.3>, <lora:blameLora_v10:1>

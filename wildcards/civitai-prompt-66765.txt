@@ -1,0 +1,6 @@
+<lora:LowRA:0.7>, award winning, best quality, (masterpiece:1.2), ultra-detail, 8k, uhd, octane render, fantasy, (style-swirlmagic:0.7), realistic,
+modelshoot close-up shot of a young male wizard, slender, wizard costume,
+reading a magic book, (glowing blue flame swirling around:1.3), 
+looking at viewer, 
+cinematic lighting,
+by greg rutrowski,

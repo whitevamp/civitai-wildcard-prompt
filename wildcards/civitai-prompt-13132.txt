@@ -1,0 +1,1 @@
+a kuplinov,<lora:kuplinov2:0.9>,complex background,magic, medieval royal clothing, gold crown, golden armor, made of gold, sits on a throne of gold

@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.3),beautiful detailed glow,best illuminate,(((best quality,textile shading,ultra detailed))),extremely detailed CG unity 8k wallpaper,Highly Detailed beautiful and aesthetic,best light,high resolution,detailed,dynamic lighting,
+1girl, solo,large breasts,
+looking at viewer,full body,blush,afterglow,sweat,
+<lora:add_detail:0.8>,
+ <lora:clearswimsuit:1>,nsfw,(see-through:1.3),(swimsuit),(clearswimsuit),
+light purple hair,
+long hair,
+(beach, palm trees:1.3), beach, clear water,(blue sky, cumulonimbus:1.3),(starfish, seashell:1.2),(island),(hibiscus:1.4),

@@ -1,0 +1,3 @@
+<lora:between_breasts_v0.1:1.0>
+1girl, between breasts, breast squeeze, katana, sword, 
+<lora:busujima_saeko_v1.0:1> busujima saeko,, masterpiece, best quality, highly detailed

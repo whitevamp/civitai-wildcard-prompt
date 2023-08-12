@@ -1,0 +1,3 @@
+Photo of the ED-209 robot standing guard over a birthday party in the backyard.
+(reflective metal:1.2), intricate robot, metalic helmet, (baloons:1.4).
+ <lora:ed209:0.8>

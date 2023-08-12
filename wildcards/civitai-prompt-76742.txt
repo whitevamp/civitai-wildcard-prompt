@@ -1,0 +1,1 @@
+1girl,  <lora:COOLKIDS_MERGE_V2.5:0.8> <lora:wedjigamja-000008:1>, sleeping, night, clouds, sky, lie on bed, teddy bear, purple main color, dark night,, masterpiece, best quality,

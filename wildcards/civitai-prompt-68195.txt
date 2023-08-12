@@ -1,0 +1,17 @@
+(masterpiece:1.4), (best quality:1.2), (extremely delicate and beautiful:1.4), (ultra high res, photorealistic, raw photo:1.4), RAW photo, 8K, HDR, hyperrealism, incredible accuracy, lifelike textures, masterful technique, jaw-dropping precision, artistic dedication,
+BREAK
+global Illumination, beautiful lighting, professional lighting, physically-based rendering, Cinematic Lighting, ray Tracing, radiosity, professional lighting,photon mapping, radiosity, physically-based rendering,raw photo, High dynamic range, High contrast, High Key Lighting, HDR, Exposure compensation, Color correction, detailed and intricate, Volumetric Lighting,
+BREAK
+(1girl:1.4), (solo,:1.5), (detailed face:1.4), 14 old year, bronze large eyes, brown eyes, detailed eyes, shaggy hair, long hair, detailed face,face highlight, white skin, shiny skin, earrings, medium breasts, slim body, slim thighs,
+BREAK
+((Cyberpunk,Future City,Night,Rainstorm)), Neon, Display Screen, Advertising, wires, waste,
+BREAK
+cowboy shot,serioys,honorable,cold,grim,elegant Haughty,armoured,machinery,Tight combat uniform, techwear jacket, with buckle and tape, black cap and mask, black gloves, tactical vest,
+BREAK
+full body, looking at viewer, (looking to the side:0.9), standing,  (thighs focus:1.2), ass focus, breasts focus,
+BREAK
+happy expression, joyful, delighted, cheerful, 
+<lora:gravHoshinoyJP_v20:0.25> 
+<lora:eastasiandolllikenes_v5:0.2> 
+<lora:ChilloutMixss_V30:0.25> 
+<lora:urbansamurai_v0.3:0.3>

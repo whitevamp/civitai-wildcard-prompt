@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, ceres_fauna,<lora:ceresFaunaHololive_v1:0.8>, Beautiful Art Style, 1girl, young woman, striped legwear, dense, mountain, all fours,     mecha musume, mechanical parts, super robot joints, full armor, headgear,  <lora:A-RandomSuper[mecha musume,mechanical parts,super robot joints,headgear,full armor]:0.8>,  <lora:Stallion-10:1.2>

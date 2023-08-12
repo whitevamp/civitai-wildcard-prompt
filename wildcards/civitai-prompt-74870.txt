@@ -1,0 +1,2 @@
+mksks style, (masterpiece:1.2), (best quality:1.2),
+female focus, 1girl,  cup, black hair,  (light skin:1.5), <lora:luotianyi_koushiki:0.7>, (serious:1.1), (rejection:0.8), (determined:1.1), (aged down, 18 years old, asian:1.4), (bangs:1.3), formal, necktie, fork, food, plate, drinking glass,

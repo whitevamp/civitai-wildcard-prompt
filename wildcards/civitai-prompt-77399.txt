@@ -1,0 +1,2 @@
+half-length,1girl,(Perfect figure,be tall and slim),solo,standing,(outdoor:1),sky,Focus on the face,Beautiful face,Detailed delicate young face,supergirl, (Super girl suit:1.5),Jumpsuit,(huge breasts,Big tits,Big breasts:1.3),thigh gap,camel toe
+realistic style,vivid picture,masterpiece, (best quality:1.2),ultra-detailed,realistic,High definition,High quality,Cinematic Light,Ray tracing,ultra high res,UHD,(photorealistic:1.5),intricate details,detailed texture,finely detailed,High quality shadow <lora:Supergirl:0.6>

@@ -1,0 +1,1 @@
+upper body,  standing, 1girl, mature female, long hair, bangs, detailed pupils, (small breasts), outdoors, nature, snow, mountains,  colorful, vivid colors, absurdres, aesthetic, colorful oversized_sweater, (oversized sweater:1.2) <lora:oversized_sweater:0.5> <lora:more_details:1>

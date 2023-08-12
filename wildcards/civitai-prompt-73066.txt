@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, ((looking at viewer:1.2)), portrait, breasts squeezed together,  nightclub, club, red lips, black jumpsuit,
+realistic, (photorealistic),
+slim, small breasts,
+white short hair,
+((center)),
+ <lora:breastinclassBetter_v141:0.4>

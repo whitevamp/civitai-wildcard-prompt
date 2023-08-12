@@ -1,0 +1,4 @@
+masterpiece, (best quality:1.2), nsfw, fisheye
+1girl, nude, large breasts, (egg laying), easter eggs, rabbit ears, rabbit tail,  vaginal object insertion,  legs apart
+orgasm, moaning
+forest, ruins, detailed clouds  <lora:egg_layingConv2D:0.8>

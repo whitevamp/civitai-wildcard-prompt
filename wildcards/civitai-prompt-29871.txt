@@ -1,0 +1,16 @@
+(cosmic:1.2) (blue eldritchtech:1.2) (cocktail:1.8), decorated with a (beautiful kraken tentacle:1.3) and a handful of (perfect blueberries:1.3), (azure and purple crystal flakes:1.2), (eldritchtech fog:1.2), depth of field 100mm, (extremely beautiful:1.2), ornate decoration, accurate, sharp focus, (product image:1.5), (photorealistic:1.5), (masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres:1.2)
+ADDCOMM
+<lora:style-cosmiceldritchtech:1.0> <lora:epi_noiseoffset-v2:0.25> <lora:add_detail:1.0>
+ADDBASE
+cosmic background, dark energy, eyeball, cocktail umbrella
+ADDROW
+(a handful of perfect blueberries:1.8), tentacles, wet black marble surface
+ADDROW
+should you hear the whisperer's howl
+for sure your end is near most foul
+made in part of rampant madness
+this rotgut will cause you only sadness
+and if you desire to prevent your demise
+it might be needed to cover your eyes
+but if all you want is to forget your sorrow
+then drink this liquor but don't count on a 'morrow

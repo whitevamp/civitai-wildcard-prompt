@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1girl, <lora:ameliaWatsonHololive_v2AllOutfits:0.8> amelia watson, monocle hair ornament, 
+
+
+
+ <lora:ramenGirl_v1:0.8> ramengirl, ramen, food, bowl, bathing, soup,

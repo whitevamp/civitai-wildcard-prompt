@@ -1,0 +1,2 @@
+1girl,slg,(Sunshine rays),Velvet bralette with adjustable straps,depth of field,Standing, hands forming a heart shape
+<lora:slg_20:1.0>

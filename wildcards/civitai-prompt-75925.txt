@@ -1,0 +1,9 @@
+extremely detailed,(ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(8k, raw photo, best quality, masterpiece),
+(photon mapping, radiosity, physically-based rendering,automatic white balance),
+best quality, masterpiece, illustration,CG ,unity ,wallpaper, official art,
+Amazing, finely detail, highly detailed, sharp focus,rich background,
+1girl, nun, curvy, sexy, large_breasts, curly black_hair, kneeling, cum, ejaculation, handsfree ejaculation, skirt, futanari, ((erect penis)), sitting, solo, testicles, uncensored,church, detailed background,night,dim_lighting,soft_lighting,dark, moonlight, dynamic pose, dynamic angle, volumetric lighting, thick_thighs, necklace, cross_necklace, ((white thighhighs, white_legwear,intricate lace stockings)), (embarassed, blush), dark background, dim background, (cum_pool, excessive cum, precum),((marble floor, stone floor)), extreme detail, absurdres, 8k, photorealistic,detailed face,colorful eyes, magicalinterior, realcumAI,
+ <lora:estheticFutanariTrap_tr41:0.3>,
+ <lora:tgirls_V3b:0.3> ,
+<lora:uberRealisticPornMerge_urpmv13296LORA:0.4>

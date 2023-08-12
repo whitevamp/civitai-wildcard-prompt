@@ -1,0 +1,1 @@
+(RAW photo, best quality), A woman undressing in a public park, red hair, (egirl,:1.3) petite, small breasts, (pale skin:1.4), <lora:NightphotoV1-0:1>, nphot, black background, smiling, exercise bra, yoga pants, (bokeh:1.5), volumetric lighting <lora:undressing_bra.v10.1-e100:0.5>

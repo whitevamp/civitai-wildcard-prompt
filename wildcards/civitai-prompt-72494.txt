@@ -1,0 +1,1 @@
+masterpiece, best quality, grass, backyard, concrete wall, foliage, 1girl, short hair, motorcycle helmet, navy blue short sleeve shirt, white shorts, tan skin, pumps, posing in front of yhmotorbike,  scooter, cool cast, <lora:yhmotorbikev0.9-000001:.5>,  filmg, <lora:FilmG3:.7>,  <lora:motor2:.4>,

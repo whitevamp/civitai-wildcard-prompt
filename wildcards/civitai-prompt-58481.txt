@@ -1,0 +1,1 @@
+color portrait photograph of a beautiful british woman wearing a string vest, in the forest, intricate shadows, studio, dark sci-fi, (dramatic lighting:1.4), <lora:epiNoiseoffset_v2Pynoise:2>  <lora:Betterportraits:0.6>

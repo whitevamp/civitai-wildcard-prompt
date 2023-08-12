@@ -1,0 +1,2 @@
+best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, solo,mystery, fantasy cinematic shot
+, deep shadow, low key, cold light,  <lora:lowra_v10:0.6>

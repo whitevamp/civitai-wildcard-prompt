@@ -1,0 +1,7 @@
+(ultra high res,realistic,best quality),
+(8k, raw, best quality, masterpiece)
+
+BREAK
+
+ru_qun, hanfu, best quality, masterpiece, extremely detailed, anime, 1girl, short girl, (blue hair, blue eyes:1.4), long hair, smile, tulle clothes, silk clothes, embroidery accessory, chinese knots, happy, smile, closed mouth, blue flower vines, gems, gold accessory,
+<lora:hanfu_v30Ming:0.3>

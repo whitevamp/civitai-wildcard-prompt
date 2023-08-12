@@ -1,0 +1,1 @@
+(best quality, masterpiece),1girl, seiza, white shirt,hearts in eyes, facial,open mouth, tongue out, saliva,  (see-through), ahegao,   <lora:shirtliftv1:1> <lora:MS_Real_Facial_Lite:1> <lyco:BongfillStyleV1:0.7>   <lora:Ahegaoo:1>

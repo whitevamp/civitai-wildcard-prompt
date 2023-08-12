@@ -1,0 +1,3 @@
+Hyper-realistic art, gallery-grade work, ultra precision, visually striking, sublime masterpiece, peak clarity, twilight dimness, subdued lighting,
+1girl,solo,
+low key,deep shadow,<lora:epiNoiseoffset_v2:1>

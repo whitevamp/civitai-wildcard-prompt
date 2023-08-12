@@ -1,0 +1,10 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, standing, against brick wall, outdoors, pov hand,
+blonde hair, yellow eyes, (sad, crying, teardrop, angry, scowl, glaring, full blush:1.2), clenched teeth, looking back,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+ass, anus, pussy, pussy juice, pussy juice trail,
+sweat, steam, steaming body, heavy breathing,
+<lora:CutePussyVer2S:0>,
+pantyhose pull, pulled by another, <lora:UndressingAnother_v0.5:0>,
+flower on hair, black legwear, luminedef, <lora:lumine1_000008:0.75>

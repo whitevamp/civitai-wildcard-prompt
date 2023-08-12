@@ -1,0 +1,3 @@
+<lora:AsukaV1:0.33> <lora:EVAII:0.33>solo,((masterpiece:1.2)),((best quality:1.2)),4k,realistic,hyperdetailed,wallpaper,mature,red splash art,psychedelic,neon genesis evangelion,end of the world,
+EVAGOD,EVA 02,souryuu asuka langley,perfect slender body proportions,
+<lora:more_details:0.33>,

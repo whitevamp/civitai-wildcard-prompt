@@ -1,0 +1,1 @@
+spooky drawing, (lots of evil cats:1.45) wearing (party hats:1.3), monster teeth, cat ears, horror, unsettling, (madziowa_p:1.3), dark, low key, distorted, noir filter <lora:madziowa_p-000006:1> <lora:epi_noiseoffset2:0.3> <lora:LowRA:0.4>

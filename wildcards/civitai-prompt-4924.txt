@@ -1,0 +1,4 @@
+masterpiece,best quality,nsfw
+aerith gainsborough, choker, red cropped jacket, hair bow, bracelet, pink dress,<lora:aerith-nvwls-v1-000010:0.9> ,
+all fours, doggystyle,fucked silly,sex from behind,<lora:fucsil1-000011:0.3>,
+<lora:goblin_v0.1a:1>,(goblin1.5),gangbang,group sex,multiple boys,(sex,cum,creampie),

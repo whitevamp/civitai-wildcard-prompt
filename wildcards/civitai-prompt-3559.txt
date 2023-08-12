@@ -1,0 +1,6 @@
+(photorealistic:1.3),beautiful and aesthetic, masterpiece,best quality,lifelike rendering,moody lighting,
+industrial age,
+Pleated skirt,
+nsfw,
+(Glowing Environment, Enchanting Luminescence, Dramatic Colors, Ethereal Radiance),
+<lora:oc_v10:0.2> <lora:LowRAv2:0.6>

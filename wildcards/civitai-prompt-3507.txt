@@ -1,0 +1,6 @@
+1girl, portrait of a gorgeous female warrior,  leaning forward, jump 
+(photorealistic, rim light, from above, methurlant), 
+ancient, walls
+fantasy, dnd,  dungeon, 
+(masterpiece, best quality:1.3), depth of field
+ <lora:epiNoiseoffset_v2:1> <lora:methurlant:0.1>

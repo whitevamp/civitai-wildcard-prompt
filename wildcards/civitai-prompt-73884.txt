@@ -1,0 +1,1 @@
+(masterpiece, best quality), 8K, absurdres, (1girl), standing, cowboy shot, blue eyes, long hair, wind blown hair, (perfect body), looking at viewer, mahalaiuniform, (fitted white shirt short sleeves), (((short black pencil skirt:1.4))), (Belt), (outdoor, in the park, sunny day, clouds), <lora:mahalaiuniform-000001:0.8>

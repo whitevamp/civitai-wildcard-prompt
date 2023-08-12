@@ -1,0 +1,3 @@
+best quality, beautifully detailed illustration, soft lighting, (best shadows), looking at viewer,  BREAK
+3girls, cerberus \(helltaker\),  angry, red eyes, (glowing eyes:0.6), dark cave background , hands on hips,  red shirt, necktie, <lora:Cerberus1:0.9>
+<lora:threeheads-v1:0.9> ((three heads, 3head):1.5), BREAK, outdoors

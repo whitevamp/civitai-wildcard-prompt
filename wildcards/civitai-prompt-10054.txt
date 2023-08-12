@@ -1,0 +1,1 @@
+(comiccovers:1.2), <lora:ComicCovers-10:1>, best quality (raw:1.1) photo of a red haired woman, magazine_scan

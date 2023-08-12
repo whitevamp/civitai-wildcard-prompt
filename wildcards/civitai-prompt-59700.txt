@@ -1,0 +1,6 @@
+(8k, best quality, masterpiece:1.2), 1girl,solo,perfect face, perfect eyes,<lora:webGameAdFace_v10:0.3>
+garden, landscape,flower, 
+blonde hair,blue eyes, light smile, 
+<lora:hanfu_v30:0.4> hanfu, ming style, red hanfu,
+on back,on bed, looking at viewer, 
+from above,

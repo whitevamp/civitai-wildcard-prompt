@@ -1,0 +1,1 @@
+<lora:necoArcCharacters_necoArcv3final:1>masterpiece illustration of shrk as (1girl, full body, :3, shrek ears, chibi, meme, neco-arc,  cat girl, cat tail, solo, slit pupils, brown vest, red eyes, green hair, tan tunic, brown boots, thumbs up, no pants, ) <lora:shrekDiffusionLora_swamp10:1.3>, standing in a swamp

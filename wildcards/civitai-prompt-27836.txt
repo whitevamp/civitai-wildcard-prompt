@@ -1,0 +1,4 @@
+[[Scenario Loader v2.0.0]]
+## 2023-07-13
+$ezpos
+scenario: random_girl_HEAVY

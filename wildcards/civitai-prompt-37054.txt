@@ -1,0 +1,5 @@
+KymJane, shoulder length wavy dark hair, wearing a sheer black shirt, nude, ass
+blue wall, epic character composition,
+by ilya kuvshinov, alessio albi, nina masic, sharp focus, natural lighting, subsurface scattering,
+sharp focus:1.2, masterpiece, realistic, hyper realistic, high contrast, High Detail, cinematic color grading,
+<lora:3DMM_V12:0.3> <lora:tangbohu-detailmaker_v2.5:1><lora:LowRA:0.2> <lora:KymJane_v01c_TigonTX:0.7>

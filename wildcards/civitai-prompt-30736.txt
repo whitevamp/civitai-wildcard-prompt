@@ -1,0 +1,1 @@
+<lora:dragon ear_20230623155318:0.6>, Dragon ear, <lora:cbpkv5:0.6>, cbpkv5,1girl,steampunk, (masterpiece, best quality, high quality, highres, ultra-detailed),   <lora:Dragon:0.5>

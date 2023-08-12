@@ -1,0 +1,4 @@
+(best quality, masterpiece:1.2), photorealistic, thick outlines, strong shadows, <lora:add_detail:0.75>,
+1 girl, adult (elven:0.7) woman, freckles, green eyes, brown shaggy hair,
+ solo, half shot, looking up, detailed background, detailed face, (<lora:PunkBundleAI:0.4>, steampunkai, steampunk theme:1.1)  (time wizard:1.1), eternity,   swirling patterns, (style-swirlmagic:0.8), clock, clockwork, clock gears,   dynamic pose, bloom light aura, cosmic space in background, epic atmosphere,
+<lora:graphicNovelStyle_v10:0.2>,

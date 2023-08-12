@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,large breasts
+BREAK
+yuzurihainori, <lora:inoriyuzurihatest:0.7>, inori yuzuriha, hair between eyes, hair ornament, hairclip, long hair, low twintails, pink hair, (red eyes:1.5), sidelocks, twintails, (small breast:1.2), BREAK bare shoulders, black thighhighs, breasts apart, center opening, detached sleeves, elbow gloves, fingerless gloves, gloves, navel, shoes, stomach,
+Folded Socks,converse,depth of field,looking at viewer,((walking on the Casino: Gambling, cards, dice, roulette, luck)),((upper body)),
+BREAK
+moon,night,meteor,hanabi,((cumulonimbus)),from above:1.2,<lora:more_details:0.3>,<lora:Tsurime3:1.3>,

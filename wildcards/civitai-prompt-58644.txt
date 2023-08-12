@@ -1,0 +1,1 @@
+realistic,  1boy, armstrong,<lora:Chara_armstrong:0.8>,( upper body:1.2) , muscular, sparkle

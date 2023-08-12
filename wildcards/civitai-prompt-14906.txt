@@ -1,0 +1,1 @@
+masterpiece,1girl,<lora:chel_eldorado-11:1> chel_eldorado, (tube top,midriff, loincloth:1.2)

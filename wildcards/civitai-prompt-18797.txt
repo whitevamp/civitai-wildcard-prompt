@@ -1,0 +1,1 @@
+3dmm style,(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (fractal art:1.3), 1girl, beautiful, high detailed,lighting, bloom, cinematic lighting,smiling,shiranui mai,brown eyes, long hair, brown hair, white ribbon, sleeveless, ponytail, sash, pelvic curtain, arm guards, gloves, tabi,cowboy shot,<lora:3DMM_V12:1>  <lora:shiranui maiV1:0.7>

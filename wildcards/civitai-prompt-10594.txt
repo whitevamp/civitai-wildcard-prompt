@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, girls und panzer, shimada arisu,hair ribbon, selection university military uniform, black jacket,white shirt, black necktie, black skirt, PepePunchMeme, green field, blue sky <lora:Shimada Alice:0.6>  <lora:PepePunchMeme:1>

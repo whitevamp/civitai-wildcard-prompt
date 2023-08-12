@@ -1,0 +1,1 @@
+(Best quality:1.2), (masterpiece:1.2), (highly detailed:1.3),rogue,<lora:NijiExpressV2:0.2>  <lora:knight_v4.1SD:1>

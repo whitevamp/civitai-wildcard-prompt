@@ -1,0 +1,4 @@
+(close-up, photo of elishacuthbert-smf), (highly detailed face:1.3) (smile:0.7) , (detailed skin:1.2),
+POV, by lee jeffries, nikon d850, 4 kodak portra 400 ,camera f1.6 lens ,rich colors ,hyper realistic ,lifelike texture, dramatic lighting , cinestill 800,
+<lora:elishacuthbert_smf_lora_02:0.9>1girl,solo, blonde hair, table, realistic, window, looking at viewer, white dress, lips, long hair, house interior, decorated walls, ((mid-body)),
+<lora:add_detail:0.4>

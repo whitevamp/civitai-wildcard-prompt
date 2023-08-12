@@ -1,0 +1,4 @@
+1girl,solo,   ,long hair, wind blown,lips,bangs,  dress,shirt, ,long sleeves,  pale skin, gothic makeup, Victorian era 
+realistic face,   watercolor painting,  negative space, spooky,   grave yard,  spirits, ghosts ,style of WLOP,   mucha
+fujifilm superia, kodak porta, kodak ektar, kodachrome, cyan tone
+<lora:add_detail:1>

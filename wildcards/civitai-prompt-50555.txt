@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ultra high res, 1girl,(full body,full legs:1.5),( dark Down jacket,pink wool scarf),high quality lights, light on face,((high quality black high-heeled mary janes,high quality black thick legwear)),long legs,brown hair, sleeves past wrists,cute face,high quality background,shoulder bag, bottomless, long hair, straight hair, (bangs),nsfw,(airport:1.2) 
+<lora:koreanDollLikeness_v10:0.3>

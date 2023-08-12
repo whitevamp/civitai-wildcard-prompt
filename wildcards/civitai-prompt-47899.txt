@@ -1,0 +1,7 @@
+(ink drip painting:1.1) of adult 1woman, (fierce stare:1.2), intense, tension, angry, anger, half body portrait, extremely luminous bright design, pastel colors, (ink drips:1.3), autumn lights, white (textured canvas:0.5), 
+
+yellow and blue, yellow, blue, 
+
+war, war machine, Ukraine, Ukrainian, tank, explosion, Slavic, square jawline, pronounced nose, straight or slightly wavy hair, high cheekbones,
+
+<lora:epiNoiseoffset_v2:2>, (realistic sunflower:1.1), corn field, grit, dirt, fire and ice,

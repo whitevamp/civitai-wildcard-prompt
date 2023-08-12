@@ -1,0 +1,1 @@
+1girl, (beltbra:1.3), on side  ,  skindentation, deep skin, indoors  , colorful, vivid colors, best quality, absurdres, highest quality, amazing details, <lora:add_detail:1>  <lora:MBHU-TT2F:0.4> puffy nipples   <lora:GoodHands-beta2:1.2>  <lora:beltbra_v0.1:1>

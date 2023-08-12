@@ -1,0 +1,7 @@
+RAW, 1girl, solo, colorful, (masterpiece, best quality:1.3), (absurdres:1.3),   <lora:koreandolllikenessV20_v20:0.3>, walking, holding Luxury handbag,  
+(detailed skin:1.3, detailed face:1.3), from above,  looking at viewer, 
+sharp focus, delicate, (korean beauty, korean mixed:1.3), (mature female:1.2), 
+(huge breasts:1.4, thick thighs:1.2, narrow :1.1),  light smile, 
+(big_eyes:1.2, brown_eyes), red_eyeshadow, pink lips, 
+(straight hair), looking at viewer, (thin gray v-neck long midi dress:1.2),
+park, english text, day, (sunlight on face:1.5), open_blazer,

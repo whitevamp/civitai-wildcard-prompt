@@ -1,0 +1,1 @@
+((A forbidden castle high up in the mountains)), pixel art, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2), game art, key visual, surreal, <lora:add_detail:1>, <lora:epi_noiseoffset2:0.4>, <lora:LoHa_Stylev2:0.4>, octans, <lora:Bugatti:0.5>, bugattiai,

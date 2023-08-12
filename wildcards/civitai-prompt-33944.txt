@@ -1,0 +1,1 @@
+<lora:9a91:0.8>,<lora:GTS:1>,1girl,ponytail,hair ribbon,bikini,frills,gts,city,buildingseat,(ground view:1.2)

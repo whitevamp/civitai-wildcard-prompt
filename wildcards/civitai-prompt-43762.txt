@@ -1,0 +1,8 @@
+(kawaii:1),(looking at viewer:1),focused,(cowboy shot:1),masterpiece, best quality, highres,8k, intricate, elegant, highly detailed,dynamic lighting,(blurry background:1),(half updo:1),(blunt bangs:1),(sidelocks:1)
+BREAK
+extremely detailed eyes and face and skin,(symmetrical clear eyes:1.2), (slim face:1.2)
+BREAK
+She is dressed in a stunning orange dress with delicate and intricate patterns. The dress flows elegantly around her as she strikes a poised and confident pose, reminiscent of a professional model. Her long, flowing hair catches the gentle breeze, adding to the ethereal atmosphere.
+The sun is setting behind her, casting a warm and golden glow across the scene. The shimmering reflection of the sun on the water creates a mesmerizing backdrop. The tranquil waves softly lap against the shore, contributing to the serene ambiance.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-2> <lora:detailed_eye:0.5>

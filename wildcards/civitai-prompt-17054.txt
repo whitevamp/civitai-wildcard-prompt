@@ -1,0 +1,1 @@
+<lora:add_sharpness:0.7> women 

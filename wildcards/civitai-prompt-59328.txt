@@ -1,0 +1,6 @@
+flaccid penis,8k raw photo of a naked  muscular man, cowboy shot,blue eyes,beautiful landscape, morning,
+standing,
+facial hair,
+1boy, solo, (testicles,glans:0.9),
+muscular man,  male only,masterpiece,best quality,detailed,  beard,   detailed, intricate detail,  highres ,smooth skin
+<hypernet:EasyNegative:1>       <lora:superFlaccidPenis_v20:.62>   <lora:128dimTurbomaleV7_128:1>

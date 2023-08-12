@@ -1,0 +1,9 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1girl, solo, aphrodite, mature female,
+standing,
+blonde hair, short hair, hair flower,
+gigantic breasts, thick thighs, 
+blue eyes, seductive smile, closed mouth,
+white dress, revealing clothes,
+forest, lake, tree, sunny,
+<lora:aphrodite-v1-lora-any:0.7>

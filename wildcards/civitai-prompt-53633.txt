@@ -1,0 +1,1 @@
+<lora:room:0.6>,room,trees,red wall,white ground,blue sofa

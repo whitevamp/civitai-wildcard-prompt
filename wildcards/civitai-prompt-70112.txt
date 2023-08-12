@@ -1,0 +1,27 @@
+girl from zelda, 1girl, photorealistic, very detailed,  ((master sword)) sheathed on belt, light makeup
+, caucasian, wide face shape, big eyes,
+wearing well-worn tunic with intricate details, laced translucent sleeves, laced puffy translucent shoulder fabric, belts, adventuring gear,
+wearing a very large oversized pointy hood,
+golden hour backlight, lens flare behind hair
+,
+small triangular golden earrings,
+beauty mark,
+(((large oversized))) leather gloves:2,
+freckles,
+((confident)),
+face in focus,
+bokeh,
+gorgeous face, pretty face, stunning face, beautiful face,
+detailed skin texture,
+golden specks floating in air,
+(sharp focus),
+hair with swirling long curls,
+((genuine)) (((confident smirk))),
+bright blue eyes,
+very detailed,
+<lora:microwaist_02bLora:1>,
+(((battle stance))), primed for a fight, holding sword, balled fist
+,
+very low:5 camera angle,
+1.8 aperture, 8k, high saturation, (photo), photorealistic:1.4, dynamic lighting, volumetric lighting, high detail,
+award-winning

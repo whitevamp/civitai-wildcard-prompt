@@ -1,0 +1,2 @@
+1girl, one eye closed,Hoshino Ai, long hair, purple hair, streaked hair ,purple eyes, star-shaped pupils, hair ornament,
+ <lora:Anime_Hoshino Ai:0.8>

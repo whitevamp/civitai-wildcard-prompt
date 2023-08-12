@@ -1,0 +1,7 @@
+masterpiece, best quality, detailed,
+3d face, cute face, beautiful detailed face, beautiful detailed eyes, shiny skin, lustrous skin,
+1 girl, solo, lying, full body, indoors,
+crying, eye reflection, bright pupils, ponytail, long hair, floating hair,
+small breasts, navel, pregnant, cum, cum on belly, pussy, completely nude,
+transformation, <lora:sexToyTransformation_v10:1.0>,
+kamisato_ayaka, <lora:kamisato_ayaka:1.0>

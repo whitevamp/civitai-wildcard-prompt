@@ -1,0 +1,1 @@
+1girl, (face veil,mouth veil:1) ,dancer,masterpiece,bride,bride,(portrait:1.4), high quality, tropical palace ,(masterpiece:1.2),(best quality:1.2),shiny skin,(see-through),realistic,smile ,ornate,intricate,looking at viewer <lora:HaremDancer_v1:0.9>

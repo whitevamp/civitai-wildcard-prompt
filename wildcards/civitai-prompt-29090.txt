@@ -1,0 +1,5 @@
+[[Scenario Loader v2.0.0]]
+## 2023-07-15
+$ezpos
+scenario: portrait
+@abigail_shapiro

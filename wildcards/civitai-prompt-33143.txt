@@ -1,0 +1,6 @@
+masterpiece, best quality,
+1girl, solo,
+(sky, cloud, sunset:1.4), looking at viewer,
+smile, upper_body,  hand on hip, 
+<lora:kancolle_amatsukaze-10:1>amatsukaze, hair tubes, two side up, grey hair, brown eyes, see-through, hair ornament, 
+black sailor dress, garter straps, single glove,, <lora:shizuma_lora_v2-000007:0.8> view from front, wind,

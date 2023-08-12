@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo young girl, one-piece dress, shirt lift, skirt lift, lifted lifted by self, side-tie black panties, pink bra,
+cherry blossoms, wind, school, smile,
+ <lora:skirtliftTheAstonishing_skirtliftv1:0.8> <lora:shirtlift_v1:0.8>

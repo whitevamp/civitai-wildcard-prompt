@@ -1,0 +1,4 @@
+Masterpiece, absurdres, fine detail, HDR,
+(dudou,dudou_embroidery:1.25),  woman wearing the [dudou|hoodie]
+hoodie, a womanposing for a picture, smiling ,  chinese style
+ <lora:DudouHoodies:0.78>

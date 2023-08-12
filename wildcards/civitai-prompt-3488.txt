@@ -1,0 +1,3 @@
+<lora:add_brightness:0.5><lora:add_detail:0.7> <lora:capi:1><lora:LoveHotelV7_1.0_MIDD_Resize_DIM8:0.6>
+(capybara:1.3)masterpiece, best quality, ultra-detailed, illustration,
+lovehotel, LHbedpanel, bed, pillow, table, couch, indoors, phone, tissue box, wooden floor, cushion, ceiling light,

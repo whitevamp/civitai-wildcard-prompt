@@ -1,0 +1,4 @@
+, <lora:Record_of_Ragnarok_Aphrodite_Memes-10:0.8>, Aphrodite Memes, realistic, ((3 girls)), realistic, dark environment:0.3
+AND long black hair, holding breast, <lora:tifaMeenow_tifaV1:0.9>
+AND <lora:cloudstrife-nvwls-v1-final:0.8> cloud strife, crossdressing, twin braids, frilled dress, hair bow,
+AND corneo_aerith:1.2

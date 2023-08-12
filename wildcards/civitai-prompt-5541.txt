@@ -1,0 +1,14 @@
+<lora:gwen_1.5:0.3>gwen stacy, spider-gwen suit,bodysuit , superhero,(blonde hair AND pink hair) , blue eyes , animification ,eyebrow piercing
+<lora:gwen_stacy_v1.1:0.3>(sidecut:1.3),(asymmetrical_hair:1.3),(side of head shaved:1.3),
+face focus,
+(upper body),
+14yo,(skinny slim:1.3),(middle breasts:1.2),
+masterpiece, best quality,1girl,
+city,open eyes,
+blush,narrow waist,looking at viewer,standing,
+smile,solo focus,
+photorealistic,extremely detailed,(from front),
+,highres
+<lora:FilmProvia2:0.3>
+<lora:Perky-Breasts-V3:0.8>
+<lora:GoodHands-beta2:0.4>

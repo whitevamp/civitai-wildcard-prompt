@@ -1,0 +1,1 @@
+oppav3, (masterpiece, ultra quality, high resolution, 8k, intricate: 1.2), (detailed face:1.2), volleyball, bulge,  short black hair, detailed skin, pores, absurdres, male focus, ((realistic)), ((pale skin)), [[muscles]], hunk, handsome, sports, sexy, 1boy, hunk, muscle vein, perfect body, <lora:oppav3:0.9>,  <lora:volleyballUniform_v20Lora:0.9>

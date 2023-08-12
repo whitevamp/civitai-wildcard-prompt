@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus, 
+ <lora:thalassophobia_v10:0.8> underwater city, destroyed buildings, skyscrappers, ambient lighting, ruins, debris, shipwreck

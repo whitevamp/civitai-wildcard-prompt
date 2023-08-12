@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination,
+1girl, small breasts, pink hair, long hair, pink eyes,
+sexy office, lady, office uniform, office vest, micro skirt, (pastel pink uniform:1.5),  high heels,
+forest, stream,
+ <lora:office uniform:0.7>

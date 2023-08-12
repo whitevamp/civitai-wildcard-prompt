@@ -1,0 +1,10 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female,  soft light, (looking at viewer:1.4),
+realistic skin, eyeliner, 
+realistic, (photorealistic),
+cleavage,
+pigtail_hairstyle, dynamic pose, 
+2 pigtails,
+hannahowo,
+short leather dress, bedroom,
+ <lora:pigtail_hairstyle:0.4>
+ <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.7>

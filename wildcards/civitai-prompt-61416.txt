@@ -1,0 +1,7 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),
+<lora:Sailor_Mars_hino_rei-01:1> Sailor Mars,  purple eyes, black hair,red high heels,18 years old, black hair, bangs, long hair,
+1girl, full body, (naked), nsfw, (nude), standing, (abs:1.2), (muscular), wet skin, sweat,  (sunburn),(nsfw), 1girl, perfect breasts, [[open mouth]], (shy:1.1), (pubic hair:0.9), (1boy), (standing behind the girl), having sex, hetero,penis,sex, corneocowgirl,
+in the gym room,
+professional lighting, realistic lighting
+ <lora:hotsquat_v10:0.7>, hotsquat ,  <lora:femaleMasturbationBoob_v1:0.6>masturbation, fingering, (open clothes), ,female_masturbation, grabbing_own_breast
+,<lora:inPublic_v10:1.3>, public,photographer, foreground

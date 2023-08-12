@@ -1,0 +1,1 @@
+isometric 3d art of floating castle citadel, many multi-layered terraces, cobblestones, flowers, verdant, stones, colorfully moss, fish pool, waterfall, <lora:epiNoiseoffset_v30:1>, simple background, ultra realistic

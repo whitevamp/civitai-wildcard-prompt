@@ -1,0 +1,2 @@
+masterpiece, (photorealistic:1.5), realistic, best quality, beautiful lighting, professional lighting,
+the matrix, 1girl, black hair, blurry, blue eyes, looking at viewer, solo, parted lips, realistic, short hair, blurry background, lips, depth of field, portrait, film grain <lora:the_matrix_offset:1>

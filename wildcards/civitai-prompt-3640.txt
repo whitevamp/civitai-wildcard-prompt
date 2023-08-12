@@ -1,0 +1,5 @@
+(masterpiece, best quality), intricate details, (Best quality)), ((masterpiece)), fractal art:1.2), 
+1girl,   <lora:Juliette:0.7> Juliette, 
+extreme detailed eyes, highest detailed,  
+<lora:add_detail:0.6>, 
+ <lora:NoodleV4:0.8>

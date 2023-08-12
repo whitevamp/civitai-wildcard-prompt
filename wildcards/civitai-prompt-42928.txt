@@ -1,0 +1,7 @@
+beach, (((masterpiece))), backlighting, 
+1girl, (white hair:1.2),large breasts, (red eyes), long hair, (dark skin:1.6), breasts apart, looking at viewer, dark elf, naughty face, 
+shiny skin,  sweaty, wet, skindentation, hip bones, navel, feet, detailed feet, soles, 
+highleg swimsuit, shiny swimsuit, 
+
+<lora:mdaStarouStyleNSFW9mb_v2:0.7> 
+<lora:footjob_positionv2:0.9>

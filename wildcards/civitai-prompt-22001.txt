@@ -1,0 +1,2 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,realistic, 
+,from below,<lora:low_angle_scenery-10:0.7>,sky,cloud,dim light,light rays,low_angle_scenery, ,night,night sky,moon,forest,<lora:lowRA:0.5> ,tree,leaf

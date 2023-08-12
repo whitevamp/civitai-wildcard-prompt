@@ -1,0 +1,3 @@
+<lora:adjusting_clothes_ass_v0.1:1.0>
+1girl, adjusting clothes, ass,
+<lora:linen_dress_v0.3a:1> linen dress,, masterpiece, best quality, highly detailed

@@ -1,0 +1,4 @@
+professional photo of D5, tall, brown skin, dark skinned, moles, blonde hair, long blond hair, hair bangs, twin sidelocks with purple ribbons, light brown eyes, black lace choker, glasses, big breast, wearing black school uniform, mini skirt, black gloves, navel, black leg lace garter, standing, angry and concerned, bangs,
+detailed skin, detailed eyes, detailed face,
+volumetric light, highrez, masterpiece, best quality,
+<lora:D5:0.45:MIDD>

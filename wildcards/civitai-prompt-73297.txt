@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, pale skin, lipstick, dynamic pose,1girl,solo, low key, cold light 12000K, <lora:FilmG2:0.5>, <lora:BodHor-V1:0.2>

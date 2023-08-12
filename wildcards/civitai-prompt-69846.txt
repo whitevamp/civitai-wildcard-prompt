@@ -1,0 +1,5 @@
+(masterpiece, absurdres, best quality, highly detailed:1.2), beautiful gothic girl, holding a bright red rose, freckles, goth outfit, seductive look, upper body, portrait, night, dark theme, rsesofiko,
+<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.4>
+<lora:breastinclassBetter:0.4>
+<lora:gothGirlLora_v10:0.6>
+<lora:LowRa:0.6>

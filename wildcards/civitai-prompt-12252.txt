@@ -1,0 +1,3 @@
+(((a grandma playing on a pink modular synth))), knobs, sliders, LED, inputs, (((cables, patch cables))), text, logos ((best quality))> <lora:synth3:0.8>
+30mm photo, Raw photo, soft lighting, realistic, hard shadow, masterpiece, best quality, Intricate, High Detail, analog style, (soft focus:0.6), modelshoot style, film grain,
+ <lora:LowRA:0.2>

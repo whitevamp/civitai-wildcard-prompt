@@ -1,0 +1,3 @@
+masterpiece, best quality, cute and beautiful boy, highly detailed beautiful face and eyes,highly detailed skin,
+1boy, adult, cute boy, yaoi, black hair, brown eyes, nude, swim trunks, wet, blush, panty bulge, standing,  Background is pool side, ((full body)), 
+<lora:MISC_pantybulge_v1:0.8>

@@ -1,0 +1,7 @@
+best quality, ultra high res, (photorealistic), RAW photo,(DOF:1.5), (portrait),in classroom, curtains
+BREAK
+1japanese girl, solo, cute, kawaii, (brown eyes, catch light:1.4), natural skin, (short hair)
+BREAK
+(thin white bra)
+BREAK
+  <lora:FilmGX4:1> , <lora:sweetyMixGirl_V2:0.3>

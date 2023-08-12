@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1girl,   <lora:belleDelphine_shurikv4:1.1> belledelphine,  looking at viewer, smiling, brown hair, cat ears,
+gamer girl, sitting in office chair, computer desk, computer, keyboard,  saito_naoki,

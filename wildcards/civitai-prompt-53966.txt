@@ -1,0 +1,8 @@
+photorealistic, realistic, (8k, RAW photo, best quality,masterpiece,  ), ultra high res, perfect lighting,professional lighting, photon mapping, radiosity, physically-based rendering, extremely detailed face,portrait ((full_body picture)),((nsfw)), 
+1girl,solo,urban beauty,office lady,long_hair,purple eyes,(looking at viewer:1.2), smile,blush,beautiful full_body,open mouth,parted lipsteeth,red lips,licking lips,(slim body,curvy,narrow waist), tall,(shiny skin,Milky white,Skin is tender fair and clear:1.2), (seductive pose),charming,alluring,(suggestive pose),porn,erotic,enchanting,trembling,Panting,hand up adjusting eyewear,
+(unbuttoned clothes,bare large breasts:1.2),small areolae,puffy pink nipples,lactation, 
+(skirt_lift,Sexy Pudendal exposure),(female ejaculation),ultra detailed beautiful pussy,female pubic hair,pussy juice puddle,
+Open clothes,(flight attendant uniform,business uniform,Slim fit suit,button shirt,pencil bodyskirt),fine fabric emphasis,(skinny buttock),Untie lace trim underwear,Untie bare shoulders lace lingerie,slender thighs,garter belt,lace-trimmed thighhighs,(black silk),(high_heels),ribbon_trim, hair ornament, jewelry,necklace,earrings,choker,Loosen tie,
+indoors,meeting room,office,boardroom,library, Office chair,desk,
+<lora:cuteGirlMix4_v10:0.3><lora:koreanDollLikeness_v15:0.3>,
+<lora:lactation_v10:0.5>,<lora:betterLegwearsLora_offSet:0.3>, <lora:20d_v10:0.4>

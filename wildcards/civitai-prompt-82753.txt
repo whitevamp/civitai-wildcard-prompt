@@ -1,0 +1,10 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, wariza, bed, indoors, cowboy shot, from above, close up pussy,
+black hair, long hair, blue eyes, eye reflection, bright pupils, full blush, shy,
+large breasts, nipples, long nipples, puffy nipples, small areolae,
+(pussy, pussy juicy, pussy juicy trail:1.4),
+wet, sweat, steam, steaming body, heavy breathing, spread legs, hand behind back,
+<lora:masusu_v10:0.75>,
+clothes lift, mouth hold, <lora:ClothesLift_v1:0>,
+hat, monastarpact, <lora:mona1_000008:1>

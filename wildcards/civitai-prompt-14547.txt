@@ -1,0 +1,1 @@
+(masterpiece, best quality), (1girl), detailed eyes, earrings, ultra detailed, highly detailed, cinematic lighting, intricate details, (specular light:1.5), high contrast, colorful, glowing, shiny, upper body, Chinese clothes, see-through sleeves, (folding screen), (Chinese paintings), fireflies, <lora:add_detail:1>

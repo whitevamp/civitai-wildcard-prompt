@@ -1,0 +1,2 @@
+(Absurdres, Absurd Amount of Details, Intricate Details, Masterpiece, Best Quality, High Resolution, 8k), (1man), (male:1.2), 1 scruffy middle eastern man talking on his phone, stubble, colourful bomber jacket, buzzcut hair, open jeans, sitting in a crowded bus, bus crowd, surrounded by men, (talking on his phone), exposed penis, male masturbation, smirk, precum, (penis, testicles), finely detailed background, Depth of Field, VFX
+ <lora:add_detail:1> <lyco:GoodHands-beta2:1.0>

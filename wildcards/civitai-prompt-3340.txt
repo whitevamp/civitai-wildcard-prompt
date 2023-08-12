@@ -1,0 +1,1 @@
+Highly detailed, High Quality,beautiful, (masterpeace,best quality,standing,1boy,rance \(series\),blown hair,green clothes,white shoulder armor),smile, looking at viewer,<lora:rance_V1:0.9>   <lora:popupparade-10:0.95>

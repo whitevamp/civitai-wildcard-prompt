@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),ultra detailed,(photo realistic:1.4),forest_girl_v2,<lora:ForestGirl_v2:0.5>,(sexy lingerie:1.3),lying_bustup_shot, <lora:LyingBustupShot_v1:0.5>,

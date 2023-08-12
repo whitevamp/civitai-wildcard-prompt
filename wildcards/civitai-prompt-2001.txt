@@ -1,0 +1,1 @@
+(photo:1.3), (unbelievable:1.2),(detailed:1.0),(amazing:1.2),(color:1.2),(chiaroscuro:1.3),(cinematic:1.3),Ice-Fashion,<lora:Ice-Fashion-V1:0.9>,(sharp focus:1.2), portrait, ((posing)), (beautiful face:1.1), detailed eyes, luscious lips, ((skindentation)), depth of field, bokeh,

@@ -1,0 +1,2 @@
+<lora:LegoAIrev:1>  LegoAI
+coffee machine

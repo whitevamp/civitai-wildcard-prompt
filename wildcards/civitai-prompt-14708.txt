@@ -1,0 +1,1 @@
+1girl, paimon, genshin impact, white hair, floating crown, white clothes, <lora:paimonGenshinImpact_v10:1> , look at viewer, energy ball, electricity, aura, kamehameha, charging, <lora:Kamehameha_V1-10:1>, outdoors, forest, (daytime:1.5)

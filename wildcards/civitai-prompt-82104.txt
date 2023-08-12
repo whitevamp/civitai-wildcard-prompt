@@ -1,0 +1,1 @@
+(masterpiece, best quality, 8K, detailed), (reelmech:1), long hair,torn tight supersuit, glowing power aura, dynamic pose, from below, <lora:reelmech1v2:1>, ((full body)), closed eyes, crying, tears, fantasy, palace,  <lora:souryuuasukalangleyV9:0.6>, souryuu asuka langley, plugsuit 02, interface headset,  <lora:add_detail:1> , sharp focus

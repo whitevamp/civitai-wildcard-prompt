@@ -1,0 +1,5 @@
+1girl,solo,hetero,nsfw,(pov,licking my dick,penis:1.4),facial,cum, cum on face, cum in hair,looking up,ejaculation, 
+HDR, sharp focus,Masterpiece, (Best Quality), extremely detailed,hyper detailed,face lighting , (specular lighting:1), highres, absurdres, (realistic:1.2), (photorealistic),
+blush,(half-closed eyes),light smile,tongue,from above,saliva,cum on tongue,facing front,
+busy city,wide roadway, sweat,
+<lora:kasugano sakuraV1:0.85>,brown eyes, brown hair, short hair, bangs, ahoge, headband,white headband,hachimaki,serafuku, puffy sleeves, crop top, yellow neckerchief, pleated skirt, fingerless gloves, thighs, white socks, red footwear,  <lora:licking_my_dick.sd.v1.2:1>

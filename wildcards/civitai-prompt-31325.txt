@@ -1,0 +1,2 @@
+fantahouse, tree, flower,scenery, outdoors, tower
+ <lora:fantahouse-noise:1>

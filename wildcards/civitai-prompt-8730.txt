@@ -1,0 +1,5 @@
+1girl, ( narrow waist, european girl ), beautiful clothes, wheat field, (flying_hair, pubic hair), long hair, white dress, light smile, looking at viewer, 
+girlfriend, sunlight, nature light, 
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), 8k, clean, (incredibly absurdres, ultra-detailed,CG ,unity ,8k wallpaper), (Long eyelashes:1.1), light on face, huge filesize , depth of field, 
+ lips, young_ girl,  solo, (( real skin, middle_breast, )), 
+ <lora:add_detail:0.3> <lora:XXMix9_v20LoRa:0.4> <lora:XBV2:0.0> <lora:Astia3:0.3>

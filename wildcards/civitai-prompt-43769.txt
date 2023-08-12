@@ -1,0 +1,8 @@
+(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.3),(best quality:1.4),
+dreamlike,
+(detailed eyes),(detailed facial features), (detailed clothes features),
+skin tight, (shiny skin),(slender girl),(slim girl),
+1girl, ((full body)),solo,
+cute,smlie,
+<lora:VirtualGirl-Aim:0.3>,VirtualGirl-Aim, (medium breasts), bangs, straight hair, long hair, black hair, black eyes, crystal pendant,
+black Latex Rubber Tight Bodysuit,nipple protrusion,cameltoe,

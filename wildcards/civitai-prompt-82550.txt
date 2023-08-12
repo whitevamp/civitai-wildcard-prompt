@@ -1,0 +1,1 @@
+highly_detailed, wallpaper, 8k. illustration,highres,absurdres, 1girl, wading in water, in the style of studio ghibli, mossy ruins, swamp, tropical,  <lora:ghibliStyleConcept_v40:0.5>

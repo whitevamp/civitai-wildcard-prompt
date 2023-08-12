@@ -1,0 +1,6 @@
+(8k, masterpiece, best quality, ultra detailed, detailed eyes, perfect face), 
+beautiful woman,
+renaissance fashion, candy store, pointing pose, high-low pleated skirt, moto jacket, burgundy red hair, sleek high ponytail hairstyle
+<lora:1_add_detail:0.82>
+<lora:2_more_details:0.38>
+<lora:6_LowRA:0.29>

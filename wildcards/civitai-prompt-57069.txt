@@ -1,0 +1,12 @@
+masterpiece, realistic, detailed, antialiased, antialiasing, professional lighting, sharp focus, depth of field, tone mapped, bloom, glow,
+detailed skin, (freckles:0.3), glistening skin, monochrome, realistic, photograph,
+mature female, beautiful face, blonde hair, curly hair, putting hair up, hands in hair, detailed hair, green eyes, detailed hands, detailed fingers,
+closed mouth, slight smile, eyes closed, open eyes, curly hair, slim, blush, embarrassed, 
+natural breasts, (prominent nipples:0.4),
+german, <lora:germanBreasts_1:0.67>
+(sagging breasts:0.6), <lora:saggingBreasts_v10:0.8>,
+big natural breasts, <lora:jkBigNaturalBreasts_t02liteV01:0.4>,
+(gigantic breasts:0.8), breasts apart, 
+watch, cross necklace, (simple background:1.4), 
+(high heels:0.6), elaborate garter belt, <lora:garterBelts_v11:0.6>, thighhighs, (micro bikini:0.8), 
+1girl, solo,

@@ -1,0 +1,4 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed,      colorful, visual chaos,  captivating patterns, creative experimentation, highest detailed,
+(1man, wrinkled face, old byzantine male:1.2), wise,  blue eyes, silver hair, french crop,
+(style-swirlmagic:0.8),  looking at viewer, solo, (full body:0.6), detailed background, detailed face, (renaissance theme:1.1), light smile, charlatan, wearing (dark red:0.7) witch hat, armbands, rustic hut in the forest, outdoors, simple staff,  ivy,     spices,     potions,     sunset, low light
+<lora:zaunT_zaunV1:0.3>,

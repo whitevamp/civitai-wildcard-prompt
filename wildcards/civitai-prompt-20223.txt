@@ -1,0 +1,2 @@
+<lora:hairdetailer:0> <lora:add_detail:0.5> <lora:copax_charm_eu:0.2> (1girl,3d, photorealistic,masterpiece, best quality, intricate, skin indentation), face smiling, from back view, diners room, table, chair, fruit, food, paper,
+<lora:SaraLove_v1.1:0.20> girl, wide hips, wearing a fabric outfit

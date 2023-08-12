@@ -1,0 +1,2 @@
+masterpiece, best quality, standing, from below,
+<lora:Ver2-10:0.8>, arms up, bunnysuit, bunny ears,

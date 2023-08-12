@@ -1,0 +1,3 @@
+best quality,<lora:add_detail:0.3>, (1girl, solo, adult female, mature female), 
+<lora:character_cynthiaPokemon_(cynthia (pokemon)):0.9>, cynthia \(pokemon\), hair ornaments, blond hair, black fur-trimmed coat, black clothes, 
+<lora:concept_costume_sunglasses_(Glasses--Sunglasses--Aviators):1.1>, (Aviators, black Aviators, covered eyes), explosion background, fire background, windy, cool, arms outstretched, grin,

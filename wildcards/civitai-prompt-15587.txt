@@ -1,0 +1,1 @@
+1girl,ikishima midari, short hair, black hair, eyepatch,school uniform, red sweater, black skirt,masterpiece,(saliva:1.2),gesugao,psycho smile,madness,open mouth,breathing,heavy breathing,tongue out,yandere,extremely detailed CG unity 8k wallpaper, best quality,32k,focus sharp,  <lora:Kizuki - Kakegurui Ikishima Midari LoRA:1>, <lora:add_detail:1>, <lora:yameroyandere-v2:0.7>

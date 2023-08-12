@@ -1,0 +1,3 @@
+masterpiece,best quality,highres, ultra-detailed, solo,vivid,smile,
+1girl, jk, solo, looking at viewer, ponytail,  black hair,  closed mouth,  white shirt, outdoors, black skirt,  black bowtie, (upper body:0.66), park,outdoors,depth of field,
+<lora:detailed_eye:0.4>, <lora:FilmVelvia2:0.4>, <lora:add_detail:0.4>

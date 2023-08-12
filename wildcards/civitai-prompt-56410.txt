@@ -1,0 +1,1 @@
+shiny_eyes,[:(detailed face:1.2):0.2],nsfw,high quality, best quality,masterpiece, 1girl,school uniform, looking at viewer,skirt lift,(panties:0.00001),classroom,smile, <lora:pnxJpSchUniSktLft:1>,(red_jogging bottoms:1.2)

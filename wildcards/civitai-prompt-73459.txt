@@ -1,0 +1,2 @@
+((best quality)), ((masterpiece)), (detailed), ultra detailed, ((dungeon master))
+ <lora:Masterpiace:0.7>

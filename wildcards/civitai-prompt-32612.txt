@@ -1,0 +1,2 @@
+(masterpiece), (best quality:1.2), (highest resolution), (solo), elf, post processed, dynamic lighting, skin texture, rule of thirds, majestic, sharp details, sharp focus, (huge breasts), (thick thighs), (blonde braid long hair), tonned body, intricate jewelry, (gorgeous blue eyes), (eyelashes), (blue skimpy dress), (city background), night, (streets), smirk, 
+ <lora:bodycon:0.6> <lora:Art_kawahagimizuki:0.7>

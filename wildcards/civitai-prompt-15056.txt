@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details,
+(1girl),     <lora:CeresFauna:0.8> Ceres Fauna, antlers, long hair, braided bangs, hair flower, Ceres Fauna, antlers, print bikini, cow print
+ <lora:concept_bubbleteachallenge:0.8> bubble tea challenge, drinking straw, crossed arms,

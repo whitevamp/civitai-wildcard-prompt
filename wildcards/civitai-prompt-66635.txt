@@ -1,0 +1,1 @@
+Tokyo street,night,1girl,  <lora:sd-No.166-000014:0.8>,upper body, face focus,school uniform,, 8k, RAW photo, best quality, masterpiece,realistic, photo-realistic,

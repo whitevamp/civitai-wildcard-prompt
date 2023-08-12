@@ -1,0 +1,6 @@
+(highres, best quality:1.2), intricate details, vibrant image, sharp focus, colorful, 
+SaekiSayoko, mature female, standing, horny, blush, half-closed eyes, open mouth, 1girl, 3boys, (ass grab, hand on ass:1.1), chikan, pub background, night, window, moon
+[brown|purple|black] hair, short hair, single hair bun, choker, makeup, perfect face, detailed face, blue eyes, perfect eyes,
+white shirt, black pencil skirt, highheels, skirt lift,
+curvy, large breasts, cleavage, ass
+ <lora:SaekiSayoko-000010:0.9> <lora:graa:0.8>

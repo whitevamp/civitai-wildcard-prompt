@@ -1,0 +1,5 @@
+san (mononoke hime)  girl ,cool ,(tsurime) ,black_eye ,black_hair ,center_division_shorthair ,messy hair ,v-shaped_eyebrows ,redpaint ,blood ,
+sleeveless(white) ,black_pelt_skirt ,fur_cape ,toothnecklace ,earrings ,circlet ,pelt ,stylish pose
+forest ,knife ,with_white_dog
+masterpiece best quality ultra-detailed high resolution extremely detailed CG unity 8k wallpaper by famous artist caustics textile shadingsuper detailed skin perfect anatomy detailed cinematic lighting dynamic lighting beautiful detailed eyes
+ <lora:studioGhibliStyle_offset:0.5>

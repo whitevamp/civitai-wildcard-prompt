@@ -1,0 +1,4 @@
+jpn-girl,
+(holding a pink heart with text "JPN GIRL" on it:1.4), bikini,
+(cleavage:1.3),
+, <lora:jpn-girl_v1:0.7>,

@@ -1,0 +1,1 @@
+1girl, bodysuit, cowboy shot, diffused lighting, cinematic lighting, depth of field, high quality, highly detailed, detailed face, Anime, SF, space,  <lora:translucentSkin_v10:1.2> TRANSLUCENT SKIN, MECHANICAL, nsfw, (translucent pussy:0.9), (translucent nipples:0.8), (cameltoe:0.9) <lora:clothesSpacesuit_v10:0.8> (spacesuit:0.8) <lora:dalcefoV3PaintingLora_v1:0.6>

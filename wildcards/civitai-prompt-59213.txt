@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,  (Authentic skin texture:1.2), in the dark, deep shadow, low key, (film grain:1.3), (cold light:1.2),  panorama,  cowboy shot, 
+shower,
+1girl, beautiful detailed eyes and face, perfect body, narrow waist, dynamic pose, brown eyes, short curly hair, wet hair,  messy hair, bow camisole, navel, wet dress, 
+<lora:asianGirlsFace_v1:0.7> <lora:fashionGirl_v53:0.3>

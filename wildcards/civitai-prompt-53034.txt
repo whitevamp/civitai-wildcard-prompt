@@ -1,0 +1,1 @@
+1girl, bodysuit, cowboy shot, diffused lighting, cinematic lighting, depth of field, high quality, highly detailed, detailed face, PVC doll, smooth skin, SF, space,  <lora:translucentSkin_v10:1.2> TRANSLUCENT SKIN, MECHANICAL, (translucent pussy:0.2), (translucent nipples:0.2), (cameltoe:0.2) <lora:clothesSpacesuit_v10:0.8> (spacesuit:0.8)

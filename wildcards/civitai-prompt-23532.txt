@@ -1,0 +1,13 @@
+masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, anime key visual, official art, (anime, 2020s anime style:1.1), (illustration:0.2), (beautiful detailed eyes), (nice hands, perfect anatomy, perfect hands), 
+<lora:GoodHands-vanilla:1>, <lora:epiNoiseoffset_v2Pynoise:1.0>, <lora:flat2:-0.3>, <lora:lit:0.2>, <lora:hipoly3DModelLora_v10:0.3>
+1girl, solo, 
+natural lighting, cinematic lighting, intricate shadow, hdr, volumetic lighting, highly detailed background, (indoors, stadium:1.2), 
+(smile, open mouth:0.9), looking at viewer, (dynamic angle, dutch angle:1.2), (depth of field:1.5), zettai ryouiki, (close-up:1.4),
+(from below:1.2)
+(large breast:1.2), BREAK
+<lora:idol_costume_style4_v1:0.7>, BREAK
+boots, BREAK
+(idol_costume, idol), (stage, large stage speakers, large stage speaker allay:1.3), (stage lighting, stage spotlight, lens flare:1.1), (light particles:0.4)
+(standing on stage:1.2), BREAK
+(hand up right hand, holding 1microphone with left hand:1.2), BREAK
+<lora:Seela_McClegg:1>, seela mcclegg, aqua hair, low-tied long hair, very long hair, glasses, round eyewear, (anime, retro artstyle, 1990s \(style\):1.3), <lora:animeoutlineV4_16:0.5>

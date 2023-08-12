@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl,  full body, (club:1.2), nightlife, party, dance party, club atmosphere, natural skin texture, naked, dynamic pose, long legs, beautiful legs, film grain, <lora:InstantPhotoX3:0.5>  <lora:ClothingAdjuster3:0.2>

@@ -1,0 +1,2 @@
+<lora:DemonicTech-20:0.8>, demonictech , scifi,
+coffee machine ,  mug,

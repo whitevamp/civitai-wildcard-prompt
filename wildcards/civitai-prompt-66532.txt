@@ -1,0 +1,10 @@
+best quality, masterpiece,
+raw photo, photorealistic,
+huge filesize, absurdres, incredibly absurdres, 
+1girl, solo,slim girl,
+sitting, indoor,
+beautiful face, an extremely delicate and beautiful face, an extremely detailed face, smile,
+small breasts,fantasy breasts, skinny, ((white bar)),(underwear only:1.1), 
+(school uniform:1.3), 
+white socks, 
+<lora:CuteGirlMix4:0.5>,mix4,  <lora:zhoushuyi:0.25>

@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette,  (movement:1.4), <lora:add_detail:1> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+(1man, wrinkled face, old jewish male:1.2), wise,  light blue eyes, light blonde hair, short mustache,
+  looking up, solo, (full body:0.6), detailed background,  marble buildings, olive trees,  ancient roman theme, smirking, assassins creed,  assassin, hidden wrist-blade, white tattered  assassin clothes, hood, cloak, leather pouches,  straps, undercover, dynamic pose,  market stalls in background, floating particles,  wind,
+<lora:3DMM_V12:0.25>, 3DMM,

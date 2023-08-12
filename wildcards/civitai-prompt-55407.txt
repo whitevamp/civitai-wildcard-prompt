@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+
+1girl, <lora:blackfireLora_v10:0.8> blackfire, black, purple, long hair, parted bangs, 
+
+
+ <lora:80sFantasy_v20:0.4> 80s, movie, poster, fantasy,

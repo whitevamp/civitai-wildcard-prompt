@@ -1,0 +1,5 @@
+1girl, woman, solo, black hair, blunt bangs, blunt ends, nsfw, smooth body, soft skin, wet skin, water drops, medium breasts,
+BREAK bikini,
+BREAK looking at viewer,
+BREAK outdoors, beach,
+BREAK <lyco:GoodHands-beta2:1.0>, (masterpiece, best quality, ultra-detailed), high resolution, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, (perfect hands, nice hands, perfect anatomy),

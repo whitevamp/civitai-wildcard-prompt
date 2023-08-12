@@ -1,0 +1,5 @@
+1girl,exquisite nose,thin lips,long hair, (nude), standing,
+outdoors,cityscape,crowd,glass,breasts on glass,people,
+<lora:breasts_on_glass:1>,
+(huge breasts),milk,water drop, wet,steam,pussy,completely nude, 
+ <lora:GreenHeartWhite:0.7>,greenx, very long hair, ponytail, heart-shaped pupils, lactation, ((open_hand)) ,

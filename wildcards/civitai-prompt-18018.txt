@@ -1,0 +1,2 @@
+A photo of a gothic girl with lustrous, white hair. She is adorned in a long, flowing red velvet gown with intricate lace details, accentuating her slender silhouette. The moon casts a soft, ethereal light, highlighting her pale complexion
+ <lora:VictorianGoth:1> 66Vic22Goth11 style

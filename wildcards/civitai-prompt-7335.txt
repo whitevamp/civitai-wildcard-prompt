@@ -1,0 +1,12 @@
+a woman, 1girl, [robotic limbs],
+sci-fi, science fiction, cyberpunk, spaceship, spacecraft,
+wires, cables, circuits, coil, circuitry,
+full_body,
+hacker,
+(hologram),
+wings, cloak,
+neon lights,
+twisted, (tangle, entangle), swirl, spiral,
+glowing, (aura), chaos, shimmer,
+magical, magic, mystical, 
+<lora:more_details:0.3>

@@ -1,0 +1,1 @@
+masterpiece,best quality, pixar,(portrait, close-up :1.2), 1girl, solo, VioletParr <lora:VioletParr:0.9>, mask, red bodysuit, superhero, red headband,  looking at viewer, long black hair,  smile, shy,  sfw

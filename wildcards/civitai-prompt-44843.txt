@@ -1,0 +1,3 @@
+1 woman, Caucasian, sexy pose, sly smile, naked,  [shaved hair:long hair:0.7], dark background, (tan:1.31), choker, (makeup:1.5) 
+Audrey Hepburn, [flat chest:huge breasts:0.9], detailed skin, (anorexic:1.0), detailed nipples
+ nvjobfc <lora:add_detail:0.7>  kodachrome <lora:detailed_eye:0.3>

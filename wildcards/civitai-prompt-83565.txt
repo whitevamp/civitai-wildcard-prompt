@@ -1,0 +1,6 @@
+masterpiece, best quality, absurdres,
+looking at viewer, full body, 
+<lora:SideFellatio:1> (sidefellatio:1.2), 1boy, [penis], fellatio, saliva, drooling, from side, navel, skirt, 
+<lora:LanaHyruleWarriors:1> blue hair, hair ornament, ponytail, purple eyes
+<hypernet:MCTerasuMcStyle_v2:0.2>
+huge penis

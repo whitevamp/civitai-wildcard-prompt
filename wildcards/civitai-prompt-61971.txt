@@ -1,0 +1,3 @@
+(1man, muscular, adult  male:1.2),  turquoise eyes, black comb over,
+  looking down, solo, (full body:0.6), detailed background, close up, cold detailed face, (dark sinister underworld theme:1.1), crystal mage, levitating, sitting, elemental rock themed clothes, crystal crown, rocks floating in the air, glowing  minerals, surrounded by blue  jewels, ruby, rock formations, stalagmites, crystalline pattern, magical floating particles,   crystal sphere, crystal canyon background, (shallow water:0.7),  cinematic ethereal atmosphere,   
+<lora:style_adventurers_v1:0.4>

@@ -1,0 +1,1 @@
+(full shot, full body), woman, 1girl <lora:shirtliftv1:1>, shirtlift, <lyco:CulturePunkBundle-000007:0.6>, zulupunkai, zulu

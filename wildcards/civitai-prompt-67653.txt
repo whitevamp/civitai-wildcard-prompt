@@ -1,0 +1,3 @@
+<lora:lizardman_v0.1c:1.0>
+1girl, 1boy, lizardman, screaming, teeth, drooling,
+<lora:dungeon_v2.0:1> dungeon,, masterpiece, best quality, highly detailed

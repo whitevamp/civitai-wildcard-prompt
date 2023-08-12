@@ -1,0 +1,2 @@
+masterpiece, high quality photography of (Beautiful) merida  in Pixar brave, ( curly redhead woman), (oversized_sweater:1.2), (long smooth hair), (detailed face), (green eyes), (good hands), maximum details, (FOCUS), (diffuse soft lighting), CANON EOS R3, (fur carpet), (fireplace:1), (spread legs:1.2), (rised knees), , naked legs, (bare shoulders:1.2), (bare nack:1.3), (window, outside snowing), (neckline)
+  <lora:add_detail:1>

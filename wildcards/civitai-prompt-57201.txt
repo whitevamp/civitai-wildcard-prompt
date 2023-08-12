@@ -1,0 +1,2 @@
+best quality, intricate details,
+ <lora:adAmericana_v10:0.8> Ad Americana Style,  vintage painted advertisement, retro 1950's style,  1girl, woman, diner, apron,

@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl, solo, solo focus, looking at viewer, pervert,  sexy, curvy, gigantic breasts,  simple background, (heavy breathing, open mouth:0.4), (disdain:0.8), (annoyed), blush, pervert, on bed, (pubic hair, female pubic hair:0.6), (pussy juice:0.4), sweat, legs, (topless:1.24)
+shiranui,
+1boy, penis, imminent penetration, lying, on back, spread legs,
+<lora:shiranuiMizukiFromTaimanin_v1:0.55>,  <lora:povImminentPenetration_ipv1:1>

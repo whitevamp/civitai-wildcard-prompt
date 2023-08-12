@@ -1,0 +1,4 @@
+(masterpiece, best quality, highres:1.4), absurdres, 1girl,HUGE breast, star eye, (princess peach), blush, (realistic:1.5), blue eyes, happy, BREAK,cute girl,white arm glove, 
+cowboy shot,perfect illumination, distinct,  looking at viewer, sidelighting, perfect face, detailed face, bangs, perfect body, beautiful eyes, pretty face, bright skin, idol,
+beautiful castle, <lora:peach:0.5>  <lora:add_detail:0.4>, sexyqun001 <lora:sexyneiyi_v2:0.6> pink lingerie, pink garter straps, lace,
+lots of mushrooms BACKGROUND,

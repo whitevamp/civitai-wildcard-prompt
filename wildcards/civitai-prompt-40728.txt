@@ -1,0 +1,1 @@
+best quality, realistic, vray, hdr, in a post-apocalyptic abandoned workshop, scattered rusted tools, lingering oil smell, yellowed blueprints., by David LaChapelle,  <lora:PostApocalypticXL_v1:0.6> SZ_4poXL enviroment

@@ -1,0 +1,1 @@
+a girl  ,green | cyan  dress ,sitting   on a large lotus leaf,Waterfowl,sunlight,   <lora:guofengmeizia:0.85>

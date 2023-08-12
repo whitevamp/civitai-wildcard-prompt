@@ -1,0 +1,5 @@
+(8K, HDR) <lora:add_detail:0.7>
+
+AND illustration," 1girl, blood-red eyes that glow ominously, running for her life, snowy landscape, towering icebergs, chilling wind, fear-stricken expression, adrenaline pumping, desperate escape, suspenseful atmosphere, heart-pounding chase, survival instincts kicking in, cute skirt<lora:skirt_tug_v0.1:1> clothes tug, skirt tug, dress tug, shirt tug, sweater tug ,peeing self ,pee stain
+
+AND a polar bear <lora:werewolf_v0.2:1> <lora:volibearV1:0.2>

@@ -1,0 +1,4 @@
+1girl crouching, artoria pendragon \(fate\) , armor, frown, ((battle stance, fighting stance)) glowing ((blue eyes)), (glowing sword excalibur \(fate/stay night\):1.1)
+ ((indoor)), church window, dim moon light, dramatic lighting, (dynamic pose)
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2), (ultra_highres), (ultra-detailed), absurdres, 
+<lora:epiNoiseoffset_v2:1.5>   <lora:ironcatlora1Artoria_v10:0.9>

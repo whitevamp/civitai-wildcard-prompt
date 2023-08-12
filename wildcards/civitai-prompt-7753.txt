@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, extremely detailed 8k wallpaper, very clear, <lora:lowra_v10:.7> <lora:epiNoiseoffset_v2:1>

@@ -1,0 +1,1 @@
+quantumstyle  <lora:quantum_model:0.5> city

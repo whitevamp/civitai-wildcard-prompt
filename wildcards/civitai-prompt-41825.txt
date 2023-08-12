@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, sharp focus, depth of field, 
+Ingrid, mature female, (dark-skinned female:1.1), (on knees:1.1), sitting, looking at viewer, spread legs, nude, street, night, city lights,
+open mouth, tongue out, ahegao, rolled eyes, 
+pink hair, very long hair, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, 
+black turtleneck, underboob, sign around neck, elbow gloves, high boots, 
+curvy, huge breasts, nipple slip, pussy
+<lora:IngridV2:0.87>   <lora:PetShamingV1:1.1>

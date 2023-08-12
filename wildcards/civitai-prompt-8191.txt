@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.5), best quality, beautiful lighting, (ulzzang-6500:0.8), 
+
+tifa lockhart, final fantasy vii remake, 1girl, ankle boots, black hair, black skirt, black thighhighs, boots, breasts, cityscape, crop top, elbow gloves, elbow pads, fingerless gloves, full body, gloves, lips, long hair, (looking at viewer), low-tied long hair, medium breasts, nose, (red eyes:1), red footwear, signature, single elbow pad, sitting, skirt, solo, sports bra, suspender skirt, suspenders, stockings, tank top, thighhighs, white tank top, midgar, green light, night, yellow flowers <lora:tifa_lockhart:0.5>
+
+, RAW photo, 8k uhd, dslr, soft lighting, high quality, (film grain:1), Fujifilm XT3

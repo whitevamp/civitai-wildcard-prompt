@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, clean facial features, flat desigen, wide shot, face to viewer,
+(two girls), head to head, sitting pose, close to each other, (sleeping:1.3), (both eyes closed:1.3), 
+cute yellow dress, kawaii, simple background,  cure, zhiyu,  <lora:cure v1:0.6>,  <lora:starlight:0.4>, star, glowing in the dark

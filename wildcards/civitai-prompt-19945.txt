@@ -1,0 +1,2 @@
+realistic,photo, masterpiece, best quality, 1girl, sitting, spread legs, NijouShizue, solo, mature female, squining, half closed eyes, blonde hair,panties, cameltoe, short hair, single hair bun,large breasts, cleavage, makeup, lipstick, blue eyes, jewelry, earrings, choker, white shirt, miniskirt, belt, high heels, solo, smiling, parted lips, blushing, embarrased, alcohol, drink, school, classroom, table, blackboard, cleavage,
+<lora:NijouShizue-000009:0.8>, <lora:butcha-u-style-v1:0.6>

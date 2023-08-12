@@ -1,0 +1,1 @@
+highres, masterpiece, adult, perfect skin, female, looking at viewer, detailed face, portrait, nude, naked, large breasts, wide hips, <lora:breastinclassBetter:0.2>, alphonse mucha, <lora:mucha:0.6>  <lora:animetarotV51:0.5>

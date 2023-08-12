@@ -1,0 +1,5 @@
+extremely detailed, (full body), color photo, masterpiece, looking at camera, eye contact, shot on CineStill 800T, ((ultra realistic detailed skin)),
+((film grain, skin details, high detailed skin texture, 8k hdr, dslr)
+nsfw, ((1girl)), perfect, sexy, east asian, thin, thin body, small boobs, pale skin, white skin, textured hair, wavy hair, middle part, thin hair, layered hair, (dyed white hair), short hair, sexy hair, extremely sexy, small frame, young, woman, mouth slightly open,
+in dark alleyway, 12am, midnight, standing, posing for photo, no lighting, night time, dark outside, no outside light, no electricity, no lights, (wearing loose hanging off shoulder shirt), nipslip, skimpy shorts
+<lora:flashlightphoto_v1.5a:1> <lora:RealDownblouse15_v2.50:1>

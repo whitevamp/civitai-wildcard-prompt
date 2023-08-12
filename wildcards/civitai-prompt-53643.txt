@@ -1,0 +1,5 @@
+<lora:BibleBlackSaekiKaoriSchool_v10:0.7>
+saeki kaori,
+masterpiece, best quality,1girl,solo,(mature female:1.4)
+torn_school_uniform, unbuttoned,  opened shirt, opened clothes, (bare_shoulder:1.7),
+looking at viewer,nsfw

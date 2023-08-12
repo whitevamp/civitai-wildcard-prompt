@@ -1,0 +1,4 @@
+best quality, face focus, soft light, (depth of field) ,ultra high res, (photorealistic:1.4), RAW photo, (portrait:1.4) ,(from front)
+1japanese girl, solo, cute, (shy, smile:1.1), (brown eyes),  detailed beautiful face, (midi_hair),
+The Great Hall of a European Castle, walking,
+(off shoulder shirt) <lora:japaneseDollLikeness_v10:0.3>

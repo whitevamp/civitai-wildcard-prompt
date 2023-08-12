@@ -1,0 +1,15 @@
+(masterpiece),(best quality),(ultra-detailed), intricate design,
+(full body:1.2),
+1girl  in a small bar,
+
+(chibi:1.1),
+
+cute, smirk,  [(dark hair)], [(black eyes)],
+
+earrings,
+
+detached collar, black leotard, bare legs, playboy bunny, covered navel, red bowtie, ahoge,
+
+seductive posture,
+
+(beautiful detailed face), (beautiful detailed eyes), <lora:blindbox_V1Mix:1> by

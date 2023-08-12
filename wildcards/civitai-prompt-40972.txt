@@ -1,0 +1,6 @@
+RAW photo, portrait, 
+a Caucasian blonde MILF with embarrassed smile is wearing navy buruma and shirtlift gym uniform to show large breast and sitting on (huge silver soapmat) in soapland with (huge bathtub)
+<lora:real_model_buruma:1:1:lbw=0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1>
+<lora:real_model_suppin:-0.5>
+<lora:shirtliftv1:1:1:lbw=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0>
+<lora:SoapLand_V3:1:1:lbw=1,1,1,1,1,1,1,1,1,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1>

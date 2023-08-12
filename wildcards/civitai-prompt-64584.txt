@@ -1,0 +1,4 @@
+masterpiece, best quality, extremely detailed, intricate, full length shot,realistic, photo-realistic,
+1boy, a topless extremely handsome  guy, torn male underwear, muscular male, abs, big pectoralis , bare legs, white socks, shiny skin, detail face, grey bright eye, black hair, choker, 
+indoors, looking at viewer, 
+<lora:chineseMaleLikeness_chineseMaleLikeness3:0.72> <lora:epiNoiseoffset_v2:0.5> <lora:handsomeMan_v10:0.41>

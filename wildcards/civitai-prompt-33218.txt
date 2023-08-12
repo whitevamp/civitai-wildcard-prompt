@@ -1,0 +1,3 @@
+sitting on barstool in detailed bar, (reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, extremely beautiful detailed face, best shadow, 
+medium breasts, platinum blonde hair, long hair, stlouis, female in her Late twenties, (evening gown, plunging neckline)), Russian, blue eyes, 
+AS-Adult, <lora:hairdetailer:0.2>, <lora:stlouis:0.8>,

@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4),vibrant colors,captivating scene, refined style,lifelike rendering, immersive atmosphere, chiaroscuro, moody lighting,
+1girl,solo,half naked,cleavage,
+(dazzling effulgence, magnetic brilliance, iridescent gleam, transcendent ambiance, entrancing tonality, beguiling saturation, alluring vibrancy, theatrical chiaroscuro, mystical presencea:0.9),
+<lora:lowra_v10:0.5>  <lora:oc_v10:0.23>

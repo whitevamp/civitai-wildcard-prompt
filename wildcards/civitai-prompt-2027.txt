@@ -1,0 +1,3 @@
+1boy, dark scene, cowboy shot of batman, athletic, white eyes, no pupils, night city, mist, particles, male focus, mask, muscular, muscular male, ragged and torn cape, night, outdoors, rain, serious, dark armosphere, detailed background, jim lee, 
+
+<lora:jim_lee_offset:1>

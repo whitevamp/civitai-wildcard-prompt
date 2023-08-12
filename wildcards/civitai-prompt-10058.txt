@@ -1,0 +1,3 @@
+Photo of Wonder Woman standing at the top of Mount Everest, with tents visible in the background.
+red lips, (tents:1.2)
+ <lora:ww_v1:0.4>

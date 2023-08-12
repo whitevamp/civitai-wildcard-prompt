@@ -1,0 +1,25 @@
+(hyper-detailed:1.4), ultra-detailed, sharp, crystal clear, HDR, absurd res, (realistic:1.4), insane details,
+sunlight, dramatic shadows, 
+no borders, flat canvas, linear,
+(extra dimensions), ((mixed reality)), mind forever voyaging,
+,
+uncentered explosion,
+(((space age))),
+<lora:1001ArabianNights:0.5>
+,
+multi-colored smoke
+,
+Polychromatic,
+your heart is a twisted vine
+,
+if I could put time in a glass jar
+Psychedelic, Nebulous
+lightning strikes as many times as it needs to, the music of the spheres,
+Impressionistic A Horse misusd upon the Road
+  ,
+I have seen them riding seaward on the waves,
+,
+Almond,
+perfect eyes, focused,
+<lora:more_details:0.6>, <lora:wowifierV3:0.9>, 
+<lyco:locon_perfecteyes_v1_from_v1_64_32>, <lora:Elixir:0.3>

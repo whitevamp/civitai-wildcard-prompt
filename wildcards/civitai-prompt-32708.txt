@@ -1,0 +1,4 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,short hair, bikini, upper body, smile,sky,beach,necklace, 
+outdoors, day,depth of field, 
+<lora:add_detail:0.6>, <lora:FilmVelvia2:0.4>

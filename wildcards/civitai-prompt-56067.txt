@@ -1,0 +1,18 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,
+pov,(fisheye lens:1.4),(from below:1.2),
+(troubled eyebrow,angry:1.3),(looking at viewer:1.4),
+(supermodel:1.4),
+(indoor,luxury hotel,bedroom:1.4),
+(schoolgirl_uniform,long sleeve dress shirt,black pleated skirt,black black_socks,simple choker:1.2),(ear piercing:1.2),(black surgical mask:1.4),
+(black hair),(ponytail,medium length hair),
+
+(wide_hips:1),(milf,mature,35 years old:1.2),
+(muscular:1),
+
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:Cnbeauty4_v1:0.6>,
+
+1boy,1girl,
+ <lora:conceptLargerInsertion_v10:0.75>,(large insertion:1),sex, vaginal,girl_on_top,cowgirl position,
+(pubic hair,large penis,thick penis:1.2),
+(legs wide spread:1.4),(leaning forward:1.2),

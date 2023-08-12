@@ -1,0 +1,3 @@
+An adorable cute tiny little tabby kitten (wearing a suit of mechanized tigerstripeAI Parrley_armor), using an explosive rocket jetpack to fly up toward precious objects on a high shelf in a bedroom.
+best quality, highres, high resolution, sharp focus, high detail, cinematic shadow, sidelighting, motion blur.
+<lora:LowRA:0.5> <lora:Parrley1:0.8> <lora:TigerstripeAI:0.6>

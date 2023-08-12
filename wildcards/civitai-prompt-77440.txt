@@ -1,0 +1,5 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,
+8K, HDR, highres, absurdres,1girl, 
+bandaids on nipples, shirt, bandaid, shirt lift, no bra, large breasts, on the street ,
+wearing mask,pink short hair,smiling eyes,
+ <lora:bandaids_on_nipples:0.9:1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0>

@@ -1,0 +1,1 @@
+<lora:crop_shirt_underboob:0.7>  crop shirt underboob, crop top, underboob,kaga(azur lane),white hair, blue eyes, fox ears, fox girl, short hair, animal ear fluff, multiple tails, fox tail, animal ears, kitsune <lora:kaga:0.7>

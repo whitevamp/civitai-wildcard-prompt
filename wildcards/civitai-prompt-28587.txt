@@ -1,0 +1,1 @@
+(masterpiece,best quality, high resolution:1.2), dynamic lighting,  <lora:tow-concept-richy-v2:1> , <lora:YaeMikoFox:1>, girl YaeMikoFox aiming, scope, tripod,towlauncher , <lora:add_detail:0.45> ,

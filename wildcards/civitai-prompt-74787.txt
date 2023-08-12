@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, <lora:AsuiTsuyu:0.7> asui tsuyu, black eyes, very long green hair, teenage, long eyelashes, slender, medium breasts,
+<lora:Asian_Urban_Gal:0.7> urban gal, wearing urban gal, fishnet, strap, buckle, hoodie, <lyco:envybetterhandsLocon_beta2:1.0>

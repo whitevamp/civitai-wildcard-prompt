@@ -1,0 +1,3 @@
+1girl,msw,Build a top-notch, best quality illustration, Female Viking, Average Height, Athletic, Square Face, fair skin, White Hair, black Eyes, Straight Nose, Thin Lips, Round Chin, Shoulder-Length Hair, Thick Hair, Braided Updo, firm breasts, Huggie earrings, fuchsia satin lipstick, Land Art, delicate, jumping, T-shape, Lightning,
+(effect lighting),intriguing expression,
+<lora:msw_v10:1.1> <lora:difConsistency_photo:0.55>,

@@ -1,0 +1,6 @@
+(one male:1.9) (1boy:1.9) (rear view:1.6)
+Very detailed flawless handsome face, detailed open eyes, heroic, bodybuilder, (big muscles), (big pectorals), hairy, narrow waist. (Long hair). Realistic face, realistic eyes, (smile).
+neck chain, (nude:1.9) (completely naked)
+Desert, cactus plants, scrub, blowing dust. Dilapidated shack. Sunset.
+Realistic, high contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light, vibrant colors, depth of field.
+<lora:BulkedUpAIR1.5:0.4>

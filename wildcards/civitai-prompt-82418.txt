@@ -1,0 +1,1 @@
+(masterpiece), 1girl,(fluorescent colors:1.4),(retro filters:1.4), (fantasy:1.4),nude,nsfw, <lora:CyberPunkAI:1> <lora:FilmG4:1>

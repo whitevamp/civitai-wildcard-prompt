@@ -1,0 +1,3 @@
+A huge fuzzy pink plush Furby allymech battlemech fighting in the smoking rubble of a city block, flames, smoke, debris, falling rubble, twisted metal, 
+highres, high resolution, detailed, cinematic, artistic shadow, light glow.
+<lora:LowRA:0.3> <lora:add_detail:0.3> <lora:allymech:0.7> <lora:Furby_SD_EP10_V1:0.7>

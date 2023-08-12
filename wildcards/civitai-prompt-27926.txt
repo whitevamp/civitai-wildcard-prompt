@@ -1,0 +1,2 @@
+(2girls, princess carry:1.4), shy,nude, heart,underwater,(kiss,french kiss,:1.2) ,multicolored hair, closed eyes,(air bubbles:1.2), absurdres, ass, cleft of venus,
+<lora:princess_carry_v0.1:1>, masterpiece, best quality, highly detailed, (hydrotech , scifi:1.1),  <lora:HydroTech:0.7>,(coral reef,algae:1.2),(glass buildings:1.1), masterpiece, best quality, highly detailed, (8k), (4k), HDR, beautiful detailed girl, beautiful detailed face, beautiful detailed eyes, perfect shadow, masterpiece, best quality, perfect skin, shiny skin, perfect hands, perfect girl,

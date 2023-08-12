@@ -1,0 +1,8 @@
+<lora:S1a-Challenge:0.5>, <lora:S1-Furry-Chibi:0.72>, Furry-Chibi, this is fine, (((text))), (((text box))), (((open mouth)))
+uploaded on e621, by Takahirosi, by Mark Seliger, by Hattonslayden, by Toshiharu Mizutani, by Henryk Siemiradzki, by Umberto Boccioni,
+(((solo))) (((yellow fennec dog))) with (((yellow body))) and ((((black ears)))) and ((clear black eyes)), wear ((yellow small hat)), ((cartoon)),
+(((detailed Silverfox5213 fennec dog))), (detailed Silverfox5213 lighting), (detailed fur), [detailed ambient light], BREAK, ((inside)),
+(((sitting on classical red sofa))), (((((breaking out of fire))))), (cinematic lighting), [starry], ((full-length portrait)),
+(((side view))), ((half body shadow)), backlighting, crepuscular ray, (yellow lighting), (blue lighting),
+[gray natural lighting], [ambient light on the belly], [higher body and limbs detail],
+[realistic proportions], [explict content], [sharp focus], (questionable content), (shaded), ((masterpiece))

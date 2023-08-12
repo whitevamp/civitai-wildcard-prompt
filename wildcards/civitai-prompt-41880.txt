@@ -1,0 +1,6 @@
+(robot girl, mecha):1.2,
+ceramic body, smooth shoulders,
+cyber background, extreme detailed city, (translucent body, reflection skin), NSFW,
+thigh gap, detail face, small breast, long hair, 
+8k, best quality, ultra detailed, (hyperrealistic:1.4),
+<lora:glassSculptures_v05SomeDallEWatermarks:0.4>

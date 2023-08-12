@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2),(sky of background: 1.2),looking at viewer, 1girl,perfect face, perfect eyes,(hanfu, song style outfits, 1girl, green short shan, white pleated skirt, red songmo),<lora:hanfuSong_v31:0.65>,<lora:taiwanDollLikeness_v10:0.15>,full body

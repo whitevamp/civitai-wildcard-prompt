@@ -1,0 +1,1 @@
+(masterpiece), (RAW photo, best quality), (realistic, photo-realistic:1.3), ultra-high res, <lora:koreanDollLikeness_v10:0.35>, 1girl, streets, half coat, looking at viewer, smile, full body, close up,

@@ -1,0 +1,1 @@
+(masterpiece, best quality), ((1girl, (mature), Akane, <lora:akane:1>), (hair, beautiful hair, hair ornament), (closed eyes), (holding white flowers)), ((sky, clouds), fence), (highres, chromatic aberration), (<lora:yike:0.7>, <lora:add_detail:0.5>),

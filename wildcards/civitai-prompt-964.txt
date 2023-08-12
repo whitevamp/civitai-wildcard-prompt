@@ -1,0 +1,2 @@
+anime_still, masterpiece, best quality, 1girl,Hiroko Takashiro , Kitami Reika, standing , bending forward, mature female,Large Breasts, cleavage, curvy, 40 yo,blonde hair, short hair, lipstick, makeup, black eyeshadow, smokey eyes, blue eyes, jewelry, cross earrings, <lora:bibleBlackStyle_10:0.35>, ,  black thighhigns,white labcoat, nipples, pump shoes,bare shoulders, stockings doctors office, room, posters, lamp, table, drawers, solo, seductive, smiling, blushing, looking at viewer, pov
+<lora:Kitami-000008:0.85>

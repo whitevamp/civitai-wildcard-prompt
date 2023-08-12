@@ -1,0 +1,1 @@
+1girl,fit,,navel,short hair,standing,perfect face,perfect eyes, perfect lighting,looking at viewer  (masterpiece, best quality, high quality, highres:1.2), detailed, extremely detailed, <lora:fitgirl_v10:1>

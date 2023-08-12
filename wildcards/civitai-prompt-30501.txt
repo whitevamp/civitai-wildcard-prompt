@@ -1,0 +1,1 @@
+masterpiece, best quality, detailed, photorealistic, Surrealism, by Hans Rudolf Giger, <lora:hrgiger2x:0.6>, glowing, armor, glowing eyes, mecha, large wings, <lora:TalDarimMecha:1>,  <lora:add_brightness:0.7>, flower, <lora:Sea_of_Flowers:1>,  <lora:add_saturation:-2>

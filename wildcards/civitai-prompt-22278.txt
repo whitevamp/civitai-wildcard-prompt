@@ -1,0 +1,1 @@
+Aesthetic: ((goth, dark, macabre, subculture, fashion, music):1.4) , Lighting:(dreamwave), detailed, clean, scenery, ink Quality: intricate, highly detailed, sharp focus, realistic, 8k BREAK Appearance: (22 years old), italian girl, ((pink hair)), (good quality:0.996), <lora:add_detail:0.4>

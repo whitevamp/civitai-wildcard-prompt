@@ -1,0 +1,3 @@
+((masterpiece)), (best quality), (detailed), (2 girls), beach
+AND ((masterpiece)), (best quality), (detailed), (2 girls), <lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.4>,<lora:u883SchoolSwimsuit_v10:0.15>,wet u883 school swimsuit,large breasts
+AND ((masterpiece)), (best quality), (detailed), (2 girls), <lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.4>,<lora:u883SchoolSwimsuit_v10:0.15>,wet u883 school swimsuit,large breasts

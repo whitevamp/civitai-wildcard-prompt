@@ -1,0 +1,4 @@
+masterpiece, best quality, highres, (photorealistic), (depth of field), (medium breast), smiling, (looking at viewer), from below,
+1girl, ponytail, volleyball uniform, skintight, tall, realistic, indoor stadium,
+(pureerosface_v1:0.2), (ulzzang-6500-v1.1:0.2),
+<lora:volleyballUniform_v10:0.8>,

@@ -1,0 +1,10 @@
+best quality, intricate details, standing, arms behind head,
+
+
+1girl, long hair, red hair, messy hair, red highlights,  blue eyes, sharp eyes, mouse ears,
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>  
+
+ <lora:HentaiKamen_v10:0.8> , panties on face, covered face, covered  nose, covered mouth,

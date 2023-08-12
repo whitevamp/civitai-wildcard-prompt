@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,      <lora:ninomaeInanisHololive_v2:0.8> ina_beret, tentacle hair, pinafore dress, ribbon,

@@ -1,0 +1,1 @@
+masterpiece, best quality,realistic,realskin,1girl,solo,outdoor,<lora:hanfuMing_v31:0.6>,(hanfu, ming style outfits, black short coat, yellow with white mamian skirt, round collar, overlapping collar),<lora:nwsj:0.6>,

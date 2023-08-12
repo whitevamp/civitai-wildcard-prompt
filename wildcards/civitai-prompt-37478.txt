@@ -1,0 +1,1 @@
+simple background, blue_background, 1girl, woman, pouting, <lora:Pouting:0.65>, blue hair, beautiful eyes, bob haircut, portrait, black crop top, large breast, low-cut, (hands down:1.2),  <lora:breastinClass:0.3>,  <lora:add_detail:1>,  <lora:GoodHands-vanilla:1>

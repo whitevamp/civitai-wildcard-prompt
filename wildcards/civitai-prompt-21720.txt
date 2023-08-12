@@ -1,0 +1,7 @@
+medium angle eye level shot,
+1girl, sitting, majestic, elegant, breasts, burning, fire, embers, evening, fiery hair, fire, flame, flaming weapon, hand between legs, lightning strikes, medium breasts, molten rock,sky, solo, sparks, sunset, thighhighs, torn clothes, torn dress, sun rays,
+(smirking, parted lips:1.1),  <lora:MechaArmor:0.4>, <lora:A-MechaMusume:0.4> , (white latex dress:1.3), vampire, covered in blood, (skinny body:1.4), (long white hair), (low neckline:1.3), she holds a glass of wine in one hand,
+from Game of Thrones, (giant dragons throne:1.2), a fury dragon to her feet with 2 heads breathing fire, Daenerys Targaryen,
+dark background clouds flanders burning cities, action, explosions, hell fire, a detailed painting of destruction, multible lightning strikes, fantasy art,3d, cgi,
+cinematic lighting, perfect shadows, Highly Detailed, 3D,CG, Masterpiece, Amazing Depth, HDR, (photorealistc:1.5), (realistic:1.3),
+<lora:epi_noiseoffset2:0.6><lora:LowRA:0.9> <lora:CyberpunkStyleV3:0.3><lora:more_details:0.5><lora:game_of_thrones_offset:0.7> <lora:VampiricTech:0.3>

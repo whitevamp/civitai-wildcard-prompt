@@ -1,0 +1,3 @@
+(photorealistic:1.4),Best quality, masterpiece, ultra high res,looking at viewer,(dynamic perspective),(cowboy shot),
+,(ํ1girl),(ponytail hair),((Navy_Blue inverted pleated long skirt)),white shirt short sleeves,belt,mahalaiuniform
+,(intricate details:1.1),light on face,dynamic light , > <lora:mahalaiuniform-000001:0.75>

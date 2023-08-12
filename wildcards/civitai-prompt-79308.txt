@@ -1,0 +1,1 @@
+masterpiece,high quality,best quality,4k,super detailed,4k,focus sharp,1girl,clare,armor,standing,white bodysuit,fit,abs,blonde hair,short hair,glowing eyes,yellow eyes, (slit pupils), good eyes,serious face,serious expression,good hand,good eyes,hold a sword in the back,good finger,<lora:claymore_clare-10:1>, <lora:add_detail:0.7>

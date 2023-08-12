@@ -1,0 +1,1 @@
+portrait, cowbowyshot, alleyway, (from behind), looking at viewer, marlene, shorts, jacket, gloves, sneakers, shirt, thighhigh, baseball cap, <lora:MarleneERLora-06:0.8>

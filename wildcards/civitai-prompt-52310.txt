@@ -1,0 +1,3 @@
+masterpiece, highest quality, intricate, photorealistic,
+analog style, high detailed 16k RAW color photo of a fit young (Brazilian) woman at the beach, bikini bottom, sarong, topless, small_boobs, perfect_boobs, dark_nipples, (dark oiled skin:1.1), perfect cute fine face, rounded eyes, depth of field, soft lighting, photographed on a Fujifilm XT3, f2.8, ISO 100, (highly detailed:1.2), HDR, 4k resolution, Award-winning photography, hiqcgbody, (ultra-detailed photrealistc skin with slight imperfections:1.1), masterpiece, __3d-terms__
+<lora:hipoly3DModelLora_v10:0.5> <lora:jkPerfectBoobs_V02:0.6>

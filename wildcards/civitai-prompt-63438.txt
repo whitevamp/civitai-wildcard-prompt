@@ -1,0 +1,1 @@
+high quality, leotard,<lora:clothesSeeThrough_v10:1>

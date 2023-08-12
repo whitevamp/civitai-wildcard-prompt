@@ -1,0 +1,3 @@
+Wide angle, long shot, (full body, dynamic pose:1.4),  front view, an photo of a girl,superman_outfit,
+muscular, big breast,bare shoulders, thin waist, electric_blue color panties, wide pelvic, thigh,HIGHHEELS,
+(galaxy:1.2) background, burning, midnight_blue color, (realistic skin_details, sharp focus, eyes_focus, masterpiece,best quality,finely detailed,extremely detailed, realistic detail,clear_image, realistic, high_resolution,distinct_image:1.2) <lora:superyouya0:1>

@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, absurdres,  <lora:CHOCO768:0.8>, chicken, bird, chocobo, baby, <lora:HeadpatPOV:1.0>, HeadpatPOV, pov, headpat, grassy field, morning, sun rays, view from above

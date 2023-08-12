@@ -1,0 +1,10 @@
+(Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1girl, solo, standing, spread legs, (draenei, draenei horns, purple skin, purple horns, purple penis:1.4),
+long hair, black hair, braids, french braid, pointy ears,
+purple eyes, looking at viewer,
+puffy lips, closed mouth, smile,
+steel armor, breastplate, pauldrons, gauntlets, cleavage cutout, belt,
+curvy, large breasts, thick thighs,
+eqcok, (flaccid, huge penis, huge testicles:1.38), cock sheath,
+outdoors, nature, forest, plants, flowers, roots, root, (magic, particles, shimmering:1.1), twilight, night,
+<lora:Flaccid Horse Penis:1>,  <lora:Draenei:0.4>

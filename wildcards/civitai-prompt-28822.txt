@@ -1,0 +1,5 @@
+Spiderman (holding SunsetHuman:1.1), flying through the air, from above, (princess carry:1.2),
+1boy, slinging spider web, speed lines, (sunset:1.05), skirt, two-tone hair, leather jacket, 
+cityscape,  
+masterpiece, full body, HDR, intricate details, 4k, from below, 
+realistic digital painting  <lora:SunsetHuman:.7> <lora:princess carry anime:.8>

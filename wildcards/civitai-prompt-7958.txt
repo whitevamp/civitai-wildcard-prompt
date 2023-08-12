@@ -1,0 +1,4 @@
+masterpiece, best quality, silhouette, 1boy, 1girl, facing another, upper body, two-tone background, ADDCOMM
+(black background:1.2), inverted colors, (1boy:1.2), (white skin:1.2), white hair, short hair, ADDCOL
+white background, (1girl:1.2), (black skin:1.2), black hair, long hair,
+<lora:threshold:1.5>

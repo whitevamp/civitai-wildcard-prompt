@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.2), portrait,
+1girl, yuzuriha_(jigokuraku), purple hair, brown eyes, ninja, open clothes, cleavage, small breasts, topknot, medium hair, breasts apart, white obi, smirk, outdoors, (blush:1.1), flowers,
+<lora:Kizuki - Jigokuraku - Yuzuriha[yuzuriha_(jigokuraku),purple hair,brown eyes,ninja,small breasts]:1>,  <lora:pureInnocentGirl_v10(Pure_Innocent_girl):0.5:CFACE>, Pure_Innocent_girl, pureerosface_v1, (((torso))),  pov, (((depth of field))), pale and lustrous skin,

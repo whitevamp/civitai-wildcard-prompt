@@ -1,0 +1,1 @@
+from behind, an actress (standing behind a podium), accepting an (award), pantpulldown, holding a trophy <lora:pantpulldown:0.75>

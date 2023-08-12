@@ -1,0 +1,1 @@
+(masterpiece, best quality, beautiful quality, photorealistic, detailed lighting, extremely detailed skin, extremely detailed hair, shadows, 8k, a picture of a woman, black hair, upper body, 1girl, fcPortrait:1.2), <lora:add_detail:1>, (15 years younger:1.4), <lora:hashimotokanna2_lora-06:0.8:MY>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres),heavy weapon ,<lora:Mecha:1>, Mecha,full body,C4D,blender,3D, <lora:xinpian:0.4>,Orange tone,computer chip,ultra-high definition texture details,Special Effects, <lora:gunsLoHatry3:1>, submachine gun

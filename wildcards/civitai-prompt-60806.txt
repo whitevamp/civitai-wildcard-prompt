@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2),blue eyes, detailed eyes, long lashes, 3d lashes, fake eye lashes ,  <lora:eyesgenLoraWIP_v1:1> <lora:eyesgen:0.4>, looking a viewer, intricate iris, close up eyes, 1 eye,

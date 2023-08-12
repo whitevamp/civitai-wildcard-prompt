@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, 
+cat,
+knolling, simple background, 
+<lora:knolling3:0.7>

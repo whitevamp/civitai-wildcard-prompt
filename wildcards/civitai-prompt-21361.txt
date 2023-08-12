@@ -1,0 +1,6 @@
+ultra realistic,32k,RAW photo,(high detailed skin:1.2), (1 girl, full body:1.2), 
+, 
+1 girl, (hoodie:1.2)
+BREAK ultra realistic,32k,RAW photo,(high detailed skin:1.2), (1 girl, full body:1.2), 
+, 
+1 girl, (aodai:1.1), (masterpiece,best quality:1.5)

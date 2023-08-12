@@ -1,0 +1,8 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), standing,
+short hair,
+looking at viewer,
+smile, closed mouth,
+large breasts,
+white shirt, shorts, denim,
+indoors,
+<lora:Tomboy:1>  

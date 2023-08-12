@@ -1,0 +1,5 @@
+nice hands,
+(realistic photo:1.2), masterpiece, high quality, best quality, hyper detailed, HDR, (realism:1.1), real life,
+volumetric light, HDR, contrast, vibrant colors
+1girl, white hair, hair pony tail, looking at viewer, small breasts, blue eyes, bodysuit
+<lora:Concept EnvybetterhandsLocon_alpha3:1>

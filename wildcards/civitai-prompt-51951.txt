@@ -1,0 +1,7 @@
+Best quality, masterpiece, ultra high res, RAW photo, (photorealistic:1.4),
+1girl, solo,<lora:cuteGirlMix4_v10:0.5> detailed face, long hair, twintails, 
+(looking at camera:1.6),(full body),
+in (white shirt with blue collar, black sweatpants) <lora:ShenzhenUniform_v10:0.5> (narrow waist:1.2),
+shirtlift,<lora:shirtliftALORAFor_shirtliftv1:1>
+perfect skin,(natural breast),naked, nipples,(spread legs:1.2),
+In the classroom, bokeh, beautiful lighting, (((((bukkake,facial,cum))))), ahegao, rolling eyes,saliva, drooling,(detailed face and eyes),  <lora:ahegaoRollingEyes_v1114:0.7>  <lora:pureerosface_v1:0.7>

@@ -1,0 +1,2 @@
+(best quality),[masterpiece],((beautiful:0.75) cute girl:0.75),long hair,looking at viewer,standing,outdoors,
+<lora:add_detail:0.3>,, <lora:Special clothes26:0.75> swimsuit,navel,choker,wrist cuffs,Special clothes26

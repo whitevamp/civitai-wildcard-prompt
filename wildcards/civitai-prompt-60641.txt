@@ -1,0 +1,1 @@
+a man and a girl, (vast decrepit scenery:1.2) <lora:Blame!:1> <lora:epiNoiseoffset_v2:1>

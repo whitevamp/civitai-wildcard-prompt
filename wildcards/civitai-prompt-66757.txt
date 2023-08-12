@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), absurdres,cinema lighting,
+(a best long shot photo of a mechanical girl),(koh_amberheard:0.9), insanely detailed face, fantasy scifi creature, hyper realistic, steampunk, intricate design, insanely detailed, fine details,
+SteamPunkAI, <lora:SteamPunkAI:0.9>

@@ -1,0 +1,4 @@
+1 egyptian woman, (seductive), very long hair, , dark skin, closed mouth, looking at viewer, egyptian clothes, sitting on the throne , from below, crossed legs, gem,
+fantasy, high contrast, ink strokes, explosions, over exposure,
+impression , abstract, ((watercolor painting by John Berkey and Jeremy Mann)), brush strokes, negative space, good anatomy, good proportions, good architecture, realistic:1.25,
+<lora:epiNoiseoffset_v2:1>, centered, high detail, high resolution, 8k, stunning, beautiful, perfect body,  <lora:add_detail:0.33 >, Style-Hamunaptra:0.4,

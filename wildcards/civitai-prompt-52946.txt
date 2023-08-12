@@ -1,0 +1,1 @@
+a photo of a modern shop building with the orange facade in organic shapes and forms in the style midjor, epic sky, <lora:theovercomer8sContrastFix_sd15:0.5>   <lora:Midjor_Style_V1:1>

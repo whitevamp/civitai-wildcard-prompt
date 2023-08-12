@@ -1,0 +1,7 @@
+masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres, dramatic lighting, extremely detailed, highly detailed, intricate details, (product image:1.4), (otherworldly background:1.4)
+ADDCOMM
+<lora:style-cosmiceldritchtech:1> <lora:add_detail:1.0> <lora:epi_noiseoffset-v2:1.0> a surreal eldritchtech horror cocktail served on a cosmic platter, side view of a beautiful (eldritchtech cocktail:1.1) served in a (weird looking cocktail glass:1.2), inspired by the nightmarish visions of H.R. Giger
+ADDBASE
+(decorative mint leaf:1.6), eerie fog, (swirly:1.3), cosmic horror, (fractal art:1.6), a kraken in the distant background
+ADDROW
+(strange ingredients, a slimy tentacle:1.6), (decorative produce:1.3), (slate tabletop:1.4)

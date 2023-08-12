@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, <lora:tow-concept-richy-v2:1> towlauncher, scope, aiming, tripod, from below, (standing, large breasts, wide hips:0.9), darkness, glowing eyes, <lora:kafka-hsr-richy-v1:1> kafka

@@ -1,0 +1,3 @@
+best quality, intricate details, masterpiece,
+1girl,    <lora:lol_leona-10:0.8> leona \(lol\), hair ornament, brown eyes,  
+ <lora:ramenGirl_v1:0.8> ramengirl, bathing,ramen, food, noodles, nude, <lora:steamCensorConcept:0.8> steam censor, steam, nude,

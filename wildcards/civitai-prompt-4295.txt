@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, solo, belly dancer girl, (Cute), (Charming), BellyDancer, CropTop, Sleeveless, Embedded, Chains, (shiny), Sequins, Embroidery, WideBelt, Beads, Metallic, FlowySkirt, Silk, Chiffon, KneeLength, EmbroideredLace, Headpiece, Necklace, beautiful fingers, Bracelet, Wristlet, Anklet, WaistChain, Beads, Gemstones, Comfortable Elastic Dance Shoes, (Rhythm), (floating), (Dance), (Spin), (cheerful), Elegance, Confidence, large breasts,
+(flowers), (colorful), (petals), white background, full body, soft lighting,
+tachi-e, <lora:tachi-e:1>, <lora:Lady_First:0.1>,

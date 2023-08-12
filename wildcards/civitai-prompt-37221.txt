@@ -1,0 +1,4 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, perfect waist to hip ratio, (natural skin texture, hyperrealism, soft light, sharp), chest up, wide shot, nsfw,
+BREAK
+dramatic lighting, (night time, night, night view, dark),
+<lyco:GoodHands-beta2:1.0>, <lora:breastinClass:0.2>, <lora:add_detail:0.49>

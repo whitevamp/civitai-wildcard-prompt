@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres, 
+edgVyshivanka,edgPanties, a woman ([showing off her lingerie|a woman in a white blouse with a red and black pattern]::0.5) ,wearing edgPanties,edgVyshivanka_style_embroidery sexy clothing,  
+<lora:edgVyshivankaPanties:0.75>

@@ -1,0 +1,2 @@
+masterpiece, best quality, photorealistic ,fashionmonkey, gorilla, eyewear on head, gears, gem, goggles , gold, jewelry, magic circle,male_focus, owl, pants, shoes, sunglasses, tassel, throne,
+ <lora:fashionmonkey:1>

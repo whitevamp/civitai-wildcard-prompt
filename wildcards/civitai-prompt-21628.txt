@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, TomReadingTheNewspaper, <lora:TomReadingTheNewspaper:1>, Pyra \(xenoblade\), Pyra:1.2, red hair, red eyes, short hair, <lora:Char_Xenoblade_PyraMythraPneuma:0.5>, Exe, teeth, horror (theme), red eyes, smile, sharp teeth, glowing, dark, blood, tongue, grin, glowing eyes, evil smile, <lora:Pos_EXEHardcore:0.4>

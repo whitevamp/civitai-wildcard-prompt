@@ -1,0 +1,1 @@
+pixels, pixel_art,  <lora:mPixel_v3MordenPixel:0.51> castle, dragon, cave, caveman,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear,

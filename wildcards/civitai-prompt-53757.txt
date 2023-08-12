@@ -1,0 +1,3 @@
+(masterpiece, best quality),(ultra-detailed), (full body:1.2), (big head),(Soft light and shadow),(small body),big eyes, chibi
+highly detailed face, highly detailed eyes, highly detailed background, perfect lighting, full body, 
+1girl, solo, shiranui flare, dark elf, grey dress, black cardigan, black ribbon, beret, sailor collar, french braid, striped, choker, smile, medium hair, long bangs <lora:ShiranuiFlare:0.8> <lora:blindbox_V1Mix:1>

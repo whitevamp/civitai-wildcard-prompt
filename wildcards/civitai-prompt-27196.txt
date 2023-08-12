@@ -1,0 +1,4 @@
+(highly detailed:1.3),
+<lora:dorothy-nikke-richy-v1:1>,dorothy \(nikke\),
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,
+(highly detailed face and eyes:1.3),  <lora:HeadpatPOV:1> HeadpatPOV, pov, headpat, <lora:RocksEyebrowRaise:1> RocksEyebrowRaise, raised eyebrow, thick eyebrows,

@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, bibleblack, xter, 
+YukikoMinase, 1girl, solo, cowboy body shot, standing, holding ice cream, looking at viewer, park, grass, floral background, tree, 
+blush, naughty face, seductive smile, 
+[black hair:green hair:25], short hair, lipstick, eyelashes, yellow eyes,  detailed eyes, detailed face, jewelry,
+(two-tone white purple tank top:1.2), (multicolored clothes:1.1), short shorts, denim shorts, (open fly:1.1), partially unzipped, (covered nipples:0.8), 
+curvy, midriff, navel, huge breasts, cleavage, pubic, (female pubic hair:1.15),
+<lora:YukikoMinase:0.9> <lora:bb-style:0.3>  <lora:epi_noiseoffset2:1>

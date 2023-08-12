@@ -1,0 +1,3 @@
+icon of a golden key, golden colour, black background, black background
+<lora:sxzDUCKForGameAssets_v10:0.75>
+ <lora:2dSpriteStyle_20:0>

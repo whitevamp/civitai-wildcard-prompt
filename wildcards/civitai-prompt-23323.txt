@@ -1,0 +1,1 @@
+absurdres, 1girl, BREAK android, (grey cybersuit), (black upper armor), mechanical arms, machinery, prosthesis, solo, silver hair, long hair, cloak, (holding katana), BREAK looking at viewer, from behind, hand on hip, contrapposto, (red background:1.2),  <lora:nijiarmor_v2:0.9>

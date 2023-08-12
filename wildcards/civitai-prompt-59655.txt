@@ -1,0 +1,1 @@
+(masterpiece, photorealistic, raw,:1.4), (extremely intricate:1.2), close up, cinematic light, sidelighting, ultra high res, best shadow, RAW, upper body, old man, wearing pullover, <lora:epiNoiseoffset_v2Pynoise:2.2>

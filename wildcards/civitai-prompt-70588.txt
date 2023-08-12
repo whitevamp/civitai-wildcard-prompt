@@ -1,0 +1,6 @@
+(high quality), (best quality), (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),ultra detailed 8k cg, super model, super idol, perfect face, beautiful face, mature female,full body, Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, 1girl, ((huge breasts:1.5)), fashi-g, red lips, a crop top,  ((arcade)), ((standing in an arcade)), black hair, sexy jk,school uniform, ((microskirt)), ((miniskirt)), slender body, underboob, shirt, large breasts, short skirt, ((Skindentation)) ,((thighhighs)), nipples, thick thighs, midriff, wide hips, embarrassed, shy, blush, suggestive fluid, MicroMiniSkirt, (low angle), (looking down:1.5), from below,(lifting up shirt:1.0), ((upshirt)), look at the viewer, (focus on breasts), (detailed eyes), (detailed facial features), (breast blush), bob hair, (strong and toned abs), ((beautiful woman)), very pale white skin,
+<lora:sexy jk:0.7>
+<lora:UnderboobV1:0.4>
+<lora:勒肉skindentation_1.1:0.3>
+<lora:upshirt-000015:0.7>
+<lora:MicroMiniSkirt_v1:0.5>

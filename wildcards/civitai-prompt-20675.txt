@@ -1,0 +1,5 @@
+(realistic:1.4), modelshoot style, (extremely detailed CG unity 8k wallpaper), full shot body photo of the most beautiful artwork in the world,
+
+1 beautiful girl, [nsfw], close mouth, (full-length photograph), ((white blouse:1.5)), (black hair:1.4)+(redhair:1.1), (detailed eyes:0.9), pale skin, oily skin, smooth thigh, (slender waist, slim belly,  flat stomach),
+
+sunset, lens flare, depth of field, <lora:spaMikoLora_v01:0.45>

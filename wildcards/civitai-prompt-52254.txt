@@ -1,0 +1,17 @@
+(masterpiece),(best quality),(ultra-detailed), intricate design,
+
+1woman in a Oktoberfest ,
+(full body:1.2),
+
+(chibi:1.1),
+cute, smile,
+holding beers,
+
+traditional dress,
+
+
+seductive posture,
+
+(beautiful detailed face), (beautiful detailed eyes),
+
+<lora:blindbox_V1Mix:1>

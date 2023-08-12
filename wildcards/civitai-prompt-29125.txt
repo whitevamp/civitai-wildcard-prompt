@@ -1,0 +1,4 @@
+masterpiece,best quality, head portrait,
+(a 18 year old skinny girl:1.2), short twintails, gothgirl, ruined makeup, evil, macabre, subculture, satanic,
+intricate details, cinematic, dimmed colors,  dramatic lighting,
+<lora:RuinedMakeup_v0.1:1>,  <lora:LowRA:0.3>

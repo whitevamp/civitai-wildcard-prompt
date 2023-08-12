@@ -1,0 +1,3 @@
+robot T-Rex walking on the Surface of a Volcanic mini planet
+<lora:ConstructionyardAI_v2:1.0> constructionyardai 
+<lora:Blindbox_V3:1> chibi

@@ -1,0 +1,1 @@
+best quality, masterpiece, highres, extremely detailed CG unity 8k wallpaper, (RAW photo, photo realistic:1.2), ultra detailed, (one girl, solo:1.2), (large_breast:1.2), outfit-gantz, latex breast curtains, looking at viewer, (cyberpunk, future building, roof, night), cowboy shot, <lora:OutfitGantzLatexBreastCurtains:0.5>, <lora:add_detail:1.4>

@@ -1,0 +1,3 @@
+Ultra-detail,(highres:1.1),best quality,(masterpiece:1.3),cinematic lighting,
+<lora:ngnl_jibril:1>,ngnl_jibril,long hair,pink hair,halo,large breast,symbol-shaped pupils,tattoo,nude,completely nude, <lora:breasts_on_glass:0.8>, breasts_on_glass,nipples,breast press, against glass, navel, <lora:Ahegaoo:1> ahegao, rolling eyes, blush, tongue out, drooling,  saliva, blush , 
+(detailed face and eyes:1.3),detailed teeth,

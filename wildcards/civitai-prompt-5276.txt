@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, perfect detail ,make up, venat, white robe,  closed mouth, smile, mask,  (white hair:1.5), blue eyes, glowing eyes, long hair,  <lora:Venat:0.7>  long_sleeves,from below, blue eyes, glowing eyes, looking at viewer, upper body, detailed eyes, outdoors,

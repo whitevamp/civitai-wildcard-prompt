@@ -1,0 +1,1 @@
+1girl,Summer,Shrine,Fox Tail,fox ears,jk,Looking from top to bottom <lora:InstantPhotoX3:0.2:NF> <lora:LowRA:0.3> <lora:Heavy_grain:0.4:paint>, <lora:blacked_v1.5:1>

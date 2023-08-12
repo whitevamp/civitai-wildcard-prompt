@@ -1,0 +1,3 @@
+<lora:gachaSplashLORA_gachaSplash31:1:backdrop>,[(white background:1.8)::5],(full body),masterpiece,best quality,looking at viewer,Dynamic angle
+1girl,<lora:ClaraStarRailV1:1>,small breast,
+garden,sun,flower,butterfly,

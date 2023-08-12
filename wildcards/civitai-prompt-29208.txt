@@ -1,0 +1,1 @@
+1girl,red hanfu,CCC, solo,(floral_print:1.2),(winter hanfu:1.2), (cloak:1.2), (fog:1.1) (snow:1.3),ancient chinese theme, <lora:TCTH-dreamgirl-5:0.7:FACE>,cold light,dynamic pose,(cowboy shot), vibrant colors,stunning environment ,soft lighting,gorgeous light and shadow

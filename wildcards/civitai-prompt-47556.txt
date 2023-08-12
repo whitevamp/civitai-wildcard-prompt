@@ -1,0 +1,7 @@
+1 girl, (extreme skin luster: 1.4), (extreme light and shadow changes), (gorgeous costume: 1.5), (detailed face and eyes: 1.3), (shiny colored eyes: 1.5), intricate hair decoration.
+
+The young girl in the painting is dressed in a red robe, as if her snow-white face is more delicate under the lining. She slightly tilts her head and her gaze is calm, as if she is thinking about something. The mountains and the sky in the background are finely depicted, making the whole painting look more realistic.
+
+(realism: 1.3), (extreme complexity: 1.2), (realistic photo: 1.3), (surrealism: 1.4), volumetric lighting, cinematic lighting, cinematic effects, portrait of a girl.
+
+ <lora:fashiongirl-lora-v4.5-32dim:0.3> <lora:baiyi-lora-v1-naivae-8ep-32dim:0.3> <lora:fashionGirl_v50:0.3>

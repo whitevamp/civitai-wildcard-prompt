@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details,
+ 1girl,       <lora:Reze:0.8> Reze,green eyes, choker, hair between eyes, multicolor hair, purple hair, black hair, hair bun, short hair,

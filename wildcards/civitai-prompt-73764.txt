@@ -1,0 +1,1 @@
+masterpiece, modelshoot style, 8k, realistic, ((photo realistic)), hyper realistic, ultra high quality, Snow White wearing a white sleeveless Starfleet uniform which ends in a short skirt, open vest, white thigh high boots,  on a starship bridge, round face, highly detailed face, military pose <lora:starTrekUniforms_v1:1.5> <lora:SnowWhite_character-20:0.5>

@@ -1,0 +1,3 @@
+1girl,wedge cut,(Jumping with joy, as if holding a birthday cake),(Glowing Moon Yellow Elaborate ruffled peplum dress with oversized floral prints:1),
+,superstar,
+<lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.2>  <lora:tangbohu_saturation_v1.0:0.65> <lora:superstar_v21:0.4>

@@ -1,0 +1,1 @@
+1girl,(cyberpunk:1.1),full body,high quality,detailed,4k,Delicate features, Perfect body <lora:koreanDollLikeness_v15:0.4> <lora:japaneseDollLikeness_v10:0.2> <lora:taiwanDollLikeness_v10:0.2>

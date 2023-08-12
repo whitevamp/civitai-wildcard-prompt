@@ -1,0 +1,3 @@
+1girl, masterpiece,best quality,photorealistic,lifelike rendering,depth of field:1.2, bokeh, film grain:1.4, 
+lib_bg,Bag: A structured box purse in pastel pink with a pearl handle. 
+<lora:libbg_v16:1>,

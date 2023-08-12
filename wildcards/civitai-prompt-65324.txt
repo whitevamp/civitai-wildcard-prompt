@@ -1,0 +1,1 @@
+<lora:GlassTech-20:0.9>, glasstech,scifi ,  transparent  , toaster in kitchen , detailed background

@@ -1,0 +1,1 @@
+best quality, masterpiece, [1 girl|Mecha],fullbody,red eyes,longhair,[blue hair | white hair], Cyberpunk background,[extremely large robotic hand:fire:0.30] and [Dark clouds::Dindal Light:0.75],[Ruins:0.35],[ in foreground::0.60],[ in background:0.35],[masterful:shoddy:0.5],hiqcgbody,<lora:hipoly3DModelLora_v10:0.3>,mecha musume,large_mecha_arm, <lora:lottalewdsMechanical_v1:1>

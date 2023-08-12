@@ -1,0 +1,5 @@
+realistic , realistic details, detailed masterpiece, award winning photography, HDR, soft lighting
+A futuristic humanoid robot, white and gold, with intricate details and fine engravings inspired by Greek mythology, slick design, glossy, reflective finish, polished
+futuristic backdrop, outdoors
+epic camera angle
+ <lora:epiNoiseoffset_v2:2> <lora:add_detail:1> <lora:FINAL  Robort:1>

@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+1igrl,  <lora:gawrGuraHololiveAll_v4AllOutfits:1>   gura_atlantis, gradient dress, laurel crown, sharp teeth, blushing, angry, spoken exclamation mark, 
+ <lora:glory_wall_front:1> (glory wall, stuck, through wall:1.2) wooden wall, bedroom,  cum, dripping white liquid, sweating, impact motion lines,  looking at looking at viewer,

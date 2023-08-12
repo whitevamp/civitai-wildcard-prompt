@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.2), (retro artstyle, 1990s \(style\):1.2), intricate details, vibrant image, sharp focus, trending on pixiv
+HayamiAyuko, solo, mature female, 40yo, milf, (dark skinned female:1.2), (dark skin:1.1), sitting on table,  open space office, looking at viewer, tired, full body shot, 
+black hair, short hair, (makeup:1.05), brown eyes, perfect eyes, perfect face, detailed hair, detailed face,
+white shirt with palm tree print, t-shirt, swimsuit under clothes, barefoot,
+sporty, thighs, large breasts,
+ <lora:HayamiAyuko:0.85>

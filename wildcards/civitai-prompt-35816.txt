@@ -1,0 +1,1 @@
+(fullbody),((nude:1)), (1girl:1.2), <lora:add_detail:0.3> ,masterpiece, top quality, best quality,  <lora:C_gongbi:0.5>

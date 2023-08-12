@@ -1,0 +1,5 @@
+Whispers of Nature, Alphonse Mucha, Gustav Klimt, elegant figures, organic motifs by Antoni Gaud, Ren Lalique,
+1girl,solo,bookworm, surrounded by stacks of books, reading corner, lost in a captivating novel,
+thighs,(sfw:0.89),
+(Warm glow, soft focus, gentle curves, subtly provocative, intimate atmosphere:0.9)
+<lora:2023-05-12_232640:0.5:FACE0.5>  <lora:lowra_v10:0.3>

@@ -1,0 +1,8 @@
+best quality, intricate details,
+
+
+1girl,<lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, two side up, 
+
+ <lora:changeACharacter_brnwshv10:0.8> BrnWsh,
+
+ <lora:fangInspectionDay_v11:0.8> (finger in another's mouth:1.4), pov, pov hands, open mouth, drool, tongue, fangs,  <lora:blackedUnderwear_v19:0.8> sports bra, thong, blacked,

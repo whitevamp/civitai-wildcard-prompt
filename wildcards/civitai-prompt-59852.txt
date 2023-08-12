@@ -1,0 +1,1 @@
+mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),ultra-detailed,1girl,cute,pure,beautiful detailed eyes,white lace,cityscape,night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering, (long hair:1.2), floating hair NovaFrogStyle, simlling expression <lora:cuteGirlMix4_v10:1>

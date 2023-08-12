@@ -1,0 +1,7 @@
+masterpiece, best quality, real picture, intricate details, 1girl, chunlims
+Appearance: {milf, slender, small_breasts, slim, fit, lips, moisture lips}
+Clothing: {chinese clothes, pelvic curtain, dress, pants, blue yoga pants, short sleeves}
+Accessories: {bracelet, ribbon}
+Hair: {hair bun, double bun}
+Location: bustling cityscape, traditional chinese buildings. The sky is a hazy shade of blue. People hurry past, going about their day. The scene captures the energy and vitality of city life.
+<lora:chunLiStreetFighter_v10:1>

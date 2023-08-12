@@ -1,0 +1,3 @@
+masterpiece, best quality, high resolution,
+1girl, solo, LuxuriousWheelsCostume, silver dress, 
+<lora:LWclothLora:0.8>,     <lora:NikkeNihilister:0.7>

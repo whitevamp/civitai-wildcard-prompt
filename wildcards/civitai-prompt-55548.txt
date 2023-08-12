@@ -1,0 +1,3 @@
+best_quality, masterpiece, extremely_detailed, highres, best_shadow, auditorium, hall, standing,
+1girl, beautiful_face, detailed_eyes, white_hair, dark_skin, ((bridal veil, bridal gauntlets, bridal garter):1.3),
+<lora:VillageSuccubus_v3:0.6>, village_succubus, darkness_tattoo, wings, horns, chest_tattoo, waist_tattoo,

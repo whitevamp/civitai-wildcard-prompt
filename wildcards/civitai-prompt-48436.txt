@@ -1,0 +1,1 @@
+girl,(synthwave,dusk,shaded,nude,dynamic_pose),(peaceful,chill,sparkles,indoors,outdoors,prettify),Medieval Background,standing,Double Bun,turquoise Raincoat,silver Harem Pants,Honkai Impact,Swimsuit ,(masterpiece,detailed,highres,vibrant:1.4) <lora:3shot:0.6>

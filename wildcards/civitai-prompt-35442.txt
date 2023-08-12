@@ -1,0 +1,4 @@
+<lora:GoodHands-beta2_2:1>,
+(highly detailed:1.3),
+<lora:sc_nyx-10:1>, sc_nyx, (short shorts,:1.4), (bohemian chic fashion:1.2) (simple half sleeve shirt:1.3), navel, midriff, (jewelry:1.3), (semi-rimless eyewear:1.2), (light smile:1.1), (red diamond necklace:1.3), (red diamond earrings:1.2), red eyes, large breasts,
+Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting,

@@ -1,0 +1,1 @@
+derpd female Warlock wearing cyberhelmet, heavy magical plate armor,cape, sinister dark red aura, neon energy release, r1ge, <lora:r1ge - AnimeRage:0.6>  <lyco:Adventurers_v20:0.8> <lora:cyberhelmetv0.7:0.6> <lora:derpd - DerpdeedooStyle:1>

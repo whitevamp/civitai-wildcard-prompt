@@ -1,0 +1,2 @@
+best quality, masterpiece,  <lora:kamado_nezuko_offset:1> kamado nezuko, bit gag, gagged, sitting, cross legs, red eyes, evil, japanese clothes, pink color clothes,
+crawl:1.4, wooden box, inside box, horn

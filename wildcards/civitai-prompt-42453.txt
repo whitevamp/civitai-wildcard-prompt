@@ -1,0 +1,1 @@
+(best quality, masterpiece:1.2),1girl,beautiful detailed face,haizeiwang/\(wanted/\),<lora:wanted1-000010:1:0.7,0.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1>,<lora:HarleyQuinnV2:1>,harleyquinn,

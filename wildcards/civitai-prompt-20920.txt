@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lyco:GoodHands-beta2:0.8>
+1girl,  <lora:ceres_fauna_v2:0.8> hmcf, long hair, antlers, branch, braided bangs, hair flower, yellow eyes, large breasts, jewelry,
+ <lora:micro_slingshot_v1:0.8> slingshot swimsuit, white one-piece swimsuit, green pubic hair,

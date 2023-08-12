@@ -1,0 +1,3 @@
+highres, bloom, cinematic lighting, (room on fire:1.3),
+dream, fantasy, relax, ((smoke laptop hacker:1.0) and ((dog):1.2):1.0) lying on the couch, cup of tea, fire around, all in fire, (fire:1.3)
+,(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, (ultrarealistic:1.3)

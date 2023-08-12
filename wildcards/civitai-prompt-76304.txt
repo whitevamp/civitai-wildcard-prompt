@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5> <lora:add_saturation:0.5> <lora:hgion:1.8><lora:capi-09:1>no human,
+many capybara,group sex,
+HGION,SPEECH BUBBLE,TEXT FOCUS,HEART,
+pov hand,

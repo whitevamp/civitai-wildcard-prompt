@@ -1,0 +1,2 @@
+blush,smile,teeth, black hair, brown eyes, chinese_girl,<lora:chineseGirl_v10:0.25> 
+,BREAK,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE,LZE<lora:nudifyLORAForGreat_v11:0><hypernet:animeBondage_bondageShibariV3:0><lyco:cumflood_v10:0>

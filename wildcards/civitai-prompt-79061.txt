@@ -1,0 +1,2 @@
+(best quality), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,stunning skin details,sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), fantasy,(black and (red) tone impression)
+Armored Chinese ancient soldiers ride on their (heavily armored warhorses:1.4), charging across the battlefield <lora:add_detail:1> <lora:EABA_v1:0.8> <lora:Smoke:0.8>

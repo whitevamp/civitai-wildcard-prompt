@@ -1,0 +1,3 @@
+dark, highres, highest quallity, illustration,  ultra detailed, (detailed face), (detailed eyes), cinematic lighting, best quality, hyper detailed, masterpiece,1girl, solo, blonde hair, bikini, naked, nude, sbg, breast grab, breast lift, nipples, ponytail, wet, curvy, pussy, luminous eyes, large breasts, light rays, (colorful), midshot, outdoors, night, clouds, lake, partially submerged, stone, cherry blossoms 
+<lora:yorhaCommanderNierAutomata_v10:0.7> 
+<lora:SelfBreastGrab:0.8>

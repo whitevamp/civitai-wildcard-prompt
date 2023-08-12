@@ -1,0 +1,4 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, glowing skin
+(organic, geometric, harmonious, kaleidoscopic), flower field, urban jungle, mythological creatures, otherworldly, transcendent realms, inner peace, nature's embrace, magnetic allure, dark and mysterious, a cubist perspective, rich textures, art nouveau, by alphonse mucha, jenny saville, hikari shimoda, ai weiwei, banksy, gustav klimt, egon schiele, yayoi kusama, roy lichtenstein, julie mehretu, immersive, play of light and darkness, multiple girls
+(nsfw:0.9),cleavage,A black and white striped T-shirt and green cargo pants,
+ <lyco:MultipleGirlsGroup:0.9>

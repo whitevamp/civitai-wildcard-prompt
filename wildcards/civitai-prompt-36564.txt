@@ -1,0 +1,3 @@
+A young woman wearing vintage clothes in the year 1980 in a flooded lib_bg.
+(young sexy woman)
+<lora:Library bookshelf:0.6>

@@ -1,0 +1,3 @@
+1girl,helicopter hair, Sitting with knees apart, hands on knees,(floating hair),beautiful long legs,business attire,
+sightly,alexander jansson,
+  <lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>

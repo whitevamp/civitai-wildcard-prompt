@@ -1,0 +1,1 @@
+masterpiece, realistic, hyperrealistic, best quality, aerith gainsborough, cropped jacket, hair bow, bracelet, pink dress, from behind, night, city street <lora:aerith-nvwls-v1-000010:0.9>

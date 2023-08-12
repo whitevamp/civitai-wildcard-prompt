@@ -1,0 +1,1 @@
+portrait of ron weasley, professor at hogwarts wizard school standing in front of class <lora:fongletsRonWeasley_v1:0.5>

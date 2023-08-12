@@ -1,0 +1,6 @@
+(best quality:1.4,masterpiece:1.4,ultra detailed,hires),
+1girl,ayanami rei,red eyes,medium breasts,deadpan,parted lips,
+blue hair,short hair,bangs,hair between eyes,hair ornament, 
+white bodysuit,plugsuit,pilot suit,gloves,hand on hip, 
+white background,simple background,looking at viewer,cowboy shot,
+ <lora:reiayanamitest:0.9>

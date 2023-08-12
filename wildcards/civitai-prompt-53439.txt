@@ -1,0 +1,1 @@
+photo of a girl ,tangbohu style  bike <lora:tangbohu:0.85>  <lora:gachaSplashLORA_gachaSplashWideShot:0.5>

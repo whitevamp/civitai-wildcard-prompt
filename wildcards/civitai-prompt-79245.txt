@@ -1,0 +1,3 @@
+Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic, solo,1girl,smiling
+edgCoquine,Haute_Couture, [lingerie|dress], woman wearing a [Haute_Couture|edgCoquine] dress, front view, superb embroidery,
+ <lora:CoquineCouture:0.88>

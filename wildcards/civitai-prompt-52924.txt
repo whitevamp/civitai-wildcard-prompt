@@ -1,0 +1,4 @@
+hatsune miku, 
+urushihara satoshi
+ <lora:estheticUrushihara_uruv1:0.7>
+photo on stage!!,

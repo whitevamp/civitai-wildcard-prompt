@@ -1,0 +1,1 @@
+<lyco:MultipleGirlsGroup:1.0>6+girls,clothed, pirate punk ai, pirate girl standing in the crow's nest, holding colorful parrot, barefoot, 5toenails,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3), cleavage, photorealistic <lora:add_detail:1>

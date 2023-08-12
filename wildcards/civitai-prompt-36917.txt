@@ -1,0 +1,1 @@
+1girl, <lora:Concept_Wait:0.8>, ass up wait,  <lora:Body_Shiny:0.75>, shinny skin

@@ -1,0 +1,1 @@
+cgmech, dragon robot, white and yellow, ((masterpiece, best quality)),   <lora:Niji:0.6> <lora:more_details:0.3> Detailed background, spaceship interior, film grain <lora:dragonborn_offset:0.4>

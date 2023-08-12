@@ -1,0 +1,2 @@
+1girl,, looking at viewer,, (best quality, highres, 8k, raw best shadow), pigment, white hair, short hair, graffiti_wall, painting brush, 
+<lora:LowRA:0.2> <lora:epi_noiseoffset2:0.2> <lora:add_detail:0.3> <lora:XXMix9_v20LoRa:0.0> <lora:Anna_Liebert_T-v2:0.2> <lora:fechin:0.0>

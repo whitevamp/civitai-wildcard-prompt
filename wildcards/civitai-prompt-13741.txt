@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), 3D character, building, isometric, Vietnam temple, (outdoor temple:1.2), from above, <lora:Dinhlang2:0.65>, transparent background, <lora:3dcharacter:0.5>

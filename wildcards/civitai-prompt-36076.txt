@@ -1,0 +1,5 @@
+(ambient occlusion):1.6, (global illumination):1.6, (Subsurface scattering):1.4, Volumetric rendering, (beautifully color-graded) cinematic, ue5, (masterpiece, best quality, high quality, highres), rainforest,  cinematic lighting,  (empty Jungle), vector art, Cropped image, close up,
+BREAK
+<lora:DWM_painting:0.2> (10_painting of  jungle  undergrowth):1.1, vegetation, overgrowth:1.3, vines, leaves, plants, ("a wide panoramic view of a dense:1.5 jungle"), a wide view of a jungle, a waterfall in the distance, (purple jungle:0.3, blue jungle ), blue mist with Volume rendering, grass and moss on the ground, rolling hill,  exotic  vista, jungle landscape, cute stream, 
+BREAK, 
+Feathered strokes, intricate background, soft delicate detail, complicated, <lora:unstableinkpunkdream_10:0.3>, (futurism:1.25), (impressionist:1.25), colorful, (majestic),   enticing, (irresistible:1.3), fascinating,  the most excellent detail, 16k, UHD, HDR, the highest quality, 8k, realistic, vray, HDR, 6000K,

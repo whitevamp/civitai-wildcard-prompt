@@ -1,0 +1,3 @@
+highres, bloom, cinematic lighting,
+(Hasselblad:1.3), close up RAW photo of a stunning woman with messy hair, flirty, sits in a classroom, artwork on the blackboard, short black skirt, unbuttoned white blouse, messy bun, camera above, voyeuristic, intimate, soft light, warm glow on her face and body, computer, high-detail skin, hdr, professional color grading, film grain
+,(masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, [(ultrarealistic:1.2) : (adobe lightroom:1.2):.3]

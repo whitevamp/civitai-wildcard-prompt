@@ -1,0 +1,1 @@
+ladybug,<lora:ladybug:0.9>,realistic,detailed,complex background,wearing (tuxedo:1.1),casual dressed,

@@ -1,0 +1,4 @@
+professional photo of polly geist, 1girl, solo, breasts, (blue skin:1.4), ponytail, black shorts, cleavage, strap slip, monster girl, slime girl, white tank top, aqua eyes, off shoulder, aqua hair, bare shoulders, large breasts,
+detailed skin, detailed eyes, detailed face,
+volumetric light, highrez, masterpiece, best quality,
+<lora:polly_geist:0.8:MIDD>

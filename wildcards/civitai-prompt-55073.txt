@@ -1,0 +1,1 @@
+high_quality,best quality,masterpiece,2girls,waitress,looking at viewer, smile,<lora:pnxWaitress:0.9>

@@ -1,0 +1,2 @@
+masterpiece,best quality,toon,building,simple design,nintendo style,vehicle,japanese store,on the sea
+Navy and Mustard, Technician, <lora:toon:0.8>

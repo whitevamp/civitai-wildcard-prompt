@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), nsfw, saturated colors
+BREAK,
+1girl, fully nude, large breasts, (egg laying:1.2), easter eggs, rabbit ears, sitting, spread legs, (vaginal object insertion:1.4), pregnant, pussy juice, easter basket
+BREAK,
+closed eyes, open mouth, orgasm, moaning
+BREAK,
+forest, meadow, spring, flowers, detailed clouds <lora:eggLaying_v10:0.85>, <lora:pregnant:0.55>

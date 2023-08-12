@@ -1,0 +1,1 @@
+(masterpiece, best quality, ultra-detailed, illustration),  beautiful face, perfect body, 1girl, solo, (standing next to the sports car:1.2), cyberpunk, <lora:mVehicle_v10:0.37>, night, lanterns

@@ -1,0 +1,9 @@
+(1girl, woman, elf, solo, happy, smirk, sexy, gorgeous, elegant, (nsfw), puffy lips, (long platinum hair), pointy ears, ass, smooth body, soft skin, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+purple eyes,
+BREAK
+elven clothes, see-through, silk clothes,
+BREAK
+looking back, looking over shoulder, looking at viewer, from back, (fantasy:1.2), city, tree, leafs,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

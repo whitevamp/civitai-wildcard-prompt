@@ -1,0 +1,5 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:elevator_v0.4-locon:1>
+(elevator:1.25), female only, female focus,
+( multiple girls,  multiple womans:1.4) ,sweat, tight gym uniform, wedgie, butt crack, trefoil, cameltoe,standing,  talking other, (steam:0.5),(smelling),
+(crowded:1.6),(crowded:1.6),(crowded:1.6)
+from behind, looking other, from above,

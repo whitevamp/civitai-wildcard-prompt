@@ -1,0 +1,15 @@
+Aesthetic: ((futuristic, advanced, innovation, technology, cutting-edge, sci-fi):1.4)
+BREAK
+Composition: <lora:panties_pulled_aside_fuck.v1.0:0.7> (panties pulled aside fuck, 1girl, looking at camera, pretty face, detailed face and eyes, big breasts), (having sex), (vaginal intercourse, missionary, 1boy, ((penis)), vaginal, creamy pussy) (((wearing panties, panties pulled aside fuck))), orgasm
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

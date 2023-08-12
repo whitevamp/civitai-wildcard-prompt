@@ -1,0 +1,1 @@
+3DMM, 3d render, purple background, gameicon, bottle with purplewater, skull,  ((purple smokes background):1.2), bubbles on water,   ((best quality, masterpiece, absurdres):1.2),  <lora:3DMM_V10:1>

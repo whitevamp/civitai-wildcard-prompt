@@ -1,0 +1,12 @@
+masterpiece,beautiful, best quality,perfect lighting,artstation,backlight,3 light setup,
+,colorful,
+dramatic lighting,solo,1girl,
+<lora:purah-nvwls-v3-2:1>
+red glasses, hair ornament, hair stick, red headband, white shirt, bare shoulders, white jacket, black skirt, orange leggings, high heels,purah,
+naked,nude,completely nude,completely naked,blue pubic hair
+legs up,pussy,nipples,ass,ass focus,spread legs,folded,grabbing own thigh ,holding legs ,leg grab,leg hold,lying,
+bottomless,cum,creampie,exhausted,motion lines,after sex,head back,shaking,fucked silly,trembling ,orgasm,female orgasm,arched back ,^^^,sweat,steam,
+<lora:Legsuppresentingreal:0.6>
+ahegao,
+ahg,rolling eyes,tongue
+<lora:ahe:0.8>

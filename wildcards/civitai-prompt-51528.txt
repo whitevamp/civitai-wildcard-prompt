@@ -1,0 +1,1 @@
+absurdres, (((masterpiece))),  a person experiencing synesthesia while listening to their favorite song, blending of senses, such as seeing colors or shapes while hearing music, and evoke a sense of wonder and beauty, the crossing of senses, where someone may hear colors or see sounds, depth_of_field, light_particles, <lora:epiNoiseoffset_v2:0.4>, colorful

@@ -1,0 +1,7 @@
+1girl,exquisite nose,thin lips,((long hair)), ((nude):1.3),jewelry, standing,
+outdoors,cityscape,crowd,glass door,
+<lora:breasts_on_glass:1.1>,(breasts on galss:1.3),
+((detest, hate):1.3),
+(huge breasts),milk,water drop, wet,steam,pussy,
+ <lora:GreenHeartBlackArmor:0.75>,
+power symbol-shaped pupils, greenx,ponytail,

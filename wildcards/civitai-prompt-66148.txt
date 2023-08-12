@@ -1,0 +1,1 @@
+masterpiece, best quality, Metal Gear Solid, Solid Snake, hair(brown) sneaking suit (dark blue/black),long bandanna (dark blue), ((clean shaven)), full body  <lora:DarkestDungeon_hard:0.8>,  <lora:yojiShinkawaStyle_offset:0.6>,

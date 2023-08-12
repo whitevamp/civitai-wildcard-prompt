@@ -1,0 +1,1 @@
+((pixel art)), (underwater world), colorful fish, bright corals, bubbles, rays of light, intricately detailed, natural bright sunlight, masterpiece, lit, [high-key], high contrast, hard shadows   <lora:add_detail:0.5>

@@ -1,0 +1,6 @@
+1 woman, detailed face, turtle neck, hood 
+ dark, dim light 
+(behind a bunch of colorful feathers, perspective)
+wind  high contrast 
+(photorealistic) <lora:epiNoiseoffset_v2:1>
+jim lee, Mariusz Lewandowski, liv tyler

@@ -1,0 +1,4 @@
+negative space, shuimobysim, masterpiece, best quality:1.2), traditional chinese ink painting, 
+peaceful, (smile), looking at viewer, wearing long hanfu, white hanfu, 
+A white dragon with hudge dragon head, A chinese dragon surrounded,
+<lora:Moxin_10:0.3>

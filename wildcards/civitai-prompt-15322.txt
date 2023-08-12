@@ -1,0 +1,3 @@
+1girl,living hair, Standing with one foot in front of the other,(floating hair),Lime green lace-trimmed bralette with a matching bikini panty,
+striking,alan lee,
+  <lora:difConsistency_photo:0.55> <lora:difConsistency_detail:0.4>

@@ -1,0 +1,4 @@
+[32k|16k|best-quality], professional photo,and polar bear, animal <lora:volibearV1:1>
+<lyco:Saya-pov missionary(strangling):1.0>,1girl,vaginal,strangling,
+<lora:3DMM_V7:0.55> 3DMM
+<hypernet:Mixture-500:0.2> 

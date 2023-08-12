@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), (20yo asian girl, cute, smooth thigh, pale skin, long blonde hair, medium breasts, glistening skin, blushing), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose,
+
+on stomach, fellatio, intricate detail, detailed penis, face covered in cum, cumshot, off screen, horny expression, naked, pov, spread, from front, 
+
+ <hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1> <lora:DDbj&feet_v1(pd):0.5> <lora:cumshot_49:0.5> 

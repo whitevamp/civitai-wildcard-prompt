@@ -1,0 +1,7 @@
+absurdres, 1girl,medium breast, blush, (realistic:1.6), (photorealistic),
+ (masterpiece, Extremely detailed CG unity 8k wallpaper, best quality, highres:1.2), (ultra_detailed, UHD:1.2),  perfect illumination, distinct, (1girl:1.4),  looking at viewer, unreal engine, sidelighting, perfect face, detailed face, bangs, perfect body, beautiful eyes, pretty face, (bright skin:1.4),  (realistic skin texture),
+natural breasts,
+bright eyes,
+(looking at camera:1.6), dark place, night,
+dress,
+<lora:Anya Joy:0.65>

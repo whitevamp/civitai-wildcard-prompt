@@ -1,0 +1,1 @@
+masterpiece, best quality,girl, black_skirt, blonde_hair, nice body, breasts, chain-link_fence, earrings, fishnet_gloves, fishnet_legwear, fishnets, hair_over_one_eye, jewelry, long_hair, looking_at_viewer, pose,<lora:Makima:0.3> <lora:tokugirlReika_v10beta:0.3><lora:Tifa_meenow:0.2>,((magazine cover))

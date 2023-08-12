@@ -1,0 +1,3 @@
+(1man, wrinkled face, old ukrainian male:1.2), wise,  blue eyes, platinum blonde hair, beard,
+ looking down, solo, half shot, detailed background, detailed face, (<lora:SteamPunkAI:0.4>, steampunkai, steampunk theme:1.1), researcher,  shirt, innovation, advanced technology, fantastical science lab in background, chemistry, vials, test tubes, medicine, [lab mask:gas mask:0.2], liquid tanks, bunsen burner,   
+<hypernet:sxzBloom_sxzBloom:0.2>,

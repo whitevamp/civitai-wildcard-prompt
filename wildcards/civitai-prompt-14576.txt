@@ -1,0 +1,3 @@
+beautiful lighting,best quality,masterpiece,ultra highres,photorealistic,
+(soft_light:1.5),(lighting),delicate elegance,captivating beauty,tender poise,enchanting,
+1girl,solo,((huge breasts:1.2)),<lora:Kido_SaoriV3:0.7> Kido_Saori,(athenaCloth_armor:1.1),Lavender hair,<lora:XXMix9_v20LoRa:0.45>,(hair between eyes:1.2),sitting,looking at viewer,Simple background,

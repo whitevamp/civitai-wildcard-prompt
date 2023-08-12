@@ -1,0 +1,2 @@
+4K, Masterpiece, highres, absurdres, [(GothGal|Garterbelt)::0.5], woman wearing a garterbelt, leather, multiple straps, skull print, GothGal_embroidery
+ <lora:edgGothGarterbelt:0.77>

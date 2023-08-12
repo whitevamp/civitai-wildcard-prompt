@@ -1,0 +1,5 @@
+young korean idol, leaning forward, smiling, denim short, loose sweater, cleavage, braless, wide shot, nipples,
+long hair, cute face, big breast, slim waist, wide hips, 
+indoor, (photo background), bedroom, bed, booskhelf,
+beautiful face, (cute face), (detailed eyes, detailed lips, detailed nose), detailed fingers, ((perfect anatomy:1.4, extremely detailed face:1.3)), clear skin, clear face, (realistic skin tone, realistic skin texture), realistic hair, realistic lighting, masterpiece, best quality, highly detailed, gigapixel, DSLR, (8K, UHD), (realistic, photorealistic:1.4), neutral color, (natural lighting), ((full body shot)),
+<lora:extendedDownblouse_v10:1>  <lora:(face)chilloutmixss_xss10:0.6>

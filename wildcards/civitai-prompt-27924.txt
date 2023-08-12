@@ -1,0 +1,1 @@
+masterpiece, best quality, detailed, Surrealism, by Hans Rudolf Giger, <lora:hrgiger2x:0.8>, glowing, armor, glowing eyes, mecha, large wings, <lora:EbonyGoldMecha:0.8>,  <lora:add_brightness:1>

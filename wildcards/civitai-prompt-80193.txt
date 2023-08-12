@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),(highres),
+1girl,
+ <lora:Konan_V2:0.6> konan \(naruto\),  (akatsuki outfit:1.1),  labret piercing, (paper:1.2),
+ripples,swirling ,
+<lora:anime_minimalist_v1-000020:-0.2>,
+ <lora:flat2:-0.5>,

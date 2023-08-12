@@ -1,0 +1,1 @@
+(masterpiece),(best quality),(ultra-detailed),chibi,cute, smile, <lora:Eileen:0.9>,1girl,solo, <lora:blindbox:0.5>, ski goggles, skis

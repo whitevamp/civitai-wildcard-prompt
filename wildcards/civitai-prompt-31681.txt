@@ -1,0 +1,7 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), sitting, arms support,
+(short hair, long sidelocks:1.2),
+looking at viewer,
+small breasts,
+covered nipples, puffy nipples,
+indoors, bedroom, upper body, blanket,
+<lora:Tomboy:1>  

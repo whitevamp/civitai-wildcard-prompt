@@ -1,0 +1,8 @@
+(masterpiece,best quality:1.3),(ultra-detailed),(absurdres),
+
+1girl,(nsfw),(full body),huge breasts,breast focus,
+jacket, red jacket,school uniform,black pantyhose, bottomless, topless,
+very long hair, balck hair, straight hair, blunt bangs,red eyes,
+navel, narrow waist,
+
+<lora:JabamiYumeko_jyV1:0.8>

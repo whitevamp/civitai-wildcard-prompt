@@ -1,0 +1,10 @@
+masterpiece, best quality, painting,
+(water color painting:1.3), (shukezouma, negative space:1.6), 
+(MoXin, shuimobysim, ink wash, chinese ink painting:1.6),
+one girl, pretty, (Hakurei Reimu:1.3), smile, 
+blush, brown eyes, intricate eyes, heavy eye makeup, bare shoulders, 
+red hair bow, frills, wide sleeves, detached sleeves, hair tubes, 
+red skirt, red shirt, yellow ascot, bare calf,
+peaceful, standing, looking at viewer, (full body:1.2), 
+flower tree branch in background, (song, poem, verse, stamp:1.2),
+WUCHANGSHUO, BONIAN, ZHENBANQIAO, BADASHANREN

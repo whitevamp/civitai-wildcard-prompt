@@ -1,0 +1,1 @@
+3d style,3d render,cg,beautiful, white hair, long braid, brown eyes, flower on the neck, fancy clothes, cute gloves <lora:3d_render_style_xl:1>

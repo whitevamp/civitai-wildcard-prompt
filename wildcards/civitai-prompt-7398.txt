@@ -1,0 +1,6 @@
+full body:1.2, upper body,  kiss, yuri, 2girls kissing, from side:1.2, detailed background, 
+charming, beautiful, (8k, best quality, masterpiece), ultra detailed, ultra high res,
+(realistic, photo realistic), high detail photo, professional photograph, depth of field,
+(shiny skin, pale skin, smooth skin, soft skin:1.2), an extremely delicate and beautiful, extremely detailed, 8k wallpaper, Amazing, finely detail, official art, extremely detailed CG unity 8k wallpaper, dynamic lighting, Backlight
+ lips,  yuri, seaside, beach, outdoors, wind, professional photography, sunlight, sunset, 
+ <lora:npmathilda:0.8>

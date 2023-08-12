@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.6>
+Henshin, solo, looking_at_viewer, shirt, 1boy, jacket, white_shirt, upper_body, male_focus, necktie, collared_shirt, mask, formal, suit, black_necktie, furry, spikes, furry_male, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

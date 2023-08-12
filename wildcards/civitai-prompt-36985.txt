@@ -1,0 +1,3 @@
+masterpiece, best quality, 1girl, full body shot, medium breasts, serious expression, 
+<lora:cammy_white_v1:0.7>, cammy white, twin braids, long hair, blonde hair, antenna hair, beret, (red headwear:1.3), blue eyes, scar on cheek, large breasts, green leotard, sleeveless, red gloves, fingerless gloves, camouflage,
+on top of mountain, snowing, background covering in snow,

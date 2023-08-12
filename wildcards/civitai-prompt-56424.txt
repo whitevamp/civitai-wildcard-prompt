@@ -1,0 +1,7 @@
+((masterpiece, best quality)), (detailed light),layered backgrounds, (gorgeous background),dynamic angle,delicate background,colorful,
+(1 girl:1.3),
+tokyo \(city\), street, cityscape, sunlight,
+standing, full body,
+ganyu \(genshin impact\),hair ornamen, mature female,twin horns, blue hair, blue eyes, beautiful eyes, 
+serious,killing intent,
+close-up,black pantyhose, (black generous coat:1.3),(white shirt:1.2), (black shorts:1.2),  <lora:ganyuGenshinImpact_v20:0.4>, <lora:arknightsTexasThe_v10:0.2>

@@ -1,0 +1,2 @@
+masterpiece, best quality, black c4ttitude, wide brim, witch hat, hand on headwear, head tilt,
+<lora:c4ttitudeflexver:0.9> <lora:LowRA_Dark:0.5>,

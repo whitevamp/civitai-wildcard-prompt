@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, smile
+1girl, saotome mary , school uniform, twintails, blonde hair, black skirt, looking at viewer,
+ <lora:Kizuki - Kakegurui Saotomi Mary LoRA:0.75>,

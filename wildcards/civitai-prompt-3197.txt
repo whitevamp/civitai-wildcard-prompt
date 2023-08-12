@@ -1,0 +1,2 @@
+masterpiece,best quality,1girl, black_hair, blue_shirt, cover, cover_page, fake_cover, lips, magazine_cover, realistic, short_hair, short_sleeves, skirt, solo, white_skirt
+<lora:add_detail:0.4>,

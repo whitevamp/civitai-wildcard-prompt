@@ -1,0 +1,4 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1), detailed, extremely detailed 4K, perfect eyes, perfect face, perfect lighting, <lora:tool_addDetail:0.25>,(1girl, solo, adult female, mature female), <lora:detailed_eyes:0.7> ,
+[muscular], thin, thigh muscles, leg muscles,
+<lora:concept_costume_edgSDress_(edgSDress):1>,edgSDress, wearing edgSDress, cowboy shot, outside, blue sky, trees, japanese city park background, 
+<lora:character_rukiaBleach_v10:0.85>, rukia, black hair, purple eyes, smirk, smile, short, exposed shoulders, fashion,  black and white romper, black and white outfit, short sleeves, wide neck

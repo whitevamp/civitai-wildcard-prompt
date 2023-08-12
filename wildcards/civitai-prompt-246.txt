@@ -1,0 +1,1 @@
+nsfw, photorealistic, high quality, highres, absurdres, indoors, messy room, short black socks, yellow skirt, thighhighs, full body, sitting, looking to the side, <lora:photorealistic02:0.6> <lora:FilmG3:0.8>  <lora:XSarchitectural-38InteriorForBedroom:1>, kitchen, (black legwear:1.4), poverty,

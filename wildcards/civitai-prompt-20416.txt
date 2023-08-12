@@ -1,0 +1,1 @@
+1mother, wearing yellow european dress, assup, bending down, blonde hair, zoomed in, mature body, inside traven room, (masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic) <lora:Assupv1:0.65> <lora:add_detail:0.4>

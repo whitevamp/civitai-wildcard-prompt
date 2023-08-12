@@ -1,0 +1,3 @@
+Louis de Funes LDF, wearing a red (strtrk uniform:1.1), long sleeves, red trousers, interior ship background, (sitting in the captain chair on the spaceship), epic character composition in star trek world, communicator
+
+high quality photography, natural lighting, canon eos 5d mark ii, photorealistic, 8k, photo by Annie Leibovitz, detailed skin, ultra realistic, bokeh, sharp features, ideal human, 90mm lens, f16,  ultra details, photo  <lora:louisDeFunS_v10:0.7> <lora:starTrekUniforms_v1:0.95>

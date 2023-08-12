@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, 
+lineart, 
+ankymoore, 1girl, solo, short hair, simple background, black hair, dress, jewelry, upper body, flower, earrings, black eyes, black dress, makeup, floral print, lipstick, red flower, brown background, red lips, print dress, tan background,
+ <lora:ankymoore-04:1>

@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra-detailed, illustration, an extremely delicate and beautiful, 1girl, solo, five fingers,(Beautiful,large_Breasts),light smile,
+<lora:lolita_dress_classic_1_v3:0.6>,lolita_dress,
+(in the messy room:1.3),(cute interior:1.5),(pink room),window,kawaii room,canopy,frills,pink chair,(baldachin:1.5),(Foliage plant:1.2),(chesterfield chair:1.5),
+blue hair, <lora:flat2:-0.3>

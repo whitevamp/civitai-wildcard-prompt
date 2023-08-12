@@ -1,0 +1,5 @@
+((best quality)), ((masterpiece)), ((realistic)), (detailed), cinematic lightning, highly detailed skin,
+girl, freckles, (blue eyes), long eyelashes, (bikini top, bikini bottom), (small breasts), laying, dynamic pose, looking at viewer, ((multicolored, pink hair, blue hair)), twin buns, bangs, necklace,bracelet,wrist watch, double helix piercings, bellybutton ring, pokies, smirking, panties, 
+town, beach, pedestrians, rain, cyberpunk art, stunning gradient colors, detailed background, colorful flowers, vines, vegetation, 
+, ((masterpiece)), absurdres, HDR,
+<lora:add_detail:0.5>

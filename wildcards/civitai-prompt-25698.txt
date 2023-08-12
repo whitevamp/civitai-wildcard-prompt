@@ -1,0 +1,1 @@
+green lantern, portrait, (((1girl))), beautiful, flirtatious look, solo,  city background,  <lora:HalJordan:1>, <lora:3DMM_V12:1>

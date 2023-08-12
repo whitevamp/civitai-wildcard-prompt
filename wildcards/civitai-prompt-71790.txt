@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1), (realistic, photo-realistic:1),cute, dating,(smile:0.9), (closed mouth),small breasts, beautiful detailed eyes,Perfect Face,<lora:hanfu_v29:0.72>, (1girl, song hanfu, song style outfits, short shan, pleated shan skirt),(full body:1.2),<lora:taiwanDollLikeness_v10:0.3>

@@ -1,0 +1,1 @@
+Photo of a woman with (tanlines:1.0) from a bright red sunburn <lora:sunburn_tanline_v1:1.0>, broken pouting, sharp focus, ultra-detailed, RAW photo, <lora:bitch_breaker_v2:0.8>

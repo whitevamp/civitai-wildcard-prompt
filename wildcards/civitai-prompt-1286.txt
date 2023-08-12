@@ -1,0 +1,2 @@
+(masterpiece), extremely intricate, (realistic), abandoned ragged car, abandoned luggage, Wrapped in plants, broken glass, plant, sharp focus, dramatic, award winning, cinematic lighting, octane render, unreal engine, volumetrics dtx, outdoors, in the forest, dim lighting, night,
+<lora:epiNoiseoffset_v2:1>,

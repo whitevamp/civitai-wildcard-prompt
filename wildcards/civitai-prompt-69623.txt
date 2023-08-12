@@ -1,0 +1,2 @@
+<lora:spiderwebbed_v1:0.65>(best quality, masterpiece, realistic, detailed, 8k), 1girl, magical girl, bound legs, bound arms, ((spiderwebbed)), (suspension), spider web,
+ hanfutang,<lora:hanfutang_v31:0.35>

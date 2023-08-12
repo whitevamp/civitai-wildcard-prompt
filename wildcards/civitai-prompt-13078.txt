@@ -1,0 +1,4 @@
+masterpiece, best quality,
+bubble, no humans, black background, blurry, gradient background, gradient, depth of field,
+Seahorse, Coral,
+<lora:bubble:1>,

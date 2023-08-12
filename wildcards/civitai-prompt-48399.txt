@@ -1,0 +1,1 @@
+<lora:aodaimong_v2:0.7>, ((white aodaimong)), khongbra, standing, pureerosface_v1

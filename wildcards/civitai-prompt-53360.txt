@@ -1,0 +1,3 @@
+(iphone 14)
+<lora:bluePrintDisassembly_v10:1>  (disassembly diagram, CAD diagram)
+(3d (isometric)), realistic, octane, 48, 8k, hyperalistic, high quality, 4k, high res, 8k uhd, DSLR, high quality, Fujifilm XT3, realistic, colorful

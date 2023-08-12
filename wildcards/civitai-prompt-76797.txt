@@ -1,0 +1,12 @@
+(best quality, masterpiece),
+1girl,
+(fisheye lens), well defined,blush, highly detailed, 8k,  striking a pose, 
+floating burning, (girl floating in sky, floating in air), tendrils of magic float around her, wisps of fire, full moon, starry night behind her,
+RAINBOWSTYLE,
+18yo, sporty 18-year-old,
+sweaty skin, glistening,
+witch hat, witch, glowing runes, necklace, charms, bracelet, glowing jewelry,
+(full body shot:1.4), tendrils of water float around her, ribbons floating in air, (levitating),
+fire in a bubble, girl in the sky,
+zentangle,
+ <lora:Squeezer2:-1>

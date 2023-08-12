@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, <lora:quistis-nvwls-v1-final:0.7>,quistis,orange jacket, detached sleeves, orange skirt, belt, <lora:handpull-12:0.9>,handpull,pulled by self,clothes pull,shirt pull,one breast out,no bra,armpits,presenting armpit,arm up, nipples,from side,upper body,looking at viewer

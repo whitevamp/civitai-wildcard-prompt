@@ -1,0 +1,1 @@
+masterpiece,best quality,HDR,high-definition,Intricate Details,vray render, octane render,1girl, curvy, short white hair, bunny ears, stockings, jack-o' challenge, flexible, spread legs, top-down bottom-up,  <lora:JackOPoseFront:0.8>

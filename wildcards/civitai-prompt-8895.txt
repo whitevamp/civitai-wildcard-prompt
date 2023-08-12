@@ -1,0 +1,3 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres,  1cat, Chartreux,  space helmet, astronaut,universe, night sky,  aliens,  alien space ship, spaceship light on cat,
+animal focus, animal, no humans, realistic, looking at viewer, Jumping from above, paw
+<lora:Chartreux_38-000002:0.6>,

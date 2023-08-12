@@ -1,0 +1,2 @@
+cartoon, masterpiece, best quality, extreme detail, 8k, detailed face,young woman wearing detailed intricate leather colored (OPSW:1.2),(slicked hair:1.2), sitting, (orange hair), short ponytail,(summer_pacen:1.2),swimsuit,embroidery, cleavage ,outside,  (beach in background, sand, sea,water, palm trees, lagoon), hand on chest, smiling, detailed patterns, looking at viewer, upper body, posing,  cleavage cutout,
+<lora:SummerPacen_v1:0.8>, <lyco:hardSwimwear_hard:0.8>

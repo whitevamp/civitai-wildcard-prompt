@@ -1,0 +1,1 @@
+white model, symmetrical 3/4 shot, skintight dress, ellanyan wearing with mecha armour, plastic helmet, plastic model face, short hair, <lora:gundamRX782OutfitStyle_v10:0.3> (simple background:1.2), in the style of gundam\\(rx78\\), <lora:ellaFreya_v10:0.2>, small chest, small breasts,

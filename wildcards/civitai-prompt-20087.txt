@@ -1,0 +1,4 @@
+professional photo of  1girl wearing small bikini, in front of ancient mosque building, high tower, epic, dramatic lighting, muslim prayer, bend down,
+detailed skin, detailed eyes, detailed face,
+high quality, volumetric light, highrez, masterpiece, best quality,
+<lora:ARWMosqueOld:0.92:MIDD>

@@ -1,0 +1,1 @@
+<lora:hashimotokannaJPIdol_v15:0.6>, 1 girl in street, (cowboy shot:1.2), detailed beautiful face, smile, bangs, realistic brown eyes, makeup, perfect skin, intricate details, masterpiece, high quality, (ultra highres), soft lighting, ray tracing, photorealistic, physically-based rendering <lora:onOffLora_v239Experimental:0.4>

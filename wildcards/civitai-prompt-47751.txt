@@ -1,0 +1,4 @@
+(masterpiece:1.2, best quality), realistic, (real picture, intricate details, depth of field), parted lips, highly-detailed, perfect face, perfect body, oversize model,
+mature woman, tall, long legs, huge breasts,
+nature background bokeh
+<lora:aoDaiVietnameseLong_v10:0.6>

@@ -1,0 +1,2 @@
+masterpiece, best quality, highres, nit2, animal ears, dark skin, long hair, facial mark, hairband, multicolored hair, revealing clothes, pelvic curtain, pasties, bracelet, jewelry, <lora:nitocris_(fate)_v1:0.7>, standing, cowboy shot, hand on hip,
+ <lora:epiNoiseoffset_v2:1>

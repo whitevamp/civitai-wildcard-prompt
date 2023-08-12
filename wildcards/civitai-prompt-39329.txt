@@ -1,0 +1,1 @@
+(realistic,raw photo,masterpiece, best quality:1.4), <lora:add_detail:0.5>, <lora:add_sharpness:0.25>, 1girl, (petite:1.3), long white hair,  (lace panties), red plaid skirt, white shirt unbuttoned, solo, modern room

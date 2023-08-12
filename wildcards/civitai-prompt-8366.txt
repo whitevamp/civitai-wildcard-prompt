@@ -1,0 +1,4 @@
+((bbc-facial, 1boy, hetero, nude, penis, solo focus, cum, lips, uncensored, testicles), 1girl, long hair, brown eyes, Caucasian woman, on a snowy mountain, blonde hair, medium breasts, nipples, cum on body, facial, cum in mouth, realistic, after fellatio, beautiful face, seductive face, seductive look, beautiful skin, perfect skin, perfect face)
+ <lora:add_detail:0.3> 
+<lora:bbc-facial:0.65>
+<lyco:locon_perfecteyes_v1_from_v1_64_32:1.0>

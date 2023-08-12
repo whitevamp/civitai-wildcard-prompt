@@ -1,0 +1,5 @@
+masterpiece, best quality
+<lora:Sarah Zhu:0.7:FACE>1girl, large_breast, ponytail
+cowboy_shot,
+(see through  1-1$$white|pink|red|golden and black bunny girl:1.2), 
+casino, indoor,

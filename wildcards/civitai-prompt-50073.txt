@@ -1,0 +1,3 @@
+masterpiece, highest quality, (perfect face) , (high detail),dynamic pose,science fiction,eyes_gazes,
+1girl,18,solo, slender,half updo,burgundy,, Camel_trench_coat, black_turtleneck, faux_leather_leggings, knee-high_boots, structured_handbag,,hazel,
+dusk,hail,bar,detailed background, cinematic lighting, <lora:dreamyGirlsFace_dreamyFace:0.4>

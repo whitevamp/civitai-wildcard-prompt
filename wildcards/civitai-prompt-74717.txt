@@ -1,0 +1,1 @@
+woman, cropped-fc,  <lora:cropped-fc-v2:1>, dark, rim lighting, two tone lighting, dimly lit, low key,  ,<lora:epi_noiseoffset2:1>

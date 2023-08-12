@@ -1,0 +1,3 @@
+masterpiece, best quality, (highly detailed body, highly detailed face, best quality:1.2),classroom, realistic, 
+(1girl), large breasts, from behind, looking back,skirt,school uniform, looking at viewer, thighhighs, shy,  ass grab, 
+<lora:photoblend:0.3>, <lora:NegStd3:0.4>, (RSEEmma:0.8), (RSERomantic:0.7) ,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.25>,     <lora:GodPussy1 v3:0.5>,pussy,

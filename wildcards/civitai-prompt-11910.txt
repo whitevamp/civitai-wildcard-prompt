@@ -1,0 +1,1 @@
+<lora:envybetterhandsLocon_alpha3:1>, <lora:Lineart-v2.0:1>, MONOCHROME, GREYSCALE, a kid with glasses going to school

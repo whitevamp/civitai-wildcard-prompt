@@ -1,0 +1,4 @@
+2d, nsfw, pastel color, watercolor, 
+lineart, 
+ankymoore, 1girl, solo, long hair, blue eyes, blonde hair, dress, bare shoulders, closed mouth, upper body, artist name, white dress, lips, makeup, red lips, snowflakes,
+ <lora:ankymoore-04:0.9>

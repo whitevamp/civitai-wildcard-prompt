@@ -1,0 +1,4 @@
+makima \(chainsaw man\),  1girl,  white shirt,  black tie, heavy rain, wet,  outside street, tokyo, night, street light, black bra
+masterpiece,  highres, 
+
+ <lora:makimaChainsawMan_offset:1>

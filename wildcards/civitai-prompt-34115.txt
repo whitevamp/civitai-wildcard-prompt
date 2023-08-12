@@ -1,0 +1,5 @@
+<lyco:envybetterhands-beta2:1.0> <lyco:shiny_oiled_skin-v2:1.0> <lora:add_detail:0.7> <lora:metal_collar:1.0> masterpiece, best quality, high quality, absurdres, highres, perfect hands, nice hands, (completely nude, stripper, pole dancer, erotic pose, on stage:1.4), (hatsune miku, megurine luka:1.2), (2girls:1.2), very long hair, makeup, completely nude, large breasts, long hair, hair flower, bangs, shiny_skin, fit, athletic,
+BREAK
+(hatsune miku:1.3), 1girl, nude, metal collar,
+BREAK
+(megurine luka:1.3), pink hair, 1girl, nude, metal collar,

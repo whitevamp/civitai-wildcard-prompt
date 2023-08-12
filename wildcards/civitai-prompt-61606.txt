@@ -1,0 +1,1 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, 1girl, dramatic lighting, off-shoulder, t-shirt, shower, wet, wet t-shirt, wet hair, seductive expression, <lora:wetshirt:.8> in a sheer see through wet white shirt <lora:GirlfriendMix2:0.7> <lora:zovyaWetHairLORA64_V1:0.4>

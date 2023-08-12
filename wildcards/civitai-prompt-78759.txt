@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, hanfu,look up to,full body,looking up, red eyes,red hair, red flower clothes,beauty eye,backlighting, full body,chibi, fire,Magma,rock,<lora:blindbox_v1_mix:0.9> ,perfect ratio,chin grab, <lora:epi_noiseoffset2:1>,

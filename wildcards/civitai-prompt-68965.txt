@@ -1,0 +1,6 @@
+vagina, (Masterpiece, Best Quality, High Quality:1.4), professional artwork, Intricate Details, field of view, sharp focus, detailed painting, masterpiece, cinematic lighting, trending on pixiv, (vivid lighting, vibrant colors, by by Nagasawa Rosetsu:1.05),
+Hiroko Takashiro, (mature female, milf:1.1), (curvy:1.1), (sitting, on bed, panties down, masturbating, spread legs:1.15), room, (cowboy shot:1.1),
+(red hair:1.05), long hair, ultra detail hair, ultra detail face, (purple eyes:1.05), perfect eyes, perfect face, earrings, (horny, blush:1.2),
+shirt, (black thighhighs, garter belt:1.1), (zettai ryouiki:0.8), 
+(Large Breasts:1.1), big ass, thights, (pussy, pussy focus:1.1),
+<lora:HirokoTakashiro:0.9>, <lora:add_detail:0.5>, <lora:epi_noiseoffset2:0.5> <lora:realisticVaginasGodPussy_godpussy2Innie:0.7>

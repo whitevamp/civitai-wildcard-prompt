@@ -1,0 +1,1 @@
+futobot, cyborg, 1girl, (cybernetic implant eyes), (cybernetic implant jaw), (realistic:1.3), finely detailed, quality, (masterpiece:1.2), (photorealistic:1.2), (best quality), (detailed skin:1.3), (intricate details), (masterpiece, photorealistic:1.3)  <lora:lit:0.6>    <lora:tsuchiyatao_lora:0.7> <lora:Futuristicbot4:0.7> <lora:Niji:0.7>

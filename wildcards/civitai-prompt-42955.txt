@@ -1,0 +1,2 @@
+Masterpiece, 1girl, bodystocking, sweater,
+<lora:MilaAzul_1.0:0.5>

@@ -1,0 +1,4 @@
+professional photo of jitomi monoe, 1girl, solo, jacket, white jacket, zipper pull tab, puffy long sleeves, closed mouth, short hair, pantyhose, black hairband, boots, white footwear, cross-laced footwear, full body, standing
+detailed skin, detailed eyes, detailed face, action pose,
+high quality, volumetric light, highrez, masterpiece, best quality,
+<lora:jitomi_monoe:0.5:MIDD>

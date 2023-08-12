@@ -1,0 +1,2 @@
+masterpiece,best quality,8k,highestres,absurdres,
+(the moon:1.2),water,mountain,( large moon:1.2) ,large moon in sky,1wolf ,1dog, 1crayfish,dark night,<lora:LowRA:0.5>

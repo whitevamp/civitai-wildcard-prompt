@@ -1,0 +1,9 @@
+(nradiowave:1.4), (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, Solo, Standing, Hatsune Miku,
+Aqua Hair, Twintails, 
+Aqua Eyes, Long Eyelashes, Thick Eyelashes, Looking at Viewer,
+Happy, Smile, 
+Thighhighs, (Black Pleated Skirt:1.2), 
+Thick Thighs, Skindentation, (Doll Joints:1.2),
+Outdoors, Forest, Path, Plants, Trees, Rocks, 
+ <lora:nradiowave:1.2>

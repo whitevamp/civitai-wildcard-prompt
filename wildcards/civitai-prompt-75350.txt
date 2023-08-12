@@ -1,0 +1,7 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,
+1girl,solo,
+supermarket,
+indoor,
+Serenity,
+garden, blossoms, peaceful,
+<lora:oc_v10:0.3>  <lora:LowRAv2:0.6>

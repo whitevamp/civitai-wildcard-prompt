@@ -1,0 +1,6 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,evocative hues,moody atmosphere,sharp focus,
+1girl,solo,
+winery,
+outdoor,
+courtyard, cloistered, contemplative,
+<lora:oc_v10:0.3>  <lora:LowRAv2:0.6>

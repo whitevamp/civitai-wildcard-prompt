@@ -1,0 +1,5 @@
+(by qupostuv35:1.2),
+female, (Detailed face), (solo:1.1), ((anthro, humanoid)), [(thin:1.1) : small petite : (angel \(lady and the tramp\):1.2):4], (Detailed face), (more details, detailed background:1.1), (anthropomorphic legs, anthropomorphic hands:1.1),
+playing acoustic guitar, bangs, collar, sits on a luxurious armchair, shorts, (top:1.1),
+
+<lora:Angel_V3:0.7>,

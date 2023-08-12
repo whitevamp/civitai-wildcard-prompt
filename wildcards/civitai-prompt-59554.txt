@@ -1,0 +1,2 @@
+ishtar \(fate\),  highres, highest quallity, illustration,  ultra detailed, (detailed face), (detailed eyes), best quality, hyper detailed, masterpiece, 1girl, solo, black hair, red eyes, blush, single elbow glove, detached sleeve, single black thighhigh, asymmetrical legwear, midriff, luminous eyes, medium breasts, light rays, cleavage, (colorful),close up, portrait, sitting, looking at viewer, smile, indoors, library, bookshelf
+<lora:ishtarFate_v2:0.8>

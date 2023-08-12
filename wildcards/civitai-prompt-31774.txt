@@ -1,0 +1,6 @@
+solo, 1girl, TanRealStockings, (white collar plain blouse:1.3), bottomless, 
+(from below), from behind, ((gigantic bare ass)), ((detailed hairy anus)), 
+bokeh, (depth of field:0.6), film grain, posing for a photo, smile, rim light, 
+indoor, ((Japanese old class room)), window, (curtain:0.7), intricate detailed background, summer, blackboard, 
+((masterpiece)), best quality, absurdres, nsfw, photo-realistic, a 34 years old beautiful Japanese woman, (perfect detailed face), detailed eyes, detailed mouth, detailed pale skin, black hair, (bob:1.2), good hands, good fingers, mature face, elegant,  
+<lyco:GoodHands-beta2:0.8>, <lora:TanRealStockings:0.85>, <lora:add_detail:0.25>

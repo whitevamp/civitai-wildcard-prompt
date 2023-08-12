@@ -1,0 +1,1 @@
+a cute happy corgi, flat shading, minimalist, (pixel:0.8) <lora:pixelbuildings128-v1:1>

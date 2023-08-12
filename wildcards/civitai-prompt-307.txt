@@ -1,0 +1,4 @@
+<lora:hiqcg_body_768_epoch-000005:0.4>, hiqcgbody, (anime:1.2), 1girl, twintails,  sitting in a clutter room wariza,  full body, barefoot,
+tank top, shorts, casual,
+detailed skin texture, detailed cloth texture,  beautiful detailed face,
+masterpiece, best quality, ultra detailed, 8k, intricate details,

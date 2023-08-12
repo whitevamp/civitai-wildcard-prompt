@@ -1,0 +1,3 @@
+masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,ultra high res,professional photography,sharp focus,HDR,8K resolution,intricate detail,sophisticated detail,photorealistic,1girl,kpop idol makeup,(closed smile:1.2),natural skin texture,realistic pores skin,(aesthetics and atmosphere:1.2),summer,street,Full body,(incredible sky:1.2),hands behind the back,
+<lora:add_detail:0.8>,
+<lora:evening dress S2:0.75> dress

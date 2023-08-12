@@ -1,0 +1,3 @@
+kilmaria
+<lora:KilmariaV1:0.85>
+((best quality)), ((masterpiece)), (detailed) (interview:1.3), (dark background, purple fire:1.3)

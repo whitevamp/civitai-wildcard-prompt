@@ -1,0 +1,2 @@
+best quality, indoors, window, potted plant, 1girl, yorha no. 2 type b, (nier \(series\):0.8), short hair, white hair, (black blindfold:1.1)<lora:2bYorhaNo2TypeBNier_v1:0.7:TT>, kimono, bare shoulders, npmaybe, probably no panties, (innerthigh:1.4), hidden privates, hidden by clothes, partally visible crotch, skirt slit, front slit
+<lora:none>

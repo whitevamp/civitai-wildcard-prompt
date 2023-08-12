@@ -1,0 +1,1 @@
+<lora:Fly-10:0.9> fly, 1girl, floating, solo, outer space, planet, aurora on planet   <lora:superyouya0:1>, eyes closed, red cape, blue suit

@@ -1,0 +1,2 @@
+1girl,dancer,dancing,harem outfit,(face veil:1),people,light particle, looking at viewer,green clothes,arm up,realistic,detailed background,nsfw,see-through, nipples <lora:HaremDancer_v1:0.8>
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, glowing skin, cinematic lighting, light smile <lyco:fairyworld:0.2> <lora:zhongfenghua:0.4> zhongfenghua

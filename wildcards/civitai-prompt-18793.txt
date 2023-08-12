@@ -1,0 +1,6 @@
+(CharacterSheet:1),
+(one male) (front view:1.6).
+Very detailed masculine face, heroic, detailed realistic open eyes, (muscular:1.5), narrow waist, (long hair), (slight smile), wearing a (small thong) with a (large bulge).
+(multiple views, full body, upper body, reference sheet:1), (simple background, white background),Realistic, photoreal, High contrast, high saturation, highly detailed, high quality, masterpiece, volumetric light, vibrant colors, bokeh, depth of field.
+<lora:BeautifulEyes:0.9>
+<lora:CharacterDesign_Concept:0.7>

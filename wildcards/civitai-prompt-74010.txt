@@ -1,0 +1,2 @@
+King of Litang
+ <lora:DingZhenLora_v1:1>

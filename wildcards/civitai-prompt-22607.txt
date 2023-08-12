@@ -1,0 +1,1 @@
+<lora:InstantPhotoX3:0.45>, instantphoto, night,  detailed body <lora:suspension:1>, suspension, shibari, rope, spread legs, (ultra high res,photorealistic,realistic,best quality,photo-realistic),pureerosface_v1 <lora:more_details:1.1>, long hair, bangs,<lora:koreanDollLikeness:0.75>

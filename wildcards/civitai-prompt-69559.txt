@@ -1,0 +1,3 @@
+photorealistic, (hyperrealistic:1.2), beautiful, masterpiece, best quality,
+(1man, thin adult  male:1.2),  brown eyes, yellow hair, medium hair,
+ solo, half shot, looking at viewer, detailed background, detailed face, (<lora:baroqueai_v10:0.5>, baroqueAI, baroque theme:1.1) sad, otherworldly glowing eyes, manifestation of death, hooded, dark clothes,   omen,  rot,  dark shadows, cold, underworld, crypt in background, ravens in background,  wind,  mysterious lighting, sinister dark atmosphere,

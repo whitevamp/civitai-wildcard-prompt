@@ -1,0 +1,4 @@
+(extremely detailed CG unity 8k wallpaper),(masterpiece), (best quality), (ultra-detailed), (best illustration),(best shadow), (sharp eyeliner, eyeshadow, detailed eyes:1.2), (indoors, cramped:1.2)
+,BREAK
+(Suomi:1.2), on back, touching ceiling, full body
+<lora:GTSv4:1> <lora:(p)Suomi:1>

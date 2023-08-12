@@ -1,0 +1,4 @@
+Best Quality,Masterpiece,Ultra High Resolution,(Realisticity:1.4),Original Photo,(Cinematic Lighting:1.11),
+NSFW, 1girl, 20 yo, solo, model shooting pose, medium breasts, nipples, blonde hair, bangs, bun, (tired up short braids), hair ornament, fair skin,  full body,  pussy, pubic hair, midjourney portrait,  hanfu, acient east asia architecture, china dress, Pixar style, by Tristan Eaton Stanley Artgerm and Tom Bagshaw 
+<lora:add_detail:0.8>  <lora:ClothingAdjuster3:0.2>   
+<lora:midjourney portrait_20230625143136:0.8>

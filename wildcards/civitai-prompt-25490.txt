@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,grass,textured hair, Neon Purple Ball gown wedding dress,depth of field, dusk,Squatting with hands on ankles
+ <lora:slg_20:1.0>

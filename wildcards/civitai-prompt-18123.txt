@@ -1,0 +1,2 @@
+portrait, absurd res, trending on artstation, cinematic lighting,honovy hioshiru foxovh, apogee, female,((facial  piercings)), bikini, blush, floppy ear,body markings,outside, beach ocean, clouds,looking at viewer,tail
+ <lora:apogee:1>

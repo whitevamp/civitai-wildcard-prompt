@@ -1,0 +1,4 @@
+((1girl, 20 years old, disciplined and cute, beauty, choker, huge breasts, thighs, navel, purple bra, purple thong, ashamed, parted lips, shiny body, blush,)),
+((masterpiece, extremely detailed ,CG ,unity ,2k wallpaper, Amazing, finely detail, ultra-detailed, highres, extremely detailed, best quality, photorealistic:1.4, realistic, ultra quality, 8k, real picture, depth field, (cinematic light), clear line, sharp focus, realistic face, ultra high res, intricate details, ultra-detailed,)),
+(( restroom, bed, dynamic pose, detailed skin, detailed vagina, detailed face, detailed eyes)),
+<lora:aiGRAVMOIICOS_v10:0.5>, teeth, open mouth,<lora:ArknightsChen5concept_10:0>

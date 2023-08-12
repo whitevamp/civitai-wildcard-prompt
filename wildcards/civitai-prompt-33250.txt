@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.4),realistic, 
+extremely beautiful face <lora:asianGirlsFace_v1:0.3>, <lora:FilmG3:0.6>

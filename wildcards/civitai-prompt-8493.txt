@@ -1,0 +1,6 @@
+cowboy shot,  (masterpiece), (best quality:1.0), (ultra highres:1.0), <lora:more_details:0.5>, <lora:detailed_eyes:0.5>
+BREAK
+<lora:Jasper-10:0.9> Jasper, flexing, mature female, muscular female, orange skin with red tattoos, yellow eyes
+<lora:belly_dance_dress:0.4> (belly_dance_dress:1.2)
+BREAK
+stage, gorgeous view

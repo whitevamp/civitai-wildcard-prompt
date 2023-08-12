@@ -1,0 +1,1 @@
+a photo of squidward with long black hair looking at viewer,  bikini bottom under the sea background, realistic, 3d, 3dmm <lora:handsome-squidward:1>  <lora:3DMM_V10:0.5>

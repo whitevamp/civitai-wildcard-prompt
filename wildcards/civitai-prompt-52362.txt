@@ -1,0 +1,1 @@
+(Realistic:1.5), <lora:helsieVideoGame_v10:0.7>, xyzhelsie, 1girl, fishnet:1.2, shoes, rainbow nails, naked, completely naked,  in glass jar, shrunken,  <lora:girlsInGlassJars_v3:0.4>

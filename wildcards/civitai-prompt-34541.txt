@@ -1,0 +1,5 @@
+lib_bg,
+Polka dot blouse,
+Graceful poise, evocative atmosphere, magnetic presence, refined seduction, captivating mystique,
+<lora:libbgV11.0heI:1>
+Striking Imagery, Bold Composition, Evocative Mood,

@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, medium breast, long hair, blonde hair, high ponytail, brown pupils, smile, (diamond necklace:1.2), silver bracelet, view from side, 
+ <lora:DakotaWhiteHalterDress:0.85>, white halter dress, armlet, 
+stand seductively, red carpet, focus lighting, 
+ <lora:public_v3.0-locon:1>, public, photographers

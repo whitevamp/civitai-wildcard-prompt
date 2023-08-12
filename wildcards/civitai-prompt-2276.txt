@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, an extremely delicate and beautiful, 1girl, solo, five fingers,flower,(Beautiful,large_Breasts),light smile,<lora:lolitaFashionDress_floral_style3:0.7>,lolita_dress,nature,garden, <lora:flat2:-0.3>,<lora:LowRA:-0.2>

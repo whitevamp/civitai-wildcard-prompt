@@ -1,0 +1,2 @@
+(yuliy:0.8),<lora:yuliy-15:0.8>,horse,
+(made of baked meat:1.4),texture of bread,detailed texture,sharp,meat hair (made of chicken meat:1.4),(baked:1.4),

@@ -1,0 +1,1 @@
+illustration of a  modern style architecture, dramatic, exquisite details, steps, Navy Blue, Mustard Yellow, White <lora:AIDVN_BartlettSchoolArtStyle:1> <lora:more_details:0.8>

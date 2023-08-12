@@ -1,0 +1,1 @@
+(Masterpiece:1.2, high quality), <lora:cat_20230627113759:0.8>, lineart, 1cat, (high angle), tears, sorrow, crying, <lora:teary:0.7>, full body, gold cat, simple background, white background, with a empty cat bowl in the foreground, detailed pupils, detailed paws

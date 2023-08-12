@@ -1,0 +1,4 @@
+1girl    ((Anna Dittmann))  symmetric, 
+portrait, floral,color ink  sketch , abstract, brush strokes , negative space 
+ (masterpiece, high quality)
+ <lora:add_detail:1>

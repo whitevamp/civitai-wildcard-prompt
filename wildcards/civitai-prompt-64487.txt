@@ -1,0 +1,1 @@
+(high detailed skin:1.2), 8k uhd, dslr, high quality, film grain, __Girl-Art__ girl,1girl,with Metallic gold hairUpdo haircut,Pointing pose,__lighting__,__interesting_scene__,__randomWords__, NSFW <lora:epiNoiseoffset_v3:3.5>

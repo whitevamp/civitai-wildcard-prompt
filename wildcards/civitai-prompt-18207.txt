@@ -1,0 +1,8 @@
+(photo realistic:1.4), (masterpiece, best quality, ultra detailed),[reflections], ultra realistic,
+(extremely detailed), 1girl, solo, 20yo, angelic face, detailed face,looking at viewer,
+(best illumination, best shadow, extremely delicate and beautiful), finely detail, beautiful detailed, shiny eyes,
+accent lighting, (backlighting:1.3), professional lighting, light on face, cinematic lighting, bokeh,
+busty body, (medium breasts), intricate details skin, a cherry blossom road , short floral wrap dress, (cowboy shot:1.4),
+(bright, smile and happy and tired and sleepy:1.2),(laugh:0.9),
+(pureerosface_v1:0.6)
+<lora:koreandolllikenessV20_v20:0.32>

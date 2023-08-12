@@ -1,0 +1,3 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Gold, precious, Klimt, Navy blue Mesh Bodysuit with Embroidered Flowers, In shape, Round Face, Dark Skin, Curved Nose, Thin Lips, Sharp Chin, Pink satin lipstick, flower, dark brown Kinky Hair Long Hair Updo, with a volcano in the background, majestic eagle soaring overhead,
+<lora:edg_hentaiLingerie_v10:1>, wearing edgHL, edgHL,hentai_lingerie,

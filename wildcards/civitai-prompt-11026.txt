@@ -1,0 +1,6 @@
+((Best quality)), ((masterpiece)), ((highly intricate details)),ultra realistic,32k,extremely detailed CG unity 8k wallpaper, soft lighting ,stunning environment ,gorgeous light and shadow ,
+ east asian architecture background, china battle scene,
+1girl, beautifull face, (long hair, white hair:1.4), floating hair, looking towards the viewer, Look towards the camera, upper body, big breasts,
+warrior girl, red armor, bloodstains on the armor,in battle, engaging in combat with a spear, kungfu fighting pose,
+(blue fire:1.2),
+<lora:add_detail:0.5>, <lora:LowRA:0.3>, <lora:EABA_v1:0.8>,  <lora:baifernv1_ghotilafish:0.8:face>, <lora:on_fire10:0.4>

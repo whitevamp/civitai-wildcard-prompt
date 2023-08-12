@@ -1,0 +1,1 @@
+drow, male,  male focus, pointy ears, red eyes, armor, elf, white hair, shoulder armor, upper body, closed mouth, long hair, pauldrons, colored skin, looking at viewer <lora:drow_offset:1>

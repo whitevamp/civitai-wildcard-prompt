@@ -1,0 +1,7 @@
+woman,  cat eyes, chemist, brown hair,
+HAUTE_COUTURE,
+DESIGNER DRESS,
+([Bar Refaeli|Nicole Kidman|Diane Lane]:0.9),  smiling,  sexy, edgPantyhose, facing looking at viewer, facing viewer, 
+middle shot, 
+masterpiece, professional, high quality, beautiful, amazing, ArtStation, Night Gown, very long hair, 
+masterpiece, highres,  4k, detailed background, abandoned, (biomechanical:0.8),  <lora:Haute_Couturev3:0.5>

@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), (tsurime:1.2),
+1girl, female, solo, face focus, face close-up, close-up face
+blonde hair, long hair, high ponytail, hair intakes, long sidelocks,
+red eyes, looking at viewer,
+red dress, puffy sleeves, long sleeves, juliet sleeves,
+indoors, renaissance, vintage window, plants,
+ <lora:Tsurime:1>

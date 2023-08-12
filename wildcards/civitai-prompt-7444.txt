@@ -1,0 +1,5 @@
+nikon RAW photo,8k,Fujifilm XT3,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,reflection light,cinematic lighting,full body,gril,1girl,solo,earrings,edium breasts,happy,smile,closed mouth,fashion,
+FloralWhite medium bob cut,floating hair,
+LightSeaGreen  bra,<lora:fbdrm3:0.3>,(LINSHOP BACKGROUND WITH BRAS:1.4),
+(DarkSalmon  silk stockings:1.2),
+<lora:ningning_v1:0.7>,

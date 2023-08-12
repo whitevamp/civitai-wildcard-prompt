@@ -1,0 +1,7 @@
+highres,masterpiece, 4K, top quality, best quality, ultra detailed,(beautiful and aesthetic:1.2), (1girl:1), whole body, long sleeves,tiara,sword
+BREAK extremely detailed background, vibrant colors,gold,red, rainbow, sparkling background,lots of decorations on background, cinematic lighting,luminous color 
+BREAK overall view,enchanting atmosphere,fantastic atmosphere, ethereal glow
+BREAK crystal colors,colorful crystals, vibrant colors, surreal landscapes, unseen light,high contrast,shadow
+BREAK coiled paper strips,colorful decoration, intricate designs, dimensional patterns, fractal art, crystal lights, delicate craftsmanship, creative expression, textured art 
+BREAK ,gorgeous ornaments, blooming flowers, beautiful magic, colorful petals, colorful ornaments,sparkles,sparkling lights, nature's bounty
+ <lora:GoodHands-beta2:1.3><lora:眼睛双:1> <lora:detailmaker:1.2> <lora:flat2:1.2>  <lora:add_detail:1.2> 

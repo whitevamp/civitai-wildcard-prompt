@@ -1,0 +1,4 @@
+ConstructionyardAI,
+portrait, 1girl in a robotic costume
+<lora:ConstructionyardAIV3:.7> 
+ (masterpiece, extremely detailed CG unity, 4k, 8k wallpaper, best quality, Amazing, fine detail, cinematic lighting, highres, ray tracing), best shadow. 50mm, realistic, photo}

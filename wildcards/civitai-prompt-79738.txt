@@ -1,0 +1,1 @@
+(Best quality:1.2), (masterpiece:1.2), (highly detailed:1.3), red dragon breathing fire on knight, red skies, smoke <lora:Dragons:0.25>

@@ -1,0 +1,1 @@
+!,(transparent Scroll:1.3), dramatic lighting,Strong, <lora:Transparent style_1.0:0.9>, fix,

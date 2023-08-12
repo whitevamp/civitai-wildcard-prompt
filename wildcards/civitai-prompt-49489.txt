@@ -1,0 +1,1 @@
+((masterpiece)),(best quality), absurdres,sadako_yamamura,red eyes, white dress,<lora:Sadakobest:0.8>, <lora:burtonesqueStyleV2Out_v2:0.7>,burtonesque, sitting on floor,

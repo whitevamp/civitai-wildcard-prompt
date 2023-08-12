@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 1girl, 1boy, cowboy shot, dim lighting
+<lora:Saya-clothes pull(one hand):1>, clothes pull, cleavage, bent over, areola slip, white bikini bra, long blue jeans,
+muscular, slim and petite body, medium boobs, long hair, ([light orange | brown] hair), looking at viewer, (blush:1.2), smiling, alcohol beverage on the counter, standing in the kitchen, night time,

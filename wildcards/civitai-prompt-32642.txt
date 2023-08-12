@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:Leddrathir:0.8> Leddrathir,  warrior, 
+<lora:copax_charm_portrait:0.6> <lora:JourneyLoRA:0.4> <lora:add_detail:0.45> <lora:LowRA:0.35>  <lora:cateyes_lora01:0.8> cateyes,

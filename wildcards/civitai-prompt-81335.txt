@@ -1,0 +1,1 @@
+masterpiece, extremely detailed, (realistic:1.1), 1girl, chelwaifu, (strapless, tube top, navel, loincloth), (wet skin:1.1), abs, (arms at sides:1.1), <lora:Chel_character:0.6> <lora:addDetail_v1:0.4> <lora:iroiro_saturation:0.4> AND jungle, depth of field

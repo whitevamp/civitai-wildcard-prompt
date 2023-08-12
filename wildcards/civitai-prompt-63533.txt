@@ -1,0 +1,1 @@
+best quality, ultra high res, (photorealistic:1.4), (detailed beautiful girl:1.4), looking_at_viewer, Detailed facial details, beautiful detailed eyes, (multicolored|blue|pink hair: 1.3) , aqua eyes, heart-shaped eyes, smile, (makeup:0.4), red lips, <lora:cuteGirlMix4_v10:0.7>, highly detailed clothes, (ulzzang-6500-v1.1:0.3)

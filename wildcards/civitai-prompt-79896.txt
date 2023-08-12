@@ -1,0 +1,11 @@
+1girl, Malaysian, beautiful face, beautiful girl, young face, perfect symmetric face, pure face, angel face,
+(ultra detailed eyes:1.1),  (smiling eyes:1.1),
+(detailed face:1.1), (dimple:1.3),(freckled shoulder:0.9), 
+(detailed hair:1.1), highlight hair,
+(Flat Breast:1.1), (detailed puffy nipple:1.1), 
+realistic skin, soft healthy fair skin, 
+(detailed silky blouse:1.1), posing for camera, bare shoulder,
+sharp focus, masterpiece, best quality, high resolution, 8K, detailed shadows, cinematic lighting, hyperdetailed, hyper realistic, lifelike texture , 
+(model photoshoot:1.1), professional photos,
+Nikon D800, F/2.8, (bokeh:0.5)
+ <lyco:PS_Gloria_Sol:0.4> <lyco:joycechu:0.4>

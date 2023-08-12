@@ -1,0 +1,1 @@
+(from below:0.6), portrait photo of gg in clothes, face, short hair, posing, beautiful background, clouds, wind, 8k uhd, high quality, film grain  <lora:gg_v05_RV20-000010:0.8>

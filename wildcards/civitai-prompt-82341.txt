@@ -1,0 +1,6 @@
+(photorealistic:1.3), ultra detailed, beautiful and aesthetic, masterpiece,best quality,lifelike rendering,moody lighting,
+1girl,solo,
+Lavender taffeta dress,Neck,
+(glowing ambiance, enchanting radiance, luminous lighting, ethereal atmosphere, mesmerizing glow, evocative hues, captivating coloration, dramatic lighting, enchanting aura),
+sharp focus,
+ <lora:oc_v10:0.34>  <lora:LowRAv2:0.6>

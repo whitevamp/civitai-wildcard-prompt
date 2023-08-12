@@ -1,0 +1,4 @@
+(masterpiece, realistic:1.3), (extremely intricate:1.2), (photorealistic:1.4), (extremely delicate), (ultra realistic:1.3), (cowboy shot:1.2), (modelshoot style), hyperrealistic photography, extremely detailed CG unity 8k wallpaper, UHD, HDR, RAW photo, dslr, hyperrealistic 3d render, 
+Cozy coffee shop with warm lighting,
+(photographed on a Nikon D7100 with Nikon 80-400mm lens, 1/400th, f/6.3, ISO 800),
+<lora:animeLeges:0.2>, beautylegs, slim legs, long legs, (black high heels:1.2, cover toes), garter straps, thighhighs, stockings, lace trim legwear, <lora:auntJune_v20:0.5>, mature female, choker, abs, six pack abs,  slim waist, gigantic breasts, huge breasts, cleavage,

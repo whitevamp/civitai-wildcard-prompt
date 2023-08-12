@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.1), detailed, highres, highly detailed background, extremely detailed, beautiful detailed eyes, ultra-detailed,
+qiyana, hair ornament, short white hair, orange eyes,
+(indoors, on bed:1.4),
+angry, annoyed, arm rest, looking at viewer, miniskirt, on bed, open mouth, (panties:1), pillow, school uniform, on side, (covered nipples:1),
+<lora:qiyanaLeagueOfLegends_v10:0.3>  <lora:Nipple-15:0.35> <lora:ahegao_v1:0.5> <lora:legslyside-000021:1>

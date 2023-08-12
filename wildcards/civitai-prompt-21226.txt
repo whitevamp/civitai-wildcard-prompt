@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2,realistic,:1.4),(extremely intricate detail),extremely delicate and beautiful,
+<lora:epi_noiseoffset2:0.2>,<lora:LowRA:0.3>,<lora:add_detail:0.3>,(( 2girls,  makeup, )),
+multiple_girls,breasts,2girls,hanging_breasts,shiny_skin,all_fours,nude,black_hair,ass,large_breasts,blush,long_hair,open_mouth,masterpiece,best quality,pubic hair,female pubic hair,
+(( completely nude, lick the vagina,blush, realistic nipples,nipples,,barefoot,)),
+((bedroom,carpet,white carpet,white background,curtains,white curtains,half-closed eyes, feet,legs, )),

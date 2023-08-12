@@ -1,0 +1,5 @@
+((best quality)), ((masterpiece)), (detailed), ultra detailed, 1girl, solo
+stare, looking at viewer, (interview:1.3), (dark background, the ruined city:1.3)
+ultra detailed, 1girl, solo
+ <lora:Eternal2Bv2:0.7>
+yorha no. 2 type b,

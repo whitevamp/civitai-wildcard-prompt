@@ -1,0 +1,1 @@
+absurdres, 1girl, green eyes, pink hair, long hair, wide-eyed, eyelashes, looking at viewer, zero two, horns, <lora:zerotwo_offset:0.75>, full body, hairband, standing, white shirt, long sleeves, blunt bangs, pants, red necktie, <lora:yuzusoft-chibiV2:0.8> chibi, white background, hands in pockets, (:>:1.0), cute, blush stickers, happy, shoes

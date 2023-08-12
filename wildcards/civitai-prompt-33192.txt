@@ -1,0 +1,1 @@
+((Best quality)), ((masterpiece)), ((realistic)), (hyperrealism:1.2), 1girl, star eye, blush, perfect illumination, red hair, red eyes, unreal engine, sidelighting, detailed face, bangs, bright skin, simple background, dark background,<lora:add_detail:1>

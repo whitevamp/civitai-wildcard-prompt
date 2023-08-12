@@ -1,0 +1,1 @@
+a girl, pink hair, smile, <lora:popularTrainedOnTheMost_v10:1>,  <lora:AnyaForger_v10:0.8>

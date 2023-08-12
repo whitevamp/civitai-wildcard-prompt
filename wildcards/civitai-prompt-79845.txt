@@ -1,0 +1,1 @@
+highres, sharp focus, pixiv masterpiece, ((intricate details)), highly detailed, upper body, 1girl, rem_re_zero, blue hair, short hair, maid uniform, hair ornament,  cleavage, maid headdress, detached sleeves, ribbon,,   <lora:Rem_ReZero_v1_1:0.8>

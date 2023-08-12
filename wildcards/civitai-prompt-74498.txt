@@ -1,0 +1,3 @@
+(masterpiece, best quality, intricate details, chromatic aberration), (realistic),(skin),outdoors
+, ((intricate detailed)), ((Hyperrealistic)), absurd res, milf, mature woman, perspective, highly detailed, illustration, beautiful detailed eyes, long hair, brown eyes, nametag,black choker, earrings, detailed background,perfect eyes, seductive eyes, <lora:odanon-lora-v1-128dim-4ep-novae:0.2> ,<lora:add_detail:1>,<lora:hipoly3DModelLora_v10:0.2>, 
+(3girls, 1boy, penis, licking, tongue:1.3), <lora:TripleLickingOral:0.8>

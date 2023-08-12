@@ -1,0 +1,5 @@
+(masterpiece), best quality, highres, (hyperrealistic), 8k, Detailed Illustration, intricate detail,
+looking at viewer,(make up),(slender body:1.5),(Gigantic Breasts:1.6),gyaru,young,(huge ass),(underbust:1.4),(tight),(Full body),
+1girl,
+<lora:gigatitums:0.1>,
+<lora:Song_HanFu:0.5>,(hanfu),(floral print),(pink shirt),(pink long skirt),(long sleeves),

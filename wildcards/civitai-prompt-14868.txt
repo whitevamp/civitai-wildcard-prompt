@@ -1,0 +1,1 @@
+<lora:belle:0.6> belle,1girl, solo, dress, brown eyes, hood, tree (masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (highly detailed:1.2),(detailed face:1.2), (detailed background),detailed landscape, (dynamic angle:1.2), (dynamic pose:1.2), <l <lora:more_details:1>

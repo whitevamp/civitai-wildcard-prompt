@@ -1,0 +1,4 @@
+ekstandsplit, 1boy, penis, sex, standing, standing split, standing sex, masterpiece,  <lora:Sailor_Mars_hino_rei-01:0.6> sailor mars,black hair,long_hair, purple_eyes, Standing on one leg,leg up,From Side ,against wall,.adapted costume,hakama short skirt"
+ <lora:excessiveSparsePubic_v10:1> excessive pubic hair 
+ <lora:stripCLUB_v12:1> strip_club_venue
+ <lora:standingSplitSex_v10:1>

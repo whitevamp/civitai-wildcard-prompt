@@ -1,0 +1,1 @@
+methurlant, mountain, blood moon,bat, <lora:methurlant:1>, (intricate, atmospheric, surreal, gritty, cinematic, stylized, contrast, comic, eerie, stylized, cybernetic, futuristic, dystopian), Dawn, Art Deco, (Secondary colors:1.1), (Perspective:1.1),  (bat:1.1), (moon:1.2) , ultra detailed, intricate, oil on canvas, dry brush, (surrealism:1.1), (disturbing:1.1)

@@ -1,0 +1,1 @@
+1girl, portrait, upper body, beautiful face, beautiful woman, multicolored hair, red_hair, brown_hair, bangs, long hair, depth of field, smile,  <lora:FilmVelvia3:0.5>,  <lora:add_detail:1>

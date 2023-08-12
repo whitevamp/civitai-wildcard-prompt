@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, lu1, cyborg, multicolored hair, makeup, bare shoulders, black leotard, highleg leotard, (thong:1.1), white jacket, open jacket, belt, shorts, <lora:lucy_(cyberpunk)_v10:0.7>, cowboy shot, planet, moon, earth (planet)

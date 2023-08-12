@@ -1,0 +1,10 @@
+best_quality, highres, extremely_detailed,
+1girl, beautiful_face, navel, light_aqua_hair, short_hair, ponytail, hair_bow,
+ninja, mouth_mask, arms_up, (rope:1.1),
+<lora:VillageSuccubus_v4:0.36>, obscenity_tattoo, windmage, ((aqua_tattoo, green_tattoo):1.1), waist_tattoo, neck_tattoo,
+BREAK
+fantasy, dappled_sunlight, vivid colors,
+((chest_tattoo, breast_tattoo):1.2), nipples, areolae,
+((shibari, rope, bandages):1.1),
+((dildo, sex_toy, vibrator):1.1),
+wind, hurricane, cyclone, outdoors, plant, forest,

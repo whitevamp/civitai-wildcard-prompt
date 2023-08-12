@@ -1,0 +1,1 @@
+<lora:yamashiro_v1.0:0.8>,yamashiro\(azur lane\), \(origen\), japanese_clothes,indoors, from behind,, masterpiece, best quality, extremely detailed face, sharp details, high contrast,

@@ -1,0 +1,3 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic), detailed, extremely detailed, 4K, perfect eyes, perfect face, perfect lighting, ambient light, 
+1girl, wearing a choker, medium breasts, red eyes, (pale white skin:1.2), (pale white color:1.2), black hair, demonic horns, short silky hair, butt exposed, looking back at viewer,  evil grin, (nude, naked:1.4),  thick thighs,  imperfect skin, 
+upper body shot, camping trip, night, stars, crescent moon, arched back, supported presenting, presentass, <lora:droptop:0.8>, <lora:MISC_LOWRA:0.3>, leaned forward,

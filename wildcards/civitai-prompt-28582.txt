@@ -1,0 +1,1 @@
+hotify prettify, analog, raw, portrait of  handsome-squidward character pouting <lora:Pouting:.6> <lora:handsome-squidward:1>, sitting on a bed

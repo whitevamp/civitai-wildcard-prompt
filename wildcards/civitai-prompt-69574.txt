@@ -1,0 +1,8 @@
+(Yabby:1.2), (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), Squatting, From Below, 
+(White Hair, Long Hair, Single Braid:1.2), 
+Purple Eyes, Looking at VIewer, Looking Back,
+(Naked, Nude:1.1),
+Cleavage, (Huge Breasts:1.4), Covered Nipples, Thick Thighs, (Pussy, Cleft of Venus:1.2),
+Indoors, Bathroom, Towel, Carpet, 
+ <lora:Yabby:1>

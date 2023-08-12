@@ -1,0 +1,3 @@
+giant robot manufacture, (cutaway view:1.2) of mechanical torso, microchip, wire, computer,  mechanical legs, (glowing core:1.1),  (intricate details:1.4) BREAK
+ultra wide shot, indoor, factory, construction platforms, truck, no humans BREAK
+(masterpiece, best quality:1.2),  promotional art, official art <lora:add_detail:1>  <lora:nijiMecha:0.4>

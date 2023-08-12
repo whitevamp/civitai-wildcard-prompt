@@ -1,0 +1,1 @@
+<lora:RaidenDoguV3:1> raidenmgr, robotic, mechanic body parts, ((black boots)), (from side), 1boy,  <lora:MotionTrail:0.9> (motiontrail), motion trail, running, <lora:Superspeed_running-10:0.9> 1boy, superspeed, lighting, motion blur, ((electricity)), from side, incoming,

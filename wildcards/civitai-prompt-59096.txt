@@ -1,0 +1,4 @@
+ultra realistic, 8k, (professional Photograph:1.5), masterpiece, cinematic lighting, (masterpiece), (best quality:1.2), absurdres
+perfect face, beautiful face, beautiful eyes, perfect female body,
+((( olcasta 21 years old,))), ((huge breasts, cleavage, skindentation,  <lora:LoconBurstingBreasts_v1:1.5>)),  perfect skin, beautiful detailed face, female, looking at viewer, midriff, wearing , (wet (translucent:1.1) tanktop) knee deep in a jungle river, braless, tactical gear, belt, garter holster, wet skin, wet clothes, short skimpy camo shorts, fingerless gloves, (camel toe:1.2), scrapes and bruises and dirt and blood stains,
+(rseemma:1.5), <lora:realisticGlossyFaceSkin_rseromanticRsesofiko:0.3>, (dark shot:1.4), <lora:epiNoiseoffset_v2:0.3> , <lora:hipoly3DModelLora_v20:0.2>

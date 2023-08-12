@@ -1,0 +1,1 @@
+<lora:papercutcd-000006:0.7>, papercutcd, 1girl, cute face, white background

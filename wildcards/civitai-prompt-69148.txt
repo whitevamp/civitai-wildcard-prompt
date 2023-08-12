@@ -1,0 +1,2 @@
+(best quality, masterpiece, official art, beautiful and aesthetic:1.2), a woman in lingerie posing for a picture, (cowboy shot:1.3), blonde, upper body, looking at viewer, particle, wind, flower, intricate background, extremely detailed, (fractal art:1.2), colorful, (zentangle:1.2), (abstract background:1.5), (many colors:1.4), pixelated fragments, data corruption, colorful noise, visual chaos, contemporary aesthetics, (hair ornaments, earrings, flowers hair ornaments),
+ <lora:edg_SexyButterfly:0.7>wearing [sexy_attire|butterfly_top], butterfly design embroidery,

@@ -1,0 +1,8 @@
+1girl, solo, (8k, highres, best quality, masterpiece:1.1), (full body:1.2),  (from above:1.2), looking at viewer,
+an illustration of a girl,
+ <lora:unagedown_V20:-3> age regression, suddenly turned into child,  oversized clothes, 
+surprised, (standing:1.1), at luxury guest room, red rug, sofa, indoors, 
+BREAK
+<lora:flat2:-0.5> 
+ <lora:elaina_v06:0.8>
+elaina, witch, robe, witch hat, black robe, open robe, neck bowtie, badge, hair bundle, yellow hair band, braid, hair bow, pink bow,boots,

@@ -1,0 +1,1 @@
+<lora:psoe:1>, geen hair, amazing, amazing body hdr,  <lora:ganyuGenshinImpact_v20:0.6>

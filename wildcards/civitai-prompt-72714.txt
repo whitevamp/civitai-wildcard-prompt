@@ -1,0 +1,11 @@
+masterpiece, realistic, best quality,
+outdoor, fantasy world background, castles, water, foutain, bridges, lamps, road, boat, sunny sky, rainbow, royale garden,
+canal, sea, birds,
+dynamic pose,
+hair ornaments,
+clevage, garter belt,
+frill black dress, short frill puff dress, frill black skirt, black thighhighs, heels,  cuffs, frill choker,
+young mature, thin, slim, narrow_waist, short_waist, wide_hips, medium purple hair,
+full body, standing, smirk, mischievous,  bowing to viewer,  cursty,
+<lora:renne-nvwls-v1:0.8> renne_sen, large breasts, 
+<lora:add_detail:1>

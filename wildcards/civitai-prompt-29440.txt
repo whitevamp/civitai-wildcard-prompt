@@ -1,0 +1,1 @@
+woman, infected face, butterfly, iridescent armor, intricate, dark background <lora:Iridescence:0.7>

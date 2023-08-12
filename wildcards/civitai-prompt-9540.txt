@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+(zombie:1.1),jumping,
+disco,spotlight,(moshing:1.5),shopping center,glowing eyes,torn,
+fog,blood splatter ,
+<lora:green_theme_v10:0.6>,
+<lora:flat2:-0.6> ,
+<lora:LowRa:0.2> ,

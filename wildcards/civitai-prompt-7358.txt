@@ -1,0 +1,5 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting,
+
+outdoors, upper body, 1girl, armor, detailed, intricate
+
+, RAW photo, 8k uhd, film grain

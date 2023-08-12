@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1boy, green skin, ogre, <lora:ShrekDoguVersion2:0.8> shrex, shrek,

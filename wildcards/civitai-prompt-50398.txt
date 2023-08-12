@@ -1,0 +1,15 @@
+(masterpiece, perfect anatomy,  perfect detailed rifle, solo,super fine illustration, 44 low-key high-quality, high-contrast photographs),
+dynamic lighting, dynamic posing, dynamic angle, (sideview, wide shot)
+(a super fine illustration of cute little girl ,child, toddler, elementary, black short bob hair, [(wearing tanktop):(topless):0.1], camo long pants, (large breasts),(swear and soaking wet)+),
+
+(standing, holding rifle, shooting rifle, gun firing, aiming)+,
+
+break
+
+
+<lora:ak47_V1:0>,
+<lora:blyatAk47_v1:0>,
+<lora:bettergunAK47WIP_betaWIP:0>,
+<lora:hKHK416Lora_v20:0.6>,
+<lora:m4a1AssaultRifleLORA_v10:0>,
+<lora:sniperTypeBarrettM82_v1:0> <lora:hipoly3DModelLora_v10:0.3>

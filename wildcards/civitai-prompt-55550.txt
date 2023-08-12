@@ -1,0 +1,4 @@
+best quality, intricate details,
+
+
+1girl,   <lora:konosubaMegumin_v10:0.8> red dress, bare shoulders, witch hat, cape, asymmetrical legwear, belt,

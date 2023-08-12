@@ -1,0 +1,1 @@
+<lora:PanamV2:0.6.5> ((portrait shot)), a photo on Panam, (jacket:1), neon lights,  ((face_freckles:0.9)), good hand,4k, high-res, masterpiece, best quality, (head:1.3), finely detailed skin, sharp focus, (cinematic lighting), collarbone, soft lighting,

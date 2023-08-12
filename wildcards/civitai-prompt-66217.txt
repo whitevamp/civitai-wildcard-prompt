@@ -1,0 +1,2 @@
+masterpiece, ,(solo:1.1), perfect face, breast, (bright lighting:1.2),beautiful detailed eyes, extremely detailed face, perfect lighting, (RAW photo, wide angle, photorealistic:1.2), masterpiece, best quality, ((mature female)), 1girl,  anus,  from below, solo, pussy,(looking at viewer:1.2), full body, delicate detailed, (cinematic light), clear line, sharp focus
+<lora:effect_MS_Real_POVPussyFromBelow_Lite:0.8> <lora:effect_breastinclassBetter_v141:0.2><lora:model_cuteGirlMix4_v10:0.4> <lora:model_shojovibe_v11:0.4> <lora:model_koreanDollLikeness_v10:0.2>

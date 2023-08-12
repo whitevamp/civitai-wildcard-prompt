@@ -1,0 +1,3 @@
+<lora:Honkai Star Rail-bronya rand:1.0>, masterpiece, best quality, 1girl,  bronyarand, grey hair, white underwear
+ <lora:electric-fan:1>, electric fan,
+clothes lift, from below, crotch pov, sweating, closed eyes, open mouth,

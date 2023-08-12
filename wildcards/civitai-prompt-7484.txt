@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, sitting, outdoors, night, building, from below, knee up, smile, parted lips, full body, city, skyscraper, looking at viewer,
+mizuki yukikaze, hair ribbon, elbow gloves, fingerless gloves, frilled leotard, fur trim, black leotard, thigh boots, taimanin suit, one-piece tan,  <lora:MizukiYukikazeV1_1:1>,  <lora:more_details:0.3>

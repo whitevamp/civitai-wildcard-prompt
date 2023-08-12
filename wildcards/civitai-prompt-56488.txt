@@ -1,0 +1,6 @@
+(RAW, best quality, masterpiece:1.4), (realistic, intricate details:1.2), ultra highres, absurdres.
+1girl, volleyball uniform, skintight, 
+smile, sweating, light blonde hair, ponytail, large breasts.
+indoor stadium, crowd.
+from below, stretching, warming up,
+<lora:volleyballUniform_v20Lycoris:0.9>, (ulzzang-6500-v1.1:0.3)

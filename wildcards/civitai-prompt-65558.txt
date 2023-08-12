@@ -1,0 +1,2 @@
+s0fiag0mez,1girl is secretary, (wearing glasses:1.2), (wearing off_shoulder_bandage_dress:1.3),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), collarbone, night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((5 stars hotel))), outside,    <lora:off_shoulder_bandage_dress:0.5>

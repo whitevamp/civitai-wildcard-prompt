@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl, large breasts, 
+ <lora:pixel_f2:0.5>

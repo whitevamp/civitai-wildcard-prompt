@@ -1,0 +1,1 @@
+open lingerie, pussy, <lora:Pussy for Anime models[0.2-0.6]:0.4> <lora:edg_Open_Lingeri.lora:1>

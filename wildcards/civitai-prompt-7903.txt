@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, japanese,detailed eyes,narrow waist, <lora:Cute Asian Face:0.5>,medium hair,simple suit,Circular skirt,thighhighs,sexy t-back,from back,leaning forward,  <lyco:elevator_v0.4-locon-000007:1.0>,(elevator:1.1),cowboy shot, (from below:1.2),spread legs,(hip focus:1.1),looking down,looking at viewer, seductive smile

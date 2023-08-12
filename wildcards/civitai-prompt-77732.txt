@@ -1,0 +1,5 @@
+masterpiece, best quality,
+a handsome executives from wall street,short beard,
+standing in the center of the crossroads,night,milky way,Dramatic lighting from distant stars illuminates the scene,
+silver business suit,
+full body, shot from below, <lora:add_detail:0.5>

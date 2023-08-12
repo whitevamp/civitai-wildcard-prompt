@@ -1,0 +1,3 @@
+, masterpiece, best quality,
+1girl,solo,Chinese cloth,Chinese style,glowing,
+ <lora:Chinese style_20230608155715-000010:0.8>

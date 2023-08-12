@@ -1,0 +1,3 @@
+(ultra realistic, highly detailed:1.4), best quality, masterpiece
+woman, tall, extra arms, extra breasts, rainbow hair, arcade, dress, dynamic pose, dancing, arms out
+<lyco:stacked-v1:0.3>  ((stacked, stkd):1.4)

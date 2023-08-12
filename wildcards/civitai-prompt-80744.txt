@@ -1,0 +1,2 @@
+((nsfw:1)), ((nude:0.8)), 1girl,((wearing headphones:1)),((earphone:1.2)), (((music player machine))), high ponytail hair, night, dynamic pose, (denim shorts, sweater hoodie), solo, cityscape, official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,(((There are beating notes and huge staves in the sky:1))),
+neon,CyberpunkAI <lora:CyberPunkAI:0.65>  <lora:gaia:0.55> <lora:Blade Runner 1982:0.25>

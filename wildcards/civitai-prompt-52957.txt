@@ -1,0 +1,1 @@
+masterpiece, best quality,pixel art,low contrast,wasteland, sunset, cars, spikes, battle <lora:C64graph:0.8>

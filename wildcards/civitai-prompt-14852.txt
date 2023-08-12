@@ -1,0 +1,2 @@
+(super model, perfect face,  hyperrealistic:1.2), photorealistic, highly detailed, illustration, detailed background, (multiple girls), light smile,  happy, 8k, best quality, masterpiece, highest quality, (perfect face) , (high detail), dynamic pose,, oiled skin, pale skin, looking at viewer,
+ <lora:Dalcefo_v3_Painting_Kappa-LoRA300:0.1> <lora:bondageSuspension_v11:0.4> <lora:bitchsuit:0.1> <lora:ahegao,rolling_eyes:0.1> <lora:japanesedolllikenessV1_v15:0.1> <lora:sexToyTransformation_v10:0.1>  <lora:hipoly3DModelLora_v20:0.2>

@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, beautiful lighting, Cinematic film still,
+(full medium shot:1.1), cowboy shot, RAW photo, 1girl, gorgeous 30 years old, (AS-Adult:1.2), Scandinavian milf, ginger stylish hair, (french braid:0.9), pony tail, (freckles:1.1), perfect sparkling green eyes, tan skin, (tall body:1.2), big breast, cleavage, finely detailed features, fierce and striking look, (toned body:1.3), (muscular body:1.3), (freckles in chest:1.1), looking at camera, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering,
+amazoness wearing full steel plate armor and chain mail, shield and spear, red cape, sword sheath, zrpgstyle, countryside, mountains and forest in the background, clear sky, daylight, ray tracing, headband, sun light reflecting off armor, shadow casting,
+fcDetailPortrait, 
+<lora:AZovyaRPGArtistToolsLORAV2:0.2>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3>

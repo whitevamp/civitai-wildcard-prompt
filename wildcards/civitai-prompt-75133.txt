@@ -1,0 +1,2 @@
+nsfw, vex, grey skin, closed mouth, animal nose, black pants, shoes, clothes, (extremely short:1.7), (large breasts:0.5), breasts out, bare breasts, cloak, standing, busy street, night
+ <lora:Unou-12:0.7> <lora:vex3:1> <lora:shortstack1:1.15>

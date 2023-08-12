@@ -1,0 +1,2 @@
+<lora:CupidTech-22:0.8>, cupidtech ,scifi, cupid,
+pink hamster, pokemon \(creature\),

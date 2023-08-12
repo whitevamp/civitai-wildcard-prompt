@@ -1,0 +1,1 @@
+A rainbow over a mountain lake surrounded by snow capped peaks, Chromatic, Comic Book, Floral, ambient light, backlight masterpiece, realistic, award winning, volumetric light and fog, subsurface scattering, caustics, bloom, perfect exposure, perfect composition, rule of thirds, 8k, hdr10, cinematic, breathtaking, ray tracing <lora:neon_palette_offset:1> <lora:more_details:0.85>

@@ -1,0 +1,1 @@
+1girl, 3dmm, portrait of mollytoy toy girl wear astronaut costume, yellow hair, pastel background, bokeh, <lora:ARWMollytoy:1> <lora:3DMM_V12:0.4>

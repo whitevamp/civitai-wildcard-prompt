@@ -1,0 +1,40 @@
+(girl put hands behind her back:1.5)
+nude,
+naked girl,
+(full body:1.3),
+(high heel sheos:1.5),
+(standing:1.3),
+(highly detail face: 1.5),
+(PureErosFace_V1:1.3),
+(8k),
+(best quality),
+(masterpiece:2),
+(realistic:2),
+(photorealistic:1.37),
+ultra-detailed,
+background is lake,
+blurred background,
+
+1girl,
+cute,
+sweet,
+(smile:1.5),
+(long pink coil hair:1.5)
+beautiful detailed eyes,
+beautiful detailed nose,
+
+(wearing silk stockings:1.2)
+intricate bracelet,
+intricate necklace chokers,
+intricate headdress,
+intricate ear pendants,
+
+big breasts,
+vaginal detailed,
+nipples,
+realistic face,
+realistic body,
+
+<lora:breastinclassBetter_v14:0.3>,
+<lora:japaneseDollLikeness_v10:0.2>,
+<lora:koreanDollLikeness_v10:0.2>

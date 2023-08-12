@@ -1,0 +1,9 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, ((looking at viewer:1.4)), soft light,
+red lips, (eyeliner),realistic skin, mature girl,
+realistic, (photorealistic),
+slim, small breasts,
+short hair,
+black hair,
+leather skirt,office background,long shot, white shirt, cleavage,
+pantyhose, crossing legs,
+ <lora:perfectpantyhose:0.5>

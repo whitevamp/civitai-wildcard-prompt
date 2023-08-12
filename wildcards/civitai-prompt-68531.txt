@@ -1,0 +1,2 @@
+black hair, long hair, blue eyes, tiara, leotard, jewelry, star \(symbol\), bare shoulders, cleavage, makeup, superhero
+Upper body only <lora:WonderWoman:1>

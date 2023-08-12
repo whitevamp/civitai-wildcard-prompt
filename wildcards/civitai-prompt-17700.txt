@@ -1,0 +1,3 @@
+<lora:add_detail:0.5> <lora:copax_charm_eu:0.2> (1girl,3d, photorealistic,masterpiece, best quality), excited, from back, seductive pose, in a supermarket,
+rem_re_zero,blue hair, short hair, maid uniform, hair ornament, cleavage, maid headdress, detached sleeves, ribbon
+ <lora:Rem_ReZero_v1_1:1>

@@ -1,0 +1,2 @@
+simple background,(Wearing a female police uniform and a police cap:1.4), good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, [:(detailed face:1.2):0.2],midriff peek, medium breasts, breasts,(((inside mansion))),1girl, jewelry,earrings, orange_sky, solo, long_hair, upper body, grey eyes, looking at viewer,black hair,Fashion,(head tilt:1.4), red background, lips, slightly smile,
+<lora:MengX girl_Mix_v30:1>,

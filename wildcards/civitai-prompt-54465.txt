@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face,  <lora:pantyPullPantyDrop_onlyPullV2:0.6>
+solo cute girl, (white shirt, pink ribbon, (brown skirt)), black panties, panty pull, 
+train interior, crowd people

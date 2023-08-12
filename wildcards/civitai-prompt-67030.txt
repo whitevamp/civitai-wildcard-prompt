@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art,beautiful and aesthetic:1.2), (1girl:1.3), (nsfw art:1.3),<lora:sam_yang_offset_right_filesize:1> <lora:GoodHands-beta2:1>As the night falls, the city center is full of lights, and the lights of high-rise buildings are shining brightly in the dark night, full of modern prosperity and vitality

@@ -1,0 +1,1 @@
+jar jar binks, fishnet_bodysuit, Beautiful Art Style, 1girl, young woman, , goodly, ramen shop, wing hug,<lora:jarJarBinksGunganStar_v3:0.6>, <lora:fishnet_bodysuit_v10-10:0.8>

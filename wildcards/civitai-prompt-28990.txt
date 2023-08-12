@@ -1,0 +1,8 @@
+painting \(medium\),  [:intricate details:0.2], moist skin, shiny skin,long hair,green eyes,retro artstyle, traditional media, watercolor \(medium\), 1980s \(style\),
+ayukawa madoka, 1girl, solo,
+from above,looking at viewer, 
+(unbuttoned bathrobe:1.1), no bra,no pant,no panties,(nipples:1.1),(pussy:1.1),
+(terrace:1.1),ocean,sunny,perfect lighting,on the beach,
+happy,
+best quality, masterpiece,8k,highly detailed,
+<lora:takada_akemi_offset:1>

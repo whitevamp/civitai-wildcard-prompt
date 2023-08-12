@@ -1,0 +1,1 @@
+1girl, solo, upper body, <lyco:splatoonstylev1-10:1.0>, splatoon, in futuristic city, full body,  <lora:add_detail:1> <lora:kahuka-pynoise:1>

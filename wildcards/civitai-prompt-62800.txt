@@ -1,0 +1,4 @@
+photography, bokeh, highres, ultra detailed, intricate details, absurdres, masterpiece, BREAK
+1girl, (dark skin:1.2), ([thai:african:10]:1.3), ([golden eyes:gray eyes:15]:1.3), beautifully detailed woman, beautifully detailed mouth, extremely detailed eyes and face, beautiful detailed eyes, matte eyeshadow, eyelashes, eyeliner, ultra glossy lipstick, (pouty lips:1.3), makeup, blush, BREAK
+detailed background,  BREAK
+wearing see trough dress, lingerie, elegant dress, (gigantic breasts:1.8), (narrow waist:1.8), (large hips:1.8), sweat,   <lora:see_trough_dress06:0.55>, BREAK

@@ -1,0 +1,1 @@
+(8k, best quality, masterpiece:1.2),(realistic, photo-realistic:1.37),ultra-detailed,beautiful girl,upper body,face the front,looking at viewer,wearing black,<lora:YJA55:0.6>,

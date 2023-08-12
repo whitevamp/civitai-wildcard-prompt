@@ -1,0 +1,3 @@
+<lora:Mama_3_2:0.91>  <lora:RealisticPhotography:0.5> <lora:LowRAv2:0.3>,full-body photo of a (elegant) lady standing in studio laboratory, white top,cleavage,
+work pants,Cloth Belt, glasses, closed mouth,(smiling eyes:0.2),looking at viewer,
+(masterpiece, best quality:1.2), absurdres, perfect artwork, trending on artstation, highly detailed, delicate, (realistic, photo-realistic:1.37), portrait, light on face, detailed face,

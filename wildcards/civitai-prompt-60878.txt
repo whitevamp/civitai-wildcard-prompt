@@ -1,0 +1,5 @@
+realistic, masterpiece, best quality, detailed, soft volumetric lighting,
+<lora:afterSex, Broken, Defeated, despues:1> afterSex, Broken, Defeated, despues, female, cum on body, small boobs,
+(multiple boys:1.3), (gangbang:1.3), balls, monster, hooves, horns, thorns,
+ahegao, ritual, candles, holding chalk, ancient book, pentagram, runes,
+ <lora:wendigo, bloody:1> wendigo, talisman,

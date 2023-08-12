@@ -1,0 +1,1 @@
+nijistyle, portrait of lara croft, particles, simple background <lora:sxz-style-niji:0.8>

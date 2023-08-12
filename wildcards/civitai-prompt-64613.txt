@@ -1,0 +1,1 @@
+((masterpiece, best quality)),(complex lighting) , solo ,1boy, full body, dexter,red hair, labcoat, standing,  <lora:Dexter1-10:0.8>

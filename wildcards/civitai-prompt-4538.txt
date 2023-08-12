@@ -1,0 +1,2 @@
+((masterpiece, best quality)),
+CAULDRON, ((skull):1.3),  <lora:more_details:0.25>  <lora:3DMM_V7:1>

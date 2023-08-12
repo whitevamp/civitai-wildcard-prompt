@@ -1,0 +1,2 @@
+<lora:constanceFireEmblem_v1:0.81> constance_academy,  hairband, uniform, black shirt, garreg mach monastery uniform, white skirt, 
+cutting_own_hair, looking_back, mirror, hand_mirror, wavy_mouth,, (masterpiece:1.3), (best_quality:1.3), (ultra_detailed:1.3), 8k, extremely_clear, realism, (ultrarealistic:1.3),, 1girl, solo, wide_shot,, seductive_smile,

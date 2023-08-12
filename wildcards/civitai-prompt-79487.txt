@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, photo, realistic, unreal engine, 
+ <lora:Mecha:0.8> (Mecha, giant robot:1.3)    <lora:robotGirlLora_v10:0.8> humanoid robot, robot, robot joints, joints, helmet, armor, robot girl,

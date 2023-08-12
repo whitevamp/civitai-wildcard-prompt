@@ -1,0 +1,6 @@
+(cowboy shot),  (masterpiece), (best quality:1.0), (ultra highres:1.0), highly face and eyes
+BREAK,
+<lora:JinxTT:0.7> JinxTT, smirking, smug, 
+black tank top, black shorts, cross-laced shirt
+BREAK
+gorgeous view

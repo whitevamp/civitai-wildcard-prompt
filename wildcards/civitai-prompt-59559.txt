@@ -1,0 +1,2 @@
+best quality,(masterpiece:1.2), no human,
+ <lora:gemstoneai_v10:0.8>, GemstoneAI, fantasy creature, ragamuffin,

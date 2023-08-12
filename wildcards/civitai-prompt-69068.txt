@@ -1,0 +1,5 @@
+(8K, RAW photo, best quality, masterpiece, photorealistic, hyper realistic, sharp:1.2), (nsfw:1.1), (pov:1.1),
+(20 years old girl:1.2), (1girl, solo:1.2), (bangs, ponytail:1.4), (lying, on back, spread legs, legs up:1.1), sitting on chair, (detailed beautiful girl:1.3), (looking at viewer:1.2), delicate, extremely detailed eyes, extremely detailed face, sexy lips, (seductive smile:1.1), double eyelids, eyelashes, pale skin, perky breasts, textured skin, (detailed pupils:1.1), (closed mouth:1.1),
+naked, skinny, (medium big breasts:1.1), (slim waist:1.2), perfect nipples, (trimmed pubic hair:1.1), clitoris, (pussy, spread pussy, gaping:1.1), pussy_gape, anus, hourglass body, slim, indoors,
+subsurface scattering, volumetric lighting, stunningly attractive,
+<lora:gapeThyPussy_v1:0.7>, <lora:koreandolllikenessV20_v20:0.1>, <lora:japanesedolllikenessV1_v15:0.1>

@@ -1,0 +1,6 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,Textured lob, ,large breasts,thick thighs,plump,  
+BREAK
+school uniform,necktie,pencil skirt,Folded Socks,depth of field,looking at viewer,((sit on the school bench)),((full body))
+BREAK
+moon,night,Area_with_many_trees_and_vegetation,((cumulonimbus)),from below:1.4
+<lora:APOKI:0.7>

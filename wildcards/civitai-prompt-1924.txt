@@ -1,0 +1,4 @@
+masterpiece,best quality,
+poi, cat girl, multiple braids, hair ornament, heterochromia, yellow eyes, purple eyes, huge breasts,
+maid headdress, frills, bodystocking, garter strap, <lora:lastorigin_poi-11:0.9>,
+squatting,white panties,outdoors,

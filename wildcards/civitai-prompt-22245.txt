@@ -1,0 +1,1 @@
+honeytech, honey, scifi, 1girl,  <lora:HoneyTech-20:0.7>, hive, (hexagon:1.2), huge Bee in background, staple, (transparency:1.2), backlighting,  swarm of bees, , elegant, scfi, diamond shield, night city, ,masterpiece, <lora:nijiarmor:.6> ,black robot,dark theme,green light,,hard light,geometrical pattern,complexity,rush,twisting,,geometry, slender

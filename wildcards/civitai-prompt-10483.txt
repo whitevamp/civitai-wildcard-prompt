@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, lucy \(pokemon\),<lora:lucy-pokemon-richy-v1:1>, 1girl, solo, hands on hips, looking at viewer, smile, outdoors, from below, underboob, foot up <lora:foot:0.2>, pantyhose

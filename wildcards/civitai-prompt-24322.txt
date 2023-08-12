@@ -1,0 +1,8 @@
+(photo-realistic,ultra realistic 8k CG:1.2),perfect artwork,delicate pattern,
+(best quality,intricate detail,extremely intricate:1.2),70mm telephoto lens,(ultra-detailed),Strong lighting, light and shadow texture, texture details,(nsfw:1.1)
+-------------------------------
+(ulzzang6500V),(idol),(detailed clothes features),choker,earrings,hair ribbon,Exquisite Makeup,
+(23 years old girll,solo:1.2),woman,girly,bright eyes,large breasts,
+(very long hair:1.4),
+pov legs,looking at viewer,
+ <lora:Concept-pilloryV2:1>pillory

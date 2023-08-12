@@ -1,0 +1,1 @@
+1 girl with arm cannon <lora:Arm_cannon-10:0.6>  <lora:Ranni:0.9> Ranni, wavy hair, blue skin, cracked skin, extra arms, joints, doll joints, white hat, ((4 hands)), (4 cannons)

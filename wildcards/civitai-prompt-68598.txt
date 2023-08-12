@@ -1,0 +1,4 @@
+best quality, ultra high res,prefect anatomy,20yo kdoll,sfw,
+1girl,android 18, solo, blonde hair, blue eyes, short hair, earrings, jewelry, denim vest, open vest, black pantyhose,black shirt, denim skirt,white striped long sleeves, blue skirt,
+accidental exposure panties,sitting, closed eyes, 
+ <lora:exposepanty-strong:0.8>

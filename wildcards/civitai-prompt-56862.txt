@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.4>, <lyco:vividImpactfulStyleYoneyamaMai_v40hLocon:0.1>, dark hair, long hair, (masterpiece),detailed blue eyes, beatiful face,1 girl, realistic, sexy, temple background, off shoulder,<lora:None1:1.0>

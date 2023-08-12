@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), ultra detailed, 1girl,  <lora:ayase-10:0.8>, aragaki ayase, blue hair, long hair, blush, shy, 
+nude,  nipples, pussy, spread arms, spread legs, 
+ <lora:TiedToBed-v2:0.9>, tied to bed, black rope, bound ankles, close-up, 
+pussy juice, dripping, wet sheet, 
+<lora:kidnap_v0.2:1>, (blindfold, shibari, tape gag),

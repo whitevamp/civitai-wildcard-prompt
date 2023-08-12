@@ -1,0 +1,2 @@
+[(white background:1.5),::5] hexagon,
+1 girl, mid shot, full body, (horrible atmosphere), Tindal effect, (Balance and coordination between all things), absurdity, blue flame, plasma, particle effects, crystal clear texture,star_\(sky\), space, starry_sky, blue_eyes, galaxy, solo, short_hair, earth_\(planet\),illumination,light,dynamic angle,depth of field,light and shadow,Real light and shadow,diffuse reflection<lora:Gacha Splash 3.1:1>

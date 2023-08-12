@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+ <lora:pokemonGloria_v10:0.8> Gloria /(pokemon/),  grey cardigan, pink dress, small breasts, english countryside, field, green headwear,, best quality, intricate details,
+
+<lora:satoshiUrushihara_urushisatoV15:0.8> urushisato, ova, background,

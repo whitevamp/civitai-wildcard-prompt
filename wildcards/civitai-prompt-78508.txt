@@ -1,0 +1,6 @@
+(medium shot), (25yo girl), lady, pink hair, makeup, short hair,  green eyes, glowing eyes, smiling, looking at viewer, choker, (lingerie), (black lace bra), chest, (small tits), (pokies),  nude, 
+haruno sakura,  <lora:sakura:0.9>, <lora:pokies_9:0.75>, (thin tattoes:1.5), 
+Japanese village, fantasy setting, magic, wooden house, (dark room), (darkness), (night), wooden walls, 
+3DMM, <lora:3DMM_V10:1>,  
+glow, bloom, godrays, volumetric light, 
+masterpiece, best quality, professional art, high resolution art, 8k, epic details, hyperdetailed eyes, high sharpness, hyperdetailed skin, realistic hair, intricate details, hyperdetailed, hdr, depth of field, DOF,

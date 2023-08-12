@@ -1,0 +1,1 @@
+1girl, masterpiece,  realistic, depth of field,1GIRL, RED SCLERA,RED PUPILS, CYBORGUNDER, TATTOO, GREEN HAIR,COLORED SKIN, JACK-O' CHALLENGE, FLEXIBLE, SPREAD LEGS, TOP-DOWN BOTTOM-UP, simple bg, white bg, <lora:jackOChallengePoseLora_jackoposefront:1>,  <lora:RebeccaCyberpunk_RebeccaCyberpunk:1>

@@ -1,0 +1,5 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 8k, (1boy:1.2), short hair, black hair, muscular, (huge penis:1.2), nude, 
+ <lora:projectile_cum_v0.2:1>, projectile cum, 
+<lora:conceptHeadbackArched_v10:0.85>, headback, 
+ <lora:BondageChairV1:0.85>, sitting, bondage, restrained,
+sitting on the chair, in the bedroom,

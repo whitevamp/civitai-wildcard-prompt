@@ -1,0 +1,2 @@
+beautiful, masterpiece, best quality, extremely detailed face,  perfect lighting,
+<lora:ArknightsAak_10:0.8>, aak, 1boy, solo, cat ears,  cowboy shot, standing, (upper body:1.4), looking at viewer, hand on hip, grin, mid shot, detailed background, city, night, neon lights

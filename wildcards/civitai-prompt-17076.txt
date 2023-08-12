@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.25>, (1girl, solo, adult female, mature female), <lora:concept_goodHands:1>, <lora:detailed_eyes:1>, red hair, twin drills haircut,
+<lora:style_liquidGold_(LQDGOD):1>, LQDGOD, dripping liquid gold, large breasts, strapless, sleeveless, LQDGOD slip dress, LQDGOD makeup, LQDGOD lipstick, smile, LQDGOD hair ornament, cleavage, cowboy shot,

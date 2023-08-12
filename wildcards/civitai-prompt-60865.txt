@@ -1,0 +1,1 @@
+sagiri_izumi,1girl ,one-piece swimsuit ,old school swimsuit ,nipple , pool<lora:sagiriIzumiEroManga_v10:0.7> <lora:oldSchoolSwimsuit_v10:0.6>

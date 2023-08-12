@@ -1,0 +1,1 @@
+sunlight <lora:graphicDesign20_v10:1> <lora:FashionMagazineStyle_v10:1>(mandatory kinda|magazine cover), 1 girl,xx,photography, masterpiece, best quality, 8K, HDR, highres, absurdres:1.2, solo, multicolored_hair, pink_hair, shirt, long_hair, letterboxed, bangs, upper_body, jacket, looking_at_viewer <lora:icfgirlLora_v10:0.5> pureerosface_v1

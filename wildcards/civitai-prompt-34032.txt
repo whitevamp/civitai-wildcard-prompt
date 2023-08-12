@@ -1,0 +1,2 @@
+white dragonborn, solo, red eyes, male, weapon, male focus, outdoors, horns, belt, armor, blurry, blurry background, glowing, shoulder armor, glowing eyes, pauldrons, weapon on back
+, ((masterpiece, best quality)), art by greg rutkowski  <lora:dragonborn_offset:1>

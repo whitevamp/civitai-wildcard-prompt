@@ -1,0 +1,5 @@
+masterpiece, best quality,
+(photorealistic:1.4), solo, sidelighting,
+Altera (Fate Grand Order), stand, cowboy shot, from side, (starry:1.2), (topless:1.2),
+cute face, 3d face, beautiful detailed face, red eyes, beautiful detailed eyes, (muscular:1.1), brown skin, lustrous skin, small breasts, nipples,
+<lora:alteraFateGrandOrder_v10:0.80>

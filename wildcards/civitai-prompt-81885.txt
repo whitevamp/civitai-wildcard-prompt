@@ -1,0 +1,1 @@
+photorealistic masterpiece disney pixar style render portrait of Steve Buscemi as a SuperSaiyan wearing dougi , in the streets of new york, <lora:SonGokusOutfit:0.41> <lora:SuperSaiyanHair:0.4>, new york city background, on the sidewalk, zbrush \(medium\), render, octane render, super saiyan, spiked hair, aura, electricity

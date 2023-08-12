@@ -1,0 +1,20 @@
+1girl, (young:0.9)
+ chain, collar,  cute girl in a glass box,
+kneeling,
+(NSFW), (BDSM), Bondage, Handcuffs
+(small breasts),((skinny))
+(latexgirl), (Rubberdoll) ,Heavy Rubber, Fetish Model, Lingerie
+(full body:0.6), (perfect eyes),
+(latex ),(Latex full Mask),(gloves latex),(Latex garter belt) , (latex harness), (glossy finish),  (Long Latex socks), 
+(tail plugs),
+Skin-tight,
+(spread legs), (naked), relaxing on a bed, legs open,
+ridding a boy,
+perfect proportions, 
+dark background,  
+comic book, cover
+techwear,
+(close up), (wide shot),
+(highly detailed), masterpiece,best quality,HDR,(film grain),Bokeh,(Depth of field),detailed shadows,sharp focus, double exposure
+artstation,
+ <lora:add_detail:0.6>

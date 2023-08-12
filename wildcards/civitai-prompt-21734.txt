@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+<lyco:GoodHands-beta2:0.8>
+1girl,   <lora:maki_oze_ver1.0:0.8> maki oze, black hair, purple eyes, ponytail, medium hair, medium breasts, 
+ black coat, gloves, long sleeves, blue lines, hat, witch hat,

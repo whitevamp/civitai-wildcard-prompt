@@ -1,0 +1,1 @@
+nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, 1girl,realistic, photorealistic,ultra detailed, diamond stud earrings, hazel eyes, happy expression, slender figure, <lora:lightAndShadow_V10:0.7> ,(((iu1))),,(((lora iu face))),((korean)),((muscularity)),(((full_body_picture))),(young_woman),(whirt_tshirts),(city),(long_straight_hair),((black_hair)),<lora:iu_V35:1>

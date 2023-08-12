@@ -1,0 +1,1 @@
+1girl, nerdy, highres, masterpiece, glasses, cinematic lighting, perfect skin,  large breasts, female, dynamic pose, oversized sweater, long vivid colorful hair, upper body,<lora:epiNoiseoffset_v2Pynoise:1.6>,  <lora:nerdy_fc_v1.0.safetensors:0.5>

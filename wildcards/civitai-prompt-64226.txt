@@ -1,0 +1,3 @@
+{high quality}, 8K wallpaper, Ultra HD, masterpiece, illustration,
+1boy, handsome face, angel, halo, dress, 
+ <lora:天使第一版-000002:0.9:ALL>

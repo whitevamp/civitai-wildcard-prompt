@@ -1,0 +1,2 @@
+(oldsiemens Plank:1.4), deathia flashlight photo, flash photography, realistic black and white, desaturated, blurry, grainy, high exposure, overexposed, blown out, blowout, vignette, motion blur, pale green tint, night vision filter, night camera, trail camera, recording, off-center, eye shine, horror, cryptid, creepy, lurking in the corner of the attic, in the corner of your eye.
+<lora:LowRA:0.3> <lora:add_detail:0.3> <lora:Plank-10:0.9> <lora:deathia_yiu_v10:0.4> <lora:flashlightphoto_v1.5a:0.4>

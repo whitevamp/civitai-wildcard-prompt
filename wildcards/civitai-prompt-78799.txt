@@ -1,0 +1,1 @@
+hires .professional photo, award winning,  very sharp,  an extremely  beautiful young Caucasian woman, brunette, posing, realistic detail,  vibrant city,  instbds, detailed, bookah, sexy fashionista, flowing dress,  detailed skin, looking_at_viewer,  depth of field, sharp focus <lora:insta_baddies_v1-000004:0.75>  <lora:epi_noiseoffset2:0.6>  <lora:add_detail:0.3>

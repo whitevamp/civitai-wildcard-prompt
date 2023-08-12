@@ -1,0 +1,3 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.2), raw photo,
+1girl, long  hair,white eyes, white hair, shiny skin,natural skin texture,realistic eye and face details,
+night, portrait, cityscape, starry sky, mecha musume, mechanical arms, headgear, robot joints, fortified suit, black suit,RX78, <lora:cyber_style_girl_v1:0.8> <lora:more_details:0.3>

@@ -1,0 +1,9 @@
+((2boys)) ((two men)), very detailed flawless face, detailed open eyes, very handsome, epic, heroic, heavenly, (muscular) bodybuilder, (big muscles), ((large pectorals)), narrow waist. Shoulder length hair. Realistic face, realistic eyes, (detailed facial features).
+((shirtless)) ((topless male)), wearing a bikini brief with a (large panty bulge)
+Embraced, ((kissing)).
+Enchanted mythical forest setting with trees, bushes, flowers, grass. Soft misty light.
+((Red hearts round edge of frame))
+Depth of field. Pastel colors. Digital painting, overdetailed digital painting, best quality. [vignetting].
+<lora:BulkedUpAIR1.5:0.2>
+<lora:lightV1:1>
+<lora:pantybulge0409:1>

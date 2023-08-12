@@ -1,0 +1,10 @@
+(((masterpiece))),(((best quality))),((ultra-detailed)),(illustration), 4k, simple, higres, simle background, extremely_detalled_wallpapper, medium shoot,
+
+
+
+
+tarot, 
+flower field, sakura tree,
+<lora:MixDLCForFishMix23314_23314:1>, 
+
+flower field, sakura tree, grass,

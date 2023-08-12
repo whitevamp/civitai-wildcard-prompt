@@ -1,0 +1,7 @@
+(professional canon raw photo:1.2), (best quality, master piece:1.1) (8k high res:1.1), (detailed skin and skin pores and goose bumps:1.2), (extremely high res face:1.1),
+(beautiful korean idol:1), (completely naked:1.1), kneeling and leaning forward,front view,(looking at viewer, excited smile:1.5), on a beach, in the evening, sunset
+(red lips, long winged eye liner, long eyelashes, dark eyeshadow, nose contouring, big eyes, red blush, chiselled jaw line:0.9)
+(medium breast, nipples, pink and light colored areola, small areola:0.9)
+(skinny body and defined abs, medium breast, thick thighs, wide hip, very thin waist:0.9),
+necklace, earrings, bracelets, 
+<lora:FilmVelvia3:0.2> <lora:Asian_Babe_pornV3:0.5> <lora:add_detail:0.5> <lora:breastinClass:0.45>

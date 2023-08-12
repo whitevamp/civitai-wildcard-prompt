@@ -1,0 +1,1 @@
+<lora:FriedrichNietzsche:0.7> <lora:LowRA:0.7> friedrichnietzsche, thick mustache, long mustache, forehead, coat, white shirt, (sitting on a bench:1.1), (intricate details:0.9), (hdr, hyperdetailed:1.2), (natural skin texture, hyperrealism, soft light, sharp)

@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, camisole, (skirt:1.2), (tights:1.3), <lora:Elizabeth:0.7>, cowboy shot, sitting, indoors, medium breasts, lipstick, (spread legs:1.3), <lora:flower_shoes:0.39>, wood floor, high heels, shoes, hand behind head

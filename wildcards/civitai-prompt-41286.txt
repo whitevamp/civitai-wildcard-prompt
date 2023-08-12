@@ -1,0 +1,2 @@
+alyonushka, 1girl, solo, long hair, blue eyes, blonde hair, jewelry, necklace, red headband, parody, blush stickers, freckles, symmetrical face, vivid colors, dreamy, kawaii, studio lighting, manga, bright colors, beautiful, 28mm lens,alphonse mucha, vibrant high contrast, gradation, jean giraud, moebius, fantasy, rule of thirds, unreal engine, fibonacci, intricate, cel shaded, blender npr, flat, matte print, smooth, Ilya Kuvshinov<lora:alyonushkNEW:0.55>
+ <lora:LowRA:0.3>

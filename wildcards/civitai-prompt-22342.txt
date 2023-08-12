@@ -1,0 +1,5 @@
+close up headshot, Masterpiece, best quality, ((crowded office)), at a ((office)), (*office* crowded with people:1.3), BREAK
+1girl, cleavage, (large breasts), 4k, beautiful,  looking at viewer,  BREAK
+business suit with (no undershirt), pencil skirt, ((black pantyhose)), suit coat, BREAK
+makeup, earrings, pale skin, fair skin, white skin, BREAK
+<lora:LFC:1>

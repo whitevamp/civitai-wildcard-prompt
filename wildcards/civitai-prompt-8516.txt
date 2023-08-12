@@ -1,0 +1,10 @@
+Gold color,  
+Full body shot , 1giant evangelion, front view, dynamic angle,
+(fighting stance, dynamic pose:1.4), cyber  , robotic(soldier:1.2), brutal armor, heavy metal design, huge robot_wings, lazer blade, rusty,
+scattered scraps, sparkle, glowing, 
+(subdivision, angular design, carbon-fiber, high-tech, pistons, robotic frame, metal joints, rubber cables, metal bolts, industrial, structures),
+rim lighting, two tone lighting, dimly lit, low key,
+in a futuristic warzone, hyper-detailed portrayal of a Mech, formidable,
+scarlet color,
+depth of field, wide angle, golden ratio, leading lines ,best quality, masterpiece, extremely detailed, cinematic, hyperrealistic, illustration, absurdres, octane render, rich textures, accurate anatomy, perfect hands, perfect feet, complete fingers, proper number of limbs,  polished,  intricately detailed,
+ <lora:add_detail:0.6> <lora:nijiMecha:0.4>  <lora:epiNoiseoffset_v2:1> <lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.6>

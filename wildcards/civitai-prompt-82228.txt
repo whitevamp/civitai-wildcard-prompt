@@ -1,0 +1,7 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+1girl,woman,single braid ,
+lily of the valley,blue petal,field of flowers,one rock tombstone,
+(night:1.3),mountain,starry,moon,
+<lora:LennethV2:0.9> Lenneth, sliver hair,shoulder armor,
+<lora:flat2:-0.2>,
+<lora:LowRa:0.4> , dark theme,

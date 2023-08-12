@@ -1,0 +1,1 @@
+masterpiece, best quality,yugi muto, black hair,  jacket on shoulders, sleeveless shirt, blue pants,  <lora:Yugioh1:0.8>,  SaltBaeMeme, salt, sunglases, Beautiful Art Style, tallit, ghostly, court,  <lora:SaltBaeMeme:1>

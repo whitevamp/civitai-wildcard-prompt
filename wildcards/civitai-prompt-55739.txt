@@ -1,0 +1,1 @@
+yaoyaodef, full body, child,  standing, smile, outdoors, day, pose,  basket, blue sky, short hair, sky, Chinese temple, looking at viewer,  full body, <lora:yaoyaoGenshinImpact_v10:0.75>

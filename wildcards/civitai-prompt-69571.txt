@@ -1,0 +1,9 @@
+(Yabby:1.2), (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), Standing, (Ahri \(league of legends\):1.4),
+Black Hair, Long Hair, Fox Ears, Fox Tails, Fluffy Ears, White Tail, Multiple Tails, 
+Yellow Eyes, Looking at VIewer, Facial Mark,
+Smile, Grin,
+Korean Clothes, Bare Shoulders
+Cleavage, Huge Breasts,
+Nature, Forest, Grass, Plants, Rocks, 
+ <lora:last:1>

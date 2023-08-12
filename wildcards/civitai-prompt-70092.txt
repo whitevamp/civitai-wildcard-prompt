@@ -1,0 +1,7 @@
+(best quality), (masterpiece), (realistic,) (photo-realistic), ultra-detailed, 
+1girl,(back),grin,solo,
+<lora:Megumin_V1.0-000006:0.8> Megumin,megumin's style, cape,hat, glowing eyes,red eyes,(thumbs up:1.2),v shape eyebrow,short hair,
+outdoor,wilderness,(explosion:1.3),explosion cloud,,(explosion of smoke),eruption,cumulonimbus,
+<lora:style1-fC_v1.0:0.4> style1-fC, 
+,starry sky,shooting star,
+professional lighting, photon mapping,  physically-based rendering,

@@ -1,0 +1,4 @@
+solo, extremely delicate and beautiful, front view, beautiful face, perfect face,
+sharp focus, delicate, panties, detailed skin
+,( from below, looking down, pleated skirt, skirt lift, ), narrow waist, pussy focus, pussy close-up, 
+epiCRealism,  <lora:MS_Real_POVPussyFromBelow_Lite:0.6>. <lora:skirtlift-v4:0.1>

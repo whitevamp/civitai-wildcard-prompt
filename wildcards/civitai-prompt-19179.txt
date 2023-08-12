@@ -1,0 +1,1 @@
+best quality, masterpiece, highres, detailed, perfect anatomy, <lora:Style - add_detail:0.2>, FSM, Flying spaghetti monster, forest, trees, rocks, ancient ruins,  eyeball, true terror, <lora:FlyingSpaghettiMonster:1>

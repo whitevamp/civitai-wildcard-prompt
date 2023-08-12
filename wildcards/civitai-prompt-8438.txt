@@ -1,0 +1,1 @@
+masterpiece, best quality,3d rending work ,3DMM style <lora:3DMM_V11:0.8>, 3D,1girl, solo, realistic, simple background, makeup, perfect lighting, seductive look, seductive smile, megara, smile, half-closed eyes, high ponytail, long hair, bare shoulders, long purple dress, <lora:sxz-megara-allnew:0.7>, playful girl, in love

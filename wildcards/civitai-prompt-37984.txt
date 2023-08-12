@@ -1,0 +1,10 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K,
+1boy, standing, upper body, astolfo \(fate\), stretching, arms behind head, arms up, 
+pink hair, short hair, streaked hair, 
+purple eyes, long eyelashes, thick eyelashes, looking at viewer,
+open mouth, tongue out, breath, 
+flat chest, 
+black microskirt, highleg panties, black thighhighs, (white croptop, crop top overhang:1.2), long sleeves, 
+eqcok, erection, huge penis, huge testicles, cock sheath, sagging testicles,  dark testicles, urethra, straight penis,
+indoors, wooden walls, cabin, furniture, flower pot,
+<lora:Erect Horse Penis:1> <lora:Fate - Astolfo:0.8>

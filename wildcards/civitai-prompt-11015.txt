@@ -1,0 +1,6 @@
+(cowboy shot), (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes,
+BREAK
+<lora:RaquelYJ:0.8> RaquelYJ, dark skin, (snow angel wings:1.2), serious
+<lora:SnowAngelV1, snow_angel:0.6> bodysuit, jacket, 
+BREAK
+archway, frozen

@@ -1,0 +1,2 @@
+[Ariel the little mermaid:big fish head rvmd person with orange fins, arm fins:5], with long flowing red hair, tongue poking out, (wearing a purple strapless sea shell bikini top:1.4), (wearing a green skirt:1.3), seaweed garter around leg, swimming underwater, colorful coral, bubbles, trails of bubbles, starfish, depths-fc, light rays,
+<lora:rvmd:0.65> <lora:depths-fC_v1.1:0.25> <lora:ArielV3-2-000007:0.2>

@@ -1,0 +1,2 @@
+<lora:nightclub:0.7>,nightclub
+(multiple girls:1.3),

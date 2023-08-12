@@ -1,0 +1,2 @@
+best quality, masterpiece, highres,1girl, long_hair, portrait, upper body, china transparent silk dress, dress, hair ornament, necklace, jewelry, long hair, earrings, chinese clothes，Turn sideways, facing the camera
+<lora:shojovibe_v11:0.2> <lora:dalcefopainting_Lora300:0.6> <lora:mikuya_v15:0.6> ulzzang-6500-v1.1

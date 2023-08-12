@@ -1,0 +1,1 @@
+(masterpiece, best quality, high quality, highres, ultra-detailed),  <lora:wuxiashijieV1:0.5>,1girl, <lora:MoXinV1:0.3>, shuimobysim,full body, dynamic pose,  <lora:shukezouma_v1_1:0.4>, shukezouma,One Handed Sword ,holding sword,  <lora:niji_wushi:0.4>,  <lyco:UnlimitedBladeWorksV1:0.5>, MasterSword

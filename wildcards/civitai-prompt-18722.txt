@@ -1,0 +1,5 @@
+yuzurihainori, <lora:inoriyuzurihatest:1>, inori yuzuriha, hair between eyes, hair ornament, hairclip, long hair, low twintails, pink hair, (red eyes:1.5), sidelocks, twintails, (small breast:1.2),
+BREAK bare shoulders, black thighhighs, breasts apart, center opening, detached sleeves, elbow gloves, fingerless gloves, gloves, navel, shoes, stomach,
+BREAK indoors, classroom,
+BREAK looking at viewer,
+BREAK <lora:GoodHands-vanilla:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

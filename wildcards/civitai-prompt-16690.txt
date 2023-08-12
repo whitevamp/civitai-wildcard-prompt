@@ -1,0 +1,3 @@
+upper body, (angry:1.2), (looking at viewer:1.5), 
+(masterpiece), long fingers, slim_hand, slim_fingers,
+(detailed), (semi-realistic), (traditional Chinese dance costume:1.2), (Ekiholic inspired:1.3), (expressive facial features:1.2), (elegant dance movement:1.1), (opera:1.2), (traditional music instruments:1.1), (flowing sleeves:1.2) <lora:jingju_v5:0.8>  <lora:add_detail:0.3> <lora:LowRA:0.5>

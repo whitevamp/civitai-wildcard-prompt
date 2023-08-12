@@ -1,0 +1,1 @@
+(best-quality:0.8), (best-quality:0.8), no humans, no animals, broken introspective perfect anime illustration, front view, a big shelf with pin board with labels,  few  carton boxes neon <lora:neon:.5> <lora:Walden_Blue:.6>

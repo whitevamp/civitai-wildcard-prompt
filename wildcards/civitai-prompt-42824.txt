@@ -1,0 +1,1 @@
+<lora:add_detail:0.8> <lora:ChromeTech:0.8> (masterpiece, best quality, realistic, detailed, sharp:1.2), intricate details, (chrometech android genos), <lora:Genos OPM:0.8> mechanical arms, sleeveless, glowing, fire, glowing eyes, mechanical parts, silver coated, highly reflective, detailed background, gleaming,

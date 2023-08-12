@@ -1,0 +1,1 @@
+<lora:koreanDollLikeness_v15:0.6>,best quality, ultra high res, (photorealistic:1.4), 1girl, medium breast,beautiful body,  black choker, bare shoulders, solo focus, ((half body), (brown hair:1)), looking at viewer, swimming pool, <lora:chilloutmixss_xss10:0.6>, laughing,hands behind,((lace))

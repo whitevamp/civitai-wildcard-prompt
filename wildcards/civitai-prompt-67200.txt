@@ -1,0 +1,3 @@
+masterpiece, best quality,8k resolution,realistic,((perfect female figure)), mature female, 
+female agent, high society, black lace, lace, coiffure, chain, white hair, blush, solo
+4lexb0tez, <lora:cuteGirlMix4_v10:0.2>  rfktr_bontrex-150(0.2),eonn(0.3), rfktr_bontrex-150(0.2)<lora:fashionGirl_v50:0.2>

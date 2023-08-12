@@ -1,0 +1,1 @@
+8k, RAW photo, best quality, masterpiece, realistic, photo-realistic, ultra high res, ultra-detailed , oil painting, 1girl, beautiful face, pure face, Emilia Clarke, Daenerys Targaryen, full body, Game of Thrones, art nouveau,  <lora:MuchaV2-0.1-3-b31-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>, image fill,  <lora:add_detail:0.6>,  (pureerosface_v1:0.7), smile

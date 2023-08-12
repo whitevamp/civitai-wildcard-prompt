@@ -1,0 +1,3 @@
+(masterpiece:1.3), (best quality:1.2), (intricate detailed:1.2), (hyperrealistic:1.2), (professional photograpy:1.1), highly detailed, illustration, absurd res, perspective, detailed background, background blur, focus, milf, mature woman, a woman doing tempting pose at the hotel, bedroom, hotel, lamp, night, 1girl, (nature breasts:1.2), perfect hands, detailed fingers, beautiful detailed eyes, perfect eyes, seductive eyes, brown eyes, long hair, (black lingerie:1.2), bra, panties, cleavage, black choker, earrings, stockings, sexy poses, crossed legs, looking at the viewer, from front, 
+(photographed on a Canon 5D Mark IV with Canon 8-15mm fisheye lens, 1/50th, f/11, ISO 320),
+ <lora:add_detail:1> <lora:ChineseDollLikeness_V10:0.2> <lora:dayu_aisaGirl_v2:0.4>

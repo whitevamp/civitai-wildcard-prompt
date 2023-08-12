@@ -1,0 +1,4 @@
+award winning masterpiece design, a  1girll nsfw hooded  female mecha, , (white_hood:1.1), hands behind head, arms up, ,ultra realistic detailed intricate concept art station photorealistic sharp focus ray tracing 8k
+hood_up, beautiful face, solo, inside underground (casino:1.3), dystopian world,
+
+<lora:GhostRunner_v10:0.84>

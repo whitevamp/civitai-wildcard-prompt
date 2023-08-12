@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting, ShinobuDB, demon_slayer_uniform, solo, smile, japanese_clothes, haori, jacket, long_sleeves, upper_body, , cloud, sky, night, RAW photo, 8k uhd, film grain, <lora:ShinobuDBA:1.2>

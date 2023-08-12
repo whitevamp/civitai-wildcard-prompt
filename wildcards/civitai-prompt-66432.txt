@@ -1,0 +1,6 @@
+best quality, masterpiece, 8k, ultra high res, (photorealistic:1.4), highly detailed, intricate detail, delicate and beautiful, good lighting, professional lighting, sharp focus, detailed shadows, exquisite details and textures, depth of field, unity 8k wallpaper, cinematic composition, cinematic lighting, official art,
+messy hair, slim waist, wearing binding shorts,
+beautiful elegant face, detailed face, detailed eyes, realistic hair, long hair, (medium breasts:1.2), perfect nipples,
+Filmg, (1girl), (standing:1.3), ass up wait , spread legs, ass,from behind, pussy
+<lora:FilmG2:0.6>
+<lora:ass_up_wait.v1.3-sd:0.75>

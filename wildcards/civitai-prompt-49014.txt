@@ -1,0 +1,1 @@
+super cute fluffy cat warrior in armor, photorealistic, 4K, ultra detailed, vray rendering, unreal engine <lora:epiNoiseoffset_v2:0.5> <lora:iu_V35:0.5>

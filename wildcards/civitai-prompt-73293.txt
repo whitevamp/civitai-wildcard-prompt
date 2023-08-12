@@ -1,0 +1,1 @@
+Nikon RAW photo,8k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,1girl,solo, close up portrait, standing, beautiful lighting, gorgeous expression, woman, looking at camera, in a bedroom haseul, wearing oversized_jacket<lora:sayhello0o-v1-loonahaseul:0.85> <lora:oversized_jacket01:1>

@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art,beautiful and aesthetic:1.2), 1girl, photorealistic,
+ looking at viewer<lora:pulledwedgie-06:0.7>(pulledwedgie:1.3), pulled by self, (wedgie:1.4),(tight sportswear),groin,(stand with spreading legs:1.4) , athlete,muscle lines,(in athletics track:1.2)

@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+re8dmtrsc,  black sun hat, pearl necklace, black flower, short hair, yellow eyes, glowing eyes, tall, pale skin<lora:sxz-lady dimitrescu:0.75>
+(wearing whale tail, panties, thong, jeans, crop top <lora:whale_tail:0.8>), leaning back, posing, side view, looking at viewer,  inside a yacht, noon, midday, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.2> (hyper realism, soft light, dramatic light, sharp, HDR)

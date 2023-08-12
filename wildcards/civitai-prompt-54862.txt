@@ -1,0 +1,1 @@
+girl, 80s, fantasy, movie,demon,horns,succubus <lora:80s_anime_iron:0.4>

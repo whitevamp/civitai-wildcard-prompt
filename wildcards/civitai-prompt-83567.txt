@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres,
+looking at viewer, huge penis
+<hypernet:MCTerasuMcStyle_v2:0.2>
+<lora:POVDoggy:0.9>, 1boy, penis, doggystyle, from behind
+<lora:LanaHyruleWarriors:1> blue hair, hair ornament, ponytail, purple eyes, skirt, skirt lift,

@@ -1,0 +1,5 @@
+hmcf, long hair, antlers, branch, two side up, hair ribbon, braid, yellow eyes, large breasts, jewelry, black choker, frills, white shirt, long sleeves, suspender skirt, black skirt, white socks, (green hair),
+lifelike, desire,(nsfw),
+Soothing Ambiance, Muted Hues, Gentle Warmth,,
+beautiful and aesthetic, masterpiece, best quality,
+ <lora:ceres_fauna_v2:0.95:CLOTHING>

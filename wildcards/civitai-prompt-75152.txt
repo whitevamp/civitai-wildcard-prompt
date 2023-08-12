@@ -1,0 +1,4 @@
+photorealistic, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp,
+1 girl, adult (elven:0.7) woman, freckles, grey eyes, chestnut layered hair,
+portrait, looking down, solo, half shot, detailed background,   witch hat, witch, magical atmosphere, hair flowing in the wind, red trimmed light colored clothes,   whirlwind of swirling magic spell in the air,  dark magic, (style-swirlmagic:0.8), floating particles, desolate battlefield background,  backlighting, 
+<lora:generalIllustrationLora_lycoSafetensors:0.8>,

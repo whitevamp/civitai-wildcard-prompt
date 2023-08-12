@@ -1,0 +1,3 @@
+Highly detailed, High Quality, Masterpiece, beautiful, HeadpatPOV,
+<lora:HeadpatPOV:1>, 1girl, solo, smirk, ^_^, black hair, long hair, shirt, white shirt,
+<lora:blindbox_V1Mix:0.75> chibi, smile, open mouth, closed eyes,

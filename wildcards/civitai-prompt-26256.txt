@@ -1,0 +1,1 @@
+male, muscular dark skin man, frostfire warrior, torchlight, dynasty <lora:EnvyBeautyMix23:0.6>

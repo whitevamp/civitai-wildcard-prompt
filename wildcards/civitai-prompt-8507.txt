@@ -1,0 +1,1 @@
+best quality, masterpiece, (photorealistic:1.4), 1girl, light smile, sex,waist up, dramatic lighting, from below <lora:tangbohu_blurbg:3>, dim_light, <lora:koreaface15:0.1> <lora:VCOMix-B2-EP3-natsuki:0.1>

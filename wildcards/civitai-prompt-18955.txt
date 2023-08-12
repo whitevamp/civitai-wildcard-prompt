@@ -1,0 +1,1 @@
+(AS-YoungV2:1), <lora:more_details:1>,  <lora:bluetheme_skywater:0.6>, 2girls, rainbow girls with  gradient hair yuri 69 in water, <lora:Gradient:0.6> , from behind, from angle, <lora:69v2:0.8>

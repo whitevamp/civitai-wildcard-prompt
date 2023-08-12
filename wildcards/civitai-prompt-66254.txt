@@ -1,0 +1,4 @@
+to8highkey style,  whiteSlimeAI (albino:1.3) arms crossed pale white hair FollyNobodySD15 covered in white slime
+(standing in a broken egg filled with white liquid:1.3)
+(empty white room white background:1.3) lovers Style-Interact
+(high key abstract photo masterpiece:1.2) (photorealistic:1.2) (bokeh) (best quality) (detailed skin:1.3) (intricate details) (8k) (HDR) (analog film) (canon d5) (cinematic lighting) (sharp focus) <lora:WhiteSlimeAI:0.8>  <lora:to8sHighKeyLORASD15SD2_sd15:1> <lora:gachaSplashLORA_v40:1>

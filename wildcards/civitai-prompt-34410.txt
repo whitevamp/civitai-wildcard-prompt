@@ -1,0 +1,2 @@
+<lora:Henshin-000008:0.7>
+Henshin, solo, looking_at_viewer, shirt, black_hair, red_eyes, 1boy, jacket, white_shirt, upper_body, male_focus, necktie, collared_shirt, black_jacket, mask, glowing, bird, animal, formal, suit, black_necktie, gold_trim, gold, crow, black_skin, bird_mask, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

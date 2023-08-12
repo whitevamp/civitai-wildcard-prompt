@@ -1,0 +1,5 @@
+<lora:add_detail:0.5>, absurdres, high resolution, (high quality, masterpiece:1.2), portrait, (lens flare, glitters), intricate details, (realism, dynamic pose:1.3), (from above, cowboy shot), (botanical design flower pattern wallpaper:1.5)
+BREAK
+(kawaii cute bride lady, wedding dress:1.4), (detailed shining light blue eyes:1.2), (delicate hair, detailed shining light gray hair blowing in wind:1.3), shining earrings, (light smile), large breasts, cleavage, veil, tiara, jewels
+BREAK
+intricate, mesmerizing, kaleidoscopic, symmetrical, intricate, ornate, hypnotic, vibrant, intricate, captivating, swirling, intricate, harmonious, hypnotic, ethereal, (bold composition)

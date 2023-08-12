@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), full body shot, 1girl, mature female, medium breast, short hair, black hair, white garters, white stockings, looking at viewer, smile seductively, red pupils, fit and petite body, 
+ <lora:NunBreastCurtains:0.8>, nun, breast curtains, 
+lean back against the window, church,

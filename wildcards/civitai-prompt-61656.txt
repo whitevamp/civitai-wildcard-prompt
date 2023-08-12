@@ -1,0 +1,1 @@
+<lora:beautifulDetailedEyes_v10:0.1>, (masterpiece), red eyes, long hair, graveyard background,<lora:huTaoGenshinImpact_v12:1.0>

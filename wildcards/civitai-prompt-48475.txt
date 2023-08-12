@@ -1,0 +1,4 @@
+(best quality), (ultra highres), 1girl, solo, athletic body, glasses, beautiful detailed face, detailed beautiful eyes, beautiful thai girl, ulzzang face, kpop idol, look at viewer,
+<lora:ThaiHighSchool:0.9>, mathayom uniform, mathayom shoes, navy_blue pleated skirt, girl walk to school bus,
+
+<lora:kdllorav15:0.4>  <lora:cuteGirlMix4_v10:0.3> <lora:randomCoserFaceCoser_randomCoserFace:0.4> <hypernet:pureerosface_v1:0.4>

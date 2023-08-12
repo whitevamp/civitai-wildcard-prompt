@@ -1,0 +1,6 @@
+<lora:piperperrimeme_v2.0:0.7>
+1girl, black hair, long hair,solo, sitting, couch, multiple boys, 6+boys, facing viewer, indian style,
+sports bra, thong, full body, bare legs, barefoot, boxers, briefs, v arms, covering crotch, old,
+<lora:blacked_v1.1-000003:1>
+<lora:blacked_underwear_v1.3:1>,
+muscular male, grin, large breasts, cleavage,, masterpiece, best quality, highly detailed

@@ -1,0 +1,4 @@
+unparalleled masterpiece, ultra realistic 8k CG, perfect artwork,
+<lora:add_detail:1>, 
+<lora:add_saturation:1>,
+<lora:add_sharpness:1>,

@@ -1,0 +1,1 @@
+gemshadow,no humans, sky, cloud,structure,cityscape,scenery, star (sky), water, flower, <lora:GEMSHADOW-noise-common:1>

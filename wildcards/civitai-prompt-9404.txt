@@ -1,0 +1,2 @@
+1girl, grey eyes , long hair , aiming at viewer, holding pistol, handgun, masterpiece, detailed shadows, detailed light, highly detailed, best quality, HD, 4K, high quality, <lora:aimingAtViewer_v1:0.8>
+<lora:CrossEyes:0.75>crossed-eyes <lora:ziya:0.6> smile, teeth,ziya, looking at viewer, tifa lockhart,  <lyco:GoodHandsB2:1.0> army suit,

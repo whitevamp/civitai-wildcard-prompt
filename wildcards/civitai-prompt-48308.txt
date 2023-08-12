@@ -1,0 +1,1 @@
+girl,astronaut,space,from_above,stars,jumping,serious,floating,afar,[spaceship:0.1],helmet,(jetpack),planets,colorful,lens_flare,flare (masterpiece,detailed,highres:1.4), (prettify:0.2)

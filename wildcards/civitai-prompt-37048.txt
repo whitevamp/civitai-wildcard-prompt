@@ -1,0 +1,4 @@
+{masterpiece, best quality, highly detailed:1.4}, detailed, extremely detailed, perfect lighting, 4K, nsfw, bath house, girls in background
+chunlims, hair bun, double bun, brown hair, hair ribbon,  facing away from viewer, wide hips, {thick thighs}, big ass, juicy ass, meaty ass, huge butt, muscular, sweat, nude, sauna
+{{{open towel}}}. {ass focus},
+ <lyco:GoodHands-beta2:1.0>  <lora:Big_ass:.8>, <lora:Chunli:.75> <lora:open_towel_v0.1:1>

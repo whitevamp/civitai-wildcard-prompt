@@ -1,0 +1,8 @@
+best quality, masterpiece,
+outdoors, branch, (forest:1.2), from below,
+1girl, two-tone hair, pink hair, short hair, low twintails, messy hair, hairband,
+armor,
+full body, arms behind back, (legs together:1.2), closed eyes, clenched teeth, struggling, suspension,
+(silk, cocoon, spider web:1.2),
+<lora:spider_web_v0.3:0.6> 
+<lora:LowRA_Dark:0.7>,

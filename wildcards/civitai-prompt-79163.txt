@@ -1,0 +1,4 @@
+(robotic black and red dragon),(masterpiece, Extremely detailed, 8k, photorealistic,UHD,best quality, highres:1.3),robort,(photorealistic:1.2)(dept of field:1.2),dof, absurdres, (realistic:1.5),fine detail, HDR,  perfect illumination, distinct, , (open mouth),(cybernetic body),(fangs:1.2),(post-apocalyptic lanscape:1.2), wings, (claws),cyberpunk,electronic part,(breathing purple_fire:1.3),detailed eyes,
+film grainy, insane details, intricate details, hyperdetailed, unreal engine, trend on artstation,highly detailed,science-fiction,futurist,
+(mechanical),
+<lora:Dragons v1:0.3>,<lora:FINAL  Robort:0.2>

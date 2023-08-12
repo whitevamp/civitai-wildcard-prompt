@@ -1,0 +1,3 @@
+(masterpiece:1.2), (best quality:1.2), 1girl, 1boy, <lora:Saya-pov missionary(holding another's wrist):0.9>, vaginal, penis, showing cleavages, angry expression,
+<lora:erza_v1:0.8>, fairy tail, 1girl, long hair, red hair, brown eyes, neck ribbon, bare shoulders, (unbuttoned white shirt:1.2), sleeveless, center frills, blue skirt, hair over one eye
+laying on the bed, in the bedroom,

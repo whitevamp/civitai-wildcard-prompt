@@ -1,0 +1,4 @@
+(depth of field:1.4,),(2girls:1.2),long legs,clear eyes,kiss,yuri,looking at each other,hug,passionate,touching,tongue,mouth open ,<lora:yurikiss:1>,<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.2>,
+<lora:mathayom22:0.6>,mathayom uniform,pleated long skirt,black skirt,
+<lora:libbg_v16:1.2>,Reflected light,lib_bg,library, bookshelf,
+<lora:breastinclassBetter:0.3>,

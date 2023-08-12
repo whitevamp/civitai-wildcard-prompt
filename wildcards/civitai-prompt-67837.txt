@@ -1,0 +1,5 @@
+nude, shiny skin,  (ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(((high detailed skin,visible pores))),(real person,photograph),
+<lora:shojovibe_v11:0.4><lora:GuoFeng3.2_Lora:0.2>,((mix4)),
+(8k, raw photo, best quality, masterpiece),(1 japanese girl),photon mapping, radiosity, physically-based rendering,automatic white balance,(((face close-up,haunting smile,moist lips,short hair))),mastoid process,watery eyes,
+(blush|cute and playful|adorable|skinny|thick bangs|beauty|18 years old|childish looks|under 18 years old),((((breasts apart,perky breasts,)))),((((looking at viewer)))),((irises and pupils are rounded,the pupil reflects the surroundings,eyes are not the same size)),  ((((skinny)))),, , , black hair, chinese, painting, seductive, small tits, spreading legs, extremely detailed, extremely detailed lighting, natural breasts, natural pubic hair, nipple reinforcement, sexy quality, time: golden hour, vagina reinforcement

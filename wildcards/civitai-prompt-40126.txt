@@ -1,0 +1,8 @@
+(imax enhanced 4k UHD blu-ray film:1.2), sharp, masterpiece, best quality
+from behind, from below, (ass focus, ass close-up) (ass up wait:1.3), large ass, (most beautiful korean idol:1), (wearing black bra and black thong:1.2), (thong wedge into pussy:1.25) (looking at viewer:1.2), excited smile, in a luxury hotel room, large window,
+(large breast:1.15), thin wasit, 
+HD Makeup style,(small face, glossy lips, long winged eye liner, long eyelashes, dark eyeshadow, nose contouring, big eyes, red blush, chiselled jaw line:0.9)
+(skinny body and defined abs, skinny thighs, very thin waist:0.9), 
+natural skin texture, 4k exquisite textures, intricate details, 
+<lora:add_sharpness:0> (ulzzang-6500-v1.1:0.92)
+ <lora:microwaist:0.25>, <lora:add_detail:0.2> <lora:FilmVelvia3:0.15>  <lora:ass_up_wait.v1.3-sd:0.4>

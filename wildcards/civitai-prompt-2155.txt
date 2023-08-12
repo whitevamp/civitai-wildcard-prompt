@@ -1,0 +1,4 @@
+(1man, pale skin,  blue space suit), space, Egypt   futuristic,
+(by Enki Bilal , methurlant) surreal, intricate
+(masterpiece, best quality:1.3),
+<lora:methurlant:1> <lora:add_detail:1>

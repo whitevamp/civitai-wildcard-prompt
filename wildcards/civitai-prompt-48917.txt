@@ -1,0 +1,1 @@
+((shuimobysim, traditional chinese ink painting)), masterpiece, best quality, fullbody, 1girl, dancing, dynamic pose, ((in a cyberhelmet)), wearing white techwear jacket, modelshoot style, posing for a picture, long legs, (standing in a chinese garden) <lora:cyberhelmetv0.1:0.6>  <lora:urbansamurai_v0.3:0.4> <lora:Moxin_10:0.7> <lora:Moxin_Shukezouma11:0.8>

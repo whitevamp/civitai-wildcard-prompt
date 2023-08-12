@@ -1,0 +1,7 @@
+masterpiece, best quality,1girl,
+botw style, the legend of zelda: breath of the wild, the legend of zelda, princess zelda,
+flashing, shirt lift, lifted by self, nipples, smile, looking at viewer, upper body, solo focus,
+morning, between breasts,
+black pants,
+bridge, forest,
+<lora:botw_style_offset:0.6> <lora:shirtliftALORAFor_shirtliftv1:0.9> <lora:studioGhibliStyle_offset:0.8>

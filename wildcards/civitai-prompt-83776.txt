@@ -1,0 +1,7 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic), supermodel, woman, soft light, perfect face,
+black hair,k/da \(league of legends\),long hair, asymmetrical hair,
+full body,
+neon background,night,
+short sleeves, choker, lips, silver pants, cleavage, small breasts,
+dynamic pose, (full body),high heels,narrow waist,
+ <lora:kda:0.4>

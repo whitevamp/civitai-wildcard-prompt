@@ -1,0 +1,5 @@
+best quality, masterpiece, HD, Ultra realistic, CG, 8K, 32K, ray tracing, light, masterpiece,32k,extremely detailed CG unity 8k wallpaper, best quality, vibrant colors, break,
+upper body,
+china goddess, abstract background, cloud, energy, thunder, colorful, white clothes, bare shoulder ,white dress, veil, shawl sky, long hair, straight hair, purple hair, see-through, diamond jewelly, diamond, light, slash, wave, fire, navel, midriff, break,
+mysticmatt darkness void magic power, casting spell, energy power, fighting action, ancient battle field, night, red moon, blood, 
+ <lora:ChinaGoddessV2-06:0.65> 

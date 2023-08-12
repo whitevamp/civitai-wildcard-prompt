@@ -1,0 +1,2 @@
+best quality,<lora:add_detail:0.8>,<lora:style_marble_(M4rbleSCNEW):0.9>, M4rbleSCNEW
+(1boy, solo), wearing M4rbleSCNEW armor, realistic armor, realistic armor made of marble, M4rbleSCNEW armor, cowboy shot, clenched fist, scabbard, armored legs, bulky marble medieval armor, marble helmet,

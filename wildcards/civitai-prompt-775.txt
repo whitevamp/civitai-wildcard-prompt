@@ -1,0 +1,2 @@
+8k, real picture, intricate details, ultra-detailed,(photorealistic),
+ <lora:Samus-05:0.8>Samus,  1girl, woman, solo, Samus, blonde hair, blue bodysuit, tight suit, simple background, Petrasyl,

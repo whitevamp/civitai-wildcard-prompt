@@ -1,0 +1,1 @@
+(black background), textured, (ink art, ink illustration, ink, rough:1.4), full body portrait of person walking down quiet street at night in heavy rain, rain, distorted by rainfall, (flowing lines), swirling ink, highly detailed background, (one streetlamp, moody, sad), ((abstract)) <lora:more_details:0.5>, <lora:inkplace:0.9>

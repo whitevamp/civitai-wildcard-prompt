@@ -1,0 +1,3 @@
+1girl,looking at viewer,the matrix,red chair ,Black leather jacket, black leather undershirt, black leather leggings, black leather boots, black sunglasses, black hair,
+skindentation, shiny skin, huge breasts, delicate, perfect artwork, photorealistic, mature female, intricate detail, ultra high resolution, shiny eyes, narrow waist, photograph, ultra high definition, lens flare, realistic, colourful, best quality, film texture, perfect female figure, film grain, high dynamic range, long eyelash, unparalleled masterpiece, pale skin, raw photo, professional lighting, photon mapping, radiosity, physically-based rendering, soft lights, make up
+ <lora:theMatrixLora_offset:1>

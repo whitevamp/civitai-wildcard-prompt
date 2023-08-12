@@ -1,0 +1,1 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (photorealistic:1.1), (extremely detailed face), (ultra detailed), 1girl, (spread legs:0.6), delicate eyes and face, (nsfw, see-through leotard, playboy bunny, see-through), sweaty skin, slim and petite body, high ponytail hair, (smile:1.1), (open mouth:0.7), ((vintage hotel)), <lora:transpbunny:1>

@@ -1,0 +1,4 @@
+exquisite artistry, crowning achievement, vivid 5k imagery,naturalistic, original capture, individual subject, enigmatic dimness, tonal balance, warm radiance,
+1girl,solo,Paisley-printed blouse,(breasts:0.9),hips,thighs,
+foundry,
+ <lora:OC:0.2>  <lora:lolitaFashionDress_gothic_style2:0.2>

@@ -1,0 +1,2 @@
+Masterpiece, absurdres,HDR, wallpaper quality ,realistic, photograph,highly detailed eyes and face,volumetric lighting, <lora:edgleotard:0.75>,posing, intricate leathe edgleotard, embroidery, young beautiful woman standing next to window wearing edgleotard, leather bodysuit , curvy, from below, , leather straps, angry, frowning, (dark skin), large breasts, thin waist, wide hips bedroom, pillows , smiling, parted lips, black short hair, mole, puffed cheeks, leather gloves
+ <lora:tomboyLora_realistic:0.75>, tomboy,

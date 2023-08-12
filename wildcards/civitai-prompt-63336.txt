@@ -1,0 +1,1 @@
+<lora:DragonScaleAIV3:.75> DragonScaleAI armor on woman

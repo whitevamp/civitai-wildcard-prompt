@@ -1,0 +1,2 @@
+girl, red
+<lora:anishaded_v2:0.8>

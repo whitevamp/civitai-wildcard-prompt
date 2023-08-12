@@ -1,0 +1,1 @@
+long shot of zarya,(eyes looking at viewer:1.0),(smile:0.6),curvy,leg armor, solo,side lighting,shallow sharp depth of field,(highly detailed),photorealistic, (Masterpiece), (HDR), (8k wallpaper)  <lora:zarya:0.45>

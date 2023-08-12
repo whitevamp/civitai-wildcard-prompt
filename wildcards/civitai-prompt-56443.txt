@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.3),(realistic,photo-realistic:1.37),(night),(looking at viewer:1.331),(white hair),posing,Tokyo street,nightcityscape, <lora:asianGirlsFace_dreamyFace:0.5>, cyberpunk city,soft light,1girl,extremely beautiful face,bust,put down hands,Random hairstyle,Random expression,big eyes, ,lower abdomen,<lora:jk uniform:0.5>(short-sleeved 
+JK_shirt),JK_style,(dark blue JK_skirt) ,(bow JK_tie),<lora:cuteGirlMix4_v10:0.4>,mix4

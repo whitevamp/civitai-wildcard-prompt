@@ -1,0 +1,4 @@
+(best quality, masterpiece:1.2), absurdres, cg unity 8k,
+peter griffin,  1boy, solo, white shirt, green pants, fat man,
+sitting on green recliner, holding tv remote, watching tv in living room,
+focus on face <lora:peterGriffin_v10:0.6>

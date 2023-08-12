@@ -1,0 +1,1 @@
+((Best quality)), ((masterpiece)), (highly detailed:1.3),3D, Dragon ear, dragon gundam knight,<lora:dragon ear_20230623155318:0.65> <lora:knight_v4.1SD:0.5> <lora:mecha_offset:0.7> <lora:Pyramid lora_Ghibli_n3:0.8>

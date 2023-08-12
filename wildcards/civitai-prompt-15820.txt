@@ -1,0 +1,2 @@
+<lora:breastinclassbetter_v141:0.5>full body,standing,beautiful eye,night city street,(smileing:1),(nude:1.5),(faded ash gray hair:1.5),(blue eye:1),face detail,(perfect boobs:0.5),((8K)),perfect body,Best quality, masterpiece, raw photo, beautiful and aesthetic,deep shadow,(photorealistic:1.4), 1girl, (20 years old:1.2), cute girl, smile,  realistic body, sexy , detailed, intricate,looking at viewer,nsfw
+<lora:breastinClass:0.4>  <lora:taiwanDollLikeness_v20:0.66>

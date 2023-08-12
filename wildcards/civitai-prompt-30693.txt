@@ -1,0 +1,1 @@
+(masterpiece, best quality,high resolution:1.2),  <lora:Ranni:0.95> , Ranni, wavy hair, blue skin, cracked skin, (extra arms:1.2),joints, doll joints,dress, (mysterious:1.1), from side, (peeking from under hat:1.1), particles, (bioluminescence:1.1),

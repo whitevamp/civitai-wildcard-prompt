@@ -1,0 +1,3 @@
+closeup portrait   of 1 Persian princess, dark skin,  cyan royal clothing , makeups , jewelries, sitting in the palace,  crossed legs, 
+analog style, bokeh, depth of field, photorealistic, 35mm films, aladdin
+<lora:add_detail:1>

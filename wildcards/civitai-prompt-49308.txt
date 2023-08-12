@@ -1,0 +1,8 @@
+(masterpiece),(ultra-detailed),perfect-composition,shiny skin,shiny hair,100-layer-hair,
+
+1girl,pov,small,petit,spread legs, squatting,(from behind:1.2),barefoot, 
+
+
+scmz , blue one-piece swimsuit,
+rim light,
+wagashi,geen tea,sushi, cherry blossoms,  <lora:scmz blue one-piece swimsuit:0.5>

@@ -1,0 +1,5 @@
+1girl,violet hair, wanjian, weapon , ((multiple floating weapon:1.6)), (body aura:1.4),channeling ,  hair floating,  <lora:wanjian01:1>, <lora:add_detail:1>,
+//
+volumetric lighting, dynamic lighting, dynamic composition, reflection, caustics, subsurface scattering, (masterpiece, best quality, ultra-detailed, best shadow), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), colorful, hyper detail, dramatic light, intricate details, stunning gradient colors, no watermark signature,(detailed background),(ultra detailed), (best shadow:1.1)+++++,(high contrast)+++,(best illumination)+++,
+//
+, (()), Anime, Manga, RTX, SSAO, ((upper body:1.2)), portrait, (8k resolution), 8k, 8kres, 8k res, absurdres, high resolution, ((high quality:1.2, masterpiece:1.2)), , (()), Anime, Manga, RTX, SSAO, ((upper body:1.2)), portrait, (8k resolution), 8k, 8kres, 8k res, absurdres, high resolution, ((high quality:1.2, masterpiece:1.2)),

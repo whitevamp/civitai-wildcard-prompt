@@ -1,0 +1,1 @@
+masterpiece, best quality, defManuela, fates maid, standing, mansion, bedroom, looking at viewer, one eye closed, one eye open, smile <lora:manuela-nvwls-v2-2-000010:0.7> <lora:FEFatesMaid_v1:1>

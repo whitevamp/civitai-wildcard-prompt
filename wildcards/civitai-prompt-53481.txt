@@ -1,0 +1,2 @@
+fully body, chibi, <lora:fgoAprilFoolStyle_v2:0.9>
+gold ship \(umamusume\), closed mouth, looking away, sitting, classroom, pillbox hat, brown headwear, tracen school uniform, summer uniform, serafuku, puffy short sleeves, bowtie, horseshoe ornament, sailor collar, sailor shirt, purple shirt, white skirt, frilled dress, <lora:goldShipUmamusume_loha:0.7>

@@ -1,0 +1,1 @@
+cow, moon, flower, no humans, horns, full moon, ,   <lora:cg:0.81>

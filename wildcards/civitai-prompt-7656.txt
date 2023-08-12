@@ -1,0 +1,6 @@
+(cowboy shot),  sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:JinxTT-000008:0.7> JinxTT,  seductive,
+<lora:halter_dress:0.4> open slit, gold choker, necklace, cleavage cutout, halter_dress
+BREAK
+(party, gorgeous view)

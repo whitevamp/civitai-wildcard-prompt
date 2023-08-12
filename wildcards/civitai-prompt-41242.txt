@@ -1,0 +1,6 @@
+1 girl, medieval kingdom, countryside, solo, (15yo), cute, small breasts, white hair, long hair, hairband, (pink: 0.8), blouse, (white: 0.8), bowtie, (blue: 1.2), pleated skirt, (navy: 0.8), pantyhose, (white: 0.8), shoes, (black: 0.8), looking away, sitting on a wooden crate, grassland, flowers, mountains, night, moon, (full: 1.2), stars, torches, candles, windows, (closed: 0.8), dark, detailed background, depth of field, realistic, ambient light, wide angle lens.
+<lora:plana:0.7>
+<lora:xk_20230628160345:0.5>
+<lora:mocha style:0.3>
+<lora:LECO_LessCrotch:0.2>
+<lora:Night scene_20230715120543:0.5>

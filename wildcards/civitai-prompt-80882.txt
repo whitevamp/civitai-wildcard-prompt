@@ -1,0 +1,3 @@
+NSFW,(One-Point Perspective),(Storyboard),Three-point lighting,(Film Light,Filters,Fine grain),rim lighting,arc light,
+<lora:breastinclassBetter_v141:0.3> <lora:ChineseDollLikenessV3.0:0.4> <lora:epiNoiseoffset_v2Pynoise:0.6>,hdr,
+Bokeh,Telephoto,intricate,elegant,photography,highly detailed,majestic,EF 70mm,(masterpiece,finely detailed beautiful eyes:1.2),Poster,(Breast:1.2),

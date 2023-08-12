@@ -1,0 +1,9 @@
+Nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,1girl,solo,
+
+
+
+standing, beautiful  sky,serene expression, luxury red dress, surrounded by a sea of grass,
+
+
+
+jwy1,   <lora:jwy___v1:1>

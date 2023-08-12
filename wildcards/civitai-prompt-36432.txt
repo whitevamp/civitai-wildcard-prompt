@@ -1,0 +1,5 @@
+macrogts, giant beautiful nude woman sitting on street, aerial view, view of city from space, from above, looking up
+<lyco:minigts_v3_lycoris:0.6>
+<lora:JapaneseDollLikeness_v15:0.3>
+high quality photograph masterpiece, cg, dramatic lighting, depth of field
+ <lora:breastinClass:0.4> <lora:puffy-nipples-v01:0.2>

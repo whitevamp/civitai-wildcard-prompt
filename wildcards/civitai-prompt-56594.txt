@@ -1,0 +1,7 @@
+(masterpiece, best quality, high resolution:1.4), portrait,
+snow white,
+1girl, woman, smile, looking at viewer,
+(medieval dress, yellow skirt, long skirt, red hairband),
+sitting on park bench,
+outdoors, nature,
+<lora:SnowWhite_v1:1>

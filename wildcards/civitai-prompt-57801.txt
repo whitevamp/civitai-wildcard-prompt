@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,        <lora:neekolulLora_v10:0.8> nklul,

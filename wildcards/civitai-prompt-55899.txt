@@ -1,0 +1,5 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.331), best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed, CG , unity, 8k wallpaper, Amazing, finely detail,  absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed,
+1girl, solo, realistic, short hair, black hair,  lace, lace trim, collarbone, lips, (short ponytail:1.1),  looking at viewer, close to viewer, bare shoulders, long eyelashes,
+studio soft light, smooth skin, white skin, light on face, straight-on, staring, closed mouth,
+beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes, pupils sparkling, color contact lenses, aqua eyes, bangs, asymmetrical bangs, short bangs,
+<lora:aespaKarina_aespaKarinaV3:0.6>  <lora:iu_V35:0.2>, iu, aespaKarina

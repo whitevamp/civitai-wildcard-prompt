@@ -1,0 +1,5 @@
+masterpiece, high quality, highres, 1girl, solo, nsfw,
+<lora:DemonSlayerStyle:0.4>, <lora:Mitsuri-v2-04:0.4>, kimetsu no yaiba style, anime coloring,
+ChopioMitsuri, braid, twin braids, long hair, pink hair, multicolored hair, green hair, gradient hair, two-tone hair, hair between eyes, mole under eye, green eyes,
+outdoors, garden, stone path, sun, smile, large breasts, laughing, wide hips, hourglass figure,
+denim shorts, white shirt, tied shirt, wecl, (open fly, open fly, ), see-through, bra visible through clothes, choker, midriff, wet, wet hair, <lyco:Wet_Clothes_v1:0.9>, (black bra:1), arm behind head, sweat,  <lora:sweat_lotion_v2:0.2>, floating hair, open mouth, one eye closed,

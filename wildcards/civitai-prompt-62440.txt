@@ -1,0 +1,2 @@
+masterpiece, best quality, highest quality, photorealistic, perfect anatomy, perfect face, perfect eyes,
+<lora:pandballgt_ex_01:1>, pandballgt, 1girl, black eyes, black hair, short hair, orange bandana, pants, fingerless gloves, red shirt

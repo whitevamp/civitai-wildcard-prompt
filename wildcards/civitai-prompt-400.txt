@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait,
+1girl,yamanobe tomo, purple hair, red eyes, medium hair, huge breasts, (school uniform:1.3), blue skirt, hairband, looking at viewer, classroom, (blush:1.1), 
+<lora:Kizuki - Seikon no Qwaser - Yamanobe Tomo:0.95>

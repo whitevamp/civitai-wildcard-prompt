@@ -1,0 +1,2 @@
+fantasy movie scene, (fullbody shot) ,(a beautiful woman):1.8, from (Narnia: A land of talking animals and magical creatures, ruled by Aslan the lion) ,  (riding Giant Bear),ultra realistic, nude:0.5
+ shiny glossy skin, subsurface scattering, (sharp:0.7), [(colorful explosion psychedelic paint colors:1.21)::0.05], amazing fine detail, Nikon D850 film stock photograph Kodak Portra 400 camera f1.6 lens, rich colors, lifelike texture, dramatic lighting, <lora:more_details:0.6>

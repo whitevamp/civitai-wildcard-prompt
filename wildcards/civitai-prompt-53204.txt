@@ -1,0 +1,4 @@
+(masterpiece, high quality, highres,Highest picture quality), (Master's work),
+(zentangle:1.2),1loli,classical,noble,princess,negative space,Tyndall Effect,light background, [(white background:1.3)::5],
+bare shoulders, barefoot, bare back, shiny skin, shiny hair, dress, 
+<lora:epiNoiseoffset_v2:1>,

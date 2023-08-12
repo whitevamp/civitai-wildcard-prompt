@@ -1,0 +1,9 @@
+tsuruta ichiro, ichiro,<lora:ichirov13-06:0.95>,
+((lotus)),  ornamental, 
+female buddha, Guanyin ,Avalokitesvara, bodhisattva , praying, standing, 
+(nipples:1.4), ,stainedglassai, cloud pattern, loong pattern, 
+1girl, solo, goddess, divine, princess, pelvic curtain, choker,
+((big tits)),  smile, (super long hair:1.2),  dress, bare shoulders, jewelry,  earrings, bracket, makeup, lipstick, sakura petals pattern, bamboo leaves pattern,
+rim light, back light,
+lineart, monochrome,
+ <lora:stainedglassai_v10:0.8> <lora:animeLineartMangaLike_v30MangaLike:0.95>  <lora:conceptLoongChinaDragon_v10:1>

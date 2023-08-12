@@ -1,0 +1,3 @@
+1girl, flat chest, (nude:1.3), white panties:1.3, smile, looking at viewer, outside, summer,standing, full body, Waterfall:1.3,
+masterpiece, top quality, best quality, official art, unity 8k wallpaper, highres, ultra-high res, ultra-detailed, beautiful and aesthetic, perfect detailed face, detailed eyes, highly detailed, (photorealistic:1.2), (depth of field:1.4),
+ <lora:AG-yan:0.3> <lora:koreaface15:0.5>

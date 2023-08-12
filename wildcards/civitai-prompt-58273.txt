@@ -1,0 +1,1 @@
+tyrande, ass_on_wall, purple skin, (masterpiece:1.3), (best quality:1.3) , <lora:assOnWallConcept_v20:0.7>  <lora:sxzTyrandeWhisperwind_sxzTyrande:0.85>

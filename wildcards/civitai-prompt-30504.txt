@@ -1,0 +1,3 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.8>, a group of nude girls posing for a picture in a pool in front of a (massive and menacing orc:1.2), (orczor:1.3), backyard pool, pool party, patio, suburban neighborhood, sunny, multiple girls, harem
+<lyco:MultipleGirlsGroup:1.0>
+ <lora:orczor_v4.0:1>

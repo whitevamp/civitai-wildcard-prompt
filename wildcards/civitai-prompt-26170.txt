@@ -1,0 +1,3 @@
+masterpiece,best quality,(detailed face, perfect face, perfect eyes, realistic eyes, perfect fingers),(clear face),fantasy girl,long hair,jewelry,earrings,looking at viewer,intricate,high detail,sharp focus,dramatic,beautiful girl,knees up,hotel room,standing,
+<lora:add_detail:0.9>,
+ <lora:Glitter bead dress v1_20230709172653:0.75> large breasts,pink dress

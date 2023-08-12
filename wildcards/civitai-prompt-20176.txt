@@ -1,0 +1,7 @@
+(best quality, masterpiece:1.2),(extremely intricate detail),extremely delicate and beautiful,beautiful and aesthetic,1girl,breasts,nipples,solo,long_hair,black_hair,looking_at_viewer,water,hime_cut,smile,sitting,towel,nude,shiny_skin,wet,shiny,navel,huge_breasts,blunt_bangs,bangs,dusk,hot spring,bath,steam,
+(steam envelops the whole body),(blush),(makeup),hime cut,(light smile),(orange light),muscular,flat bangs,((completely nude)),wooden wall,
+<lora:epi_noiseoffset2:0.2>,
+<lora:LowRA:0.5>,((dark theme)),
+<lora:add_detail:0.5>,
+((m legs, tongue out, long tongue, looking at viewer,pubic hair, )) <lora:female pubic hair3:0.6>,
+((open mouth, upper teeth,smile, light smile, tongue out,  ))

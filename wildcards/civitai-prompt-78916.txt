@@ -1,0 +1,6 @@
+best quality, masterpiece, ultra high res,prefect anatomy,realistic,photorealistic, 
+,military exercise,accident,
+1girl,jogging, 
+(beret, camouflage clothes:1.4 ),nsfw,
+public, (Tyndall effect),Deep focus,ray tracing, cloudy sky,heavy rain,
+ <lora:vamdoll-2:0.6>vamdoll

@@ -1,0 +1,4 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo beautiful woman wearing luxury dress, (shiny green dress),
+large breasts, (side-tie black panties), skirt lift, lifted lifted by self, tiny waist,
+whiskey, hotl lobby
+<lora:realisticLuxuryDress_v10:0.7>  <lora:skirtliftTheAstonishing_skirtliftv1:1>

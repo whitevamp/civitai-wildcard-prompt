@@ -1,0 +1,4 @@
+solo, 1girl,  gradient background,  looking at viewer, best quality, black gloves, large breasts, white pants,jacket, cowboy,   ass,cameltoe,(erect nipples under clothes),medium legs,arms up,
+ <lora:Arknights-Schwarz-skyline:1>,skyline, 
+(realistic:2), (cosplay:1.4),<lora:shojovibe_v11:0.6>, <lora:JapaneseDollLikeness_v15:0.1>,
+<lora:PramanixYSS-000010:0.3>, <lora:add_detail:-0.3> ,<lora:MS_Real_Cameltoe_Lite:0.3>, <lora:puffy-nipples-v01:0.5>

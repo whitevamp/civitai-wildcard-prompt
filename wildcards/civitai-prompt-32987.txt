@@ -1,0 +1,2 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece,
+NSFW, 1girl, 20 yo, solo, model shooting pose, medium breasts, bangs, (tired up short braids), fair skin, gorgeous and aesthetic, full body,  (pussy, pubic hair), <lora:chinese-art:0.4:MIDD> chinese painting, chinese art, hanfu, flowering branch, hair ornament,  jewelry,  <lora:qinghuaci:0.6>  <lora:add_detail:0.5> landscape,  <lora:ClothingAdjuster3:0.3>

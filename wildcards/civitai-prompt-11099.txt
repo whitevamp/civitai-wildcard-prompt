@@ -1,0 +1,1 @@
+< 'Scarlett4'*0.5  +  'JENNIE'*0.7 +  'g3mmaart3rton'*0.6 +  'kathwin'*0.8  + 'milanavayntrubV5'*0.4 >, <lora:hyperbottomheavy_LoRA_v2:0.6>,  two tone black red,messy hair, full body, multicolored hair,cyberpunk \(series\), street wear,1girl,

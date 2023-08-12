@@ -1,0 +1,6 @@
+hk416 \(girls' frontline\),outfit-bladenun, 1girl, solo, long hair, blush,large breasts, white hair,very long hair, no panties, habit,
+lifelike,
+nsfw,
+love, magical, romantic, joyous, unforgettable, passion, desire, devotion, bliss, forever, soulmate, forever,
+Moody Atmosphere, Shadowy Intrigue, Ethereal Beauty,
+<lora:outfit-sword_maiden-pynoise:1>

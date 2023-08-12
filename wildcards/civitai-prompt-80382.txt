@@ -1,0 +1,1 @@
+1girl,outdoors,field,standing,cowboy shot, mecha musume, mechanical arms, headgear, robot joints, fortified suit, black bodysuit, <lora:mecha_offset:1>

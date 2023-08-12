@@ -1,0 +1,3 @@
+((Masterpiece, best quality)),edgQuality,smirk,smug, 
+edgLL, a woman in a harness with a chain around her waist ,wearing edgLL,leather lingerie
+<lora:edgLeatherLingerie1:0.8>

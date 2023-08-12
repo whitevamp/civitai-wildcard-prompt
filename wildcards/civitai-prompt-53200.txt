@@ -1,0 +1,1 @@
+(dog:1.2) wearing (wetshirt:1.05)  <lora:wetshirtLora_v11:0.7>, photo of fat pet

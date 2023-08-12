@@ -1,0 +1,4 @@
+(masterpiece, best quality, ultra-detailed, best shadow), (detailed background), (beautiful detailed face), (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,cinematic lighting,high contrast, colorful, science fiction,(scarlet and black theme:1.2),
+1girl,solo,perfect_face,white hair,
+cloak,(full body:1.1), warframe, <lora:warframe_10:0.8>,bodysuit, mechanical,mecha,
+standing,

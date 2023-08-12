@@ -1,0 +1,1 @@
+girl,(hotify:1.2) 1girl, solo, (slingshot bikini:1.4), indoors, school, long_hair, breasts, looking_at_viewer, smile, black_hair, navel, medium_breasts, nipples, blue_eyes, standing, full_body, nude, hairband, barefoot, mole, completely_nude, toes, blue_skin, covering, v_arms, covering_crotch ,(masterpiece,detailed,highres:1.4) <lora:pear_v2:0.6> <lora:slingshotEyepatch_v11:1>

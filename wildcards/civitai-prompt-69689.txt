@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl, <lora:ShimaCosplay:0.9>
+toga himiko, blonde hair, double bun, yellow eyes, evil smile, gesugao, medium breasts, skindentation,
+outdoors, beach,
+shimacos, crop top, sleeveless, microskirt, thighhighs, white elbow gloves, black panties, highleg panties, <lora:GesugaoFaceV1:0.5> <lora:togaHimikoTILora_togahimikolora:0.5>

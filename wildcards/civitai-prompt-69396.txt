@@ -1,0 +1,3 @@
+to be or not to be, that's a question
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece, best quality, photorealistic, (zentangle, mandala, tangle, entangle), intricate clothes, extreme detailed, dynamic angle, the most beautiful form of chaos, elegant, a brutalist designed, vivid colours, romanticism
+zhongfenghua <lora:zhongfenghua:0.55> <lora:oc_v10:0.2> <lyco:fairyworld:0.25> <lora:lowra_v10:0.5> <lyco:gpts4 lite dreamwave_278580:0.9>

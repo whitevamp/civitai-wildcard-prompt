@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), 1girl,worrior,metal arm,red hair,
+<lora:details:0.8>

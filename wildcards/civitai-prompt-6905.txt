@@ -1,0 +1,1 @@
+R3DD34Dstyle, digital portrait, fat ogre shrk <lora:Shrek_remasteredV1:0.66>, smile, holding a bottle of wiskey, cowboy hat, green skin, white shirt, brown vest, in scary swamp, evening, fog, horror, green sky  <lora:R3DD34Dstyle:0.7>

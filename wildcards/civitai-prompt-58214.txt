@@ -1,0 +1,2 @@
+1girl, cowboy shot, (standing), Gotenba-kyouko-su, sitting, classroom, 
+ <lora:Gotenba-kyouko:0.6>

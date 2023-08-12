@@ -1,0 +1,5 @@
+(soft focus:1.2) on the Foreground, hallow Depth of Field, Delicate Blur, Subtle Transitions, Depth and Atmosphere, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, (HDR:1.1), (1 girl, 1 boy:1.3), (sea:1.2)
+BREAK
+1 boy, (smile:1.4)
+BREAK
+1 girl, (lace blindfold:1.3),  <lora:Lace_Blindfold02:0.55>

@@ -1,0 +1,1 @@
+(1 girl:1.2), flat arts, (colorful:1.3), (waves:1.3), <lora:wavebackground:0.7>, extreme detailed,colorful,highest detailed, (masterpiece,best quality:1.5), soft lighting,gorgeous light and shadow ,vibrant colors

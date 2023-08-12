@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.4), (realistic, photo-realistic), (ultra_highres), (ultra-detailed), absurdres, incredibly absurdres, 
+1girl,realistic,photorealistic,1girl ,basketball player,detailed blue eyes, long straight hair, ((loose basketball uniform)),short pleated skirt,beautiful face,slim body,large breasts, thighs,slim legs,night,outdoors basketball court ,((cleavage)),(holding basketball),smug,seductive smile,detailed skin,eyeliner, eyelashes,looking at viewer, lighting, detailed shadow, sharp_focus, close up,  rim lighting,((straddling )),spread legs,from below,
+ <lora:shojovibe_v11:0.4>,

@@ -1,0 +1,5 @@
+(best quality, masterpiece, realistic),
+tentacle cave background, liquid acid puddle, wet, dripping, steam,
+1girl, <lora:DarknessLora:0.5>darkness \(konosuba\), long hair, blonde hair, x hair ornament, armor, blue eyes, ponytail, hair ornament, gloves, braid, white boots,
+grin, blush, cowboy shot
+<lora:StomachsTentaclesEtcBackground:1.0>

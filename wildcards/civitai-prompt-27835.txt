@@ -1,0 +1,2 @@
+masterpiece, 1girl, photo, <lora:chisatonishikigitest:0.9>, nishikigi chisato, short hair, bangs, blonde hair, (red eyes:1.5), hair ribbon, one side up, bob cut,
+navel, bare shoulders, thighs, stomach, crop top, buruma, sportswear, zipper pull tab, red buruma, sports bikini, from behind, <lora:adjusting_clothes_ass_v0.1:1>, adjusting clothes, looking back, ass, hands on ass, locker_room <lora:add_detail:0.15>

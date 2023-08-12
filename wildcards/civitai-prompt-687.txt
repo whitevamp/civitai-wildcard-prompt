@@ -1,0 +1,1 @@
+(best quality, masterpiece), pineapple_pizza, pizza, table  <lora:wrong_pizza:1>

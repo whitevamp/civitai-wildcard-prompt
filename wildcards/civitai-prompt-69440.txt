@@ -1,0 +1,6 @@
+masterpiece, best  quality, nsfw, bara, from below, 
+a muscular male inside of a destroyed building, post apocalyptic, dirty,
+detailed face, detailed eyes, crossed legs, sitting, 
+(huge penis:1.1), testicles, glans,
+(large pectoral:1.4), body hair, tattoo,
+unbuttoned, destroyed jeans, sneakers,short hair, <lora:wolf_con_f:0.5>  <lora:add_detail:-0.5>

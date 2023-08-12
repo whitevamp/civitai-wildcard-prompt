@@ -1,0 +1,1 @@
+masterpiece, best quality, rosado, otoko no ko, cone hair buns, hair bow, black crop top, wristband, black skirt, segs, english text, chibi <lora:Segs:1> <lora:rosado-nvwls-v1-final:1>

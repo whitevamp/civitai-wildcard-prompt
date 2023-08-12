@@ -1,0 +1,1 @@
+<lora:add_detail:0.6> ,<lora:FilmProvia2:0.4>,nsfw,masterpiece:1,best quality:1,realistic,1girl,big breast,little mad,looking at viewer, wearing bikini,<lora:Slingshot_V_Conv2D:1> ,dynamic pose,dynamic angle,cinematic lightning,extremely detailed,outdoor,market, masterpiece, best quality,incredibly absurdres, 1girl,

@@ -1,0 +1,5 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,
+1girl, <lora:coils_v0.1:1.5>,(coils:1.4),(lying:1.3),(breasts:1.3),(transparent swimming ring:1.5),
+delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(medium_breasts:1.5),narrow waist,((skinny legs)),
+hime cut,(silver white:1.05),
+<lora:jpIDOL_v10:0.2>,<lora:LoveOnLovely_lolStyleV10:0.2>,<lora:koreanDollLikeness_v15:0.2>,<lora:cuteGirlMix4_v10:0.1>,<lora:chilloutmixss_xss10:0.1>,<lora:taiwanDollLikeness_v10:0.1>,<lora:JapaneseDollLikeness_v15:0.1>,

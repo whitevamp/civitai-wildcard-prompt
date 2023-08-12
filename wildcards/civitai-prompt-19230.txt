@@ -1,0 +1,13 @@
+(Absurdres:1.2), beautiful and aesthetic, masterpiece, best quality, extremely detailed,
+photo realistic:1.4 , delicate pattern, (intricate detail,extremely intricate:1.2),
+(masterpiece:1.2, best quality), (highly detailed:1.3), realistic, realistic details, detailed, <lora:more_details:0.6>,  <lora:add_detail:1>
+------
+<lora:tiaraaurellie_v3:0.3>, <lora:girlfriendmixV1_v20:0.4>, <lora:yurisa chan_20230623045200:0.2> 
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1), (idol),
+<lyco:fitgirl_v10:0.6>, fit,  narrow waist,
+<lyco:GoodHands-beta2:1.0> nice hands, perfect hands
+Exquisite Makeup, Realistic Skin, beautiful detailed eyes, symmetric eyes,
+------
+church, stained glass, long bench, cross, 
+ <lora:NunBreastCurtains:1> NUN, BREAST CURTAINS, PELVIC CURTAIN, 
+shiny,chromatic aberration abuse,pastel color, nun, breast curtains, 1girl, breasts, solo, huge breasts, long hair, thighs, habit,long sleeves, puffy sleeves, skindentation, juliet sleeves,pelvic curtain, no panties, red hair, long hair, red eyes, yellow eyes, heterochromia,smile,

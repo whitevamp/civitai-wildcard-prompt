@@ -1,0 +1,4 @@
+a man and squats on the a huge dragon,gu,wuxia,holding weapon,<lora:wuxia2:1>  ADDBASE
+man,full body,Half squat,Asian men,yellow Hanfu,Fierce,Hair,thin,holding weapon,A city in ancient China,open mouth,BREAK,
+dragon,(dargon's head:1.2),a red huge dargon's head,huge,open_mouth,close up of dargon's eye,Dragon's head,side view,BREAK,
+sea,

@@ -1,0 +1,3 @@
+(ultra realistic, highly detailed:1.4), best quality, masterpiece
+woman, standing, feet, screaming, crying
+<lyco:feethands-v1:0.3>  ((feethands, feet for hands, feet):1)

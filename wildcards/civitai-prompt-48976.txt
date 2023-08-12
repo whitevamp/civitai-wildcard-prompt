@@ -1,0 +1,6 @@
+white background, best quality, photorealistic, beautiful lighting, AND half body,  
+ashley, 
+<lora:ashley.mk01:0.68> 
+,masterpiece, beautiful, 1 character, adult, mature female, BIG breasts, shiny skin, skindentation, short hair, golden hair.(pink nipple, nude, ),
+
+ <lora:body-fix-v2:0.2>

@@ -1,0 +1,1 @@
+1girl, cute, <lora:koreanDollLikeness_v10:0.7>, (8k, best quality, masterpiece:1.2), realistic, photo-realistic:1.2), looking at viewer, (smile:1.15), (closed mouth), makeup, (8k, RAW photo:1.2), sitting in a bus, skirtlift,  <lora:skirtliftTheAstonishing_skirtliftv1:1>

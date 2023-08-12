@@ -1,0 +1,1 @@
+<lora:add_detail:0.25>,  A stunning intricate full color portrait,  of (natalia dyer:1)  <lora:natalia-03:1>, red shirt

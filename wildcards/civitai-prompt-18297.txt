@@ -1,0 +1,3 @@
+<lora:motion_blur_v0.3:1.0>
+motion blur, 1girl, penis, sex,
+<lora:pig_man_v0.2:1> monster,, masterpiece, best quality, highly detailed

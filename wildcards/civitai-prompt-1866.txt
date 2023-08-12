@@ -1,0 +1,1 @@
+Bloodborne,1girl,solo,(look at viewer:1.2),(white background:1.2),simple background,<lora:Bloodborne:0.8>,(emaciated),(boney),

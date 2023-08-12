@@ -1,0 +1,7 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:Sakura, boruto, red sleeveless dress, hairband, crest:0.8> Sakura, 1girl, dynamic pose, looking at viewer
+red sleeveless dress, hairband, crest
+<lora:cross-body stretch, stretching:1> cross-body stretch, stretching
+BREAK
+(field, outdoors, gorgeous view)

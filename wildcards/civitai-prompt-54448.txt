@@ -1,0 +1,1 @@
+80's anime style,  <lora:illuminationStyle_v2Epoch3:0.55>,   donald trump in a suit, in front of american flag, val office

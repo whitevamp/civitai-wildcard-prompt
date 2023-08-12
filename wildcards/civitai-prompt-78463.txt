@@ -1,0 +1,1 @@
+TinkerWaifu, fairy wings, (obese:1.2), strapless green dress, <lora:Fat:0.9>,<lora:tinkerbell_character:1>, (sharp focus:1.2), portrait, ((posing)), (beautiful face:1.1), detailed eyes, luscious lips, ((skindentation)), (bright studio lighting:1.2), depth of field, bokeh, 4K, HDR. by (James C. Christensen:1.2|Jeremy Lipking:1.1)

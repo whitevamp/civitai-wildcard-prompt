@@ -1,0 +1,1 @@
+sliverHornChief,man,(ultra high quality,photorealistic, realistic, best quality, photo-realistic) ,(8k,raw photo,masterpiece),(photon mapping,radiosity,physics based rendering,automatic white balance), holding 1monkey,arms up,  hand up, smile, <lora:sliverHornChief_v10:1>

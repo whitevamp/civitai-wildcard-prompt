@@ -1,0 +1,9 @@
+(one male:1.9) (1boy:1.9) (front view:1.6) (full body:1.5).
+Very detailed flawless masculine handsome face, detailed open eyes, heroic, bodybuilder, (big muscles), (big pectorals), narrow waist. Long hair. Realistic face, realistic eyes.
+(nsfw), (nude) (completely naked), big penis, erection, glans, frenulum, big balls, (male pubic hair:1.25).
+(orgasm face:1.3), (looking pleasured:1.3), cum dripping from penis
+(xcross), from front, wooden, tied
+(Dark medieval torture chamber), dirty, filthy, (very low ambient lighting), illumination from torches mounted on the walls.
+Realistic, high contrast, high saturation, highly detailed, high quality, low volumetric light, masterpiece.
+<lora:BulkedUpAIR1.5:0.4>
+<lora:X-Cross-v1:0.8>

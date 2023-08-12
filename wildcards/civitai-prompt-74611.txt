@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, 1girl, nice hands, perfect hands, <lora:Other_EnvyBetterHands:1>, moth girl, moth wings, neck fur, antennae, <lora:Char_Moth_Moth:0.8>, ((chibi)), <lora:Style_Chibi:1>

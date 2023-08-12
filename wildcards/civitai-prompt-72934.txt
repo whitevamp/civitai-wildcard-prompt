@@ -1,0 +1,2 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), absurdres, (a best long shot photo of a mechanical dragon), (koh_amberheard:0.8) ,fantasy scifi creature, hyper realistic, steampunk, intricate design, insanely detailed, fine details, 
+SteamPunkAI <lora:steampunkai10MBLora_10mb:0.65>

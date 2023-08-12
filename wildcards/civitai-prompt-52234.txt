@@ -1,0 +1,3 @@
+masterpiece, best quality, highly detailed, 1girl, pink eyes, black choker, big breasts, blush, detailed face, detailed teeth,
+<lora:breasts_on_glass:1.0> breasts_on_glass, nipples, breast press, against glass, nude, pussy, shower, shower cubicle, nsfw, wet, (JinxLol,:1.2) mature female, looking at viewer, navel, bare shoulders, topless, bottomless, blue pubic hair, trimmed pubic hair, completely nude, nipples, exposed breasts, mad look <lora:jinx:1>,
+arcane style, 1girl, arm tattoo, asymmetrical bangs, bangs, blue hair, braid, collarbone, sweaty, steamy, nude, undressed, small breasts, cloud tattoo, slutty, laughing, crazy, green hair, long hair, midriff, pink eyes, red lips, twin braids, upper body, arcane jinx, jinx \(league of legends\) <lora:arcane_offset:0.5>

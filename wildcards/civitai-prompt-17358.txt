@@ -1,0 +1,2 @@
+[(white background:1.5)::5], (bottle bottom:0.9), 1 girl, mid shot, full body, <lora:gachaSplashLORA_gachaSplash31:0.6>,
+butterflies, floating petal, stone fragment, beautiful detailed water, cloud, sun, dusk, sunset, beautiful detailed cloud,ocean, sea waves, water splashes

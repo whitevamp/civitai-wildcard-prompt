@@ -1,0 +1,1 @@
+Sorayama Style, metallic skin, steampunk woman, highly detailed face and body portrait by wlop. fantasy art from dnd extremely beautiful style of ilya kuvshinov on greg rutkowski in the shell <lora:sorayamaStyleHajime_v10:0.4> <lora:sorayamaStyleHajime_v11:0.4> <lyco:aubreyPlaza_v1:1.1>

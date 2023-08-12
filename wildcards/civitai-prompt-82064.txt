@@ -1,0 +1,2 @@
+nsfw, vex, grey skin, 1girl, standing
+ <lora:vex3:1> <lora:Bikupan-12:0.65> <lora:Kamaboko-12:0.4> <lora:shortstack1:1.25>

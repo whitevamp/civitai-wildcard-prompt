@@ -1,0 +1,2 @@
+1girl, (super realistic:1.5, ultra-detailed:1.3, insanely detailed:1.3), <lyco:envybetterhandsLocon_beta2:1>, <lora:bluetheme_skywater:0.5>, blue theme, sky, water <lora:flat2:-1>, BREAK
+Pirate King's Daughter and her Legion of Monstrous Minions, formidable duo ruling the high seas, daughter of a legendary pirate captain, commanding a fearsome army of monsters, nautical supremacy, plundering treasures, legendary battles, high-resolution digital artwork, captivating illustration, swashbuckling adventure

@@ -1,0 +1,9 @@
+(kawaii:1),(looking at viewer:1),(blurry background:1)
+BREAK
+The sun is shining brightly, casting warm rays of light across the picturesque scene. The sky above her is a stunning shade of blue, with a few fluffy white clouds adding a touch of elegance.
+The sunflowers in the field are in full bloom, their vibrant yellow petals stretching towards the sun. The field extends as far as the eye can see, creating a breathtaking backdrop for the illustration.
+The young woman is dressed in an exquisite dress that perfectly complements the sunflower's hues. The dress is adorned with delicate patterns resembling the intricate design of the sunflowers. It flows gracefully around her as she strikes a model-like pose, exuding both confidence and allure.
+Her hair is styled in loose, beachy waves, cascading down her shoulders and adding to the radiant atmosphere of the scene. She wears a subtle smile on her lips, as if she's savoring the beauty of the moment.
+The overall feeling of the illustration should be one of enchantment and allure, capturing the mesmerizing beauty of the woman in harmony with the breathtaking sunflower field.
+BREAK
+<lora:JapaneseDollLikeness_v15:0.29> <lora:koreanDollLikeness:0.1> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-2> <lora:detailed_eye:0.5>

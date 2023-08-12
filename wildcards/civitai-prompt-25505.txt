@@ -1,0 +1,2 @@
+1girl,slg,effect lighting,forest,straight hair, Chrome Satin wedding dress,depth of field, day,Sitting with legs crossed, one hand on knee
+ <lora:slg_20:1.0>

@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, <lora:azur_lane_warspite_v1:.9>, warspite

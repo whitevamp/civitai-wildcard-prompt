@@ -1,0 +1,1 @@
+(masterpiece:1.3), (intricate:1), best quality, official art, 8k wallpaper, highly detailed, illustration, lineart, monochrome, cinematic light, monastarpact, 1 girl, (full body view:1.2), sitting down, <lora:animeLineartMangaLike_v30MangaLike:1>, <lora:mona1-000008:1>

@@ -1,0 +1,5 @@
+(best quality, masterpiece),
+1girl, cozy ,
+pink printed sweet kawaii ballgown, frills, puffy sleeves, bare shoulders,  freckles,
+((twintails , white hair):1.2),
+,  <lora:3DMM_V11:1>

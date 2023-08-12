@@ -1,0 +1,1 @@
+buyao,((1girl)),(Masterpiece:1.2, high quality), (pixiv:1.4),bamboo,waterfall <lora:anxiang:0.65> \

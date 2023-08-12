@@ -1,0 +1,1 @@
+highres, masterpiece, realistic ,perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, cleavage, smile :),<lora:JanePorter_character-20:0.5>, (JaneWaifu:1.2), (single hair bun, yellow dress:1.2) , wet clothes, inside  disney amusement park:1.2 ,rainbow in the sky, panty pull <lora:wetshirtLora_v11:1> <lora:pantyhose_pull:1>,nsfw

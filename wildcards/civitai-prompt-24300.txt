@@ -1,0 +1,1 @@
+from Star Trek <lora:star_trek_offset:1>,  photo of a blonde woman, naked, dark room

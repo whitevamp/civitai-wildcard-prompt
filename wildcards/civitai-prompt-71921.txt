@@ -1,0 +1,2 @@
+21yo woman, mio <lora:Mio_1.0:0.6>
+<lora:jaluniform_lora-10:0.3> jal uniform

@@ -1,0 +1,4 @@
+((masterpiece)), (best quality), official art, extremely detailed CG, unity 8k wallpaper, ultra detailed, highly detailed, detailed background, vivid color, photorealistic, perfect lighting, best illumination,
+1girl,ol, formal suit ,jacket, necktie, miniskirt, pencil skirt,  cowboy shot, blonde hair, young girl, blue eyes,
+finger on mouth,  tongue out,
+ <lora:delicious:0.4>

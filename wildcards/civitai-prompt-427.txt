@@ -1,0 +1,3 @@
+best quality, highres, 1girl, fal \(summer\),
+slingshot swimsuit, red one-piece swimsuit, (large breasts), (straw hat:0.5), (sunglasses:0.6), blue ribbon, 
+masterpiece, absurdres, (five-digit human hands:1.2), <lora:Slingshot_V_Conv2D:0.8>, <lora:falGirlsFrontline_v10:0.8>,  <lora:LohaOnonoimokoStyle_v10:0.7>,

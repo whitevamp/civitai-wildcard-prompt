@@ -1,0 +1,1 @@
+A stunning intricate full color portrait of (sks person:1), wearing a black turtleneck and black suit, epic character composition, sharp focus, natural lighting, subsurface scattering, night, (city bg), bokeh, f2, 35mm, film grain,  <lyco:locon_keanu_v1_from_v1_64_32:1.0>, <lora:lowra_v10:0.6>

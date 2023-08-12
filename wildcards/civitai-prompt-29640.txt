@@ -1,0 +1,5 @@
+<lora:InstantPhotoX3:0.7>, pawg 1girl, light smile, short wavy white hair, blue eyes,  hair_flying, Fluttering hair, flying_hair, ((Transparent glasses, glasses, glasses_on_nose)), wind blue coat,
+(nfsw, expose, nude:0.6, medium breasts), sexy, charming, stunning,  enhance, delicate, (pale skin, real_skin), 
+winter, wind, tree, fallen snow, outdoor, snowflakes, night forest,tent,
+best quality, high quality, highres, 8k, photo realistic, raw photo, cannon, nikon, 
+ <lora:add_detail:0.4>

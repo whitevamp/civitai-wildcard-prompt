@@ -1,0 +1,5 @@
+dark and gloomy 8k photo, sunset, cyborg, cyberpunk style, ((intricate details)), hdr, ((intricate details, hyperdetailed)), cinematic shot, vignette, PERFECT (((gorgeous FACE))), highly detailed, INTRICATE, f/1.4 55mm, dynamic angle, professional lighting, (realistic, photo-realistic:1.37),(8k, RAW photo, best quality, masterpiece:1.2),pink eyes, cute, ultra-detailed, physically-based rendering, ultra high res, front lighting, looking at viewer, photorealistic, realistic, solo, photorealistic, best quality, extremely detailed face, extremely detailed eyes and face, beautiful detailed eyes,  incredibly absurdness, airport, spaceship station, 
+ 1girl, 18 years old, cute, hair bangs, (intricate  white robot shiny metal armor:1), (blue and red and yellow low cut breast armor),
+ <lora:gundam:0.6>
+<lora:Taiwan-doll-likeness:0.1> 
+<lora:Korean-doll-likeness:0.3>

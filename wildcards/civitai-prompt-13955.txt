@@ -1,0 +1,1 @@
+high quality, masterpiece, 1girl, solo, from_close, aqua_(konosuba), grin, {{upper_body}}, looking at viewer, large breasts, side_breasts, bangs, blue_eyes, blue_hair, blue_skirt, breasts, detached_sleeves, hair_rings , long_hair, smile, blue_sky, (simple_background:1.3), <lora:aquaKonosubaLora_1:0.3>,  <lora:helltakerLora_10:0.5>

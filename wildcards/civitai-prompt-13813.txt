@@ -1,0 +1,7 @@
+Bedroom,<lora:ahegaoRollingEyes_v1114:0.7>
+<lora:flat2:0.7> <lora:dtl11-cnlight:-0.7> <lora:colorFish_v10:0.8>     <lora:after_sex3e-5:1>, masterpiece, best quality,on bed,(garter belt:1.4),
+1girl, solo,(latex thighhighs:1.5),skirt lift,collar,latex gloves,look back,heavy blush, (tongue out:1.4), drooling, ahegao, rolling eyes, (evil smile:1.3), half closed eyes, 
+from behind,(focus on ass:1.4), spread ass,SpreadAssMS,anus,cum in ass,overflow,
+(shiny skin:1.5),steaming body,(pussy juice trail:1.3),pussy juice puddle,sex,porn,
+(huge breasts:1.3),narrow waist,wide hips,long hair,black hair,
+SPREADASSMS, <lora:murkysSpreadAssLora_1:0.8>

@@ -1,0 +1,2 @@
+Cassie,blonde hair,solo,ponytail,brown eyes,fingerless gloves,armor,bodysuit,
+(insanely detailed, beautiful detailed face, masterpiece, best quality), <lora:CassieCage:0.7>

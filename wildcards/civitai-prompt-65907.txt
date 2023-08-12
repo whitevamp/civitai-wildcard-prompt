@@ -1,0 +1,1 @@
+<lora:CircuitBoardAI:1>, girl, CircuitBoardAI, tiny cute (happy1.4) cat in a (yellow raincoat1.3) in the woods, rain, a character portrait, Tilt-shift, bokeh

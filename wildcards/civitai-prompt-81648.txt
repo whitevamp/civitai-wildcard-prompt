@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), glitch art, (digital distortion:1.2), pixelated fragments, data corruption,colorful noise,(visual chaos:1.2),contemporary aesthetics, lucy \(cyberpunk\), colorful car,<lora:lucy_offset:1>, <lora:add_detail:0.3>

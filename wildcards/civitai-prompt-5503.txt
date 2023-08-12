@@ -1,0 +1,6 @@
+1girl,  small face, ((upper body nude)),(natural soft large breasts)
+,(wide pelvis), detail eyes, <lyco:GPTS1 lite:0.5> <lyco:creepychan:0.7>
+, mini shorts, 8k, RAW photo, best quality, masterpiece, realistic, 
+, photo-realistic, gray eyes, (very short hear),
+ hair bangs, the creamy smooth skin,(pale skin:1.2), earrings,(cowboy shot:1.2)
+ <lyco:shwemy:0.35> <lora:droptop:0.3>

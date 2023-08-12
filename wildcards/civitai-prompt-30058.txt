@@ -1,0 +1,1 @@
+female, woman robot cyborg wearing china dress cyber bodysuit,cyberpunk scene,<lora:KisakiChinaDress:0.9> <lora:MG_jijia:0.75>

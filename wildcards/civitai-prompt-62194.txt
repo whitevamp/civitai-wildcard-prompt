@@ -1,0 +1,3 @@
+1 woman | (men:1.2) (wearing cyberpunk clothes:1.3) (sit around a table:1.1) | (A (poledancing:1.15) beautiful young petite erotic seductive auburn haired freckled woman:1.2) (poledance on the table with pole:1.1) | (a close crowd of men cheers them on and looks toward camera:1.2) | in a crowded cyberpunk bar| <lora:poledancing:0.5> | style-empire | (pole in center of table:1.2)
+BREAK
+(focus on woman:1.0) | (View of full bodies:1.1) | red spotlight on woman | cinematic shot | wood | dark atmosphere sculpting the forms in sharp chiaroscuro | (sharp focus:1.2), (photorealistic:1.0), (highly detailed skin), (detailed face:1.2), detailed background, intricate details, volumetric lighting <lora:epiNoiseoffset_v2:1.4>

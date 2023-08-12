@@ -1,0 +1,3 @@
+((best quality, masterpiece)),
+girl RonaldChan, cute pose, freckles:0.25,   (yellow gloves, red and white striped thighhighs, red and yellow short bikini ,  (red and white striped sleeves)), bare shoulders, short twintails red hair, makeup,  pool at background,
+<lora:more_details:0.5>,<lora:McDonaldChan_characeter:0.35>,  <lora:DI_belle_delphine_v1:0.45> <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.3>

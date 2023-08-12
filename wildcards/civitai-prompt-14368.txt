@@ -1,0 +1,7 @@
+(masterpiece, best quality, 8k, absurdres, highres, very detailed, intricate details, chiaroscuro:1.2), (perfect skin, bokeh, dof:1.6), full body view, deep within the (lush forest:1.2) a beautiful elf girl is lifting her colorful skirt, looking at the viewer, smirking, immaculate skin, smooth skin, topless, puffy nipples, view from below, black overknee boots, long ornate gloves, black corset, captivating green eyes, beautiful eyes, beautiful face, fantasy style, gnarled trees, at dawn, sunbeam, (colorful flowers:1.6)
+<lora:hairstyle-ponytail_weave:1> ponytail_weave_hairstyle, jet black hair, very long hair,
+<lyco:envy-elegance:0.4>
+<lora:add_detail:0.2>
+<lora:skirtlift:0.4>
+<lora:bjd_dolls:0.2> bjddolls
+<lora:very_thin_pussy:0.4> naked pussy, very thin pussy

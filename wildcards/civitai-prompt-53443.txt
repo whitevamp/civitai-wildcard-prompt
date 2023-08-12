@@ -1,0 +1,1 @@
+JinxLol, chibi,cute, <lora:jinxLeagueOfLegends_v10:0.9> <lora:blindbox_V1Mix:1.1>

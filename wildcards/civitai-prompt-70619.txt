@@ -1,0 +1,3 @@
+(masterpiece, best quality:1.2), looking at viewer, throne, crossed legs, from below, sitting
+Ankha (Animal Crossing), snake hair ornament, white dress,  1girl, egyptian,  bandages, :<
+ <lora:AnkhaAnimalCrossing1:0.9>

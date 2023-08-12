@@ -1,0 +1,2 @@
+(1girl, Marilyn Monroe, 30 years old), (feminine:1.3) (sexy body), sexy, ((lace bra)), blonde long hair, (gigantic breasts:0.8), seductive eye contact, raised nipples, sweat, seductive smile, (skinny:1.4), (indoors, bedroom), detailed background, <lora:add_detail:0.6> <lora:detailed_eye:0.6> (detailed skin:1.4) (smile:1.4), (makeup:1.3), warm lighting, (gravure pose:1.2)
+ fcDetailPortrait

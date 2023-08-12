@@ -1,0 +1,4 @@
+((swimming,floating hair,dynamic pose)),full shot,(sharp focus),(partially underwater shot,full body,:1.3),bright,sunny,day,cloudy sky,
+(blue hair bow,black hair),happy,(detailed skin:1.3),(detailed eyes),petite,small breasts,(completely nude:1.2),
+(masterpiece:1.2),(best quality),bioluminescence,marine organism,
+<lora:MengX girl_Mix_v30:0.8>

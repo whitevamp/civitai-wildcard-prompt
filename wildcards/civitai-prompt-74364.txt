@@ -1,0 +1,2 @@
+(detailed lockers background), masterpiece, best quality, Star_Guardian_Kai'Sa,
+ <lora:Star_Guardian_KaiSa-10:1>

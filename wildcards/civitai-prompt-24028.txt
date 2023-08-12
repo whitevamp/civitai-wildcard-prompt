@@ -1,0 +1,6 @@
+Cinematic film still, (masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2),
+thomasin mckenzie, Marylin Monroe, sitting, front view,
+mature women, seductive smile, (blonde hair, red lip:1.4),
+ spread legs, wearing latex red corset, 
+(female orgasm:1.2), cleavage, small breasts, small nipples, (red lip:1.2),  parted lips, disheveled hair, wet hair,  
+black background, <lora:add_detail:1>,

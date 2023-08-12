@@ -1,0 +1,5 @@
+(masterpiece:1.2, best quality:1.2, beautiful, high quality, highres:1.1, aesthetic), detailed, extremely detailed, ambient soft lighting, 4K, perfect eyes, perfect face, perfect lighting, 
+<lora:add_detail:0.25>, (1girl, solo, adult female, mature female), <lora:detailed_eyes:1>, <lora:tool_goodHands:1>,
+[muscular, biceps], leg muscles, thigh muscles, (thin, lithe body), 
+<lora:style_ultraBlackholeTech_(ulblackholetech--excessive energy--scifi):0.8>, ulblackholetech, excessive energy, scifi,
+<lora:character_harunoSakuraNaruto_lykon:0.65>, haruno sakura, pink hair, glowing pink eyes, forehead mark, fist pump, smirk, skin tight, skirt, glove

@@ -1,0 +1,5 @@
+(masterpiece),(intricate details),1girl,mature female,brown eyes,Slicked-back high ponytail, ,large breasts
+BREAK
+tight long dress,pencil skirt,barefoot,depth of field,looking at viewer,((sit on the Pet store: Animals, pet food, toys, adoption, grooming)),((full body))
+BREAK
+day,sun,rainbow,((cumulonimbus)),from below:1.2,<lora:more_details:0.3>,<lora:Tsurime3:0.5>

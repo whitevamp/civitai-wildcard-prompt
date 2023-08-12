@@ -1,0 +1,6 @@
+masterpiece, best quality, extremely detailed CG unity 8k wallpaper, soft lighting, curvy, large breasts, round hip,
+black background, dimly lit, 
+overhead shot, running toward viewer,
+<lora:Outfit_seethroughDress:0.6> see trough dress,
+angry,
+<lora:Taimanin_Ingrid:0.8> ingrid, long pink hair, dark skin, hair intakes, forehead, yellow eyes

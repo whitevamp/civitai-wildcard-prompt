@@ -1,0 +1,5 @@
+bladenun hairstyle, outfit-bladenun, 1girl, breasts, long hair, solo, large breasts, blonde hair,sitting, very long hair,
+nsfw,(wide hips:0.5), (thick thighs:0.5),
+love, magical, romantic, joyous, unforgettable, passion, desire, devotion, bliss, forever, soulmate, forever,
+Moody Atmosphere, Shadowy Intrigue, Ethereal Beauty,
+<lora:outfit-sword_maiden-pynoise:1>

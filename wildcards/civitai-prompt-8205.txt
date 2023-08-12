@@ -1,0 +1,1 @@
+Fcartoon,A cute cat,<lora:Fcartoon:0.6>,<lora:3DMM_V11:1>,3DMM

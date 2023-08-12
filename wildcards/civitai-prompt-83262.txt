@@ -1,0 +1,1 @@
+<lora:AntimatterTech-20:0.4> (antiTech, scifi, energy), <lora:Oak:0.7> samuel_oak, upper body nude, 1man, solo, upper body, (extremely detailed CG unity 8k wallpaper), (masterpiece), (best quality), (ultra-detailed), (best illustration), (best shadow), (absurdres) old man, labcoat, pectorals, male, bodybuilder muscular, <lora:MuscularHardBara-10:0.55>

@@ -1,0 +1,7 @@
+best quality, intricate details, 
+
+1girl, hakos baelz, messy hair, red hair, black and white highlights, blue eyes, sharp eyes,<lora:hakos baelz:0.8>
+
+,PiledriveMS, sex, upside-down, folded, lying, pussy, ass, sex, solo focus,  <lora:murkysPiledriveLora_1:0.8>
+
+<lora:epiNoiseoffset_v2:0.8>

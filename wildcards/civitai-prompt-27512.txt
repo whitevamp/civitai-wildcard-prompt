@@ -1,0 +1,1 @@
+female, woman robot cyborg,corporate model,corporate logos on arms,  detailed mechanical parts, glossy hard steel, scifi materials,advanced electronics, cyberpunk scene,    <lora:insanobot:0.9>

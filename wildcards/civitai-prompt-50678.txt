@@ -1,0 +1,5 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean,realistic, professional artwork, famous artwork,warm backlight, photorealistic dawn lighting, dark,ultra detail texture,ultra detail hair, ultra detail face, perfect face, beautiful face, abandoned cyberpunk city, inside a abandoned japan traditional house, after rain,
+
+(perfect korean, toned body, huge breasts, slim waist, thick thigh), thigh high platform boots, spread legs, sexual,looking at viewer, ((wet skin,covered by water)), floarting hair,,absurdly long hair, alluring eyes, glowing eyes,
+
+<lora:hipoly3DModelLora_v10:0.3>,<koreandolllikenessV20_v20:0.3>

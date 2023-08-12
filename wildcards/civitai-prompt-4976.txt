@@ -1,0 +1,4 @@
+(masterpiece:1.3),(best quality:1.2),8k,absurdres,unity 8k wallpapper,(extremely detailed:1.3),highestres,dim,
+g2h,gun to head,handgun,holding gun, long hair,floating hair,outdoors,from above,gloves,small breast,
+1girl,portrait,crazy face,crazy eyes,crazy smile,Constricted pupils, <lora:Gun2HeadV4:0.8> 
+  <lora:crazyExpressions:0.8> <lora:lowRA:0.6>

@@ -1,0 +1,2 @@
+(((masterpiece))),best quality,illustration,beautiful detailed glow,
+extremely detailed eyes and face,paper_cut,<lora:KK_paperCut_v1:1>,<lora:tachi-e:0.8>,full body,river,clouds,colorful,flower,tree,cat,fantasy,1girl,full moon,pretty face,bare foot,kimono,rendered eyes,

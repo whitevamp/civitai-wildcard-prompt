@@ -1,0 +1,4 @@
+((masterpiece), (best quality), ultra high res, (raw photo:1.2), (photorealistic:1.4), Exceptional detail, dramatic lighting, highres,   8k, absurdres, bedroom, hotel bed, 
+1girl, (blonde hair:1.4), long hair, (medium breasts:1.5),  (narrow waist),  photorealistic, uncensored, nipples, breasts, (oversized_sweater:1.5)
+<lora:OF_Sarah_Small:0.65>, sarah,  
+ ulzzang-6500:0.5,   <lora:oversized_sweater:0.4> ,   <lora:ClothesLiftSelfieV1:0.7>, (selfie, clothes lift:1.5),

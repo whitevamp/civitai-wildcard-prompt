@@ -1,0 +1,2 @@
+A photo of a gothic Victorian woman, her eyes gleaming with mischief, her honey-blond locks styled in loose waves. She is dressed in a garnet red gown, heavily adorned with black lace. She's situated in a secret garden, filled with moonflowers and ivy-laden arches. The moonlight filters through the foliage, casting an enchanting glow, and the camera angle is a wide shot, capturing the entire mystical scene.
+ <lora:VictorianGoth:0.6> 111Mag00ical888

@@ -1,0 +1,1 @@
+masterpiece, (photorealistic:1.4), best quality, beautiful lighting, HinataNS, solo, smile, hood, simple_background, konohagakure_symbol, black_background, full_body, toeless_footwear, sandals, pants, bandages, RAW photo, 8k uhd, film grain <lora:HinataNS:1>

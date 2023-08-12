@@ -1,0 +1,1 @@
+masterpiece, best quality,   katsuragi ace \(umamusume\),  <lora:katsuragi_ace_loha:0.8>, assattackKEIJOpov, Beautiful Art Style, 1girl, young woman, pallium, superficial, chicken coop,  motion lines, emphasis lines,  <lora:assattackKEIJOpov:0.8>

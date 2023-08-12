@@ -1,0 +1,1 @@
+<lora:cuteGirlMix4_v10:0.6>, mix4, <lora:20d_v10:0.6>, 20d, solo, long_hair, shirt, dress, high_heels,full body, look_at_viewer, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering,  pureerosface_v1, <lora:japaneseDollLikeness_v10:0.3>, <lora:koreanDollLikeness_v10:0.4>

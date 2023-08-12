@@ -1,0 +1,1 @@
+mash kyrielight, pink hair, hair over one eye <lora:conceptBreastGrabOver_v10:1>,breast grab,glasses, jacket, dress, necktie, pantyhose <lora:mashKyrielightFate_v10:1>

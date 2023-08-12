@@ -1,0 +1,4 @@
+realistic, (best quality, masterpiece:1.3),book cover design,english text,
+1girl,solo, silver hair, bright pupils, hair slicked back, long hair, black shirt, expressionless, closed eyes,
+abstract background, flower, blue rose, fantasy,
+<lora:ertongchahua:0.6> paperCut <lora:KK_paperCut_v5:0.9>

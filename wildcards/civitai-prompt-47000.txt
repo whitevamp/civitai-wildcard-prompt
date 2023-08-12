@@ -1,0 +1,1 @@
+chinese male, solo, a famous general , facial hair, blue purple and gold armor,  strong, fierce face, <lora:Sanguo_v0999:0.8>, gun, holding a rifle with both hands, assault rifle, aim,(aiming:1.1), <lora:hKHK416Lora_v20:0.9>, (outside the building:1.3), <lora:ancientChineseArchitectural_v10Gugong:0.8>

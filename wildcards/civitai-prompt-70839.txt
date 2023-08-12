@@ -1,0 +1,4 @@
+RAW photo, best quality, (photorealistic:1.4), ultra high res, 8k, realistic, film grain, soft lighting, sharp focus, cowboy shot,
+1girl, 21 years old, standing, looking at viewer, sexy lips, grin, (finely detailed eyes:1.2), (school uniform:1.3), ((micro:1.1) skirt:1.2), big breasts, wide hips, (ass:1.1), (pubic hair:1.3), (no panties, npclearly, obviously no panties, partially visible crotch, groin:1.),
+outdoors, (school grounds:1.2),
+<lora:npm-v11t-000005:0.9> <lora:breastinclassBetter:0.5> <lora:japanesedolllikenessV1_v15:0.2>

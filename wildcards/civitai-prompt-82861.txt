@@ -1,0 +1,1 @@
+(from below:1.1),(cinematic closeup look:0.65),human ging freecss looking at you,pain, suffering, blood, sweat, death,war,[[soft cinematic light, adobe lightroom, photolab, hdr, intricate, highly detailed]], Wasteland, complex background, (depth of field), gloomy, epic surrealistic, mystical haze,  (by alan kenny, agnes cecile:1.4), <lora:add_detail:1>,  <lyco:GoodHands-beta2:1>

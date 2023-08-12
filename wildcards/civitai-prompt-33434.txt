@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.3),extremely high detailed, intricate, 8k, HDR, wallpaper, cinematic lighting, <lora:Mecha:1> ,(universe:1.4),gun,(firing), dark armor, glowing eyes, oni mecha,  <lora:LowRA:1>,

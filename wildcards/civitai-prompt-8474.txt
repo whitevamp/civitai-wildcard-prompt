@@ -1,0 +1,5 @@
+cowboy shot,  (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes, hyperdetailed, raytracing, rendered, (good proportions), (good anatomy), (subsurface scattering), (diffused soft lighting), (shallow depth of field), (Art by Oliver Wetter), perfect lighting, perfect shading, volumetric lighting, subsurface scattering, (photorealistic:1.5), centered
+BREAK
+<lora:smtartemis, dark skin:0.8> smtartemis, fierce expression, dark skin, cape, skirt
+BREAK
+abstract background

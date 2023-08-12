@@ -1,0 +1,1 @@
+(extreme close up:1.5) portrait of an 18 year old nude angry girl  beside neon lights, detailed face, detailed skin, skin blemishes, dimly lit, <lora:more_details:0.7> <lora:epiCRealismHelper:1>  <lora:epi_noiseoffset2:1>

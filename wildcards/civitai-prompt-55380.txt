@@ -1,0 +1,4 @@
+masterpiece, best quality, (relistic:1.5), 8k, ultra  face detailed, unreal engine 5, beautiful body,
+1women, slender, boob cleavage, green_shirt, downblouse, scoop_neck, shiny_skin, denim_shorts, lips, brown_hair, green_eyes, (glossy skin:1.3),
+
+<lora:auntCassBigHero_auntCass:0.6>

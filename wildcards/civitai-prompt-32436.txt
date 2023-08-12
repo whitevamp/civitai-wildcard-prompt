@@ -1,0 +1,6 @@
+[32k|16k|best-quality], professional photo <lora:雷雄volibearV1:0.6> 1animal, polar bear, legs so short they're hidden by fluff, causing pandemonium in a school hallway, loose papers, textbooks, pens flying everywhere, chaos reigning, a scene of acute disarray, onlookers' astonished expressions, amidst the disarray, the comical charm of the short-legged polar bear shines through.
+ <lora:school_hallway_v0.1:1> 
+<lora:Fudo-15:0.4>
+<lora: Old-Electronics - Trigger with Topnotch Artstyle:0.2> 
+<lora:Glass:0.2> 
+<lora:test003_2:-1.2>

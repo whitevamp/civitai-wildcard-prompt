@@ -1,0 +1,1 @@
+CarDoggy, 1girl, drivepose, red pants,  soles, sneakers, feet   <lora:CARDOGGY:0.7>

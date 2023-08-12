@@ -1,0 +1,2 @@
+masterpiece, best quality, detailed, soft dim lighting, <lora:add_detail:1.0> add_detail, realistic,
+<lora:beholder:0.9> beholder, teeth, monster, extra eyes, tentacles,

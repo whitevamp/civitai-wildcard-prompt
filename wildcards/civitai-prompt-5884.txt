@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+1girl,   
+ <lora:ookami_mio_3:0.8>  ookami mio,  miosha1, hair ornament, wolf tail, bell, rope,
+ <lora:coveringV2:0.8> covering breasts, covering crotch,  nude,  <lora:hohoaka:0.8> <lora:shadedFaceEyesIn_shadedFace:0.8> shaded face,  <lyco:glaringV_Conv2D:0.8>

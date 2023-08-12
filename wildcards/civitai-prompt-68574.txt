@@ -1,0 +1,5 @@
+sam yang,
+
+1girl, bangs, black hair, blurry, blurry background, brown eyes, car interior, choker, from side, lips, motion blur, off shoulder, short hair, sitting, solo, tank top
+, ((masterpiece))
+<lora:sam_yang_offset:0.85>

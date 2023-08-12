@@ -1,0 +1,4 @@
+masterpiece, best quality, ultra-detailed, illustration,
+T46405, blue one-piece swimsuit,
+older man,  (mascular male:1.8), Fine macho, silver hair ,  45yo, japanese, short cut, sunglasses, cowboy hat, hold beer can, laughing, thumbs up, beach, blue sky, sunlight, cloud, realistic,
+ <lora:T46405_V2:1>

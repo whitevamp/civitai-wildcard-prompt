@@ -1,0 +1,1 @@
+masterpiece,award-winning, perfect image, perfect face, (((sfw))), a photo of Snoop Dogg, dreads, dark skin, relaxing, (sunglasses), purple suit, jewellery, alcohol, tobacco smoke,  <lora:Character-SnoopDogg:0.125>

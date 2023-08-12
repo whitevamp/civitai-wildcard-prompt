@@ -1,0 +1,2 @@
+(masterpiece, best quality, detailed), 1girl, solo, indoors, changing room, arms behind head, cowboy shot,
+souryuu asuka langley, interface headset, red bodysuit  <lora:AsukaLangleySouryuuV2-000015:1>  <lora:more_details:0.5>

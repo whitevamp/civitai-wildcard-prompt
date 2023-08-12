@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:ibalance:1:CT>
+ultra detailed, perfect eyes,
+woman, IBALANCE STANDING_SPLIT, STANDING_ON_ONE_LEG, LEG_UP HOLDING LEG, leg up,groin
+festival,

@@ -1,0 +1,4 @@
+toloveruyami, <lora:yamitest:1>, yami, blonde hair, long hair, (red eyes:1.5), hair ornament, (small chest:1.2), cleavage,
+BREAK ,
+BREAK outdoors, city,
+BREAK looking at viewer, BREAK <lora:GoodHands-vanilla:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

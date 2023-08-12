@@ -1,0 +1,9 @@
+(1girl, woman, solo, surprised, embarrassed, open mouth, blush, sexy, gorgeous, elegant, (nsfw), puffy lips, twintails, blonde hair, blue eyes, smooth body, soft skin, medium breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+(side-tie bikini bottom:1.1), topless,
+BREAK
+standing, looking at viewer, shy pose, dynamic angle, in water, water splash, wet skin, arched back, (corneo_covering_breasts_arms_crossed:1.1),
+BREAK
+beach, sand, water, wind, outdoors,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

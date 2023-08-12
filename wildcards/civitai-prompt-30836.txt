@@ -1,0 +1,4 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), [:(detailed face:1.2):0.2], shiny eyes, pureerosface_v1, skyscraper rooftop, raining, dynamic pose, 
+1girl, big breasts, narrow waist, wide hips, wet body, sexy, thigh gap,
+<lora:tifa_lockhart_offset:0.5> <lora:tifav2:0.5> tifa lockhart, red_eyes, black hair, long hair, tifa, red iris, white tank top, black pleated skirt, suspenders, black leather gloves, final fantasy vii remake, black thighhighs, white panties,
+<lora:povFacesitting:0.7> from below, view from between legs, spread legs,

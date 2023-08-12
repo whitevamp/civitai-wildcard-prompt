@@ -1,0 +1,1 @@
+Best Quality, Masterpiece:1.4), (Realism:1.2), (Realisitc:1.2), (Absurdres:1.2), 4K,(photorealistic:1.3), Detailed, Ultra-Detailed, Digital Art,1 girl,colorful,Solo,Realistic Skin, Slim waist <lora:fitgirl_v10:1>,(Pink Bikini,{Sheer Skirt,Drapped})  ,Beach Party,Night, <lora:SheerSkirt:0.5> ,  <lora:add_detail:1>

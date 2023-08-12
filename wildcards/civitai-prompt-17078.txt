@@ -1,0 +1,5 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), 1girl, medium breast, looking at viewer, smile
+<lora:kiryu_coco_v1:0.65>, hmcoco, long hair, streaked hair, single braid, black hairband, horn bow, dragon tail,
+<lora:OutfitGlorious:1>, outfit-glorious, no panties,
+<lora:add_detail:0.5>,
+standing seductively, sakura trees, lake,

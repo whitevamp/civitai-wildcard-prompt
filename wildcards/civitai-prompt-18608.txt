@@ -1,0 +1,4 @@
+(CharacterSheet:1),1girl, nun, white long hair, blue eyes, big breast, lantern, (multiple views, full body, upper body, reference sheet:1), back view, front view,
+(white background, simple background:1.2),(dynamic_pose:1.2),
+(masterpiece:1.2), (best quality, highest quality), (ultra detailed), (8k, 4k, intricate), (50mm), (highly detailed:1.2),(detailed face:1.2), detailed_eyes,(gradients),(ambient light:1.3),(cinematic composition:1.3),(HDR:1),Accent Lighting,extremely detailed,original, highres,(perfect_anatomy:1.2),
+ <lora:CharacterDesign_Concept-10:0.55> <lora:996benshiLora_v10:0.8>

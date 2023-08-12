@@ -1,0 +1,3 @@
+<lora:itsfine:0.7>,  itsfine, 
+<lora:seleznev_trixel_art:1>, seleznev_trixel_art, drawing, blur, pixelated, glitch, 
+itsfine, a dog sitting in a chair in front of a fire, cup of coffee on table, heavy fire on the background, meme in distress

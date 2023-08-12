@@ -1,0 +1,2 @@
+(wooden handmade building model),HM01,building,detail,manual building model,Manual building model,masterpiece,ultra highers,high
+ <lora:HM:0.7>,Abstract, Cubist, Bauhaus,

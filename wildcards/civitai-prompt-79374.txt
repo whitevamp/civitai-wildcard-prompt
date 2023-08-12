@@ -1,0 +1,2 @@
+1girl,black mecha suit, minimalism,  gun, side view, bright red background, simple background,  Fisheyes, masterpieces, top quality, best quality, official art, beautiful and aesthetic, animation,  raise the butt, 
+<lora:NijiExpressV2:0.5>,   <lora:Niji:0.5>

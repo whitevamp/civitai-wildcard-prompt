@@ -1,0 +1,2 @@
+masterpiece, high quality, highres, 
+1girl,close-up, (white cropped vest),navel,sweet smile,tired,sweat,( portrait:0.8), high ponytail, headband,<lora:add_detail:0.6>,bandaged hands,sun,light,healthy,(blue eyes), (film grain), simple background,  <lora:detailed_eye:0.66>

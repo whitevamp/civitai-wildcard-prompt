@@ -1,0 +1,3 @@
+nsfw, (masterpiece, best quality, high quality, highres, ultra-detailed), photographic, 4k, cowboy shot, 
+1girl, ice green eyes, white hair, closed mouth, see-through, swimsuit, clearswimsuit, 
+<lora:hairdetailer:0.2>, <lora:clearswimsuit:1>, Asian-Less-Toon, AS-Adult,

@@ -1,0 +1,2 @@
+masterpiece, best quality, 1woman, night,
+ <lora:HoneOnnaV1:0.6>, honeonna, nude,long hair,

@@ -1,0 +1,1 @@
+a pink pig sleeping indoor,  sleeping, indoor, <lora:UltimatePinkPig_v1.0:0.8>, ultimatepinkpig, <lora:add_detail:-1>

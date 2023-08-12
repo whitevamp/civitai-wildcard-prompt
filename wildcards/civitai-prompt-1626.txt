@@ -1,0 +1,5 @@
+masterpiece, top quality, best quality, official art, beautiful and aesthetic, 
+(loong loongcore:1.3), extremely detailed, fractal art, colorful flowers, highest detailed, zentangle, dynamic pose, abstract background, many colors, 
+erjie<lora:Threesister-erjiev2:0.2>, happy to riding a spiral loong on the clody sky,<lora:riding_a:0.2>,
+earrings, feathers,<lora:loong2:.2>, <lora:add_detail:.1>, <lora:20230530123038:0.1>,
+all creature in same proportions, all faces and pictures must be different, use all spectre of your different emotions from happiness to anger, do what you want and how you want,

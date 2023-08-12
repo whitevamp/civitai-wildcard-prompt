@@ -1,0 +1,1 @@
+masterpiece,best quality,<lora:add_detail:0.8>,detail,1girl, solo, food, black hair, realistic, short hair, looking at viewer, ice cream, blurry, holding, blurry background, red nails, bangs, lips, brown eyes, closed mouth, red lips, portrait, nail polish, hair ornament, ice cream cone, smile, holding food, close-up, depth of field, <lora:FilmVelvia3:0.8>

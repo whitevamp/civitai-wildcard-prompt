@@ -1,0 +1,6 @@
+<lora:AlleriaWindrunner:0.5>, <lora:sxz-night-elf-v3:0.5>,
+masterpiece, hyper detailed, intricate detail, ultra realistic 8k cg, hyperrealistic, high-resolution, extremely detailed CG unity 8k wallpaper,
+1 elvaan,solo,(full body), (((looking at viewer))),dynamic pose, 
+((messy hair)), blond hair,handsome face,(blue eyes),long eyelashes, pointy ears,perfect female body,narrow waist,big breasts,seductive smile,parted lips,
+(green hood),(green cape),((fine metal trim)),brown leather pants,Suture,
+(detailed forest background),outdoors, volumetric lighting, photorealistic, cinematic lighting, soft colors, realism, Surrealism, high detail, Hyperrealism, Verism, soft lighting, anatomically correct, best quality, best quality,

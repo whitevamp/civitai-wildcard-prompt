@@ -1,0 +1,7 @@
+(masterpiece:1.0), (best quality:1.0),rim lighting, two tone lighting, full body,Amusement Park(1.2),
+highly intricate details, exquisite patterns,magical, fantastic, unreal, in the style of (surreal 8K 32K HDR photo, flawless, clean, masterpiece, professional artwork, famous artwork, cinematic lighting film bloom, soft lighting, indirect lighting, overcast lighting), ((perfect female figure)) mature woman, millet, narrow waist Chinese goddess, seductive pose, clean, beautiful face, pure face, pale skin, ridiculously long hair, finished check after check.((perfect female figure)), mature female, milf, narrow waist, chinese deity, (huge breasts, breasts out) 
+
+1girl, solo, black_hair, breasts, standing
+
+delicate patterns, intricate details, skin indentation, real light sources (highly diffuse, highly reflective, highly smooth, refraction enhancement (limit), transparency enhancement), mimicry, fog, volume fog , environmental materials (limit) (reflection enhancement, character environment contrast enhancement, low color saturation, sharpening enhancement), gravity, air pressure, liquid material enhancement, projection (reflection enhancement (limit), projection deepening (brighter) brighter (limit), darker in dark places (limit)), line scale enhancement, AI (1.2)
+<lora:fashionGirl_v50:0.8>  <lora:LuisapBladerunner2049_v1:0.1>  <lora:urbanSamuraiClothing_urbansamuraiV03:0.35>（ulzzang-6500：1.2） 

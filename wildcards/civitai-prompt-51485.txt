@@ -1,0 +1,2 @@
+masterpiece,best quality,toon,pixar style,simple design,mini sence, animal crossing, 
+Mocha and Blush, Waiter/Waitress, <lora:toon:0.8>

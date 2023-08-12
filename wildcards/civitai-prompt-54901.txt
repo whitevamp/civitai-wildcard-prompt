@@ -1,0 +1,1 @@
+masterpiece, best_quality, 1man, masculine, solo, link, the legend of zelda, tunic, hat,,  <lora:Link_Zelda:0.7>, flower field, castle,  <lora:torinoAquaStyleLora_offset:0.7>

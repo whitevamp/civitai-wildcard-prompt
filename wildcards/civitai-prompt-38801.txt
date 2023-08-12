@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, bibleblack,
+YukikoMinase, 1girl, solo, cowboy shot, standing, spread legs, grabbing own breast, looking at viewer, messy room, window, bed, many dildo on bed,
+(blush:1.1), naugthy, open mouth, sweat, ahegao
+[black hair:green hair:30], short hair, lipstick, eyelashes, yellow eyes, detailed eyes, perfect face, jewelry,
+(two-tone white purple shirt:1.3), (multicolored clothes:1.1), tank top, shirt lift, denim shorts, short shorts, (open fly:1.1),
+curvy, midriff, navel, large breasts, cleavage, (female pubic hair:1.1), 
+<lora:YukikoMinase:0.9> <lora:bb-style:0.3>

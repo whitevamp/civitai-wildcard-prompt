@@ -1,0 +1,1 @@
+ <lora:bdbunny:0.4>, bdbunny, red leotard, bow tie, wrist cuffs, full body, standing 

@@ -1,0 +1,1 @@
+1boy,man (pedro pascal:1.10),playing Joel Miller,The Last of Us,(brown eyes:1.35),(masterpiece:1.10),(best quality:1.10),action shot,cinematic lighting,abandoned overgrown background,absurdres <lora:diffusiondesign_PedroPascal_1.13:0.7>

@@ -1,0 +1,11 @@
+Aesthetic: ((goth, dark, macabre, subculture, fashion, music):1.4)
+BREAK
+Lighting: (dreamwave), detailed, clean,scenery, ink
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+(good quality:0.996),
+BREAK
+<lora:add_detail:0.4>

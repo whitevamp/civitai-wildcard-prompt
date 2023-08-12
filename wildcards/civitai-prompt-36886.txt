@@ -1,0 +1,1 @@
+cyberpunk female, woman wearing (Jade Green Chiffon Blouse with iridescent sequins:1.2), (tight full bodysuit:1.1), (Petal Pink,Mint color background:1.3), <lora:MG_jijia:0.6>  <lora:futuristic_interior:0.7>

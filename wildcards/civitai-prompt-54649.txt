@@ -1,0 +1,2 @@
+look_at_viewer, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering
+ 1girls,silver hair,long hair, shirt, high_heels,high waist ,slim body,standing,(full body),(wide shot) <lora:20d_v10:0.6> <lora:mix4.QQgS:0.5>,20d,mix4

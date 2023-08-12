@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, DramaticDmitry, <lora:DramaticDmitry-10:1>, darth vader, Black_outfit,hood, hood_up, boots, darth vader helmet,cape,armor, shoulder armor, armored boots, <lora:Char_Sigmas_DarthVader:0.7>

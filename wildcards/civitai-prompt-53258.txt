@@ -1,0 +1,2 @@
+(masterpiece, best quality), intricate details, masterpiece, best quality, photorealistic, dramatic lighting, raw photo,  ultra realistic details, sharp focus, detailed skin
+A_field_filled_with_wildflowers <lora:bellydance:1>

@@ -1,0 +1,3 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, <lora:mechaMjstyle_v10:0.3>,  <lora:russianDollLikeness_v3:0.15>,   
+1 girl,  mecha \(mjstyle\),[(colorful, crystal\\\(materials\\\)):0.7):1],robot, solo, science fiction, mecha musume, 
+volcano, lava, energy sphere, light particles,

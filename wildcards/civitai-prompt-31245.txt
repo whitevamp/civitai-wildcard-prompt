@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), (1girl, in the air), full body, deep depth of space, universe background, Mysterious planet,(white shirt, white shorts),1 planet,((Astronaut helmet,reflective)),<lora:arknightsTexasThe_v10:0.1>

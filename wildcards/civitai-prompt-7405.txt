@@ -1,0 +1,1 @@
+(mature woman:1.2), solo, red long hair, yellow eyes, smile, sexy, pink mesh top, (pink mesh pants:1.1), ((masterpiece)), (high quality), (best quality), (detailed), hd, perfect lighting, detailed face, detailed body,  <lora:Clothesmesh:0.8>, mesh

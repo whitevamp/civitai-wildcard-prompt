@@ -1,0 +1,1 @@
+(best quality:1.3), (masterpiece:1.22),(photorealistic:1.3), (detailed:1.15), photography, dark gray background, (1girl TeaganPresley, blond hair ),  muscle, from behind, ass up wait wearing, (wearing gym_outfit:1.3),(green outfit:1.1), <lora:gym_outfit-10:0.5>,<lora:quiron_TeaganPresley_angraRF_v2:0.7>, <lora:assUpWaitSirenLora_v10:0.9>

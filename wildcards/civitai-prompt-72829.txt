@@ -1,0 +1,2 @@
+<lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:1>, best quality, official art,from above, photo of a beautiful girl, ultra detailed, Ultra-detailed depiction, dynamic pose,flying, perfect body, mecha musume, dramatic lighting, ultra detailed, Ultra-detailed depiction, masterpiece, finely detailed, 4k,high_resolution, distinct_image, extremely detailed CG,intricate detail, high_quality, realistic,
+,ultra high pump heels,thin heel,  <lyco:hauteCoutureSexy_v10:0.3> <lyco:ShinyOiledSkin_v20-LyCORIS:0.3> <lyco:GothicC:0.3>

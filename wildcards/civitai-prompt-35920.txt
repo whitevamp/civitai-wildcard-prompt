@@ -1,0 +1,1 @@
+woman wearing military cyberhelmet, combat armor, super soldier, neon energy release, r1ge,(dark yellow theme:1.2) <lora:cyberhelmetv0.7:0.8> <lora:r1ge - AnimeRage:1>  <lora:MG_jijia:0.8>

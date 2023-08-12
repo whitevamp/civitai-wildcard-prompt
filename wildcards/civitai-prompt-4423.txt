@@ -1,0 +1,5 @@
+best quality, ultra high res, detailed, (photorealistic:1.15), (2 cute ladies:1.25),caring each other, (looking at viewer:0.75),(smile:0.8),  nsfw,(green:0.5) silk choker,(topless:1.25), sharp focus,(nude natural breasts:1.1),breast press, (skindentation:0.9),
+<lora:koreanDollLikeness_v10:0.4>,(ulzzang-6500:0.9),(bright sunny:0.7) grassland background,
+
+(paintings, sketches:0.2), 
+<hypernet:sxzBloom_sxzBloom:0.5>

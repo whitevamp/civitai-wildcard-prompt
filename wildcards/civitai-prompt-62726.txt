@@ -1,0 +1,11 @@
+((masterpiece)) ((nsfw))
+(fisheye)
+(pink_eyes) (red_eyeshadow:1.3) (eyeliner)
+(red_hair) (hair_flower) (naughty_face) (blush) (short_hair) (short_twintails)
+(arms_behind_head) (light_nipples)
+(pool) (outdoors) (dramatic_lighting) (backlighting) (sunlight) (summer) (sunset)
+                     <lora:[HAIR] conceptColoredInner_v10:0.2>
+(white_inner_hair)
+                    <lora:[H] (WET) Wetshirt:1.15>
+(wetshirt:1.3) (wet_shirt)
+                    <lora:[H] breastinclassBetter:0.2>

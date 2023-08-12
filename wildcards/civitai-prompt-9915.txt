@@ -1,0 +1,1 @@
+1girl, <lora:hanfu40-beta-3:0.2>, photorealistic,highres,kda, solo, long hair,  <lora:kda_v3:0.4>, <lora:leilinggeng:0.5>,leilinggeng, professional_light,

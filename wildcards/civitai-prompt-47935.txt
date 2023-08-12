@@ -1,0 +1,1 @@
+( octopus  wearing  bow tie ), <lora:epiNoiseoffset_v2Pynoise:2>

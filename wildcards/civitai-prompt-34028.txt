@@ -1,0 +1,2 @@
+dragonborn, solo, purple eyes, upper body, horns, teeth, armor, glowing, sharp teeth, glowing eyes, spikes, embers
+, ((masterpiece, best quality)), art by greg rutkowski  <lora:dragonborn_offset:1>

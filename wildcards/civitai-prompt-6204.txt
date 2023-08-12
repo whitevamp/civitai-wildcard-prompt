@@ -1,0 +1,3 @@
+((((AgeSlider-Adult:1)))), 1girl,solo, flat chest, spread legs , (machinery) , empty eyes, nude, stationary restraints, straight hair, spread arms, cable, wire, industrial pipe, vaginal object insertion, ((((sex machine)), <lora:SexMachine:2>)), bound, bound wrists, bound arms, bound legs, chain
+bdsm, nipple leash, dirty blonde hair, pink eyes,
+ <lora:Detail Tweaker:0.85> <lora:DetailMaker_v2.5:1.5>

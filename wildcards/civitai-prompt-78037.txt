@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl, long hair, (glowing:1.15), (team:1.1), (flowers:1.15), (monarch:1.05),Long coat,surrounded by Chinese dragons,<lora:GPTS4 dreamwave full_478773:0.8><lora:GPTS1 lite:0.6>   <lora:SNM:0.3> <lora:hanfu_v30Ming:0.5> <lora:add_detail:1> <lora:bf_style:0.7>

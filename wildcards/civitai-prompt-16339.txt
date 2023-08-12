@@ -1,0 +1,6 @@
+(A girl of African descent holding a bouquet of flowers and smiling in a brightly lit garden The garden is filled with lush greenery and vibrant flowers The girl wears a yellow sundress that matches the flowers in her bouquet, and her hair is styled in a curly afro :0.75), girl with (hot body:0.6), (18 years old:0.8), nsfw,
+(pussy close up shot:0.6), (backlight:0.6),
+[(muscular:1):], (nude:1),
+(feminine enchanting :0.8), (wide hips:1),
+<lyco:LowRA:0.3> <lyco:add_detail:0.4><lyco:breastinclassBetter:0.2>
+<lyco:very_thin_pussy.v1.0:0.2>, [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2], [Best quality, good lighting, professional, detailed, accurate, vibrant, enhanced:0.2]

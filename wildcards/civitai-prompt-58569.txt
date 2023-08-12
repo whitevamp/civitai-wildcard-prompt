@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality), pixel, pixel art, 1girl, full body, power (chainsawman), horns, cross-shaped pupils, symbol-shaped pupils, white shirt, pants, collared shirt, black necktie, blue jacket, sharp teeth, teeth, simple background, white red sneakers, <lora:pixel_f2:0.5>,  <lora:powerLora72MBWith_v1:0.8>

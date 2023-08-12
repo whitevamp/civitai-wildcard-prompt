@@ -1,0 +1,1 @@
+(fairy tale snow fireworks:1.2),mix4,epic realistic,portrait of asian 1girl,brown eyes,fairy white  sweater and scarf,long hair,highly detailed,(depth of field:1.4),(neutral colors:1.2),(hdr:1.4),hyperdetailed,cinematic,warm lights,<lora:ADD_FLAT2_SD1.5:-1>,<lora:cuteGirlMix4_SD1.5:0.5>,<lora:FairyTaleV20_SD1.5:0.7>,

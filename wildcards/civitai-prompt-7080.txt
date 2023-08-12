@@ -1,0 +1,4 @@
+(cowboy shot),  sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes,
+BREAK
+<lora:saeNiijimaPersona5_saeV10:0.8> saep5
+ <lora:HidingFromTerminator, sitting, under table, crying, skeleton:0.8> HidingFromTerminator, sitting, under table, crying, skeleton

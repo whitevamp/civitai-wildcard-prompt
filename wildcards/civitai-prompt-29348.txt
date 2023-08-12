@@ -1,0 +1,1 @@
+formal, gloves, grey_background, letterboxed, male_focus, solo, suit, white_gloves, simple_background, shirt, long_sleeves, 1boy, holding, jacket, necktie, belt, pants, black_jacket, black_pants, black_necktie, camera, black_suit, holding_camera, video_camera, camcorder, object heads, camera as head<lora:ob head:1>

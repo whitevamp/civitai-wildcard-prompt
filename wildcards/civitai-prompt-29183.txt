@@ -1,0 +1,1 @@
+ultra detailed 8k cg,<lora:nun_cos_v10:0.75>,shiny skin, nun, cross necklace,,a very sexy woman in posing for a picture, fantasy style, in a majestic castle, medieval setting <lora:add_detail:0.4> ((white pantyhose)), <lora:AWPV2:0.6>

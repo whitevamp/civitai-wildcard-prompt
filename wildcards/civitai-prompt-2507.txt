@@ -1,0 +1,1 @@
+Armor, helmet,(full body:1.1) portrait image of a beautiful cyberpunk woman,hacking a computer terminal,(LED lights:1.2) blinking lights,micro-electronics,computer servers, LCD screens, fibre optic cables, corporate logos,hardware,vibrant colours, <lora:NijiExpressV2:0.4> fcPortrait   <lora:jijia_v3:0.7>

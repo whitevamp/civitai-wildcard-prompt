@@ -1,0 +1,4 @@
+highres, extremely detailed ,extremely delicate and beautiful, intricate detail, beautiful detailed girl, 
+<lora:epiNoiseoffset_v2:1.8>, (1girl:1.0),(mature female:1.3),lingerie, (adult face:1.3) ,huge breasts,
+<lora:blacked_v15:0.8>, torso grab, looking at viewer, light_smile, (3+boys), black man, muscular male, size difference, height difference,
+<lora:FishLora_v10:0.6>, <lora:Liliya_v10:0.2>, <lora:aespaKarina_aespaKarinaV5:0.2>

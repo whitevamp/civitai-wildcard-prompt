@@ -1,0 +1,8 @@
+(upper body shot), (masterpiece), (best quality:1.0), (ultra highres:1.0), highly detailed face and eyes
+BREAK
+ <lora:Etie_1024:0.7> etie, 
+croptop, long sleeves, floral print, bowtie, frills, skirt, ribbon belt, thighhighs,
+ <lyco:Saya-drawing bow, drawing bow:0.6>  (drawing bow:1.2), bow, arrow
+<lora:more_details:0.5>
+BREAK
+forest, archery range

@@ -1,0 +1,1 @@
+(best quality, masterpiece, perfect face, detailed simmetric eyes, perfect smooth skin texture), [woman:Plant:15],(surrealism:1.4), affinity for plants, can control their growth, shape, and even communicate with them, manipulate their thorns and vines, command them to perform specific tasks, medium hair, pink, curly hair, <lora:more_details:1.2>

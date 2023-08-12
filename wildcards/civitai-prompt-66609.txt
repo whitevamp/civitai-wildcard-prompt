@@ -1,0 +1,3 @@
+(illustration:1.1),(best quality),(masterpiece:1.1),(white background:1.5),stairs, flag, scenery, tree, outdoors, no humans, building, house, railing, window, chimney, balcony, grass, tower, door, <lora:233124SaltedFishMap_23313118OtherStyle:1>
+3D,hyperrealism,high detail,hyper quality,FHD,8K,((masterpiece, best quality;1.3)), ultra detailed, 8k unity wallpapers, colorful, cinematic shadow, extremely detailed and beautiful background,vhd, shadering VRay,RTX,(realistic:1.5),masterpiece, best quality, 
+ <lora:miniatureWorldStyle_v10:1>

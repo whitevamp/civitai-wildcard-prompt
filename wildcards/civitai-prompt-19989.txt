@@ -1,0 +1,2 @@
+(realistic:1.3), finely detailed, quality, perfect lighting, (masterpiece:1.2), (photorealistic:1.2), (best quality), perfect skin, (intricate details), ray tracing, exhausted expression, bob hair, beautiful girls head on old machine body, gunmetal, rusty old exoskeleton, outdated, poor, rust, rusty metal, official cyberpunk wallpaper, (establishing shot, indoors, computer terminals, machines, screens), (blue glowing human heart visible inside breast, exposed)
+<lora:3DMM_V11:0.8>

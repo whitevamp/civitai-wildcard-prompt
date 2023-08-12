@@ -1,0 +1,3 @@
+(multi color clothes), sea cardigan, (see through), shiny skin best quality, masterpiece, (bikini),  (realistic, ultra realistic), slim body,
+(contre-jour, side lighting, volumetric, crepuscular rays, dynamic contrast), ((dark scene, dim light)), 1girl, random hair , <lora:epi_noiseoffset2:0.2>, water wave, (moon light), (night:1.4), light, ray tracking, nikon D7000
+<lora:Sea_cardigan:0.5>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality,wine glass, red wine,high heel,on Yachts

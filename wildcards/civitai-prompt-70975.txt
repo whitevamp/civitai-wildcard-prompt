@@ -1,0 +1,1 @@
+realistic, realistic details, detailed, (((1girl, sexy, beautiful, portrait, medium breast, slender, perspective, looking at viewer, sharp focus, depth of field, indoor, simple background)))  <lora:PS_RaeLilBlack:1> (ulzzang-6500-v1.1:0.1)

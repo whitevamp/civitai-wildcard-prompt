@@ -1,0 +1,1 @@
+1girl,upper body,happy,elegant, tullece, dress,see-through, sitting,mist,river,mountain, <lora:MengX girl_Mix_v30:0.6>, <lora:anxiang:0.6> <lora:bmt2:0.5>

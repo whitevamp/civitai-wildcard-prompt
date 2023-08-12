@@ -1,0 +1,4 @@
+photography, bokeh, highres, ultra detailed, intricate details, absurdres, masterpiece, BREAK
+1girl, beautifully detailed woman, beautifully detailed mouth, extremely detailed eyes and face, beautiful detailed eyes, matte eyeshadow, eyelashes, eyeliner, ultra glossy lipstick, (pouty lips:1.3), makeup, blush, BREAK
+detailed background,  BREAK
+terry bogard girl, blonde hair, ponytail, blue eyes, long hair, baseball cap, fingerless gloves, denim shorts, shoes, sexy pose, full body shot, <lora:cutie_terryV1:0.6>  BREAK

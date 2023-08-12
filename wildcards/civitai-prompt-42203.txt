@@ -1,0 +1,2 @@
+((masterpiece:1.3, best quality:1.3)),  1girl, hair slicked back, earrings, necklace,  in water, freckles, looking at viewer, moonlight, night, dark photo, bokeh background,body facing camera, close-up, armpits, wet,medium breasts, 
+<lora:more_details:0.5>

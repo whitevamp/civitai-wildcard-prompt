@@ -1,0 +1,1 @@
+masterpiece, best quality,1girl,<lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.8>,shirt,bed, wet,sweating,<lora:conceptSpreadArmpit_left:1>spread armpit,upper body

@@ -1,0 +1,2 @@
+<lora:gym_storeroom_v0.1:1>
+gym storeroom, 1girl,, masterpiece, best quality, highly detailed

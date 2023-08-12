@@ -1,0 +1,1 @@
+masseffectliara standing in a room, cute face, realistic armor materials, shiny armor, dramatic lighting, wallpaper, intricate, sharp focus, ray tracing, rtx, professionally color graded, professional photography, masterpiece, ultra detailed, high quality, best quality, 4k, 8k, raw <lora:masseffectliara:0.56> <lora:add_detail:0.25>

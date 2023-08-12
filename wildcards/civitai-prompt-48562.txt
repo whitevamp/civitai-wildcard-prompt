@@ -1,0 +1,1 @@
+((masterpiece)), (best quality), (detailed), (1 girl),<lora:12E 16Dim Locon Cosine3:0.8>, <lora:knottedShirtCLOTHING_v313:0.7>,knotted shirt, bra,bikini, shirt pull, long sleeves,beach

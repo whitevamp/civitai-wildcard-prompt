@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.2), cowboy shot, solo, 1girl, blake belladonna, expressionless, closed mouth, looking at viewer, black hair bow, white shirt, detached sleeve, pantyhose, legwear under white shorts <lora:agpt_manrei3_v1:0.7> <lora:japaneseDollLikeness_v10:0.5>, <lora:garterBelts_v11:0.7>, hands detail, fingernails, eyes detail, five finger,

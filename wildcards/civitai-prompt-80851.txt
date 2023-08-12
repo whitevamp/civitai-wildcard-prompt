@@ -1,0 +1,11 @@
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, sitting on chair, large windows, indoors, from below, close up,
+pink hair, long hair, purple eyes, empty eyes, full blush, open mouth,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+ass, anus, pussy, vaginal, (pussy juice trail:1.4), (pussy juice puddle:1.4), no panties,
+thighs down, arms behind back, wet, sweat, steam, heavy breathing,
+<lora:masusu_v10:0.25>,
+headback, <lora:headback_v10:0.25>,
+godpussy1, front pussy, <lora:GodPussy1_v3:0.25>,
+white legwear, kokomidef, <lora:sangonomiyakokomi1_000008:1>

@@ -1,0 +1,2 @@
+best quality, masterpiece, extremely detailed,  The_Half_Dragon_Shyvana, Purple_skin, Long_hair, fangs
+ <lora:Shyvana-05:0.90>

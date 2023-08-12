@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
+short sequin dress, cleavage,
+sexy,
+3dmm, 3d render, unreal engine,nsfw,ponytail,white hair,
+night,nightclub,high heels, bare shoulders, standing,
+ <lora:3DMM_V7:1>

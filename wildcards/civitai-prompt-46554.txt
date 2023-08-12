@@ -1,0 +1,9 @@
+masterpiece, best quality, hyperrealistic,
+photo fine print of 1woman, icelandic, upper body portrait, 
+beautiful detailed eyes, perfect face, beautiful detailed face,  arms up,
+amazing sharp focus, ultra detailed, soft skin,
+braided hair, silver hair,
+purple eyes,
+sexy open robe,
+    majestic atmosphere,  city,
+<lora:style_hipoly3DModelLora_v10:0.3>

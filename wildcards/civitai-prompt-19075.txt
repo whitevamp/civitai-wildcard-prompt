@@ -1,0 +1,4 @@
+1girl,updo,outfit-inori,superstar,(floating hair), (nsfw),
+ <lora:difConsistency_detail:0.6> 
+ <lora:tangbohu_saturation_v1.0:0.65> <lora:superstar_v20:0.5> 
+<lyco:[LoRa] Yuzuriha inori COS - Guilty Crown Clothing (With multires noise version):1.1>

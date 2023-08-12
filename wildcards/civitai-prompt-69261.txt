@@ -1,0 +1,1 @@
+<lora:mix4:0.6>, mix4, <lora:20d_new:0.55>, 20d, solo, short_hair, office_lady, sitting, sexy, shirt, skirt, high_heels, look_at_viewer, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering, blurry, blurry_background, depth_of_field,

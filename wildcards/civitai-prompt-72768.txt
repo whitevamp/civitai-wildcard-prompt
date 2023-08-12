@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k,sharp focus,
+1girl,    <lora:shego_v10:0.8> sh1, green eyes, gloves, multicolored bodysuit, makeup,

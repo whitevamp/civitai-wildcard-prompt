@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, 
+(dark skinned female:1.7), Ingrid, (OVA:1.2), kneeling, mature female, (sidefellatio, adult, 1boy, penis, fellatio, from side:1.2), open mouth, hotel room background, 
+pink hair, very long hair, forehead, hair intakes, (purple:0.9) lipstick, black eyeshadow, makeup, (mole under mouth:0.8), (yellow eyes:1.05), perfect eyes, perfect face, detailed face,
+completely nude, elbow gloves, 
+large breasts, areolae, 
+<lora:Ingrid:0.99>   <lora:SideFellatio:0.35>

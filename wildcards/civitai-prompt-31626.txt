@@ -1,0 +1,5 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo
+<lora:c4ttitudeflexver:0.8>,c4ttitude, a cat wearing apron, <lora:catgiantV1-000004:0.7>
+,SaltBaeMeme, sunglases, sprinkling salt <lora:SaltBaeMeme:1.5>
+sky,(ocean:1.1),wave , <lora:SLS:0.3> ,sidelighting,, <lora:add_detail:1>, tilt-shift photography, blurred edges,
+dog and sitting in dish , <lora:doge:1> doge,cheems sitting,p3rr0,

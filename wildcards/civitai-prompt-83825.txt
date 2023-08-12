@@ -1,0 +1,8 @@
+<lora:add_detail:1> , <lora:epiNoiseoffset_v2:0.7>, <lora:songStyle16:0.6>, <lora:harem_4:0.8>,
+(full body:1.3) group picture of (5girls, kaylavazquez and imogend and k4td3nn1ngsv2 and mgu4rdiol4 and leah), (harem, multiple girls chatting and flirting, looking at another, on the balcony of an ancient chinese house, female focus, sfw:1.4),
+small breasts, makeup,( jewelry, long hair, hair ornament, relaxed, HANFU, SONG, LONG SHAN, SHORT SHAN, songmo, PLEATED SKIRT, hair bun:1.2), 
+prestige, luxury, exquisite, detailed skin texture, exquisite clothing detail, detailed clothes texture, ultra realistic, ultra detailed, highly intricate details, correct proportion, perfect anatomy, perfect female body, perfect female figure, gorgeous detail face, perfect face, enchanting face, perfect eyes, beautiful detailed gradient eyes, shiny eyes, shiny skin, pale skin, shiny eyes, clear and bright eyes, deep gaze,
+official art, professional artwork, famous artwork,masterpiece, flawless, clean, best quality, 8k uhd, photorealistic, extremely detailed unity 8k wallpaper, surreal 8K 32K HDR photo, film grain noise, ultra high res, best shadow, delicate, RAW, light particles, sharp focus, dynamic range, depth of field, DSLR, Fujifilm XT3,
+dreamlike nature light, soft cinematic light, film bloom, indirect lighting, overcast lighting, rim light, intricate lighting, (film grain:1.4), 
+(blue and orange tone impression), 
+fantasy settings, immersive atmosphere, chiaroscuro, moody lighting, atmospheric perspective, fluid movement, ethereal quality,  fine art photography, romantic depictions of historical events,

@@ -1,0 +1,6 @@
+(realistic photo:1.4)
+1girl (30yo) mature (Japanese), beautiful face, dynamic red hair flowing in the wind, realistic skin, (vellus) BREAK
+(smiling:1.3), dimples BREAK
+long sleeves, red bra, deep cleavage, choker, 
+(deep-shadows:1.3), (inside bedroom:1.1), (dark room: 1.1), (night:1.1)
+<lora:JapaneseDollLikeness_v15:0.2>

@@ -1,0 +1,1 @@
+house, a cozy courtyard style future house  hi-tech building, cyberpunk, a bright sunny day, woman, <lora:epicDetailedBuildingsAnd_v10:0.8> <lora:lowra_v10:0.3>

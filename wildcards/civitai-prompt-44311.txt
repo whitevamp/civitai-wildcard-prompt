@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), 1girl, medium breasts, fit and petite body, blonde hair, long hair, elf ears, emerald pupils,
+<lora:ass_support_object_v0.2:1.2>, ass support, grabbing, Staff, view from behind,
+<lora:Adventurers_v20:1>, Priestess, white priestess outfit, white Thighhighs,
+standing in the church,

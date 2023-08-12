@@ -1,0 +1,3 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic), (high detailed skin,visible pores),(real person,photograph), (((chinese style))),realistic,simple background,upper body, (8k, raw photo, best quality, masterpiece),(1 girl),photon mapping, radiosity, physically-based rendering,automatic white balance,
+((china dress)),chinese clothes ,transparent silk china dress,earrings,smile,(full body),(((long hair))), (blush|cute and playful|adorable|skinny|thick bangs|beauty), detailed beautiful eyes,double ponytail hair, pink flower, yellow flower ,
+ <lora:Moxin_Shukezouma11:0.8> <lora:Moxin_10:0.3> <lora:yangziYZ3.0:1.8>  <lora:YZyd:0.5>

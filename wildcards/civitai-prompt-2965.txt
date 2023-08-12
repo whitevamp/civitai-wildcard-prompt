@@ -1,0 +1,1 @@
+a (smiling:1.2) brown evil plank , <lora:Plank:1.1>

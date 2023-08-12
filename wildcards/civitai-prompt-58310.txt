@@ -1,0 +1,1 @@
+(bestquality,masterpiece) ,NamiOP, portrait, solo, jewelry, smile, earrings, upper_body, closed_mouth, hair_ornament, japanese_clothes, kimono, sleeveless, sleeveless_kimono, rope, <lora:NamiOP:1.4>

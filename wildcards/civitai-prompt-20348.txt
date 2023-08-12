@@ -1,0 +1,13 @@
+1 girl, solo,solo focus，
+brown_hair,Long hair,Messy hair,Bangs,hair between eyes,Sidelocks,Hair over shoulder,very long hair,shiny hair,floating hair
+blue eyes,Bright eyes,big eyes,detailed eyes,beautiful eyes,
+hair ornament,hair flower,choker,frilled dress with lace,long dress,pleated dress,
+small breasts,16 year old girl, [loli],
+blush,blushing,smile,smiling,
+((full body)),medium view,
+outdoors,water,flower,sitting in the ((sea of flowers)), flower field,meadow,beautiful detailed sky,feather,nature,(sunlight), her hands under the chin,  skirt up,
+ <lora:Transparent skin:0.6>,AGM,moist skin, shiny skin, glossy skin,
+ <lora:Better light:0.5>,
+ <lora:beautiful detailed eyes:0.4>,
+(masterpiece, extremely detailed 8k wallpaper,best quality), (best illumination, best shadow, extremely delicate and beautiful), perfect lighting, original, highres, dynamic angle, floating,depth of field, caustics,lens flare,warm lighting,
+(official art,beautiful and aesthetic:1.2),beautiful face, perfect body,ultra detailed eyes, 

@@ -1,0 +1,1 @@
+<lora:Lucy_Cyberpunk:0.7>, lucy_cyberpunk, cowboy shot, 1 sweet girl,white short hair, bangs,(gigantic breasts:1.5) ((red eyeliner)), ((makeup)),red lips, white off-shouler jacket, black bodysuit, bare shoulders, white shorts,  hip vent, (dynamic pose), looking at viewer, upper body,fantasy, high contrast,cityscape, neon lights, neon trim, ((cyberpunk)),  <lora:add_detail:1>

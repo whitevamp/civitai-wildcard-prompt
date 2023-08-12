@@ -1,0 +1,1 @@
+masterpiece, best quality, BreastLift, 1girl, bikini, red_hair, yellow_eyes, gradient_hair, <lora:BreastLiftV8-000080:1>, from_below, skindentation, deep_skin, BDS, <

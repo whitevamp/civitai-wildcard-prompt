@@ -1,0 +1,1 @@
+1girl, (peach /(illumination/):0.9), (cleavage cutout:1.1), <lora:style_illumination_v2_epoch3:0.8>

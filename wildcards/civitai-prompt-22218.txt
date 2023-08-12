@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose, ambient lighting, reflective water, face focus, close-up,
+gorgeous 19yo Swedish girl, kneeling, long flowing sundress, off-screen,
+sunny day, glistening skin,
+white background, ink, farm scenery, grain field, high winds,
+ <hypernet:SkinHairDetail:1>  <hypernet:OverallDetail:1> <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:0.7> <lora:CyberpunkStyleV3:0.6>

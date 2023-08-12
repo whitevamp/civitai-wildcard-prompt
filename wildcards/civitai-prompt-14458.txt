@@ -1,0 +1,19 @@
+Aesthetic: ((sci-fi, futuristic, technology, space, aliens, imagination):1.4)
+BREAK
+Composition: ((corneo_bound_missionary)), (looking at camera), (1boy, penis, pov, missionary, vaginal), (getting fucked, vaginal intercourse, spread legs, creamy pussy), (pretty face, detailed face and eyes)
+BREAK
+Lighting: Gloomy Overcast, Moody, Somber
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+<lora:newhyperbulge-v5all:1.0> (stomach bulge), vaginal, penis, (nice:1.2)
+BREAK
+<lora:PerfectFullBreasts-fCV3:0.6>, (huge breasts), small nipples, perfect nipples
+BREAK
+<lyco:TankTopSkinTightv320:1.0> (skin tight, impossible clothes, taut clothes, form fitting), (see-through:0.5)
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

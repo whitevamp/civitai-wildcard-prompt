@@ -1,0 +1,1 @@
+laser,1girl,<lora:LASER-V2:0.8>,masterpiece,best quality,highly detailed,FHD,1080P.2K.4K.8K,near future city,Back lighting,

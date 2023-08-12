@@ -1,0 +1,2 @@
+hot body,Cyborg girl in gundam style,(bikini suit:0.3),cosplay,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, (Kpop idol),perfect detail ,  looking at viewer,make up,beautiful detailed eyes,highly detailed skin,outdoors,(gundam\(rx78\):0.4),
+<koreanDollLikeness_v10:0.66> <lora:gundamRX782OutfitStyle_v10:0.4 >

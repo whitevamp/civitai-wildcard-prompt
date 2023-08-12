@@ -1,0 +1,1 @@
+suit, masterpiece, best quality, highly detailed <lora:more_details:1>

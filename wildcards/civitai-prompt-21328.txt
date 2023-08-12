@@ -1,0 +1,1 @@
+<lora:more_details:0.9>, blonde princess wearing glasses and wedding dress kneeling kiss in church, arm around waist, shy, hesitant, yuri <lora:npmathilda:0.6> <lora:Squeezer2:0.6> <lora:epi_noiseoffset2:1.4>

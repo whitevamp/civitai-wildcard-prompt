@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (fashion photography portrait,realistic, photo-realistic:1.37), best quality, ultra high res, photon mapping, radiosity, physically-based rendering, 
+1girl,cute, (( naughty wink)),  looking at viewer,(happy),(laughing),  posing,  (hair blown by air),((glasses)), ((hoodie)), sweatpants,cityscape, night, (bokeh:1.4), <lora:Pure_Innocent_girl2:0.5>

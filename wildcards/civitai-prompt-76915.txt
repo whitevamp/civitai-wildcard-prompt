@@ -1,0 +1,1 @@
+masterpiece, best quality,<lora:hiroi_kikuri_v1:0.8>, hiroi kikuri, green dress, off shoulder, cowboy shot, <lora:downblouse:0.7> downblouse, leaning forward,

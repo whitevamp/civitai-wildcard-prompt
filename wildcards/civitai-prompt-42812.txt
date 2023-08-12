@@ -1,0 +1,4 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:mega_twintails-1.1:1><lora:Lgirl-v6_500steps:3><lora:zoom_slider_v1:3><lora:hairdetailer:0.3>
+1 girl, evil grin,:3 , blush,  hair ribbon, camisole,
+MEGA TWINTAILS, black hair, forehead,  arms up,
+portrait,  from below,

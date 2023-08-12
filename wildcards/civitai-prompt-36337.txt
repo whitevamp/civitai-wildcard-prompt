@@ -1,0 +1,7 @@
+(1girl, woman, solo, sexy, gorgeous, elegant, (nsfw, nude, naked), puffy lips, ginger hair, smooth body, soft skin, large breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
+BREAK
+green eyes, eyelashes,
+BREAK
+ looking at viewer, shower, wet skin, wet hair,
+BREAK
+absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details,

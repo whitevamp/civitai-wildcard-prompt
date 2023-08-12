@@ -1,0 +1,2 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo cute girl, wedding princess dress, tiara, large breasts, short hair, necklace, smile, arms behind back, front view, white gloves
+ <lora:weddingPrincessDress_v10:0.5>

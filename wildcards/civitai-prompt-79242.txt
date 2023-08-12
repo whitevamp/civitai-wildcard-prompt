@@ -1,0 +1,3 @@
+best quality, 1girl, hatsune miku, silver shirt, necktie, miniskirt, 
+mcnsfw,
+<lora:minecraft_nsfw:0.8>

@@ -1,0 +1,1 @@
+(masterpiece), best quality, high resolution, 1 girl, 1 halo,mythical priestess,giant goddess, big_glowing_wings, golden_energy,long white dress, aura, light_particles:1.5, (heaven:1.5), ((Enlightenment, blessed)), , random_eye_color ,<lora:IvoryGoldAIv2:0.6><lora:AMec.haSSS:0.6>  <lora:add_detail:0.6>  <lora:BlessedTech:0.6> (wide-angle lens,Panoramic:1.2)

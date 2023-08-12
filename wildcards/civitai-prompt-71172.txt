@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res,
+wave hair,1 girl, naked, face to the viewer,pov,full body, (detailed face:1.0)
+<lora:shirtliftv1:1>,full body, lace dress, grin , nipples,(round cheeks)), ((warm lighting)), ((innocent)), ((skin detail)), slender, small  breast ,detailed nipples and areolas,(full soft perfect boobs), (perky tits), (soft perky tits),indoor , dettailed background), (realistic background)  <lora:chilloutmixss_xss10:0.5>

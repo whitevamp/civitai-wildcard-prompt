@@ -1,0 +1,9 @@
+(HozukiMomiji); OyamaMahiro; OyamaMihari; 3girls, girl sandwich, multiple girls, twintails, 
+ two-tone hair, holding candy, miniskirt,  choker, sweatdrop, ahoge, vest, red necktie,  blue hair, arm up, hairclip, hair ornament, ;d, white outline, one eye closed, v, tongue out, purple hair, shirt, open mouth, long sleeves, hand up,  outline, heart-shaped ornament, sisters, food, holding food, pleated skirt, earrings, holding,   kogal, ;p, skirt,  , blue skirt,  multicolored hair, siblings, yellow jacket, blush
+<lyco:onimai-cs2-dim8-4-loha-step-30000:1>
+BREAK
+HozukiMomiji; 2girls, girl sandwich, multiple girls
+BREAK
+OyamaMahiro; 2girls, girl sandwich, multiple girls
+BREAK 
+OyamaMihari; 2girls, girl sandwich, multiple girls, short twintails

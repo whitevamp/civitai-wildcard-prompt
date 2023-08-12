@@ -1,0 +1,5 @@
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, 
+1girl, solo, sidedoggystyle, 1boy, ass, doggystyle, sex, top-down bottom-up, all fours ,<lora:doggystyleSideView_ekunesidedoggstyle:0.6>((from above))
+(completely nude:1.3),yukinoshita yukino,high twintails,(orgasm expression:1.5),barefoot,(heart-shaped pupils:1.1),(drooling:1.1),
+ <lora:YukinoshitaYukino_yyV1:0.65>
+(night),outdoor,cityscape, model buildings, crosswalk, rainy,

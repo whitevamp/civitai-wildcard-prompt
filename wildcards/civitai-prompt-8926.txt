@@ -1,0 +1,1 @@
+masterpiece, best quality, gudako, solo,  (halterneck,striped bikini,orange bikini,o-ring), (o-ring bikini) ,beach <lora:GUDAKO2-20:0.8>

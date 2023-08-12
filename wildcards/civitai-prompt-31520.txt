@@ -1,0 +1,1 @@
+(masterpiece:1.1), (highest quality:1.1), 1girl,  <lora:prison:1> , chain, against wall, prison,  <lora:add_detail:1>

@@ -1,0 +1,3 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:add_saturation:0.5><lora:capi-09:0.8><lora:intheshower:0.2>
+ woman,solo, capybara, INTHESHOWER, WATER SPRAYING, HOLDING A SHOWER HEAD ,school swimsuit,
+showering, shower (place),  peeping,  looking away,facing away,from behind,   from below

@@ -1,0 +1,3 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), limited-palette,  (movement:1.4), <lora:add_detail:0.5> <lora:realistic:.4>, <lora:3DMM_V12:0.25>, 3DMM, <lora:sharpen-soften:-0.25>,
+1 girl, adult (elven:0.7) woman,  pink eyes, gray dutch braid,
+(style-rustmagic:1.0) portrait, solo, upper body, looking at viewer, detailed background, detailed face, (<lora:LunarPunkAI:0.6>, LunarPunkAI theme:1.1), rust-warrior, rusty armor,   (rusty:1.05), brown rust,    worn-out, dented, soot, made of rust,     dynamic pose, abandoned junkyard in background, dark lighting, shadows,  cinematic atmosphere,

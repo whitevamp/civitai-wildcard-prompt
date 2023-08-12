@@ -1,0 +1,2 @@
+(((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) (1girl), solo, floating_hair,glowingeyes,
+1girl,anyalora ,> <lora:Anya_v3-000016:0.8>

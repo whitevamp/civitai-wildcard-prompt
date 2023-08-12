@@ -1,0 +1,6 @@
+(full body)
+Very detailed masculine face, detailed realistic open eyes, bodybuilder, (big muscles), (big pectorals), narrow waist. (nude) (completely naked), huge penis, glans, frenulum, huge balls, (male pubic hair:1.25).
+In a forest glade, with tress, bushes, grass, flowers.
+<lora:BulkedUpAIR1.5:0.4>
+<lora:眼睛双:0.9>
+<lora:lightV1:1>

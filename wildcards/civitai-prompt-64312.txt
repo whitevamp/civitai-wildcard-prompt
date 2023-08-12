@@ -1,0 +1,6 @@
+(masterpiece,best quality:1.2),(highres, ultra-detailed:1.1), (solo:1.2), 1girl,
+(sailor saturn,beautiful skin:1.1),(tiara,sailor senshi uniform,pleated skirt, elbow gloves, jewelry, brooch, choker:1.1),
+(beautiful eyes:1.4),(purple eyes,small breasts,large eyes:1.1),elegant face,
+BREAK 
+at night,starry sky,cowboy shot,cute pose,moon light
+ <lora:sailormoon_sailorsaturn-10:0.75>

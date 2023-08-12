@@ -1,0 +1,3 @@
+masterpiece, best quality, fine detailed, 4k, anime, cowboy shot,
+<lora:Sv4-06:0.8:OUTALL>, SilverWolfV4, 1girl, (small breast), drill hair, eyewear on head,
+<lora:MG_jixie:0.8>, machinery, Mecha,  solo, from side, upper body, science fit, closed mouth, headgear, technical background,

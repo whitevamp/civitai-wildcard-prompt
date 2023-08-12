@@ -1,0 +1,1 @@
+<lora:Lupin:0.8>, lupin, FeelsGood, closed eyes,  <lora:FeelsGood:0.8>, hands on face, closeup, 1boy, green jacket, yellow tie, black shirt

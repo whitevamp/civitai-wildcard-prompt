@@ -1,0 +1,3 @@
+Grainy fisheye police bodycam footage of skinny drunk FF7R Sephiroth being confronted for public indecency and just generally being an edgy weirdo, at a trailer park somewhere in Florida.
+fcPortrait, highres, high resolution, detailed,
+<lora:LowRA:0.3> <lora:add_detail:0.3> <lora:sephy-000004:0.6> <lora:PoliceBodycamFootage:0.7> <lora:flashlightphoto_v1.5a:0.5>

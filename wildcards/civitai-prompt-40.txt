@@ -1,0 +1,2 @@
+(best quality, masterpiece),
+2girls, boat, ocean, caustics, wave pointing, happy pirate hat, eyepatch, shark, flintlock <lora:COOLKIDS_MERGE_V2.5:0.7>, (best quality, masterpiece),

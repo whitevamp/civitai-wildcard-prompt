@@ -1,0 +1,6 @@
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:RavenTT-000007:0.8> RavenTT, dynamic pose
+<lyco:edgGothGB, garterbelt, metal, chains, ribbons, frills:0.7> edgGothGB, garterbelt, metal, chains, ribbons, frills
+BREAK
+gorgeous, view

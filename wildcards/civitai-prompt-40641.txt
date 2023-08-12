@@ -1,0 +1,5 @@
+masterpiece, best quality, (1girl, solo),
+patoranran, 1girl, solo, fingerless gloves, blonde hair, hat, gloves, green eyes, breasts, open mouth, cleavage, smile, short hair, copyright name, large breasts, chain, shorts,  :d, simple background, denim, looking at viewer, blush, from above, tank top, hairband, shirt, ribbon
+ <lora:PatoRanran:0.65>
+(city)
+( cowboy shot,  dynamic pose,  looking at viewer ),

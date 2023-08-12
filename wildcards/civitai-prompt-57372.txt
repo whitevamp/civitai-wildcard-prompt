@@ -1,0 +1,2 @@
+masterpiece, best quality, realistic, detailed, perfect lighting, 1girl, ArielWaifu, <lora:arielTheLittleMermaid_v10:0.4>, (Mermaid tail), blue eyes, red hair, tiara, hair bow, shell bikini, medium breasts,
+glass bottle, bottle with water, submerged, swimming, hands on glass from inside,  gib\(concept\), <lora:girlInTheBottleLocon_v20m:0.9>, scared expression, caustics, tiny fish in bottle

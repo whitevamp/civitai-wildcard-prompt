@@ -1,0 +1,5 @@
+professional photo of sv1, sailor senshi uniform, orange skirt, elbow gloves, orange sailor collar, red bow, orange choker, white gloves,
+detailed skin, detailed eyes, standing, night,
+photo made with Canon EOS  in natural style photography,
+popular on artstation, popular on deviantart, popular on flicker,
+<lora:sailor_venus_v2:0.75:DIMM>

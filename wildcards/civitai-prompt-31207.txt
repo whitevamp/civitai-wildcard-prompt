@@ -1,0 +1,5 @@
+(masterpiece, best quality), 2girls, kissing, kiss, yuri, <lora:yurikiss:0.75>, standing, cherry blossoms background, sakura, windy, blush, embarrassed, <lora:add_detail:0.5> 
+BREAK
+Yae Miko, yaemikodef, <lora:yaemiko:0.75>
+BREAK
+Raiden Shogun, raidenshogundef, <lora:raidenshogun:0.75>

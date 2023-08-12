@@ -1,0 +1,2 @@
+a girl, Tokyo street, light on face, cityscape, city lights,Japanese little girl, playful pose,(freckles) ,(short black bob hair:1.5), black eyes, blunt bangs,Put her hair up,smile, A playful and attractive woman cheerfully displaying her double teeth, cowboy shot, pleated skirt, white shirt,  and a sense of depth and perspective,(8k, RAW photo, best quality, masterpiece:1.2),(realistic, photo-realistic:1.37) , (small chest),
+Model: _m2150_fp16_no_ema_f16.ckpt,  LoRA Model: hipoly_3d_model_lora_f16.ckpt, LoRA Weight: 0.4

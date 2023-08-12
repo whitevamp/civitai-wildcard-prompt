@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl <lora:maiden_with_eyes_of_blue_v1:0.8> mweob, white hair, twin braids, headband, jewelry, bracelet, brown dress, 
+ <lora:ButtLiftV14:1> (Buttlift:1.2),  looking back, ass, ass focus,

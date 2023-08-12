@@ -1,0 +1,3 @@
+(RAW photo, best quality) A goth girl 18 years old at an outdoor concert, naked, nude body, standing pose, full body, goth make-up, pale skin, skin pores, a lot of people in the background, best quality, ultra photorealistic, photorealism, 8k, photograph, detailed face and eyes, high detailed skin, 8k uhd, sharp focus, professional, best quality
+<lora:DatBush:0.5>
+<lora:add_detail:0.7>

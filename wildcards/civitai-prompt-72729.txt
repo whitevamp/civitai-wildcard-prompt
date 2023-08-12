@@ -1,0 +1,6 @@
+(masterpiece, best quality, high quality, highres:1.2), ultra high res, absurdres, sharp focus, detailed,
+1girl, (light blue hair:1.1), (long hair:1.1), (pink eyes:1.1), thick eyelashes, (finely-detailed eyes:1.1), sharp pupils, looking at viewer, naughty smile,
+standing, from front,
+(black micro bikini:1.1), skin tight, gothic, bracelet, choker, golden armlet, heart-shaped earrings, black thighhighs, (pink pump heels:1.15), medium (big:0.8) breasts, detailed skin, shiny skin, glossy lips, (highleg thong:0.6),
+graffiti background, simple background, colored patterns,
+detailed background, brilliant colorful, subsurface scattering, volumetric lighting, extremely detailed, <lora:squeezerExperimental_:0.0>

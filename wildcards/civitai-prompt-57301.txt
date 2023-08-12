@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl,MERMAID, <lora:mPixel_v20PixelStyle:0.5>

@@ -1,0 +1,3 @@
+statue ,(realistic, photo-realistic:1), light on face, detailed face,(upper body:1.1),1girl wearing white micro bikini sitting in natural spring,natural spring,outdoors,(nude:1.1),wide lens,(gigantic breasts:1.1),ponytail,
+, (glasses:1.1),(smiling eyes:0.2),looking at viewer,splash, (wet skin:1.15),  <lora:Mama_3_2:0.95>,
+(masterpiece, best quality:1.2), highly detailed, delicate, (crystal water:1.1),

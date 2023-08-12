@@ -1,0 +1,1 @@
+<lora:SushiStyle v1:1> SushiStyle cube

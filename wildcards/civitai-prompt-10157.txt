@@ -1,0 +1,2 @@
+(best quality, masterpiece), (best illustration, artist, designer, image, prompt v2)(eye details, eye details, details:1.5),(angelic face, cute, amazing, sweet, cute kawaii), (1 girl) wearing pretty dress, white with ruffles, pearly green eyes, fair skin, backdrop of lake with blue sky and white clouds, short blonde hair, straight in the wind, (HDR (realistic:1.20), best realistic)).
+<lora:addDetailed:0.2>, <lora:add_details:0.4>, <lora:more_detail:0.5>

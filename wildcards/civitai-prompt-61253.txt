@@ -1,0 +1,3 @@
+(masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:1.0), beautiful detailed, extremely detailed, perfect lighting, extremely detailed CG,glowing eyes,
+Mech,armor,full_armor,warframe,horns, fake horns, red eyes, global ray tracing,
+looking at the viewer,solo,perspective, <lora:warframe_v1-000012:0.9>

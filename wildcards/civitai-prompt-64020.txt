@@ -1,0 +1,1 @@
+analog style, modelshoot style, portrait of alexandradaddario wearing military-style jacket, lace jabot, and steampunk-style glasses, bold, bright colours, <lora:alexandradaddario:0.8><lora:epiNoiseoffset_v2Pynoise:1.0>

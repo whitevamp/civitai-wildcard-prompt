@@ -1,0 +1,2 @@
+<lora:SCENE_oneFingerSelfieChallange:1>1girl, holding phone, covering nipples, covering crotch, mirror, reflection, blonde hair, long hair, huge breasts, wide hips, narrow waist, midriff, 
+ <lora:krekkovStyleLora_v10:0.6> <lora:animeLineartMangaLike_v30MangaLike:0.5>

@@ -1,0 +1,4 @@
+professional photo of april o'neil, short brown hair, black eyes, canvas (yellow jumpsuit:1.2), sleeves rolled up, BREAK (white:1.7) belt,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality, industrial area,
+<lora:April O'Neil:0.75:MIDD>

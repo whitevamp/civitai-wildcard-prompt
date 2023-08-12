@@ -1,0 +1,1 @@
+Female woman, ninja assassin wearing Cyberhelmet with iridescent color-changing properties, (Mandarin Jacket:1.2), (tight full bodysuit:1.1), (Forest Glade,Skyward Blue color background:1.3), <lora:MG_jijia:0.6> <lora:cyberhelmetv0.7:0.55>

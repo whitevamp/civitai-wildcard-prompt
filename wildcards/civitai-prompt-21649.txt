@@ -1,0 +1,14 @@
+Aesthetic: ((cyberpop, futuristic pop, digital culture, neon, technology, internet aesthetics):1.4)
+BREAK
+Composition: <lora:Showeringv2:0.6> (1girl, solo), wet, sweaty, perfect body, perfect face, perfect eyes,, (<lora:ClothingAdjuster2:-0.5> naked, nude, perfect breasts, perfect nipples, detailed human skin, ((in the rain, outside in the rain)), <lyco:TankTopSkinTightv320:0.2> see-through) 
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+(good quality:1.0),
+BREAK
+<lora:add_detail:0.4>
+ <lora:to8contrast-1-5:0.2>

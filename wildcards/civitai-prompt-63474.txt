@@ -1,0 +1,3 @@
+lolstyle, (ErinNobodySD15:0.9) portrait RonaldChan as a League of Legends McDonald's wizard long billowing robes (yellow gloves, striped thighhighs, striped sleeves red lace panties) red hair makeup
+wielding powerful magic eldritch wasteland (windy dust stone debris storm:1.2) (volumetric lighting fog:1.1) depth pass z pass fantasy stone castle bright morning light from side
+(masterpiece:1.2) (best quality) (detailed) (intricate) (8k) (HDR) (key visual) (dramatic cinematic lighting) (sharp focus) <lora:McDonaldChan_characeter-20:0.7> <lora:leagueOfLegends_v10:1>

@@ -1,0 +1,4 @@
+1girl,solo, smile, 
+( crop top),(sports shorts,thighs),
+skyscraper,outdoors, hand on own chest, looking at viewer, realistic,      
+   <lora:EvanRachelWood23Apr:0.55>

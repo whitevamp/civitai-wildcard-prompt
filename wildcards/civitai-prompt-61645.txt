@@ -1,0 +1,6 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (ultra highres:1.0),detailed illustration, detailed, detailed beautiful skin, (realistic, photo-realistic:1.37),
+<lora:dreamyGirlsFace_dreamyFace:0.4>, japan idol,
+ <lora:Sailor_Chibi_Moon-01:0.6> sailor chibi moon,pink hair,red eyes,,twintails,,18 years old, corneo_bound_missionary,  corneo_cowgirl,hair buns,high heels,(pubic hair:0.9), (1boy), (standing behind the girl), having sex, hetero, (from below), (hanfu:0.8),pink high heel boots,, sitting in garden,japan temple, torii, plants, outdoors, sunset, film grain, professional lighting,hair ornament,, medium  breasts,pink skirt,
+1girl, full body, (naked), nsfw, (nude), standing, wet skin, sweat,<lora:inPublic_v10:1.3>, public,
+photographer, foreground, camera,in garden, japan temple, torii, plants, outdoors, sunset, japan buildings,in water, in onsen, outdoors
+professional lighting, realistic lighting

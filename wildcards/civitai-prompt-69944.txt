@@ -1,0 +1,5 @@
+1girl, mature, long silver hair, night, inside castle, aurora, moon,<lora:detailmaker:2>
+//
+girl sitting on wooden chait inside castle, peaking out from window during night looking up at sky aurora,
+//
+, (()), Realism, CGI, VFX, Edge Lighting, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, landscape, outdoors, ((upper body:1.2)), portrait, Cowboy Shot, Aerial Shot, Helicopter Shot, Profile Camera Staging, From Side, Looking Right, (()), Realism, CGI, VFX, Edge Lighting, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, landscape, outdoors, ((upper body:1.2)), portrait, Cowboy Shot, Aerial Shot, Helicopter Shot, Quarter Turn Camera Staging, From Front, From Side

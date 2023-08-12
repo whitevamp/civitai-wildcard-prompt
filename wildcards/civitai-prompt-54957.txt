@@ -1,0 +1,6 @@
+(masterpiece:1.2, best quality), (real picture, intricate details),
+videl2, solo, blue eyes, black hair, twintails, 
+medium breasts, huge pelvis,
+ <lora:zz_dbz_Videl:0.8>
+micro bikini, blush, 
+looking at viewer,

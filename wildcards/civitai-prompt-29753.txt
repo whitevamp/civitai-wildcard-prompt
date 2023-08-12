@@ -1,0 +1,9 @@
+(one girl, 1girl:1.1), (public, crowded beach, crowd:1.1), (uraraka_ochako:1.1), brown_hair, brown_eyes, bob_cut, (thick_lips, pink_lips:1.3), (makeup:1.1), (light_smile, blush, nose_blush:1.1), BREAK
+
+(standing:1.3), (thick_thighs, wide_hips, narrow_hips:1.3), (large_breasts:1.0), BREAK
+
+(pink micro_bikini:1.2), (covered_nipples:1.2), (cameltoe:1.1), (pink_choker:1.2), BREAK
+
+(beach:1.3), BREAK
+
+SLE, mksks style, best quality, masterpiece, detailed background, highly detailed, intricate, detailed face, long eyelashes, detailed eyes, <lora:GoodHands-vanilla:1> <lyco:NijiJourney-LyCoris-V6:1> <lora:★saturation:-0.5> <lora:ochakoUrarakaMHA_v10:1>

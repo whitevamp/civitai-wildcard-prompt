@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, slingshot swimsuit, one-piece swimsuit, pubic hair, standing, cowboy shot, hand on hip, <lora:micro_slingshot_v1:0.9>,, lucy heartfilia, blonde hair, long hair, side ponytail, blue ribbon, earrings, <lora:lucy_heartfilia_v11:0.7>

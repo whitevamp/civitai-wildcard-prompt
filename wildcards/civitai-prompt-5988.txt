@@ -1,0 +1,3 @@
+beautiful, (masterpiece:1.1), (best quality:1.1),(perspective:1.1), (perfect eyes:1.1), (perfect face:1.1), cowboy shot, feet out of frame, (side view:0.8),  1girl, sleeves past fingers,  cute face, (((swollen underbelly:1.3, small belly:1.2, pregnant:0.75)stomach), round_underbelly:1.1), purple eyes, arms behind back ,  glowing eyes,  solo, hertasr, dollgirl, dress, (groin:1.4), 
+laboratory, experiment,workshop (old computer, experiment, retro machinery, electronics)
+<lora:HertaStarRailV1:0.9>

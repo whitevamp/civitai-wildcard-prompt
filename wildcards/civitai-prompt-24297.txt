@@ -1,0 +1,1 @@
+from Star Trek <lora:star_trek_offset:1>, (masterpiece), (extremely intricate:1.3), (realistic), portrait of a female, blonde girl, indoors, colored shirt

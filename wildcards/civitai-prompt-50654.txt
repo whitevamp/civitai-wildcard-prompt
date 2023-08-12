@@ -1,0 +1,9 @@
+raw photo, realism, photorealism, masterpiece,realistic, (photorealistic:1.4),high contrast,hyper detailed, ultra high res,
+
+1girl, ((full body of jillvoth)), walking towards viewer, blue tank top,black skirt,shoulder holster,sweater around waist, brown tactical boots,
+
+blue eye, (detailed eyes), detailed skin,skin texture,(blood on body), ((wet)),
+
+city, night, neon, (rain), fire escape, smoke,
+
+volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, realistic, <lora:sxz-jill-valentine-v3:0.6>

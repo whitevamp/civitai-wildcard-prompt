@@ -1,0 +1,5 @@
+(masterpiece, best quality, high resolution), (illustration:1.0), extremely detailed face, perfect lighting, (perfect hands,perfect anatomy), (( realistic : 1.2 ))
+masterpiece, best quality, soft lighting, extremely detailed, intricate, hyper detailed, (realistic:1.2), cammy white, blue eyes, blonde hair, long hair, twin braids, red headwear, green leotard, fingerless gloves, harness, thighs, red socks, black footwear, ahoge, cowboy shot, looking at viewer, arms behind head
+(( Squatting ))
+(( nipples through clothes )) , (( cameltoe, ))
+ <lora:cammy whiteV1:0.8>  p0k13s

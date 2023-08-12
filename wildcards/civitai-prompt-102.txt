@@ -1,0 +1,1 @@
+a cat riding a bike <lora:riding_a:0.7>

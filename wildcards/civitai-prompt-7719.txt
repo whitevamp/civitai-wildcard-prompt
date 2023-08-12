@@ -1,0 +1,1 @@
+(high detailed skin:1.2), serious, looking at viewer, black spiked hair, black eyes, armor, white gloves, RAW photo,  vegeta, 1boy,  small details, photorealistic, ultra-realistic photo, 8k uhd, dslr, soft lighting, high quality, film grain, ((masterpiece)), 8k, HDR, highly detailed, professional   <lora:dbz_vegeta-03:1>  <lora:more_details:1>

@@ -1,0 +1,8 @@
+focus, blur,
+, realistic, (chimp:1.3),
+, Collar,  victorian ,(long bulky hair:1.4),  finest fabrics,tailored, coat, wide and puffed, top hat, very fat, big head,
+abstract, (best quality:1.3), ((masterpiece)), ((realistic)) ,  ,ankymoore, absurdres, intricate details,  bloom,  backlighting,, dramatic lighting
+film grain, 85mm, focus,
+<lora:ankymoore:0.0>  <lora:add_detail:0.25>
+<lora:LowRA:0.6> <lora:lightV1:0.5> <lora:GPTS3 animals_258424:0.4> <lora:AnimalClothes:0.5>
+<lora:anmen:0.6>

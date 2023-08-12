@@ -1,0 +1,7 @@
+(best quality:1.2,masterpiece:1.2,ultra detailed,hires),
+jinx (league of legends),(best quality:1.2,masterpiece:1.2,ultra detailed,hires),1girl,upper body,small breasts,
+blue hair,long hair,twin braids,very long hair,bangs,arm tattoo,stomach tattoo,pink eyes,
+black leather,cortex armlet,crop top,midriff,bare shoulders,black fingerless gloves,black,cortical neck ring,
+boots,pink striped pants,belt,brown footwear,
+weapon,rocket launcher,gatling gun,
+looking at viewer,smile,<lora:jinxLeagueOfLegends_v10:1:OUTALL>,

@@ -1,0 +1,5 @@
+masterpiece,best quality,4k,8k,realistic,
+ayu, <lora:ayu:0.8>,
+<lora:exposepanty-strong:0.8>,accidental exposure panties , 
+<lora:NegStd3:0.6>, 
+ <lora:asianGirlsFace_v1:0.6:FACE>,

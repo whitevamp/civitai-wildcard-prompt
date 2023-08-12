@@ -1,0 +1,3 @@
+<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.8>RSERomantic, RSEEmma, boobs,  (hyper realistic:1.25), (photo realistic:1.3), 
+<lora:PSarisaV1:0.1> arisa, brown hair,long hair, pink hairband,naked, pink mini skirt, green eyes, white thighhighs, large breasts,nature, navel,:D, huge breasts,
+(best quality, masterpiece, RAW photo,ultra-detailed:1.2), <lyco:GoodHands-beta2:1.0>,1girl,solo,looking at viewer,smile

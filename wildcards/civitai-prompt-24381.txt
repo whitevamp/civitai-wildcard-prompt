@@ -1,0 +1,1 @@
+<lora:reference_sheet-model_sheet:0.6> , reference sheet, model sheet, simple background,   <lora:YuzurihaInori:1>, outfit-inori, (masterpiece, best quality, high quality, highres, ultra-detailed),

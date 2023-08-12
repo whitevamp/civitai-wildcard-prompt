@@ -1,0 +1,5 @@
+ultra realistic 8k cg, picture-perfect face, flawless, clean,realistic, professional artwork, famous artwork,warm backlight, photorealistic dawn lighting,Death of field, dramatic lighting,ultra detail texture,ultra detail hair, ultra detail face, perfect face, beautiful face, abandoned cyberpunk cityview,(inside a futuristic flight cabin),
+
+(japanese flight attendant, perfectly yoned body,gigantic breasts),((cyan seamless bodystocking:1.4)), skindentation,sexual, showing her sexy body, (spread legs and showing her pussy, both hands up, tidying hair),looking at the viewer,wet hair,absurdly long blonde hair,yellow glowing eyes, (ahegao:1.3,heavy breathing, alluring eyes,sweaty body),
+
+<lora:fashionGirl_v47:0.3>,<lora:Seamlessbodystocking_v10:0.2>, ulzzang-6500-v1.1,<lora:ahegao_v1:0.3>,

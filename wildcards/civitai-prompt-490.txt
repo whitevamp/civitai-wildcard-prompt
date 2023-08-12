@@ -1,0 +1,2 @@
+portrait,old scary Mayan Indian, tatoo, Steve McCurry, details
+(grey backdroun,pic realistic, hdr, intricate details, cinematic, rim light, muted colors:1.2) <lora:lit:0.5>

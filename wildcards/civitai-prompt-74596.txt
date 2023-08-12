@@ -1,0 +1,8 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.3),(highres),cowboy shot,
+1girl,mature woman,standing,
+<lora:Ilsa:0.6>,Ilsa, fox ears,black hair,messy hair,(half-closed eyes:1.1),
+white uniform,
+(angry:1.1),
+(bullet:1.3),(swirling :1.4),gun,
+<lora:anime_minimalist_v1-000020:-0.5> 
+<lora:LowRa:0.3>

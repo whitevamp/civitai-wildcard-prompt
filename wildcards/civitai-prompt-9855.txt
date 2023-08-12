@@ -1,0 +1,4 @@
+best quality,no humans,
+quokka,aidaishu,military helmet,running,
+abandoned city,explosion,sparks,
+ <lora:finalquokka:0.6>

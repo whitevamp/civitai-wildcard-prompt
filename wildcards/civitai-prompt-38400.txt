@@ -1,0 +1,1 @@
+masterpiece, best quality, detailed, glowing, mecha, large wings, holding weapon, smoke, cloud, mountain, castle, <lora:InkMecha:1>,  <lora:Gold_Glitter:0.8>

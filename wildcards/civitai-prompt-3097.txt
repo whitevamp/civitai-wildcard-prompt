@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl water yushushui, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, <lora:yushui:0.5>, BREAK, short blue hair,

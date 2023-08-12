@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality,1girl, underground, subterranean river, stalactites, stalagmites, moss, glowing mushrooms, dark, spider motif,  drow, dark elf, grey skin, ponytail, red eyes, pointy ears, chainmail, leather boots, sitting, campfire,  <lora:drow_offset:0.8>,  <lora:more_details:0.6>,  <lora:hugging_own_legs_v0.3:1.0>, hugging own legs, POV, looking at viewer,

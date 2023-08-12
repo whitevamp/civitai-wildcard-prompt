@@ -1,0 +1,1 @@
+1mechanical girl, (masterpiece:1.4, best quality), (intricate details), unity 8k wallpaper, ultra detailed, whimsical, High-tech sensors for enhanced perception, Cyberpunk-inspired leather jacket and high-tech leggings,  chestnut, (Joe Johnston:1.4), (Haunted shipwreck on jagged rocks:1), <lora:more_details:0.8> <lora:insanobot:1.3>

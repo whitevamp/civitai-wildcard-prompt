@@ -1,0 +1,1 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), morden city, Tokyo Tower, miniature, landscape, glass bowl,  <lora:miniature_V1:0.8>

@@ -1,0 +1,11 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,Expressive Hues, Vibrant Palette, Dynamic Brushwork, pastel color palette, enticing art,
+influenced by Edgar Degas, Auguste Rodin, John William Waterhouse, Gustave Courbet, Franois Boucher, Zalman King, Agent Provocateur, La Perla, the fusion of the demure and the daring,
+(1girl:1.2), ((pantyhose)),hll,breasts, long hair, blue eyes, lips,
+(boudoir), watercolor painting, delicate fabrics, sensual forms, the harmony of softness and seduction, Victorian elegance, essence of the intimate,
+(looking at breasts),
+(inverted colors),
+(garter belt),
+(standing:1.3),
+braids,
+red hair,
+<lora:OC:0.15> <lora:LowRA:0.5> <lora:hll_20230617094651:0.4>

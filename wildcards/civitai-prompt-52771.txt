@@ -1,0 +1,4 @@
+<lora:stylized3DModelLora_v20:0.7>,scg,anime, 
+best quality,masterpiece, (realistic,photo realistic:0.5),absurdres,
+<lora:busujimaSaekoHOTD_v10:1.0>,busujima_saeko, school uniform,purple hair, solo, breasts, blush,  bangs, black skirt, large breasts, thighhighs, long sleeves, bow, hair between eyes, underwear, closed mouth, black thighhighs, see-through, garter straps, wet clothes, lace trim,  side slit,cleavage,shiny skin,
+sitting on bed, looking at viewer,

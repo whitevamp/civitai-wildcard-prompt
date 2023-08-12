@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, ManLevitatingPizza, <lora:ManLevitatingPizza:1>, 1boy, solo, vergil(dmc5), <lora:Char_DMC_Vergil:0.75>,

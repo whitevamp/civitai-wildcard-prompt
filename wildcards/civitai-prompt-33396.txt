@@ -1,0 +1,7 @@
+Fiona from Scotland, short curly sandy-blonde hair, (8k,realistic, RAW photograph, ultra detailed, ultra sharp, ultra high resolution, detailed background, fair skin :1.4),
+, (ultra detailed background, full body shot:1.5),(detailed skin:-1.5),  sunshine, blue sky,( dynamic pose:1.5), 
+(perfect lighting, fair skin, nsfw,nude:1.5),
+,(A rural townscape of the 1960s american, street, American West settlement period:1.5),
+(Crowds of men are watching her. :1.1)
+1girl, (Voluptuous,curvy :1.15), 
+ <lora:bigguns_v121:0.5> retrobigguns,  <lora:torpedo-breasts-v01:0.5> breasts_apart, puffy_nipples, large_areola, torpedo_breasts,

@@ -1,0 +1,1 @@
+masterpiece, best quality, highres, 1girl, gloria1, gloria \(pokemon\), brown hair, solo, backpack, brown eyes, tam o' shanter, grey cardigan, pink dress, short hair, green socks, brown bag, bob cut, bangs, long sleeves, collared dress, <lora:gloria_(pokemon)_v1:0.6>, usquat, squatting in a city street, panties visible, (high detailed skin:1.2), <lora:usquat:0.4>

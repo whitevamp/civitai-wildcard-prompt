@@ -1,0 +1,1 @@
+(masterpiece),high quality,super detailed,4k,sharp focus,1girl,pricess zelda, nintendo, the legend of zelda,big smile,smile,botw style,front view,blonde hair,long hair,crouched,touching a white flower,looking at flower,ruins background,sunset,sunset light,(black pants),good finger,good hand,<lora:zelda_botw_v1:0.7>, <lora:botw_style_offset:0.7>, <lyco:GoodHands-beta2:0.8>

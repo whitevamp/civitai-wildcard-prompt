@@ -1,0 +1,19 @@
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, kiss, yuri, wooden floor, large windows, indoors, from side,
+blue hair, long hair, yellow eyes, full blush, tongue, saliva drip,
+medium breasts, nipples, long nipples, puffy nipples, small areolae, dress, topless,
+wet, sweat, steam, heavy breathing, arms between legs,
+<lora:masusu_v10:0.25>,
+kneeling, <lora:DDTrueKneeling_v1:0>,
+white legwear, detached sleeves, layladef, <lora:layla1-000010:1>
+AND
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, kiss, yuri, wooden floor, large windows, indoors, from side,
+green hair, long hair, closed eyes, full blush, tongue, saliva drip,
+medium breasts, nipples, long nipples, puffy nipples, small areolae, dress, topless,
+wet, sweat, steam, heavy breathing, arms between legs,
+<lora:masusu_v10:0.25>,
+kneeling, <lora:DDTrueKneeling_v1:0>,
+barefoot, detached sleeves, faruzandef, <lora:faruzan1-000009:1>

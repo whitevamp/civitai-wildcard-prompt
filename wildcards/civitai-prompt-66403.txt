@@ -1,0 +1,4 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,visual metaphors, symbolic representation, evocative motifs, 
+(half-naked:0.8),
+inviting smile, delicate features,candlelit setting, hazy backdrop, beguiling expressions, whispered desires,arousing, erotic,
+ <lora:lowra_v10:0.4> <lora:oc_v10:0.25>

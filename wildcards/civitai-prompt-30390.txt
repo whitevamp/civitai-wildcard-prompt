@@ -1,0 +1,3 @@
+burger, masterpiece, best quality, 1girl, solo, paimon \(genshin impact\), face closeup, (eating hamburger, large burger:1.2), two hands, smile, happy, open mouth,
+long sleeves, white dress, dress, halo, thighhighs under boots, single thighhigh, bangs, boots, hair between eyes, white footwear,  white thighhighs, white hair
+detailed background, outdoor,  sky, dandelion, butterflies, castle on lake, (closing eyes:1.2),  <lora:paimonGenshinImpact_v10:1> , <lora:eatingAHamburger_animeEatingBurger:0.4>

@@ -1,0 +1,1 @@
+8k, realistic, vray, HDR,  6000K, inside a post-apocalyptic radio station, dusty sound booth, old records, broken antenna. <lora:PostApocalyptic_v4:0.6> SZ_4po enviroment

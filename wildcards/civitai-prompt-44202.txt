@@ -1,0 +1,1 @@
+raw grainy photo, intricate detail, masterpiece, best photo, Audrey Hepburn, wearing a square fronted black dress, from the movie Breakfast at Tiffany's,  standing in a New York ally holding a cat wrapped in a blanket, raining hard and she's wet and people in the background are holding umbrellas, <lora:add_detail 0:5>

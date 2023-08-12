@@ -1,0 +1,8 @@
+masterpiece, best quality, detailed,
+3d face, realistic,
+cute face, beautiful detailed face, beautiful detailed eyes, shiny skin, lustrous skin,
+1girl, public, from below,
+white hair, short hair, red eyes, seductive smile, looking down, sweating profusely,
+small breasts, navel, spread legs,
+white veil, detached sleeves, white bra, white panties, thigh strap,
+bellydance, <lora:bellydance_v10:0.75>

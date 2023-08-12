@@ -1,0 +1,4 @@
+((1girl)),solo,large breasts, white hair,red eyes, 
+<lora:[prosthetic quadruped,Quadruped machinery,mechanical tail,mechanical parts, robot joints,hydraulic system,headgear,four feet]:0.9>,
+prosthetic quadruped,Quadruped machinery,mechanical tail,mechanical parts, robot joints,hydraulic system,demon horns,four feet,all fours,crawl,amputee, 
+factory,

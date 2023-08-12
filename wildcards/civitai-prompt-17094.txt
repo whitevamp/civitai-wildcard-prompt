@@ -1,0 +1,1 @@
+<lora:GrantGustinNextToOliverQueensGraveMeme:0.8>QUEENSGRAVEMEME, (V), SMILE,   <lora:SephirothFinalFantasy0:0.4> Sephiroth (Final Fantasy), Sephiroth, long silver hair,  <lora:tifaMeenow_tifaV1:1>, corneo_aerith

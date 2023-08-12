@@ -1,0 +1,3 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (1girl:1.3), extremely detailed,(colorful:1.1), highest detailed,(zentangle:1.2), (dynamic pose), (abstract background:1.3), (shiny skin), (many colors:1.4), silver hair,
+yorha no. 2 type b, xn2b, cleavage, black hairband, white hair, blindfold, parted lips, short hair, mole under mouth, looking at viewer, thigh high, gloves,maid bikini,frills, <lora:maid_bikini:0.8>,  
+from below, <lora:A_Nier_2B:0.9> pov, looking at viewer,  huge breast, sitting, spread legs,

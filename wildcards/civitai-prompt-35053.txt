@@ -1,0 +1,3 @@
+RAW, (masterpiece, best quality, photorealistic, absurdres, 8k:1.2), nsfw, best lighting, complex pupils, detailed background, outdoors,
+1girl, lewd, solo, full body portrait, (close up, face focus:0.8), ((wide hip)), looking away, standing, dynamic pose, light smile, blush, highly detailed skin, (skindentation), (abs:0.6),
+microskirt, beltbra, gray hair, lipstick, eyelashes, hair bun, <lora:beltbra_v0.1:0.8>, <lora:microskirt_v0.2:0.8>,

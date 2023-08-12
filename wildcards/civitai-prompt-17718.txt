@@ -1,0 +1,4 @@
+Nier.2b\(Bride\),<lora:bride 2b10:0.9>,(hair over one eye:1.2),(black headband:1.2),
+
+(extremely detailed CG unity 8k wallpaper), (ultra-detailed), masterpiece, best quality, Mature woman,(masterpiece), (best quality), full body,simple background,(illustration),((beautiful detailed girl)),beautiful face,beautiful detailed eyes,
+red border,atmospheric perspective,sitting,landscape

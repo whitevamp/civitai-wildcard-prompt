@@ -1,0 +1,1 @@
+masterpiece,best quality,high quality, <lyco:GoodHands-beta2:1.0>,Photo of a black-haired girl with blue eyes, looking at the viewer in anger, armed with rocket launchers, portraying a sci-fi mecha cowboy in a solo cowboy shot. (heavy tank gun:1.2), metal turbine. <lora:MG_jijia:0.9>

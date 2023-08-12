@@ -1,0 +1,1 @@
+<lora:PepePunchMeme:1> PepePunchMeme,     <lora:Bigbird:0.75> Bigbird,

@@ -1,0 +1,2 @@
+<lora:sandwiched_v1.1:1.0> 1girl, solo, sandwiched, 2boys, hug,
+<lora:elizabeth_bathory_armor_v1.1:1> elizabeth bathory, bikini armor,, masterpiece, best quality, highly detailed

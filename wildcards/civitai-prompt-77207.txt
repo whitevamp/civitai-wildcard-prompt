@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,smiling
+beautiful Lnd_woman, wearing a crop top and denim jeans
+ <lora:edg_LatinaDollLikeness:0.75>

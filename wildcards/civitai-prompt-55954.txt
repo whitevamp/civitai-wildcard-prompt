@@ -1,0 +1,9 @@
+best quality ,masterpiece, illustration, an extremely delicate and beautiful, sharp focus, absurdres, realistic proportions, good anatomy, ((realistic, hyperrealistic:1. 4)), 16k hdr ,CG ,unity ,
+
+1girl, ultra high res,(black hair) (wavy medium hair), Asian skin tone, huge filesize, ultra-detailed, highres, soft light, ((thin body)), (((close up, face focus:1.2), looking at  the viewer, standing, lonely, shiny skin, eyeliner, gothic eyeshadow, blush, flower)), (((magazine cover-style illustration of a fashionable woman in a vibrant outfit), ((navel)), (upper body),
+
+huge breast, sagging breast, pureerosface_v1,
+
+Pink wallpaper, Pink tone, ((english text)), username, watermark, user name, artist name, signature:1.1,illustration, (fantasy concept))), adding a touch of fantasy to the scene,  
+
+<lora:claraLCM_lichengmin:1>, <lora:FashionMagazineStyle_v10:0.6>

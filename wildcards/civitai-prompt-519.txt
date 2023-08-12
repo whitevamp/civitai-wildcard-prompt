@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:katou_megumi_v1:0.8> hmbk1, 1girl, ponytail, drill hair, pink eyes, red capelet, ribbon, white gloves, pink dress, frills,

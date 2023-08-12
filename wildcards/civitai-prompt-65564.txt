@@ -1,0 +1,8 @@
+masterpiece, best quality, highres,
+1girl,
+gscg, ahoge,
+large breasts, 
+race_queen, leotard, jacket,
+shamefull,closed mouth, 
+field,
+<lora:pnx_RaceQueen:0.8>

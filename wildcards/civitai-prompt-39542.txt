@@ -1,0 +1,1 @@
+<lora:add_detail:0.8> <lora:ChromeTech:0.8> (masterpiece, best quality, realistic, detailed, sharp:1.2), intricate details, (chrometech android gorilla), cyborg eyes, glowing eyes, mechanical parts, silver coated, highly reflective, detailed background, gleaming,

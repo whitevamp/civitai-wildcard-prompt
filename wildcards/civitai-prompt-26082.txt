@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, absurdres, up close, detailed face,  Cloud Strife, crossdressing, twin braids, male focus, frilled dress, hair bow, edgOrgasm, ((face focus)), closed eyes, open mouth, blush,    <lora:cloudstrife-nvwls-v1:0.7>,  <lora:edgOrgasm1:1.0>,

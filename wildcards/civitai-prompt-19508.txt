@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,    <lora:Gwen-v1:0.8> long hair,  twintails, twin drills, blue hair, blue eyes, star-shaped pupils, 
+ ohayou,  <lyco:ohayou locon:0.8>  open mouth, excited,

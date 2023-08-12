@@ -1,0 +1,3 @@
+full color photography of (sks woman:1), nude, (undercut:1.2), long hair,
+masterpiece, best quality, sharp focus, highres 8k uhd, ultra-detailed, backlighting, rim light, grey background,
+<lora:CR-KristenStewart_v10-malcolmrey:1> <lora:rMadArt3_NoiseOffset:1> <lora:Concept-undercut-honk:0.5>

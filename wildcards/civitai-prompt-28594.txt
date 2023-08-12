@@ -1,0 +1,1 @@
+hotify prettify, portrait of woman pouting, forest <lora:Pouting:.7> <lora:ARWPrincessMononoke:1> princessmononoke girl

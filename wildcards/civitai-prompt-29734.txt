@@ -1,0 +1,2 @@
+(multi-layered holography),(collagedholography), (multiple exposure:1.25), (basis,light rayline around,beautiful detailed face,cowboy shot,dissolution:1.05),(2D,painting,illustration,masterpiece,intricate detail,ultra-detailed,highest resolution,best quality,ultra quality,sharp&smooth,bestshading&lighting),(distortion,Beautiful luminescence and transparency:1.25),(realistic),high contrast,
+<lora:transparent_chrome:1:INALL>

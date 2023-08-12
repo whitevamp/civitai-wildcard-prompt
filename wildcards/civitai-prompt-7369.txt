@@ -1,0 +1,1 @@
+(masterpiece, best quality, beautiful quality, photorealistic, detailed lighting, extremely detailed skin, extremely detailed hair, shadows, 8k:1.2), (a picture of a woman, 1girl, bobcut, blond hair:1.2), <lora:add_detail:1>, <lora:twiceChaeyoungV1:1>,

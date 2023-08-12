@@ -1,0 +1,11 @@
+(best quality), (ultra detailed), (masterpiece), extremely detailed magazine cover-style digital painting, (magazine cover-style illustration of a fashionable woman in a vibrant outfit), blue eyes, shiny eyes, she has a confident expression and posing with her hands on her hips in front of a (sunny, sun flare, blue sky, sea, beach, ocean, shore,  wave, palm tree, horizon) background,
+with her daring fashion choices leaving little to the imagination, (hair blowing in the wind:1.2, floral hair ornament), abs, adding a touch of fantasy to the scene, the text on the cover should be bold and attention-grabbing, with the title of the magazine and a catchy headline, the overall style should be modern and trendy, with a focus on fashion and fantasy, helvetica-bold,
+(Nikon D750 with Nikon 20mm f/1.8 lens, 1/200th, f/11, ISO 1600),
+
+
+
+
+
+
+
+<lora:hardSwimwear_hard:0.5>beautiful blonde Nadia, slim, tiny waist, smiling, excited, GothGal, a woman wearing a GothGal outfit, fishnets, gothic print, (OPSW, blonde Nadia in a sexy one piece swimsuit with a belt , gothic print,V shaped cleavage,X_style_suspenders, wearing OPSW:1.25), <lora:virtualgirlRen_v10:0.3>  <lora:betterSwimwear_onepiece:0.1> <lora:gothLingerie_v10:0.0.3>

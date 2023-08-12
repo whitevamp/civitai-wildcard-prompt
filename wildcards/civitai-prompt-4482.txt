@@ -1,0 +1,3 @@
+Photo of Optimus Prime emerging from the depths of the ocean.
+epic big mecha, blurry, detailed metal shapes
+<lora:OptimusPrimeG1_1.2:0.75>

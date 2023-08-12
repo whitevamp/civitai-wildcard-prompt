@@ -1,0 +1,4 @@
+Chibi Link from Legend of Zelda as a huge green allymech robot xmech in WindWaker style,
+waist-deep in the ocean, waves, sea, dripping water, splashing, sunrays, sail on back, mecha helmet,
+fcPortrait, highres, high resolution, detailed, soft glow,
+<lora:LowRA:0.3> <lora:add_detail:0.3> <lora:WindWaker-01:0.9> <lora:allymech:0.5>

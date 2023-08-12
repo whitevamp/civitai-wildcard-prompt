@@ -1,0 +1,4 @@
+1 girl ((flying)) under moon ,Chinese immortals,dunhuang_cloths,dunhuang_style,
+(background is chinese Palace on Heavenly:1.5), (The ground is filled with clouds:1.5, surrounded by smoke:1.5),
+best quality, realistic, photorealistic, award-winning illustration, (intricate details:1.2), (delicate detailed), (intricate details), (cinematic light, best quality Backlights), clear line,fashion girl, sharp focus, realistic face,detailed face,official art, unity 8k wallpaper, ultra high res, (photorealistic:1.5),
+looking at viewer, ulzzang-6500, <lora:style_dunhuang:1>

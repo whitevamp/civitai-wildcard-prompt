@@ -1,0 +1,5 @@
+RAW photo, portrait,
+MILF with embarrassed smile is wearing red buruma and shirtlift gym uniform to show large breast and looking at Tokyo cityscape with Tokyo Tower
+<lora:real_model_buruma:1:1:lbw=0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1>
+<lora:real_model_suppin:-0.3>
+<lora:shirtliftv1:1:1:lbw=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0>

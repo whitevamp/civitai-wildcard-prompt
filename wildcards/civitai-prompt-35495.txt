@@ -1,0 +1,1 @@
+nsfw, (1girl, ice green eyes, white hair, closed mouth) (digital) ( lying in detailed shack (see-through, swimsuit)), best quality, <lora:hairdetailer:0.2>, clearswimsuit, <lora:clearswimsuit:1>, Asian-Less-Toon,

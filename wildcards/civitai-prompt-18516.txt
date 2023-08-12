@@ -1,0 +1,3 @@
+<lora:add_detail:0.5> <lora:copax_charm_eu:0.2> (1girl,3d, photorealistic,masterpiece, best quality, intricate), face surprised, from back view, seductive pose, in a Japanese house
+hokusai, short hair, bangs, hair ornament, (purple eyes:1.1), purple hair, flower, hair flower, hood, hair bun, single hair bun,bare shoulders, jewelry, collarbone, swimsuit, bikini, bracelet, sash, thigh strap, white bikini, obi, floral print, goggles, goggles on head
+ <lora:hokusaitest:1>

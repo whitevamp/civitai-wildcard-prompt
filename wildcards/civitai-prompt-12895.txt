@@ -1,0 +1,1 @@
+<lora:Oreimo_gokou tamaki:0.7> gokou tamaki, 8k, masterpiece, absurdres, anime,, <lora:add_detail:0.5> <lora:more_details:0.5>  <lora:epiNoiseoffset_v2Pynoise:1>

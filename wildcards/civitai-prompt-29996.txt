@@ -1,0 +1,1 @@
+beautiful, ((masterpiece:1.2)), ((best quality:1.2)), extremely detailed face, perfect eyes, perfect face, perfect lighting, 1girl, solo focus, lips, baiken, cleavage, huge breasts, pink hair, huge hair, ponytail, japanese clothes, one arm, eyepatch, cowboy shot, <lyco:GoodHands-beta2:1.25> <lora:WesternBlendLOWSTR:0.7> <lora:guiltygear_baiken-09:0.85>

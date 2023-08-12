@@ -1,0 +1,1 @@
+<lora:ShroomPunkAI:.6> ShroomPunkAI, bioluminescence, pretty woman, messy environment

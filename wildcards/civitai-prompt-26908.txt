@@ -1,0 +1,4 @@
+(masterpiece, best quality), intricate details,
+(1girl), solo, <lora:dbo_towa:0.8> dbtowa, colored skin, blue skin, hair over one eye,
+blue skin,  <lyco:coloredSkinCONCEPT_v219:0.8>
+ <lora:outfit-inori-pynoise:0.8> outfit-inori,  arms behind back, leaning forward, cowboy shot,

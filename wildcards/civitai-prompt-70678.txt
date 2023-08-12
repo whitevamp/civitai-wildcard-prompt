@@ -1,0 +1,3 @@
+best quality, masterpiece, ultra high res, (photo realistic:1.4), surrealism, dream-like,fusionart, 
+Necromancer, dark magic, undead minions, skeletal remains, cursed artifacts, reanimation, deathly aura,
+<lora:fusionart_v3:0.9>

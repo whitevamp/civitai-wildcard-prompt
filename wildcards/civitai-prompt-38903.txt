@@ -1,0 +1,9 @@
+1girl (30yo) smiling, japanese, looking at viewer, ((dim)), ((dark)), ((night)), dark background, sitting, (inside bedroom), long orange hair, large orange cat ears,
+(nsfw:1.5), medium breasts, cute nipples,  cute pussy,
+techwear jacket, with buckle and tape, ((see through)), choker, straps, black and orange, pantyhose,
+<lora:urbansamurai_v0.3:0.4>
+<lora:Cute Asian Face:0.2>
+highest quality, best quality, masterpiece, (red neon:1.2), glow, cyberpunk, led,
+<lora:breastinclassBetter:0.1>
+<lora:GodPussy1 v2:0.2>
+<lora:CyberPunkAI:0.6>

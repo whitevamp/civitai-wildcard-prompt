@@ -1,0 +1,8 @@
+mdrga Best quality, masterpiece, ultra high res, (photorealistic:1.4), 8K raw photo, dynamic lighting, professional lighting, cinematic lighting, highly detailed, official art, sharp focus, photo studio, in the dark, deep shadow, low key, depth of field, exquisite details and textures, delicate and beautiful, highres, lens flare, absurdres
+1girl, solo, pretty girl, skinny slender fit-muscled body, slim waist, extremely detailed face, beautiful elegant face, detailed eyes lips, collarbone, silver hair, messy hair, realistic hair, long hair, (high gloss skin:1.2), off shoulder, necklace, jewelry,
+(looking at viewer:1.1),
+(full body), (perfect female figure),
+(laughing shyly:1.2), (A slight hemiflank),
+(standing with spreading legs),
+(naturally sagging breasts:1.2), (medium breasts:1.2), areolas nipples, perfect nipples, (rich pubic hair: 1.4), nsfw, (nude), (naked),
+<lora:FilmgirlLora_v40:0.6>, Filmg,

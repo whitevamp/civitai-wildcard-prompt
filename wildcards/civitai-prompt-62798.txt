@@ -1,0 +1,2 @@
+best quality, intricate details, 
+1girl,       <lora:Sam-10:0.8>

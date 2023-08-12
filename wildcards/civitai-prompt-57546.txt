@@ -1,0 +1,1 @@
+frontal shot, cloesup, (Dread horror:1.8), glowing epoxy_skull <lora:dreadv4LORA_v10:1.2>  <lora:glowingSkullLora_v10:0.48>

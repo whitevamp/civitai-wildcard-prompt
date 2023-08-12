@@ -1,0 +1,1 @@
+(masterpiece:1.3), (absurdres:1.3), (best quality:1.3), (ultra-detailed:1.3) ,perfect anatomy, 1girl, solo,  (leaning forward viewer, girl on top, all fours), looking at viewer, facing viewer,  naughty, blush, closed mouth,   <lora:EDB-000010:1> , tank top, extended downblouse, nipple slip, visible nipples,  <lora:hyoudou_michiru_v1:1>, hyoudou michiru

@@ -1,0 +1,3 @@
+A huge long crawling allymech (caterpillar) with a Furby face fighting in the smoking rubble of a city block, long snaking fuzzy yellow plush caterpillar body, multiple robotic legs, lots of legs, like way too many legs, oh god, kill it with fire, flames, smoke, debris, falling rubble, twisted metal, 
+fcPortrait, highres, high resolution, detailed, cinematic, artistic shadow, light glow.
+<lora:LowRA:0.3> <lora:add_detail:0.5> <lora:allymech:0.5> <lora:Furby_SD_EP10_V1:0.7>

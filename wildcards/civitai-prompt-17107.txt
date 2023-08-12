@@ -1,0 +1,15 @@
+Aesthetic: ((sparklecore, glitter, colorful, whimsical, fantasy, joy):1.4)
+BREAK
+Composition: <lora:lora_split_32_v1:0.5> (split, standing split, leg lift, leg up) 1girl, standing, leg up high, leg strait,, wearing clothes,  naked, nude, perfect body, perfect breasts, 
+BREAK
+Lighting: Golden Hour, Romantic, Dreamy
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((blonde hair))
+BREAK
+(good quality:1.0),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

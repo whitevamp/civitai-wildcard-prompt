@@ -1,0 +1,6 @@
+(8k wallpaper,masterpiece,best quality),ultra realistic,photo-realistic,ultra-detailed,finely detail,ultra high res,RAW,ray tracing,
+1girl,extremely delicate and beautiful girls,beautiful detailed hair,beautiful detailed face,highly detailed skin,sweet_lolita,
+brown hair+(long hair:1.2)+(twintails:1.2)+straight hair,pink hairband,bangs,
+dark eyes+clear eyes+beautiful detailed eyes+looking at viewer,happy+smile+open mouth,collarbone,
+(cowboy shot:1.2),straight-on,standing,(right arm up+right hand holding lollipop:1.3),
+day,cloudy sky,outdoor+(amusement park:1.3),<lora:sweetLolita_v10:0.75> <lora:add_detail:1> <lora:BeautyNwsjMajic2-01:0.7>

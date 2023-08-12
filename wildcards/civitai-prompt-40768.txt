@@ -1,0 +1,1 @@
+<lora:w140Mercedes-Benz:0.7> w140, Mercedes-Benz, deep night, forest, snowy, by Paul Zizka <lora:LowRA:0.8>

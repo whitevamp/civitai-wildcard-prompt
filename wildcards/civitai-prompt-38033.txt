@@ -1,0 +1,2 @@
+(Best Quality, Masterpiece:1.4), (Realism:1.2), (Realisitc:1.2), (Absurdres:1.2), (photorealistic:1.3),<lora:add_detail:0.5>,
+1 girl, big eyes,blue eyes cute, kawaii, purple hair, long hair, detailed face, dynamic pose, (dynamic angle:1.3), <lora:Color Separation_B_1.1:0.5>, bokeh,nude, classroom, nipple, navel, earrings, jewelry

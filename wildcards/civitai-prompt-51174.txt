@@ -1,0 +1,7 @@
+(illustration:1.3),(extremely detailed:1.3),(highly detailed:1.2),(best quality:1.2),(masterpiece:1.2),(extremely detailed 8K wallpaper:1.2),(highres:1.3),(semi-realistic:1.1),(photorealistic:1.1),(portraits:1.3),(anime:1.1),(cowboy shot:1.3),
+
+,(1gril:1.4),(solo:1.4),(perfect female body:1.3),(perfect anatomy:1.3),(medium breasts:1.1),(half-closed eyes:1.5),pink eyes,(no pupils:1.3),(empty eyes:1.3),(twintails:1.2),tri tails,(white hair:1.3),(wide hips:1.1),(thick thighs:1.1),(thigh gap:1.2),big butt,fat mons,(shaved pussy:1.2),(glowing pubic tattoo:1.3),(hair ornament:1.1),headdress,(collar:1.2),(evil smile:1.3),grin,boots, 
+
+,(standing:1.3),(looking at viewer:1.4),(arms at sides:1.2),red gem,(corruption:1.4),leotard,latex,(bare arms:1.4),center opening, navel cutout, side cutout,(frills:1.1),(layered skirt:1.2),(dark magical girl:1.4), 
+
+,(white background:1.4), <lora:CORRUPTIONV2.1:0.5>

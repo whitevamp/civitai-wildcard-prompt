@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, (pxint, portrait, droplets, flowing, with a splash of paint, paint splash), multicolored, looking at viewer, splatter, bubble, swirling, rim lighting, black and yellow, yellow paint, black background,
+bea \(pokemon\), bow hairband, nude, bodypaint, collarbone, <lora:SaitouV1-000013:0.9>, <lora:abstractPortraits_v1:1>

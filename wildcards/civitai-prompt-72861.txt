@@ -1,0 +1,6 @@
+(cowboy shot), sfw,  (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK
+<lora:GabiAOT:0.7> GabiAOT, looking at viewer, 1girl, brown eyes, low ponytail
+black apron, white shirt, long sleeves, ribbon, red ribbon
+BREAK
+(busy street, people walking in background, gorgeous view)

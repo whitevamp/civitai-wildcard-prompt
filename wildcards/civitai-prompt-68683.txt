@@ -1,0 +1,3 @@
+techwear jacket,
+best quality, ultra high res, 1girl,
+ <lora:urbansamurai_v0.3:1>

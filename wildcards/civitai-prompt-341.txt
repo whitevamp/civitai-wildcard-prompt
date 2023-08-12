@@ -1,0 +1,1 @@
+photo of a man with beard and long hair, messy beard, wearing brown coat, black cloak, angry face, expressive emotions, standing in the room, old house, rusty materials, lantern, candles,  detailed photo,  hyper realistic, imperfect skin, <lora:hagrid:0.7>,  <lora:low_ra:0.6>

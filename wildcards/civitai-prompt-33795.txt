@@ -1,0 +1,1 @@
+simple background, red background, 1girl, beautiful face, beautiful woman, portrait, upper body, blonde brown hair, bangs, ponytail, mole on breast, mole under mouth, large breast, beautiful lighting, green eyes, belly, cleavage, red shirt collar, <lora:breastinClass:0.3>,  <lora:add_detail:1>

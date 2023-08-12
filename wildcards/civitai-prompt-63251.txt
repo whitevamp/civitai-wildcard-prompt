@@ -1,0 +1,8 @@
+((masterpiece)) ((sfw))
+(portrait) (from_above) (facing_viewer)
+(blurry_background) (spacecraft_interior) (monitors_in_background) (television_in_background)
+(looking_at_viewer) (head_tilt)
+(sitting) (relaxed) (light_smile) (parted_lips)
+(pink_eyes) (empty_eyes)
+(eyewear_on_head) (pantyhose) (boots)
+<lora:StarRail_Kafka_AP_v1:0.7>

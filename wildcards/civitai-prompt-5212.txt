@@ -1,0 +1,1 @@
+Hina,sunglasses,long hair, pink hair,cigarette in mouth <lora:NijiExpressV2:0.4> fcPortrait  <lora:FF14 Art:0.5>  <lora:Hina:0.8>

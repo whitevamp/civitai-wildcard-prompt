@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),ultra high res,
+1boy,spread arms,torn clothes,arms out wide,(clenched teeth:1.1),standing upright,solo,
+<lora:piccolo_v1_4_15ep-000015:0.85> piccolo,bald, pointy ears,(purple dougi), green skin, oni horns, purple pants,pink patches,blue sash,
+Mountain,swirling ,(wind:1.2),
+<lora:flat2:-0.5>,   
+ <lora:LowRa:0.2>,

@@ -1,0 +1,2 @@
+masterpiece, best quality,
+<lora:EdobTheWarOfTheWorldsTripod_v1.0:0.55>, giant alien EdobTWOTWTripod creature with claws, (view from bottom), wallofcloud, smoke <lora:foggy:0.65>,  search lights, 1870, Victorian London,  vfx scene by Emmanuel Lubezki,(Realisitc:1.5), horror theme

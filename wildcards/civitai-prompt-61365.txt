@@ -1,0 +1,10 @@
+<(photorealistic:1.4), (extremely intricate:1.2)>, cinematic light, ultra high res, 8k uhd, film grain, <(exquisitely detailed skin),perfect anatomy, best shadow, delicate, RAW>,intricate details, pov, film light,
+(((night))), night city, (((hotel room, floor to ceiling windows, deluxe room, messy bed, Lying in bed, pink underwear, orange underwear, blue underwear, green underwear, red underwear, black underwear, pink underwear, Cyan underwear, fine material underwear, High quality underwear, NSFW:1.0))),
+
+((gorgeous Golden kimono, gorgeous colorful kimono, gorgeous pink kimono, gorgeous red kimono)),((royal textured kimono)), <lora:02_和服KimonoClothes_v10:1>,
+
+Silence Suzuka,orange ear,air bangs, cute, Smile, naughty face, Girly, cleavage,
+((thighs open)),((bare chest)), (((animal ear,,animal tail,fox tail))),
+
+((1girl, Japaness girl)), solo, close-up, looking at viewer, {{floating hair}}, detailed eyes, bright pupils, detailed clothes, (character_focus), delicate skin, fair skin,floating hair,
+(((large breast:1.4, cameltoe, belly fat : 0.6}}},sunny milk, dappled sunlight, {{{Sexy theme, Golden background, detailed background))),

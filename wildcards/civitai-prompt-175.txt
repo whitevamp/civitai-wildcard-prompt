@@ -1,0 +1,7 @@
+masterpiece, fantasy, best quality, anime style, wide-angle, full body shot, front view, beautiful_woman in white_swimsuit, 
+riding a 1shark under the water, fishes and corals in background, reflective water, natural lighting, soft lighting, 
+(featured on pixiv:1.25), trending on artstation, precise line-art,  <lora:riding_a:0.4>, 
+(Studio ghibli style, Art by Hayao Miyazaki:1.2), Anime Style, Manga Style, Hand drawn, cinematic sensual, 
+Sharp focus, humorous illustration, big depth of field, Masterpiece, concept art, trending on artstation, Vivid colors, 
+Simplified style, trending on ArtStation, trending on CGSociety, Intricate, Vibrant colors, Soft Shading, 
+Simplistic Features, Sharp Angles, Playful  <lora:Blahaj:0.1>

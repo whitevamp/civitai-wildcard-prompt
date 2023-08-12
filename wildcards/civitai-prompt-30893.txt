@@ -1,0 +1,4 @@
+professional photo of 4s4hina, white dress, bare arms, brown hair, tanned skin,
+detailed skin, detailed eyes, finely detailed hair,
+volumetric light, highrez, masterpiece, best quality,
+<lora:asahina-04:0.78:MIDD>

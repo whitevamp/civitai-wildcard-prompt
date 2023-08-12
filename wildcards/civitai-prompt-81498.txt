@@ -1,0 +1,1 @@
+handsome squidward <lora:handsome-squidward:0.8>

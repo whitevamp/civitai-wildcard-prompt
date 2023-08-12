@@ -1,0 +1,2 @@
+ElastigirlHelenParr a woman dressed in a red leotard, thong, gloves and black stockings, masterpiece, highres, photorealistic, best quality, perfect lighting, 8k, realistic, photo-realistic, ultra-detailed,
+ <lora:ElastigirlHelenParr:0.7>,

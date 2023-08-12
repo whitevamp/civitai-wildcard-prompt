@@ -1,0 +1,1 @@
+((masterpiece:1.2, best quality)), 1 male, handsome, muscle, long straight hair, black hair, blue eyes, upper body, suit, white background, simple background <lora:GFman-000002:0.7>

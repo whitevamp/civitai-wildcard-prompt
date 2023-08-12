@@ -1,0 +1,4 @@
+(Background), masterpiece, best quality,Illustration, Wallpaper, ultra detail, absurdres, 1girl, solo, (liquid hair:1.2), beautiful detailed eyes,
+bangs, cowboy shot, long hair, magical girl, white hair, waves,  water,  water drop, looking to the side,
+street, 
+<lora:LiquidHairV3(104):1:F1>

@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed,1girl,  in the middle of battle field, dusty, serious graphics, full body,  <lora:cyberhelmetWearable_cyberhelmetv02:0.8>,cyberpunk, cyberhelmet, full of battle gear, <lora:oc_v10:0.4>,hiding behind another, <lora:techpunkMaskWearable_v05:0.1>, mask on,

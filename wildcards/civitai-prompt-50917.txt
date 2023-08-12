@@ -1,0 +1,4 @@
+<lora:oversizedShirt_v10:0.7> oversized shirt, shirt, off shoulder (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, <lora:shojovibe_v11:0.7>
+solo cute girl, black t-shirt and side-tie see-through panties, brown short wavy hair, pubic hair, sitting on couch, looking at another, from side,
+blue wall, large window, rain, night cityscape, 
+light stand, bookshelf,

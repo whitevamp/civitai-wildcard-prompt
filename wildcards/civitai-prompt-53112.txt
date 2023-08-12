@@ -1,0 +1,3 @@
+1girl,ultra high res,(best quality, masterpiece:1.2),ultra-detailed,portrait,full body,style of a idol,(pleasure face:1.3,enchanting smile),
+nsfw, looking at viewer,crossed legs,detailed cleavage view,school uniform,squeezing breasts with both hands,
+<lora:Pure_Innocent_girl:0.2>

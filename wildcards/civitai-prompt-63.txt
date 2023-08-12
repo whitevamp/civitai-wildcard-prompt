@@ -1,0 +1,1 @@
+(masterpiece:1), (best quality:1),1girl, (timeless:1.1), (nature:1.25), (cosmos:1.5), white theme <lora:GPTS4 dreamwave full_478773:1>

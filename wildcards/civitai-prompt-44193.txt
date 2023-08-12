@@ -1,0 +1,2 @@
+(a beautiful woman), from (The Dragon's Lair: A deadly place where fearsome dragons dwell) ,  riding (Wolf),ultra realistic, nude:1.0, style of joel meyerowitz , shot with Olympus OM-1 Camera , shiny glossy skin,beautiful landscape,
+,green  drill hair hair,<lora:PinkNipples:0.4>, <lora:epi_noiseoffset2:0.8>,,Volumetric Lighting, Beams, Magic, Rembrandt Light

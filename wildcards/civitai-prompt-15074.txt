@@ -1,0 +1,1 @@
+(best quality, masterpiece, perfect ligthing, bloom, cinematic lighting, twin long braids, red hat, open legs), cammy white, blue eyes, blonde hair, long hair, large hips, red headwear, green leotard, fingerless gloves, harness, thighs, red socks, black footwear, ahoge, looking at viewer, <lora:3DMM_V11:0.8> <lora:cammy whiteV1:0.7>

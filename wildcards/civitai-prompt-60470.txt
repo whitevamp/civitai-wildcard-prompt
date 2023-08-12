@@ -1,0 +1,1 @@
+(masterpiece, best quality, 1girl, solo, yellow eyes, blue hair, black headband, intricate details, perfect eyes, chromatic aberration), realistic style, casual style, wide shot, (black blue space dress:1.3), cut hair, blue highlights, hair over one eye, dress, ((night)), against wall, brick wall, dim lighting, alley, full body, long legs, <lora:eulaRealisticGenshin_10:0.37>

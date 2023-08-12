@@ -1,0 +1,4 @@
+1girl, puffy nipples, (medium breasts), (curvy body:0.8), uncensored,
+angelic face, detailed face, backlighting, light on face, (facial expression of smile and sleepy and laugh:0:0), (heavy makeup:1.3),
+((perfect female figure)),(sharp focus:1.4), (realistic humid skin:1.6), (soaked body),  detailed eyes,(curvy body:0.8), (long black ponytail hair:1.2), (camera focus on body), depth of field, best quality, ultra high res, (photorealistic:1.4), (wet skin), ((micro bikini)), looking at viewer,  outdoors, sea shore, from front, model pose, high heels, (long shot, full body shot:1.3, rule of thirds)
+<lora:cutieMixGirl_V1:0.6>

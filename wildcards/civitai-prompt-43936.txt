@@ -1,0 +1,1 @@
+(A tropical environment with a party atmosphere and a lot of wealth:1.1), 1girl, masterpiece, best quality, (photorealistic:1.4), full body shot, a photo of a beautiful woman, evening, skinny, blonde hair, dutch braid, detailed face, small breasts, <lora:add_detail:0.8>, blue swimsuit, <lora:Slingshot_PL_D16:1>

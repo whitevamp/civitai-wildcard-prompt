@@ -1,0 +1,9 @@
+realistic, detailed, realistic details, intricate detail
+break,
+nsfw, 1girl, tanned skin, brown hair, slender, petite, small breast, cleavage, ((wet, sweat)), ((breastplate, magician cape,  particle effect, magic, sci-fi leotard, mechanical cyberpunk spine, mechanical arm, mechanical leg, cyborg)), detailed skin complexion, seductive, ass, full body, walking, looking at viewer
+break,
+detailed background, (((dark fantasy, burning village, invasion, horror, medieval battle, armies fighting monsters, rain, wet ground, dark)))
+break,
+from behind, wide perspective, depth of field, rule of third, depth and dimension, proportion, light and shadow contrast, 
+break,
+ <lora:IG_Thea_Bernice:0.4>

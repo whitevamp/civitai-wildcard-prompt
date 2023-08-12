@@ -1,0 +1,15 @@
+Aesthetic: ((minimalism, simplicity, minimalistic design, clean lines, reduction, essentialism):1.4)
+BREAK
+Composition: (pretty face, detailed face and eyes), perfect tits, perfect nipples, medium breasts
+BREAK
+Lighting: Dramatic Spotlight, Theatrical, Captivating
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.985),
+BREAK
+<lora:add_detail:0.4>
+ <lora:URPMv1.3_LORA_296:0.2>
+ <lora:to8contrast-1-5:0.2>

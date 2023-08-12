@@ -1,0 +1,1 @@
+best quality, masterpiece, a cat | owl, <lora:popularTrainedOnTheMost_v10:1>,   full body

@@ -1,0 +1,2 @@
+masterpiece,best quality, 1girl,solo,beautiful face, (close up:1.2), black short hair, side profile, nature,backlinghting, bokeh,depth of field,
+, masterpiece,best quality,1girl,ultra high detailed face,landscape,fantasy,adventurer, lying on the grass with the night sky in the background, clear yellow eyes,  ((white hair)), <lora:fireemblem_micaiah-10:1>, micaiah \(fire emblem\), hair ribbon, sleeveless dress, pantyhose, elbow gloves, jewelry, bracelet, scarf, belt

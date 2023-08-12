@@ -1,0 +1,4 @@
+masterpiece, best quality,
+1 girl, 18yo, arms up, gigantic breasts, (ice blue  eyes), (micro braids hair), (ash blonde | green  hair), trending on artstation, DeviantArt,  anime illustration by Eric Stanton, ,
+ <lora:CenterOpenningVirginKillerSweater:1>
+ <lora:kwFemaleDim256_v11:0.3:FACE>

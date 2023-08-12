@@ -1,0 +1,1 @@
+solo, wet, white tanktop, jeans, gobGirlz, red hair, (green skin:1.2), lineart, detailed, illustration, rainy streets background, <lora:ravnikaV2:0.3> <lora:gobGirlzLora:1>, <lora:TwtxV1:0.3>, <lyco:Zet13V3B:0.2><lyco:short stack:1>,

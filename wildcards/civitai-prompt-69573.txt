@@ -1,0 +1,9 @@
+(Yabby:1.2), (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), Standing,
+(Red Hair:1.2), Long Hair, (High Ponytail:1.2), Hair Ornament,
+Red Eyes, Looking at VIewer,
+Smile, Grin,
+Black Jacket, Black Shorts, Short Shorts, 
+Cleavage, Huge Breasts,
+Indoors, Furniture, Hallway, 
+ <lora:Yabby:1>

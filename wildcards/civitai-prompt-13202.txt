@@ -1,0 +1,9 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, standing, opening door, indoors, upper body, close up, from above,
+purple hair, long hair low twintails, grey eyes, eye reflection, bright pupils, beautiful detailed eyes, (shy, nervous smile, full blush:1.2), closed mouth,
+small breasts, nipples, long nipples, nipples erection, small areolae,
+pantyhose, see-through, pussy, pussy juice trail,
+sweat, steam, heavy breathing,
+looking down, <lora:looking_down:0>,
+hat, cape, collar, topless, monastarpact, <lora:mona1_000008:0.75>

@@ -1,0 +1,1 @@
+masterpiece, best quality, spid3r, twintails, hair bobbles, green sweater, green shorts, green boots, inside of a cavern, dark, chiaroscuro shading, from above, closed eyes, ahetobleh, hands on own head <lora:spid3r-nvwls-v1-000012:0.9> <lora:ahetobleh-nvwls-v1-final:0.7>

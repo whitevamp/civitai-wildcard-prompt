@@ -1,0 +1,19 @@
+portrait of sad friendly nude girl beautiful girl wearing a business suit long sleeve button open wet shirt, seat on studio floor on a sheet, curly red hair wet hair, background night dark, (((show small breast:1))) exposed breast, (detailed face) alluring blue eyes, (wet detailed skin), whore, sexual, (((naughty girl))), (no pubic hair:1.1) (shaved pussy:1) ((naughty open smile)) ((slave choker)) earrings, professional pose, (oily skin:1)
+
+(view from below) (perfect body:1.1)
+
+<lora:zovyaWetHairLORA64_V1:0.0.25>
+
+(((highly detailed brown eyes))) <lora:detailed_eye:0.4>
+
+detailed mouth detailed teeth <lora:ftm-v0:0.4>
+
+(highly detailed nipples) (highly detailed tits) (((high detailed skin))) (((skin pores))), (((mole on tits))) <lora:puffies_v1:0.5> <lora:big-nipples:0.5> small_tits small_breasts <lora:Breasts_Helper_v2:0.5>
+
+(((highly detailed pussy))) (cameltoe:0.9) <lora:GodPussy1 v3:0.4>
+
+big_nipples , legs spread, seductive look, exposed pussy, shy smile, (look at the camera:1),
+
+(masterpiece:1.2) (illustration:1.1) (best quality:1.2) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) real shadow, shallow depth of field, [volumetric fog], reflections, photographed on a Canon EOS R5, 50mm lens, F/2.8, film grain, Fujifilm XT3, crystal clear, dystopian, movie grain, strobe lightbeams, studio lighting, spot lighting (backround defocused:1.7) (((depth of field))):1.8, bloom, bokeh, remote camera
+
+dark theme <lora:LowRA:0.8> <lora:lowkey_v1.1:1.5> 

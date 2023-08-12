@@ -1,0 +1,11 @@
+best illustration, realistic details, detailed
+BREAK
+1girl, beautiful, seductive face, tanned skin, detailed skin, anicos_inori, yuzuriha inori, pink hair, long hair, navel, detached sleeves, bare shoulder, center opening, cleavage, medium breast, hair clip, hair ornament, red eyes, thigh highs, leotard, full body, looking at viewer,
+BREAK
+on a rooftop overlooking futuristic cityscapes, starry night skies, dark environment
+BREAK
+shattering glass in fractal particle effects, volumetric fogs on horizon, levitating, emotional and powerful vibe, machineries cogs
+BREAK
+aerial perspective, detailed background, Rule of third, sharp focus, depth of field 
+BREAK
+(ulzzang-6500-v1.1:0.2) <lora:CA_Inori_GuiltyCrown:0.85>

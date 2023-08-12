@@ -1,0 +1,1 @@
+absurdres, 1girl, brown eyes, twintails, long hair, white hair, wide-eyed, eyelashes, looking at viewer, <lora:EmoteMakerLora:0.85> twitchemote, upper body, white background, t-shirt, chibi, emote, facing viewer, (:3:1.0), blush

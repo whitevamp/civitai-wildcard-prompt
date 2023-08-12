@@ -1,0 +1,4 @@
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin,1girl,depth of field,ray tracing, <lora:conceptHolographic_holographicClothing:1>,holographic clothing,virgin killer outfit,large breasts, cleavage, navel, (nsfw:1.15),see-through, evening gown,presenting armpit,sexy,sitting,(wide spread legs:1.3), bed,spread legs, panties, blue legwear, lace,see-through legwear, wet clothes, soft shadow,jitome,naughty face,love hotel,high heels
+
+
+ <lora:olivierMiraArmstrongFullmetal_v10:0.6>

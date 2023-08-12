@@ -1,0 +1,1 @@
+<lora:add_detail:1>, masterpiece,best quality, (photorealistic:1.5), (realskin:1.5), 1girl,  <lora:tifoseMix64_s:0.6>

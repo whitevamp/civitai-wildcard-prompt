@@ -1,0 +1,1 @@
+(medium full shot:1.5) full color 4k crisp photograph a (highly-polished chrome bttfdmc) in California at night, <lora:bttfdmcV2:0.8>

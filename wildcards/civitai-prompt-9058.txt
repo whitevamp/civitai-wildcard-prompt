@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait,  (RSEEmma:1.3), <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, Rebellious gothic woman, colorful tattoos, heavy dark makeup, multiple piercings, leather jacket, thong, curvy figure, <lora:breastinclassBetter:0.2>,

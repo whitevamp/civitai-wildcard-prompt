@@ -1,0 +1,4 @@
+photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,
+nsfw, 1girl, young, petite, tartan skirt, thighhighs, glorywall, bent over, full view, lower body, through wall, outdoors, standing, (mugshot on wall), blonde hair, expressionless, thin thighs, ass focus, wet vagina, sweat , trembling, dripping,(anus),<lora:glorywallStuckOnWall_v1:1.4>,
+<lora:B3_realisticVaginasGod_godpussy1V2:0.4>,pussy,rear pussy,
+<lora:A1_jpIDOL_v10:0.2>,<lora:A1_LoveOnLovely_lolStyleV10:0.2>,<lora:A1_DollLikeness_Korean_v15:0.2>,<lora:A1_cuteGirlMix4_v10:0.1>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Taiwan_v10:0.1>,<lora:A1_DollLikeness_Japanese_v10:0.1>,

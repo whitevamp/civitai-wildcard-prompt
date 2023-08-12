@@ -1,0 +1,7 @@
+(ultra high res,photorealistic,realistic,best quality,photo-realistic), (8k, raw photo, best quality, masterpiece), (photon mapping, radiosity, physically-based rendering,automatic white balance), technological sense, best quality, masterpiece, illustration,CG ,unity ,wallpaper, official art, Amazing, finely detail, an extremely delicate and beautiful,extremely detailed, highly detailed, sharp focus,rich background,blurry background, (real person,photograph), vibrant details,  beautiful studio soft light,  
+narrow waist, slim girl,16 years old,young girl
+study room, bright, many bookshelves, many books
+(((high detailed skin,visible pores))),
+light smile, looking at viewer, arms behind back, 
+ ((Big eyes,perfect eyes,watery eyes)), ((red hair,long hair, wavy hair)), (big breasts),
+ <lora:ClothMaid1:0.8>traditional maid

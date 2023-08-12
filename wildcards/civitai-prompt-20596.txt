@@ -1,0 +1,2 @@
+masterpiece,best quality,ultra-detailed, <lora:AMechaSSS[color_theme,mecha musume, mechanical parts,robot joints,headgear]:0.9>,
+1girl,solo, mecha musume, mechanical parts,robot joints,smile,  <lora:nene:1>

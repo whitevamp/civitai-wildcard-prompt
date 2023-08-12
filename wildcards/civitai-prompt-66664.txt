@@ -1,0 +1,1 @@
+full body, masterpiece, best quality, 3d, sexy wizard casting a spell, realistic, hdr, photoreal, whimsical, fantasy environment <lora:blackMageFashion:0.6> mage_glam <lora:hipoly3DModelLora:0.4>

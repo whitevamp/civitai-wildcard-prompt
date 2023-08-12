@@ -1,0 +1,4 @@
+Photo of twojuri in a mystical temple ruins, amidst ancient temple ruins, overgrown with lush vegetation, where she stands in a powerful pose.
+(twojuri, purple eyes, long sleeves:1.1), [evil smile|open mouth], latex jacket. close-up.
+dynamic pose. thong
+<lora:Han Juri SF:0.95>

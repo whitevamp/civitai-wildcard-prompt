@@ -1,0 +1,7 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5><lora:BCop:0.8><lora:GoodHands-vanilla:0.8>
+BCop, close-up,  upper body, harem, female only,
+policewoman,  police uniform, necktie between breasts, crop top, police leotard, armband, 
+3girls,multiple girls, large breast, [evil smile:smirk:0.5],  blush,  black hair,  glasses, 
+alley,
+from below, 
+pov,straight-on,

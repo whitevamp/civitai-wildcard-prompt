@@ -1,0 +1,2 @@
+masterpiece, best quality, high resolution, ultra-detailed, 1girl, embarassed, blushing, looking at viewer, arms behind back, hands behind back, rope, hanging, midair, dangling, bound arms, bound wrists, (suspension:1.8), (floating:1.4), deep cliff, river below, dappled sunlight, 
+rope above chest, rope beneath chest, otn, (nose visible), may \(pokemon\), red shirt, tank top, headband, bow, white shorts, bike shorts under shorts,  yellow footwear, <lora:otn_v2:0.7><lora:May-10:0.7><hypernet:sgqo1n:0.7><lora:May-10:0.7><hypernet:sgqo1n:0.7>

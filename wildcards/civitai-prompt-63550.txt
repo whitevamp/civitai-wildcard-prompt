@@ -1,0 +1,3 @@
+1boy, Sakuragi Hanamichi, High jump, Basketball frame, (Slam Dunk:1.2), On the basketball court,
+<lora:animeoutlineV4_16:0.2>,
+sakuragi sd, sakuragi head, <lora:sakuragi_sd_v1:0.6>, masterpiece, sharp focus, 8k, highly detailed, best quality, ultra detailed, ultra high res, (photorealistic:1.2), (ulzzang-6500:0.5), (pureerosface_v1:0.5),

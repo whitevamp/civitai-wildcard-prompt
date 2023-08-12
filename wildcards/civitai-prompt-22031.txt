@@ -1,0 +1,7 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, solo, large windows, cafe, food, indoors, close up,
+red hair, long hair, blue eye, eyes reflection, smile, full blush, looking at viewer, facing to the side,
+small breasts, nipples, long nipples, puffy nipples, small areolae, pressing breasts, pulling clothes,
+one breast out, pov across table, <lora:StealthOneBreastOut:0>,
+veil, headwear, niloudef, <lora:nilou1_000008:1>

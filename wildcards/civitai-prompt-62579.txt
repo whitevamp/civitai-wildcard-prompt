@@ -1,0 +1,2 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), 1girl, offshoulder, deep shadow, shiny skin
+rim lighting, upper body, (medium breasts:1.4),  <lora:FilmG2:0.2>, white-lace, sexy , <lora:asianGirlsFace_v1:0.3>

@@ -1,0 +1,1 @@
+kkw-ph1 <lora:postapocalypseAI:0.5>, postapoAI, post-apocalyptic, 1girl, <lora:ClothingAdjuster2:-0.5> BREAK Over Exposed, (full body), masterpiece, HDR, best quality, intricate detail, detailed face_and_eyes, realistic hands, sophisticated detail, realistic lighting, centerfold, 8k, full body shot

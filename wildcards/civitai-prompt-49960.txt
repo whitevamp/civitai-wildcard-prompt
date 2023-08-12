@@ -1,0 +1,3 @@
+(masterpiece, best quality, photorealistic, highly detailed skin, perfect female figure:1.2), 8k, highres, __location__, __time__,
+1girl, solo, visible skin pores, (wide hips), __breastsize__, __cam-distance__, __portrait-type__, __head-pos__, __expression__, __topwears__, __bottomwears__, __high-heels__ or __sneakers__,
+<lora:AG-cara:0.66:LyCOFACE>, <lora:atomichips_2:0.8:BODY>

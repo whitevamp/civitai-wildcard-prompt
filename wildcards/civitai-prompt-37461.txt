@@ -1,0 +1,3 @@
+(full_body, photo-realistic:1.30), (spotlight illumination, rich shadows, sparkling bokeh, exquisite details, high-resolution, 35mm film), (palace interior, luxurious backdrop, velvet curtains),
+(1girl solo, blushing, floating long hair, dynamic pose, long legs, loving_viewer), (wedding dress, dazzling accessories, captivating eyes, red lips)
+(medium_breast, nipple perky), <lora:add_detail:1.6>, <lora:weddingdress:0.4>

@@ -1,0 +1,1 @@
+((best quality)), ((masterpiece)), ((realistic)), 3d, blurry, blurry_background, depth_of_field, realistic, unset, water, ((red hair, long hair, arms behind head, nude, shiny skin, looking at viewer))  <lora:add_detail:1>

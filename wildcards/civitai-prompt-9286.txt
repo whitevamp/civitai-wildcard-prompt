@@ -1,0 +1,5 @@
+(very detailed background:1.0), (highly detailed background:1.0), (Masterpiece), High Quality, (1girl),
+<lora:AngelBeats_Yuriv2-04:0.35>,  <lora:AngelBeatsStyle:0.2>, mature women:1,
+Angelbeats_Yuri, pink hair, green eyes, hairband, medium hair, thighhighs, black thighhighs, zettai ryouiki, hair bow, (blush, blush lines:1), looking at viewer,  (huge breasts:1),
+SSS_Uniform,  white and blue uniform, medium skirt, blue skirt, midriff, navel,
+bedroom, bed, bedsheets, nervous, shy, embarrassed, lying on bed, on back, view from above, crying, tears, nsfw, sideboob, nipples, spread legs, open shirt, <lora:povMissionaryVaginal_v1:0.7>, sex, penis, vaginal sex, pussy juices, pussy, sweat, sweaty, sweaty skin,

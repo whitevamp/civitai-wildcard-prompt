@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl,  <lora:erisGreyratLora_v10:0.8> eris_greyrat, 
+ <lora:yuukiNobuteru1990_offset:0.8> yuuki nobuteru, 1990s \(style\),

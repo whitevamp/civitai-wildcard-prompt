@@ -1,0 +1,1 @@
+woman, depths-fc, undersea, 1girl, scuba, pretty face, vivid colorful hair, huge breasts, large breasts, bodybuilder, VFX,FXAA,TXAA,RTX,SSAO,Shaders,Denoise, De-Noise,Cel Shading,Tone Mapping,Ambient Occlusion, Moonlight, depths-fc, <lora:depths-fC_v1.1:0.6>

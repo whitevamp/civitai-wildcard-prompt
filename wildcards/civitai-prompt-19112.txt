@@ -1,0 +1,3 @@
+Ultra HD, depth of field,(masterpiece, best quality, high quality, highres, ultra-detailed), 
+beautiful landscape,mountain, 
+ <lora:shanhaishijieV1:1>,perspective,  <lora:MoXinV1:0.5>, shuimobysim, badashanren, <lora:shukezouma_v1_1:0.5>, shukezouma,no humans,

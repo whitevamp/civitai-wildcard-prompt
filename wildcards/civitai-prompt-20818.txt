@@ -1,0 +1,1 @@
+(medium shot:1.3), a woman walking in a city,   techwear, shibuya tokyo, accessories, necklace  <lora:Egyptgodpunkv.4:1>

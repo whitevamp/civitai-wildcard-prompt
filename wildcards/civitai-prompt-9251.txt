@@ -1,0 +1,1 @@
+masterpiece, best quality, 4girls, from bottom, sitting, blonde, pigtails, detailed eyes, (slingshot swimsuit,red one-piece swimsuit:1.1),(pubic hair:1.4),open mouth,(smile:1), breasts, (crowd cheering:1.4), (looking at viewer:1),concert stage, <lyco:MISC-MultipleGirls:1:1> <lyco:Slingshot_V_Conv2D:0.8>

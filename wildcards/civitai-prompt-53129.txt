@@ -1,0 +1,6 @@
+masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, (1boy), 1girl ass, anus, barefoot, feet, lying, on_back, on_stomach
+Appearance: milf:1.25, big_breasts, slender, skinny, sweat
+Clothing: nude. naked
+Hair: {long_blonde_hair}, messy_hair
+Location: indoors, hall, sofa
+<lora:impliedFellatioLora_v10:0.75>

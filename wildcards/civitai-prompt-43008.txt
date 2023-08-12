@@ -1,0 +1,1 @@
+1girl wearing bare shoulders, portrait, realistic, sidelighting, wallpaper, nsfw, half body, sit, chair, coffee, city background<lora:fashionGirl_v54:0.3> <lora:daili_v20:0.3> <lora:ran:0.2>

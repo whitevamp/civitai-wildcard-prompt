@@ -1,0 +1,5 @@
+((masterpiece)), (best quality), hires, 1girl, cyborg girl, orange hair, orange eyes, short twintails, hair ornament, (medium breasts), looking at viewer, pale skin, ((emotionless, loneliness, sadness)),
+close up, accent lighting, faded, misty soft colors, (soft focus:1.1) (from below:0.5),
+[mechanical limb], (black plastic cyborg arm:1.1), shirt, leggings,  boots,
+outdoors, sitting on a concrete wall, cyberpunk, city, neon signs, neon light, garbage on the street, poverty, day,
+<lyco:GoodHands-beta2:1.0>   <lora:AliceLoraV2SD1_5V2:0.6>

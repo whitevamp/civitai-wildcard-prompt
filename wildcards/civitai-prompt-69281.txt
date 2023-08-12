@@ -1,0 +1,5 @@
+(Highest quality:1.3), cinematic shot, masterpiece, (sharp focus:1.5), (photorealistic:1.3),
+1man, masculine, half dwarf half ogre walking down a dirt road towards the viewer, grey eyes, tattoos, forest, gloomy, trees, fantasy,muscular,
+ (highly detailed skin), (detailed face), detailed background, dark lighting, twilight lighting, volumetric lighting, intricate details, UHD, 
+<lora:epiNoiseoffset_v2:1.5>
+ <lora:jensen_ackles :0.8> jensen_ackles,  full body, pecs, abs, biceps,

@@ -1,0 +1,7 @@
+(highres, high quality:1.2), intricate details, vibrant image, colorful, cinematic lighting, sharp depth of field, 
+Ingrid, 1girl, mature female, dark-skinned female, running, battle, battoujutsu stance, (holding:1.1) glowing sword, hand on floor, swinging, full body, cityscape, night, city light, 
+scowl, clenched teeth, 
+pink red hair, very long hair, hair intakes, makeup, lipstick, (mole under mouth:0.8), eyelashes, yellow eyes, detailed eyes, perfect face,
+helloutfit, (red cape:1.05), black turtleneck, underboob, elbow gloves, (coattails:1.1), revealing clothes, center opening, highleg panties, thigh boots, (multicolored clothes:1.1)
+midriff, navel, large breasts, areola slip,
+<lora:IngridV2:0.9>

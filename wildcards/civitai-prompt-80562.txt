@@ -1,0 +1,6 @@
+<lora:onOff3:1>,<lora:onoffunder:1>,ONOFFUNDER,ONOFF,side-by-side photo of doctor costum girl,SIDE-BY-SIDE PHOTO,
+best quality ,masterpiece,ultra high res,(photo realistic:1.4),looking at viewer,smile,1girl,25yo,standing on ,upperbody,mole around the eye
+in hospital,row of beds,
+japanses famous actress, very beautiful,kawaii,(huge breasts:1.2),setup hair, cutter shirt, tight mini skirt,dark color hair,
+doctor, stethoscope,Neat and clean,white coat,
+break Cinematic, 35mm lens, f/ 1. 8, accent lighting, 8k,

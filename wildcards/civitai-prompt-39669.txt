@@ -1,0 +1,1 @@
+<lora:AbstractPattern:1> AbstractPattern drink

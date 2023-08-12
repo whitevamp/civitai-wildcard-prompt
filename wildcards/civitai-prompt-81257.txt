@@ -1,0 +1,2 @@
+Vast Mecha-Lion, no human interference, golden metal mane, black eye sensors, desert wasteland, sandstorm, laser mane attack, territorial disputes, havoc, ruined ancient civilization background, (evening), somber, lightless, comet streaked night sky,
+<lora:Niji:0.6>  <lora:3DMM_V10:0.1>

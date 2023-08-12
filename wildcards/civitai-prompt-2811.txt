@@ -1,0 +1,3 @@
+portrait of a muscular male general ,ornate military general's uniforms  , inside a room beside a table with a map, penis,     large shoulders, game_cg,  
+   muscular man,masterpiece,best quality,detailed,  beard, short hair,   intricate detail,hairy, pubic hair,  (looking at viewer:0.7),  
+,   <lora:128dimTurbomaleV7_128:1>   <lora:APL_T2_L-000012:.42>

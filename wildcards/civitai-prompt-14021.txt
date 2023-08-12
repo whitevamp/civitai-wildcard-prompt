@@ -1,0 +1,1 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, ,wide shot, 1girl, from behind, silhouette, standing, (light particles), grass, space, night sky, (fish-eye lens), lofi color, neon color, <lora:LofiColor:0.65>

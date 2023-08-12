@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), from behind, ass focus,
+1girl, wakakusa moena, surgical mask, heart pattern, green eyes, hair ribbon, cross earrings, blonde hair, school uniform, plead skirt, looking at viewer, outdoors, (blush:1.2), city, stairs, street, bridge, sunny, blue sky, (crowd:0.5), (cardigan:1.2), panties, bag,
+ <lora:Kizuki - Super HxEros - Wakakusa Moena:1>

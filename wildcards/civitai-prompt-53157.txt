@@ -1,0 +1,7 @@
+best quality, intricate details,, best quality, intricate details,
+
+1girl,   <lora:ninomaeInanisHololive_v2:0.8> ninomae ina'nis,  tentacle hair,
+
+
+
+ <lora:R18GAmputeeLimbless_v10:0.8> limbless, amputee,  bandages, nude, completely nude,

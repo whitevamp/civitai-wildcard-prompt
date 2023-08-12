@@ -1,0 +1,1 @@
+<lora:koreanDollLikeness_v10:0.4>, <lora:taiwanDollLikeness_v10:0.3> , best quality, ultra high res, (photorealistic:1.4), 1girl, shapely, (naked), (slim waist), Kpop idol, aegyo sal, ((puffy eyes)), cute, petite, (silver hair), ((pubic hair))

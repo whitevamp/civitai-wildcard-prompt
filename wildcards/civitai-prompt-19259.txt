@@ -1,0 +1,6 @@
+(highres, best quality:1.3), sharp focus, professional artwork,
+NijouShizue, solo, mature female, (hands on cheeks:1.4), blush, flirting, squining, looking at viewer, cowboy shot, green park, summer, sunny weather, trees, grass,
+(blonde hair, short hair, single hair bun:0.8), makeup, lipstick, blue eyes, perfect eyes, perfect face, detailed face, jewelry, cross earrings, choker
+black pantyhose, (corset:0.7), (open white shirt:1.1), white pencil skirt, belt,
+large breasts, cleavage,
+ <lora:NijouShizue-000009:0.82>

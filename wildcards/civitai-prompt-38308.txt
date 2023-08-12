@@ -1,0 +1,3 @@
+(best quality:1.2), kate, hair flower, hair ribbon, very long hair, two side up, black hair, shadow people, black silhouette, black skin, nude, thigh gap, solo, red flower, (rose:1.1), bedroom, (blurry background:1.2), window, depth of field
+<lora:katev1:1>
+<lora:red_theme01:0.8>

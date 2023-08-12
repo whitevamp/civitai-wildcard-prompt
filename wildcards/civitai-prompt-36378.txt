@@ -1,0 +1,5 @@
+best quality, masterpiece, ultra high res, photorealistic, 1girl,  smile, perfect face, beautiful face, beautiful eyes, ((perfect female body, narrow waist)), fantasy, dreamlike, unreal, science fiction,1girl,
+(best quality, masterpiece, colorful, dynamic angle, highest detailed)extreme detailed, highest detailed),
+style of Alessio Albi,Ultra-realistic 8k CG,masterpiece,best quality,(photorealistic:1.4),HDR,absurdres,Professional,RAW photo,lens flare,(film grain:1.1),Bokeh,((Depth of field)),studio light,1girl,parted bangs,hair between eyes,full body,half sitting,looking at viewer,seductive smile,((Playboy Bunny:1.4)),(skirt lift:1.1),(spread legs:1.1),((half seated)),sitting,(sexy lingerie:1.2),breasts out,expose the pussy,(high heels:1.2),((black stockings:1.2)),(((nsfw:1.35))),collar,messy hair,(revealing thighs:1.2),(provocative pose:1.2),((bar background:1.2)),sensual atmosphere,(tattoo:1.3),Highly detailed,Professional,extreme detail description
+<lora:midJFace_12e-5_korea:0.4> <lora:sd-No.131:0.3> <lora:epiNoiseoffset_v2:0.8>  ,
+from below,low-angle view,subject look down,(EOS R8,50mm,F1.2,8K:1.2),

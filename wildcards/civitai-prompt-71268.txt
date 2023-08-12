@@ -1,0 +1,1 @@
+Highly detailed RAW color Photo,masterpiece, best quality, 1girl, looking at viewer, skin tight transparent vinyl, beautiful big eyes, pale skin, face camera, from below, smooth, sharp focus, dramatic lighting, in a packed stadium, <lora:quorraTronLegacy_v10:0.6> quorra, <lora:animeLineartMangaLike_v20Offset:0.01> lineart, simple background, (close-up:1.2)

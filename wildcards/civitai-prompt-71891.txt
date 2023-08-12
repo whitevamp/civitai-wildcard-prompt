@@ -1,0 +1,1 @@
+1girl, solo , kawaii small, embarrassed, standing split, portrait, immemorial, milky way, spacecraft, universe ,  <lora:HertaStarRailV1:1.05>, hertasr, dress , <dollgirl:1.2>, beret,  <lora:standingFullBodyWithBackgroundStyle_v10Offset:0.6>

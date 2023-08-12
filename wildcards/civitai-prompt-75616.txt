@@ -1,0 +1,5 @@
+1girl, solo, gardevoir, creatures \(company\), game freak, nintendo, pokemon, pokemon \(game\), bangs, colored skin, female focus, gen 3 pokemon, green hair, green skin, hair over one eye, multicolored skin, pokemon \(creature\), red eyes, short hair, two-tone skin, white skin,  <lora:gardevoir_v2:0.8> white microskirt, medium breast,
+masterpiece, (best quality, perfect detailed, detailed eyes) DOF, HDR, 
+full body, close up, autumn, forest, trees,
+(sitting on rock, blushing, seductive, wet)
+ <lora:Water-000010:0.6>

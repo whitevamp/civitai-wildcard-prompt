@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl,       <lora:Zatanna_YJ:0.8> Zatanna, black jacket, bowtie, white vest, fishnet pantyhose, top hat

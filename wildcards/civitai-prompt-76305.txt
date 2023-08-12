@@ -1,0 +1,1 @@
+<lora:Mr_MC_indoorV1:1.1>,Mr_MC_indoorV1,blue,(art exhibition), concept art

@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl,yaemiko,pink hair, 
+<lora:pixel_4:0.5> <lora:yaeMikoRealistic_yaemikoFull:0.8>

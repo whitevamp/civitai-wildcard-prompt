@@ -1,0 +1,1 @@
+masterpiece, best quality, aerith gainsborough, hair ribbon, feather cape, navel, pelvic curtain, cowboy shot, looking at viewer, smile, flower patch, cowboy shot, standing <lora:harrieroutfit-nvwls-v1-000012:1> <lora:aerith-nvwls-v1-final:0.7>

@@ -1,0 +1,3 @@
+nsfw, (autumn night), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 
+1girl,(dark photo:1.3), photorealistic, 1girl, layered cut with bangs, brown long hair, stunning sexy symmetry face, long sleeve crop top, beige colour, midriff peek, off shoulder, long sleeves, emotional, ulzzang, (PureErosFace_V1:0.7), cinematic lighting, motion blur, silver heart-shaped necklace,
+<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia2:0.4>,

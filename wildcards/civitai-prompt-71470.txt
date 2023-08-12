@@ -1,0 +1,5 @@
+masterpiece, best quality,
+1boy, boat, ocean, caustics, wave
+pointing,  happy
+pirate hat, eyepatch, flintlock
+<lora:COOLKIDS_MERGE_V2.5:0.7>

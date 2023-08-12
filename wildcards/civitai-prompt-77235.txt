@@ -1,0 +1,1 @@
+8k portrait of beautiful korra, hair tubes, water, ponytail, long hair, topknot, intricate, highly detailed, digital photography, art by artgerm and ruan jia and greg rutkowski surreal, (masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), hdr, <lora:KorraV2:0.6>  <lora:add_detail:0.3>  <lora:hipoly_3dcg_v7-epoch-000012:0.2> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>

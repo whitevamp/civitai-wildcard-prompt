@@ -1,0 +1,4 @@
+photography, masterpiece, best quality,HDR, highres,realistic details,
+8K, HDR, highres, absurdres,
+Temple Street, 1girl fighting stance,cammy white, blue eyes, blonde hair, long hair, twin braids, red headwear, green leotard, fingerless gloves, harness, thighs, red socks, black footwear, ahoge, cowboy shot, looking at viewer, gigantic breasts,
+,(high_kick:1.2), <lora:cammy whiteV1:1>

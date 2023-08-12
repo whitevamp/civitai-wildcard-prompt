@@ -1,0 +1,3 @@
+ionojacket,1 girl,pink eyes,solo,smile,open mouth,fangs, <lora:ionoPokemon_v10:1>
+
+ <lora:kaamin [alpha128 3e-5]:1>

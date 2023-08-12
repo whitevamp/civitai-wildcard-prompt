@@ -1,0 +1,1 @@
+Masterpiece, absurdres, fine detail, HDR, highly detailed face and eyes, photorealistic,excited, <lora:m3d:0.75>, beautiful m3d_woman, a woman in a short dress posing for a picture , perfect m3d_body, perfact m3d_face

@@ -1,0 +1,1 @@
+highres,(intricate details:1.2),(perfect details), unity CG 8K wallpaper,masterpiece,1girl, furry, anthro, caracal,caracalcat,ningmao,adorable, nude, <lora:add_detail:0.4>   <lora:aki:0.9>

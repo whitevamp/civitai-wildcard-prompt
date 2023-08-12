@@ -1,0 +1,1 @@
+masterpiece, intricate details, ff14style, painting of city, bridge, rivers, giant mushrooms, landscape, vivid colors,  <lora:FF14 ArtV2:0.8>

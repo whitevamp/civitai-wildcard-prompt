@@ -1,0 +1,1 @@
+cracker, geek, Death heavy metal rock, street dance, Hip-hop, fashion clothes, standing pose, cool shoes, baggy pants, korean, cyberpunk, neon background, neon city, flying cars, glow in dark, reflections, puddle, glass, cars <lora:wong kar wai:0.6> <lora:cyberdead2:0.4>

@@ -1,0 +1,1 @@
+<lora:more_details:0.9>,  sp4c3w0m3n , <lora:pulpLadiesOG2v1:0.7>, 20 year old ginger woman with red hair and glasses posing in spacesuit with ((skirt)) and space helmet ,from angle, on space station,<lora:unhorny_v01:-1> <lora:ClothingAdjuster2:-0.4>,

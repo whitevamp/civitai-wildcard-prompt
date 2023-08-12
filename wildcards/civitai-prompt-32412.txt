@@ -1,0 +1,5 @@
+masterpiece, best quality, absurdres, (contrasting colors:1.2), vivid color, saturated, dynamic pose
+1girl, solo, black hair, big breasts, long hair, pink eyes
+BREAK
+partially unzipped, white sweatshirt, white bow, bunny ears, 
+simple background, magenta background <lora:NakedHoodieV1:0.6> naked hoodie,

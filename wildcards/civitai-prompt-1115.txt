@@ -1,0 +1,7 @@
+Style: { (masterpiece:1.2, best quality, blue_and_navy_color_tone:1.3, vivid_colors) } BREAK
+Composition: { 1girl, cute, squatting } BREAK
+Hair: { long_blonde_hair } BREAK
+Appearance: { mature female, athletic, slim, slender, fit, small_breasts, green_eyes } BREAK
+Clothing: { sleevemesh, sheertop:1.3, blue denim miniskirt, nipples } BREAK
+Behavior: { warm smile } BREAK
+Loras: { <lora:add_detail:.5>, <lora:fishnets:1> }

@@ -1,0 +1,1 @@
+photorealistic, masterpiece, highres, highly detailed, Post-apoc, postapoc_character, ruined_cityscape, cityscape, indoors, night_sky, night, moon, light, indoors, ((bedroom, rubble, dark )),  ((((1girl,asukaLangleySohryu,plugsuit 02, interface headset,dirty)))),  <lora:ApocalypseEngine2:0.6>,  <lora:souryuuasukalangleyV9:1>, <lora:add_detail:1>

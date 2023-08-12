@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, (RSEEmma:1.5), smile, blue eyes,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, nude, naked, chalkboard,  <lyco:MultipleGirlsGroup:0.18>, <lora:blackboard:1>, harem, 4girls, chalk, art, huge breasts,  cleavage,  :), smile,

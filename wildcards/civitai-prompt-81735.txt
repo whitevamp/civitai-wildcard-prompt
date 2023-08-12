@@ -1,0 +1,4 @@
+<lora:sd-No.158-000014:0.7:face>
+light smile,
+(best quality), (masterpiece), ultra highres, 8k, realistic, (photorealistic: 1.4), from back, highly detailed background, (pureerosface:0.8), 1girl, looking at viewer, , hair ornaments, (titian) hanfu, hanstyle, han clothing, standing, medium breasts,  (open clothes),pussy, ((((NSFW)))), bare legs 
+<lora:hanfu2.8:0.7><lora:Velvia1:0.3> <lora:breastinclassBetter_v141:0.2>

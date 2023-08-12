@@ -1,0 +1,1 @@
+candid RAW portrait photo of body horror, disgusting creature, <lora:BodHor-V3P:0.6> (at night:1.3) in a dark forest, Fujifilm Fujichrome Velvia 100 film, dof, high definition, detailed, intricate, flashlight <lora:flashlightphoto_v1.5a:0.8>

@@ -1,0 +1,1 @@
+cute_lamps, shaped lamp, (glowing:1.3),   <lora:cute_lamps:1> <lora:lora:1> vivi, vivi ornitier, ((gloves)), full body, surprised, large eyes, glowing body,

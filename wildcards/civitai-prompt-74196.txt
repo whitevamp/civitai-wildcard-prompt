@@ -1,0 +1,2 @@
+1 japanese girl , samurai armor,oni mask,  long hair, night, dark, dim light  cyberpunk , eye shield, glowing eyes, glowing armor,  Torii
+ <lora:nijiMecha:0.9>   <lora:add_detail:1>

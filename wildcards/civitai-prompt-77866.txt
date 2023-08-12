@@ -1,0 +1,3 @@
+<lora:add_brightness:0.5><lora:add_detail:0.5> <lora:add_saturation:0.5><lora:capi-09:0.8><lora:hair_censorship:1><lora:ellenbaker:1>
+ellenbaker, beautiful, closed mouth,  long straight hair,   hair censor , hair over breasts,bikini, SFW
+capybara,

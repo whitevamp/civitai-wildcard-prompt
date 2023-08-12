@@ -1,0 +1,8 @@
+RAW, 1girl, colorful, (masterpiece, best quality:1.3), (absurdres:1.3),  <lora:koreandolllikenessV20_v20:0.3>, 
+(photorealistic:1.3),  (detailed skin:1.3, detailed face:1.3),  arms behind head, sitting, looking at viewer, 
+(korean beauty:1.3), (mature female:1.2), sharp_focus, (face_lighting:1.3),
+(gigantic breasts:1.3, thick thighs, narrow :1.1), (shiny skin:1.4), 
+(black_and_navy_gradient hair:1.2), straight hair, seductive smile, 
+(big_eyes:1.2, brown_eyes), (brown_ particle_eyeshadow:1.2), pink_lips, 
+black_lace_corset, (frilled_lace_microskirt:1.1), lace highleg leotard,   garter belt, lace arms gloves,  lace choker, black_hair ribbon, 
+wooden_balcony, night, night sky,

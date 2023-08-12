@@ -1,0 +1,5 @@
+1girl, solo, 
+red eyes,  (tsurime:1.1), black hair, mole under eye, freckle, lips, eyebrows,
+white dress, 
+hair flower, east asian architecture, 
+ <lora:add_detail:-0.35>,  <lora:Isometric_Chinese_style_architecture_v1:0.8>,  <lora:SilvermoonMix04:0.3>

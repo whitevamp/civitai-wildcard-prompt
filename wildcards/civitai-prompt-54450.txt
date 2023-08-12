@@ -1,0 +1,1 @@
+3D,3D render, global illumination, action shot, subsurface scattering, Princess_Peach (holding tennis racket),wearing pink tennis skirt, wearing chunky white sneakers, wearing white stockings, wearing cropped top, tennis ball, exposed stomach, 1girl, blonde hair, , simple background, <lora:peach:0.6>

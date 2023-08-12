@@ -1,0 +1,1 @@
+masterpiece:1.2, best quality, 3 girls, wedding dress, blonde hair, long hair , standing, smiling, fully body, front view, front view, POV,  TPose, outstretched arms,  <lora:TPose:0.8>,  <lora:threeheads-v1:1.0>, ((three heads, 3head):1.5)

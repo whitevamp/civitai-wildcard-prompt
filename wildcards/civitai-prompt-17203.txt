@@ -1,0 +1,10 @@
+(masterpiece), (ultra high resolution), (best quality), (extremely detailed), (highres),
+(realistic:1.1), photo, photorealistic, highly detailed, detailed face,
+high contrast, charming,
+2girls, lineup, harem,
+cute girl, breasts, (shiny skin:1.1),
+looking at the viewer,
+((shirtlift)), cleavage, (miniskirt, thighs:1.3),
+<lora:shirtliftv1:0.6>,
+(cum on breasts, too much cum on body:1.3),
+(cum string, ejaculation, cum on breasts, cum on tits, taking a cumshot on her breasts, cumshot:1.4) <lora:cumshot_49:0.4>

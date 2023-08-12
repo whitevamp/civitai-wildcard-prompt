@@ -1,0 +1,4 @@
+(best quality, high quality, masterpiece, high resolution:1.5), detailed background, realistic, photorealistic
+(one woman), big breasts,
+crop top
+ <lora:frd:0.8>, beautiful frd_woman, perfect frd_face, perfect frd_body

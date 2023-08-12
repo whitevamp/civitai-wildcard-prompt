@@ -1,0 +1,13 @@
+a beautiful doctor woman sitting on a steel stool next to a clean desk, (white hospital interior, clean),
+
+(ultra realistic, 8k, best quality, masterpiece, realistic, photorealistic), high quality, ultra-detailed, Highly detailed,
+
+(long black hair), hazel eyes, ulzzang-6500-v1.1, iu1,
+
+smiling,  pleasure, looking at viewer,
+
+(perfect female body, athletic:1.2), large breast, slim, (high detailed skin:1.2), pussy, <lora:realisticVaginasGod_godpussy1:0.15>, <lora:breastinclassBetter_v141:0.4>,
+
+(open white lab coat, open white lace bra, open white lace panties), ((stethoscope)),
+
+fluorescent light, <lora:lightAndShadow_v10:0.6>,  <lora:iu_V35:0.8>

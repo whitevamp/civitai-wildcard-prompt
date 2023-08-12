@@ -1,0 +1,4 @@
+1 giant robot  crouched on a destroyed building, glowing eyes,silver reflective mech armor, 
+night,dim light, neon lights, cyberpunk, raining, smokes,
+complex 3d render ultra detailed   absurdres, highres, 8k, CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detailed, best quality, boken, depth of field
+ <lora:epiNoiseoffset_v2:1>

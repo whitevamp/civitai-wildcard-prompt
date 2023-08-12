@@ -1,0 +1,2 @@
+real, photoshoot, realistic, luminescent, atmospheric scene, masterpiece, best quality, (detail skin texture, ultra-detailed body:1.1), RAW photo, (high detailed skin:1.2), 8k uhd, dslr, film grain, Fujifilm XT3,
+<lora:melissabenoist_smf_lora_02-000001:0.9>, 1girl, melissabenoist-smf, smile, jewelry, earrings, blonde hair, grin, realistic, looking at viewer, long hair, bare shoulders, solo, blurry background, looking back, blurry, teeth, car, ground vehicle, photo background, belt, dress

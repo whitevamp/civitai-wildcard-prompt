@@ -1,0 +1,1 @@
+masterpiece,1girl,chinese clothes, opera costumes <lora:ChineseOperaCostumes_v10:0.6>

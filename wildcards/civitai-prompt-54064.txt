@@ -1,0 +1,5 @@
+masterpiece, best quality,
+1girl, blush, troubled,
+very Short-haired, boyish girl, shy expression but enjoying, modernized china dress, lively cosplay cafe background, various costumed students, classroom decorations, festive atmosphere, vivid and bright colors reflecting the fun ambiance of the cultural festival,
+ detailed skin texture, detailed cloth texture,  beautiful detailed face, intricate details, ultra detailed, 
+ <lora:hipoly3DModelLora_v20:0.4:NCNF>,

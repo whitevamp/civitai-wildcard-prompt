@@ -1,0 +1,6 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, ((looking at viewer:1.2)), portrait, breasts squeezed together, arms up, nightclub, club, dress, red lips,
+realistic, (photorealistic),
+slim, small breasts,
+((center)),
+ <lora:Elbow Squeeze LoRA:0.63>
+ <lora:breastinclassBetter_v141:0.2>

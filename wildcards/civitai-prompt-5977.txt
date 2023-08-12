@@ -1,0 +1,2 @@
+pectorals,male,male focus,  forest,rain, chest tattoo, open open clothes, blood on face, gun on hand,
+<lora:Bara-10:0.55>,<lora:chris:0.8>,<lora:pyramid head:0.5>,<lora: <lora:priapus:0.5>

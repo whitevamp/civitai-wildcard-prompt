@@ -1,0 +1,6 @@
+best quality, masterpiece, upper body,
+woman, freckled face,
+windblown blonde hair,
+emerald eyes,
+modern strapless dress
+  <hypernet:sxzBloom_sxzBloom:0.5>

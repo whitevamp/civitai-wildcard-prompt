@@ -1,0 +1,3 @@
+<lora:constricted_pupils_v0.2a:1.0> 
+1girl, constricted pupils,
+<lora:sono-bisque_v4.0b:1> kitagawa marin, kitasch, open mouth, angry,, masterpiece, best quality, highly detailed

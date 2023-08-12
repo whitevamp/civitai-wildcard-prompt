@@ -1,0 +1,1 @@
+onoff, side-by-side photo of 20yo female cheerleader holding pompoms, (at a sporting event:1.2), full body shot, (best quality), 4k highly detailed digital extremely high quality RAW photograph, photo-realistic, sharp focus, 4k, analog style, <lora:onOffLora_v326:1> <lora:thatsMyBush_v10:0.4>

@@ -1,0 +1,2 @@
+charming, black eyes, 1girl, face,
+<lora:add_detail:0.5> <lora:hipoly_3dcg_v7-epoch:0.1>  <lora:Dalcefo_v3_Painting_Kappa-LoRA300:0.1> <lora:epi_noiseoffset2:0.2> <lora:LowRA:0.2>

@@ -1,0 +1,2 @@
+((masterpiece)), ((best quality:1.2)), high resolution, 8k, (ultra_realistic:1.3), (photorealistic:1.4), (absurdres), sharp focus, highly detailed, (high quality), (masterpiece), handsome guy, 25 years old,  naked torso, an angel, big white wings behind his back, (soars in the sky:1.4), smiles, hair under the navel, (in a golden loincloth:1.5), green eyes, fluffy clouds on the background, muscular, thin, abs, light gray short hair, full body, soft light, front light, rim light,
+<lora:add_detail:1> <lyco:GoodHands-beta2:1.0>

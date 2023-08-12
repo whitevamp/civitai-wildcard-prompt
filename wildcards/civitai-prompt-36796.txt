@@ -1,0 +1,1 @@
+pina_sformkran_estor, school uniform, classroom, standing, twintails, upper body, facing viewer,   <lora:pina_sformkran_estor_v1:0.8>, masterpiece, best quality

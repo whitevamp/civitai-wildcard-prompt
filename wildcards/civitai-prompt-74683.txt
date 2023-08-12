@@ -1,0 +1,4 @@
+nikon RAW photo,8k,HDR,Fujifilm XT3,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,cinematic lighting,gril,(full body:1.2),1girl,solo,(large breasts:1.4),earrings,(dynamic pose:1.4),happy,smile,looking down,
+room,Lying on the bed,(sleeping:1.4),(lightgray medium princess_head:1.7),See the feet,
+(coral shirt:1.6),
+(WHITE PANTYHOSE:1.4),<lora:sd-No.179-000014:0.6>,<lora:whitestocking:0.7>,

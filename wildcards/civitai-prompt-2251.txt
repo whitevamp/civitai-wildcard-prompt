@@ -1,0 +1,2 @@
+avali, bandana, portrait, painting, hi one hand sign, feather in the background, colorful background, 3/4 view, three-quarter view, swaggy, smiling, techwear hoodie, cute
+<lora:vrcfurry_v3.1:1>  <lora:gachaSplashLORA_gachaSplash31:1>

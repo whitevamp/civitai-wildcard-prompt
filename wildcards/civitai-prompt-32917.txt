@@ -1,0 +1,1 @@
+8k, realistic, vray, HDR,  6000K, on a post-apocalyptic power plant, still turbines, broken control room, crumbling cooling tower. <lora:PostApocalyptic_v4:0.6> SZ_4po enviroment

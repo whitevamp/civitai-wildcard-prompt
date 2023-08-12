@@ -1,0 +1,26 @@
+(masterpiece:1.4), extremely delicate, (ultra realistic:1.3), (realistic:1.2), (hand by Guido Daniele:1.3), (perfect female fingers:1.4),
+(looking at viewer:1.4), (facing viewer:1.3), (facing front:1.3), (facing camera:1.4), (front portrait:1.4), (full body shot:1.4),
+(by lee jeffries nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten),
+(absurdres:1.2, film grain:1.2, Kodak portra 400, bokeh:1.2, dramatic shadows, vibrant color:1.2, professional lighting, studio lighting, cinematic lighting, photon mapping, radiosity, physically-based rendering, highly detailed background:1.2, intricate background:1.2, beautiful background, complex background, blurry background, cinematic lighting:1.3, (caustics:1.2), (lens flare:1.2), (best shadow), (best illumination), (depth of field), (cold attitude), soft lighting, beautiful lighting, side light),
+(photorealistic:1.4), 8k, 8k uhd, HDR, 8k resolution, RAW photo, best quality, dslr, (ultra highres:1.4), (style-keta:0.8), (instagram most viewed:1.3), RAW photograph, trending on CGSociety,
+
+(1girl:1.4), (nsfw:1.3), 
+
+(standing:1.5), (perfect body:1.4), (skinny body:1.2), (tall body:1.1), (goutou:1.3),
+(attractive:1.4), (seductive:1.3), (alluring:1.2), (supermodel:1.3), (superstar:1.2), (model posing:1.3), (kpop idol:1.1), (beautiful woman:1.3),
+(high detailed skin:1.2), real skin texture, (shiny skin:1.1), (skin pores:1.3),
+
+(make up:1.4), (detailed face:1.4), (thin face:1.3), (the pointed face:1.3), (tear mole:1.2), (mouth mole:1.1), blush, (exotic face:1.3),
+(heavy eye makeup:1.5), shiny eyes, big beautiful eyes, (detailed eyes:1.2), half-closed eyes, beautiful eyes, eyelines, brown eyes, puffy eyes, detailed eyeshadow, red eyeshadow, fog eyebrow, rendered eyes,
+earrings, lip gloss, (smile:1.3), (smug:1.2), (smiled mouth:1.1), (straight hair:1.4), (long hair:1.3), (hair blowing in the wind:1.2), 
+
+(medium breasts:1.4), (breasts out:1.5), (medium round boobs:1.4), (natural breast:1.2), (cleavage:1.4), (puffy nipples:1.2),collarbone, (wide shoulders:1.3), (slender waist:1.4),
+(biceps:1.2), (muscular arms:1.2), (abs:1.1), (six-pack abs:1.5), (navel ring:1.5), 
+
+
+(slender legs:1.4), (slim leg:1.5), (skinny leg:1.2), (very long leg:1.3), (dripping pussy juice),(lots of cum dripping down), (dripping pussy juice), (Woman wearing a white fabric garterbelt with frilled black embroidery), (multiple fabric straps),
+
+(indoors, cityscape), skyscraper,  (highly detailed background:1.2), (intricate background:1.2), (cinematic lighting:1.3), (caustics:1.2), (lens flare:1.2),
+(best shadow), (best illumination), (depth of field), (cold attitude), soft lighting, beautiful lighting, side light, 
+
+<lora:garterBelts_v10:0.6> <lora:aiBeautyIthlinni_ithlinniV1:0.1> <lora:20denBlackPantyhose20D_v10:0.3>

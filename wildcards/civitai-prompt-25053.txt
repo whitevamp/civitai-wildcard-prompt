@@ -1,0 +1,3 @@
+portrait, (masterpiece:1.1), (highest quality:1.1), (HDR:1.0), <lora:add_detail_v5:1> <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult (elven:0.7) woman,  yellow eyes, dark red waterfall braid,
+portrait, looking down, solo, upper body, detailed background, (<lora:DruidMagicAI:0.5>, DruidMagicAI, druidic theme:1.1), light smile, witch hat, witch, magical atmosphere, hair flowing in the wind, yellow trimmed dark colored clothes,  colorful whirlwind of glowing  spell in the air,  dark magic, (style-swirlmagic:0.8), floating particles, desolate battlefield background, updraft,  dim light,

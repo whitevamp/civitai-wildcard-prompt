@@ -1,0 +1,1 @@
+1 girl,  supermansuit, blue bodysuit,cape,  <lora:superyouya0:1>

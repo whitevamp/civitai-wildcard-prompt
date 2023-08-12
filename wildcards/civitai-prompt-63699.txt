@@ -1,0 +1,4 @@
+ultra high res cg,ultra res photo,(best quality, masterpiece:1.2),realistic, ultra-detailed,style of a idol(Kpop idol),face highlight,gradient background, blurry_background, depth_of_field,((nsfw)), 
+1girls,in summer,nature light,clear and clean water,a beautiful nude girl bathing in the water,(wet full_body:1.5),sunshine on body,(fair skin:1.2),Tender skin,shiny skin,(Perfect large breasts),blush,(seductive red lips:1.3)Seductive posture,(legs open:1.4),(Perfect vulva:1.2),Female pubic hair,necklace,earrings,flower on water,
+<lora:fashionGirl_v45:0.2>,<lora:taiwanDollLikeness_v15:0.2>,
+<lora:japaneseDollLikeness_v15:0.2>, <lora:pureInnocentGirl_v20:0.3>

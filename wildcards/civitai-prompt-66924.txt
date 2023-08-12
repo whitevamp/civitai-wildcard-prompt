@@ -1,0 +1,2 @@
+nsfw,(Ankha),(partial skin exposure),(oily skin),(reflective skin), (many breasts:1)
+<lora:Ankha_v2_RT_e6_R-128:1>  <lora:many_breastsV2:1.3> <lora:Shyaku_Tonade:0.4>

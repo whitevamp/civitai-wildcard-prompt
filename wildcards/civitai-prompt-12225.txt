@@ -1,0 +1,1 @@
+<lora:OnALeash-v1:0.85> photo of a ((happy|playful):1.2) leashed dog, collar, natural lighting, incredible detail, (leash:1.2), looking at viewer

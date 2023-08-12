@@ -1,0 +1,1 @@
+volumetric lighting, perfect skin, realistic, photo, extreme detail, detailed face, masterpiece, best quality, 1girl, mature, cute, curvy, sitting, crossed legs, workroom, <lora:tomboyLora_realistic:0.85>, tomboy,((short hair)), pearl necklace, loop earings, smiling, bracelets, bookcase, eyewear removed, <lora:koreandolllikenessV20_v20:0.6>,turtleneck sweater, plait skirt

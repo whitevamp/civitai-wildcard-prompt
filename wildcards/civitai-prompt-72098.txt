@@ -1,0 +1,12 @@
+parameters
+
+<lora:CM-Beautiful_armor:0.8>，CM-Beautiful_armor,armor, shield, shoulder_armor,crown，weapon，sword，
+//
+(((half body，dynamic pose,War background，castle，war,battlefield, lying,lace ))),
+//
+(ulzzang-6500-v1.1:0.8),(raw photo:1.2),((photorealistic:1.4)),(upper body),best quality ,masterpiece, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,8k wallpaper, Amazing, finely detail, masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed,beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes,light on face,cinematic lighting, hyper detailed,lens flare,glow effect, depth of field, 1girl,
+//
+<lora:fashionGirl_v45:0.3> <lora:lit:0.4>
+Negative prompt: ng_deepnegative_v1_75t,paintings,sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), watermark, signiture, logo, badhandv4
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6, Seed: 812527928, Size: 512x768, Model hash: 69bc54fc2c, Model: majicmixRealistic_v3, Denoising strength: 0.45, Clip skip: 2, ENSD: 31337, Hires upscale: 2, Hires steps: 5, Hires upscaler: Lanczos

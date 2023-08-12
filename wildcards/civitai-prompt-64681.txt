@@ -1,0 +1,2 @@
+highres, bloom, cinematic lighting , (34yo man, soldier, detailed face),
+ (ultra_detailed:1.3), 8k

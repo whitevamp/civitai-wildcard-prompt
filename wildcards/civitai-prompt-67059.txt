@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+(1girl:1.2),   <lora:jasmineV3:0.8> jasmine,  
+ <lora:pitch_black_shadow_V2:0.8> girl,  <lora:scenery-000016:0.8>

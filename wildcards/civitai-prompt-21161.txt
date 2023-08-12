@@ -1,0 +1,3 @@
+(masterpiece:1.2),(best quality:1.2),highly detailed,absurdres,intricate,volumetric lighting,cinematic lighting,award-winning,macro vivid colors
+1girl, (nude:1.1), breefree, bra, long legs, high heels, pussy, standing
+<lyco:breefree_v15:0.6>

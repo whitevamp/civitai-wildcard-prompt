@@ -1,0 +1,2 @@
+1girl,cowboy shot,  starry sky, witch,black robe,fire, magic, flame, jewelry, solo, earrings, pyrokinesis, burning, magic circle, long hair, looking at viewer, very long hair, red eyes, floating hair, hair between eyes, closed mouth, red skirt, molten rock, medium long sleeves
+<lora:hair_with_scenery:1.2>

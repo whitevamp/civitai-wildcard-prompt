@@ -1,0 +1,2 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2), (ultra_highres), (ultra-detailed), absurdres,
+<lora:sento_v1:0.9> sentou, bathroom, indoors, scenery, water, window, kerorin, bucket, tiles, tile floor, tile wall, wet, bubble, splash, sunlight, natural lighting,

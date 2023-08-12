@@ -1,0 +1,3 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),  Katy Perry,
+st. louis \(luxurious wheels\) \(azur lane\), hair ornament, portrait, (long loose silver revealing dress:1.1), large natural breasts, wide hips, long luxurious black hair, necklace, long nails, cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering, wet skin
+<lora:stLouisLuxuriousWheels_v1:1.0>

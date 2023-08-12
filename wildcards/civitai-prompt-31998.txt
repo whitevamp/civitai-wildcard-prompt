@@ -1,0 +1,5 @@
+highelfarcher, <lora:highelfarchertest:1> high elf archer, elf, (green eyes:1.5), green hair, ((hair between eyes:1.3)), long hair, pointy ears, sidelocks, ((flat chest:1.5)), ((despair, cry, sad face)), BREAK 
+(torn clothes:1.5), open clothes, nipple slip, front open, (nipples:1.2), symmetrical clothes, boots, cloak, elf, gloves, green thighhighs, high heels, shorts, thighhighs, nsfw, BREAK 
+looking at viewer, BREAK 
+(outstretched arms:1.2), (outstretched legs:1.2), (chain:1.1), (bound:1.2), restrained, cuffs, handcuffs, (chained:1.2), (floating:1.4), breasts, sweat, dark room, (window:0.5), simple background, black background,(torn clothes:1.2), nipples, <lora:chained_up:0.8>, BREAK 
+<lyco:GoodHands-beta2:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),

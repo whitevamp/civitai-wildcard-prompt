@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.4), absurdres, ultra-detailed, photorealistic,  8k, high detailed, beautiful face, detailed face, perfect illumination, distinct, perfect face, 
+BREAK
+1girl, sexy teacher, thick thighs, legs, skirt lift, Cinematic lighting
+BREAK
+(pureerosface_v1:0.5) , (ulzzang-6500-v1.1:0.5), <lora:LingYi_V1:0.4>, <lora:add_detail:0.7>,

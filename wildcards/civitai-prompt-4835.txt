@@ -1,0 +1,3 @@
+(masterpiece, best quality), intricate details, 
+1girl,    <lora:reptile:0.8> reptile, lizard,  scales, claws, reptile girl, nipples, pussy, 
+ <lora:KoboldsDND:0.5> kobold, snout, horns, claws, tail, scales, yellow eyes, fangs, blue skin,

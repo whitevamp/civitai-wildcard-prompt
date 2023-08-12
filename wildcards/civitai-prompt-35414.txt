@@ -1,0 +1,1 @@
+masterpiece, <lora:sharpen-soften:-0.2>,<lora:Mild detail adjusterV10:0.6>  <lora:add_detail:0.4>

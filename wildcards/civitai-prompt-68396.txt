@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ 1girl,
+ <lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, gura_hoodie, blue hoodie,shark hair ornament, portrait
+ <lora:exposepanty:0.8> accidental exposure panties, short skirt, train, sleeping, closed eyes, blue panties,

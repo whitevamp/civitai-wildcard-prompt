@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),long shot,1girl,smiling,ulzzang-6500-v1.1, wearing AIRASIA UNIFORM with high heels and D20,cute, at busy airport lounge, professional lighting, photon mapping, radiosity, physically-based rendering, <lora:airasiaStewardess_v15:0.7>,  <lora:20d_v10:0.4>

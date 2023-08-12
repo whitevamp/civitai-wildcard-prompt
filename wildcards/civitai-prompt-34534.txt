@@ -1,0 +1,1 @@
+masterpiece,best quality,high quality, <lyco:GoodHands-beta2:1.0>,female, woman, cyberpunk scene, woman criminal, dangerous (yakuza:1.2) enforcer wearing red mecha bodysuit armor, neon red sun, bule sky, <lora:MG_jixie:0.7>,<lora:more_details:0.3>

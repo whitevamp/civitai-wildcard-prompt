@@ -1,0 +1,1 @@
+girl,slim,(girlfriend,forest,adventure,exploration,action,indoors,outdoors,hotify),Battlefield Background,Lying on back, parallel to the camera,Tribal Braids,scarlet Crop Top,turquoise Shorts,neon genesis evangelion,Bobby Socks ,(masterpiece,detailed,highres:1.4) <lora:1shot-000010:0.6>

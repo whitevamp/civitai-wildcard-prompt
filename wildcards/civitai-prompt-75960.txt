@@ -1,0 +1,3 @@
+<lora:miyamoto_rei_v1.5:1> 
+miyamoto rei, school uniform, white shirt,
+<lora:school_rooftop_v0.1:1> school rooftop,, masterpiece, best quality, highly detailed

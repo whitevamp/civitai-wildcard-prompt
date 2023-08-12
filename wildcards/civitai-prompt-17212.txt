@@ -1,0 +1,3 @@
+masterpiece,best quality,world war ii era,from side,
+solo,1girl,cute,military jacket,pleated skirt,pantyhose,oversized mechanical gauntlets,
+<lyco:mecha_gauntlets_v11-000004:0.7>,<lora:fineline-v1:1.0>

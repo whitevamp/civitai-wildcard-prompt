@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait,
+1girl, momobami kirari, (hair_rings:1.2), braid, blunt bangs, blue eyes, school uniform, red jacket, looking at viewer, 
+ <lora:Kizuki - Kakegurui - Momobami Kirari:0.90>

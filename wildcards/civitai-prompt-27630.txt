@@ -1,0 +1,2 @@
+drip jacket,white background, shirt, closed mouth, open clothes, black pants, pants, 1girl, black shirt, looking at viewer, open jacket, solo, own hands together, (masterpiece:1.4), (best quality:1.4), realistic, 1girl, front view, serious, <lora:attire_dripmeme-10:0.8>,
+<lora:gura-10:1>, gawr gura, two side up,  shark hair ornament,

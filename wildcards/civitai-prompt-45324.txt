@@ -1,0 +1,1 @@
+shukezouma, negative space, , shuimobysim , <lora:shukezouma_v1_1:0.8>, portrait of a woman standing , willow branches, (masterpiece, best quality:1.2), traditional chinese ink painting, <lora:shuimobysimV3:0.7>, modelshoot style, peaceful, (smile), looking at viewer, wearing long hanfu, hanfu, song, willow tree in background, wuchangshuo,

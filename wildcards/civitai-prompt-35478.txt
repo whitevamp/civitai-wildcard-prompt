@@ -1,0 +1,2 @@
+<lora:unhorny_v01:-1> <lora:ClothingAdjuster2:0.6> ,(OverallDetail:1.1),
+(best quality, masterpiece, highest detailed) full body, elf princess, flower dress, vibrant, ethereal, golden hair, flower field, (sundrenched:1.2), (intricate details, hyperdetailed:1.15), sunlight halo, (official art, extreme detailed, highest detailed).

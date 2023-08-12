@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),edgQuality,smirk,smug,
+edgDL, a woman in red lingerie set posing for a picture ,wearing edgDL,lace lingerie,luxury_dress,stockings,standing,posing,corset,golden ebroidery
+ <lora:edgChicLingerie:0.8>
+blonde nadia with sunglasses and a choker, <lora:Ultimate_Nadia:0.5>

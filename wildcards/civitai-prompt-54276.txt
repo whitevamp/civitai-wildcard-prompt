@@ -1,0 +1,2 @@
+<lora:Moxin_Shukezouma11:0.3>, (masterpiece:1), (best quality:1), ultra-detailed, standing,
+ a handsome Chinese hero with a sword, wearing traditional Chinese clothing and equipped with a sword. The hero should have a confident and imposing presence, with a bold and inspiring expression on his face  <lora:Moxin_10 shuimobysim wuchangshuo bonian zhenbanqiao badashanren:0.4>

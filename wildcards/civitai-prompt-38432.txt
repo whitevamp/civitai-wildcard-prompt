@@ -1,0 +1,1 @@
+simple_background, red_background, 1girl, blonde_hair, beautiful face, beautiful woman, best quality, portrait, upper body, maid, black_maid_outfit, blue_eyes, sexy, large breasts, low-cut,  <lora:breastinClass:0.3>,

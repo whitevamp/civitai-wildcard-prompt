@@ -1,0 +1,2 @@
+4K, RAW photo, best quality, masterpiece, ultra high resolution, (photorealistic:1.4), absurdres, nightclub, ((multiple girls:1.3)), 
+<lora:add_detail:0.7>, <lora:nightclub:0.6>,

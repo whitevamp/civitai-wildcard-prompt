@@ -1,0 +1,4 @@
+masterpiece, best quality, detailed, <lora:add_detail:1.0> add_detail, farm,
+female, solo, flat chest,
+<lora:udders, veiny udders, huge udders:0.7> (udders:1.0),
+<lora:Casimir:0.9> Casimir, yellow body,

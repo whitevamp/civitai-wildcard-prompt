@@ -1,0 +1,4 @@
+masterpiece, best quality, 1girl,  kuruminha, (shaded_face), feather_hair_ornament, dark_skin, bike shorts,
+standing,  black_hair, smile, brazil soccer team yellow jersey, short sleeves, sidelocks, small_breasts, blunt_bangs, long_hair, solo, city,
+<lora:Kuruminha_v1:0.8>
+<lora:luckyStarStyleLora_offset:0.6>

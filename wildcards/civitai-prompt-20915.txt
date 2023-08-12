@@ -1,0 +1,4 @@
+(masterpiece, best quality),  intricate details,
+ <lyco:GoodHands-beta2:0.8>
+1girl, <lora:nanashi_mumei_v1:0.8> aamumei, very long hair, ponytail, ahoge, multicolored hair, feather hair ornament, hairclip, 
+ <lora:micro_slingshot_v1:0.8> slingshot swimsuit, white one-piece swimsuit, brown pubic hair,

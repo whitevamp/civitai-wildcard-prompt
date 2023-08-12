@@ -1,0 +1,6 @@
+(highres, high quality:1.3), intricate details, sharp focus, depth of field,
+Ingrid, mature female, 1girl, (dark-skinned female:1.3), very dark skin, (on knees:1.1), on bed, (arms behind back:1.1), bdsm, bondage, (blindfold:1.2), (shibari, ball gag:1.1), full body,
+pink hair, very long hair, makeup, lipstick, (mole under mouth:0.8),
+nude, naked,
+curvy, huge breasts, pussy
+<lora:IngridV2:0.86>  <lora:qqq-BDSM-v3:0.1>

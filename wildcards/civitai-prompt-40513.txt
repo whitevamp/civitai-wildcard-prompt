@@ -1,0 +1,4 @@
+masterpiece, best quality, highres, soft lighting, best quality, hyper detailed
+medium breasts, mature_women, mature_female, 1girl, toned,
+crawling_pov, latex, on bed, 
+ <lora:crawling_pov_v2-50:0.3>

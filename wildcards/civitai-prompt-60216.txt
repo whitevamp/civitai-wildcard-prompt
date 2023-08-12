@@ -1,0 +1,1 @@
+a fantz (creature:0.4)|cat:0.5, portrait with a costume: military green jacket, aviator sunglasses, stoic look, facing camera, dynamic composition, cinematic lighting, warm and vibrant colors, art by Sam Weber and Michael C Hayes, 8k, trending on artstation, hyper detailed, cinematic, <lora:Creature_Design2_V1:1>

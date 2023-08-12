@@ -1,0 +1,8 @@
+masterpiece, (best quality:1.2),(extremely detailed CG unity 8k wallpaper:1.3),amazing, (realistic:1.1),
+\\
+(pureerosface_v1:0.8) ,<lora:koreanDollLikeness_v15:0.3>,shaded face,detailed light,(nsfw),
+1girls,standing,walking,(naked:1.3), looking at viewer, (full body:0.3), long hair, lips, brown_eyes, breasts, breasts out, eyelashes, seductive_smile,
+necklace,black_hair,red_lips,large_breasts,breasts_out,pokies, cleavage cutout, collarbone,shirt,open clothes, blurry,parted_lips,blush,nose blush, school uniform, white shirt, dark blue miniskirt, bare legs,
+street, town,road,building, Walker,perfect hands,grace hands,breast hold,
+\\
+cowboy shot,  white background,  <lora:standingFullBodyWithBackgroundStyle_v10Offset:1>, <lora:pokies_9:0.8>

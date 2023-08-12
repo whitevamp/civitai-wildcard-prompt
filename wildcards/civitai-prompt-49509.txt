@@ -1,0 +1,1 @@
+masterpiece, best quality,one man <lora:asianmale_v10:0.6><lora:gachaSplashLORA_gachaSplash31:0.3>

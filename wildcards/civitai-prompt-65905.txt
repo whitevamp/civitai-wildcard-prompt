@@ -1,0 +1,1 @@
+photo of <lora:betterCuteAsian03:0.3>, a woman as a (stone_color,stone_statue:1.3), (wedding bunny outfit:1.1), on a pedestal, modelshoot style, photo of the most beautiful artwork in the world, High Detail, Sharp focus,in the middle of a square, full body, (closeup),   <lora:stone_statue:0.5>,  <lora:bunny_oufit:0.3>

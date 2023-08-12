@@ -1,0 +1,21 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, bed, large windows, indoors,
+navy hair, yellow eyes, full blush, open mouth, (saliva, drooling:1.2),
+breasts, nipples, long nipples, puffy nipples, small areolae,
+pussy, pussy juice, pussy juice trail, cameltoe,
+sweat, steam, heavy breathing, steaming body, nipple to nipple, orgasm, female masturbation,
+headback, <lora:headback_v10:0>,
+tribadism, <lora:conceptTribadism_v10:0>,
+detached collar, detached sleeves, topless, bottomless, xianglingdef, <lora:xiangling1_000011:0.75>
+AND
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, bed, large windows, indoors,
+brown hair, closed eyes, full blush, open mouth, (saliva, drooling:1.2),
+breasts, nipples, long nipples, puffy nipples, small areolae,
+sweat, steam, heavy breathing, steaming body, nipple to nipple, orgasm, female masturbation,
+headback, <lora:headback_v10:0>,
+ahg, rolling eyes, <lora:RollingEyes:0>,
+tribadism, <lora:conceptTribadism_v10:0>,
+headwear, detached collar, detached sleeves, topless, bottomless, hutaodef, <lora:hutao1_000009:0.75>

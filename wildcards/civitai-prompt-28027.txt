@@ -1,0 +1,1 @@
+<lora:add_detail:1>,  <lora:GoodHands-vanilla:1>, lux101,  <lora:lux_leagueoflegends-v1:0.8>, sheer dress,  , long hair, <lora:sheer-05:1>, (nipples:0.8)

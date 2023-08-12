@@ -1,0 +1,1 @@
+anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), <lora:RemV1:0.6>, rem_\(re_zero\), black long sleeves, city, pavement, PepePunchMeme <lora:PepePunchMeme:1>

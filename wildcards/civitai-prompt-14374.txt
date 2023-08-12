@@ -1,0 +1,3 @@
+hi res, ((masterpiece)), (best quality),((detailed ((human)) with detailed face :1.3)), (detailed human clear eyes and pupils), (detailed ((feral dragon)) with wings and (wear saddle:1.3)),(detailed scales), realistic proportions,  break,<lora:pnx_doggyFaceFocus:0.7>,doggystyle,sex from behind, by Foxovh, by Ross Tran,  by personalami
+, campfire, (detailed lighting), (cinematic lighting), ((detailed background))
+ <lora:Detail Tweaker LoRA v1:0.7>

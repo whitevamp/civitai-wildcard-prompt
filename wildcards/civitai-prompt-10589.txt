@@ -1,0 +1,1 @@
+1girl, (torned clothes:1.1), cinematic lighting, dark, shadows, red background, (crazy smile,constricted pupils, small pupils:1.2),<lora:Crazy_ExpressionsV2:0.8>

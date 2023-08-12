@@ -1,0 +1,1 @@
+cutout dress, <lora:Cutouts-V1:1>, btpt-fc, <lora:btpt-fc-v2:1>

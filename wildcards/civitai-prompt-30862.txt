@@ -1,0 +1,1 @@
+thick outlines, comics, photorealistic, perfect hands, masterpiece:1.2, purple electricity, lightning, colorful, 1 girl, solo, <lora:yae_miko_offset_9_6:0.7>, yae miko, long hair, pink hair, fox ears, mean look, sleeveless, small breast,  detailed background, detailed face, detailed eyes, <lora:add_detail:0.8>

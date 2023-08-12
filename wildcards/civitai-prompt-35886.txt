@@ -1,0 +1,1 @@
+masterpiece, high quality, cinematic lighting, realistic, highly detailed face,1girl, 1boy, filipino woman, cleavage, traditional filipino clothes, inside cave,  <lora:more_details:0.7>, small smile, against wall,  <lora:pov_breasts_undress_v1.3:0.7>,

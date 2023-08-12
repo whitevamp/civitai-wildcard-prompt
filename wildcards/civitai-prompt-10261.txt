@@ -1,0 +1,7 @@
+(best quality, masterpiece), (best illustration, artist, designer, image, prompt v2)(eye details, eye details, details:1.5),(angelic face, cute, amazing, sweet, cute kawaii), (1 girl) naked, (without clothes), naked, nudity, butterflies around, fireflies, small lights, pearly green eyes, fair skin, backdrop of lake with blue sky and white clouds, short blonde hair, straight in the wind, ((HDR+ ((realistic:1.20)), best realistic:1.6)), (NSFW:1.20), (explicit nudity), (big breasts, delicate, beautiful), (pretty face), (full body:1.1)0.5]
+<add:lora:addDetailed:1.4>,
+<add:lora:more_details:1.3>,
+<add:lora:add_detail:1.4>,
+<add:lora:Godhands-vanilla:1.2>,
+<add:lora:eyes_details:1.1>,
+<add:lora:nudity_details:1.20>

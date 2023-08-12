@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.2), extremely detailed, soft ambient lighting, sharp focus, 4K, sunbeam, sun beam, god rays,
+1girl, solo, Ingrid, mature female, dark-skinned female, dark skin, (lying, on back, head on pillow:1.2), spread legs, arms behind head, legs up,
+pink hair, very long hair, hair intakes,
+yellow eyes, long eyelashes, thick eyelashes, looking at viewer,
+suggestive smile,
+black panties, black bra, black thighhighs, black garter belt, black garter straps, cameltoe,
+indoors, bedroom, bed, pillow, 
+<lora:IngridV2:1>

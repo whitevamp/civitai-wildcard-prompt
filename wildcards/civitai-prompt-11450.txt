@@ -1,0 +1,3 @@
+<lora:multiple_hands_v0.5:1.0> 
+1girl, (molestation:1.3), multiple hands, groping,
+<lora:inside_creature_v0.1:1> inside creature, tentacle pit,, masterpiece, best quality, highly detailed

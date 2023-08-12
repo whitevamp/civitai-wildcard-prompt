@@ -1,0 +1,3 @@
+photo of belledel, detailed eyes, (from above:0.8), (smiling:1.2),
+pink hair,
+<lora:belledel_v1:1>

@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best qualit:1.4), (high resolution:1.4),dark cape, dark dress, elsa of arendelle, fur trim, single_braid, snowflake_pattern, smile, snow, small breasts, tight dress,   <lora:elsa_of_arendelle_v1:1> <lora:more_details:1>

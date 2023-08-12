@@ -1,0 +1,4 @@
+(ultra realistic, highly detailed:1.4), best quality, local lighting, Hasselblad
+woman, long hair, spread legs, library
+huge breasts, (thicc:1.1), bondage Outfit, net stockings
+ <lora:BondageOutfitV1:0.8>, <lora:InstantPhotoX3:0.6>

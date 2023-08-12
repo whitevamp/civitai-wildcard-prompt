@@ -1,0 +1,2 @@
+1girl, elevator, from behind, 
+<lora:elevator_v0.4-locon-000007:1>, masterpiece, best quality, highly detailed

@@ -1,0 +1,11 @@
+(Night:1.7), a desk with a laptop computer in front of her and a lamp on the side,room, indoors,
+sitting at attention,
+(pink_jacket:1.2),(Green_pleated skirt:1.3),(sailor_collar), school_uniform, serafuku,long_sleeves,(Yellow_bowtie),
+<lora:more_details:0.3>,<lora:Takabe_Eri_Shusaku-KK77-V2:0.7>,
+Blue hair,bangs,high ponytail, green hair ribbon,red eyes,
+1 girl, 20yo,Young female,Beautiful Finger,Beautiful long legs,Beautiful body,Beautiful Nose,Beautiful character design, perfect eyes, perfect face,expressive eyes,
+looking at viewer, in the center of the image,(Upper_body),(Focus on her face),
+official art,extremely detailed CG unity 8k wallpaper, perfect lighting,Colorful, Bright_Front_face_Lighting,shiny skin,
+(masterpiece:1.0),(best_quality:1.0), ultra high res,4K,ultra-detailed,
+photography, 8K, HDR, highres, absurdres:1.2, Kodak portra 400, film grain, blurry background, bokeh:1.2, lens flare, (vibrant_color:1.2)
+(Beautiful,large_Breasts:1.3), (beautiful_face:1.5),(narrow_waist),

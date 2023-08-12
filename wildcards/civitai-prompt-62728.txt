@@ -1,0 +1,8 @@
+RAW, 1girl, solo, colorful, (masterpiece, best quality:1.3), (absurdres:1.3),  <lora:koreandolllikenessV20_v20:0.3>, 
+(photorealistic:1.3),  (detailed skin:1.3, detailed face:1.3), sitting, looking at viewer, 
+sharp focus, delicate, (beautiful cute korean_girl:1.3), (ulzzang-6500:0.2),
+(huge breasts:1.3, thick thighs:1.2, narrow :1.1),
+(shiny skin:1.4), light smile, 
+(black_very_long_twintails:1.3),(big_eyes:1.2, brown_eyes), (brown_gloss_eyeshadow:1.2), pink_lips,
+white frilled shirt, beige_suspender skirt / black_pantyhose, 
+willow, wooden bench, flower, grass, lake, (cloudy sky:1.3), (rain:0.5),

@@ -1,0 +1,2 @@
+1 girl, solo, cowboy shot, cyberhanfu, cheongsam, chinese_clothes, Headdress, hair ornament, long hair, cyberpunk, a high-tech city, full of machinery and futuristic element, futurism, technology
+ <lora:cyberhanfu_v1:0.7> <lora:methurlant:1>

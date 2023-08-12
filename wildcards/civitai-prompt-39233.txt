@@ -1,0 +1,4 @@
+cgmech, (realistic)
+solo, white mecha robot, cape, science fiction, torn clothes, glowing, standing, robot joints, mecha, armor, cowboy shot, (floating cape), soft flower petal light, silver dragonborn, zen garden, landscape, nature
+, ((masterpiece, best quality)),  <lora:more_details:0.3> 
+, volumetrics dtx, (film grain, blurry background, blurry foreground, bokeh, depth of field, motion blur:1.3) <lora:dragonborn_offset:0.7> <lora:Niji:0.5>

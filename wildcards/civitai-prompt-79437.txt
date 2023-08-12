@@ -1,0 +1,7 @@
+close face shot, adult woman, beautiful woman, short white hair, makeup, piercing, earrings, short hair, gray eyes, glowing eyes, (small tits), white latex costume, pants, sitting on floor,
+shibari, <lora:cnkbv1:0.5>, (hands behind the back), tied hands,
+gwen_stacy, <lora:gwen_stacy_v1.1:0.8>,
+dark city background, cyberpunk setting, (dark sky), (darkness), (night),
+3DMM, <lora:3DMM_V10:0.7>,
+glow, bloom, godrays, volumetric light,
+masterpiece, best quality, professional art, high resolution art, 8k, epic details, hyperdetailed eyes, high sharpness, hyperdetailed skin, realistic hair, intricate details, hyperdetailed, hdr, depth of field, DOF,

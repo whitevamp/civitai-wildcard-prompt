@@ -1,0 +1,5 @@
+(alchemist:1.2) 1girl, braid, dark hair, leather apron, glasses eyewear, green eyes, (looking down:1.2) (white shirt:1.4), book, bookshelf, bottle, sitting, earrings, spoon, candlelight, chair, depth of field, dark, indoors, jar, jewelry, pendant, piercing, (realistic:1.5), table, 8k, ultra detailed 
+alchemy laboratory, lab equipment, jars, bottles with specimens, 
+<lora:RPGAlchemist:0.8>
+vivacious, perfect feminine face, symmetrical face, sharp focus, 
+<lora:Style Alloldrpgarts1 1990s alloldrpgarts1 V1:0.4>  alloldrpgarts1  <lora:Style RpgRiftingInThe90s pboldrifrpgstyle:0.4> pboldrifrpgstyle

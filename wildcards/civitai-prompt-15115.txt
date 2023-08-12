@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), 1 girl, (ahegao:1.3), wet, (BDSM:1.5), full body, purple eyes,  <lora:PSCowgirl:0.9> BREAK purple hair, eyewear on head, sunglasses,  <lora:Kafka_v26 (1):0.7>, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain

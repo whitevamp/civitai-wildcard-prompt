@@ -1,0 +1,2 @@
+photo realistic,real skin,ultra hires,(1 young beautiful korean girl),distant gaze, OOTD,(school look),(round young face),full accesories,necklace,big clear kindly eyes,long eyelashes,slim waist,light makup,neat teeth, slightly smiling. colored hair, strong beautiful thigh, hip, back side, (lower view),Tattoo ,
+((((petal-falling bright cherry blossoms)))), ( park load ), outside, sunlight, bench, <lora:koreanDollLikeness_v10:0.1>

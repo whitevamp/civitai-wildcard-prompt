@@ -1,0 +1,2 @@
+angel, magical fantasy, cropped hair, short blonde hair, halo above head, light circle, dark light night, intricate, elegant, sharp focus, illustration, high detail, digital painting, concept art, matte, WLOP and Artgerm and Greg Rutkowski and Alphonse Mucha, a masterpiece, 
+ <lora:epiNoiseoffset_v2:0.7>

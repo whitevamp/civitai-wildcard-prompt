@@ -1,0 +1,2 @@
+(masterpiece:1,2), best quality, scared expression,  open mouth,tears,
+1gir, lying , serafuku,on back, <lora:scared-expression-v1.8-000005:0.9>

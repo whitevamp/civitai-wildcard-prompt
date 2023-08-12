@@ -1,0 +1,2 @@
+young witch Hermione Granger of hogwarts wizard school uniform (sitting on floor:1.1) cross-legged reading books, library, stacks of books all around depth volumetric lighting fog dusty bright morning light through large window luxurious stone castle interior
+(zrpgstyle) (masterpiece:1.2) (illustration:1.1) (best quality:1.2) (detailed) (intricate) (8k) (HDR) (wallpaper) (cinematic lighting) (sharp focus) (Style-HogLegacy2:0.8) <lora:fongletsHermioneGranger_v11:0.5>

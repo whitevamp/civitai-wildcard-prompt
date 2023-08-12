@@ -1,0 +1,3 @@
+(masterpiece, best quality:1.1),scenery, landscape, asymmetrical, trail, forest,  horizon, breeze, summer, noon, sunny, cloud, calm, fresh air, depth of field, makoto shinkai, dramatic lighting, highly detailled
+Negative prompt: EasyNegative, greyscale, monochrome, water mark, signature
+Steps: 28, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2834447827, Size: 512x920, Model hash: 79e42fb744, Model: Perfect_World_完美世界_perfectWorld_v2Baked, Clip skip: 2, ENSD: 31338, AddNet Enabled: True, AddNet Module 1: LoRA, AddNet Model 1: makotoShinkaiSubstyles_offset(4ed584cadaf1), AddNet Weight A 1: 0.6, AddNet Weight B 1: 0.6

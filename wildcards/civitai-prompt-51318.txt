@@ -1,0 +1,1 @@
+pov close,<lora:devilMayCry5Vergil_v10:0.75>,(vergil,:1.2), on top of the mountain , (plastic:1.2) chair, sitting, masterpiece, grainy, (storm:1.5),

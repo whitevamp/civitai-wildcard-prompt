@@ -1,0 +1,4 @@
+ultra-realistic 8k wallpaper panoramic photo of (three nude women:1.2), stunningly beautiful, makeup eyes, long hair, (slim:1.1), bare big breasts, 1blonde 1brunette 1hispanic
+<lora:add_detail:0.3>
+kneeling in sand, (giant shark in the back:1.1), at a beach, blue sky
+(nsfw:1.2), (depth of field:1.4), (intricate:1.4), (best quality:1.4), (masterpiece:1.4), (realistic:1.4), (insanely detailed:1.4), high saturation, (side light:1.4)

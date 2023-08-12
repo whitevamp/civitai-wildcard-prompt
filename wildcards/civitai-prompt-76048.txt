@@ -1,0 +1,5 @@
+absurdres, best quality, 2girls, the creation of adam, eye focus, <lora:theCreationOfAdam-000004:0.25>, eye contact, <lyco:GoodHands-beta2:1.0>, from above
+BREAK
+reclining, reaching,
+BREAK
+midair, flying,

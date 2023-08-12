@@ -1,0 +1,4 @@
+(small areola:1.4),photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,
+(naked:1.5),(Sweatpants:1.4),(from side:1.5),(sideways:1.5),(huge_breasts:1.5),(high detailed face:1.5),
+1girl,delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,forest,ponytail,(blunt bangs:1.4),(((narrow waist,slim, thin hips, thin legs))),looking at viewer,
+<lora:A1_jpIDOL_v10:0.2>,<lora:A1_LoveOnLovely_lolStyleV10:0.2>,<lora:A1_DollLikeness_Korean_v15:0.3>,<lora:A1_cuteGirlMix4_v10:0.1>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Japanese_v10a:0.1>,

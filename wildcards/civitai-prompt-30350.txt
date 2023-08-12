@@ -1,0 +1,1 @@
+Masterpiece, best quality, scifi, kawaiitech,1 woman Maria, pastel colors, hair, blue eyes, kawaii, wearing cute colors cybersuit, city background, <lora:Maria:.7> <lora:GoodHands-beta2:1> <lora:nijiarmor_v2:.7><lora:KawaiiTech-20:1.3>

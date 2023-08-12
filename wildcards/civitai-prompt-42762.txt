@@ -1,0 +1,4 @@
+<lora:pantylines_v0.1:1>
+1girl, ass, dolphin shorts,
+pantylines, 
+<lora:dolphin_shorts_v0.1:1>, masterpiece, best quality, highly detailed

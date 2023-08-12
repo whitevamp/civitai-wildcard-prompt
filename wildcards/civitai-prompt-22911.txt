@@ -1,0 +1,5 @@
+skyscraper,(zenithal angle),
+((by Iwan Baan)),
+<lora:XSArchi_127:0.75>,
+<lora:Concept_scenery_background:0.3>,
+coastal city,blue sky and white clouds,the sun is shining brightly,ultra-wide angle,

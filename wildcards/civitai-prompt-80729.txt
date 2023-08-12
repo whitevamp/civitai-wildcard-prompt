@@ -1,0 +1,1 @@
+<lora:Escalatorview_v2:0.5> Escalatorview,  distance, far apart, far away, <lora:busujimaSaekoHOTD_v10:1> busujima saeko, ((school uniform)), sailor, white shirt, green skirt, white underwear,  from behind, back ((from below))

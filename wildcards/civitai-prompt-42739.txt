@@ -1,0 +1,7 @@
+masterpiece:1.5, best quality:1.5, aesthetic, 1girl, sidelocks, cinematic lighting, sharp focus,large breasts , mature female, horny ,16k, glowing eyes, detailed 4k eyes,
+playground,seduction,sexy lips, parted lips,detailed lips,
+red lips, high detailed background,((big purple eyes)), detailed face,shiny skin,
+auntjunev3,auntjune,hair bun, bangs, messy hair, 
+dress,red dress, sleeveless dress, collarbone,nightgown
+<lora:oil2.0_2-512LORA:0.7>
+<lora:add_detail:1> <lora:AuntJuneV3:0.6>

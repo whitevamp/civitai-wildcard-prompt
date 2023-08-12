@@ -1,0 +1,4 @@
+RAW, (masterpiece, best quality, photorealistic, absurdres, 8k:1.2), nsfw, best lighting, complex pupils, detailed background, night, cooling tower,
+1girl, solo, upper body, (close up, face focus:1.2), looking back, cowboy shot, standing, furled brow, shiny skin, eyeliner, gothic eyeshadow, eye glitter, blush, flower, long hair, curly hair, dark blonde hair, highly detailed skin,
+fishnet bodysuit, hair bow, chocker, see-through, (magazine cover, FashionMagCover, english text, username, watermark, user name, artist name, signature:1.1),
+<lora:LoRA-FashionMagCover-000008:0.9>

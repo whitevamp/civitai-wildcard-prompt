@@ -1,0 +1,6 @@
+absurdres, (best quality), (masterpiece),(ultra-detailed:1.2),(photorealistic:1.1),(highres),full body,(back:1.1),
+1girl,standing,looking back,stride,
+ <lora:sailor_mars_v1:0.8> sama1, tiara, sailor senshi uniform, white gloves, red sailor collar, red skirt, 
+(hologram:1.4),(fire:1.3),(swirling:1.1) ,turbulence ,abstract background,Glittering,(psychedelia:1.2) ,
+<lora:anime_minimalist_v1-000020:-0.2>,
+ <lora:flat2:-0.5>,

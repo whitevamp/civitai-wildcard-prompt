@@ -1,0 +1,7 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.3),  illustration, (fractal art:1.2),
+from below,
+ on beach,beautiful detailed sky, sunlight,the mountains far away,flower,cloud,birds,
+beautiful detailed eyes,beautiful detailed hair,blush, (1girl), (nude,provocative pose:1.2,erotic pose:1.2,ass:1.3,detailed nipples,huge breasts,puffy nipples,erotic,beautiful detailed pussy,soft breasts, nsfw,spread legs,happy sex,wet pussy,wet hair,oiled skin,shiny skin), oniomania, mature, plump,  splat splash,
+super long hair, long colored hair,(hair ornaments, earrings, flowers hair ornaments, butterflies hair ornaments), 
+ kimono made from paint, ultra detailed texture kimono, rainbow paint kimono,kimono see through,wet kimono, water  drops,,shiny skin,water drops,
+ ,<lora:shinyOiledSkin_v1:0.5>

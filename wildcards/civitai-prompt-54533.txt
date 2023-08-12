@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+
+1girl,  <lora:morganaClassicLora_morganav1:0.8> Morgana_Default, large_breast, eye_makeup, purple_wings,  
+
+
+ <lora:youLikeKissingBoysDontYou_v10:0.8> boy_kisser,

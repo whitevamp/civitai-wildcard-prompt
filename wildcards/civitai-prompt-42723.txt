@@ -1,0 +1,2 @@
+detailed forest background, masterpiece, best quality, Cafe_Cutie_Sivir,  ponytail, (bathing suit), pulledwedgie, pulled by self,wedgie
+<lora:Cafe_Cutie_Sivir-10:0.8>  <lora:pulledwedgie-06:1>

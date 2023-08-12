@@ -1,0 +1,7 @@
+(highres, high quality:1.3), intricate details, sharp focus, depth of field,
+Ingrid, mature female, 1girl, (dark-skinned female:1.3), close-up, penis over eyes,( penis on face:1.3), hetero, huge penis, testicles, erection,
+(blush:1.3), ahegao, open mouth, tongue out,
+pink hair, very long hair, makeup, lipstick, (mole under mouth:0.8), perfect face,
+nude, naked, turtleneck, underboob, elbow gloves,
+curvy, (huge breasts:0.8),
+<lora:IngridV2:0.8> <lora:penis_over_eyes:1>

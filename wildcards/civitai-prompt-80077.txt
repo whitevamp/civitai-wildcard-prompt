@@ -1,0 +1,7 @@
+masterpiece, best quality, highres, incredible detail, (photorealistic:1.1), (depth of field:1.1),photo,  35mm, dslr , (solo:1.1), natural light, ((1 girl)),(full body, :1.2), 
+<lora:pj_purah-nvwls-v2-final:1>, photo of purah,  ,perfect eyes , perfect face , perfect lips, (white hair , red hair lock:1.2), soft smile,  glasses,
+black nurse, bikini, thighhighs, cross-laced clothes, lace trim, 
+, thin waist, cinematic light, <lora:blackNurse_v10:0.7>
+,20 megapixels, motel background ,    
+pov, male masturbation, 1boy, 1girl, kneeling, (from above:1.4), facial , cum on lips , cum on eye,
+cohf <lora:cohf:0.8>, naked woman covered in semen,

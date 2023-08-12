@@ -1,0 +1,1 @@
+(masterpiece:1.4), (best qualit:1.4), (high resolution:1.4), anna of arendelle, cream jacket, aubergine_belt, cream pumps, updo, white dress, outdoors, autumn, forest, nature, medieval town,  looking at viewer, smile, <lora:anna_of_arendelle_v21:1>

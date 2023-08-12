@@ -1,0 +1,7 @@
+(()), <lora:animenudepantyhose:0.6>,<lora:add_detail:0.8>
+\\
+1girl,anime, silver brilliant hair, ((gothic dress:1.6)), hime cut, straight short bangs, {{{{{random hairstyle}}}}}, hair over shoulder, very long hair, very thick hair, seductive expression,(half-closed eyes:1.2),happy, open mouth, pink eyes,(no pupils:1.3),(empty eyes:1.3), cross leg, cameltoe,pantyhose, garter belt, walking on street, meeting with love one, crowd,
+\\
+((random background scene:1.6)),((random camera angle))
+\\
+(masterpiece), best quality, highest quality, extremely detailed CG unity 8k wallpaper, detailed and intricate, high detailed eyes,, Anime, , Moonlight, Neon Lights, Neon, Neon Lighting, super resolution, ultra hd, megapixel

@@ -1,0 +1,1 @@
+ru_qun,best_quality,head,original_outfit,hanfu,clear details,masterpiece, best_quality, clear details,1girl,Sky blue and white clothes,read a book,holding book, ,Chinese park background,cowboy shot,detailed skin texture,detailed cloth texture, beautiful detailed face, ultra detailed,photorealsim, SongStyle, <lora:hanfu_v28:0.8>

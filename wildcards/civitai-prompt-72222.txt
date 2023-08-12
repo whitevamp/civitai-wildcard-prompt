@@ -1,0 +1,7 @@
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo, (Authentic skin texture:1.3), (film grain:1.3), panorama,  very wide shot,  narrow waist, cowboy shot , in the dark, deep shadow, low key, cold light, night,
+indoor, a beam of light, dust, Tyndall effect, sad, disappointed, gloom (expression), hollow eyes, against window,
+nsfw, sex, vaginal, pov, missionary, spread legs, cum, pussy juice, cum in pussy, cum on breasts, huge breasts, mature female, sexy, perfect female body, narrow waist, on bed, on back, lace-trimmed legwear, earrings, saliva, drooling,
+ <lora:conceptPenisOverEyes_v10:1>
+aponia, 1girl, blue eyes, breasts, huge breasts, <lora:Aponia-Normal:1>
+, <lora:bobsout1-000010:0.3>
+<lora:FilmgirlLora_v30:0.6>  <lora:asianGirlsFace_v1:0.4>

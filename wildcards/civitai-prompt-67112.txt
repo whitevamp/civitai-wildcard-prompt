@@ -1,0 +1,3 @@
+1 cyborg samurai, on the dark city roof, top-down view, science fiction
+mshn robot,  zentangle, mandala, tangle, entangle, fractal art , extremely detailed, dynamic angle, cowboy shot, , vivid colors, romanticism,  
+ <lora:mshn:1>

@@ -1,0 +1,1 @@
+1girl,solo,Elegant hair,white hair,long hair,Look up the lens,rich color,Gradient,mechanical arm,(glow:1.2),earrings,blue eyes,Robot Background,complex background,Helmet,Horns,Keyboard,Screen,<lora:MG_jijia:0.8>,

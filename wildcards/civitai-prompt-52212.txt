@@ -1,0 +1,1 @@
+solo, ((long hair)), look_at_viewer, ((8k, RAW photo, best quality, masterpiece:1.2)), (realistic, photo-realistic:1.37), professional lighting, photon mapping, radiosity, physically-based rendering, street background, asian, <lora:koreanDollLikeness_v15:1>, ultra realistic details, sharp focus, detailed skin

@@ -1,0 +1,2 @@
+<lora:spahetti_art-10:0.9>,spahetti art, spaghetti, spaghetti art,  yellow tone, monochrome, portrait art
+<lora:fondle_by_hands_lora01:1> 1girl, grabbing,6+boys,multiple boys,,

@@ -1,0 +1,1 @@
+masterpice, high-quality,  realistic,  makima ,chainsaw man, perfect face, perfect eyes, detalied eyes, perfect lips, smiling, thicc, juice ass, black tie, black suit, jack-o' challenge, flexible, office, indoor, detalied backgraund, <lora:makimaChainsawMan_offset:1>,  <lora:jackOChallengePoseLora_jackoposefront:1>

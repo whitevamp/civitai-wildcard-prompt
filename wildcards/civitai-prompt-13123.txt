@@ -1,0 +1,2 @@
+<lora:BlessedTech-20:0.8>, blessedtech , scifi, blessed, aura ,
+cube, heart shape

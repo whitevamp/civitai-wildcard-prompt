@@ -1,0 +1,3 @@
+cowboy shot, (masterpiece), (best quality:1.2), absurdres, photo, photorealistic,highly detailed, detailed face, solo beautiful woman wearing sexy hostess uniform, darkblue uniform, large breats, huge ass, tiny waist, smile, 
+inside airplane,
+ <lora:sexyHostessUniform_v10:0.6>

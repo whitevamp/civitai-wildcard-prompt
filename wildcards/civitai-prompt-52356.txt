@@ -1,0 +1,1 @@
+(best quality, photorealistic:1.4), Japanese girl, black short bob hair, white tee, underboob, army green cargo pants, navel, walking, full body portrait, street of Paris, natural lighting, out of focus <lora:croppedShirtUnderboobAnime_v10:1>  <lora:koreanDollLikeness_v15:0.5>

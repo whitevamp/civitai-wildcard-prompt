@@ -1,0 +1,2 @@
+(best quality, masterpiece),
+(princess peach), moonlight, full moon  at background, <lora:peach:0.5>, <lora:blindbox_v1_mix:0.85>

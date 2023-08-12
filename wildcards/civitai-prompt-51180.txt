@@ -1,0 +1,4 @@
+occsan
+wearing a colorful linen sundress
+8k, best quality, masterpiece, realistic, photo-realistic
+<lora:unstabledreamx_V2:.5>

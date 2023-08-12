@@ -1,0 +1,2 @@
+Ganondorf, menacing, evil, rough looking, haggard, brooding eyes, bushy thick orange eyebrows, (piercing red eyes), crimson red eyes, sarong, lightly blurry, film portrait photography, 35mm film, filmg,  <lora:STYLE_FilmG3:0.25>
+<lora:CHAR_GAME_ZELDA_GanondorfZeldaSeries0:0.8>

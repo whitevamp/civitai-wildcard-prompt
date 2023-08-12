@@ -1,0 +1,13 @@
+Aesthetic: ((funk art, funky, groovy, pop culture, humor, unconventional materials):1.4)
+BREAK
+Composition: 1girl, perfect face, perfect eyes, naked, nude, nsfw <lora:gangbang_V2.0:1> ((6+boys)), multiple people, multiple penises, gangbang, group sex, orgy, missionary, on back, testicles, sex, vaginal sex, penetration, pussy, pubic hair, cum on breasts, cum on belly, ((penis, penises, extremely detailed penis, extremely perfect penis, extremely perfect penis tip, man, men, multiple men))
+BREAK
+Lighting: Magical Fairy Lights, Whimsical, Enchanting
+BREAK
+Quality: (award winning photography, professional photography), (8k, RAW photo, best quality, masterpiece), photo-realistic,  intricate, highly detailed, professional lighting
+BREAK
+Appearance: (22 years old), white girl, american girl, ((red hair))
+BREAK
+(good quality:0.999),
+BREAK
+<lora:add_detail:0.4> <lora:URPMv1.3_LORA_296:0.2> <lora:more_details:0.2>

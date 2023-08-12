@@ -1,0 +1,15 @@
+Aesthetic: ((pre-raphaelite, romantic, medieval revival, mythology, detailed, art history))
+BREAK
+Composition: 1girl, (standing), perfect body, perfect face, pretty face, perfect eyes, ((wearing tshirt, wearing panties)) <lora:cameltoe_V2.1:0.5> (cameltoe), pussy:0.1
+BREAK
+Lighting: natural light
+BREAK
+Quality: intricate, highly detailed, sharp focus, realistic, 8k
+BREAK
+Appearance: (22 years old), white girl, american girl, ((pink hair))
+BREAK
+good quality
+BREAK
+<lora:add_detail:0.4>
+<lora:URPMv1.3_LORA_296:0.2>
+<lora:to8contrast-1-5:0.2>

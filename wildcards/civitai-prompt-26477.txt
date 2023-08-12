@@ -1,0 +1,2 @@
+best quality, ultra high res, (photorealistic:1.4),masterpiece,1girl, 25 years old ,Kpop idol,(City of ruins),alice \(nikke\),(pink fashion clothes),((animal ear headphones)),(kpop clothes),twintails,shoes,(cleavage),(slender),((white hair)),(silver hair),(gray hair),((blue eye)),(looking at viewer),sitting,smile,(long hair),depth of field,detail face, shiny skin, nice detailed eyes, heavy eye makeup, slim waist, blush, detailed eye makeup,perfect anatomy,
+ <lora:Cyberpunk_helper:1>, <lora:more_details:1>

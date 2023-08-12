@@ -1,0 +1,1 @@
+Chinese martial arts style, large area sky, ink style, outline light, atmospheric atmosphere, depth of field, mist rising, lake water, lotus flowers and leaves, small boats, pine trees, octagonal stone pavilions, arch bridges, night view,(No color)  <lora:wyy-000009:0.6> <lora:wgz_style:0.4>

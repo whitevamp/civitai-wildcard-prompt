@@ -1,0 +1,2 @@
+(masterpiece), 8k, RAW Photo, realistic, (photorealistic), high quality, (DarkAl0ne:1.2), solo, standing, short pants, female focus, outdoors, sky, night, night sky, scenery, dark, (city lights:1.2), (in the Style of DarkAl0ne),
+<lora:02-Style of DarkAl0ne V2-000001:1>

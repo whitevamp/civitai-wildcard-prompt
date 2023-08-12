@@ -1,0 +1,3 @@
+(reallistic:1.2), (masterpiece, best quality, high quality, highres), 1girl, extremely beautiful detailed face, best shadow, 8k, 
+medium breasts, looking at viewer, Bronze Skin, Ash Blonde Hair, ice blue Eyes, Wide Nose, Plump Lips, Prominent Chin, Pixie Cut, Frizzy Hair, Chignonmetallic lipstick, 0pen, tongue out, mouth open, from above
+AS-Adult, <lora:add_detail:0.6>, <lora:0pen3:1>,

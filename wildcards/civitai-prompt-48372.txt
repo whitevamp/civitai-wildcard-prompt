@@ -1,0 +1,1 @@
+(illustration:1.1),(best quality),(masterpiece:1.1),1girl,smile,((snow)),plum blossom,chinese pavilion,depth of field,looking at viewer,<lora:Xiaorenshu_v20:0.9>

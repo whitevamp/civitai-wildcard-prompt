@@ -1,0 +1,2 @@
+<lora:SilverSapphireAI:.9> SilverSapphireAI
+fortress  , detailed, intricate

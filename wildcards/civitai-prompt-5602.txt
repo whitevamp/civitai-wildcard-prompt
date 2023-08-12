@@ -1,0 +1,1 @@
+beautiful (female:1.4) vamptech cyborg robot wearing (black red robe:1.4) (black red cape:1.2), Seraphim wings, vampiric gothic horror, fcPortrait <lora:NijiExpressV2:0.2> <lora:FINAL Robort:0.3>  <lora:VampiricTech:0.8> <lyco:[LoHa] Seraphim熾天使セラフ Concept:0.8>

@@ -1,0 +1,1 @@
+(white background:1.4), original,(illustration:1.1),(best quality),(masterpiece:1.1),(extremely detailed CG unity 8k wallpaper), (colorful:1.2) (ink splashing),(color splashing),((watercolor)), 1girl, <lora:animeTarotCardArtStyleLora_v31:0.8:face1>

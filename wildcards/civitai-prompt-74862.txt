@@ -1,0 +1,3 @@
+(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed,exquisitely detailed skin,(cinematic angle)(film grain:1.2)cinematic lighting,beautiful and aesthetic, masterpiece, best quality, glowing skin, (Cool light:1.5),full body,(Moonlight)(in a suppermarket)
+1girl, yellow t-shirt, Washed flared jeans, white converse sneakers, dynatic pose,  a wide range of shelves, a fridge full of drinks,shopping, 1990s \(style\),
+PerfectNwsjMajic,<lora:PerfectNwsjMajic_4:0.7>

@@ -1,0 +1,6 @@
+(8k, RAW photo, best quality, sublime masterpiece:1.2), (realistic, photo-realistic:1.4), (extremely detailed CG unity 8k wallpaper:1.2), award-winning photo, ultra high res, 1girl, pretty young girl, (nsfw), lying on bed, cleavage, perfect pussy, large breasts, spread legs, gray hair, long hair, beautiful face, detailed face, beautiful eyes, detailed eyes, (green eyes:1.2), beautiful nose, thin lips, looking at viewer,  smile, collarbone, slim waist, perfect female figure, areolas nipples, perfect nipples, shaved pussy, medium full body shot, perfect hands, perfect legs
+cinematic lighting, in the dark, rim light, lamp in the background,
+<lora:koreanDollLikeness:0.7>,
+<lora:GodPussy1 v3:0.5>,
+<lora:flat2:-1>,
+<lora:epi_noiseoffset2:1>

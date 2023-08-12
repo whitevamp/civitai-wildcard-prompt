@@ -1,0 +1,1 @@
+RAW photo, mimico, wooden chest, fleshy interior, long tongue, meat, saliva, TentacleHorrorAI, (sprawling tentacles), sharp teeth, stone floor, dungeon background, 8k uhd, dslr, cinematic lighting, high quality, photo realistic,  <lora:mimico-15:0.8>  <lora:TentacleHorrorAI:0.5>  <lora:bodyHorrorCreatures_v10:0.5>

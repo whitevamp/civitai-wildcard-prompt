@@ -1,0 +1,1 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female, looking at viewer, portrait, upper body, (RSEEmma:1.55), <lora:MISC-GlossyFace:0.3>, blue eyes,  big breasts, nipples, smile, :), parted bangs, (light blue hair:1.1), bangs, very long hair, twintails,  <lora:CLOTHES-BikiniPull:0.27>, (bikinipull:1.27), ocean, water,

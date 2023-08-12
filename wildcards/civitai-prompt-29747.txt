@@ -1,0 +1,2 @@
+(2girls), smile, (child), qiqidef, upper body, hugging,  lantern, Chinese temple
+AND (2girls), smile, (child), yaoyaodef, hair bell,  upper body, hugging, lantern, Chinese temple <lora:genshinfull1:1>

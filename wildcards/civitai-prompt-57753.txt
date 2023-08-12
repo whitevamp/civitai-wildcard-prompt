@@ -1,0 +1,3 @@
+1girl, wanostyle, nami_1800, (masterpiece), (best quality), solo, female focus, extremely detailed, illustration, kimono, traditional clothing, depth of field, sketch, dark intense shadows, sharp focus, soft lighting, colorful, good composition, solo, indoors,  
+
+<lora:wanostyle_2_offset:0.8>

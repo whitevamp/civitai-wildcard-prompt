@@ -1,0 +1,7 @@
+(masterpiece, best quality:1.2), high detail, intricate detail, photorealistic, 8k, sharp focus, beautiful lighting, Cinematic film still,
+full medium shot, RAW photo, 1girl, gorgeous 20 years old,  caucasian, blonde wild hair, perfect sparkling (green eyes:1.1), pale skin, big breast, cleavage, finely detailed features, pure and innocent look, slim body, looking at camera, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering,
+An elegant ranger elf, bright green and white clothing embroidered, circlet, thigh-high stocking, zrpgstyle, outdoors, in a dense black forest, with a (long bow:1.3) and (quiver:1.3), sunlight shines through trees, tree shadows, fcDetailPortrait,
+<lora:AZovyaRPGArtistToolsLORAV2:0.2>
+<lora:hipoly_3dcg_v7-epoch:0.2>
+<lora:more_details:0.3>
+<lora:add_detail:0.3>

@@ -1,0 +1,1 @@
+cafe, coffee cup, coffee maker,  tropical style, green ceramics, plant, flower, mirror, glass, banana leaf,  lens flare, dim light, epic, bali, dramatic light, <lora:add_detail:1> <lora:epi_noiseoffset2:0.6> <lora:ARWBedroomTropical:1>

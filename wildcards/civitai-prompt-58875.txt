@@ -1,0 +1,5 @@
+nsfw, raw photo of girl dancing in the river waterfall wetshirt, bottomless,
+smile, turn around, floating water splash, 
+photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski,
+<lora:epiNoiseoffset_v1:1> <lora:epiNoiseoffset_v2:0.9>
+<lora:xiaorouseeu_v10:0.5> <lora:wetshirtLora_v11:1>

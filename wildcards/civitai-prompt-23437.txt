@@ -1,0 +1,5 @@
+(best quality, masterpiece:1.2), photorealistic, ultra high res, front lighting, intricate detail, Exquisite details and textures, face highlight, sexy, seductive, (detailed eyes:1.3), (beautiful detailed eyes), (beautifully detailed face), (detailed lips:1), (detailed skin:1), absurdres, provocative, cinematic lighting, dynamic angle, cinematic pose, raw, atmospheric lighting, full body,
+beautiful petite updo blonde haired girl with medium breasts and smooth thighs, glistening skin, shiny hair, subtle makeup, pale skin, sheer white dress, white leggings, ethereal, jewelry, looking at viewer, flirty,
+(black background:1), ink, abstract scenery, reflective, crescent, 
+edgNoire, photoshoot, 
+ <lora:edgNoireHoodies:1>  <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1> <lora:CyberpunkStyleV3:0.5>

@@ -1,0 +1,1 @@
+cyberpunk woman wearing black gold irongirl_suit, fractalized, <lora:NijiExpressV2:0.6> fcPortrait <lora:irongirl_fractals_suit:0.6>

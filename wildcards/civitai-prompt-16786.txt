@@ -1,0 +1,2 @@
+best quality,absurd res, 1girl,solo,nene_casual,landscape photo of summer pasture,twintails, brown sweater, red skirt, sailor collar, neckerchief, white sock, smol, 
+<lora:nene-09:0.3> <lora:smol:1>

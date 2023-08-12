@@ -1,0 +1,8 @@
+1girl,solo, alone, masterpiece, best quality,incredibly absurd res,
+blue hair, ((long wavy blue hair, long curled blue hair)), (blue eyes:1.2, blue pupil:1.1),
+(cat ears, nekomimi, animal ears),
+tiny waist:1.3, wide hips:1.5,tiny breasts:1.1, navel, huge ass,
+(Korean mixed, k pop idol, korean):1.2,  (pale skin),  (angular face:1.2), shy, blush,
+(freckle:1.5, freckles:1.6, skin marks, blush), (long Eyelashes+smokey eyeliner+eye makeup+red eye shadow:1.2+lips+makeup):1.2,
+standing on a poolside, water, pool, hotel, micro thong, thong, g string, g-string,
+<lora:koreanDollLikeness:0.2> ,towel over breasts,  <lora:towel_over_breasts_v0.1:1>

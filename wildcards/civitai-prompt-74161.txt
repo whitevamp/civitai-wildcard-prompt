@@ -1,0 +1,2 @@
+1girl, adult:1.2, mature, silver hair, pink eyes,  fang visible , horn ,mischievous:1.2,  Fediel , <lora:Fediel GBF:0.8> , <lora:add_detail:1>, full body, random background,
+//

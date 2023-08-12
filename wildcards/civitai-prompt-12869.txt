@@ -1,0 +1,1 @@
+the_thinker, chin on hand, hand on thigh <lora:The_thinker:0.9>, sculpture in museum, well lit, half body, from front, nature stone, stone carving, (holding mobile phone, wathing on mobile,indoor:1.3)

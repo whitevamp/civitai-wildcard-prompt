@@ -1,0 +1,2 @@
+LuluFFX, highres, highest quallity, illustration,  ultra detailed, (detailed face), (detailed eyes), cinematic lighting, best quality, hyper detailed, masterpiece,1girl, solo, mature female, eyebrows behind hair, hair over one eye, covered eye, red eyes, black hair, hair stick, hair bun, necklace, black dress, strapless, bare shoulders, fur trim, luminous eyes, large breasts, light rays, (colorful), cowbody shot, outdoors, town, morning, clouds, sky
+ <lora:LuluFFX_AnimeV2:0.8>

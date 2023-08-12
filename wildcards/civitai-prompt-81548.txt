@@ -1,0 +1,1 @@
+masterpiece, best quality,   <lora:eager_pet:1>, eager pet pose, <lora:gravelV2:0.8> gravel_main, pink hair, orange eyes, long hair, animal ears, tail, white leotard, breastplate, bare shoulders, black jacket, partially unzipped, torn thighhighs, black boots, barcode tattoo,

@@ -1,0 +1,1 @@
+HDR,UHD,8K,Highly detailed,realistic,photo-realistic:1.37),best quality,<lora:catman:0.75>,masterpiece,chef,cooking in the kitchen,

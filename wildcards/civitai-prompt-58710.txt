@@ -1,0 +1,1 @@
+(masterpiece, best quality, high resolution:1.4), analog, photorealistic, 1girl, tinker bell, short ponytail, two fairy wings, school uniform, sitting on stone, feet in water  <lora:TinkerBell_v1:1>

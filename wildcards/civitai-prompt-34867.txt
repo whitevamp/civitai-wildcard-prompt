@@ -1,0 +1,1 @@
+nsfw, (1girl, blind eyes, half-closed_eyes,  <lora:half-closed_eyes:1>, open mouth) (digital) ( resting in detailed theater (see-through, swimsuit)) , best quality, <lora:boldline:0.2>,  <lora:hairdetailer:0.2> clearswimsuit, <lora:clearswimsuit:1>

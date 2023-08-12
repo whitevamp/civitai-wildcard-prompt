@@ -1,0 +1,1 @@
+(8k, RAW photo, highest quality), beautiful girl, close up, dress, (detailed eyes:0.8), (looking at the camera:1.4), (highest quality), (best shadow), intricate details, interior, (ponytail, ginger hair:1.3), dark studio, muted colors, freckles, (to8contrast style),<lora:theovercomer8sContrastFix_sd15:0.65>

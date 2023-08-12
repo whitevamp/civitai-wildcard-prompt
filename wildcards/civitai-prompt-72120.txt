@@ -1,0 +1,3 @@
+ard surface samurai robot 1 robot, mecha \(mjstyle\) zhongfenghua
+masterpiece, high quality,  cloud, sky,   from below, weapon,  solo,armor  
+<lora:mecha(mjstyle):0.7>  <lora:zhongfenghuaxiyou-000018:0.5>

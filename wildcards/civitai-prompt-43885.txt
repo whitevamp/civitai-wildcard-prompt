@@ -1,0 +1,4 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), cowboy shot, 1girl, tanned skin, black hair, short hair, looking at viewer, smile seductively,
+ <lora:2pNierFFXIV_v10:0.7>, yorhap2, white outfit, white stockings, white thong, 
+<lora:ass_support_v0.1:1.2>, ass support, standing, view from behind,
+stand next to the counter, luxurious bar,

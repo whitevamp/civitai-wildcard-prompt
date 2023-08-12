@@ -1,0 +1,6 @@
+1girl, beautiful girl, (white bikini:1), (short hair, white hair:1.4), silver eyes, (blush:1.2), grin,
+8k, raw photo, long shot, cinematic, outdoor, wide-angle,
+(huge breast:1.2), huge ass, small waist, wide hip, (thigh gap:1.1),
+at a beach, surrounded by people, dynamic pose, cinematic lighting, dynamic angle, (rich:1.4),
+1boy, photographer, public, camera, foreground,
+masterpiece, best quality, extremely detailed, illustration, morning, daytime, sharp focus, hdr, colorful, good composition <lora:inPublic_v10:1>  <lora:shirtliftALORAFor_shirtliftv1:1>

@@ -1,0 +1,1 @@
+an intricate portrait drawing of lucy \(cyberpunk\), short hair, (robot joints:0.5), mechanical parts, jacket, shorts, detailed facial features, beautiful glistening skin, head focus, laboratory, masterpiece, highres, best quality, 6k, <lora:Helltaker:0.5>, <lora:lucyCyberpunk_35Epochs:0.7>

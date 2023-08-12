@@ -1,0 +1,1 @@
+highres,masterpiece,1girl, chel_eldorado <lora:chel_eldorado-11:1>, cowboy shot, hand on hip, smile, midriff, tube top

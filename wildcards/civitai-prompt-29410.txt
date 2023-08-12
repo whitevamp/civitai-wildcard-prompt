@@ -1,0 +1,4 @@
+<lora:hugging_own_legs_v0.3:1>
+1girl, hugging own legs, on floor, wet, wet clothes, wet floor, flood,
+long shirt, sneakers, drop shadow, 
+<lora:basement_v0.2:1> basement,, masterpiece, best quality, highly detailed

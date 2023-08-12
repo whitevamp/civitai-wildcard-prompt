@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+ 1girl,    <lora:SeranaV1:0.8> Serana, 
+ <lora:towelConv2D2.5e-5_BF16:0.8> naked towel,

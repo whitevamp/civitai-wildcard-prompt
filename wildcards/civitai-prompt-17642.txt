@@ -1,0 +1,1 @@
+(HDR, 8K, absurdres, highly detailed, best quality, masterpiece, ultra-high res, photorealistic, vivid colors, ray tracing:1.2), 1girl, film grain, grey hair, high ponytail, looking at viewer, hands touching face, <lyco:GoodHands-beta2:1>

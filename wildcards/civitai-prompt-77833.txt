@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,natural volumetric lighting and best shadows,soft detailed facial features,smiling,
+1girl, solo, long hair, breasts, looking at viewer, skirt, jewelry, sitting, purple hair, multicolored hair, earrings, boots, parted lips, sleeveless, midriff, indoors, black skirt, black footwear, bracelet, lips, crop top, plaid, gradient hair, thigh strap, plaid skirt, realistic, stool, wearing Urban_Gal
+ <lora:edgAsianUrbanGal:1>

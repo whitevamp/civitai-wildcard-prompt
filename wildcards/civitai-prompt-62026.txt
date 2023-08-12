@@ -1,0 +1,2 @@
+a woman, (wearing camouflage_uniform:1.3), wearing cap, (holding a rifle:1.5), (red uniform:1.5),
+good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts,(((military training camp))),  <lora:camouflage_uniform04:0.5>, <lora:betterCuteAsian03:0.3>

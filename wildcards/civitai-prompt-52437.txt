@@ -1,0 +1,4 @@
+1girl, stewardess,dark blue uniform,garrison cap, white gloves,realistic, pale skin,hotel room, lying, bed,(gigantic breasts, cleavage,curvy:1.2),looking at viewer ,(masterpiece, high quality:1.2),skinny body,shiny skin,Slim waist,
+<lora:russianStewardess_v10:1>,<lora:chineseIdolMiY_v43:0.7>,
+Delicate facial detail, A beautiful face full of detail,closed mouth, 
+ solo, (yangmi),(nsfw:1.1),black hair,(long cleavage:1.5),black stockings,full body,

@@ -1,0 +1,1 @@
+Cowboy Shot,beautiful and detailed illustration,pop art,masterpiece, best quality, ultra-detailed,soft lighting,<lyco:GoodHands-beta2:1>, <lora:add_detail:0.3> , 1girl, white hair, glossy eyes, crop top, skirt, parted lips, blush,  flowers, sun, sunlight,

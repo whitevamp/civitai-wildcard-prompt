@@ -1,0 +1,7 @@
+ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, (masterpiece,best quality:1.5), (3 boys:1.5), (ultra detailed skin)
+BREAK
+1 boy
+BREAK
+1 boy, (lace blindfold:1.5), <lora:Lace_Blindfold02:0.6>
+BREAK
+1 boy

@@ -1,0 +1,4 @@
+(masterpiece, best quality, 16k, 8k, ultra highres, absurdres, highres:1.0),
+photo of a woman on a jet ski, taken from the front, blue tank top, smiling <lyco:skin_tone_slider_v1:4>
+,,
+masterpiece, best quality, highly detailed

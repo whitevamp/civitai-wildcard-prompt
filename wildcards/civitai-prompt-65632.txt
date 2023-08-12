@@ -1,0 +1,1 @@
+masterpiece, best quality, 1girl, solo, long_hair, looking_at_viewer, smile, bangs, skirt, shirt, long_sleeves, hat, dress, bow, holding, closed_mouth, flower, frills, hair_flower, petals, bouquet, holding_flower, center_frills, bonnet, holding_bouquet, flower field, flower field, lineart, monochrome, <lora:animeoutlineV4_16:1>, <lora:add_detail:1>

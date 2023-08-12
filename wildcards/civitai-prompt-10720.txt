@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2),highres, photorealistic,daytime,(1mechanical_girl:1.2),  <lora:Ma-Mian_skirt:0.3> ,  <lora:Mecha:0.65>,(frontlight:1.8), (dramatic_lighting:1.5),(bright_light:2.0),(utopia_city:1.5),outdoors,  full body,complicated_fiber, <lora:tangbohu_blurbg_v2:2>

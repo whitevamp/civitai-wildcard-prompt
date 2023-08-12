@@ -1,0 +1,1 @@
+RAW photo (masterpiece, best quality:1.2), wide-angle front view of an ultra-detailed, Spitfire in formation, (realistic:1.5), volumetric light, foggy clouds, contrails, sunset, (depth of field:1.2) <lora:EdobSpitfire_v1.0:0.7>

@@ -1,0 +1,2 @@
+(((masterpiece))), ((best quality)), ((intricate detailed)), ((Hyperrealistic)), ((digital painting)), dungeon and dragon theme, tarot card, warrior woman,  wearing armor, intricate detailed, fantasy, big breast, full body, digital art, blonde hair, tribal motive tarot, book cover,
+<lora:add_detail:1> <lora:animetarotV51:0.7>

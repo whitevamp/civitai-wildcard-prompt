@@ -1,0 +1,1 @@
+color portrait photograph of a woman in a multi story car park, dark sci-fi, dramatic lighting, negative space, colorgraded, <lora:epiNoiseoffset_v2Pynoise:2>  <lora:Better Portrait Lighting:0.8>

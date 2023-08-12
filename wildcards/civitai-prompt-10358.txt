@@ -1,0 +1,2 @@
+(big square:1.2),(big hole in the ground:1.2),man in hole,yamcha, male focus, 1boy, solo, black hair, lying, dirty clothes, spiked hair, black eyes, orange dougi, orange pants, blue sash, from above, blue wristband, black shoes,yamchapose,lying,(on side:1.8),closed eyes, fukubiri,(long hair),
+<lora:yamcha_v1_1:0.8> <lora:concept_yamchapose:0.8> <lora:fukubiri:0.3>

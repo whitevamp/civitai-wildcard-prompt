@@ -1,0 +1,10 @@
+best quality, intricate details,upper body, solo focus,
+
+
+1girl, long hair, red hair, messy hair, red highlights, blue eyes, sharp eyes,
+
+choker, torn legwear,
+
+hakos baelz,   <lora:hakos baelz:0.8>  
+
+ <lora:conceptPenisOverEyes_v10:0.8> penis over eyes, 1boy, penis, ,penis over eyes,(1boy),  open mouth, cum in mouth,blush,heavy breathing, saliva,

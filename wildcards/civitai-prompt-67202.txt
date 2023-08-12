@@ -1,0 +1,5 @@
+1girl, solo, jewelry, detached sleeves, necklace, blue-beaded earring, hakama skirt
+<lora:YunaFFX-V2:0.6>, YunaFFX,
+ultra high res, photo, photorealistic, highly detailed, detailed face, solo cute woman, castle balcony,
+medium  breasts, (masterpiece, high quality),looking at viewer, gorgeous goddess, bob cut, shiny skin,
+charming, alluring, dreamlike, royal cloak, ((thick bangs)),

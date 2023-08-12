@@ -1,0 +1,1 @@
+<cn:pose:1> <ti:prettyeyes> <lora:add_saturation:1.5> <lora:add_detail:0.5> <lora:venus-05:1> venus, bangs, thick thighs, long hair, hair ornament, masterpiece Standing, looking at viewer, fully clothed, intricate detail, vibrant colors, bahamas background

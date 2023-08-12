@@ -1,0 +1,12 @@
+masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper, highly detailed, absurdres, shiny skin, Depth of field
+BREAK 
+1 girl, standing, serene expression, mesmerizing eyes, straight long hair, flowing dress, poised posture, porcelain skin, subtle blush, crystal pendant
+BREAK 
+golden hour, (rim lighting):1.2, warm tones, sun flare, soft shadows, vibrant colors, painterly effect, dreamy atmosphere, (professional teacher clothing), 
+BREAK
+((an extremely delicate and beautiful)), floating, (detailed light), nature, (sunlight), floating palace, ribbon-trimmed legwear, fishnet stockings, leggings, 
+BREAK 
+classroom windows, (push glasses, hand pointing to blackboard), 
+BREAK
+semi-rimless eyewear, ribbon, ribbon trim, drop earrings, stud earrings, hairclip, lucency full dress, 
+<lora:add_detail:0.45> <lora:beautifuleyeslikeness_halfBody:0.3> <lora:mejiroArdanUmamusume_loha:0.2>

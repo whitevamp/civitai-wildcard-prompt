@@ -1,0 +1,5 @@
+(masterpiece:1.2), (best quality:1.2),anime screencap,
+1girl,looking at viewer,from side,looking at viewer,cowboy shot, 
+school,classroom,crowd of people:1.5,sunset glow,sitting on desk,leaning back, 
+blush,grin smile,clothes lift, lifted by self, underboob,(flat chest), 
+ <lora:spiderManPeniParker_v10:0.7>peni parker, school uniform,(plaid skirt),bike shorts, shirt,(white shirt,short sleeves,sleeveless_sweater,navy blue sweater),

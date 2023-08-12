@@ -1,0 +1,6 @@
+photo of a swimsuit model posing at the beach, eye-level angle, warm lighting, nostalgic, rule of thirds, faded colors, smooth texture, medium depth of field, balanced exposure, vintage, The Great Beauty 2013, Nikon F2, 50mm lens, Kodak Portra 400, Vintage Fashion Photography;
+
+(one piece swimsuit),
+
+8k, best quality, masterpiece,
+<lora:epiNoiseoffset_v2:1>

@@ -1,0 +1,4 @@
+black blindfold, masterpiece, best quality, high res, hm2b, 1girl, portrait, realistic, side lighting, wallpaper, nsfw, masterpiece, best quality, highres,
+<lora:add_detail:0.5> <lora:y2b_v2-1:0.7>,
+Gorgeous lips, covered eyes, 
+towel, (onsen),  hm2b, towel, chest towel, wet towel,

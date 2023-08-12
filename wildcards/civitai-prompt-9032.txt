@@ -1,0 +1,3 @@
+[32k|16k|best-quality],professional photo,sadcatmeme, cat, animal <lora:Chartreux_38-000002:1> <lora:sadcatmeme:0.6>
+Strange species, from alien technology, unknown objects, may be alien cats, warning of danger, full body domineering, breath of death, lost food,
+<lora:ap4ch3:0.2> <lora:Sonria-10:0.2> (open mouth, evil grin, red eye) <lora:Party-10:0.2> <lora:lora_blood_v1_from_v1_160:0.0.2> <lora:HoldingMonsterEnergy:0.1>

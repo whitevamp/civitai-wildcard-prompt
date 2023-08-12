@@ -1,0 +1,4 @@
+masterpiece,  
+1girl, red hair, aqua eyes, smile, 
+motion lines, motion blur, 
+ <lora:Crazy bukkake:0.6>ocean,surfing,

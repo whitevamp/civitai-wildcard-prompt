@@ -1,0 +1,2 @@
+high res, realistic, raw photo, 1girl, slim, fit body, cameltoe, shibari
+ <lora:suspension001:.6> <lyco:fitgirl_v10:.7>  <lora:LowRA:.5>, <lora:add_detail:.4> beautiful, masterpiece, <lora:add_detail:.4> beautiful, masterpiece, <lora:add_detail:.4> beautiful, masterpiece, <lora:add_detail:.4> beautiful, masterpiece

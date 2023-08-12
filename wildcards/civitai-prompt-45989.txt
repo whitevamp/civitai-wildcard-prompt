@@ -1,0 +1,3 @@
+(8k), (best quality), (masterpiece:1.3), (realistic), (photorealistic:1.36), ultra-detailed, cinema lights,
+1girl, solo, (((dark long hair with bangs))), (finely detailed beautiful amber eyes: 1.2),  lustrous skin, show Clavicle, perfect skin, (adult face:1.2), (medium_breasts:1.3),
+ <lora:eimifukada_:0.1>, <lora:koreanDollLikeness_v15:0.5>, <lora:japaneseDollLikeness_v10:0.2>,

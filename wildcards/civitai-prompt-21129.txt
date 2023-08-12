@@ -1,0 +1,2 @@
+, (masterpiece:1.2), best quality,PIXIV,
+cat and toy , <lora:cat:0.8>

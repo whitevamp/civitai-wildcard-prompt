@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, gothgirl, curvy figure, red eyes, tattoo, (demonic, infernal:1.25), chains, underground, hell, fire,<lora:tattoo_lora01:0.5> <lyco:EnvyInfernal01:1> <lora:gothgirl:0.5>

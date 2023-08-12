@@ -1,0 +1,5 @@
+(Realistic:1.2),from front,(View from below:1.4),
+18yo Girl,(shy),perfect body, k-pop Idol,short hair ,black hair,hair clip, (small breasts:1),(flat chest:1.2),(Beautiful chest shape:1),small white nipple,
+(mahalaiuniform),White shirt short sleeves, Black pleated skirt,Black pencil skirt, Belt,(short black skirt:1.2),
+sit pose,(thighs:1.4),(looking away:1.4),(classroom  background) ,
+mix4,<lora:cuteGirlMix4_v10:0.4>, <lora:thaiUniversity_v10:1>

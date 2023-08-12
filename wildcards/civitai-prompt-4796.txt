@@ -1,0 +1,1 @@
+(best quality:1.2), masterpiece,Black hair, blue eyes, looking up,from bottom, coat, opencoat, POV,  <lora:opencoat:0.4>   <lora:povFacesitting:0.7>

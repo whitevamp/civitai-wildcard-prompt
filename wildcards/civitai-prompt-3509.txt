@@ -1,0 +1,3 @@
+(AgeSlider-Adult:1), 1girl,solo, medium breasts , spread legs , (machinery) , empty eyes, ((cleft of venus)), nude, stationary restraints, straight hair, spread arms, ,cable, wire, industrial pipe, vaginal object insertion, ((((sex machine)), <lora:SexMachine:2>))
+natural blonde, ((tag group:piercings)), ((scared)), winter, black, dark brown, Leica M6 Camera
+<lora:Detail Tweaker:0.85> , (abs),    <lora:DetailMaker_v2.5:1>

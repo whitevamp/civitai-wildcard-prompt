@@ -1,0 +1,4 @@
+1girl,  upper body, flow, dress, blonde,
+abstract, negative space, Full body,
+(ink sketch,) lovely girl, goth girl, choker,
+Best quality, masterpiece,  <lora:AmyMoloko-01:1>

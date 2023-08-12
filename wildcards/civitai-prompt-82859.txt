@@ -1,0 +1,1 @@
+onoff, side-by-side photography of a ((mature)) woman wearing expensive lingerie, blue hair, detailed face, detailed nose, smirk, tattoo, intricate background, fake boobs, masterpiece, real woman <lora:onOff_v326:1.4> <lora:undressing_top.v1.0:0.8> , masterwork, 8k <lora:deep_v-neck_dress:0.5>

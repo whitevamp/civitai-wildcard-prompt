@@ -1,0 +1,6 @@
+[(sky background:1.5),::5] (isometric:1.0), double exposure, bubble,
+mid shot, full body,
+//
+[(white background:1.4),::10],
+//
+book, bookshelf, brown_hair, open_book, braid, solo, 1girl, long_hair, blue_eyes, collarbone, long_sleeves, book_stack, chair <lora:adaptedmodel:1> <lora:lihui4JXK-b2-bf16-128-128-1-re1-ep3-768-DA-5015fix:1.0>

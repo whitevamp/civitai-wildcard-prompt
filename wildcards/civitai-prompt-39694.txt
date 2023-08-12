@@ -1,0 +1,1 @@
+(detailed, masterpiece, intricate) <lora:add_detail:0.85>, a nude girl on a hiking trail, hill, covering breasts, covering crotch, tall trees, sunbeams, lens flare, nature, tree shade, clothes on the ground, smiling, embarrassed, <lora:covering_breasts_v0.1:1>

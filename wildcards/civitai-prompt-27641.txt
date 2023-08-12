@@ -1,0 +1,1 @@
+Russian, <lora:RussianDoll6:0.4>, (best quality, ultra high res, raw photo, masterpiece, extremely detailed photograph), (photorealistic:1.4), 1girl, (loose t-shirt1.4), light smile, solo focus, looking at viewer, close up,  <lora:eyeLora_eyesV10:0.4>, gray hair, blue eyes, from above, (sitting on bed), (wavy hair)

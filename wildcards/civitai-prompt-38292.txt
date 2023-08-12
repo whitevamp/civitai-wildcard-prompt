@@ -1,0 +1,4 @@
+<lora:koreanDollLikeness_v10:0.3>, ASCIIbest quality, high quality,(ulzzang-6500:1.0), highres, photorealistic, 4K, Raw, masterpiece, beautiful color, cinematic light, cinematic shadow, high detail face, detail skin, 
+1 gril(elf, bride, blonde hair, shiny hair, long hair, beautiful blue eyes, extremely cute and beautiful, big breasts, 16 years old, elf ears), (smiling:0.8), dynamic angle, sharp outline, (closed eyes), 
+wearing wedding dress(white wedding dress, wedding veil, long white gloves, white ribbon, flower, translucent), full body, holding flower,
+((gothic cathedral)), (Stained glass windows:1), indoor, light from above, low contrast, (side view),

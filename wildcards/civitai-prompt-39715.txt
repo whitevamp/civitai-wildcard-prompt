@@ -1,0 +1,1 @@
+<lora:FriedrichNietzsche:0.75>, photograph of friedrichnietzsche in a superman costume, full body, outdoors, rim light, arms outreached upwards, heroic pose, flying, muscular, best quality, photorealistic, 8k, uhd, film photography, studio quality, film grain, Canon Eos 5D, <lora:more_details:0.4>

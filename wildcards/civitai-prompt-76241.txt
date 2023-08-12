@@ -1,0 +1,3 @@
+4K, Masterpiece, highres, absurdres,
+1girl, solo, looking at viewer, simple background, white background, jewelry, white hair, earrings, teeth, choker, lips, grey eyes, makeup, lipstick, portrait, realistic, with edgMarquise hairstyle,((cowboy shot))
+<lora:edgMarquise:0.8>

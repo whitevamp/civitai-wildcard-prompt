@@ -1,0 +1,1 @@
+female, woman, cyberpunk scene, woman criminal, dangerous (yakuza:1.2) enforcer wearing orange red mecha bodysuit armor, neon red sun, orange sky,  <lora:MG_jixie:0.9>

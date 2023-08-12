@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),((edgQuality))
+smiling,smug,
+((edgHL,hentai_lingerie, 1girl, solo,wearing edgHL)),fishnet stockings,
+<lora:edgHentai_Lingerie1:1>

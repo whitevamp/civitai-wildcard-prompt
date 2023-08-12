@@ -1,0 +1,5 @@
+Best quality, masterpiece, ultra high res, (photorealistic, detailed face :1.4), 1girl, deep shadow, shiny skin, smile, 
+medium breast, slim leg, 
+filmg2, 
+<lora:FilmG2:0.6> 
+ <lora:yurisaLora_v40:0.3> <lora:sexylegs_v10:0.3> <lora:HaremDancer_v1:0.3> <lora:breastinclassBetter_v141:0.3>, A young beautiful exotic looking girl wearing an embellished headpiece stands on a magical kingdom overlooking wide beautiful mountains. Her flowy gown is translucent peach reminiscent of long summer days contrasted with elaborate gold bangles and thin bands around her chubby toes

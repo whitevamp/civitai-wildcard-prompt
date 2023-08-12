@@ -1,0 +1,1 @@
+1girl, beautiful face, wearing slingshot swimsuit, wide hips, standing on a beach, smiling, hands in the air, shot from above:1.1, POV,(8k, ultra realistic, UHD), octane rendering, cinematic light, dramatic effect, best quality,sunset, <lora:more_details:1>, outdoors  <lora:micro_slingshot_v1:1>,  <lyco:GoodHands-beta2:1.0>,

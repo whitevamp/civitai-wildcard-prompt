@@ -1,0 +1,3 @@
+(masterpiece, detailed, highres), (1girl), (black hair, high ponytail, bangs, sidelocks), (mature female:1.3), big breasts, wide hips, thick thighs,
+outdoors, house, grass, tree, moutain, sky, (armor, bikini, bikini armor, breasts, cleavage, navel, stomach, swimsuit, thighs, collar, black gloves, pauldrons, shoulder armor, thigh strap, scarf), ass, bent over, (slap mark:1.1), (from behind, cowboy shot), (pussy juice:0.9),
+<lora:Yuuki2Dv3:0.4>,(sweat:0.9), excited, smile, open mouth, <lora:conceptSlapMark_v10:1>, looking at viewer, closed eyes,

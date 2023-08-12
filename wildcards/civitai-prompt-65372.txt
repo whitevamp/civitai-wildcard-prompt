@@ -1,0 +1,1 @@
+<lora:FirevfxCreateMore_v1:0.3>, <lora:azulaAvatarLORA_v10:0.75>, ((best quality)), ((masterpiece)), (1girl:1.5), (detailed), (girl sitting at table while drinking tea: 1.5), (housefire in the background:1.5), (royal palace), (forest fire: 1.5), palm trees on fire, (princess azula:1.3), from below, (holding a teacup:1.5), crossed legs, smile, happy,

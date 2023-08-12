@@ -1,0 +1,1 @@
+(Masterpiece, Best Quality, Highres :1.2), volumetric lighting, fine detail, perfect face, 1Girl,sl, twin braids,blonde hair, blue eyes, school uniform, belt, sitting on chair across table, mess hall, pov, upper body , tilted head, smiling,  box of milk, food tray, one eye closed, windows, <lora:SlavyaLoraV5:0.85>, holding hand with viewer

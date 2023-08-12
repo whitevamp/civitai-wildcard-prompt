@@ -1,0 +1,10 @@
+/PictureQuality/ best quality, masterpiece,
+/Model/ 1girl , (black short bob hair:1.3), hairclip, blush, :D, 
+/Pose/  standing, dynamic pose, pointing finger to viewer, hand on waist, 
+/Location/ 
+/Lighting/ thick outline, 
+/Lens/
+/CameraAngle/ full body, 
+/Cloth/
+/Lora1/ (white short-sleeves shirt:1.3), (navy blue plated skirt:1.3) , belt,  (stu_mplai), socks, shoes,  <lora:stu_mplai_v3:0.6>
+<lora:popupparade-10:0.95>

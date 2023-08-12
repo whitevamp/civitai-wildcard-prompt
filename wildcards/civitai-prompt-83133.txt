@@ -1,0 +1,1 @@
+confused expression, short hair, slim, slender, looking at viewer, (masterpiece), (best quality:1.2), absurdres, intricate details, open robe, (highly detailed skin:1.2), sitting, yellow leather sofa, outside, clouds, golden hour, palm trees, <lora:danni2D_e536075steps:0.2>,  <lora:reiqStyleLORA_v2:0.3>

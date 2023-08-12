@@ -1,0 +1,1 @@
+<lora:Doorgods:0.7> chinese door gods,a painting of evil god,horror art,<lora:decapitation_real:0.8>,(holding two (severed_heads):1.2),

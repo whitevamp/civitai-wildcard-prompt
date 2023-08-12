@@ -1,0 +1,1 @@
+<lora:add_detail:0.5>, tr1c14, <lora:Tricia_RickAndMorty-v1:0.75>, bustier,  <lora:more_details:0.5>

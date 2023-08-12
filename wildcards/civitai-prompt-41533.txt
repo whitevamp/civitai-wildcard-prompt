@@ -1,0 +1,8 @@
+portrait medium shot of cillian murphy in the year of 1945, sad and in deep thoughts
+a man
+wearing a suit
+Desert background with big explosion far in the background
+cinematic light, bokeh
+<lora:Thomas Shelby 100 - 15 images NEW:0.9>
+3d render, octane, unreal engine 5
+masterpiece, best quality <lora:add_detail:0.8>

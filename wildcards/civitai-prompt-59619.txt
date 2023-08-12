@@ -1,0 +1,1 @@
+<lora:inPublic_v10:1>, (masterpiece:1.2, best quality), 1girl, public, photographer, runway, model, catwalk \(modeling\), pale skin, slim, slender, fit, v abs, small_breasts, flat_chest, nude, (excessive pubic hair:1.2), long blonde hair, {pussy_focus, extreme_closeup:1.3}, <lora:excessiveSparsePubic_v10:0.8>

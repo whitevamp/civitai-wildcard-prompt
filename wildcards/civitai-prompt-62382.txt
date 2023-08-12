@@ -1,0 +1,3 @@
+(photorealistic:1.4),Best quality, masterpiece, ultra high res,looking at viewer,libary background
+,(ํ1girl),(white shirt short sleeves),((black pleated skirt)),sitting
+, <lora:mahalaiuniform-000001:0.8> <lora:mixfaceL2-000001:0.8>

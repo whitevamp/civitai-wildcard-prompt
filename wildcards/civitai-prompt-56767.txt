@@ -1,0 +1,6 @@
+parameters
+best quality, 8k,raw photo, ultra realistic, masterpiece:1.2,professional light, F1.8,(colorful),
+1girl, red lips, choker,upper body,Goth_punk,(tear mole),
+looking at viewer, highlight on face, full body,
+Goth castle,
+<lora:no206Girl_v10:0.8> <lora:gothicPunkGirl_v10:0.5>

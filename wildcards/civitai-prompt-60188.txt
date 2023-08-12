@@ -1,0 +1,2 @@
+nsfw,  award winning photo of beautiful swiss top model  (wearing  (jewelled headdress ( gold, diamond, ruby, sapphire, gemstones) and necklace)), smile, happy, abs, (perfect anatomy, big perky breasts), (long gradient from red to pink hair, hair blowing in the wind), (pussy),
+  <lora:realisticVaginasGod_godpussy1V2:0.6>, (dynamic pose) (spreading legs),    wide hips, windblown hair,  swirly bokeh, sharp focus, 85mm lens, vibrant, film still, full body, <lora:epiNoiseoffset_v2:0.9>,

@@ -1,0 +1,5 @@
+(best quality), (ultra detailed), (masterpiece), organic cyborg, white plastic, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, extremely detailed magazine cover-style digital painting, (magazine cover-style illustration of a fashionable woman in a vibrant outfit), abs, adding a touch of fantasy to the scene, the text on the cover should be bold and attention-grabbing, with the title of the magazine and a catchy headline, the overall style should be modern and trendy, with a focus on fashion and fantasy, helvetica-bold, 
+charmed, centaur, phoenix, in a terrarium,
+(photographed on a Canon EOS R5, 120mm lens, F/4 aperture),
+<lora:theovercomer8sContrastFix:1.7>seductively city night with rim lighting, night sky visible galaxies, to8contrast style,
+ <lora:comicCover_v10:1:ind> <lora:envyColdShowerMakesYour_v11:1:outd2>

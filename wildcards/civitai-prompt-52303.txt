@@ -1,0 +1,3 @@
+(best quality:1.0), (ultra highres:1.0), (detailed beautiful girl:1.4), beautiful royal princess, platinum blonde hair, finely detailed ryal dress, ribbon, (intricate scepter:1.2), (detailed mant), detailed beautiful white shiny skin, looking at viewer, front view, (ulzzang-6500-v1.1:0.2), detailed gems, (intricate throne:1.2) , (half body),spread legs,light_smile,tears,
+
+<lora:yui_v3:1>

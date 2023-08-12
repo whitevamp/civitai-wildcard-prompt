@@ -1,0 +1,1 @@
+HDR, 8K resolution, intricate detail, sophisticated detail, depth of field, photorealistic, sharp focus, analogue RAW DSLR photograph, photorealistic, looking at viewer, closeup portrait, 1 girl, smiling, Tron scifi cyberpunk background, neon, ((sexy neon dress)), short hair, neon hair, glowing dress, (glowing pink eyes:1.2), <lora:add_detail:0.75>, <lora:nlc_pink:1>

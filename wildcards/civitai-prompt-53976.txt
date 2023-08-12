@@ -1,0 +1,1 @@
+cat,lihuacat,looking at viewer,masterpiece, full body,  <lora:lihuaoutput_name:0.8>,standing,grey eyes,sitting, tail,black_eyes ,castle, outdoors, masterpiece, best quality, flower field, landscape, cityscape, whitelihua,baishoutao,bailingzi,playing,(slit pupils:1.5)

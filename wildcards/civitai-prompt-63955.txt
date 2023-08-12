@@ -1,0 +1,4 @@
+masterpiece, best quality, 2girls,
+<lora:KUROGYARU_v01_GYARUKUROGAYRU,1girls,solo,jewelry, necklace, earrings, dark-skinned female, lips, nail polish,:0.7>
+dark-skinned female:1.5,GYARUKUROGAYRU:1.5,jewelry, necklace, earrings,  lips, nail polish
+kiss, yuri, looking at each other, hug, passionate, touching, tongue, mouth open  <lora:yurikiss:1>

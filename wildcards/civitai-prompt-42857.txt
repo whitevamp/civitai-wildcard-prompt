@@ -1,0 +1,2 @@
+bright scene,(fullbody shot) of a girl,deep scene depth,japanese idol,kawaii,cute, 23 years old, contempt, in Black Canyon of the Gunnison National Park , doing Snowshoeing_, by diane arbus , shot by Canon EOS R Mirrorless Camera , ((SFW)):1.5 , <lora:epi_noiseoffset2:0.6>,orange  perm hair,nude:1.0,idol shashin ,<lora:PinkNipples:0.4>,cleft of venus, shiny glossy skin, subsurface scattering, (sharp:0.7), detail hairy pussy,public hair,
+ <lora:EmilyPussy_v05:0.3>

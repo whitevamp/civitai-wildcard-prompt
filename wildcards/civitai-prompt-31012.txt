@@ -1,0 +1,16 @@
+award winning masterpiece photo of a gorgeous (young:0.9) adult female
+with natural small breasts and [damp|wet] hair,
+human on fire, [[white fire|blue fire]:white fire:0.8],
+looking at viewer with lustful expression,
+symmetric eyes, deep blue eyes,
+wind spirit,
+athletic body glistening with magic,
+soft contrast, sharp focus,
+frosted white skin, high detail skin, clear body,
+floating in the wind,
+majestic storm in the background,
+dim lighting, backlighting, 
+perfect composition,
+(real life, realistic, photorealistic) 
+<lora:on_fire:0.35>
+ <lora:Unholy:0.4>

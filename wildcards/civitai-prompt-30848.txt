@@ -1,0 +1,1 @@
+young woman, (torn clothes: 1.5), <lora:clothing_explosion_lora01:1>, RAW photo, photography, detailed skin, soft natural raw light, highly detailed, best quality, ultra detailed, extremely detailed, taken from mobile camera, dynamic pose, full body shot

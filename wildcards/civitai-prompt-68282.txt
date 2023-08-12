@@ -1,0 +1,1 @@
+girl,(hotify:1.2),sitting,chair,kitchen,food,table,short_hair,bob cut,hair clip,freckles,suspenders,red_hair,cleavage ,(masterpiece,detailed,highres:1.4) <lora:tuna:0.4>

@@ -1,0 +1,1 @@
+cute monster, masterpiece, highly detailed, color engraving, calligraphy, ornate, intricate, <lora:VoynichManuscript:0.4> VoynichManuscript <lora:dec_doc:1> dec_doc

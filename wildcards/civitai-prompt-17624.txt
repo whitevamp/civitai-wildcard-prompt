@@ -1,0 +1,4 @@
+1girl, luocha,blonde hair, long hair, white coat, black shirt, white pants, blue ascot, blue armband, blue vest, nsfw,
+compelling glances, tender-hearted damsel,
+dutch angle,atmosphere,
+<lora:Luocha_fm_v11:0.8>   <lora:lowra_v10:0.4>

@@ -1,0 +1,6 @@
+(masterpiece, best quality, high resolution), absurdres, intricate details, realism, (lens flare, glitters), (detailed shining light blue eyes:1.2), looking at viewer, (cowboy shot, black and golden base:1.3), <lora:add_detail:0.5> 
+BREAK (delicate hair, detailed shining dark yellow hair blowing in wind:1.2), beautiful face, shining earrings, light smile
+BREAK best hands, fist, tray in left hand
+BREAK pastel off-shoulder fluffy shirt with flower print, (large breasts), detailed skin
+BREAK dark midi skirt, (dynamic pose:1.2), (lively atmosphere, lively crowd:1.35)
+BREAK indoor european night pub, dimmed lighting, wooden bar counter with (shiny top plate), plush leather seating, gorgeous sofa, vintage decor, mellow jazz, chilled beverages, friendly conversations, relaxed ambiance, (fog)

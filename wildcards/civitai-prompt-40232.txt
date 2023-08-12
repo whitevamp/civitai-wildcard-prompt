@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),beautiful colors, sharp contrast,oil painting, vintage,crackled paint,
+walkure, portrait of a  woman ,wearing walkure,wings,armor,winged helmet,painted in walkure style
+Blonde Nadia with sunglasses and a choker,
+ <lora:edgWalkureXL:1> <lora:NadiaXL:1>

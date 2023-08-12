@@ -1,0 +1,1 @@
+(best quality, masterpiece), 1boy, full face helm, cyberpunk, <lora:mechaarmor_v0.7:0.75>, mechaarmor

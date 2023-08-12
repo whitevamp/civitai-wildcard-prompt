@@ -1,0 +1,1 @@
+LightningMagicAI,fireMagicAI,iceMagicAI, convergence of elements (fire:1.2), (ice:1.2), (lightning:1.2),wuxia,female,robort cyborg mech fighter,wmma, wearing sports bra fingerless gloves, martial arts,fcPortrait <lora:NijiExpressV2:0.2> <lora:wmma-fC-v1:0.6> <lora:FINAL Robort:0.5> <lora:wuxia2:0.4> <lora:ElementalMagicAIv2:0.7>

@@ -1,0 +1,1 @@
+masterpiece, best quality, ultra-detailed, illustration, 1girl, solo, bokeh, Depth of field, Cinematic Light, Lens Flare, soft light, ray tracing, <lora:add_detail:0.6>, <lora:epi_noiseoffset2:1>, long hair, floating hair, red bra top, red panties, pulling jean shorts

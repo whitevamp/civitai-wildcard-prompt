@@ -1,0 +1,1 @@
+RAW, (masterpiece, best quality, top quality, ultra detailed), sharp focus, full body, a stunning girl, blue hair, twintails, white shirt, white sport pants, <lora:hairdetailer:0.5>, outside, photo by greg rutkowski

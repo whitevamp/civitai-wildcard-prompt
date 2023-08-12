@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,   <lora:winder_neeko:0.8> winder_neeko, blue hair,short hair,crop top,short,blue lizard tail, twin braids, headpiece, fur collar, necklace,color tattoo,purple eyeshadow, freckles. eyeshadow, facial mark,magic,ice

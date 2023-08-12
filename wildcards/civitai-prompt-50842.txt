@@ -1,0 +1,1 @@
+<lora:BimboT:0.8>, BimboT, <lora:SaeShadow:0.8>, SSae, 1girl

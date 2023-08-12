@@ -1,0 +1,1 @@
+8k, high-res, best quality, (masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, upper body shot, beautiful girl, Doll-like symmetrical face,, Goth_punk, dark makeup, (pale skin:1.2), twin tail, <lora:Gothpunk:1>, ((detailed pupils)), detailed face and eyes, naughty face, rolling_eyes, cross-eyed, ahegao, open mouth, tongue out <lora:ahegaov1A:0.5>

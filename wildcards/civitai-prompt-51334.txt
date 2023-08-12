@@ -1,0 +1,7 @@
+fking_scifi_v2,
+portrait of an alien,
+large eyes, slick pallid green skin,
+slime,
+80mm, f/1.8, dof, bokeh, depth of field,
+subsurface scattering, stippling,
+mountain in the distance

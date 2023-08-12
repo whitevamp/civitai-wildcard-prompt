@@ -1,0 +1,2 @@
+bj_Fault art,1girl,solo,full body,blue eyes,male focus,glowing,portrait,animification,
+cinematic lighting,strong contrast,high level of detail,Best quality,masterpiece,White background,<lora:Fault_art:0.7>,

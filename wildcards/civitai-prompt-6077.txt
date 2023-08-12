@@ -1,0 +1,6 @@
+masterpiece, best quality,1girl,28 year old woman,brown eyes,long hair,shiny_skin,thin_waist,large breasts
+BREAK
+white polo shirt,pencil skirt,shiny_pantyhose:1.3,,
+        converse
+BREAK
+night,park,crowd:1.1,depth of field,looking at viewer,sitting on bench,dynamic view

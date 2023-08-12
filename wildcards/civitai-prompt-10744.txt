@@ -1,0 +1,1 @@
+[woman:cyborg:15], (masterpiece:1.4, best quality), (intricate details), unity 8k wallpaper, ultra detailed, beautiful and aesthetic, (photorealistic:1.4), upper body, perfect lighting, organic and mechanical elements, metallic limbs, joints, (machine made joints), synthetic skin, cybernetic enhancements, expressionless, science fiction, lost in space, <lora:more_details:1>

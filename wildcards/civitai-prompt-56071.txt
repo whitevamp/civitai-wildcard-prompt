@@ -1,0 +1,5 @@
+<lora:povDoggystyleLora1MB_povdoggy:0.7>,blush, 
+masterpiece,best quality, highres,novel illustration, , 1boy, penis, doggystyle, from behind,vaginal object insertion, ass, anus,
+<lora:youmuLike:0.7>,ymFace,
+silver hair,(short hair:short twintails:0.7), black hairband,twice hair_bow,twice hair ribbon,black bowtie,  [blue eyes:green eyes:0.6], maid apron,  suspenders, black socks, lace,
+natural light, contrast, texture, detail, realism, impressionistic, expressionistic, innovative, experimental, unique, warmth, coziness, intimacy, personal space, privacy, self-expression, individuality, fashion, style, aesthetics, beauty, youthful, emotion, creativity, imagination, composition, balance, harmony, rhythm, color, light, reflection,  refraction, tone, contrast,  foreground,  middle ground,    background,   naturalistic, figurative, representational,

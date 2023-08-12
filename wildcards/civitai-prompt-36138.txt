@@ -1,0 +1,1 @@
+(masterpiece:1.1), (best quality:1.1), (ultra highres:1.1), (Hyperrealistic:1.2) 4K Unity Wallpaper, <lora:cybervehiclev4:0.85>, retrofuturistic car, (front angled view:0.5), low view,  cyberpunk, wide fender flares, deep rims, racing wheels, (cinematic lighting:1.1), depth of field, bokeh, night time, city, neon lights, <lora:conceptWB_v1:0.75>

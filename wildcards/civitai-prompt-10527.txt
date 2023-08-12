@@ -1,0 +1,8 @@
+((best quality)), ((masterpiece)), (detailed),nsfw, sharp,photorealistic, ultra high res, intricate, hyperdetailed, (skindentation), (full body), <lora:suzune-nvwls-v1-final:0.6>
+cute, feminine, detailed body , (detailed face:1.1), (outlined iris), (perfect eyes),<lora:add_detail:0.3> ,(suzune, Red eyes, purple hair, red glasses, white shirt, cleavage, lace trim, pencil skirt, garter straps, black thighhighs) 
+4k, beautiful, <lora:eyeLora_eyesV10:0.4>:1.3 , head, feet, legs, standing, walking
+1girl,
+<lora:bimbostyleFourU:0.3> <lora:bimbostyleFive:0.3> 
+(massive lips: 1.3) (lips filler:1.3), (thick lips:1.3),
+, (bursting breasts)
+art by environmental art and Boris Vallejo and James Gurney

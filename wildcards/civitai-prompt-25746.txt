@@ -1,0 +1,1 @@
+<lora:eula_slingshot:0.9>, eula_genshin, 1girl, bangs, short blue hair, hairband, slingshot swimsuit, high heels, squatting, full body, outdoors, cityscape, buildings streets, from back, <lora:Euro-AmericanDollLikeness_V20:0.65>

@@ -1,0 +1,1 @@
+Best quality, masterpiece, official art,(1girl), ((holding a chinese flute)),ink painting, ((moon:1)), (((upper body:1.1))),Chinese style pink flower , Chinese style water, Mountain, <lora:ZXGD:0.55> <lora:Chinese style:0.3> <lora:zhongfenghua:0.4> hanfu, white smoke, zentangle,((background surrounded by mountains:0.35)), fly,

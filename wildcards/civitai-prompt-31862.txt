@@ -1,0 +1,13 @@
+Aesthetic: ((atompunk, atomic age, retro-futurism, technology, nuclear power, Cold War):1.4)
+BREAK
+Composition: 1girl, perfect face, perfect eyes,, AnalDildoQuiron style, anal toy, dildo, anal, anal object insertion, , vaginal object insertion, object insertion, clitoris, masturbation, anus, sex toy,fingering, , masturbation, dildo riding, sitting,<lora:quiron_AnalDildo_v3_lora:0.7>, orgasm
+BREAK
+Lighting: Twinkling Starlight, Peaceful, Tranquil
+BREAK
+Quality: (award winning photography, professional photography), (8k, RAW photo, best quality, masterpiece), photo-realistic,  intricate, highly detailed, professional lighting
+BREAK
+Appearance: (22 years old), white girl, american girl, ((brown hair))
+BREAK
+(good quality:0.994),
+BREAK
+<lora:add_detail:0.4> <lora:URPMv1.3_LORA_296:0.2> <lora:more_details:0.2>

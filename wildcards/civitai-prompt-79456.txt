@@ -1,0 +1,1 @@
+<lora:SuccubusT-16:1>, SuccubusT, Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting

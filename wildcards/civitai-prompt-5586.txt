@@ -1,0 +1,1 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, ultra-detailed, incredibly beautiful girl, short top, neon inscription, sneakers, in a room plastered with posters of rock bands, sloppy atmosphere, cigarette smoke, tape recorder on the floor,, BREAK <lora:difConsistency_detail:0.8>, BREAK <lora:difConsistency_photo:0.5>

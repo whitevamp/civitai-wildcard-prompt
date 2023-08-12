@@ -1,0 +1,1 @@
+(masterpiece), best quality, natural lighting, 1girl, (demi humanoid robot), covered breasts, (pov, from below:1.1), <lora:PovFromBelowV1:1>, <lora:demi:0.6>

@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:chel_eldorado-11_v2:0.8> chel_eldorado, (tube top,midriff, loincloth:1.2),

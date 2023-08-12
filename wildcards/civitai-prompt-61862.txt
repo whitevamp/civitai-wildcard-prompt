@@ -1,0 +1,5 @@
+(masterpiece, best quality:1.1), detailed, highres, highly detailed background, extremely detailed, beautiful detailed eyes, ultra-detailed,
+qiyana, hair ornament, short white hair, orange eyes,
+(indoors, on bed:1.4),
+upshirt, underboob, (extreme close-up:1.2), from below, (curvy, narrow waist:1), (lifted by self:1.5), (breast focus:1), (upper body:1.2), nude, no bra, 
+<lora:qiyanaLeagueOfLegends_v10:0.5>  <lora:Nipple-15:0.25> <lora:ahegao_v1:0.5> <lora:upshirtUnderboob_v10:1>

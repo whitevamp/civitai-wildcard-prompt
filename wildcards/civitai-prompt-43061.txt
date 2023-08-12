@@ -1,0 +1,1 @@
+(masterpiece, vibrant, detailed, highres:1.2), 1girl, orange hair, ponytail, blue eyes, small breasts, white YakuzaTattoo, (naked, nude, piercing, nipple piercing:1.2), indoors, night time, moonlight, sitting,  <lyco:GoodHands-beta2:1.1>, <lora:YakuzaTattoo_Concept:0.5>,  <lora:Piercing:0.6>

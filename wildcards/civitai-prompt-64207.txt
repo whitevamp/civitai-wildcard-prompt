@@ -1,0 +1,1 @@
+(masterpiece), (best quality:1.4), HDR, 8K, dramatic lighting, a girl,<lora:popularTrainedOnTheMost_v10:1>, garden, upper body, long hair, (detailed skin), sun light, dramatic light, flowers, roses, close up, disney princess dress, fantasy,  (pureerosface_v1:0.6),  <lora:dilrabaDilmurat_v1:1>,

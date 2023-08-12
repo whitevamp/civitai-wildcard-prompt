@@ -1,0 +1,1 @@
+<lora:LowRA:0.45>, skinny,(naked:1.1), a 29 yo girl, (Zooey Deschanel:0.3), intricate background as translucent (liquid:1.2) crystal sculpture (art by Ellen Jewett:1.3), <lora:add_detail:1.0>

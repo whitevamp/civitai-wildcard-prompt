@@ -1,0 +1,6 @@
+(masterpiece, highres, best quality:1.3), professional artwork, 8K, highly detailed, intricate,  vibrant image, sharp focus, trending on pixiv
+AishwaryaRay, solo, mature female, 40yo, milf, curvy, (dark skinned female:1.2), (dark skin:1.1), posing, night_sky, city lights, open mouth, tongue out, oral invitation, looking at viewer, full body shot,
+purple hair, long hair, ponytail, (hair over one eye:0.8), circlet, purple lips, makeup, green eyes, hoop earrings, collar, chain, perfect eyes, perfect face, ultra detailed hair, detailed face,
+corset, skirt, miniskirt, thighhighs, thigh boots, 
+curvy, (thighs:0.7), areola slip, large breasts, cleavage,
+<lora:AishwaryaRay-000009:0.9>

@@ -1,0 +1,1 @@
+illustration, trending  <lora:VikingPunkAI:.75>, VikingPunkAI, woman in dress smiling , stylized

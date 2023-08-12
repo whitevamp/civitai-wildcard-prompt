@@ -1,0 +1,1 @@
+photorealistic, analog, realism, 21 years old  girl, detailed blue eyes, pure face, vintage train, vintage alluring lace dress,<lora:add_detail:0.4>, <lyco:joycechu:0.6>

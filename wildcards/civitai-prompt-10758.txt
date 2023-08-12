@@ -1,0 +1,4 @@
+(inked original-art:1.2), (lineart:1.31), (fine-details:1.3), RAW-format,   <lora:add_detail:1>
+(1man, muscular adult  male:1.2),  grey eyes, light brown hair, side-swept fringe,
+ looking down, solo, half shot, detailed face, (western theme:1.1), 19th century wild west, american frontier, cowboy, dynamic pose, wild west hat, holster, belt, poncho, bolo tie, wild west era dark mine shaft interior  in background, dust,    bright lighting,  cinematic atmosphere, wind blowing,
+<lora:epi_noiseoffset2:0.5>,

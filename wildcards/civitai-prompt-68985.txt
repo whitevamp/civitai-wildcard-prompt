@@ -1,0 +1,17 @@
+(masterpiece, 4k ,ultra detailed:1.2),(anime:1),illustration,(photorealistic:1),
+(aerial shot,from above:1.4),
+(indoor,floor,surgery,surgical room,science_fiction:1),
+(simple background,white background:1.4),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.75>,
+ ADDBASE 
+(1men standing next to girl,lab coat:1.2),
+ ADDCOL 
+(1girl:1),(attractive,absurdres:1),
+(supermodel:1.4),(wide_hips:1),(black hair),(naked:1),(both eyes closed:1),(full_body:1.2),
+(clear face,expressionless:1),
+(lying on operating table,on back,operating table:1.4),(spotlight:1),(fully naked:1.2),
+<lora:Cnbeauty4_v1:0.4>,
+ <lora:Futuristicbot4:0.6>,(cyborg:1.2)
+ ADDCOL 
+(2mens standing next to girl,lab coat:1.2),

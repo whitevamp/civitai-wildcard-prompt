@@ -1,0 +1,1 @@
+masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,heicailai_\(biulan\), 1girl, solo,arona \(blue archive\),red halo,black eyes,beautiful detailed eyes,landscape, colorful, very long hair, grey hair, visible through hair, small breasts,over-kneehighs,hexagon ,mid shot, full body,standing, <lora:LOHACAILAI:0.6>, <lora:gachaSplashLORA_v40:0.8>

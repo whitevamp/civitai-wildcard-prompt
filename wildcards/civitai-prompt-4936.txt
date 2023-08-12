@@ -1,0 +1,1 @@
+Painting,(masterpiece, top quality, best quality, 4k,official art, beautiful and aesthetic:1.2),(splash-ink style:1.3),(contrast color use:1.2),(Edo jidai structure:1.1),(landscape:1.1),(animal:1.1),((an extremely delicate and beautiful)),cinematic light,<lora:add_detail:1>,

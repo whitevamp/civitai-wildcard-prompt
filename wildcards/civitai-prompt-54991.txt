@@ -1,0 +1,5 @@
+masterpiece, best quality,
+(Emma Stone made out of emerald crystal:0.9),
+(in style of Ellen jewett, style of lawren harris:1.1),
+epic, cinematic, hdr, 135mm,
+hard light, (pastel colors:0.7), detailed, intricate

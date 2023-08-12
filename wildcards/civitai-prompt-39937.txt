@@ -1,0 +1,4 @@
+(masterpiece), high quality, highly detailed background, 1girl, solo,
+<lora:NemuManaka-v1-08:0.7>, ChopioNemu, brown hair, braided bun, single hair bun, french braid, sidelocks, blunt bangs, purple eyes, looking at viewer,
+outfit_1, school uniform, black serafuku, sailor collar, collar, black skirt, pleated skirt, black thighhighs, zettai ryouiki, large breasts, 
+standing, smile, bedroom,

@@ -1,0 +1,1 @@
+masterpiece, best quality, 8k, perfect lighting, cinematic lighting, adult, mature, female, 1girl, solo, solo, looking at viewer, (RSEEmma:0.8), <lora:MISC-GlossyFace:0.3>, <lora:CHAR-EmmaWatson:0.4>, (emma watson:1.1), portrait, upper body, blush,  <lora:CLOTHES-HogwartsUniform:0.3>, hogsks, gryffindor, hogwarts school uniform, black robe, tie,

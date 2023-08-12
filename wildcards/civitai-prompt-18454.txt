@@ -1,0 +1,3 @@
+(girl:1.2) is being followed by (gigantic monster creature:1.3), ((horror art, dread, running, scared, tears)), long hair, silver hair, red eyes, night, (horror \theme\), graveyard, outdoors, (long black sharp nails), night, (zentangle, mandala, tangle, entangle:0.5, eyes monster:1.2),
+intricate details, sophisticated details, depth of field, extremely detailed CG unity 8k wallpaper, detailed skin, red eyes, detailed skin texture, (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extreme detailed, colorful, highest detailed, cgsociety, cinematic, high details, wide angle shot,
+<lora:LowRA:0.7>

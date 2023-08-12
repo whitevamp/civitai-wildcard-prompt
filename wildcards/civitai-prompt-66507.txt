@@ -1,0 +1,7 @@
+masterpiece, best quality,(masterpiece:1.0), (best quality:1.4), (ultra highres:1.2), (Hyperrealistic:1.4), (gigantic breasts:1.2) (photorealistic:1.2),
+ nipples, cameltoe, micro bikini,
+(nsfw:1.2),  1girl,solo, looking at viewer, detailed face and fingers, beautiful detailed eyes,
+Eight-head tall beauty, slim waist, full body, long 
+"a goddess of love, with long, curly hair and a flowing dress in shades of pink and red. A soft, warm glow should surround her, and a flock of doves should flutter around her head."
+"a goddess standing in the midst of a beautiful, tranquil garden, with colorful flowers and greenery in the background. Butterflies and birds should be fluttering about, and a gentle breeze should be blowing through the scene."
+<lora:QingChao:0.4> <lora:cameltoe_pussy.v1.0-000055:0.3>

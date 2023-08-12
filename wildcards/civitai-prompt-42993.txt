@@ -1,0 +1,4 @@
+((masterpiece, best quality, high quality, highres, ultra-detailed)), (zelensky:1.2), persZel-1700, serious,  black business suit jacket, white shirt, (white powder:1.1), (mountains of powder:1.3), (black leather chair:1.2), (glass of whiskey with ice:1.1), wood desk,
+black curtains, (gold:0.1), dark room,
+<lora:zelensky:1>,
+<lora:more_details:0.2>

@@ -1,0 +1,1 @@
+(masterpiece, best quality, detailed, highres:1.2), red eyes, pink long hair, closed mouth, rubber suit, anime, cowboy shot, <lora:envyCuteMix01_v10:0.5>

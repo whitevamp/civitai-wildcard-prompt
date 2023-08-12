@@ -1,0 +1,6 @@
+Subtle narrative, enigmatic atmosphere, atmospheric perspective, fluid movement, ethereal quality,
+solo,
+mall,
+low fantasy,
+Lively Brushwork, Striking Composition, Psychedelic Imagery,
+<lora:oc_v10:0.3>

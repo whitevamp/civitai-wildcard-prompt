@@ -1,0 +1,5 @@
+{{masterpiece, best quality, extremely detailed CG, unity 8k wallpaper, cinematic lighting, lens flare}},(depth of field:1.4),
+underwear, breasts, 1girl, thighhighs, panties, gloves, black hair, cleavage, bra, skirt, black gloves, navel, garter straps, looking down, large breasts, black bra, white panties, black thighhighs, pantyshot, solo, shirt, long hair, collarbone, indoors, lips, off shoulder, closed mouth, sitting, table, pencil skirt, lace trim, blurry, grey shirt, leaning forward, bra strap, black eyes, realistic, bangs, blurry background, patreon username, midriff
+<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,<lora:difConsistency_detail:0.4> <lora:difConsistency_photo:0.55>,stone carving,, <lora:Black_8D_glossy_stockings:0.4>,thighhighs,black thighhighs,Black 8D glossy stockings,
+ <lora:libbg_v16:1>, lib_bg, 
+ <lora:ChineseDollLikenessV3.0:0.6>  <lora:breastinclassBetter:0.3>  <lora:add_sharpness:0.5> pureerosface_v1

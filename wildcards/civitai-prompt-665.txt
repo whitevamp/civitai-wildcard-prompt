@@ -1,0 +1,4 @@
+<lora:ass_worship_v0.5a:1.2>
+(ass worship:1.2), 1girl, 1boy, multiple boys, 
+<lora:chikan_v1.5i-locon:0.8>  
+<lora:ugly_bastard_v5.4a:0.8>, masterpiece, best quality, highly detailed

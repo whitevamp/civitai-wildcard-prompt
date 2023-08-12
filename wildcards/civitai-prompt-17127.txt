@@ -1,0 +1,1 @@
+<lora:add_detail:0.6>, <lora:hipoly_3dcg_v7-epoch:0.8>,highly detailed, professional photo, (bokeh:1.2), realistic, absurdres, highly detailed skin, photorealistic, highres, long red hair, ginger, realistic green eyes, pale skin, Irish, woman, beautiful, nude, (fart ass:1.2), in a pub at the bar, looking at viewer

@@ -1,0 +1,1 @@
+(masterpiece, highres, ultra detailed, best quality:1.2), (colorful1.4), (perfect fingers, perfect hands, perfect arms:1.2), <lora:add_detail:.5> <lora:flat_color:.5> <lora:LowRA:.5>

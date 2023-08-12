@@ -1,0 +1,6 @@
+princess_peach crown pink_dress blonde
+midriff slim waist fitness
+(busty:1.2)
+<lora:shirtlift:0.5> shirtlift
+ <lora:looking disgusted:0.3> (looking disgusted very angry parted lips:1.3) 
+looking_at_viewer looking_at_camera (voluptuous:-1)

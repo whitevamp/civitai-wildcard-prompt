@@ -1,0 +1,1 @@
+1girl, pov across table, table, [smile, blush, closed mouth:0.4], <lora:povAcrossTable_v008Beta:0.6>, [Erin Moriarty|Mischa Barton] as 18yo girl, (blond long hair:1.2), blue eyes, front layers hairstyle, white shirt, <lora:lowra_v10:0.6>

@@ -1,0 +1,1 @@
+perfect skin,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4),1girl, (aegyo sal:1), professional lighting, photon mapping, radiosity, physically-based rendering <lora:nun:0.8>  ,church, white thighhighs, white wimple  <lora:koreanDollLikeness_v15:0.6>

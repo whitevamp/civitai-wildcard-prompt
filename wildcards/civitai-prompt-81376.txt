@@ -1,0 +1,1 @@
+<lora:autopa-10:0.6> <lora:autopa-15:0.2>

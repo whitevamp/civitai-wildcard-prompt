@@ -1,0 +1,1 @@
+((solo)),1 girl,Kpop idol,best quality, masterpiece,white hair,thighhighs over pantyhose,hanfu,Flower,hanfu girl,<lora:R2:0.5>,<lora:lora-hanfugirl-v1-5:0.8>,(detailed face:1.2)

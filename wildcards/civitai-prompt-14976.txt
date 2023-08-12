@@ -1,0 +1,3 @@
+1girl,red eyes, black hair, scared, tears, embarrassed, 
+masterpiece,best quality,ultra_detailed,highres,absurdres, <lora:vectorer:1> ,
+BREAK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,KK,

@@ -1,0 +1,3 @@
+official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, High quality, beautiful, masterpiece, best quality, (zentangle, mandala, tangle, entangle:0.6),
+1 girl, adult (elven:0.7) woman,  brown eyes, medium brown straight hair,
+(style-swirlmagic:1.0), character focus, portrait, looking at viewer, solo, half shot, detailed background, detailed face, (<lora:style_GlowingRunesAIV6:0.8>, GlowingRunesAIV2_paleblue, glowing runes theme:1.1) holy oracle, gentle expression, veiled,   dynamic pose,   temple, altar, divine light, divine aura,   (candelabra:0.8),    embroidery, swirling lights emanating,  chalice,  petals,   high fantasy style, gold, reflections, holy fire,

@@ -1,0 +1,1 @@
+Link, paya, left female Paya hugging right male Link, Link brown hair, happy, ((masterpiece)), (best quality), (detailed), outdoors, <lora:paya:0.8>, <lora:linkGreenTunicVer_linkV1:0.8>

@@ -1,0 +1,3 @@
+look at viewer, cinematic_lights, solo, a girl in airport, world_trade_center, walking to departure gate, airport lounge, airplane, briefcase, holding luggage, indoors, luggage, new york, night, tarry sky, night sky, rolling suitcase, runway, skyscraper, suitcase, taking off, aircraft, wide shot, building, city lights, 
+(best quality, masterpiece:1.2), (extremely intricate detail), extremely delicate and beautiful, (cute, pretty),
+<lora:add_detail:0.8>,

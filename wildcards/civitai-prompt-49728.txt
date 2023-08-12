@@ -1,0 +1,1 @@
+concept art  <lora:clockworkspiderV2:.5> , clockworkspider  horror machine

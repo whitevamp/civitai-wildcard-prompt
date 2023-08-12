@@ -1,0 +1,1 @@
+skeleton,warhammer 40k,space marine,intricate ornamented black gold ruby armor,adepta sororitas,dynamic posture,male,Polar desert landscape background,volumetric cinematic lighting,highly detailed skull,<lora:WH40KSisters_V2rank8:0.7>,realistic reflections,

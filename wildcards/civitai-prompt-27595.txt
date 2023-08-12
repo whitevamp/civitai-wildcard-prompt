@@ -1,0 +1,1 @@
+Portrait of ((((pepe_frog))))  <lora:epi_noiseoffset2:0.5> in a ((suit)) typing on a laptop,  (((green skin))) BREAK magazine cover, BREAK (masterpiece, extremely detailed skin, photorealistic, heavy shadow, dramatic and cinematic lighting, key light, fill light), sharp focus, BREAK, <lora:pepe_frog_v2:1>, epicrealism

@@ -1,0 +1,5 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2),
+ania,chibi,cute, smile, open mouth,
+flower, outdoors, ((playing with a cute dog)), black  beret,  sundress, blush, tree, :3, shirt, short hair, cherry blossoms, orange headwear, blurry, brown hair, blush stickers, long sleeves, bangs,  pink hair, (yellow flower),
+(beautiful detailed face), (beautiful detailed eyes), solo, genshin impact, Demon wings, 
+<lora:blindbox_V1Mix:1>   <lora:SPYFAMILYAnyaForger_AnimefullLatestPruned:1>

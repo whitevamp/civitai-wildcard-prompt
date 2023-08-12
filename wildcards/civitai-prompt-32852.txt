@@ -1,0 +1,4 @@
+masterpiece, high quality, highres, detailed,detailed face,
+1girl,pink hair, earrings, spread legs, cleavage, looking to the side, sitting,bare legs,bare shoulders, 
+indoors,depth of field,
+<lora:add_detail:0.6>, <lora:FilmVelvia2:0.4>

@@ -1,0 +1,7 @@
+vivid illumination, enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,beautiful and aesthetic, beautiful,
+1girl,solo,
+bank,
+indoor,
+Intuition,
+alley, narrow, shadowy,
+<lora:LowRAv2:0.6>  <lyco:GPTS7 comic_443703:0.4>

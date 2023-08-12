@@ -1,0 +1,1 @@
+highly detailed,{best quality}, {{masterpiece}}, {highres}, original, extremely detailed 8K wallpaper,masterpiece, best quality, 1girl, (cyborg:1.0), cyberpunk, mechanical parts,Peking Opera,  <lora:PekingOperaR:0.7>

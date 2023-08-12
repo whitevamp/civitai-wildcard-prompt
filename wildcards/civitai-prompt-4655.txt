@@ -1,0 +1,2 @@
+(masterpiece,best quality, detailed), 1girl, solo, outdoors, brick wall, against wall, (vines, rose, red rose), cowboy shot, arms behind head, smile, parted lips, elbow gloves, black choker, necklace, leather pants, corset, midriff, bare shoulders, knee boots, dutch angle, looking at viewer, marnie \(pokemon\),
+<lora:BloodrayneV6:1>,  <lora:more_details:0.5>,  <lora:marniePokemonSSLora8_pokemarnie:1>

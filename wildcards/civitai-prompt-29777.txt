@@ -1,0 +1,1 @@
+(best quality:1.2), (masterpiece:1.2), (highly detailed:1.2), (sharp focus), (full torso portrait:1.4), 1female, solo, (beautiful, perfect eyes, perfect face, highly detailed face), (medium breast, medium hips, perfect female body), wearing armor suit, closed_mouth, (MagmaTech), (lava), dungeon, white hair, (dynamic pose), <lora:MagmaTech-20:1>

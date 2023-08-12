@@ -1,0 +1,1 @@
+eternal sailor moon aiming handgun at viewer, holding realistic pistol, (realistic:1.3), finely detailed, quality, rembrandt lighting, (masterpiece:1.2), (photorealistic:1.2), (best quality), (detailed face:1.2), (detailed skin:1.3), (intricate details), dramatic, ray tracing,<lora:aimingAtViewer_v1:1>  <lora:eternal_sailor_moon-v10:1>

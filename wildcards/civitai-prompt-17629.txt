@@ -1,0 +1,3 @@
+Humanist Photography,Film photography,(high-angle shot:1.3),negative space,
+lake full of lotus flowers,a girl in hanfu lying on a huge lotus leaf,<lora:weijin_hanfu:0.6>,<lora:Ymiao1-05:0.6>,
+soft lighting,beautiful shadow,low key,in the dark,(photorealistic, raw photo:1.2),hyperrealism,ultra high res,8K,Best quality,masterpiece,

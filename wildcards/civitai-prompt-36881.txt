@@ -1,0 +1,2 @@
+<lora:towel_over_breasts_v0.1:1.1> towel over breasts,
+<lora:microskirt_v0.2:1> microskirt,, masterpiece, best quality, highly detailed

@@ -1,0 +1,2 @@
+(((masterpiece))),bestquality,illustration,beautifuldetailedglow,
+paper_cut, <lora:KK_paperCut_v1:1>,  <lora:tachi-e:0.8>,fantasy, white background,  full body,1girl, barefoot, Phoenix,fire,

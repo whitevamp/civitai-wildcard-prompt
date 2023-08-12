@@ -1,0 +1,2 @@
+melting, abstract, [1boy who has white hair, short hair with long locks,small breast ,messy hair, red eyes,long sleeves ,Taoist robe,oversized clothes is melting and splashing],splash,hyper detailed,backlighting,sand, water,black background, dust clodust,water splash,long hair, boots, 1boy, very long hair, braid, black hair, bug, bird, branch, looking at viewer, yellow eyes, red footwear, brown hair, traditional media,
+(((Ink painting style))),(((Chinese Painting))),  <lora:Huya:1> <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>
