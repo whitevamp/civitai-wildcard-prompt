@@ -1,7 +1,7 @@
 # civitai-wildcard-prompt
 **A massive collection of wildcards for Stable Diffusion + Dynamic Prompts extension**
 
-**I did not creat any of the prompts in this collection,** these are prompts, that users of civitai created, what i did was scrap the civitai image API and collected all the prompts, and placed them in to text files. there is currently 83,833 Files in this collection. all credit goes to the respective user.  
+**I did not creat any of the prompts in this collection,** these are prompts, that users of civitai created, what i did was scrap the civitai image API and collected all the prompts, and placed them in to text files. there is currently 83,833 Files in this collection. all credit goes to the respective users.  
 
 ## Installation
 
@@ -19,17 +19,19 @@ Using Automatic1111's fork, you can install Dynamic Prompts from the Extensions 
 
 If you're still unsure about what this does; basically it allows you to use wildcards to randomize keywords based on what is available inside the text file. An example prompt would be something like this:
 
-a **`__adj-beauty__`** woman wearing a **`__dress__`** in **`__location__`**
+ - for a compleatly random promt use **`__civitai-prompt-*__`** 
+  - or you can manually choose any number from 1-83833. here i chose civitai-prompt-1100 **`__**/civitai-prompt-1100__`**
 
 The result would look something like this with each generation:
 
-- a **beauteous** woman wearing a **minidress** in **Italy**
-- a **stunning** woman wearing a **gown** in **France**
-- a **lovely** woman wearing a **cocktail dress** in **Tokyo**
+- **a beautiful cute (kitten girl) cyborg with white hair, (((photo realistic))), 4k, hdr, intricate, octane render, ((volumetric lighting)), sharp focus, vignette, trending on artstation, cgsociety,**  
+- **(best quality, masterpiece), rockstar in concert,**
 
 ### Resources
 
 You can find even more wildcards to use:
+
+[sd-wildcards](https://github.com/mattjaybe/sd-wildcards)
 
 [Wildcards for SD](https://github.com/themartiantourist/Wildcards-for-SD)
 
@@ -39,7 +41,6 @@ ChatGPT is free (for now) and [you can sign up for it here](https://openai.com/b
 
 There are Windows/Linux/macOS apps available at [prompts.chat](https://prompts.chat/).
 
-*Protip*: You can create a style with your favorite lines.  For example, I have a style called Camera Wildcards that injects this line to the prompt box: *`__camera__, __f-stop__, __iso-stop__, __focal-length__`*
 
 ### How To Clone This Repo
 
@@ -51,6 +52,6 @@ Then, once Dynamic Prompts is installed, navigate to this folder using Windows E
 
 In Windows Explorer's address bar at the top, type in `cmd`, and a command prompt will open.  Then put this in there:
 
-`git clone https://github.com/mattjaybe/sd-wildcards.git`
+`git clone https://github.com/whitevamp/civitai-wildcard-prompt.git`
 
 It'll quickly download the wildcards folder into the proper place. You don't have to reboot Stable Diffusion or anything, it'll work as soon as you invoke a wildcard in your prompt.
