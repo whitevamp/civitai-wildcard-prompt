@@ -1,7 +1,7 @@
 # civitai-wildcard-prompt
 **A massive collection of wildcards for Stable Diffusion + Dynamic Prompts extension**
 
-**I did not creat any of the prompts in this collection,** these are prompts, that users of civitai created, what i did was scrap the civitai image API and collected all the prompts, and placed them in to text files. there is currently 83,833 Files in this collection. all credit goes to the respective users.  
+**I did not creat any of the prompts in this collection.** these are prompts, that users of civitai created, what i did was scrap the civitai image API and collected all the prompts, and placed them in to text files. there is currently 83,833 Files in this collection. all credit goes to the respective users.  
 
 ## Installation
 
