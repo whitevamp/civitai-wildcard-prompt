@@ -1,0 +1,1 @@
+EasyNegative, Unspeakable-Horrors-Composition-4v, verybadimagenegative_v1.3, muscular, 2 girls, bad-hands-5, extra hands, extra legs, out of frame, out of focus, (worst quality, low quality, normal quality:1.3),  bad_prompt_version2

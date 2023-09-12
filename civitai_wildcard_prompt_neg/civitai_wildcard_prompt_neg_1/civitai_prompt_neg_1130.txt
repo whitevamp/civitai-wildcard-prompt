@@ -1,0 +1,1 @@
+(head_out_of_ frame,multiple views,comic:1.2)EasyNegativeV2[worst quality, low quality::10][negative_hand-neg,ngng00:0.5]

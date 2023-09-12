@@ -1,4 +1,0 @@
-official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality, (zentangle, mandala, tangle, entangle),
-(full body:0.3)
-1girl, Colored pigment,Colored paint,colorful,splashing, Splash paint,Wear a lot of paint
-<lora:ClothingAdjuster2:-0.2> <lora:Cute_girl_mix4:0.3> <lora:3DMM_V12:0.45> <lora:ggx_V2.1_16:0.2> <lora:tutu's cyberpunk:0.25> <lora:VeryLongLegs_v2:0.0> <lora:sarah-05:0.3>

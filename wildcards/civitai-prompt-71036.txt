@@ -1,1 +1,0 @@
-4K, Masterpiece, highres, absurdres, smiling,beautiful dark haired mod_woman, face focus ,  Haute_Couture,wearing a Haute_Couture designer dress, portrait, perfect mod_body,  <lora:mod:0.35>,  <lora:Haute_Couture1.11:0.8>

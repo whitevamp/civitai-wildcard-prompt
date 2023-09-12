@@ -1,2 +1,0 @@
-<lora:girlfriendmixV1_v10:1>,(close-up:1.4),
-(RAW photo:1.2), (photorealistic:1.4),(masterpiece:1.3),(best quality:1.4), dreamlike, (detailed eyes),(detailed facial features), (detailed clothes features), skin tight, (shiny skin),(slender girl),(slim girl), 1girl,solo, cute,smlie,(medium breasts), bangs, straight hair, long hair, black hair, black eyes, crystal pendant, Long blue scarf,White long wool coat,Black thick pantyhose,Brown snow boots, deep shadow, low key,，<lora:epiNoiseoffset_v2_2:0.1> <lora:Film:0.2>

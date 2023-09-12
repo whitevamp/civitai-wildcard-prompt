@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t,badhandv4,(worst quality:2.0),(low quality:2.0),(normal quality:2.0),lowres,(bad anatomy:1.5),bad hands,extra legs,monochrome,grayscale,AS-YoungV2-neg

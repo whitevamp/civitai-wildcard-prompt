@@ -1,0 +1,1 @@
+child, watermark,  badhandv4, EasyNegative, simple background, black lace, black clothes,

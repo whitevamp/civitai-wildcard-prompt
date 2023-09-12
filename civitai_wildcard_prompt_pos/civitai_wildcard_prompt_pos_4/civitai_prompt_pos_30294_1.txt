@@ -1,0 +1,11 @@
+an European woman, nowadays,
+choker, (medical mask:1.2), (headphones:1.2),
+[white shorts], [(nipples:1.7) | white t-shirt], visible nipples through the white top t-shirt,
+(waist-high:1.2), looks at the camera,
+(wet:1.2),
+natural hair,
+[room, simple background],
+confident face,
+(natural skin:1.2),
+(1 person:1.3),
+hdr, 4k, cinematic, hyperrealistic

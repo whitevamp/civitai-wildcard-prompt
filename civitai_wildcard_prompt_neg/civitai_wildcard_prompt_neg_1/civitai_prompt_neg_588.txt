@@ -1,0 +1,2 @@
+color aberration, flash, (male:1.5), (EasyNegative:1.2),(worst quality, low quality:1.4), (bad anatomy, bad proportions, extra limbs:1.2),  (watermark, signature, patreon username, text:1.1),  BadDream badhandv4 By bad artist -neg easynegative ng_deepnegative_v1_75t UnrealisticDream verybadimagenegative_v1.3,
+<lora:Asian-Less-Neg:1>

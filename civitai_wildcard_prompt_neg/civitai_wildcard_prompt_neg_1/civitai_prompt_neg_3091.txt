@@ -1,0 +1,1 @@
+easynegative, bad-hands-5, [negativebs:0.2], (low quality, worst quality:1.3)

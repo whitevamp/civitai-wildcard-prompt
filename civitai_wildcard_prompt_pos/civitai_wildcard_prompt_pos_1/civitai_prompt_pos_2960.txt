@@ -1,0 +1,10 @@
+Ultra-realistic 8k CG, masterpiece, best quality, ((very detailed face)), (photorealistic:1.4), 
+absurdres, RAW photo, film grain, pov, extremely detailed, sunshine, white sand, ((stones)), ((boy haircut:1.6)),
+1girl, ((blonde)),  ((short hairs)), ((ideal bobtail haircut:1.5)), ((white hairs:1.6)), ((full naked)), posing, ((wild beach:1.6)), ((sea)), happy smile, smirk, embrassed, perfect lighting, lipstick, ((nature)),
+detailed background, small breast, flat_chest, ((detailed legs)), ((slim body:1.4)), ((short hairs)), ((perfect clean skin)), ((detailed nipples)),
+ shiny oiled skin, ((detailed pussy)), ((hands behind head)), ((cute young face:1.3)),
+((muscle stomach)), ((muscle cubies)), ((clean sand)),
+  ((pissing pose)), ((legs spread)), ((naked pussy:1.2)),  ((naked vagina)),
+((sunburn)),
+ <lora:oil2.0_2-512-64:0.5>
+ <lyco:BetterPussyV0.1.0-LR00025-Locan:1.0>

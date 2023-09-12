@@ -1,0 +1,7 @@
+4k, photo, realistic,
+1 korean woman, naked, (natural breast), (full body),
+earrings, smooth thigh, (looking at camera:1.6), pale skin,
+(black hair), (detailed eyes:1.3) ,(ponytail),(smile:1),
+(laying down),(legs spread:1.3),  legs up, (arm tattoos:1.3),
+sunset, lens flare, depth of field,
+<lora:innievag:1>

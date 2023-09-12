@@ -1,1 +1,0 @@
-female,robot ,female,robot cyborg mech,<lora:nijiarmor:1> <lora:EnvyBeautyMix09:1>

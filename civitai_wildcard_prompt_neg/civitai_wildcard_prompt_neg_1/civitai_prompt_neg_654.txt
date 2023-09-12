@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), badhandv4, easynegative,  (NEGFEET-NEG:1.5) watermark, log, ((beard))

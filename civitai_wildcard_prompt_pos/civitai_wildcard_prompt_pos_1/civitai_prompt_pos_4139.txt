@@ -1,0 +1,1 @@
+<lora:MEMENoosePortal_v1:1>,noose portal,   <lora:haroldDiffusionLora_versionTT:1> harold,

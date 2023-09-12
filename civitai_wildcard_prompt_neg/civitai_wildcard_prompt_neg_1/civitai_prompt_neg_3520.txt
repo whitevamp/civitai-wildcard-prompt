@@ -1,0 +1,3 @@
+EasyNegative, bad-hands-5,
+(worst quality, low quality, normal quality:1.5), lowres, blurry, text, logo, ((monochrome)), ((grayscale)),  (extra arms),( 1 arm)
+artist name, watermark,

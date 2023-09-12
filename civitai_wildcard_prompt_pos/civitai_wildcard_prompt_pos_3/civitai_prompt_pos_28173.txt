@@ -1,0 +1,2 @@
+photo of  a gorgeous woman in a (rose-garden:1.2), wearing edgLL, leather lingerie, stockings, thighhighs, (evil smiling, blush), (cowboy shot:1.2, 8k, RAW photo, best quality, depth of field, ultra high res:1.2), (absurdres, intricate, photorealistic, masterpiece, ultra-detailed:1.3),
+ <lora:edg_leatherLingerie_v10:0.6>, edgLL,

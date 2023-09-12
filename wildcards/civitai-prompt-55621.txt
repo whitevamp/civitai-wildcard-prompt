@@ -1,2 +1,0 @@
-<lora:sung02:1> wearing fishnet stockings is posing for a photo,
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], slender, medium breasts, cleavage,(((bedroom background))), outside, <lora:wearing_fishnet14:0.5>

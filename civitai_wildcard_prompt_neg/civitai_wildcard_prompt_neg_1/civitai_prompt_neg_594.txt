@@ -1,0 +1,1 @@
+(worst quality:0.8), cartoon, halftone print, (cinematic:1.2), (verybadimagenegative_v1.3, easynegative:0.7), (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8)

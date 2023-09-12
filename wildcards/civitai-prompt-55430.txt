@@ -1,7 +1,0 @@
-(darkness:1.0), clouds, deep shadow, darkness,  award winning photo, extremely detailed, amazing, fine detail, absurdres,
-... beautiful frd_woman perfect frd_face perfect frd_body,  <lora:frenchDollLikeness_v10:0.8>
-(studio_ghibli_anime_style style:0.8),
-highly detailed woman standing, piercing green eyes, detailed clothes, skinny, shinny glossy skin, subsurface scattering,
-(gothic:0.8), double bun, bangs, frills, skirt,red hair,  by lee jeffries
-
-nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten, Style-Neeko

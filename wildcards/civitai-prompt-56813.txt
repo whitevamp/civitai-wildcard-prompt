@@ -1,2 +1,0 @@
-(masterpiece, top quality, best quality), pixel,pixel art,1girl,
- <lora:pixel_5:0.5>

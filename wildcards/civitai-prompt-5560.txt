@@ -1,2 +1,0 @@
-(afro_hairstyle:1.3),woman posing for a photo, wearing sexy futuristic dress, green dress,
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((futuristic city))),   <lora:afro_hairstyle:0.5> <lora:betterCuteAsian03:0.3>

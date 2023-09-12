@@ -1,0 +1,1 @@
+(bad-artist:1.0), (loli:1.2), (worst quality, low quality:1.4), (bad_prompt_version2:0.8), bad-hands-5, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, blurry, watermark, watermarked, oversaturated, censored, (bloom:1.5)

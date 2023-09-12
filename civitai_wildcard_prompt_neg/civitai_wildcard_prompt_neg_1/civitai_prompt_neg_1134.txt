@@ -1,0 +1,1 @@
+EasyNegativeV2, badhandv4, bad-image-v2-39000, bad-hands-5, negative_hand-neg, bad_prompt_version2, ng_deepnegative_v1_75t, verybadimagenegative_v1.3

@@ -1,0 +1,4 @@
+masterpiece, 1girl, Wide hips, naughty smile, Skindentation, blush,
+peacock, <lora:peacock-noise:0.5>
+standing, cameltoe,  delicate eyes and face, (slingshot swimsuit:1.3), (pubic hair:1.0), shiny skin, petite body, high ponytail hair, (smile:1.2), (open mouth:1.0), (blonde:0.7), (onsen), garter straps, choker, 
+<lora:MaliAzul_2.0:0.9> <lora:slingshot:1>

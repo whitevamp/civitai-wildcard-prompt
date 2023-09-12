@@ -1,0 +1,1 @@
+<lora:SadCatMeme_V10:0.9> <lora:gunAimingAtYouV1:0.75>, photo of sad cat sadcatmeme wearing cowboy hat with hand aiming gun++ at viewer, gunatyou, holding gun, fingers, fujifilm xt3, hasselblad dslr

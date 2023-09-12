@@ -1,0 +1,11 @@
+seed: 1371398571
+Model: IncursiosMemeDiffusionPruned
+steps: 35
+sampler: DPM++ 2M Karras
+cfgScale: 10
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'Char_Sigmas_Shrek', 'type': 'lora', 'weight': 0.9}, {'name': 'Pos_TheRocksEyebrowRaiseMeme', 'type': 'lora', 'weight': 1}, {'hash': '1750bf7d5c', 'name': 'IncursiosMemeDiffusionPruned', 'type': 'model'}]
+Denoising strength: 0.3
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

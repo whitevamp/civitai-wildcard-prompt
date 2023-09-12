@@ -1,0 +1,1 @@
+a photo of a woman, shirtpull, wearing a bikini, detailed skin, cinematic, looking at the viewer  <lora:shirtpull_SDXL:0.8>

@@ -1,0 +1,3 @@
+masterpiece, best quality, high quality,extremely detailed CG unity 8k wallpaper, An enchanting and dreamy scene of a fantasy forest, with towering trees, glowing mushrooms, and hidden fairy glens, creating a sense of mystique and enchantment, artstation, digital illustration, intricate, trending, pastel colors, oil paiting, award winning photography, Bokeh, Depth of Field, HDR, bloom, Chromatic Aberration ,Photorealistic,extremely detailed, trending on artstation, trending on CGsociety, Intricate, High Detail, dramatic, art by midjourney,
+<lora:koreanDollLikeness:0.7>
+ <lora:glasses-2:1>, 1girl, girl, cute, smile, ((glasses)), nude, nsfw, naked

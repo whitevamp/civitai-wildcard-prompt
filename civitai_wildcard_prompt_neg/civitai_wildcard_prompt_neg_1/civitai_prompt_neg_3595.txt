@@ -1,0 +1,1 @@
+verybadimagenegative_v1.3, (worst quality, low quality), (easyNegative:0.8), Unspeakable-Horrors-Composition-4v

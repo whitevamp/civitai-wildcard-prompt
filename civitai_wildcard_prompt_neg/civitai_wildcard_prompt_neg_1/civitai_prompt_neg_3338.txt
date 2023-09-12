@@ -1,0 +1,2 @@
+NG_DeepNegative_V1_75T, 
+lowres, worst quality, low quality, blurry, fake, 3d, anime, bad anatomy, disabled body,disgusting,ugly, text, watermark,

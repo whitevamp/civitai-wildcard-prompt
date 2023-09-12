@@ -1,0 +1,1 @@
+bad_pictures, badhandv4, difConsistency_negative_v2, EasyNegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3

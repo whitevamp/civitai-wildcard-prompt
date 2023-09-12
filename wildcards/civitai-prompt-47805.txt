@@ -1,6 +1,0 @@
-(((masterpiece, best quality, illustration, finely detail))),((extremely detailed cg unity 8k wallpaper, highres)),(detailed face and eyes:1.1),amazing,
-
-1girl, big ass, black hair, long hair, solo, photo background, , Red heel, standing, full body, 
-white china dress, 
-chinese ancient building,
-<lora:3loraGuofeng3Lora_v32LoraBigLight:0.6> <lora:mikuya_v15:0.3>,  <lora:fashionGirl_v45:0.6>

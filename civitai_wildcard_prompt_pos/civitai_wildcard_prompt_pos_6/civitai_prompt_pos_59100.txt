@@ -1,0 +1,5 @@
+nikon RAW photo,8k,Fujifilm XT3,masterpiece,best quality,realistic,photorealistic,ultra detailed,extremely detailed face,cinematic lighting,gril,1girl,solo,(full body:0.9),(large breasts:1.4),earrings,(high heels:1.5),(dynamic pose:1.4),(ulzzang-6500:0.6),(pureerosface_v1:0.6),happy,
+cafe,
+(lightgray short bob cut:1.7),
+(gray FISHNET_BODYSUIT:1.4),
+<lora:uchidamaaya_lora-05:0.7>,<lora:fishnet_bodysuit_v10-10:0.7>,

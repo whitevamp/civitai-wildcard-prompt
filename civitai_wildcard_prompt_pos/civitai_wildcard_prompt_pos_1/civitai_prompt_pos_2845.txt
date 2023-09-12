@@ -1,0 +1,4 @@
+(Hyperreal:1.4),
+(((full body shot:1.5))), raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, cute cinematography, (realistic, photo realistic:1.4),
+Drone Dragon, Glistening Dewdrops, Cameras, Clear Spring, Energy-efficient Building, Holography, Horror, Hyperrealism, Ultrarealistic hologram ghosts at night, magical ritual, trippy, LSD, Horror Art, intricate, liquid,
+<lora:DetailedEyes_xl_bdsqlsz_V1:0.5> detailed eyes, detailed face, detailed skin,

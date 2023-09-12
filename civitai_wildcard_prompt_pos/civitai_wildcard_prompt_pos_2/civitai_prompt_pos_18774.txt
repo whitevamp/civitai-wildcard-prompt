@@ -1,0 +1,11 @@
+best quality, high quality, masterpiece, official artwork
+(3girls,multiple girls:1),smile,blush,large breasts, looking at viewer, powerpuff girls
+blossom, bubbles, buttercup,
+orange hair, pink eyes,
+BREAK black hair, green eyes
+BREAK blonde hair, blue eyes,
+<lora:Blossom:0.5>
+<lora:Buttercup:0.5>
+<lora:Bubbles:0.5>
+multiple girls,1boy, pov, sex, 3girls, girl on top, straddling, <lora:PovGroupSex_v10:0.8>
+Pink background, floating hearts

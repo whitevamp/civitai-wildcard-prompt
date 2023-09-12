@@ -1,0 +1,3 @@
+(RAW photo, best quality),(realistic, photo-realistic:1.3),masterpiece,extremely detailed,CG,unity,2k wallpaper,Amazing,finely detail,light smile,extremely detailed CG unity 8k wallpaper,huge filesize,ultra-detailed,highres,absurdres,soft light,
+1 girl,black sweater,solo,(18yo),cute,round eyes,pink blush,(hairband:0.9),short hair,skinny jeans,(ripped jeans:1.2),black sneakers,standing,street corner,urban background,cloudy,cool colors,(leading lines composition:1.3),natural lighting,anime style.,
+<lora:girl_20230619164815:0.8>,

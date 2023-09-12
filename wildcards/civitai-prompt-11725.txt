@@ -1,3 +1,0 @@
-(masterpiece, best quality),  intricate details,
-1girl,     <lora:Star_Nemesis_Morgana:0.8> star nemesis morgana, 1girl,  cone hair bun, hair ornament, 
- <lora:l_sbtl_sd_cap_8:0.8> tanlines, sunburn,  nude,  nipples, pussy,

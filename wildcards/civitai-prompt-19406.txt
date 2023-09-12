@@ -1,2 +1,0 @@
-(masterpiece, best quality),  intricate details,
-1girl,   <lora:Vi Kangaxx:0.8> vi_tpa,

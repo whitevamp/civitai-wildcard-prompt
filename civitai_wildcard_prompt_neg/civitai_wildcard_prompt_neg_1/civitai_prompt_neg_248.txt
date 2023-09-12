@@ -1,0 +1,1 @@
+(worst quality:1.4, low quality), (bad-artist:0.8), bad-hands-5, negative_hand-neg, (bad_prompt_version2-neg:0.8), (easynegative:0.6), (verybadimagenegative_v1.3:0.6), (dusty sunbeams:1.0), (rib:1.0), (monochrome:1.0, greyscale:1.0), (abs:1, muscular:1), (bokeh, blurry:1.4, motion blur), (animal ears)

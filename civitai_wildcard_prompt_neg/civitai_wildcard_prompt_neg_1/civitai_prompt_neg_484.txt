@@ -1,0 +1,1 @@
+EasyNegative, ugly, deformed, two hands, bad-hands, bad_anatomy, blurry, error, malformed, lowres, mutant, mutated, disfigured, compressed, noise, artifacts, dithering, watermark, text, font, signage, pixel, bad quality, worst quality

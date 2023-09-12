@@ -1,0 +1,1 @@
+bad-artist bad_pictures, bad_prompt_version2, ((speech bubble)), text, ((cross-section)), monochrome,  signature, watermark, nsfw, naked, ((white background))

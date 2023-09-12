@@ -1,0 +1,11 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, yuri, lesbian, standing, large windows, indoors,
+short hair, eyes reflection, bright pupils, full blush, drooling,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+pussy, pussy juice, pussy jucie trail,
+sweat, steam, steaming body, heavy breathing, dress lift, licking pussy,
+<lora:masusu_v10:0>,
+standing cunnilingus, <lora:standing_cunnilingus:0>,
+(luminedef:0.0), <lora:lumine1_000008:0>,
+(nahidarnd:0.0), <lora:nahida1_000010:0>

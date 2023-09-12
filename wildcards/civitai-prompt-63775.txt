@@ -1,1 +1,0 @@
-(masterpiece), (best quality), (high resolution), hyper detailed, solo, girl, detailed_background,vast, gigantic, decrepit scenery, covered in large tubes and cables, dim light, giant-gross-organic (organic works very well with buildings and city scenery) monsters-creatures, cyborg girl <lora:epiNoiseoffset_v2:1.3>, <lora:blameLora_v10:1>

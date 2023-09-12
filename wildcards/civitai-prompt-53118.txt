@@ -1,3 +1,0 @@
-1girl,ultra high res,(best quality, masterpiece:1.2),ultra-detailed,portrait,full body,style of a idol,(pleasure face:1.3,enchanting smile),
-nsfw,First Perspective,lying:1.5,on back:1.3,nose look up:1.4,spread legs,separated thighs,open leg,(wet dress shirt, see-through clothes ),air bubble,liquid hair,foaming waves,
-<lora:Pure_Innocent_girl:0.2>

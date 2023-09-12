@@ -1,1 +1,0 @@
-(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1girl,chibi,nahida_genshin,(cross-shaped pupils:1.2),(left side ponytail:1.2),white hair,default_dress,cute,blush,blush stickers,smile,(swing:1.2), sitting, (from below:1.2),(beautiful detailed face), (beautiful detailed eyes),<lora:blindbox_V1Mix:0.9> ,<lora:yetAnotherNahidaGenshin_nahidav3:0.8>

@@ -1,1 +1,0 @@
-<lora:add_detail:1>, <lora:beautifulDetailedEyes:0.8>masterpiece, best quality, kasuga, brown eyes, blonde hair, short hair with long locks, open bodysuit, fishnets, gloves, brelet, cowboy shot, outdoor, looking at viewer, blue sky, arms behind head <lora:kasugaV2:0.8>

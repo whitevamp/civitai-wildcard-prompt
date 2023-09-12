@@ -1,0 +1,5 @@
+bad_pictures_v30, imageSharpener, light-negative-neg, aidv1-neg, aid291, [:(badhandv4:1.5):27], badhandv5, badv3, badv4, badv5, deformityv6, (EasyNegative:0.85), bad-artist, bad-artist-anime, sketch by bad-artist, painting by bad-artist, photograph by bad-artist, bad-picture-chill-75v, bad_prompt, bad_prompt_version2, BadDream, UnrealisticDream, fastNegativeEmbeddingNormal, fastNegativeEmbeddingStrong, fastNegativeEmbedding_v20, ng_deepnegative_v1_75t, verybadimagenegative_v1.2-6400, (verybadimagenegative_v1.3:0.8), animestylenegativeembedding_dreamshaper, realisticvision-negative-embedding, Unspeakable-Horrors-Composition-4v, realisticvision-negative-embedding, (oekakiNegativeTI:0.8, sd1-failed-oekaki), (KHFB, AuroraNegative), rmadanegative402_sd15-neg, subject out of frame, frame, white frame
+__female_gem_garden__,
+__artist-director__,
+__camera__,
+ <lora:eyeAI_homareStyle_v10:0.8>, choker, cleavage, narrow waist, gigantic breasts, huge breasts, "

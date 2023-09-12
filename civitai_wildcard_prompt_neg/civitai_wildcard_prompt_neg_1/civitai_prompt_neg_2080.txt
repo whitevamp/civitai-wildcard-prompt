@@ -1,0 +1,1 @@
+(EasyNegative:1.2),badhandv4,ng_deepnegative_v1_75t,worst quality,low quality,monochrome,

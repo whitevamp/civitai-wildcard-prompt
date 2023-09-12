@@ -1,0 +1,3 @@
+(ultra realistic, best quality, masterpiece, perfect face),
+<lora:cammy whiteV1:0.75> cammy white, blue eyes, blonde hair, very long hair, twin braids, red headwear, thighs, ahoge
+(wearing Vinyl lingerie), leaning back, sitting, from behind, looking at viewer,  inside Nightclub VIP room, noon, midday, (cleavage, skindentation:1.1) <lyco:hamichichiB:1.1> (hyper realism, soft light, dramatic light, sharp, HDR)

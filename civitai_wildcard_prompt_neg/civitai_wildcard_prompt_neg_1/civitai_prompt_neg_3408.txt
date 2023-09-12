@@ -1,0 +1,1 @@
+(worst quality:1.4), (low quality:1.4), (monochrome:1.1), EasyNegative, bad-artist bad-image-v2-39000, bad_prompt_version2, ng_deepnegative_v1_75t, verybadimagenegative_v1.2-6400, vile_prompt3, bad-hands-5, painting, illustration,

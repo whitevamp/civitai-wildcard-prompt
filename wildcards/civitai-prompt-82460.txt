@@ -1,3 +1,0 @@
-1girl, elevator, from below,
-<lora:elevator_v0.4-locon-000007:1> 
-<lora:koreandolllikenessV20_v20:0.4> (realistic:1.2),, masterpiece, best quality, highly detailed

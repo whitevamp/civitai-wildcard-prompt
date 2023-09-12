@@ -1,0 +1,4 @@
+night:1.5, (((police uniform, police badge, ))) bokeh:1.2, (small_head:1.2), cyberpunk city, cyberpunk 2077 world, walking, <lora:koreanDollLikeness:0.35>, <lora:ChineseDollLikeness2.0:0.35>, 
+full body shot, neon lights, neon trim,  mechanical breastplate, mechanical hands,
+1 girl,fit, solo,<lora:A-Mecha-REN[color_theme,mecha musume, mechanical parts, robot joints,headgear,full armor]:0.85>,blue&silver_theme,mecha musume, mechanical parts, robot joints,headgear,full armor, large mechanical wings,  black_long_hair, floating_hair,  bangs, long slim legs, tiny_waist, realistic_detailed_skin_texture,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra high res, photon mapping, radiosity, physically-based rendering, professional lighting, light on face,

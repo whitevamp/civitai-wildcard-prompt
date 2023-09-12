@@ -1,0 +1,1 @@
+badhandv4 EasyNegative ng_deepnegative_v1_75t verybadimagenegative_v1.3 verybadimagenegative_v1.2-6400 bad_prompt,loli,animal

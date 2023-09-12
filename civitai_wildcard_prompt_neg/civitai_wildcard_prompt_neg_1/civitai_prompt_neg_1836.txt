@@ -1,0 +1,1 @@
+text, watermark, blurry, deformed, depth of field, realistic, 3d render

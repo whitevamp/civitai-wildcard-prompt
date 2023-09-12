@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality,low quality,normal quality:2), lowres, ((monochrome)), ((grayscale)),( nsfw:1.2), (mask:1.5)

@@ -1,0 +1,5 @@
+(masterpiece), (best quality:1.2), absurdres, professional lighting,
+fullbody, wide shot,
+nude 18yo girl standing on the beach, mix4, shiny skin, pussy, pussy lips, puffy lips,
+1girl, (nude), (smile:0.6), <lora:cuteDollGen2_beta1:0.5>,
+beach, morning, (twilight), (shrubs:0.3), (rocks:0.7), water, sand, sea

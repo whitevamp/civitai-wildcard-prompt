@@ -1,0 +1,6 @@
+masterpiece, high quality, best quality, hyper detailed, HDR,
+Japanese, 1girl, blonde hair, (solo:1.1), stunningly attractive, perfect feminine face, (happy:0.8), playful, (seductive smile:0.9), medium breasts, (small breasts:0.8),
+excited, (seductive pose:1.15), parted lips, (aroused:1.2), (naked:1.2), completely nude, nipples
+<lora:Character YoimiyaGenshinImpact yoimiyadef, yoimiyarnd v11:1> yoimiyarnd
+ass,  from behind, pussy, anus, cleft of venus
+ <lora:Style Merrytail ass, ass focus, from behind, close-up, anus, cleft of venus 09:0.85>

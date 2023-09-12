@@ -1,0 +1,3 @@
+easynegative,(nipples:1.2), text,black and white photos,(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)),
+1 female, mature female, full body,
+__lingerieAP\\victoriasecret_images__,", Hires upscale: 1.5, Hires steps: 15, Hires upscaler: R-ESRGAN 4x+ Anime6B

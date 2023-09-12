@@ -1,0 +1,11 @@
+seed: 3113456148
+Model: majicmixRealistic_v6
+steps: 40
+sampler: DPM++ 2M alt Karras
+cfgScale: 8
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'add_detail', 'type': 'lora', 'weight': 1.1}, {'name': 'InstantPhotoX3', 'type': 'lora', 'weight': 0.7}, {'name': 'v3FilmVelvia3', 'type': 'lora', 'weight': 0.3}, {'name': 'neg_bdsqlsz_V2', 'type': 'lora', 'weight': 0.8}, {'name': 'GirlfriendMix2', 'type': 'lora', 'weight': 0.3}, {'hash': 'e4a30e4607', 'name': 'majicmixRealistic_v6', 'type': 'model'}]
+Denoising strength: 0.4
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

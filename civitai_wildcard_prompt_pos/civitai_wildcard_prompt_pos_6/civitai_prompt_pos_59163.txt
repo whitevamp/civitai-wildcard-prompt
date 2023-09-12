@@ -1,0 +1,3 @@
+Dark Lord Sauron with flaming eyes in his helmet, inside the drive-thru window, (wearing darkred apron over dark armor, holding out a paperbag full of onion rings), red and yellow fast food restaurant decor background.
+highres, high resolution, sharp focus, detailed, cinematic, artistic shadow, sidelighting, soft glow.
+<lora:LowRA:0.9> <lora:Drive-Thru Window Operator:0.9> <lora:sauron:0.4>

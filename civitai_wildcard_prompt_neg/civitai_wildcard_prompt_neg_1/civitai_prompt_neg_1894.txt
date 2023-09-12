@@ -1,0 +1,11 @@
+(worst quality:2),(low quality:2), (normal quality:2),lowres,pixels,blurry,(((hands on legs))):1.5,((dof)),((Bokeh)),((cellphone)),
+((3d)),((monochrome)), ((grayscale)),(paintings),sketches,logo, watermark,signature,(white letters:1),(jpeg artifacts),
+(( cropped head )),backlight,(morbid:1.21), (mutilated:1.4),((nsfw)):19,
+(bad anatomy:1.5), (bad proportions:1.5), (disfigured:1.331),
+fused, contorted, conjoined, deformed, caricature, body horror, mutant,(((futa))):1.5,
+skin spots, acnes, skin blemishes, age spot,skin folds,
+asymetric eyes, asymetric face, wrinkle,skin bump,
+mutated hands, mutated feet,((extra limbs)), (extra nipples:1.331),(missing limbs:1.331),(bad limbs:1.331),
+(fused fingers), (extra fingers:1.61051), (unclear eyes:1.331),
+bad hands, missing fingers, extra digit,(((extra hands))),
+easynegative,bad_prompt_version2,badhandv4

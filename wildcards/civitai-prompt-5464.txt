@@ -1,4 +1,0 @@
-(masterpiece, best quality),  intricate details,
-1girl,    <lora:ShiroganeNoelBikini:0.8> noel, bikini, bikini skirt, eyewear on head,  
- <lyco:glaringV_Conv2D:0.8> glaring at viewer, angry,   <lora:bobsout1:0.8> nipples,  
-<lora:shadedFaceEyesIn_shadedFace:0.8> shaded face,

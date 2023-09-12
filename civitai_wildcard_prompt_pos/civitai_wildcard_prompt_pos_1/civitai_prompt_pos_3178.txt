@@ -1,0 +1,4 @@
+woman, <lora:SingleMiddle:1> middle finger, nude, large breasts, cum on breasts, cum on face, angry, short brown hair,
+b1mb0, th3p1t, best quality, detailed,
+<lora:th3p1t_v3:.5>
+<lora:b1mb0_v3:.5>

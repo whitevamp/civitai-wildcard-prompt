@@ -1,7 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female,  (looking at viewer:1.4),solo,
-realistic skin, eyeliner, red lips
-realistic, (photorealistic), puffy eyes,
-night, brown straight hair, cleavage, 
-view from above,
-(bukkake), cum, cum on face,
- <lora:Bukkake:0.8>

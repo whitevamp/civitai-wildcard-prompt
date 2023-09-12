@@ -1,0 +1,9 @@
+(masterpice, best quality, high quality, highres:1.4), extremely detailed, detailed skin, ambient soft lighting, 4K,
+1girl, solo, standing, upper body, mature female, milf, a
+blonde hair, long hair, high ponytail, hair intakes, long sidelocks, tiara,
+red eyes, glaring, contempt, disgust, looking at viewer,
+closed mouth,
+red dress, cleavage, red corset, long skirt, puffy skirt, long sleeves, puffy sleeves, juliet sleeves, ornate dress, jewelry, red gemstone, gem, necklace, dd
+large breasts,
+indoors, (renaissance:1.2), vintage, window, furniture, flower pot, red curtains, black walls, 
+<lora:Milf:0.5> <lora:hamichichiB:0.5>

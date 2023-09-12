@@ -1,0 +1,5 @@
+(((deformed, disfigured, bad anatomy, mutilated, mutated)))
+((extra fingers, extra toes, too many fingers, too many toes, 3 arms, extra limbs, too many limbs, missing fingers, missing arms, missing legs, broken fingers, broken wrist, 3 legs))
+(overweight, fat, ugly, saggy breasts)
+out of frame, thumbnail, preview, obscured, distorted, blurry, blurred, out of focus
+low-res, low resolution, bad quality,  artifacts, low detail, no detail, corrupted

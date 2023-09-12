@@ -1,0 +1,6 @@
+best quality, high quality, masterpiece, official artwork
+(3girls,multiple girls:1),smile,blush,large breasts, looking at viewer, red eyes
+white hair, animal ears, demon girl,long hair, (white hair:1.3), red shirt , dog girl ,dog ears
+cerberus(helltaker),  <lora:cerberus:0.8>
+multiple girls,1boy, pov, sex, 3girls, Cowgirl position, Girl on top, Straddling,  <lora:PovGroupSex_v10:0.8> 
+dark background, red background, hell,  <lora:LowRA:0.3>,   metal collar,  <lora:metalCollar:0.6>

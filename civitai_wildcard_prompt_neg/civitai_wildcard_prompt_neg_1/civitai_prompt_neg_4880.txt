@@ -1,0 +1,1 @@
+mutation, (deformed, distorted, disfigured, bad eyes), bad anatomy, disconnected limbs, wrong body proportions, low quality, worst quality, text, watermark, signatre, logo, ugly, bad_pictures,  EasyNegative,

@@ -1,0 +1,1 @@
+negative_hand-neg, (worst quality:2), (low quality:2), (normal quality:2), lowres, jpeg artifacts, signature, watermark, username, blurry, artist name, text, error

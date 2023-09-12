@@ -1,0 +1,2 @@
+(VeryBadImage:0.75), (worst quality, low quality, lowres, loli:1.4), (blurry, dof, depth of field, bokeh, bloom, fog, sepia:1.2),
+(gold armor, gold, brass:1.2), holding, bag, pouch,

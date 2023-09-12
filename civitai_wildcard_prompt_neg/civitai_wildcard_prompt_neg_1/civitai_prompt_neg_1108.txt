@@ -1,0 +1,1 @@
+EasyNegative, logo, text, username,extra legs, extra arms, extra fingers,fewer fingers, long body,(watermark:1.4), bad-artist-anime, bad-artist, bad-hands-5, bad-image-v2-39000, bad_prompt2, bad_quality, NG_DeepNegative_V1_75T, evil_neg_prompt3, ely_neg_prompt ,schizo_neg_prompt, low res

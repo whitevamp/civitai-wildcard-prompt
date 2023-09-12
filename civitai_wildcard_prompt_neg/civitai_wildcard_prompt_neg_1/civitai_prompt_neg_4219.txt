@@ -1,0 +1,1 @@
+EasyNegative, bad-prompt-v2, bad-hands-5, nsfw, (worst quality, low quality:1.4),easynegative, bad-hands-5, artist name, signature, logo, loli, loli body, small body,

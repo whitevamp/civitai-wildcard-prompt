@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, (low quality, worst quality:2.0), (text:1.1), (earrings, greenboard, sofa, bed, carpet, rug, curtain:1.1)

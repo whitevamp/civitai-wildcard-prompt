@@ -1,0 +1,1 @@
+nsfw, EasyNegative, badhandv4, (bad anatomy, worst quality, low quality:1.4), watermark, signature, username, patreon, monochrome, zombie, squinting,

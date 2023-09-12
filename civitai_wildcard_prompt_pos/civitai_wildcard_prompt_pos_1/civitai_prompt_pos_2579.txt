@@ -1,0 +1,3 @@
+(best quality, masterpiece, colorful, dynamic angle, highest detailed),
+elegant woman
+(wearing shiny micro bikini, bending over <lora:microbikiniv1:0.75>), leaning back, posing, from behind ass support <lora:ass_support_v0.1:1>, looking at viewer,  inside a yacht, noon, midday, (cleavage), dark theme <lora:LowRA:0.2>, (hyper realism, soft light, dramatic light, sharp, HDR)

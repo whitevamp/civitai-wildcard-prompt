@@ -1,1 +1,0 @@
-(splash art), (masterpiece ,best quality:1.2), a fantasy figure sitting on top of clouds, in the style of hanging scroll, strong facial expression, colorful grotesques, precisionist lines, large-scale muralist, manticore, <lora:NijiExpressV2:1> ,<lora:xrs2.0:1>

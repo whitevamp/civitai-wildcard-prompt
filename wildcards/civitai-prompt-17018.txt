@@ -1,5 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.45), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,
-ana de armas, (full body),slim,(small breasts),
-black short dress, (v-neck cleavage:1.3), outdoors, suspenders,
-((night)),selfie,
- <lora:AnaDeArmasv2:0.8>

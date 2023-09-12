@@ -1,0 +1,7 @@
+<lora:epi_noiseoffset2:0.2>,masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:, ,
+1girl,robot,mechanical semantic body,(full_body,nude,completely nude, ),
+<lora:transparent raincoat2-000008:0.6>,(transparent raincoat,hood up),rain,wet,sweat,sweatdrop,sweater,wet clothes,
+<lora:zyd232_CyberneticJawless_v1_1:0.6>,Cybernetic_Jawless,mask,mechanical parts,cybernetic,(((cyberpunk))),neon lights,cityscape,neon trim,
+<lora:innievag:0.3>,pussy,,huge breasts, breasts apart,
+<lora:LeoCyberX:0.4>,
+thighhighs.black black thighhighs,

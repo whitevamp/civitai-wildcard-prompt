@@ -1,0 +1,1 @@
+EasyNegative,  bad-picture-chill-32v,  neg_facelift512,  np_simple_negatives, ng_deepnegative_v1_75t

@@ -1,0 +1,2 @@
+bad_pictures, badhandv4, difConsistency_negative_v2, EasyNegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3,chinese text, english text, korean text,  clothes writing, background text,Asian-Less-Neg,
+(mu-tated hands and fingers:1.4), (worst quality, low quali-ty:1.4),

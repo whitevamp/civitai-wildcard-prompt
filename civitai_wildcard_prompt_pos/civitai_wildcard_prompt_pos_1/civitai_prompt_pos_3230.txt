@@ -1,0 +1,1 @@
+1boy,  <lora:ricardoMilos_v10:1>, looking at viewer, smile, (( <lora:jackOChallengePoseLora_jackoposefront:1>)),full body, flexible, spread legs, top-down bottom-up,black background,

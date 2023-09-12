@@ -1,0 +1,1 @@
+(Worst Quality, Low Quality:1.4), easynegative, badhandv4,  badv3, ng_deepnegative_v1_75t, (Worst Quality, Low Quality:1.4), easynegative, badhandv4,  badv3, ng_deepnegative_v1_75t  , too many bag

@@ -1,0 +1,1 @@
+(easynegative:1.0),(bad-hands-5:1.0),(realisticvision-negative-embedding:1.0), ng_deepnegative_v1_75t,(lantern:1.4),(redcolor:1),

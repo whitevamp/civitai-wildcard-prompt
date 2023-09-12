@@ -1,0 +1,8 @@
+ultra highres photo,8K, realistic,RAW photo,gradient background, blurry_background, depth_of_field,(masterpiece, best quality:1.3),
+1girl, long Brown hair,twin braids,parted bangs,ponytail,gold round thin rimmed eyewear,blue eyes, half-closed eyes,pleasure face,charming smile,alluring blush,detailed lips,enchanting red lipstick,(slim),small breases,curvy,narrow waist,(Skin is tender fair and clear:1.2),Milky white,shiny skin,
+pov (seductive pose,looking at viewer),opened clothes,(breasts out:1.3),small areolae,pink nipples,((spread legs)),(skirtlift,Pudendal exposure,vulva,Sexy Hairless),(lying:1.5,nose look up:1.4),((clothed sex,Ｍ_legs,folded,missionary),on back:1.3),(hetero,(1boy,insertion,vaginal),penis:1.2),((cum)),cum in pussy,
+erotic (suggestive pose,female ejaculation,enjoy:1.4)sweat,wet body,trembling,Panting,open mouth,drooling saliva,puffy nipples,pussy juice,covered in cum,cum on breasts,cum overflow,juice overflow,
+(JK uniform,school uniform:1.5,unbuttoned student jacket,revealing the sailor collar crop top inside(upshirt,underboob),pleated plaid microskirt),neckerchief,(slim hip,slim thighs,slender legs),thigh lace bands,(lace-trimmed striped Stockings),high heels,animal ears,jewelry,earrings,red nail polish,
+at the school,(library),<lora:shojovibe_v11:0.3>,<lora:pureInnocentGirl_v20:0.3>
+<lora:upshirtUnderboob_v10:0.5><lora:povDoggystyleLora1MB_povdoggy:0.5>,
+Steps: 25, Sampler: DPM++ SDE Karras, CFG scale: 8, Seed: 2767586599, Face restoration: CodeFormer, Size: 512x768, Model: chikmix_V3, Denoising strength: 0.42, Clip skip: 2, Hires upscale: 2, Hires steps: 15, Hires upscaler: R-ESRGAN 4x+

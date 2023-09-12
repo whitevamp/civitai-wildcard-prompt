@@ -1,3 +1,0 @@
-skyscraper, (cenital angle), sunset, 
-((by Iwan Baan)),
-<lora:XSArchi_127:0.75>

@@ -1,1 +1,0 @@
-TimBurton Animation, portrait of Nausicaa, 1girl, solo <lora:TimBurton_Animation_offset:1>    <lora:Nausicaa V0.5:.6>

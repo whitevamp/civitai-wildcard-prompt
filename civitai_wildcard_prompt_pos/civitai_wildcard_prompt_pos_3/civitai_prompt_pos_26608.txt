@@ -1,0 +1,2 @@
+Stylized modern vector art of MisterT in Sy3 style, 3 color, black gold white, (([black background:explosion background:15])), ChopioMinimalist, mohawk, gold chains, low detail, high contrast, paint splatter, paint drip, 
+<lora:MisterT:0.5> <lora:Sy3:0.5> <lora:Minimalist-v2-01:0.9>

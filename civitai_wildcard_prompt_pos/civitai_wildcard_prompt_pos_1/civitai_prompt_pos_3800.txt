@@ -1,0 +1,1 @@
+(bestquality, ultra detailed:1.3), solo,  <lora:loha_oroyee_dinosauri:0.6:0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1>, oroyee, dinosauri, looking at viewer, animal, POV, (no humans:1.3) <lora:loha_nao_tomori:0.5:1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,1>, bedroom, sitting., on the bed, indoor

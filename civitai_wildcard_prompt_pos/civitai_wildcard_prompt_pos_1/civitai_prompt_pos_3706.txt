@@ -1,0 +1,11 @@
+seed: 1185546444
+Model: meinahentai_v2
+steps: 50
+sampler: Euler a
+cfgScale: 13
+Clip skip: 2
+Mask blur: N/A
+resources: [{'name': 'nicoRobinOnePiecePreAnd_preTimeskip', 'type': 'lora', 'weight': 0.5}, {'name': 'namiOnePiecePreAndPost_postTimeskip', 'type': 'lora', 'weight': 0.45}, {'name': 'namiOnePiecePreAndPost_postTimeskip', 'type': 'lora', 'weight': 0.45}, {'hash': 'e7640356f8', 'name': 'meinahentai_v2', 'type': 'model'}]
+Denoising strength: 0.33
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

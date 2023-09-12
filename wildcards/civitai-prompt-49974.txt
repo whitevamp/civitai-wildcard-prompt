@@ -1,2 +1,0 @@
-{{{masterpiece}}},{{{best quality}}},{{ultra-detailed}},(shiny:1.5),floating,  (photorealistic:1.4),{{an extremely delicate and beautiful}},{beautiful detailed eyes},{{disheveled hair}}, 
-1girl, standing,outdoors,street,cowboy shot, large breasts, argusschool,<lora:argusAzurLaneSchoolUniform_schoolUniform:0.4>

@@ -1,5 +1,0 @@
-(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), cinematic lighting, photon mapping, radiosity, physically-based rendering,
-1girl,(solo:1.3),looking at viewer,ridingsexscene,
-medium breasts,nipples, nude, open mouth, tongue out,arms up, closed eyes, spread legs,
-upper body,from below,dynamic angle,
-<lora:ridingsexscene_lora_01-i4:0.8> <lora:InstantPhotoX3:0.3>

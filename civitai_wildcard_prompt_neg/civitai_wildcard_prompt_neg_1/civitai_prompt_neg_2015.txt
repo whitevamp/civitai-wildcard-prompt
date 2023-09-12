@@ -1,0 +1,1 @@
+(worst quality:2) , (low quality:2) , (normal quality:2),lowres , bad anatomy , bad hands , normal quality , ((monochrome)), ((grayscale)), (jpeg artifacts), signature, watermark, username, ((child)) , easynegative , ng_deepnegative_v1_75t, epiCNegative ERA09NegV1

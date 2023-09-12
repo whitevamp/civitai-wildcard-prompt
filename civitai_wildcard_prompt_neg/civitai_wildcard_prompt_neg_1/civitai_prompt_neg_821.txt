@@ -1,0 +1,1 @@
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, EasyNegative, bad_prompt_version2-neg, BadDream, By bad artist -neg, negative_hand-neg, ng_deepnegative_v1_75t , shaded face, NSFW

@@ -1,3 +1,0 @@
-(masterpiece, best quality;1.3), extremely detailed , 1girl,  looking at viewer, pov, Multiple_girls, 3girls, <lora:multipleGirlsGroup_v10:0.4>, group shot, nature, <lora:alice_liddell_v2:0.7>alice liddell,standing,blue dress, white apron, black hairband, blonde long hair, lying on 
-meadow,
-playing cards, from above, rabbit <lora:animetarotV51:0.7> BLUE BACKGROUND,

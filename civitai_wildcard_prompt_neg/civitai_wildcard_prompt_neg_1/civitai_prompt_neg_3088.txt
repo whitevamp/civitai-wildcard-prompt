@@ -1,0 +1,4 @@
+lowres,normal,quality,
+((monochrome)),((grayscale)),
+(worst quality:2),(low quality:2),(normal,quality:2),
+watermark,text,logo,

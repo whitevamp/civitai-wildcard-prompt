@@ -1,1 +1,0 @@
-sitting, 1girl, mature female, long black hair, braid, detailed pupils, (huge breasts), indoors, bedroom,  colorful, vivid colors, masterpiece, absurdres, aesthetic <lora:add_detail:1> oversized_hoodie, (oversized hoodie:1.2)  <lora:oversized_sweater:0.5>

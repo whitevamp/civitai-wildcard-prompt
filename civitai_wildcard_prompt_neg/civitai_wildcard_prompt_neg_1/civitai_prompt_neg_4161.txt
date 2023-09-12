@@ -1,0 +1,1 @@
+low-res, (watermarks:1.2), username, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), ng_deepnegative_v1_75t, low-res, yellow light

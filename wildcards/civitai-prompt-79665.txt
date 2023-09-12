@@ -1,5 +1,0 @@
-(best quality:1.2) (4k:1.) (very high resolution:1.1) (realistic photograph:1.1) , (ultra detailed CG illustration:1.1) ,
-1girl elf solo (small breasts:1.) (detailed face:1.) , (silver wavy hair:1.1) ,
-<lora:hair_censorship:1> (hair censorship:1.1) , no bra , (dishes on tray:1.1) , holding tray , serving ,
-naked apron , maid headdress , blush embarrassed grin , from side ,
-(detailed background:1.1) , indoors , restaurant , windows , vase , flower , (cinematic lighting1)

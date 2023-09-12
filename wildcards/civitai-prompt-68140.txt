@@ -1,1 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, ten, perfect skin, female, looking at viewer, inside gym, (RSEEmma:1.5) wearing gym_outfit,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, wearing (shiny pink latex outfit:1.5), (black hair:1.4), very long hair, long hair, smile, average chest, <lora:gym_outfit-10:0.6>

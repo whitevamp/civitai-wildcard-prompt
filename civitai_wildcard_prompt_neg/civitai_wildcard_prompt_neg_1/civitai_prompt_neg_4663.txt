@@ -1,0 +1,1 @@
+((badhandv4, easynegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3)),(bad anatomy), monochrome, grayscale, (text, words, logo, watermark)

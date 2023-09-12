@@ -1,0 +1,10 @@
+highres, masterpiece, perfect ligthing, bloom, night, cinematic lighting, adult, perfect skin, female,  soft light,
+realistic skin,
+realistic, (photorealistic),
+long ponytail, dynamic pose, blonde,
+long shot,
+volley_uniform,  narrow waist, ponytail,  inside volley ball field
+ass up wait,
+ <lora:volley_uniform:0.5> 
+from below, (facing away),  (center), back,
+<lora:ass_up_wait.v1.3-sd:0.35>

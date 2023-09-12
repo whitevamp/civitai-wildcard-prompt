@@ -1,0 +1,1 @@
+(masterpiece,best quality:1.5), ultra realistic,32k,RAW photo,(high detailed skin:1.2), soft light, vibrant color, no human, a cat, (crying:1.3), (flowers filed), <lora:cat_20230627113759:0.8>

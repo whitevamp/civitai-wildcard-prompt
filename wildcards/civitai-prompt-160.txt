@@ -1,3 +1,0 @@
-masterpiece, best quality, high resolution,
-1girl, solo, LuxuriousWheelsCostume,  sliver dress, skyscraper,  standing, big breasts, night, night light, 
-<lora:LWclothLora:0.7>,

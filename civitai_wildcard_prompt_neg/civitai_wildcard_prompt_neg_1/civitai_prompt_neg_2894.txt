@@ -1,0 +1,4 @@
+helmet, bald, green, headphones, gloves, text,glass,
+((monochrome, grayscale)),
+sketches, paintings, lowres,
+(low quality, worst quality:1.4),

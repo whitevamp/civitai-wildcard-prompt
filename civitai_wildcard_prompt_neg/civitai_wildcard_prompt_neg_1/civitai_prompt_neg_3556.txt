@@ -1,0 +1,2 @@
+EasyNegative, bad-hands-5, (worst quality, low quality:1.4), low contrast, monochrome, lightning
+ bad-hands-5 bad-image-v2-39000 bad_prompt_version2 bad_quality aidv1-neg badv5 By bad artist -neg

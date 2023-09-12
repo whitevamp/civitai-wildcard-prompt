@@ -1,0 +1,2 @@
+masterpiece, best quality, detailed, realistic, lounge area,
+<lora:capybara:1> capybara, anthro,

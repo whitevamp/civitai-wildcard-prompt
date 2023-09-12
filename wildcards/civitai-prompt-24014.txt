@@ -1,1 +1,0 @@
-masterpiece, highres, best quality, ultra-detailed, perfect lighting,  <lora:neco-arc:1>, neco-arc, animal ears, cat ears, blonde hair, slit pupils, bangs, chibi, antenna hair, short hair, cat girl, red eyes,   <lora:wojak:0.85> wojak, ((white turtleneck)),

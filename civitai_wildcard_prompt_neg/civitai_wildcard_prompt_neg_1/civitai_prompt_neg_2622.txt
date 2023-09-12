@@ -1,0 +1,4 @@
+(worst quality, low quality:1.4), monochrome, bad-artist,multiple legs,ng_deepnegative_v1_75t, extra heels, (bad drawn toes), (more than five toes per foot).
+ worst feet draw, lost foot, deformed toes, deformed foot, socks, extra legs, worst perspective drawing, wrong prespective, clothes, dress, extra limbs, bad hand draw, 
+deformed hands, deformed fingers, double ankle, hands in feet position, 
+hands draw in feet position, wrong feet bottom render,

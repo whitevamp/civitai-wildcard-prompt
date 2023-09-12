@@ -1,0 +1,1 @@
+badhandv4, easynegative, ng_deepnegative_v1_75t, semi-realistic, sketch, duplicate, ugly, huge eyes, text, logo, worst face, (worst quality:2.0), (low quality:2.0), (blurry), horror, geometry, bad_prompt, multiple limbs, bad anatomy, ((2girl)),(bad-artist-anime), bad-artist, bad hand, extra legs,furry,(animal_ear),

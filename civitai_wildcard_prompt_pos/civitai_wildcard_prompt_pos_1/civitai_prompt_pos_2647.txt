@@ -1,0 +1,4 @@
+nsfw, best quality, masterpiece, ultra high res, photorealistic,
+1girl,  full body, long braided hair, modeling, dynamic pose, artist in her atelier,
+detailed face,detaied skin,beautiful detailed eyes, detailed lip,
+workshop, paint, natural skin texture, (dynamic pose:0.3), petite, artist, detailed background, (busy background:1.2), colorful, messy, <lora:MengX girl_Mix_V40:0.7>, <lora:add_detail:0.4>

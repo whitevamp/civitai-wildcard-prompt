@@ -1,0 +1,13 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, sitting on closestool, large windows, indoors, close up,
+yellow hair, yellow eyes, drooling,
+large breasts, nipples,
+ass, anus, pussy, after sex,
+sweat, steam, heavy breathing, thick thighs, bondage, spread legs, arms behind head,
+(cum, cumdrip, facial, bukkake:1.2), cum in pussy, cum in anus, (cum on hair, cum on breasts:1.2),
+<lora:masusu_v10:0>,
+toilet, public use, <lora:toiletGirl:0>,
+uncensored, realspreadpussy, <lora:spp_spreadpussy_W_V1:0>,
+hypnoLora, empty eyes, <lora:ConceptBlankEyesHypnosis_v10:0>,
+nude, yoimiyadef, <lora:yoimiya2_000008:1>

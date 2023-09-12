@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), bad composition, extra digit, fewer digits, text, asymmetrical breasts, missing limbs, merged limbs,  badhandv4, bad ankles, fused limbs, censored, easynegative,  ng_deepnegative_v1_75t, large insertion, tattoo, bulge, artist signature, sfw

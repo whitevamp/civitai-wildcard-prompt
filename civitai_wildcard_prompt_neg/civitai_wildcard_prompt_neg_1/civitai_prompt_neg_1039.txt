@@ -1,0 +1,1 @@
+(((stocking, hat, glove, choker, collar, sleeves, nail polish, ))), EasyNegative,paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot,extra fingers,fewer fingers, (bad-hands-5:1.4), (badPromptVersion2_v10:0.8), (badv5:0.6),

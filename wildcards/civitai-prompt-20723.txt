@@ -1,5 +1,0 @@
-(masterpiece, best quality, highres),classroom,on school desk,
-BREAK,
-<lora:Detail_Tweaker_LoRA:1>,1girl,elf,white hair,short hair,open mouth,embarrassed,shy ears,tears coming out soon,vaginal,pussy cervix,(panties aside:1.2),school uniform,thighhighs,
-BREAK,
-<lora:POVDoggy:0.9>,1boy,penis,doggystyle,from behind,(ass grab:1.2),

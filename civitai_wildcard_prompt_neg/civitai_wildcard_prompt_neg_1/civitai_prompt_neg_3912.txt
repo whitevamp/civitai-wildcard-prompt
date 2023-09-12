@@ -1,0 +1,1 @@
+(worst quality, low quality, normal quality:1.3), ng_deepnegative_v1_75t, badhandsv5-neg, monochrome, grayscale,extra fingers, fewer fingers, missing fingers, extra arms, fewer arms, missing arms

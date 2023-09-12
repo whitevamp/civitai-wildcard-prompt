@@ -1,4 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 1girl, full body shot, medium breasts, black hair, high ponytail, naked top, nipple, 
-<lora:SheerSkirtV2:0.8>, white sheer skirt diamond earrings, diamond necklace, 
-<lora:fitgirl_v10:0.4>, fit, ripped, ab lines, abs, navel
-standing seductively next to the barcounter, in the medieval style room,

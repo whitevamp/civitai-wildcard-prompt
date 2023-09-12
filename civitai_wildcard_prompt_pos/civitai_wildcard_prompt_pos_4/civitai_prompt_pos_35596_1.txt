@@ -1,0 +1,17 @@
+ultra-detail, realistic professional photograph, full shot, full body, straight shot,
+
+1 girl, holding grand staff,
+(chibi:1),
+
+
+orange hair, blue eyes, ((wavy hair):1.05),
+
+
+floating, posing, power pose, halo,  haughty expression, looking into the distance,
+
+floating in intricate detailed clouds, leaves:1.1, (floating flower petals on background:1.2), streaks of light, cinematic lighting, side lighting, pink and dark blue cloud detailed background,
+
+beautiful, magical, dramatic, absurdres,
+
+
+8k, 4k, (highres:1.1), best quality, (masterpiece:1.3), <lora:blindbox_V1Mix:1>

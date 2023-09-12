@@ -1,1 +1,0 @@
-1 girl, (lying:1.35), Hanfu, (Winter hanfu), (cloak, headwear), (snow:1.2), <lora:Winter_Hanfu:0.65>, (masterpiece,best quality:1.5), ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, wide shot:1.2)

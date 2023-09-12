@@ -1,0 +1,1 @@
+(logo, watermark:1.3), (bad teeth, bad eyes, 2girl, two girls), (bad-artist:1.0), (loli:1.2), (worst quality, low quality:1.4), (bad_prompt_version2:0.8), bad-hands-5, (jpeg artifact, mist:1.3), verybadimagenegative_v1.3,

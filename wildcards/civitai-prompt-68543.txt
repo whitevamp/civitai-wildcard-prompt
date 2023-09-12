@@ -1,6 +1,0 @@
-sam yang,
-
-1girl, back, bare shoulders, blue eyes, brown hair, earrings, freckles, jewelry, lips, long hair, looking at viewer, looking back, necklace, off shoulder, parted lips, portrait, day, depth of field, solo
-
-, ((masterpiece))
-<lora:sam_yang_offset:1>

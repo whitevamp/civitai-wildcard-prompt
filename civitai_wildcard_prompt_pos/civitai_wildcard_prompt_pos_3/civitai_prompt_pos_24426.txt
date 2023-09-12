@@ -1,0 +1,5 @@
+32k resolution best quality raw photo photographed by Canon EOS R3,
+(depth of field:1.4), at new york time square, surrounded by pedestrians,
+(, :1.2), ( looking at viewer:1.4, long tongue,perfect teeth), <lora:taiwanDollLikeness_v20:0.6>, (hlf-closed eyes:1), after sex, blush,<lora:difConsistency_detail:0.2> <lora:difConsistency_photo:0.1> <lora:cumshot_49:1:NONE> <lora:dilationTapeLora-05:0.1> spread pussy, dilation tape,
+<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.2>,<lora:LowRA:1:NONE>,
+<lora:breastinclassBetter:0.1> awaitingtongue

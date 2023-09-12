@@ -1,6 +1,0 @@
-(best quality, 8k, 32k, masterpiece, UHD:1.2), (realistic, photorealistic:1.4), ultra highres, RAW photo, ultra detailed, high contrast, sophisticated body shape, (natural skin texture, hyperrealism, soft light, sharp), high position, nsfw, nude, BREAK
-solo, a young woman, cute, pretty, sexy, (wavy hair, white hair), nice hands, perfect hands, perfect fingers, (bending over, leaning forward, showing ass, showing pussy, (pussy focus), rear view:1.2), BREAK
-unparalleled detailed woman, extremely detailed eyes and teeth, beautiful detailed skin and body, exquisite detailed face, stunning clear eyes, detailed pupils, pink lips, ultra detailed nose and mouth, makeup, long eyelashes, highly detailed hair, BREAK
-breathtaking female body, detailed fingers, skinny body, medium breasts, gorgeous breasts, pink nipples, extremely detailed anal and pussy, narrow waist, thigh gap, long legs, pale skin, BREAK
-perfect anatomy, enchanting smile, dramatic lighting, in luxurious bedroom, looking at viewer,
-<lyco:GoodHands-beta2:1>, <lora:breastinClass:0.3>, <lora:add_detail:0.7>

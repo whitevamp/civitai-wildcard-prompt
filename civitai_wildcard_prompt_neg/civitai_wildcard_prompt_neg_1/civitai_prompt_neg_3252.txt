@@ -1,0 +1,1 @@
+(worst quality:0.8), verybadimagenegative_v1.2-6400, easynegative, (surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8)cropped, out of frame, mutated hands, extra fingers, bent fingers, text, signature, username

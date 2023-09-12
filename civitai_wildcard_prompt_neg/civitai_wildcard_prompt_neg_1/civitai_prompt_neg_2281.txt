@@ -1,0 +1,2 @@
+(worst quality:2),(low quality:2),(normal quality:2),lowres,watermark,ng_deepnegative_v1_75t,
+bad-hands-5, SkinPerfection_NegV15,OverallDetail,

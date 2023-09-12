@@ -1,0 +1,11 @@
+seed: 3027143030
+Model: meinamix_meinaV11
+steps: 40
+sampler: DPM++ 2M alt Karras
+cfgScale: 7
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'add_detail', 'type': 'lora', 'weight': 0.8}, {'name': 'neg_bdsqlsz_V2', 'type': 'lora', 'weight': 1.1}, {'name': 'PsychoMode', 'type': 'lora', 'weight': 0.7}, {'hash': '54ef3e3610', 'name': 'meinamix_meinaV11', 'type': 'model'}]
+Denoising strength: 0.2
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

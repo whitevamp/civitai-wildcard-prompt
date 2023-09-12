@@ -1,0 +1,1 @@
+extra fingers,fewer fingers,(low quality, worst quality:1.65), (bad anatomy), (inaccurate limb:1.2),bad composition, inaccurate eyes, extra digit,fewer digits,(extra arms:1.2), EasyNegative, badhandv4,mature male,

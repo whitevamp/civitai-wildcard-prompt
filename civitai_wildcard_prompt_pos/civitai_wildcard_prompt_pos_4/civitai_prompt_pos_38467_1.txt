@@ -1,0 +1,10 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, lying, large windows, indoors, close up,
+purple hair, long hair, twintails, purple eyes, eye reflection, bright pupils, scared, scowl, glaring, crying, full blush,
+breasts, nipples,
+ass,
+sweat, heavy breathing, thick thighs, steam from mouth, feet up,
+<lora:masusu_v10:0>,
+bound, bondage, bound arms, bound legs, arms behind back, hogtie, <lora:hogtie_v1:0>
+nude, keqingrnd, <lora:keqing1_000009:1>

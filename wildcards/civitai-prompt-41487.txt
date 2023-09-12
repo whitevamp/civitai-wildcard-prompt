@@ -1,4 +1,0 @@
-(best quality, 8k, 32k, masterpiece, UHD:1.2), (photorealistic:1.4), ultra highres, RAW photo, realistic shadow, ultra detailed, high contrast, perfect waist to hip ratio, (natural skin texture, hyperrealism, soft light, sharp), middle shot, crotch focus, (from front),
-a 20 yo naughty woman, cute, pretty, young, (layered bob, white hair), 
-dramatic lighting, teasing, flirting, (late night, in deserted dark room, dim light, inside a dark abandoned building), (night view, moon, night sky, dark night:1.1)
-<lyco:GoodHands-beta2:1.0>, <lora:breastinClass:0.2>, <lora:add_detail:0.5>

@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), monochrome, grayscale, sketches, paintings, lowres, normalres, blurry, bad teeth, red clothes, ng_deepnegative_v1_75t

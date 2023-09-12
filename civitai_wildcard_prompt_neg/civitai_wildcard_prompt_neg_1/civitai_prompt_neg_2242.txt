@@ -1,0 +1,1 @@
+cartoon, painting, illustration, (worst quality, low quality, normal quality:2), (asian, chineese, japan:1.5), (belts:1.2), (steel, iron, metal:1.2), (helmet, hat, cap:1.2), extra fingers, mutated fingers

@@ -1,0 +1,1 @@
+badhandsv5-neg , ng_deepnegative_v1_75t,(worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)), signature, watermark, bad anatomy, bad prompt, extra legs, missing leg, (disembodied leg), easynegative ,  badhandv4, fingers

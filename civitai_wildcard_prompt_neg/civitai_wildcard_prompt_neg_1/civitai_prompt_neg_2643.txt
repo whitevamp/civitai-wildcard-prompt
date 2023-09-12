@@ -1,0 +1,1 @@
+(bad-artist:1.0), (worst quality, low quality:1.4), EasyNegative, bad-hands-5,(monochrome:1.1), (greyscale),((((blurry background)))),orange shading,((((oversaturated,oversaturation)))),sunset,evening,(upturned nose:1.4),(wide nose:1.5),(angry face:1.5)

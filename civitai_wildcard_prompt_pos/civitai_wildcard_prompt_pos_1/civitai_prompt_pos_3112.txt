@@ -1,0 +1,3 @@
+((masterpiece:1.2, best quality)), solo
+Portrait, 
+Sweater, shiori ,<lora:oribeshiori-03:1>

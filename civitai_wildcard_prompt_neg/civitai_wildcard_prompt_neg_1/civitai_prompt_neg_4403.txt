@@ -1,0 +1,5 @@
+shading, shadow, 3D, depth,
+worst quality, bad quality, bad anatomy, lowres, low resolution, 
+easynegative, Unspeakable-Horrors-Composition-4v, Asian-Less-neg, 
+poorly drawn, amateur drawing, jpeg artifacts, compression, 
+piercings, pokies, see-through, lantern,

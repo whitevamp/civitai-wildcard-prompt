@@ -1,3 +1,0 @@
-<lora:multiple_hands_v0.5:1>
-1girl, (molestation:1.5), deep skin, multiple hands,
-<lora:sono-bisque_v4.0b:1> kitagawa marin, kitasch, classroom,, masterpiece, best quality, highly detailed

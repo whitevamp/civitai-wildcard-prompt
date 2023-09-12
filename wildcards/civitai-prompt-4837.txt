@@ -1,3 +1,0 @@
-(masterpiece, best quality), intricate details, 
-1girl,    <lora:reptile:0.8> reptile, lizard,  scales, claws, reptile girl, nipples, pussy, 
- <lora:tekakutli-dinosaur-v10:0.6>

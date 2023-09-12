@@ -1,0 +1,7 @@
+(worst quality:2), (low quality:1.6), (normal quality:1.4), lowres, normal quality, ((monochrome)), ((grayscale)),
+facing away, looking away,
+text, cropped,signature, watermark,blurry,cropped,
+(fat:1.2),poorly drawn face,mutation,deformed,jpeg artifacts,
+bad anatomy,bad body,(bad hands),(poorly drawn hands),bad feet,
+extra fingers,fewer digits,extra limbs,malformed limbs,(fused fingers),too many fingers,long neck,mutated hands,polar lowres,
+bad proportions,

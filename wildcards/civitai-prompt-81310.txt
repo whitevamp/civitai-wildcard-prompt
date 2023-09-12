@@ -1,4 +1,0 @@
-(masterpiece, best quality),  intricate details,
-monochrome, lineart, comic, cross-section, manga \(object\), left-to-right manga,  MangaHentaiStyleConceptv2
-  nude,  blushing, surprised, spoken !, speech bubble, 
- <lora:hakosbaelz2:0.8> shibari, crying, ropes, tied up, scared, hakos baelz, mouse ears,

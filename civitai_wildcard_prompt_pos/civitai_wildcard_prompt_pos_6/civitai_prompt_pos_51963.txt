@@ -1,0 +1,4 @@
+best quality, ultra high res,prefect anatomy,20yo kdoll,sfw,
+1girl,accidental exposure panties, seat, closed eyes, 
+movie theater
+ <lora:exposepanty-strong:0.8>  <lora:FilmG2:0.5>

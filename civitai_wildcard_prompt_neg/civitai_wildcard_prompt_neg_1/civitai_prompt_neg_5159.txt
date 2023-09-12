@@ -1,0 +1,1 @@
+verybadimagenegative_v1.3,  EasyNegativeV2, (fence:1.4), (enclosure:1.1), (barrier:1.1), (missing wing:1.1),

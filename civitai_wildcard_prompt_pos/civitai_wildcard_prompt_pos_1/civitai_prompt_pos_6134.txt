@@ -1,0 +1,2 @@
+flower background,masterpiece,best quality,ultra high res,1girl,nude,all fours,from behind, looking at viewer,eropose<lora:eropose_allfours:0.8>, garden,dreamflower<lora:dreamflower:0.7>
+BREAK <lora:elizabeth_liones_v3:0.9>hmeliza, 1girl, hair over one eye, jewelry, single thighhigh, midriff, black skirt, asymmetrical legwear, pink shirt, black thighhighs, belt, miniskirt,

@@ -1,2 +1,0 @@
-masterpiece, 1girl, bikini <lora:MilaAzul_1.0:0.5>
-<lora:3DMM_V12:1>

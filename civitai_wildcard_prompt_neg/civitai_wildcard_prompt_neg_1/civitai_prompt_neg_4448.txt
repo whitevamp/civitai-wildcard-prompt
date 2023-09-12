@@ -1,0 +1,1 @@
+(low quality:1.4), (worst quality:1.4),(monochrome:1.1),(greyscale:1.1),(easynegative:0.8),(badv5:0.8),text,logo,title,signature,

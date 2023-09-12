@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4),(EasuyNegativeV2, bad_prompt_version2, bad-artist-anime:0.7), negative_hand-neg,

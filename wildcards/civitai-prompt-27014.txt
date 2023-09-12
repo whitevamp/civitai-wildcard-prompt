@@ -1,3 +1,0 @@
-((low key,dark bluish scene,dimly lit, soft lighting):1.4),enchanting elegance, atmospheric depth, masterful technique, naturalistic representations, harmonious composition, creative refinement, striking juxtapositions,
-1girl,Beautiful vampire woman, looking at you tenderly
- <lora:fechin:0.75>

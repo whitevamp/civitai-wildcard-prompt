@@ -1,3 +1,0 @@
-Best quality, masterpiece, ultra high res, waves in background, water dragon, water balls, nature light, photo realistic, 
-(masterpiece, best quality:1.4),(absurdres, highres, ultra detailed:1.2), (1 handsome man:1.4),(using dark magic:1.4),water magic,playful illustrations, imaginative overlays, artistic fusion,fantastical scenes, evocative narratives, striking visuals, upper body,<lora:yushui:0.5> ,
- <lora:more_details:0.3>

@@ -1,0 +1,1 @@
+(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, (normal quality:1.3), signature, username, artist name, (worst quality, low quality:1.5), lowres, bad anatomy, logo, poorly drawn face,fused fingers, (poorly drawn hand), NG_DeepNegative_V1_75T, nipples

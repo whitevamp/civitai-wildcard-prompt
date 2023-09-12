@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (malformed hands:1.4),(poorly drawn hands:1.4),(mutated fingers:1.4),(extra limbs:1.35),(poorly drawn face:1.4), ugly, huge eyes, fat, indoor, worst face,(close shot:1.1)

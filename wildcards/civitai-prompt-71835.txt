@@ -1,3 +1,0 @@
-<lora:zhongfenghua:0.5> zhangfenghua, (geometric abstract background:1.4), esoteric, 1girl, depth of field (zentangle, mandala, tangle, entangle)
-(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, (dynamic angle:1.4), glowing skin, (floating colorful sparkles:1) the most beautiful form of chaos, elegant, a brutalist designed, vivid colours, romanticism
-<lora:lowra_v10:0.4>

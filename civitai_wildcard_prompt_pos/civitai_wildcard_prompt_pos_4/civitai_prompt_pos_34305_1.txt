@@ -1,0 +1,4 @@
+((ultra-detailed)), ((anime screencap)), 2girls, nude, legs entangled, lesbian sex, fingering, tribadism, ((perfect hands:1.2)), 8 fingers, in seaside bedroom
+AND ((ultra-detailed)), ((illustration)), 2girls,  nico robin:1.4, nude, legs entangled, lesbian sex, fingering, tribadism, black hair, blue eyes, ((perfect hands:1.2)), 8 fingers, in seaside bedroom <lora:nicoRobinOnePiecePreAnd_preTimeskip:0.5>
+AND ((ultra-detailed)), ((illustration)), 2girls, nami \(one piece\):1.4, nude, legs entangled, lesbian sex, fingering, tribadism, orange hair, brown eyes, nami pinwheel shoulder tattoo, ((perfect hands)), 8 fingers, in seaside bedroom <lora:namiOnePiecePreAndPost_postTimeskip:0.45>
+AND ((ulta-detailed)), ((illustration)), ((nami \(one piece)\ shoulder tattoo:1.4)), ((((thin blue lines)))), asymmetrical pinwheel, blue ink <lora:namiOnePiecePreAndPost_postTimeskip:0.45>

@@ -1,0 +1,1 @@
+(abstract paint), (3d, realistic:1.3), (low quality, worst quality:1.4), (bad anatomy), extra digit, fewer digits, (extra arms:1.2), bad hands, by (bad-artist:0.6), bad-image-v2-39000,  Asian-Less-Neg

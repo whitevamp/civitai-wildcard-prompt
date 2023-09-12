@@ -1,0 +1,3 @@
+Closeup of (a PotatoPunkAI potato with fishnet stocking legs), laying on the hood of a fancy sports car, on a cyberpunk city street.
+highres, high resolution, sharp focus, detailed, cinematic, artistic shadow, sidelighting, hdr, glowing neon lights.
+<lora:LowRA:0.5> <lora:c4rg1rl-v1:0.7> <lora:PotatoPunkAI_pruned:0.8>

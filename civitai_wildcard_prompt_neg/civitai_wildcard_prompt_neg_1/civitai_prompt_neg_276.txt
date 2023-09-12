@@ -1,0 +1,1 @@
+EasyNegativeV2, negative_hand-neg, (worst quality, low quality:1.4), (greyscale, monochrome:1.2), text, title, logo, signature, (grayscale:1.2), (monochrome:1.2),

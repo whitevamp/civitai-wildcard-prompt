@@ -1,7 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic),  woman, soft light, perfect face,sexy,
-purah, white hair,
-red glasses, hair ornament, hair stick, red headband, bare shoulders, black leather dress, high heels
-dynamic pose, 
-horny, stockings, dressed, night, nightclub,
-<lora:purah-nvwls-v2-final:0.7>
- <lora:breastinclassBetter_v141:0.35>

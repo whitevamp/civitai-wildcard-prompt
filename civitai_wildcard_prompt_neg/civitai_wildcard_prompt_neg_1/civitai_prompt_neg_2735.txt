@@ -1,0 +1,1 @@
+(worst quality:1.4), (low quality:1.4),(blurry:1.4),(watermark:1.4),(text:1.4),monochrome, greyscale,cowboy, nipples, bad hands, bad feet, extra foot, EasyNegative, bad_prompt, extra breasts,

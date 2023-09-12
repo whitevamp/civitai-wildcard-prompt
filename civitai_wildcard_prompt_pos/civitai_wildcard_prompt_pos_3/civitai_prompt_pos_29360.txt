@@ -1,0 +1,9 @@
+masterpiece, 
+1girl, bathing in stream, partially immersed, from side, upper body,
+nsfw, nude, 
+beautiful detailed face, Age:21, long hair, medium breasts,
+hair flower, water on skin,
+shy,
+butterfly, grass, waterfall, lotus,  dawn,
+(highly detailed), (realistic), vivid color,
+bright, deep shadows, dynamic light, <lora:Moxin_10:0.3>

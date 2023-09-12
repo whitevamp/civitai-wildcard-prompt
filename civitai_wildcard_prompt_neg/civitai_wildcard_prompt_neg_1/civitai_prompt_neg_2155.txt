@@ -1,0 +1,1 @@
+EasyNegative,longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair,extra digit, fewer digits, cropped, worst quality, low quality, 2 earrings

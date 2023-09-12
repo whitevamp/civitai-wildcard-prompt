@@ -1,0 +1,1 @@
+(easynegative:1.1), (worst quality:1.5), (low quality:1.5), (monochrome:1.1), missing fingers, extra fingers, bad anatomy, deformed, disfigured, sketches

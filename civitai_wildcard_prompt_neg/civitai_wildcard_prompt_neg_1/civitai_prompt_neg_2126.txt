@@ -1,0 +1,1 @@
+DeepNegative, EasyNegativeV2, bad-hands-5, bad_prompt_version2, deformed, missing limbs, amputated, disfigured, poorly drawn face, mutation, mutated, oversaturated, doubled face, (worst quality:2), (low quality:2), (normal quality:2), bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, blurry, bad feet, (artifacts:1.2),

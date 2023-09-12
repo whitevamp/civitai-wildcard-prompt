@@ -1,0 +1,1 @@
+EasyNegative, verybadimagenegative_v1.3, (bad_prompt:0.8), sketch by bad-artist, NG_DeepNegative_V1_75T, (worst quality:1.4), (low quality:1.4), (monochrome:1.1), bad_prompt_version2, bad_artist_anime, (loli: 1.5), (shota:1.5), (child:1.4), ((disfigured)), ((bad art))

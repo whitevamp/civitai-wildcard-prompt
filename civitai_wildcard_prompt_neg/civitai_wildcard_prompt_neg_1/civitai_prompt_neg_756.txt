@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality, low quality, normal quality:1.2), lowres, blurry, text, logo, (monochrome, grayscale), skin spots, acnes, skin blemishes, age spot, strabismus, wrong finger, bad anatomy, one leg, bad hands, bad_pictures, badhandv4, EasyNegative, ng_deepnegative_v1_75t

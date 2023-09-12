@@ -1,0 +1,1 @@
+(ugly eyes:1.2), (bad hands:1.2), (worst quality:1.2), (bad quality:1.2), (poor quality:1.2), bad-artist-anime, bad-artist,, badhandv4, bad_prompt_version2, ng_deepnegative_v1_75t, EasyNegative, bright light, (pale skin:1.2), loli, extra legs, extra army, bad anatomy, missing legs, missing arms,

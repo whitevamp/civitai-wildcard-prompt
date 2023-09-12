@@ -1,0 +1,1 @@
+ng-bad_dream, ng-unrealistic_dream, ng-easynegative-v2, ng-deepnegative-v1.75t, ng-bad_artist, ng-bad_artist_anime, ng-Unspeakable-Horrors-64v, ugly, worst quality, low quality, lowres, poorly drawn, out of frame, artist logo, signature, watermark, sign, text, (extra fingers, deformed hands, polydactyl:1.5)

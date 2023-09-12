@@ -1,0 +1,5 @@
+multiple girls,3girls,all fours,bed,bed sheet,on bed,(masterpiece, high quality:1.2),(ass grab),pussy <lora:MultipleAsses_v1:1>,<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.2>,masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,(realistic:1.4,),
+<lora:40D_vertical_stripe_white_pantyhose:0.2>, white pantyhose,thighhighs,socks,(nude, completely nude, ,light smile, blush, )
+<lora:hipoly_3dcg_v7-epoch-000012:0.2><lora:koreanDollLikeness:0.4>,
+(thick thighs:1.4,huge ass:1.2),
+<lora:largewindow05:1:ALL0.5>, largewindow, <lora:ass_up_wait_feet.v2:0.3>, ass up wait feet,

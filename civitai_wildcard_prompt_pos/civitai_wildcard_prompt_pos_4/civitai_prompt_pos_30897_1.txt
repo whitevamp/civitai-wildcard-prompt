@@ -1,0 +1,2 @@
+dogeza
+<lora:Concept-dogezaV5:1>

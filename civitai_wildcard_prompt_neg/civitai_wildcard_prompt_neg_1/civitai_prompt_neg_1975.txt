@@ -1,0 +1,1 @@
+EasyNegative, badhandv4, NegfeetV2, (worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2), artist name, signture, (watermark), (label), (signature), (frames), (text),  ng_deepnegative_v1_75t, touching the ground, from below,

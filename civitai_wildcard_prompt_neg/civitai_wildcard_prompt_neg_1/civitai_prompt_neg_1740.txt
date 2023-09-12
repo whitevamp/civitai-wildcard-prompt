@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (bloom, blurry:1.2), bokeh, depth of field,  deformed, (simple background:1.1), gradient background, young, immature, out of frame, (negative_hand-neg:0.9),

@@ -1,0 +1,3 @@
+(masterpiece,best quality, detailed), 1girl, solo, cowboy shot, outdoors, street, smile, parted lips, arms behind back,
+faye valentine, yellow hairband, yellow shorts, thighhighs, suspenders, midriff, yellow crop top, open clothes, open shirt, areola slip,
+ <lora:FayeValentineV3-000006:1>, <lora:more_details:0.5>

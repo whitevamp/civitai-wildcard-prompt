@@ -1,0 +1,3 @@
+absurdres, highres, ultra detailed, (1man With muscles and a tan:1.1) BREAK
+ramen, chopsticks,
+<lora:ramen_v1.2:1>, relieved expression, reassured, comforted, soothed

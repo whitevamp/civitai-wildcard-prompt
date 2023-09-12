@@ -1,0 +1,23 @@
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, sitting, side by side, head to head, large windows,
+AND
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, sitting, side by side, head to head, large windows,
+brown hair, long hair, full blush, sleeping, closed eyes:,
+small breasts, nipples, long nipples, puffy nipples, small areolae,
+ass, anus, (pussy, pussy juice, pussy juice drip, pussy juice trail:1.4),
+sleeves, white kneehighs, arms behind back, no bra, no shoes, no panties, spread legs, (sweat, steam, steaming body, heavy breathing:1.4),
+<lora:masusu_v10:0.25>,
+amberdef, <lora:amber1_000008:1>,
+AND
+masterpiece, best quality, detailed, absurdres, sidelighting,
+3d face, realistic, lustrous skin,
+2girls, sitting, side by side, head to head, large windows,
+blue hair, long hair, full blush, sleeping, closed eyes,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+ass, anus, (pussy, pussy juice, pussy juice drip, pussy juice trail:1.4),
+sleeves, black kneehighs, arms behind back, no bra, no shoes, no panties, spread legs, (sweat, steam, steaming body, heavy breathing:1.4),
+<lora:masusu_v10:0.25>,
+euladef, <lora:eula2_000009:1>

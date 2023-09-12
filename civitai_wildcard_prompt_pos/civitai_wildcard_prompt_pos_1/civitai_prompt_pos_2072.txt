@@ -1,0 +1,4 @@
+((Masterpiece, best quality)),beautiful colors, sharp contrast,oil painting, vintage,crackled paint,
+painting of a portrait, woman smiling with ((an afro hairstyle)) and sunglasses
+painted in renaissance style
+ <lora:edgRenaissanceXL:0.9>

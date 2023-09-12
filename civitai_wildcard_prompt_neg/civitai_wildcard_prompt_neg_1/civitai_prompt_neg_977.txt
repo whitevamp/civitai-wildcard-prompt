@@ -1,0 +1,2 @@
+ng_deepnegative_v1_75t, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, (monochrome), child, loli, child like, perfect skin, split screen, multi perspective, bad anatomy, white shirt, white clothing,
+negative_hand-neg

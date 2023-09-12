@@ -1,0 +1,2 @@
+(masterpiece:1.1), (highest quality:1.1), young woman, lying on her back, on bed, long hair, rainbow hair, (slack onesie, unbuttoned), professional photo, view from below, hands in pockets
+<lora:3DMM_V12:0.8>

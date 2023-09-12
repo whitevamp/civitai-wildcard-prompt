@@ -1,1 +1,0 @@
-phoenixdress, enchanted forest with starry night and fireflies,  1woman, egypt, solo, dress,  <lora:Egyptgodpunkv.4:0.8>  <lora:phoenixdressV.2-0000010:0.7>

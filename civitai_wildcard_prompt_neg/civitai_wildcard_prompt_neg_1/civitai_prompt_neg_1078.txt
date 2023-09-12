@@ -1,0 +1,1 @@
+verybadimagenegative_v1.3, EasyNegative, ng_deepnegative_v1_75t,(worst quality, low quality:1.4), ((((un-detailed skin, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime)))), (( ( missing teeth, close up, cropped, out of frame))), worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated,

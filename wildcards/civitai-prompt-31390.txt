@@ -1,1 +1,0 @@
-<lora:microskirt_v0.2:1.0> 1girl, microskirt, pleated skirt, plaid skirt, crop top, blonde hair, crotch, frontal wedgie, looking at viewer, partially visible vulva, (betweenlab:1.2), thong,, masterpiece, best quality, highly detailed <lora:betweenlab:0.8>

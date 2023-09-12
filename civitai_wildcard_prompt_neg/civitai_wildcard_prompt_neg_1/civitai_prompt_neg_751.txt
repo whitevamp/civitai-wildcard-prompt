@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), deformed, simple background, gradient background, (young, immature:1.1), bad-hands-5, (EasyNegative:0.8), (painting by bad-artist-anime:0.9), out of frame, poorly drawn, bad anatomy, wrong anatomy, extra limbs, (mutated hands and fingers:1.3),

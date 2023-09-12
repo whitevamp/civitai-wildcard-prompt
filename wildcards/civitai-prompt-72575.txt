@@ -1,1 +1,0 @@
-<lora:assOnGlassLora_v10:0.8>

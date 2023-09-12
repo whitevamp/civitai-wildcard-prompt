@@ -1,0 +1,1 @@
+[(ng_deepnegative_v1_75t:1.0):0.1], (bad_prompt_version2:0.8), (worst quality, low quality:1.4), (zombie, sketch, comic, extra fingers, missing fingers, mangled fingers, interlocked fingers, poorly rendered fingers, poorly drawn fingers:1.4), watermark, logo, text, letter, numbers, username, (ribs), ((monochrome)), ((grayscale)), vagina, pussy,

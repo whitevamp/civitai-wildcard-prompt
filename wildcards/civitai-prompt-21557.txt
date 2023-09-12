@@ -1,1 +1,0 @@
-SamuraiPunkAI, female, woman, traditional samurai , elite Naginata Samurai,<lyco:EnvyBeautyMix28:0.8> <lora:EABA_v1:0.8>

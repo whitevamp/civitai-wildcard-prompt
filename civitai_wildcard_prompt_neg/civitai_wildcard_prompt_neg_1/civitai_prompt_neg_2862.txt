@@ -1,0 +1,1 @@
+watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), ((bad anatomy)), watermark, signature, text, logo,contact, ((extra limbs)),loli, Six fingers,Low quality fingers,EasyNegative:0.5,monochrome:1.5,three legs,

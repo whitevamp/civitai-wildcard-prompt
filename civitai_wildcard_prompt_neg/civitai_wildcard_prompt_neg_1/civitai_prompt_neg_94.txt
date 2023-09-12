@@ -1,0 +1,5 @@
+(watermark,logo,text:1.0),
+(muscles,pubic hair,body hair,old,aged skin,wrinkles,skin creases,freckles,:2.0),
+(worst quality,low quality:1.3)
+(out of frame,cut off,simple background:1.0),
+(bad-picture-chill-75v, bad_prompt_version2-neg, By bad artist -neg,easynegative, negative_hand-neg, ng_deepnegative_v1_75t, verybadimagenegative_v1.3:1.1)

@@ -1,0 +1,4 @@
+futuristic_knight, (silver spiked hair), energy_crown, plasma_armor,light_brigandine, [force_shield::10],laser_red eyes, power_belt, holographic_gauntlets, space_station, photon_sword,[gloves, jetpack, armored_pants:0.4],
+offshoulder,
+Expressive Hues, Vibrant Palette,Dynamic Brushwork,
+<lora:oc_v10:0.1>  <lora:Niji:0.4>

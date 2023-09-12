@@ -1,0 +1,10 @@
+masterpiece, best quality, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, siiting on wooden floor, large windows, indoors, close up feet,
+silver hair, blue eyes, eye reflection, beautiful detailed eyes, smile, full blush, looking at viewer,
+small breasts, nipples, long nipples, nipples erection, small areolae,
+pussy, pussy juice, pussy juice puddle,
+sweat, steam, heavy breathing, thick thighs, soles, feet up, topless, bottomless, spread legs,
+<lora:masusu_v10:0>,
+skindentation, <lora:LegSkindentation_v11:0>,
+wet white legwear, kamisatoayakadef, <lora:kamisatoayaka1_000008:1>

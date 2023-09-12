@@ -1,0 +1,8 @@
+[b&w, black and white, monochrome, blurry, text, watermark], 3dcg, 3d render, daz, painting, cartoon, [tattoos, airbrushed, photo filter, edited], cropped, closeup, zoomed, large areola, (wearing bra, bikini), [mouth open, lips apart], 
+milf, bbw, amputated, amputee, one leg, disfigured, bad anatomy, disabled, [implants, fake tits, flat chest, tiny tits, small breasts], mature, childlike, transgender, ugly, chubby, dark skin,
+Steps: 38, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 245541149, Face restoration: CodeFormer, Size: 512x704, Model hash: 572f0aa2b6, Model: uberRealisticPornMerge_urpmv12, ENSD: 31337
+Template: [beautiful and sexy] woman model posing topless for pinup photography (on beach at sunset), [ocean, coastline], cinematic lighting . 
+highly detailed, [dynamic pose, dancing, stretching, yoga], photoshoot, perfect body, <lora:Tanlines05:0.8> .
+perfect breasts, (large breasts), medium breasts, nipples, [detailed breasts, detailed nipples, detailed skin], perfect ass, (perfect body), legs, thighs, detailed vagina, pussy, vulva .
+(pretty face, cute face, detailed face, detailed eyes, [makeup, perfect face, eyeshadow, eyeliner, mascara, cheekbones], beautiful), tan lines, tanlines
+Negative Template: [b&w, black and white, monochrome, blurry, text, watermark], 3dcg, 3d render, daz, painting, cartoon, [tattoos, airbrushed, photo filter, edited], cropped, closeup, zoomed, large areola, (wearing bra, bikini), [mouth open, lips apart],

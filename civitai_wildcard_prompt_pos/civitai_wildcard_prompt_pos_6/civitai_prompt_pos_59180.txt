@@ -1,0 +1,7 @@
+<lora:koreanDollLikeness_v10:0.4>, 
+(RAW photo, best quality), (realistic, photo-realistic:1.2), a close up portrait photo, 
+1girl, shopping mall rooftop cafe, outdoor, 
+smile, (high detailed skin:1.4),
+puffy eyes, gorgeous hair, air bangs, brown black hair, 
+white opaque shirt with bow tie, pure red pleated skirt, 
+soft lighting, high quality,

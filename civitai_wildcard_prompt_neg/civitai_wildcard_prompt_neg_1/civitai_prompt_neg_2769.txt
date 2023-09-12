@@ -1,0 +1,1 @@
+(worst quality:1.4, low quality:1.4),(signature:1.4,artist name:1.4,watermark:1.4), monochrome, bad-hands-5, easynegative, weird leg shape, deformed toes, deformed feet, extra feet, deformed foot, extra feet, extra thighs, extra hands,

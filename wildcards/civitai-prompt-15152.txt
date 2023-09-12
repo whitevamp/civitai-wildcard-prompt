@@ -1,3 +1,0 @@
-(multi color clothes), sea cardigan, (see through:1.3), shiny skin best quality, masterpiece, (bikini),  (realistic, ultra realistic), slim body,
-(contre-jour, side lighting, volumetric, crepuscular rays, dynamic contrast), ((dark scene, dim light)), 1girl, random hair , (perfect Face:1.3)(standing:1.3), <lora:epi_noiseoffset2:0.2>, water wave, (moon light), (night:1.4), light, ray tracking, nikon D7000
-<lora:Sea_cardigan:0.5>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality,wine glass, red wine,high heel,on Yachts, <lora:kor_insta_girl_v12:0.1> <lora:koreaface15:0.2>

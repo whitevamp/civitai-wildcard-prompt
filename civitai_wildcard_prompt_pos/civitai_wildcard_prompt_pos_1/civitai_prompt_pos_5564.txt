@@ -1,0 +1,1 @@
+<lora:gaben_03-000008:0.6> gaben, gabe newell, glasses, beard, parody <lora:emo_hairstyle:0.4> (emo_hairstyle, colorful hair:1.1)

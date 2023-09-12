@@ -1,1 +1,0 @@
-anthropoid squirrel doing homework, lots of books, (masterpiece:1.2), (too many walnuts on desk:1.2), wearing eyeglasses, art by artgerm, 8k, uhd, soft lighting, high quality, cinematic lighting, fireflies <lora:CyberPunkAI:0.2> <lora:more_details:0.5> <lora:3DMM_V12:0.5>

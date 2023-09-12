@@ -1,0 +1,2 @@
+best quality, masterpiece, (photorealistic:1.4), 1girl,school uniform,pleated skirt,((showing panties)),dramatic lighting, realistic skin,large breast,highly detailed background,Picking up a dropped object,E235, train interior,bra,
+ <lora:E235_V5:0.6>

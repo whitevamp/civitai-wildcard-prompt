@@ -1,0 +1,3 @@
+mini\(ttp\), (8k, RAW photo, best quality, masterpiece:1.2), simple background, clean background, depth of field,
+mountain, lake, farmland, Natural, miniature, landscape, isometric,
+<lora:miniatureWorldStyle_v10:0.8>

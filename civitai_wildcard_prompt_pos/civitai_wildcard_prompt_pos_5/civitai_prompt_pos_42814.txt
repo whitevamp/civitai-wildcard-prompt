@@ -1,0 +1,12 @@
+dressed, (photo realistic:1.4), (hyper realistic:1.4), (realistic:1.3),
+(smoother lighting:1.05), (increase cinematic lighting quality:0.9), 32K,
+1girl, 20yo girl, realistic lighting, backlighting, light on face, ray trace, (brightening light:1.2), (Increase quality:1.4),
+(best quality real texture skin:1.4), finely detailed eyes, finely detailed face,
+(tired and sleepy:0), (joy:0), (smile:0), (laugh:0), (ahegao:1.3), (orgasm:1.3), (ecstasy:0), (tongue), face closeup, t-shirts,
+(Increase body line mood:1.1), (Increase skin texture beauty:1.1)
+<lora:koreandolllikenessV20_v20:0.3:OUTALL>
+<lora:JapaneseDollLikeness_v15:0.45:OUTALL>
+<lora:ChineseDollLikenessV3.0:0.4:OUTALL>
+<lora:taiwandolllikenessV20_v20:0.3:OUTALL>
+<lora:tongue:0.12>
+<lora:tonguedrop-d:0.22>

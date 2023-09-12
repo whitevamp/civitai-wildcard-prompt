@@ -1,0 +1,3 @@
+(masterpiece, best quality), aesthetic illustration,   colorful paint style, <lora:add_detail_v5:1>, <lora:anime3d:0.75>, <lora:3DMM_V12:0.25>, 3DMM,
+1 girl, adult welsh woman, freckles, grey eyes, platinum blonde textured hair,
+  looking up, solo, half shot, detailed background, <lyco:CulturePunkBundle-000007:0.5>, OldEgyptAI, Alexandira, desert, ancient egyptian theme,  assassins creed, hired assassin, hidden wrist-blade, white tattered leather assassin clothes, hood,    straps,  dynamic pose, fighting, rural landscape in background, floating particles, dust,

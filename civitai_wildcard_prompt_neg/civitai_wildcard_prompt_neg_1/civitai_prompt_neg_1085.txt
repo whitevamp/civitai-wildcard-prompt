@@ -1,0 +1,1 @@
+bad-hands-5, bad_pictures, easynegative, verybadimagenegative_v1.3, bad_prompt_version2-neg, np_simple_negatives_v2-neg, negative_hand-neg, SkinPerfection_NegV1

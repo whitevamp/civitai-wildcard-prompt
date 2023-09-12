@@ -1,9 +1,0 @@
-1girl (30yo) stunningly sexy beautiful mature Japanese girl, facing camera, long (colored hair:1.2), realistic skin, subsurface scattering, 
- <lora:JapaneseDollLikeness_v15:0.2> BREAK
-black choker, jacket, earrings, (smiling:1.2), dimples BREAK
-(nsfw), nipples, belly button, dynamic pose, sexy pose BREAK
-(winter, snow: 1.5) BREAK
-Sparks, glitter, magic BREAK
-((cinematic lighting)), professional photograph, dramatic lighting, (deep shadows), backlight, (night, dark, dim:1.5), (chromatic aberration : 1.5)
-8k, raytracing, highest quality, masterpiece
- <lyco:GoodHands-beta2:1.0>

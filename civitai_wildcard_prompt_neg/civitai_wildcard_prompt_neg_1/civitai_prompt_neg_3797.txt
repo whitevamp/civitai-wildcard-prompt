@@ -1,0 +1,2 @@
+EasyNegative, (worst quality, low quality:1.2), signature, watermark, username,(loli:1.2) EasyNegative, (worst quality, low quality:1.2), signature, watermark, username,(loli:1.2)
+Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 9, Seed: 915166035, Size: 512x704, Model hash: 3e9211917c, Model: yesmix_v16Original, Denoising strength: 0.4, Clip skip: 2, ENSD: 31337, Hires upscale: 2, Hires upscaler: SwinIR_4x, Hashes: {"vae": "600345c503", "model": "3e9211917c"}

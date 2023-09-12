@@ -1,0 +1,3 @@
+grainy,(masterpiece:1.1), best quality, absurdres, (extremely detailed:1.1), evening,natural light,
+BREAK
+catbox, peeking, if it fits it sits,

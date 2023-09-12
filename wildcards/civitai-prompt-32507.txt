@@ -1,1 +1,0 @@
-masterpiece, best quality , highly detailed ,   <lora:pixel:0.7> , (pixelart) ,  <lora:AquaKonoSuba:0.7> , AquaKnsb , skirt , blue hair , (beach background:1.2) , (chibi:1.2)

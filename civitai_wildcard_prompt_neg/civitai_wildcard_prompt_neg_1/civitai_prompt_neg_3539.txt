@@ -1,0 +1,1 @@
+( low quality,worst quality,normal quality,bad anatomy,easynegative:1.2),badhandv4,verybadimagenegative_v1.3,(cross necklace:1.2),

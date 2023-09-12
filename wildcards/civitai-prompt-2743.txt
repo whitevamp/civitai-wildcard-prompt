@@ -1,2 +1,0 @@
-highres, shadows, absurdres, best_quality, ultra_detailed, 8k, extremely_clear, photograph, beautiful, sharp focus, hdr,
-[(milky way (electricity, fractal, organic, virus, intricate, cosmic)) | (adult, perfect skin, female, looking away, portrait, upper body, smile, detailed eyes, sensual, stranded, beautiful light, hair bun) : 0.4], (highres, masterpiece, perfect lighting, bloom, cinematic lighting), Portfolio piece, RSEEmma, art by Jordan Grabuloski and Iskra Grabuloska, (intricate details:1.4)

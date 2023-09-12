@@ -1,2 +1,0 @@
-nikon RAW photo,8k,Fujifilm XT3,masterpiece, ((best quality)), 1girl,solo,realistic, photorealistic,ultra detailed, diamond stud earrings, long straight black hair, hazel eyes, serious expression, slender figure, wearing a black cropped hoodie, black bra, denim shorts, standing against a city skyline at night iu1, nsfw, exposed nipples, small breasts,  slender body, seducing smile
-background: city, korea, streets, night, starry sky, soft lights <lora:zltest:0.5>, <lora:koreandolllikenessV20_v20:0.3>

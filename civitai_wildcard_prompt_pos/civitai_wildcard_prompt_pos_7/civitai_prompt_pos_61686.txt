@@ -1,0 +1,7 @@
+best quality, masterpiece, silver hair,  sweater, pantyhose, blue eyes, mature, office lady, [light blue jacket], 
+
+(vibrant colors), solo, (dalcefo, sakimistyle:1.1), Pilyeon, (stare, realistic, lips, eyelashes:0.75),
+
+office, modern office, high-rise, colorful room, sitting on table,
+
+ <lora:chracterYukino_v10:0.8>

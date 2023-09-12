@@ -1,0 +1,3 @@
+EasyNegativeV2,negative_hand-neg,nsfw,bad limbs anatomy,multiple limbs,
+(looking at viewer,scooter,motorcycle:1.4),
+signature,watermark,username,artist name,

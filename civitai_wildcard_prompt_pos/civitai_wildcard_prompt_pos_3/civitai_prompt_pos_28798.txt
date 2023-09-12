@@ -1,0 +1,10 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res, nfsw
+back lights, light leaks, dynamic lighting
+1boy, 1girl, penis, (corneo_bound_missionary:0), sex, (on bed, lying:1.2), pov, legs spread, breast grab
+slim, smooth skin, twin ponytails, (pureerosface_v1:1), bond,  nipples, navel, pussy, vagina
+kpop idol, (beautiful detailed eyes:1),(beautiful detailed face:1), bottomless, (freebuffing:1.2)
+indoors, cafe
+
+<lora:realisticVaginasAsian_asianpussy1V1:0.3>
+
+<lora:koreanDollLikeness_v15:0.6> [:<lora:chunmomo_v10:0.35>:0.5]  <lora:japaneseDollLikeness_v10:0>

@@ -1,1 +1,0 @@
-derpd,female Cyborg, elite gladiator sorceress, scifi scene, combat arena, deadly warrior wearing arcane robes and armor, battle magic,spells,<lora:TalDarimMecha:0.7> <lyco:EnvySorceress:0.7> <lora:derpd - DerpdeedooStyle:0.6>

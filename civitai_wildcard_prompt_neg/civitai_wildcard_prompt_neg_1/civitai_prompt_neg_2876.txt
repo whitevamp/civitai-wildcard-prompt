@@ -1,0 +1,1 @@
+blue, (worst quality, low quality:1.4), (bad anatomy), (bad proportions), greyscale, monocrome, multiple views, lowres, blurry, too many fingers, ((deformed)), (inaccurate limb:1.2), bad composition, inaccurate eyes, badprompt, ng_deepnegative_v1_75t, EasyNegative, (loli),

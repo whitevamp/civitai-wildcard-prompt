@@ -1,0 +1,7 @@
+(highres, high quality, best quality:1.3), intricate details, vibrant image, colorful, volumentric lighting, bibleblack,
+YukikoMinase, 1girl, solo, cowboy shot, (from below:1.2), looking down, looking at viewer, eye contact, (spread legs:1.2), (skirt tug:1.3), (hands on skirt, holding skirt:1.2), indoors, medical room, 
+blush, shy, embarrassed, open mouth
+[black hair:green hair:25], short hair, lipstick, eyelashes, yellow eyes,  detailed eyes, detailed face, jewelry,
+open labcoat, purple shirt, turtleneck, cleavage cutout, pencil skirt, grey thighhighs,
+curvy, huge breasts, cleavage, thighs, pussy pussy juice stain, pussy juice, 
+<lora:YukikoMinase:0.8> <lora:bb-style:0.25>

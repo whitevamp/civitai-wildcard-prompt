@@ -1,0 +1,2 @@
+easynegative, NG_DeepNegative_V1_75T
+(worst quality, low quality, normal quality:1.7), lowres

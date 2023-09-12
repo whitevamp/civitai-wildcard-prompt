@@ -1,0 +1,1 @@
+(Woman:1.3), (Girl:1.3), (Female:1.3), (Topless:1.1), (Naked:1.1), (Nude:1.1), (NSFW:1.1), (Hentai:1.0), (Loli:1.0), (Child:1.0), badhandv4, 1girl, (worst quality, low quality:1.4), (greyscale, monochrome:1.0), text, title, logo, signature, (muscular:1.3), Skinny, Fit, Muscles

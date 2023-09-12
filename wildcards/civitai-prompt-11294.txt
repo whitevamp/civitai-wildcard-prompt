@@ -1,5 +1,0 @@
-(photo-realistic:1.3)
-(1girl), (30yo), mature, (blue room:1.1), (rim lighting:1.3), (dimly lit:1.3), (dark night:1.3), indoors, long hair, spread legs, pussy, smiling, dimples
-<lora:JapaneseDollLikeness_v15:0.4>
-masterpiece 
- <lora:very_thin_pussy.v1.0:0.5>

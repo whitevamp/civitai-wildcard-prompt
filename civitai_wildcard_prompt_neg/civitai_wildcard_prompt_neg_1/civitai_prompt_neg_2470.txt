@@ -1,0 +1,2 @@
+anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 0, Size: 1216x832, Model hash: 31e35c80fc, Model: sdXL_v10, Style Selector Enabled: True, Version: v1.5.1, Hashes: "vae": "63aeecb90f", "model": "31e35c80fc", bad quality, deformed hands, deformed fingers, nostalgic, drawing, painting, bad anatomy, worst quality, blurry, blurred, normal quality, bad focus, tripod, three legs, weird legs, short legs

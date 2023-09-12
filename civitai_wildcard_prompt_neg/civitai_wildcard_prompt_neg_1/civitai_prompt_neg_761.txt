@@ -1,0 +1,1 @@
+bad_prompt,(worst quality:2.0), (low quality:2.0),inaccurate limb,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name:2,realistic.ugly face,ugly eyes,3D,white bars

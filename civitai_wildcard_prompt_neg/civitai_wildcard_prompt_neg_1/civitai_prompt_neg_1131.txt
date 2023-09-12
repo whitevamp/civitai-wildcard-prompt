@@ -1,0 +1,1 @@
+(bad_prompt_version2:0.8), paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), (sepia), (deformed iris, deformed pupils, semi-realistic, 3d, render, cg, painting, drawing, cartoon, anime, comic:0.6), watermark, bad_quality, long body, long neck, NG_DeepNegative_V1_75T, easynegative, (pubic hair),

@@ -1,0 +1,1 @@
+hair,eye,(face:1.4),paintings, sketches, anime,(worst quality:2), (low quality:2) , (bad-hands-5:1.2)

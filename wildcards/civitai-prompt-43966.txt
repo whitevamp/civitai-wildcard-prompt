@@ -1,4 +1,0 @@
-(realistic),(masterpiece:1.2), (best quality:1.2),looking at viewer,dramatic pose,(walking in sakura garden:1.2),golden hour,dim light,rim light,(sakura:1.2), 1girl,(pink sabai),(jewelry:1.2),
-black skirt, cape, demon slayer uniform, long sleeves, pleated skirt, skirt, white cape, kanao tsuyuri, black hair, butterfly, butterfly hair ornament, (purple eyes:1.1), side ponytail, ponytail,
-holding sword, epic realistic, (close up), 1girl, floating blue_hair, long hair, (water:0.7), waterdrop, wet, holding_katana, ultra detailed, (textured_clothing),
-<lora:kanaotsuyuritest:1>

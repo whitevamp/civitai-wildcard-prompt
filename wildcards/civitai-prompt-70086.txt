@@ -1,1 +1,0 @@
-1girl, solo,mix4, (realistic:1.1), (photorealistic:1.1), (masterpiece:1.1), (best quality:1.1),  ultra detailed, looking at viewer, smile,sweet_lolita,standing , natural lighting, depth of field, (pureerosface_v1:0.8), amusement park in the background,(night),<lora:sweetLolita_REG:0.7> ,<lora:A_BaseFace_1_cuteGirlMix4_v10:0.6>  ,<lora:A_BaseFace_5_cuteAsianFace_v10:0.6>

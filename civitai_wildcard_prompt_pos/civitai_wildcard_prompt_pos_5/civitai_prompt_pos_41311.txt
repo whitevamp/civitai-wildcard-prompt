@@ -1,0 +1,2 @@
+capybara eating a ramen
+<lora:capi-09:0.9>

@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, frame, canvas, text, signature, logo, scribbles, people, By bad artist -neg, oversaturated, high contrast, symmetry, duplicates

@@ -1,2 +1,0 @@
-(realistic:1.5), 1girl, purple eyes, long hair, collarbone, looking at viewer, solo focus, bangs, shiny skin, blurry background, deep of field,
-fantasy art, photo realistic, dynamic lighting, artstation, poster, volumetric lighting, very detailed faces, 4k, award winning, in the dark, deep shadow, low key, cowboy shot, white hair, <lora:XXMix9_v20LoRa:0.8>

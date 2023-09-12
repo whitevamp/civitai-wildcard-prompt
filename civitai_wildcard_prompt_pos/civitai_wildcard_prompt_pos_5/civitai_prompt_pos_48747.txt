@@ -1,0 +1,4 @@
+<lora:blacked_v1.5:0.8>,
+<lora:qos_tattoo_v0.5:1>,queen of spades tattoo
+<lora:SuspendedCongressMS:1>
+black hair, blue eyes, best quality, intricate details, 1girl, , sex, spread legs,vagina, mating press,beautiful, masterpiece,breasts ,pink nipples

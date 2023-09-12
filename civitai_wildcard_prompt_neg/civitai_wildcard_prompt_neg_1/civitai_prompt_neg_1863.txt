@@ -1,0 +1,1 @@
+(worst quality, low quality:1.3), (greyscale, monochrome:1.1), cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, extra hand, mask, (animal ear:1.4), blur

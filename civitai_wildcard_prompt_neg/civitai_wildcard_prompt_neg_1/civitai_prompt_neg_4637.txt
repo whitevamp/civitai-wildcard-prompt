@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, easynegative, bad_prompt, bad-hands-5, bad-artist, bad-image-v2-39000, bad-picture-chill-75v, multiple tails, duplicated tail, duplicated tails, tails, (penis:1.3), (dick:1.3), (men:1.3),

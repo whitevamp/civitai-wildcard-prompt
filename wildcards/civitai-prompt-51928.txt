@@ -1,8 +1,0 @@
-(masterpiece:1.2, best quality), 
-1girl,solo, 
-large breasts, upper body, headband,
-pink hair, short hair, green eyes, lipstick, 
-red dress, bare shoulder,
-looking back, sakura, haruno_sakura,
-
- <lora:harunoSakura_v11:1>

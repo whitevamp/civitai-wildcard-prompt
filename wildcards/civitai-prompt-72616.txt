@@ -1,3 +1,0 @@
-ultra detail,cowboy shot,   close-up,straight-on,  looking at viewer,
-<lora:hahasky-10:1> <lora:MultipleGirlsGroup:0.8>3girls, maid , lineup, skirt lift,  cloth, hair, skirt, evil smile,
-on bed, night, moody lighting,

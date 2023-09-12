@@ -1,0 +1,1 @@
+(low resolution:1.3), (worst quality:1.3), (low quality:1.3), (strabismus:1.4), anime, cartoon, rendering, drawing, 3d, logo, (text), watermark, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3)

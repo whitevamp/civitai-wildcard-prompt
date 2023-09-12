@@ -1,6 +1,0 @@
-(masterpiece, highres, best quality:1.3), professional artwork, 8K, highly detailed, intricate, colorful, vibrant image, sharp focus, trending on pixiv
-Ingrid, solo, mature female, 40yo, milf, curvy, (dark skinned female:1.15), dark skin, posing, sunny weather, blue sky, skyscrapers, (scowl look:1.25), looking at viewer, full body shot, 
-pink hair, very long hair, forehead, hair intakes, purple lipstick, black eyeshadow, makeup, (mole under mouth:0.7), yellow eyes, perfect eyes, perfect face, ultra detailed hair, detailed face,
-large breasts, covered nipples, nipple slip, areola slip, cleavage,
-business suit, (mini skirt:1.1), court shoes,
-<lora:Ingrid:0.83>

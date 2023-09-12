@@ -1,0 +1,1 @@
+bad-prompt, bad-image, bad-artist, (worst quality, low quality:1.4)

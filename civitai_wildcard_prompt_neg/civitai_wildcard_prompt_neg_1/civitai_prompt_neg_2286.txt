@@ -1,0 +1,1 @@
+(bad-artist:1.0), (worst quality, low quality:1.4), (bad_prompt_version2:0.8), bad-hands-5,(NG_DeepNegative_V1_75T:1.3), EasyNegative,white line on skirt,

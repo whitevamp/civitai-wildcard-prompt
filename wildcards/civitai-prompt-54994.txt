@@ -1,1 +1,0 @@
-(best quality, masterpiece: 1.1), (realistic, photo-realistic: 1.1),(a girl: 1.1) beautiful detailed eyes,(full body:1.3)A girl A girl kneels on the floor(solo)<lora:cuteGirlMix4_v10 (1):0.7><lora:jk uniform:0.6>(JK long-sleeved shirt),JK style,(JK skirt) ,(JK long tie)

@@ -1,0 +1,1 @@
+(worst quality:1.2), (low quality:1.2) , (monochrome:1.1), (bad_prompt:0.8), (EasyNegative:1.2), text, username, extra fingers,fewer fingers, long body, (monochrome:1.1), (greyscale), bad-hands-5,

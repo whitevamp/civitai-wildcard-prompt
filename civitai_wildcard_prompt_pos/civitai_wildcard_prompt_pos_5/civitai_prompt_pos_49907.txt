@@ -1,0 +1,3 @@
+realistic, masterpiece, best quality, detailed, dim warm lighting, cave, rocks, vivid colors,
+solo, (feral, blue, snake:1),
+<lora:ribbon bandage, nude ribbon:1.2> red ribbon bandage, nude ribbon, (ribbon around body:1.2),

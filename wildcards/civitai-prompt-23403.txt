@@ -1,3 +1,0 @@
-mix4, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ((1girl)), petite, curvy, cute, professional lighting, physically-based rendering, full body, dynamic pose, pee, 
- ((embarrassed, ashamed))
-(squatting, peeing)  <lora:pee-v3:0.6>

@@ -1,0 +1,1 @@
+(EasyNegative:1.0), (monochrome:1.1), (greyscale),

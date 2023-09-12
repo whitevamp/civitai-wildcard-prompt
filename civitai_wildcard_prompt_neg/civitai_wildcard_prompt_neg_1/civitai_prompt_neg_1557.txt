@@ -1,0 +1,1 @@
+(happy,. smile, angry, mad:1.2), blurry, out of focus, chromatic abberations, (low quality, worst quality:1.2), bad hands, poorly drawn face, watermark, text, poorly drawn hands, username, lowres, (EasyNegative), (bad_prompt_version2), (negative_hand), (verybadimagenegative_v1.3)

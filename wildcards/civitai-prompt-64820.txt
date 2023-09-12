@@ -1,3 +1,0 @@
-(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
-1girl,   <lora:indie_silverfox-10:0.8> silverfox, 
- <lora:merrytail_forex-meme_v02-13:0.8> fx_meme ,

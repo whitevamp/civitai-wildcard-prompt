@@ -1,0 +1,12 @@
+(masterpiece, 4k ,ultra detailed:1.2),(beautiful face:1.2),(anime:1.2),illustration,(realistic:1),
+(1girl facing each other:1.4),(multiple views:1.4),(from side:1.4),
+(facing away,looking away:1.4),
+(teasing smile:1.2),
+(standing:1.2),(supermodel:1.4),
+(simple background,white background:1.2),
+(schoolgirl_uniform,long sleeve dress shirt,black pleated skirt,black thighhigh:1.2),
+(black_hair),(medium length hair),(flat chest:1),(wide_hips,curvy:1.2),
+(mature,milf,35yo:1.2),
+<lora:hipoly3DModelLora_v10:0.2>,
+<lora:japanesedolllikenessV1_v15:0.4>,
+<lora:breastExpansionLora_v10:0.6>,(breast expansion:1.4)

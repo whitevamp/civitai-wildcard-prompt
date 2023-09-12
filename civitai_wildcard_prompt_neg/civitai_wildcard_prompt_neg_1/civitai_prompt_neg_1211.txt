@@ -1,0 +1,1 @@
+an6 bad-hands-5 bad_prompt_version2 easynegative fcNeg-neg ng_deepnegative_v1_75t verybadimagenegative_v1.3 (bad and mutated hands),(worst quality :2.0), (low quality:2.0),text

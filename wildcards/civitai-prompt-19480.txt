@@ -1,1 +1,0 @@
-(highly detailed), 1girl. woman, aura, (cat:1.3), bj_Fault, black hair, ink  <lora:ultrainstinct_v3_offset:1>  <lora:Fault_art:0.8>  <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

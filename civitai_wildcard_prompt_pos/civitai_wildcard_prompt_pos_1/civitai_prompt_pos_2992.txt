@@ -1,0 +1,3 @@
+<lora:tentacles_v0.4:1.0>
+1girl, tentacles, slime \(substance\), dripping, tentacle pit, 
+<lora:against_glass_v0.2:1> breasts on glass, shower, window fog, water drop, blonde hair,, masterpiece, best quality, highly detailed

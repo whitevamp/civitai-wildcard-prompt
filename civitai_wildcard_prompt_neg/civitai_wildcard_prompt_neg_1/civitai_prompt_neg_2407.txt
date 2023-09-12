@@ -1,0 +1,1 @@
+BW, Black&White, simple background, pure background, (worst quality:1.8), (bad quality:1.8), (poor quality:1.8), bad-artist-anime, bad-artist, bad-picture-chill-75v, badhandv4, bad_prompt_version2, ng_deepnegative_v1_75t, EasyNegative

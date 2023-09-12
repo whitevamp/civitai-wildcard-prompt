@@ -1,0 +1,3 @@
+amano yoshitaka,
+1girl, (dark dim dramatic atmosphere)+ 8k portrait of a girl with super long aurora hair, hair dissolving+ into bright stars, in drip modern clothing, intricate, highly detailed, digital painting, smooth, sharp focus, illustration, ((masterpiece))
+<lora:amano_yoshitaka_offset:1.25>

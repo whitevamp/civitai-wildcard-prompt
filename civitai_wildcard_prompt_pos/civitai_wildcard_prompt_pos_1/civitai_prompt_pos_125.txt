@@ -1,0 +1,9 @@
+(masterpiece, best quality), intricate details, 
+1boy, ((middle age  chubby fat man)),  hairy, hair-bald,
+blush, embarrassed,  looking at camera, smiling
+ coat, standing, nude from the waist up,
+ <lyco:exhibitionismV_Conv2D:0.8>, exhibitionism, public indecency, public nudity, 
+stretchmarks,  detailed glossy eyes, visible skin pores,
+((in a shopping mall)),
+ <lora:Bhuge_nipple:0.7>, huge nipples
+ <lora:DiaperMixLoRA:0.7>,  cute white diaper

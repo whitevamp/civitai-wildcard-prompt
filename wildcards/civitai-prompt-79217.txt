@@ -1,5 +1,0 @@
-(masterpiece, best quality:1.4), highly detailed, intricate, professional artwork, outstanding digital art, 8K, 
-Pirotess (holds a sword:1.05) in a fighting stance, mature female, curvy, blush, (flirting glance:1.1), (mountains meadows fantasy background:1.1), (closeup, cowboy shot:1.15) looking at viewer, 
-(dark skinned female, dark skin:1.3), pointy ears, white hair, long hair, circlet, lipstick, makeup, black eyeshadow, jewelry, bracelet, ultra detail hair, ultra detail face, yellow eyes, perfect eyes, perfect face, 
-white short dress, white gloves, thigh boots, 
-gigantic breasts, (exposed nipples:1.1), cleavage, <lora:Pirotess:0.87>,

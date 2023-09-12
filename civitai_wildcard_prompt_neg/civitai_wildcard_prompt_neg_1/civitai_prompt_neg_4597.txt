@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality:2),(low quality:2), extra fingers, bad-picture-chill-75v, badhandv4, easynegative, negative_hand-neg, ng_deepnegative_v1_75t, no text, no logo,((watermarking))

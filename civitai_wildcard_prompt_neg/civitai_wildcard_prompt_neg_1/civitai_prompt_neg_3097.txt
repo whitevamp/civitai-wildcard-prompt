@@ -1,0 +1,1 @@
+(photo photography photograph) (cartoon) (saturated) (grain) (deformed) (poorly drawn) (lowres) (lowpoly) (CG) (3d) (blurry) (out-of-focus) (depth_of_field) (duplicate) (watermark) (label) (signature) (text) (cropped)

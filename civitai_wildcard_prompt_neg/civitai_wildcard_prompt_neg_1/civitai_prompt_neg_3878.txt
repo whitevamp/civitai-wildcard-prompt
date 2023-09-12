@@ -1,0 +1,1 @@
+easynegative, bad-hands-5, (worst quality, low quality:1.4), ng_deepnegative_v1_75t, blurry, signature, artist name, bad anatomy, patreon username

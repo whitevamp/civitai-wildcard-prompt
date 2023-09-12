@@ -1,0 +1,3 @@
+A vintage pnup pinup of Mad Moxxi wearing a top hat, corset, fishnets, striped stockings, reclining against THE KILLDOZER. [(white circular background:1.5)::5], [explosion|paint splatter] background.
+highres, high resolution, sharp focus, cinematic.
+<lora:k1lld0z3r:0.9> <lora:mad_moxxi:0.7> <lora:pinupGirl_pnupS:0.5>

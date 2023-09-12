@@ -1,7 +1,0 @@
-<(photorealistic:1.4), (extremely intricate:1.2)>, <(exquisitely detailed skin), cinematic light, ultra high res, 8k uhd, intricate details, Movie Light, Oil Painting Texture, film grain, dreamlike, perfect anatomy, best shadow, delicate, RAW>,
-
-((gorgeous Golden kimono)),((gorgeous orange kimono)),((gorgeous pink kimono)),((gorgeous red kimono)),((royal textured kimono)), <lora:kimonoClothes_v10:1>,
-
-1girl, solo, makeup, highres, large breasts:1.4 , cleavage, looking at viewer, smile, bangs, bare shoulders, black hair,collarbone, crossed bangs, hair between eyes, hair ornament, hair ribbon, huge breasts, japanese clothes, large breasts, long hair,mask, mask on head, off shoulder, parted lips, red eyes, red kimono, red ribbon, ribbon, striped ribbon, taihou \(azur lane\), twintails, very long hair, wide sleeves,(shiny skin), sash,
-
-night, detailed background, Cyberpunk world, Modern metropolis, neon,

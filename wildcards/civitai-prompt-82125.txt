@@ -1,1 +1,0 @@
-a lovely painting of a girl in the forest with light snow falling, <lora:add_detail:1>

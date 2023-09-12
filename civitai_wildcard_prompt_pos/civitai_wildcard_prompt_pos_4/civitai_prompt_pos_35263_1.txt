@@ -1,0 +1,11 @@
+(masterpiece,best quality:1.2),(Highest picture quality),(master's work),(highres:1.1), (gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura,  gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, 
+ gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, 
+ gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, 
+ gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, 
+ gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, 
+ gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura, gawr gura), 
+
+
+open mouth, close-up, 
+
+<lora:allVtubersLora_hll31:1> ,  <lora:bigMouthsVore_bigMouthsV1:0.7>

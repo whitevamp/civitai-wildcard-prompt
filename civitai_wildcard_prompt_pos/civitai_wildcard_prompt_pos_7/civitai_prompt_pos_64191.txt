@@ -1,0 +1,3 @@
+a woman wearing safari gear, standing on a ladder, and taking a selfie with a giraffe. The giraffe leans in with an amused expression as the woman holds her phone out in front of them. The scene is both comical and endearing.
+The woman is placed in the lower-left corner of the portrait, with her body angled towards the giraffe in the upper-right corner. The ladder and the giraffe's long neck create diagonal lines leading the viewer's eye across the scene. The background features a savannah setting, adding context to the playful interaction between the woman and the giraffe.
+Bright and transparent scene lighting, <lora:Velvia1:0.3>

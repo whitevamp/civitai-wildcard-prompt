@@ -1,0 +1,1 @@
+(EasyNegative:0.8), paintings, sketches, (worst quality, low quality, extra digits:1.4), paper, crowd, (Bad_prompt_v2:0.8), simple background, blurry, bad-hands-5, badhandv4, verybadimagenegative_v1.3,

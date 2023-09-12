@@ -1,0 +1,3 @@
+child, loli, easynegative, paintings, sketches, (worst quality:2), (low quality:2), lowres, normal quality, ((monochrome)), ((grayscale)),  blurry, (bad anatomy:1.21), extra limbs, missing fingers, extra digit ,bad hands, negative_hand-neg
+__header__
+ <lora:InstantPhotoX3:0.4> <lora:PussyFromBelow:0.8>

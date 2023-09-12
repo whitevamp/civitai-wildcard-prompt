@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), watermark, logo, out of frame, dated, artist_signature, easynegative,  bad-artist,  bad-image-v2-39000,  bad_prompt_version2,  NG_DeepNegative_V1_75T, censored, censor bars, pixelated penis, duplicate panty, multiple panty, saturation,

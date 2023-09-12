@@ -1,0 +1,1 @@
+masterpiece, best quality,1man, (monk:1.3), bald,feet out of frame, AS-MidAged,loincloth,  blush, sweat,jack-o' challenge, spread legs, top-down,bottom-up, <lora:add_detail:0.7>  <lora:JackOPoseFront:0.5>

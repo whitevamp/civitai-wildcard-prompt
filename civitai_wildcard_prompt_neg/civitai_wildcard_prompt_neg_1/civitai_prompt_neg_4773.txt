@@ -1,0 +1,1 @@
+(anime:1.3), cartoon, painting, (video game:1.3), unreal engine, (worst quality:2), (low quality:2), (normal quality:2), (big eyes, child face, teen:1.2), (lowres:1.2), portrait, (oriental woman:1.1), (tatoo:1.4), (strap:1.4), mole, close up, (bad_pictures:1.2), (negative_hand-neg:1.6)

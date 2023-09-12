@@ -1,0 +1,2 @@
+black humanoid made of rock, upper body, barechested, male,  ((masterpiece, best quality)),  <lora:more_details:0.3>, cracked skin, white electricity coming through cracks, muscular male, (dragonborn:0.6), white hair, 
+outdoors, detailed background <lora:dragonborn_offset:0.6> <lora:r1ge - AnimeRage:1> <lora:Cracked Skin:1.2>

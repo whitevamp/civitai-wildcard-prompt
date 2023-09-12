@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), FastNegativeV2, bad-hands-5, BadDream

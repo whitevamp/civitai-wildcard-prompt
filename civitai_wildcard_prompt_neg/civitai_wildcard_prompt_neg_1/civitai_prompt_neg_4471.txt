@@ -1,0 +1,1 @@
+EasyNegative, lowres, bad anatomy,(extra fingers, deformed hands, polydactyl:1.5), text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, acnes, skin blemishes, age spot, ugly, duplicate, multilated, extra ears, extra arms, extra legs, extra limbs, unclear eyes, twisted arm,

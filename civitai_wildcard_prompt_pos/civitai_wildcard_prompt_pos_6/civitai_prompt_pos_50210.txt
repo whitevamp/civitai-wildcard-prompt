@@ -1,0 +1,12 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, kneeling, large windows, indoors, from below, close up,
+white hair, long hair, blue eyes, bright pupils, angry, scowl, glaring, full blush, crying, clenched teeth, facing viewer, looking at viewer,
+large breasts, nipples, long nipples, puffy nipples,
+pussy, pussy juice, pussy juice puddle,
+sweat, steam, thick thighs, arms behind back,
+<lora:masusu_v10:0>,
+<lora:InniePussy1_v3:0>,
+rope, shibari, bondage, suspension, tied_breasts, <lora:TiedBreast:0>,
+vaginal object insertion, masturbating with glass bottle, <lora:objectMasturbation-v11:0>,
+no shoe, pantyhose, shenhedef, <lora:shenhe2_000010:1>

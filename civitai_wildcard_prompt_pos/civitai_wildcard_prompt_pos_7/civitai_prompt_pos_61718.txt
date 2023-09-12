@@ -1,0 +1,5 @@
+1 lady , solo,  realistic face, sunset, beautiful, off shoulder  dress, long straight hair 
+(shy,   looking away,  blush),   bangs,  head tilt, 
+high contrast, sharp, best shadow, flat color, 
+    masterpiece, best quality
+  <lora:add_detail:0.5>

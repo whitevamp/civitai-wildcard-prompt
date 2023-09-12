@@ -1,0 +1,2 @@
+(looking at viewer:1.5) by bad-artist, verybadimagenegative_v1.3, NG_DeepNegative_V1_75T, bad_prompt_version2, bad-image-v2-39000, bad-hands-5, (low quality, worst quality, bad anatomy:1.5)
+ Unspeakable-Horrors-32v easynegative

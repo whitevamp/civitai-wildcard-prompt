@@ -1,0 +1,13 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+1girl, lying, night, indoors, close-up,
+white long hair, hair over one eye, full blush, smile, shy,
+blue eyes, eye reflection, bright pupils, beautiful detailed eyes,
+large breasts, small areolae, long nipples, puffy nipples,
+navel, pussy, vaginal, pussy juice,
+sweat, steam, steaming body, heavy breathing,
+kneehighs, detached sleeves, topless, bottomless,
+<lora:masusu_v10:0.25>,
+<lora:InniePussy1 v3c:0.25>,
+bed, bed sheet, bed_invitation, <lora:bed_invitation:0.25>,
+shenhernd, <lora:shenhe2-000010:1>

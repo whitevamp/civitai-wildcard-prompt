@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, (worst quality:2), (low quality:2), lowres, badhandv4, text, logo, watermark, signature, pubic hair, censored, female, 1girl

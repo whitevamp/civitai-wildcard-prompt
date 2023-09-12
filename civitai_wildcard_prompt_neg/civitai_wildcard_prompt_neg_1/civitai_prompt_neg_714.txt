@@ -1,0 +1,1 @@
+(NegfeetV2),(ng_deepnegative_v1_75t:1.3),(easynegative),(bad_pictures),bhands-neg,negative_hand-neg,(worst quality:1.5, low quality:1.5),((2girl)),overexposure,watermark,text,bad anatomy,badhandv4,ugly,logo,worst face,horror,fat,sfw

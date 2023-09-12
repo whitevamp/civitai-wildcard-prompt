@@ -1,4 +1,0 @@
-4K, Masterpiece, highres, absurdres,
-beautiful edgPersian_woman, perfect edgPersian_face, perfect edgPersian_body,
-cowboy shot, posing for a picture
-<lora:edgPersian:0.75>

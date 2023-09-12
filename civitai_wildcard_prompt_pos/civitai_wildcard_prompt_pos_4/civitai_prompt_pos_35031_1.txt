@@ -1,0 +1,8 @@
+masterpiece, best quality, (realistic:1.4), (photorealistic:1.4), (real person:1.4),
+1 girl, outdoors, sidelighting, full body, depth of field,
+long hair, braided ponytail, looking at viewer,
+small breasts, completely nude,
+(pussy juice trail), (pussy juice puddle), barefoot,
+half squatting, (wide spread legs), (hands behind head:1.4),
+public, camera, foreground, photographer, <lora:inPublic_v10:1.25:MIDD_OUTALL>
+<lora:shojovibe_v11:0.35:MIDD_OUTALL>, <lora:koreanDollLikeness_v15:0.15:MIDD_OUTALL>,

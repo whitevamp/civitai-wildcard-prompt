@@ -1,0 +1,1 @@
+(waist, thighs, stomach, extra legs, vagina, pussy:1.4), pink hair, asian, (bad teeth:1.1), black hair, (low quality, worst quality:1.2), (bad anatomy), (deformed), disfigured, long neck, bad hands, poorly drawn face, watermark, text, poorly drawn hands, username, lowres, (EasyNegative), (bad_prompt_version2), (negative_hand), (verybadimagenegative_v1.3)

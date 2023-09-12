@@ -1,1 +1,0 @@
-(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,(detailed beautiful girl:1.4),1 girl,slender,<lora:Sexy office lady:0.8>Sexy office lady,office,((dark suit,jacket,skirt)),((micro mini skirt)),looking at viewer<lora:Daisy Ridley:1>(skswoman,mid hair,green eyes)

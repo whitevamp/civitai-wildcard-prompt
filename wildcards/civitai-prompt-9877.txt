@@ -1,1 +1,0 @@
-1girl, photorealistic,highres,kda, solo, long hair,  <lora:kda_v3:0.4>, professional_light

@@ -1,0 +1,1 @@
+EasyNegative,easynegative bad_prompt_version2 ng_deepnegative_v1_75t

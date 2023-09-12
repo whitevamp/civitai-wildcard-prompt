@@ -1,0 +1,8 @@
+(masterpiece, best quality:1.3),
+
+full body,small breast,
+
+1 young girl,  jirai fashion with pink blouse  ,black hair, long hair, looking at viewer,
+<lora:jirai:0.8>,
+
+shop, book, shelf,table,

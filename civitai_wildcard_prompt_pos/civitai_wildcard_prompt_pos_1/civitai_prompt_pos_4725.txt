@@ -1,0 +1,11 @@
+seed: 290040595
+Model: revAnimated_v122
+steps: 20
+sampler: Euler a
+cfgScale: 7
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'postapocalypseai_v10', 'type': 'lora', 'weight': 0.3}, {'hash': '4199bcdd14', 'name': 'revAnimated_v122', 'type': 'model'}]
+Denoising strength: 0.6
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

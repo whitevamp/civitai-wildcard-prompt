@@ -1,0 +1,3 @@
+pov, top-down bottom-up, school uniform, skirt,
+<lora:pov_spitroast_v0.2:1>
+<lora:public_v3.0-locon:1> public,, masterpiece, best quality, highly detailed

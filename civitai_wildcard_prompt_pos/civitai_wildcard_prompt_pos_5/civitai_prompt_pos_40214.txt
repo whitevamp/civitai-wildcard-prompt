@@ -1,0 +1,4 @@
+masterpiece, best quality, highres, (photorealistic:1.4), (depth of field:1.2), (large breast), smiling, (looking at viewer:1.2),
+1girl, short hair, volleyball uniform, tall, realistic, indoor stadium,
+(pureerosface_v1:0.4), (aegyo sal:0.2), (ulzzang-6500-v1.1:0.2),
+<lora:volleyballUniform_v10:0.8>,

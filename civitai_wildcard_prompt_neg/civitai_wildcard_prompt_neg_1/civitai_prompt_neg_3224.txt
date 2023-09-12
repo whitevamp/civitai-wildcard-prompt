@@ -1,0 +1,1 @@
+(worst quality, low quality, extra digits:1.4), (text, watermark, signature:1.4),  by bad-artist-anime,  bad-hands-5,  EasyNegative,  ng_deepnegative_v1_75t,  bad-image-v2-39000

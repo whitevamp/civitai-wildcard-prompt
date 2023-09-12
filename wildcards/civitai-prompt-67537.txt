@@ -1,2 +1,0 @@
-<lora:zombie_v1.3:1>>
-1girl, 1boy, zombie, blonde hair, blue eyes, (elf, mature female, milf:1.2), (ahegao, tongue out, drool, rolling eyes, hearts, motion lines:1.2), big breasts, (torn bridal gloves, torn white lace dress:1.2) sex, dark, cemetery, fog, fantasy, horror \(theme\), all fours, size difference,, masterpiece, best quality, highly detailed, <lora:Milf:0.5> <lora:donaughts:0.3> <lora:GoodHands-beta2:1> <lora:zombie_v1.3:1><hypernet:furry_3:0>

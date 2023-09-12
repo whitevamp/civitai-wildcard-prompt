@@ -1,0 +1,1 @@
+EasyNegative, (badv2:0.8), (bad quality:1.3), (worst quality:1.3), watermark, (blurry)   bad-artist bad-artist-anime bad_prompt_version2  badhandv4 ng_deepnegative_v1_75t verybadimagenegative_v1.3

@@ -1,0 +1,1 @@
+(table:1.6), (straw:2), EasyNegative, bad-hands-5, bad_prompt_version2, lowres, nsfw, (loli, child:1.3)

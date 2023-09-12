@@ -1,0 +1,1 @@
+(((bad proportions))), ((unrealistic shadows)), ((unrealistic reflections)), low res, low resolution, low quality, (blurry), unclear, skin color, skin tone, twins, <lora:easynegative:1>,  <lora:badhandv4:1>

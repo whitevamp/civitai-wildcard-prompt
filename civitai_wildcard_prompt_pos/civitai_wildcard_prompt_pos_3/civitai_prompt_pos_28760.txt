@@ -1,0 +1,12 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), best quality, ultra high res, nfsw
+back lights, light leaks, dynamic lighting, facing viewer
+1girl, cute, bottomless, (dildo:1.2), dildo riding, pussy juice, sex toy, squatting, shirtlift
+slim, smooth skin, twin ponytails, (pureerosface_v1:1.2), bond, (bare feet:1.2), nipples
+kpop idol, (beautiful detailed eyes:1),(beautiful detailed face:1)
+indoors, cafe
+
+<lora:ridingDildoSexActLora_v10:1>
+<lora:shirtliftALORAFor_shirtliftv1:1>
+<lora:realisticVaginasAsian_asianpussy1V1:0.3>
+
+<lora:koreanDollLikeness_v15:0.6> [:<lora:chunmomo_v10:0>:0.5]  <lora:japaneseDollLikeness_v10:0>

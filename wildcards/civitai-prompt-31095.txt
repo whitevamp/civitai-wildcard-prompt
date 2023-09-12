@@ -1,3 +1,0 @@
-(masterpiece:1.2),(best quality:1.2),highly detailed,absurdres,intricate,volumetric lighting,cinematic lighting,award-winning,macro vivid colors
-1girl, beautylegs, koh_amberheard, high heels, skirt, transparent blouse, standing, street in paris, full body
-<lyco:beautylegs_v01:0.8>

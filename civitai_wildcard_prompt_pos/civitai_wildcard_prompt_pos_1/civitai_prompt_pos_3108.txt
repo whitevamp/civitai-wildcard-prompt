@@ -1,0 +1,2 @@
+((masterpiece:1.2, best quality)), 1lady, solo
+Richicaism, portrait <lora:richica:1> glasses

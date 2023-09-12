@@ -1,3 +1,0 @@
-Masterpiece, ultra realistic,absurdres,HDR,8k,excited,best quality,sunglasses, city background,
-edgSDress, 1girl, solo, long hair, looking at viewer, black hair, dress, bare shoulders, brown eyes, jewelry, standing, full body, earrings, black dress, lips, strapless dress, realistic , wearing edgSDress
- <lora:edgSDress:0.987>

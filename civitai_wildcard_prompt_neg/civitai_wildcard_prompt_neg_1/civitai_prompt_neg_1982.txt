@@ -1,0 +1,9 @@
+(ass, back), (ribs), (big breasts, huge breasts),
+EasyNegative, CyberRealistic_Negative-neg,  UnrealisticDream
+(wide shot, fullbody:1.2),
+beach bag,
+shy, cute, blonde hair, deep eyes, gorgeous face, innocent, stunning, small breasts, petite,
+nude, pussy, nipples, NSFW, <lora:BetterStandingSlit:1>, legs, feet,
+outdoors, France, cte d'Azur, dirt path, trees, sea,
+(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, <lora:zoom_slider_v1:-1>
+EasyNegative, CyberRealistic_Negative-neg,  UnrealisticDream

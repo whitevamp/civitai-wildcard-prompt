@@ -1,0 +1,5 @@
+(masterpiece, best quality), intricate details, (Best quality)), ((masterpiece)), ((realistic)), (hyperrealism:1.2), (fractal art:1.2), 
+1girl,   (red eyes:1.5) <lora:tifa-nvwls-v1:0.8>    defTifa, chubby, obese,  white crop top,  sitting on a bed, 
+extreme detailed eyes, colorful, highest detailed, 
+vibrant colors, high contrast,
+<lora:add_detail:1>, (8K UHD:1.2), (photorealistic:1.2),

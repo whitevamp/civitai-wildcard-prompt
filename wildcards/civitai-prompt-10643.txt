@@ -1,3 +1,0 @@
-<lora:AI_Utaha:0.3> <lora:sd-No.144:0.2>
-(masterpiece:1.4, best quality), (intricate details), unity 8k wallpaper, ultra detailed, beautiful and aesthetic, perfect lighting, 1girl, smirk, slim, slender, gray eyes, longt hair, shiny hair, blue hair, bangs, caityln, mature body, necklace,
-small_breasts, flat_chest, leaning forward, facing viewer, from below, white shirt , denim shorts, (areola slip:1.2), <lora:downblouse-v1:0.8>, down blouse, embarrassed, blush, ^ ^, indoor, (hair ruffling)

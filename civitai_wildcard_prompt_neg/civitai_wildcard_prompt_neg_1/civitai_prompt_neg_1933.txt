@@ -1,0 +1,2 @@
+(easynegative), (bad-hands-5), (sketch), low-res, text, watermark, (blurried-eyes), (jpeg-artifact), (looking at viewer, looking at camera), missing-limbs, multiple-characters, high-contrast, strong-shadows, black and white, monochrome, tattoos, shoes, shoe, SkinPerfection_NegV1, 
+ (AS-YoungV2-neg: 2.5)

@@ -1,0 +1,4 @@
+EasyNegative,(badhandv4),verybadimagenegative_v1.3,By bad artist -neg,
+(worst quality:1.4), (low quality:1.4) ,( jpeg artifacts, signature,logo,watermark,text:1.3),monochrome,grayscale,out of frame,
+
+(abs,elf,heterochromia:1.1),(loli,child,petite:1.4),(glove,classroom:1.2),

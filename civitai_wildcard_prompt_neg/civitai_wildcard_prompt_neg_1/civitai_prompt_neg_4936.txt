@@ -1,0 +1,3 @@
+bad_pictures, imageSharpener, light-negative-neg, aidv1-neg, aid28, animestylenegativeembedding_dreamshaper, realisticvision-negative-embedding, bad-artist, bad-artist-anime, sketch by bad-artist, painting by bad-artist, photograph by bad-artist, bad-picture-chill-75v, [:(badhandv4:1.5):27], badhandv5, badv3, badv4, badv5, bad_prompt, bad_prompt_version2, BadDream, UnrealisticDream, deformityv6, (EasyNegative:0.85), ng_deepnegative_v1_75t, verybadimagenegative_v1.2-6400, (verybadimagenegative_v1.3:0.8), Unspeakable-Horrors-Composition-4v, realisticvision-negative-embedding, (oekakiNegativeTI:0.8, sd1-failed-oekaki), (KHFB, AuroraNegative), rmadanegative402_sd15-neg, subject out of frame, 
+__artist-director__,
+__camera__, "

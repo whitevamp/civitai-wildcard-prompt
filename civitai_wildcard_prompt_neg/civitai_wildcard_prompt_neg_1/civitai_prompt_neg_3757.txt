@@ -1,0 +1,1 @@
+(easynegative, bad-artist-anime, bad-artist bad-hands-5, badhandv4, bad_prompt_version2, ng_deepnegative_v1_75), (worst quality, bad quality, blurry, depth of field, bokeh, bad anatomy), (text, watermarks, signature, letters, words), facial hair, long hair, censored

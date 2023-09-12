@@ -1,2 +1,0 @@
-<lora:CupidTech-22:0.9>,cupidtech ,heart wing,pink,(many Heart Balloons:1.2),pink glove,Heart Storm,Pink Lightning,smile,
-(masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),,ntricate, elegant, highly detailed, , sharp focus,,,,,cyberpunk,,,(luminescence:1.3), , intricate details,transparency,translucent, (( detailed futuristic gear, cybernetics:1.5)), looking at viewer, good anatomy, ((detailed face, (detailed hands), detailed eyes)),, sharp focus, cyberpunk background,(fractal_art:1.3)<lora:GoodHands-beta2:1>

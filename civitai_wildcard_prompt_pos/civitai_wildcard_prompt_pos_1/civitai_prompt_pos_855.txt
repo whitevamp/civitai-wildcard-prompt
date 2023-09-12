@@ -1,0 +1,11 @@
+seed: 1244518140
+Model: mothmix_v141
+steps: 35
+sampler: DPM++ 2M Karras
+cfgScale: 7
+Clip skip: 2
+Mask blur: N/A
+resources: [{'name': 'Char_GenshinImpact_RaidenShogun', 'type': 'lora', 'weight': 0.8}, {'name': 'Pos_AhEtoMemePose', 'type': 'lora', 'weight': 0.8}, {'hash': '01d7873f41', 'name': 'mothmix_v141', 'type': 'model'}]
+Denoising strength: 0.3
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

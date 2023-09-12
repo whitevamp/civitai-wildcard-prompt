@@ -1,0 +1,1 @@
+asian,text, watermark, low quality, medium quality, blurry, censored, wrinkles, deformed, mutated text, mutated embedding:BadDream embedding:UnrealisticDream,(deformed iris, deformed pupils), worst quality, ugly

@@ -1,0 +1,1 @@
+FastNegativeEmbedding, (worst quality, low quality:1.4), (depth of field, bokeh, blurry:1.4), (greyscale, monochrome:1.0)

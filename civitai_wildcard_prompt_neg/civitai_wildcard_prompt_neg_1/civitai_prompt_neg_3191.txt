@@ -1,0 +1,1 @@
+(worst quality:1.4), (low quality:1.4), (monochrome:1.1), bad_prompt_version2, bad_artist_anime,, ((bad art)), bad-hands-5,  easynegative

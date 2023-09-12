@@ -1,0 +1,4 @@
+Simple 2D kindergarten daycare children's drawings of cute flowers, happy suns, pretty rainbows, people holding hands, on a chalkboard, alongside eldritch necronomicon sketch occult symbols.
+Chalk sketch, flat, blackboard, chalkboard.
+<lora:LowRA:0.1>
+<lora:blackboard:0.9> <lora:Necronomicon-10:0.7>

@@ -1,0 +1,1 @@
+(worst quality, low quality:2),(normal quality:2),monochrome,watermark,text,bad anatomy,sketch,duplicate,(ng_deepnegative_v1_75t),(negative_hand-neg),bad_pictures,EasyNegative,

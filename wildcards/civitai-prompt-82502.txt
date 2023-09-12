@@ -1,1 +1,0 @@
-absurdres, best quality, 1girl, solo, eye focus, looking at viewer,   <lora:samus-nvwls-v1:0.9>, samus aran, ponytail, hair tie, blue gloves, blue bodysuit

@@ -1,9 +1,0 @@
-masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, anime key visual, official art, (anime:1.2), (illustration:0.8), (beautiful detailed eyes:1.2), (perfect anatomy, nice hands, perfect hands, perfect fingers), <lora:GoodHands-vanilla:1>,
-<lora:epiNoiseoffset_v2Pynoise:1.0>, <lora:flat2:-0.3>, <lora:lit:0.2>,
-
-<lora:kasumiKancolle_v1:0.9>, side ponytail, long hair, grey hair, BREAK, brown eyes, BREAK, hair ribbon, black ribbon, BREAK,
-1girl, solo, (smile:0.7), (moaning, screaming:0.9), (14yo:1.1),
-<lora:folded_anal:1.0>, (solo folded anal, anal, anus, gaping anal, folded:1.4), (completely nude:1.3), (cum in anal, cum in anus:1.4), BREAK, innocent pussy, medium breasts, (anal object insertion with anal beads:1.3),
-(spread legs, m legs, legs up, knee to chest:1.4), navel, stomach,
-She grips her thighs with both hands, She rests her back against the pillow, on bed, bed sheet, BREAK
-detailed background, messy background, natural lighting,

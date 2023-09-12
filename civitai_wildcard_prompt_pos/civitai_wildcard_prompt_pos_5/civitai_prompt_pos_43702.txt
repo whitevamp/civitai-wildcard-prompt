@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extremely detailed,(fractal art:1.2),colorful,highest detailed,(zentangle:1.2), (dynamic pose), (abstract background:1.5), (many colors:1.4),
+1 girl, (MF-SD15-V1:0.8), black hair,  hanfu, ming style, <lora:hanfu_v30:0.5>, Spider Lily, peonies blossom,

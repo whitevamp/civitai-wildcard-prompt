@@ -1,8 +1,0 @@
-best quality, masterpiece, realistic,
-adult female, erotic goddess,
-((small breasts)),
-messy [updo|hanging] hair,
-(full body:0.6),
-sharp details, high detail skin,
-realistic skin texture,
-<lora:lora_perfecteyes_v1_from_v1_160:0.5> perfecteyes eyes

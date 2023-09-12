@@ -1,0 +1,1 @@
+<lora:add_detail:0.4> <lora:GoodHands-beta2:1> <lora:GoldenTech-20:0.7> (masterpiece, best quality, realistic, detailed, crisp:1.2), intricate details, goldentech, (low angle, picture), (shrex), <lora:ShrekDoguVersion2:1> (goldsuit, yellow necktie, sunglasses, hands on chest), <lora:attire_goldensuit:0.5> gleam, shine, backlighting,

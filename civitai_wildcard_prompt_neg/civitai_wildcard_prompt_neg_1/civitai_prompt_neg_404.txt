@@ -1,0 +1,1 @@
+(GS-DeMasculate-neg:1.3), black and white, monochrome,(bad_prompt_version2:0.8), doll, grayscale, photoshop, render, 3d, painting, art, drawing, ((digital art)), cartoon, ((digital painting)), ((digital art)), rendering, computer graphics, ((((watermark)))) easynegative,ng_deepnegative_v1_75t AS-Adult-neg

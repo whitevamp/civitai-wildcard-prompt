@@ -1,0 +1,1 @@
+(badhandv4:1.5), (easynegative:1.2), paintings, sketches, (worst quality:1.8), (low quality:1.8), (normal quality:1.8), lowres, normal quality, ((monochrome)), ((grayscale)),

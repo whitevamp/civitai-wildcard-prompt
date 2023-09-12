@@ -1,4 +1,0 @@
-(best quality, masterpiece),
-cammy white, blue eyes, blonde hair, long hair, twin braids, red headwear, green leotard, fingerless gloves, harness, thighs, red socks, black footwear, ahoge,
-looking at viewer, arms behind head
-<lora:cammy whiteV1:0.7>  <lora:3DMM_V11:1>

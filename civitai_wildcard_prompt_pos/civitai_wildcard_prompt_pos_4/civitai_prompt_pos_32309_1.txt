@@ -1,0 +1,6 @@
+masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper, ultra high res, ultra detailed, realistic, (photorealistic:1.4), 1girl, solo, (full body:1.2), young, slim, basketball uniform, (shirtlift:1.2), shorts, ponytail, smile, teeth, grin, medium breasts, detailed breast, ((puffy eyes)), (aegyo sal:1), beautiful, realistic skin, basketball court, sun, trees, detailed facial features, detailed clothes features, depth of field, professional lighting, physically-based rendering, (mix4:0.3), (pureerosface_v1:0.2)
+<lora:japaneseDollLikeness_v10:0.3>
+<lora:koreanDollLikeness_v10:0.6>
+<lora:cuteGirlMix4_v10:0.3>
+<lora:shojovibe_v11:0.1> 
+<lora:shirtliftALORAFor_shirtliftv1:1>

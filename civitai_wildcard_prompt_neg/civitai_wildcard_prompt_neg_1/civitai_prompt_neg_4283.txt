@@ -1,0 +1,1 @@
+, (worst quality, low quality:1.3), logo, watermark, signature, text, easynegative, wire, mutated hand, puffy eyes, hand cuff ,badhandsv5-neg, bad_prompt_version2-neg

@@ -1,0 +1,4 @@
+scene girl, german 20yo gothgirl, gothic eyeliner, freckles, (ginger ponytail hair:1.2), black patterned corset, tight choker, underbust corset, female figure, wasp-taille, (sagging breasts:1.1), (tits out:1.1), dynamic angle, outdoors, (photorealistic:1.5), (best quality), tattoed skin,
+(Svema analog film grain:1.1), (turbulent fog, misty and foggy atmosphere:1.1), full body, (smooth swirly bokeh, depth of field f1.4, shot on Helios 44-2 vintage lens:1.1)
+<lora:add_detail:1>
+ <lora:jk-big-natural-breasts-v01:0.4>, Photorealistic, Hyperrealistic, Hyperdetailed, analog style, detailed skin, matte skin, soft lighting, subsurface scattering, realistic, heavy shadow, masterpiece, best quality, ultra realistic, 8k, golden ratio, Intricate, High Detail, film photography, soft focus, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering

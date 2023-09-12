@@ -1,3 +1,0 @@
-nsfw, (autumn night), [:(detailed face:1.2):0.2],RAW photo, best quality), (realistic, photo-realistic:1.30), bokeh, 8k uhd, dslr, soft lighting, high quality, film grain, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, 
-1girl,(naked:1.3), Bathtub, Water, Top view angle, Relaxation, Serene ambiance, (Steam rising, Bubbles floating, Scented candles:1.1), Soft lighting, Tranquil music, Submerged body, Ripples on the water's surface, Cascading water droplets, Luxurious bath oils, Fluffy towels nearby, Subtle fragrance filling the air, Total immersion in bliss, Release of tension, Rejuvenation, Escape from the world
-<lora:AI_hh-ka:0.6>  <lora:add_detail:1> <lora:FilmVelvia2:0.4>,

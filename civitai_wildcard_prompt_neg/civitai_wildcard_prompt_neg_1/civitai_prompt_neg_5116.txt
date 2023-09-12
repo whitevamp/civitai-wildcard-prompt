@@ -1,0 +1,2 @@
+cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), bad anatomy, girl, loli, young, 
+ ng_deepnegative_v1_75t,badhandsv5-neg,easynegative

@@ -1,0 +1,11 @@
+seed: 2866530367
+Model: dreamshaperXL10_alpha2Xl10
+steps: 40
+sampler: DPM++ 2M Karras
+cfgScale: 4
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'neg4all_xl_bdsqlsz_V5', 'type': 'lora', 'weight': 1}, {'name': 'finenude_v0_2a', 'type': 'lora', 'weight': 1}, {'hash': '0f1b80cfe8', 'name': 'dreamshaperXL10_alpha2Xl10', 'type': 'model'}]
+Denoising strength: N/A
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

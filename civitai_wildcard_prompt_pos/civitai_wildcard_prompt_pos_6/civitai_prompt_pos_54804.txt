@@ -1,0 +1,5 @@
+ultra detail,extream cg,
+ <lora:MultipleGirlsGroup:1> <lora:concept-nipple_licking-v1:0.7>multiple girls,4girs,group,lineup, 
+girl, siblings,(large breast, gasping , (blush:1.1),forehead, big messy black hair,  glasses),NIPPLE LICKING,BOTH NIPPLES, sex, vaginal, fellatio,  tongue out, left nipple, right nipple, completely nude, 
+ pov, from below,
+ <lora:add_detail:1>

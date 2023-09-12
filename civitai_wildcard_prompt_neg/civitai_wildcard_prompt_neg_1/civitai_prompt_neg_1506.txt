@@ -1,0 +1,1 @@
+EasyNegative, backlight, (worst quality, low quality:1.4), watermark, logo, bad anatomy, nude, topless, fat

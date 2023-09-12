@@ -1,2 +1,0 @@
-highres, masterpiece, perfect lighting, bloom, dark, (cinematic lighting), nsfw, 
-<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.28>, sexy pose of goddess Venus,  breasts, nipples, Knee Shot, adult, nude, Semen, perfect skin, naked, female, (standing up), (barefoot), looking at viewer, (wearing gauze), portrait, full body, simple background, black background, (RSEEmma:1.1),  <lora:breastinclassBetter_v141:0.16>, parted bangs, blue hair, [[freckles]], very long hair, long braided, smile, low viewing angle, ((ancient dark greek temple)),

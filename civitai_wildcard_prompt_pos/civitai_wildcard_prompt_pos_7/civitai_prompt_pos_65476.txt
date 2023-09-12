@@ -1,0 +1,4 @@
+masterpiece, RAW photo,ultra highres,
+depth of field, cinematic light,
+sound_effects, narrow waist, pure face, (huge breasts, nsfw, breastfeeding, puffy nipples), silhouette, water, soaking, skin indentation, intricate details, falling flowers, bracelets, rings, unraveling clothes, semi-nude
+<lora:add_detail:0.4>  <lora:breastinclassBetter_v141:0.2> <lora:add_brightness:0.3>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality

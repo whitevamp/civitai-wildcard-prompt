@@ -1,0 +1,1 @@
+monochrome, EasyNegative ng_deepnegative_v1_75t badhandsv5-neg

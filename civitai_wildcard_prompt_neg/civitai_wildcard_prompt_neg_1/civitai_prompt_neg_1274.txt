@@ -1,0 +1,1 @@
+EasyNegative, bad-image-v2-39000, negative_hand-neg, (worst quality, low quality, normal quality, lowres:1.5), (monochrome, grayscale:1.2)

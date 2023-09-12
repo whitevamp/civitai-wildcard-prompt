@@ -1,9 +1,0 @@
-(1girl, woman, solo, closed eyes, embarrassed, sexy, gorgeous, elegant, (nsfw:1.2, nude), puffy lips, long ponytail hair, brown hair, smooth body, soft skin, medium breasts, arms up, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
-BREAK
-(tied hands, roped hands, leather, latex, leather straps, latex panties, collar, chocker),
-BREAK
-standing on toes,
-BREAK
-dark room, cage, wooden floor,
-BREAK
-absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details, dark theme, <lora:zl_2023-05-18_133642-000002:0.3> <lora:ran:0.6>

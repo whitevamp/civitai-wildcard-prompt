@@ -1,5 +1,0 @@
-masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, (1boy), 1girl ass, hearts, barefoot, feet, fellatio, hetero, implied_fellatio, oral, squatting
-Appearance: milf:1.25, small_breasts, flat_chest, slender, skinny
-Clothing: nude
-Hair: {long_blonde_hair}, messy_hair
-<lora:impliedFellatioLora_v10:0.75>

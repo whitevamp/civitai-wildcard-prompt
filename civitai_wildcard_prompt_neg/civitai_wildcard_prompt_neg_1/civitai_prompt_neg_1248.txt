@@ -1,0 +1,1 @@
+letterboxed,pillarboxed,border,  EasyNegativeV2

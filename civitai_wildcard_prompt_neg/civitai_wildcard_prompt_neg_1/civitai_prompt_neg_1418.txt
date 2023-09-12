@@ -1,0 +1,2 @@
+ng_deepnegative_v1_75t, badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+", face_editor_apply_inside_mask_only: True, face_editor_apply_scripts_to_faces: False, face_editor_face_size: 512, face_editor_use_minimal_area: True, face_editor_ignore_larger_faces: True, face_editor_affected_areas: Face

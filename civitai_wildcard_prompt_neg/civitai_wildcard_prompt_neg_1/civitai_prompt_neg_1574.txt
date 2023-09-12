@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,horror \(theme\),((wrong feet)),(wrong shoes), bad feet, distorted, blurry, bad hands, missing fingers, multiple feet, bad knees, extra fingers

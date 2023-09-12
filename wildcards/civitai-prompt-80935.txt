@@ -1,1 +1,0 @@
-(masterpiece, best quality:1.3),extremely high detailed, intricate, 8k, HDR, wallpaper, cinematic lighting, <lora:Mecha:1> ,large sword,  glowing, glowing eyes, mecha, realistic,   <lora:CyberPunkAI:0.5>

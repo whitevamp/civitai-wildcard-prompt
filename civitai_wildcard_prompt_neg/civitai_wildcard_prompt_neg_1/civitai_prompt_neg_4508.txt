@@ -1,0 +1,1 @@
+negative_hand-neg, 3d, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, loli,red eyes, Umbrella,  ng_deepnegative_v1_75t,  b_w

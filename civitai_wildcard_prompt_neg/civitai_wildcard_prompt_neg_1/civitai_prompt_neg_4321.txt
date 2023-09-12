@@ -1,0 +1,8 @@
+bathroom, interior, room, indoors, toilet, wall, stall,
+worst quality, bad quality, bad anatomy, lowres, low resolution,
+easynegative, Unspeakable-Horrors-Composition-4v, Asian-Less-neg,
+poorly drawn, amateur drawing, jpeg artifacts, compression,
+text, website, watermark, logo, brand, signature, artist name,
+bad hands, extra limbs, extra fingers, disfigured, clones, twins,
+piercings, pokies, see-through, lantern,
+blurry eyes, bad eyes, glassy eyes,

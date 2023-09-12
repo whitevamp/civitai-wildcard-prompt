@@ -1,2 +1,0 @@
-a woman taking a selfie,(wearing bunny outfit:1.3),blue outfit,
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts,  <lora:bunny_outfit12:0.55>, <lora:erutea:0.8>

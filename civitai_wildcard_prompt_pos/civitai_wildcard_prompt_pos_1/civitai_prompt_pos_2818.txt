@@ -1,0 +1,1 @@
+3D character.(Steve Carell as Michael Scott:1.6), (caricature:0.15).  bokeh, (by Danny Mac 3D, by Follygon), highly detailed <lora:SamaritanEsdxl:0.45> (Pixar Render, CGI Animation, Disney:1.2) cute big reflective eyes, office, dof, (cinematic film), (lovably clueless with a touch of awkward charm, big smile, laugh:1.2)

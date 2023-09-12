@@ -1,0 +1,7 @@
+(best quality, 8k, 32k, masterpiece, UHD:1.2), (realistic, photorealistic:1.4), ultra highres, RAW photo, ultra detailed, intricate details, detailed texture, perfect body shape, natural skin texture, hyperrealism, sharp focus, stunning, gorgeous,
+high quality texture, finely detailed, full body shot, nsfw, BREAK
+solo, a young woman, cute, pretty, sexy, (wavy hair, white hair), suggestive pose, (oversized sweater:1.2), black legwear, nice hands, perfect hands, side boobs, from side, BREAK
+breathtaking beautiful woman, extremely detailed eyes and teeth, detailed beautiful skin and body, detailed beautiful face, beautiful clear eyes, pink lips, ultra detailed nose and mouth, makeup, long eyelashes, highly detailed hair, BREAK
+unparalleled beautiful female body, perfect detailed fingers, skinny body, medium breasts, detailed beautiful breasts and nipples, extremely detailed anus and pussy, narrow waist, thigh gap, long legs, (pale skin), BREAK
+perfect anatomy, seductive smile, professional lighting, realistic shadow, in luxurious bedroom,
+<lyco:GoodHands-beta2:1>, <lora:breastinClass:0.3>, <lora:add_detail:0.5>

@@ -1,1 +1,0 @@
-<lora:onOffLora_v326:1>, (onoff male:1), sweatshirt, sweatpants, side-by-side photo of a young adult male, split screen, masterpiece, best quality, highres, realistic,high details,high detailed skin, natural skin texture,gym, locker room, handsome, embarassed, real shadow and light, <lora:bettercocks_v10:0.9>

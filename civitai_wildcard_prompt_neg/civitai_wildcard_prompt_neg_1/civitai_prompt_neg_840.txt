@@ -1,0 +1,1 @@
+bad_pictures, badhandv4, EasyNegative, nipples, (low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), bad composition, inaccurate eyes, extra digit, fewer digits, (extra arms:1.2),(extra legs:1.2), extra finger, extra fingers, watermark, signature, bad face, blurry, noise, grain, blur, haze, film grain, unclear, nfixer

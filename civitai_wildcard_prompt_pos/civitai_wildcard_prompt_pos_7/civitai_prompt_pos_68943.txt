@@ -1,0 +1,8 @@
+(best quality), (masterpiece),(ultra-detailed:1.2),cowboy shot,
+1girl,DisembodiedHead, (holding head:1.2), smoke from body,
+night,city light,motorcycle,yellow helmet,(Motorbike:1.2),
+ <lora:DisembodiedHead:1>  ,
+<lora:celty sturluson:0.8>, celty, black bodysuit, motorcycle helmet,animal ears, bikesuit, leather,
+ <lora:Smoke:0.7> smoke, black smoke,
+ <lora:flat2:-0.5>,
+ <lora:LowRa:0.3>, dark theme,

@@ -1,0 +1,1 @@
+bad_prompt_version2-neg, badhandsv5-neg, badhandv4, badv4, By bad artist -neg, easynegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3,clothes,bikini,panties,bra,white skin,bad face,ugly face,

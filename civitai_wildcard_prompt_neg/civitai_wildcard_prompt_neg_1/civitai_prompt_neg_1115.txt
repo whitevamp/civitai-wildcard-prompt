@@ -1,0 +1,5 @@
+easynegative negative_hand-neg
+sketch, painting, illustration, cartoons,
+(childish, childlike, child, minor, underage),
+(worst quality:2), (low quality:2), (normal quality:2), lowres, ((grayscale)), ((monochrome)),
+text, watermark, hands

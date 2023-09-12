@@ -1,0 +1,1 @@
+easynegative, bad_prompt, (worst quality, low quality, extra digits:1.4)

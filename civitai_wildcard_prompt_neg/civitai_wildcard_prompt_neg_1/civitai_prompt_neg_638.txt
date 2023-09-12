@@ -1,0 +1,3 @@
+(EasyNegative:0.9), EasyNegativeV2, low quality, Muscular, multiple,
+flat color, flat shading, (bad fingers, liquid fingers, poorly drawn fingers:1.3), bikini, steam,
+signature, watermark, username, artist name, text, monochrome,

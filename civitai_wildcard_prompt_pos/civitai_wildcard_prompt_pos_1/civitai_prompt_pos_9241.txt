@@ -1,0 +1,6 @@
+photography,(film grain:1.4),highres,masterpiece,8K,top quality,best quality,ultra detailed,(intricate:1.3),(beautiful and aesthetic:1.3),
+cinematic lighting,ambient lighting,sidelighting,Exquisite details and textures,(ethereal landscape),(epic scene),
+1girl,aroused,seductive,Regal,jewelry,earrings,Diamond,necklace,thighs gap,(full body:1.2),
+([see-through:4] shirt,miniskirt:1.4),makeup,navel,
+outdoor,(feet on water:1.2),steping,(wet:1.3),(Sakura Tree,traditional architecture:1.2),
+ <lora:FilmVelvia2:0.6> 

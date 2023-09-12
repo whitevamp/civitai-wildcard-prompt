@@ -1,0 +1,1 @@
+EasyNegative, (worst quality:1.4), (low quality:1.4), (NG_DeepNegative_V1_75T:1.0), (bad_prompt_v2:0.8), (text, font, logo, copyright, watermark:1.4), (((((kneeling))))), fat, obese, ugly, torn clothes, light bulb, lamp, clock, flashlight, platform heels, deformed sword, animal ears, nsfw, (close-up:1.0), cropped

@@ -1,0 +1,1 @@
+EasyNegative, (Acne),(worst quality, low quality:1.4), lowers, bad anatomy, bad hands, text, error,(monochrome),  badhandsv5-neg, (looking at viewer:1.3), simple background

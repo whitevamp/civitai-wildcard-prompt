@@ -1,0 +1,3 @@
+nsfw,
+worst quality, bad quality, bad anatomy, lowres, low resolution,
+easynegative, Unspeakable-Horrors-Composition-4v, light-negative-neg, Asian-Less-neg,

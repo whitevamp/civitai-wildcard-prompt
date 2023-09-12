@@ -1,0 +1,10 @@
+portrait, half body, close up, solo, wearing white oversized_puffer_jacket, skswoman, bikini top,  (looking at the viewer:1.1),  blond hair, 
+night, downtown, sexy pose, (wind blowing hair:1.1), 
+[( 
+motion blur, slow motion, low brightness,
+muted colors, soft light, bloom, 
+film grain, 85mm, focus,
+<lora:FilmG2:0.46>  
+ <lyco:Chloe Grace Moretz:0.4>  
+):8]
+ <lora:uv:0.46>

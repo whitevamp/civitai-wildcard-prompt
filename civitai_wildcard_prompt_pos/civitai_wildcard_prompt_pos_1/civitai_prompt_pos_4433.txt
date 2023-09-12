@@ -1,0 +1,1 @@
+colorwater, negative space, girl, woman, lips, (trees:0.5), (flowers:0.6) ,(birds:0.2), (bamboo0.1), lakes, Hangzhou, <lora:Xiaorenshu_v20:0.9>

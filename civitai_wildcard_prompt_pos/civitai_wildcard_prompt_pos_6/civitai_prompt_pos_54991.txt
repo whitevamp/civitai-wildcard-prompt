@@ -1,0 +1,5 @@
+1girl,full_body,(tall:1.1),black_hair,long_hair,bangs,(red_innerhair:0.7),red_eyes,medium_breasts, large_areolae, completely_nude,(delicate_muscle_line:0.8),collarbone, cleft of venus, pussy,handcuffs, ankle cuffs, neck_cuff,(chained:1.3), chain,
+(body writing:1.2), chain_ball,prisoner,
+scenery, prison, fence, sunlight,
+masterpiece, best best quality,ultra_detailed,
+<lora:nudifyLORAForGreat_v11:0.25>,

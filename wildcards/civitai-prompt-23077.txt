@@ -1,3 +1,0 @@
-<lora:multiple_penises_v0.4:1.0> 1girl, (multiple penises:1.0), (surrounded:1.0), (too_many:1.0), (multiple boys:1.0), side-tie bikini, tattoo body, (detailed face), (detailed skin), (detailed eyes), (detailed iris),,
-, masterpiece, best quality, highly detailed,
-<lora:add_detail:0.5>, <lora:more_details:0.5>

@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted finger, long finger, unatural finger, bad anatomy, extra fingers, mutated hands, poorly drawn hands, poorly drawn face,mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions,extra limbs, cloned face, bad hand

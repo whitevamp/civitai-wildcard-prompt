@@ -1,2 +1,0 @@
-1girl,8K, best quality,long hair, realistic, lips,cleavage,large breasts, wide hips,(long naked shirt),(wet shirt:1.2),(wet hair),(no panties:1.2),steam,(taking shower)
- <lora:add_detail:0.6>

@@ -1,0 +1,6 @@
+EasyNegative, Bad-Hands-3, (Low Quality, Worst Quality, Lowres:1.4), (Blurry, Blurry Background, Depth of Field, Bokeh, DOF, Fog, Bloom:1.4), (Blush:1.5),
+
+(Halter Dress, Tight, Skin TIght, Shiny Clothes, Latex, Impossible Clothes:1.4),
+Steps: 50, Sampler: Euler a, CFG scale: 8, Seed: 1639375511, Size: 448x704, Model hash: 0a03c339c7, Model: DivineEleganceMix5, Denoising strength: 0.35, Clip skip: 2, DDetailer prompt: "Anime, (Masterpiece, Best Quality, High Quality, Highres:1.4), Detailed, Extremely Detailed, 4K,
+
+(Extremely Detailed Eyes:1.4), Red Eyes, Looking at Viewer, Angry, Disgust, Glaring, ", DDetailer neg prompt: "EasyNegative, Bad-Hands-3, (Low Quality, Worst Quality, Lowres:1.4), (Blush:1.5),

@@ -1,0 +1,4 @@
+<lora:Lora-Custom-ModelLiXian:0.6>, 1man, 
+a 30 y.o muscular male wearing long-sleeve white shirt and tie, drinking coffee,
+soft lighting, 
+masterpiece, best quality, 8k uhd, dslr, film grain, Fujifilm XT3 photorealistic painting art by midjourney and greg rutkowski

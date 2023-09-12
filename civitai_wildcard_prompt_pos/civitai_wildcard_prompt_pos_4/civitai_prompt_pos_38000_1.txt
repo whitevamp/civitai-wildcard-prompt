@@ -1,0 +1,9 @@
+Volumetric Lighting, Best Shadows, Shallow Depth of Field, 1girl,  [:(detailed face:1.2):0.2] , shiny eyes , (Ultra Huge Breasts),  (Highest Quality, Amazing Details:1.25), (Solo:1.3), Brilliant Colorful Paintings  ,   blunt bangs,    bob cut, <lora:AnimeStyleLoraWith_v10ForAOM3A1:0.3> ,pureerosface_v1  ,   seductive pose, red-brown hair, green-brown eyes , glowing ,  cowboy shot,  (dutch angle), ((from below)) , school uniform, serafuku, school bag , holding bag ,
+
+(((holding phone, looking at phone))),   looking away
+
+bridge, building, city, city_lights, cityscape, neon_lights, night, outdoors, real_world_location, road, scenery, sky, skyscraper, street, tokyo, architecture , east_asian_architecture , convenience_store, crosswalk, cyberpunk ,
+
+aurora, constellation, ferris_wheel, galaxy, lamppost, light, light_particles, lights, milky_way, moon, night_sky, science_fiction, skyline,  space, star, starry_background, starry_sky, starry_sky_print,  twilight, window, neon_trim,  tower,  power lines,
+ 
+ground_vehicle,  motor_vehicle,  shop, sign, traffic_light

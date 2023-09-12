@@ -1,0 +1,3 @@
+A photo from behind of [blue:lightgreen:5]-skinned handsome-squidward with pouty lips as a Baywatch lifeguard at the beach, oiled body glistening in the sun, holding a lifebuoy, watching the waves, tight swim briefs showing off his perfect sculpted ass.
+highres, high resolution, sharp focus, detailed, cinematic, hdr.
+<lora:handsome-squidward:1> <lora:add_detail:0.5>

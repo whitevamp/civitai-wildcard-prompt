@@ -1,0 +1,1 @@
+grayscale, black and white, bw, bed, (low quality, worst quality:1.4), (bad_prompt:0.8), (monochrome:1.1), (greyscale), , monochrome

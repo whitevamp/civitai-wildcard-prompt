@@ -1,0 +1,1 @@
+(EasyNegative:1.2), (worst quality, low quality:2.0),(blurry:1.4), (greyscale, monochrome:1.0), badhandv4, sketch By bad-artist, paint By bad-artist , drawn By bad-artist, lowres, (nsfw:1.4),( nude, nipples:1.2),

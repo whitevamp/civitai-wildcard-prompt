@@ -1,0 +1,7 @@
+ng_deepnegative_v1_75t  easynegative negative_hand-neg
+(worst quality:1.4), (low quality:1.4), looking at viewer
+sketches, paintings, monochrome, greyscale, cropped,
+underage, child, childish, skin spots, asymmetry
+((text)), ((watermark))
+black bars
+(yellow, orange : 1.8)

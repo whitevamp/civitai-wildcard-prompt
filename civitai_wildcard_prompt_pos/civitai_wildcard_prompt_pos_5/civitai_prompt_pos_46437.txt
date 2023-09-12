@@ -1,0 +1,5 @@
+RAW photo, high detail,film grain, masterpiece,
+silver color hair with ombre , wants to have sex you smile, petite,  
+ <lora:InsPX2:0.2>,
+Belted cape coat with a dramatic and asymmetrical silhouette unbuttoned open coat,
+solo, panty pull,undressing, naked vagina, <lora:GoodHands-vanilla:0.4>,  <lora:pantypull:1> , <lyco:InsPX:0.3>,

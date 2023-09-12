@@ -1,0 +1,1 @@
+EasyNegative, paintings, sketches, (worst quality, low quality, extra digits:1.4), animal ears, paper, crowd, (Bad_prompt_v2:1.4), loli, simple background,

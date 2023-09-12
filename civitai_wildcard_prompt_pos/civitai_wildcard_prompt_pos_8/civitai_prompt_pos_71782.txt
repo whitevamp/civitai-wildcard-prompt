@@ -1,0 +1,2 @@
+(masterpiece, best quality), <lora:add_detail:0.75>,1girls,big breasts,long black hair, glasses, cyberpunk, solo, waist-high, sexy appearance, from behind, (hands grabbing her ass:1.6) <lora:unpants.v1.0:1>
+ <lora:Tatsumaki-v11-02:1>

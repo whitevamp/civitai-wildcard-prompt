@@ -1,0 +1,1 @@
+(worst quality, bad quality, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8), (bad_quality:0.8)

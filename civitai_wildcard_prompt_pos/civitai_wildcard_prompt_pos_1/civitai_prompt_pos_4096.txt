@@ -1,0 +1,11 @@
+seed: 3830520800
+Model: F_Test_cybeleBeta_v10
+steps: 30
+sampler: Euler a
+cfgScale: 7
+Clip skip: 2
+Mask blur: N/A
+resources: [{'name': 'bigChungus_v10', 'type': 'lora', 'weight': 0.8}, {'name': 'poseLORAPeekingOut_v10', 'type': 'lora', 'weight': 1.6}, {'hash': 'd89457aba6', 'name': 'F_Test_cybeleBeta_v10', 'type': 'model'}]
+Denoising strength: 0.25
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

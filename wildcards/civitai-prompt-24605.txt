@@ -1,3 +1,0 @@
-masterpiece,best quality,(detailed face, perfect face, perfect eyes, realistic eyes, perfect fingers),(clear face),fantasy girl,long hair,hair ornaments,looking at viewer,outdoors,intricate,high detail,sharp focus,dramatic,beautiful girl,(full body:1.3),(bathroom:1.3),sitting,close-up, 
-<lora:add_detail:0.9>,
- <lora:Japanese maid dress v4_20230708143241:0.75> fishnets, apron,skirt,maid headdress,

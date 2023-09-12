@@ -1,6 +1,0 @@
-(masterpiece, highres, best quality:1.3), highly detailed, intricate, vibrant image, sharp focus, trending on pixiv, 
-AishwaryaRay, (solo:1.1), mature female, 40yo, (dark skinned female:1.2), (horny, ahegao, blush:1.2), arms behind back, defeat, tentacles, tentacle pit, tentacle grab, (tentacle sex, restrained:1.2), (vaginal:1.2),
-purple hair, long hair, ponytail, (hair over one eye:0.5), (circlet:1.05), purple lips, makeup, green eyes, hoop earrings, collar, (chain:0.9), perfect eyes, perfect face, detailed face, 
-red skirt lift,(topless:1.1), naked, nude, 
-detailed body, curvy, huge breasts, pussy, stomach, cleavage, 
-<lora:AishwaryaRay-000009:0.8>,  <lora:tentacle-pit:0.7>

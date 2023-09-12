@@ -1,0 +1,1 @@
+(worst quality, low quality, normal quality:2),  By bad artist -neg, easynegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, bad-picture-chill-75v, badhandv4,

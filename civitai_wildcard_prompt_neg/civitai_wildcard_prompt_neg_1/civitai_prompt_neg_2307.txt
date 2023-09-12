@@ -1,0 +1,2 @@
+(EasyNegative:0.8), (worst quality, low quality:1.2), (1girl, female:1.4),
+tight, skin tight, impossible clothes, ribs, abs, sideboob, side cutout,

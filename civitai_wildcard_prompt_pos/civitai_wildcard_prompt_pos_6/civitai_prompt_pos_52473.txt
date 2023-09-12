@@ -1,0 +1,8 @@
+(masterpiece, 4k ,ultra detailed,raw photo:1.2),illustration,(photorealistic:1),
+(film grain:1.4),(absurdres:1),(surprised,flustered:1.2),
+(simple background,black background:1.4),(supermodel:1.2),
+(sitting:1),
+(nasa,orange spacesuit:1.4),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:flat2:-0.5>, 
+<lora:GPTS3 animals_258424:1>,feline,canine

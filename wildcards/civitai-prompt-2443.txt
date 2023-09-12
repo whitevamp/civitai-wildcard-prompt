@@ -1,2 +1,0 @@
-masterpiece, smile, Eighties,sexy
-<lora:add_detail:0.4>,

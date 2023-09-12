@@ -1,0 +1,1 @@
+(ng_deepnegative_v1_75t:1.2),(badhandv4:1),(worst quality:1.7),(low quality:1.7),(normal quality:1.7),lowres,bad anatomy,bad hands,watermark,moles,toe,bad-picture-chill-75v,realisticvision-negative-embedding,

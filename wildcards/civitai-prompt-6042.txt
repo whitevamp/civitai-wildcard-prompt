@@ -1,9 +1,0 @@
-masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, (nice hands, perfect hands), <lora:GoodHands-vanilla:1>,
-
-<lora:epiNoiseoffset_v2Pynoise:1>, <lora:flat2:-0.3>,
-<lora:mercury_v2:0.7>, mer1, tiara, sailor senshi uniform, BREAK, BREAK, blue hair, blue sailor collar, blue choker, blue skirt, BREAK, BREAK, bow, knee boots, choker, BREAK, BREAK, white gloves, BREAK, BREAK, elbow gloves, jewelry, earrings,
-1girl, (1boy:1.1),
-(completely nude:1.6), (navel, midriff:1.5), (anal:1.7), (straddling:1.2), (girl on top, femdom:1.2), (spread legs:1.2), (hetero:1.2), (penis:1.2), (cowgirl anal:1.7), torso grab, arms behind back, cum on body,
-vocal, (moaning, screaming:1.1), (closed eyes:1.2),
-(pov, from above:1.1), looking at viewer,
-indoors, natural lighting, intricate shadow, detailed background, messy room,

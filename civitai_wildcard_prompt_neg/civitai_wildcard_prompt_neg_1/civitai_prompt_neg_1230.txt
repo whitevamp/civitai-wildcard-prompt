@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), aid291, an5, bad-artist, bad-artist-anime, bad-image-v2-39000, , badv4, bhands-neg EasyNegativeV2 FastNegativeEmbedding lr negative_hand-neg NegfeetV2 nobg notxt Unspeakable-Horrors-Composition-4v  verybadimagenegative_v1.3 UnrealisticDream

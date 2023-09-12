@@ -1,0 +1,1 @@
+easynegative, badhandv4 an6 fcNeg-neg FastNegativeEmbedding ng_deepnegative_v1_75t verybadimagenegative_v1.3

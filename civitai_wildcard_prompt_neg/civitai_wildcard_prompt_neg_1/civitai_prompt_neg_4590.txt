@@ -1,0 +1,9 @@
+(pube, pubic hair), (Futanari:1.5),
+(monochrome, grayscale:2), (worst quality:2), (low quality:2), (normal quality:2), paintings, sketches, jpeg artifacts, signature, watermark, username,
+(ugly:2), (poorly drawn face:1.5), (cloned face:1.5), (disfigured:1.5), cross-eyed, (unclear eyes:1.3), (poorly drawn eyes:1.5), long neck, lowres, out of frame, ng_deepnegative_v1_75t,
+(duplicate:1.33), (morbid:1.2), mutation, deformed, obesity, fat legs, fat buttocks, fat arms,
+(poorly drawn fingers:1.5), (missing fingers:1.5), (bad finger:1.5), (mutated fingers:1.5), too many fingers, (extra hands:1.5), (fused fingers:1.5), poorly drawn hands, mutated hands, (missing arms:1.3), extra arms, bad hands, (missing hands:1.3),
+missing legs, multiple feet, (extra legs:1.3), (extra toes:1.3), bad feet, (more than 2 knee), (mutated legs:1.3), ((wrong feet)), (wrong shoes), mutated legs
+(mutilated:1.2), (tranny:1.3), trans, trannsexual, hermaphrodite, (bad proportions:1.5), bad anatomy, mutilated, malformed limbs, extra limbs, more than 2 nipples, 2 navel,
+skin spots, skin blemishes, age spot, acnes,
+cropped, extra digit, fewer digits, hair accessories, mole, birthmark, flower decoration, headgear,

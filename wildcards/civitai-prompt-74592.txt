@@ -1,1 +1,0 @@
-sky, cloud, holding_weapon, no_humans, glowing, , robot, building, glowing_eyes, mecha, science_fiction, city, realistic,mecha

@@ -1,0 +1,6 @@
+(masterpiece, best quality, high quality, highres:1.2), ultra high res, absurdres, sharp focus, detailed, pov, (closeup:1.1),
+1girl, schoolgirl, sailor uniform, long sleeves, pleated skirt, detailed skin, smile,
+sitting, (covering eyes:1.1), spread legs, pussy, spread pussy, cervix, cum in pussy, clitoris,
+(train interior:1.1), train seat,
+detailed background, subsurface scattering, volumetric lighting, extremely detailed
+<lora:covering_eyes:1> <lora:Saya-spread pussy(fingers)2:1>

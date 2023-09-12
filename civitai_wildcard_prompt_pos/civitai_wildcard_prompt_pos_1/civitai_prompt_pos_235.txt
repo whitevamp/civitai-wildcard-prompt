@@ -1,0 +1,1 @@
+frg, <lora:frg:1.2>

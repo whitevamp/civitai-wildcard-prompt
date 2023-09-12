@@ -1,0 +1,2 @@
+watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark
+username, artist name, (worst quality, low quality:1.4), bad anatomy, ugly, poorly drawn , bad hand

@@ -1,1 +1,0 @@
-totoki airi, brown hair, brown eyes, twintails,striped shirt, thighhighs, jewelry, heart necklace, ((pretty face, skin indentation, eyes reflection, stunning eyes, rim lighting, skin shading, sub surface scattering)), (masterpiece, best quality, ray tracing, volumetric lighting, ssao shadows, detailed, intricate),((portrait)), <lora:add_detail:1> <lora:idolmaster_totoki:1>

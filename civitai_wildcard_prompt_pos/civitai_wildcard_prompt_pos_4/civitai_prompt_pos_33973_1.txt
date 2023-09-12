@@ -1,0 +1,4 @@
+(masterpiece:1.2),best quality,zhongfenghua,realistic,
+solo,a character standing in front of blonde,glowing monkey,transparent,
+monkey king:1.5,
+<lora:add_detail:1> ,<lora:zhongfenghuaxiyou:0.5> ,<lora:taoist_20230623200708:1.2>

@@ -1,2 +1,0 @@
-<lora:betterCuteAsian03:0.3>, woman posing for a photo,(finish_pose, wearing gymnast_outfit:1.3), green outfit, shiny outfit, 
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), collarbone, night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((inside stadium))), outside,     <lora:gymnast_outfit:0.5>

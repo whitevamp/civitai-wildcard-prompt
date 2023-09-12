@@ -1,0 +1,11 @@
+seed: 185829986
+Model: realisian_v40
+steps: 20
+sampler: DPM++ SDE Karras
+cfgScale: 7
+Clip skip: 2
+Mask blur: N/A
+resources: [{'name': 'Pos_SuperSpeedRunning', 'type': 'lora', 'weight': 0.9}, {'name': 'Char_Sonic_Sonic', 'type': 'lora', 'weight': 0.8}, {'name': 'Pos_Wheelchair', 'type': 'lora', 'weight': 0.4}, {'hash': 'fba9027fa4', 'name': 'realisian_v40', 'type': 'model'}]
+Denoising strength: 0.3
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

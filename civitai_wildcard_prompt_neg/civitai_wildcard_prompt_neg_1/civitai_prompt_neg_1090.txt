@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), (fat:1.4), bad composition, inaccurate eyes, extra digit, fewer digits, extra arms, extra legs, ng_deepnegative_v1_75t, jpeg artifacts, blurry, aliasing, scan artifacts, cartoon, 3d, facing away, looking away, earrings,

@@ -1,0 +1,1 @@
+(EasyNegative:1.2), text, username, extra fingers,fewer fingers, loli,long body, ng_deepnegative_v1_75t, verybadimagenegative_v1.2,

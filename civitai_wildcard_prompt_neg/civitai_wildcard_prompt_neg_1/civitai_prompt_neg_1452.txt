@@ -1,0 +1,2 @@
+(worst quality:1.6), (low quality:1.6), lowres, torn clothes, EasyNegative, badhandv4, strabismus,
+crossed eyes, (dark circles:1.2), ng_deepnegative_v1_75t

@@ -1,0 +1,2 @@
+(low quality, worst quality:1.4),(bad_prompt_version2:0.8), watermarks, signature, text
+Version: 511a8cb, Pipeline: Original, Steps: 20, Seed: 3451419247, Sampler: UniPC, CFG scale: 6, Size: 768x768, Parser: Full parser, Model: Hassaku, Model hash: 7eb674963a, VAE: vae-ft-mse-840000-ema-pruned, Clip skip: 2, Token merging ratio: 0.5, Mask blur: 4, Lora hashes: "add_detail: 7c6bad76eb54, thickerLinesAnimeStyle: 58c5f51b2b68"

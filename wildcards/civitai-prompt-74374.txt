@@ -1,4 +1,0 @@
-Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,  (Authentic skin texture:1.3), (film grain:1.3),  panorama, character portrait,  very wide shot, narrow waist, cowboy shot, (in the dark, deep shadow, low key, cold light,) night, close-up,  streaming tears,
-indoor, dust, Tyndall effect, sad, disappointed, gloom (expression),  sitting,  (against wall), crying, frown, (head bowed), nervous, tearing up, lonely,
-1girl, beautiful detailed eyes and face, white jabot, off shoulder, brown eyes,
-<lora:FilmG2:0.6>, <lora:asianGirlsFace_v1:0.4:FACE>

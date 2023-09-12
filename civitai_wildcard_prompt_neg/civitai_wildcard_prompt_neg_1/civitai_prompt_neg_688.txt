@@ -1,0 +1,1 @@
+EasyNegative, ng_deepnegative_v1_75t, badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres, watermark, monochrome, paintings, sketches, text, jpeg artifacts, makeup, lipstick, eyeshadow, teardrop, covered breasts,

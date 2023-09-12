@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), EasyNegative, NG_DeepNegative_V1_75T, greyscale, (monochrome:1.1), tattoo, (text:1.6), watermark, (username:1.6), Abnormal fingers, jpeg artifacts, fewer digits, logo, logomark, signature,

@@ -1,0 +1,1 @@
+text, watermark, low quality, medium quality, blurry, censored, wrinkles, deformed, mutated text, watermark, low quality, medium quality, blurry, censored, wrinkles, deformed, mutated embedding:BadDream embedding:UnrealisticDream

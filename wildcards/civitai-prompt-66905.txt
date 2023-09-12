@@ -1,1 +1,0 @@
-masterpiece, best quality,1girl, <lora:cheekpinching-12:1.2>,cheekpinching,cheek pinching, holding,upper body,one eye closed,looking at viewer,pov,<lora:Gwenpool:0.6>,gwenpool, bodysuit, two-tone hair,looking at viewer

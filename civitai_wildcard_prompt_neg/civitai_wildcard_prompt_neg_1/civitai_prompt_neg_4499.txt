@@ -1,0 +1,1 @@
+NG_DeepNegative_V1_75T, EasyNegative, (worst quality, low quality:1.2), signature, watermark, username, (badhandv4)

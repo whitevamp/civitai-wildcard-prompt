@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), ((text, signature, captions)),  easynegative,  verybadimagenegative_v1.3, (loli:1.3), ((muscular):1.3)

@@ -1,0 +1,5 @@
+(masterpiece:1.2),best quality,illustration,detailed eyes,detailed face,perfect lighting,(nice hands, perfect hands),BREAK,(ON BED:1.3)
+<lora:upass-000006:0.7:NP>upass,1girl, solo, ass, pussy, panty pull, top-down bottom-up, from behind,
+yorbriar, <lora:yorbriar:0.7:NP>, yor briar, black hair, \(red eyes:1.5\), earrings, \(gold hairband:1.3\), long hair, sidelocks, BREAK bare shoulders, collarbone, dress, long sleeves, off shoulder, off-shoulder dress, off-shoulder sweater, pantyhose, red sweater, sweater, sweater dress, thighs,
+<lora:flat2:-0.4><lora:sanDka2:-0.2>
+(empty eyes:1.3)

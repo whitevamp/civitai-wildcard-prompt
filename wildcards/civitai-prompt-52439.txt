@@ -1,9 +1,0 @@
-masterpiece, best quality, ultra-detailed, hires, beautiful, detailed hair and eyes,
-tatsumaki,  green eyes, green hair, petite girl, small girl, short hair,
-
-nude, full nude,
-small breasts, 
-
-crying, (despair), kneeling,
-(leash), from above,bed, (leashing_pov), blood on breasts, cum on face, cum on breasts,
- <lora:tatsumaki_:0.9>  <lora:leashPOV_domPOV:0.8> <lora:crazyExpressions_crazyExpressions:0.7>

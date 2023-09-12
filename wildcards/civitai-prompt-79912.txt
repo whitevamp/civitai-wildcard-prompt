@@ -1,1 +1,0 @@
-mix4,1girl,ultra detailed 8k,sexy goddess, ((white hair, long hair)), symmetry, mature female, perfect female body,wet,spread legs,royal, royal palace, looking at viewer,diamonds<lora:mix4:0.5> <lora:japaneseDollLikeness_v10:0.1> <lora:koreanDollLikeness_v15:0.2><lora:breastinclassbetter_v141:0.5>

@@ -1,0 +1,9 @@
+(masterpiece, best quality:1.2), extremely detailed, ambient soft lighting, 4K, quality,
+1girl, solo, upper body,
+black hair, short hair, hair intakes, long sidelocks, blunt ends, blunt sidelocks, blunt bangs,
+(tsurime:1.2), long eyelashes, thick eyelashes, looking at viewer, half-closed eyes,
+smile, friendly,
+maid, black maid dress, puffy sleeves, juliet sleeves, long sleeves, skirt,
+large breasts, cleavage,
+indoors, renaissance, ampire, vintage, window,
+ <lora:Tsurime:1> <lora:half-closed eyes:0.6>

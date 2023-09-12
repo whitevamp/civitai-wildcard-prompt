@@ -1,0 +1,3 @@
+(best quality:1.2),(masterpiece:1.2), film grain,(realistic:1.4), photolistic,
+1 female, mature female, full body,(1 china dragon in the sky:1.2),
+diligent,red cheongsam with Embroidered Flowers, Superwoman, Tall, Athletic, Triangular Face,black Hair,s, Wide Nose, Full Lips, Receding Chin, Long Hair, Curly Hair, Top Knot, round breasts, Huggie earrings, violet matte lipstick, cui yifei, arms crossed, standing, <lora:conceptLoongChinaDragon_v10:1.0>

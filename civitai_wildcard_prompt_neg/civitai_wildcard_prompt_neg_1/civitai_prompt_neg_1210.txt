@@ -1,0 +1,1 @@
+leather, (worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy, normal quality,((monochrome)),((grayscale)), (jpeg artifacts), signature, watermark, username,  child, By bad artist -neg ng_deepnegative_v1_75t easynegative  badhandv4 NegfeetV2 Asian-Less-Neg realisticvision-negative-embedding

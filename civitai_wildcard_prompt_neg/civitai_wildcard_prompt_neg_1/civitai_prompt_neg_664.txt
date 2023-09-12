@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), (monochrome:1.1), (zombie, sketch, interlocked fingers, comic), (bad_prompt_version2:0.8), (easynegative_2), bad-artist, badhandsv5-neg, verybadimagenegative_v1.3, looking at viewer,

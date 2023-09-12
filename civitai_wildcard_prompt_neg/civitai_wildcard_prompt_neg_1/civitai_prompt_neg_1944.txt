@@ -1,0 +1,1 @@
+bad-artist bad-hands-5 bad-image-v2-39000 bad_pictures bad_prompt_version2-neg EasyNegative EasyNegativeV2 ng_deepnegative_v1_75t verybadimagenegative_v1.3 normal quality, dark_skin, brown_skin,(worst quality:2),(low quality:2),(normal quality:2),lowres,watermark,badhandv4,ugly,grayscale,

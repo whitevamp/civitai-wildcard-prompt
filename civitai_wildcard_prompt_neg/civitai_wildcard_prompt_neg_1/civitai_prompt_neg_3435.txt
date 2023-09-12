@@ -1,0 +1,1 @@
+(watermarks:1.2), username, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), monochrome, grayscale, easynegative, low-res, poorly drawn face,

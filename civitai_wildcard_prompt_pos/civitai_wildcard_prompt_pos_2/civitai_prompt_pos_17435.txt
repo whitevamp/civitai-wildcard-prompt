@@ -1,0 +1,8 @@
+(sks woman:1), rogue, desert, redhead, green eyes,
+(ink sketch by Adrian Smith , methurlant)
+fantasy, DnD, surreal,
+high contrast,
+(masterpiece, best quality:1.3),
+methurlant,
+<lora:methurlant:1>
+<lyco:locon_emmastone_v1_from_v1_64_32:1.4>

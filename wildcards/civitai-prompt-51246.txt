@@ -1,6 +1,0 @@
-Masterpiece, absurdres,award winning photo, extremely detailed, amazing, fine detail, extremely detailed eyes and face, by lee jeffries nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800 tungsten, 
- <lora:HP_Balenciaga:0.8>,  BalenciagaStyle, 
-
-GothGal, (fishnet stockings, gothic print, imprinted skulls:1.25), a woman in a black and white outfit is standing in a bedroom,woman wearing a GothGal outfit, large boots,lace, ribbon, lipstick, pale skin, posing in a bedroom, Masterpiece, 4K, HD, Woman wearing a black leather garterbelt and (multiple leather straps,multiple iron chains attached to rings:1.125), <lora:GothGarterbelt:0.9>
-
-, character generated and dressed in BalenciagaStyle

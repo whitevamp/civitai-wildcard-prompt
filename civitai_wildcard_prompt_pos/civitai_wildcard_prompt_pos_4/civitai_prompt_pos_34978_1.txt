@@ -1,0 +1,6 @@
+(masterpiece, high quality, highres,illustration),blurry background,[(white background:1.2)::5],cowboy shot,
+spring \(season\),(no light:1.1),(temptation:1.2),elegance,
+(1loli:1.1),(very long hair:1.1),(blush:0.7),floating hair,ahoge,deep sky,star \(sky\),
+(summer (Floral:1.2) dress:1.1),outline,(see-through:0.85),shining,low twintails,
+(polychromatic peony:1.15),Movie poster,(colorful:1.1),ornament,petals,(pantyhose:1.1),
+ribbon,

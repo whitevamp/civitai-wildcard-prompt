@@ -1,0 +1,11 @@
+(low quality, worst quality, lowres:1.4),
+(ng_deepnegative_v1_75t, negative_hand-neg),
+(abs, muscular, exposed muscle, rib, fit:1.3),
+shadow, shade, warm tone, multiple views, cut,
+((big head, plump, fat, extra limbs, navel, stomach, strabismus, ring, 3 leg, 3 hand, extra digits, covered nipples, small eyes, ugly, bad anatomy, bad proportions, bad eye, ring, hand, nail polish)),
+(blush, freckles, mole, wart, skin tag),
+(text, logo, title, signature, watermark),
+(greyscale, monochrome, sketch, painting, pastel, anime, jpeg artifacts),
+(blurry, bokeh, depth of field, simple background),
+(extra fingers, deformed hands, extra digits:1.2),
+(over three finger(fingers excluding thumb):2), (fused anatomy), (bad anatomy(body)), (bad anatomy(hand)), (bad anatomy(finger)), (over four fingers(finger):2), (bad anatomy(arms)), (over two arms(body)), (bad anatomy(leg)), (over two legs(body)), (interrupted(body, arm, leg, finger, toe)), (bad anatomy(arm)), (bad detail(finger):1.2), (bad anatomy(fingers):1.2), (multiple(fingers):1.2), (bad anatomy(finger):1.2), (bad anatomy(fingers):1.2), (fused(fingers):1.2), (over four fingers(finger):2), (multiple(hands)), (multiple(arms)), (multiple(legs)), (over three toes(toes excluding big toe):2), (bad anatomy(foot)), (bad anatomy(toe)), (over four toes(toe):2), (bad detail(toe):1.2), (bad anatomy(toes):1.2), (multiple(toes):1.2), (bad anatomy(toe):1.2), (bad anatomy(toes):1.2), (fused(toes):1.2), (over four toes(toe):2), (multiple(feet))

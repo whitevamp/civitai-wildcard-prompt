@@ -1,0 +1,1 @@
+(worst quality, low quality, medium quality:1.4), lowres, (bad_prompt_version2:0.7), easynegative, bad-hands-5, artist name, censored, signature, text, watermark, twitter username, snow, winter

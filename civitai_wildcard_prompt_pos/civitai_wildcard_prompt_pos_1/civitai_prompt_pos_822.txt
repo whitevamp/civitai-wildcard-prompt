@@ -1,0 +1,1 @@
+Highly detailed, High Quality, Masterpiece, beautiful, solo, running, superspeed, lighting, motion blur, electricity, from side <lora:Pos_SuperSpeedRunning:0.9>, Sanic, <lora:Char_Sonic_Sonic:0.8>, wheelchair, <lora:Pos_Wheelchair:0.4>

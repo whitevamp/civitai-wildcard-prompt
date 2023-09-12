@@ -1,0 +1,7 @@
+<lora:add_detail:1>,<lora:epi_noiseoffset2:0.2>,<lora:LowRA:0.1>, (masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ),
+1girl, ass, anus, solo,  spread anus, squatting, thighhighs, breasts, gloves, pussy, long hair, black gloves,large breasts, nsfw, sweat, thighs, pussy juice, spread ass, thick thighs, huge ass, steaming body, thigh boots, covered nipples, on bed, bed sheet, anus, realistic anus, huge anus ,(high heels, black high heels,  white shirt, long sleeves, wet shirt, wet clothes, )
+((nude, completely nude,shiny skin,   ))
+awaitingtongue,tongue out, tongue,
+light smile,looking at viewer, blush,
+<lora:SpreadAssMS:0.4> spreadassms ,  pureerosface_v1 , <lora:taiwanDollLikeness_v20:1:NONE>,
+<lora:Milf:0.2> milf,  <lora:breastinClass:0.3>  <lora:Addams:0.3>  <lora:HugeASS:0.2>

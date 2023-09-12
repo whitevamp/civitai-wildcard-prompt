@@ -1,0 +1,2 @@
+ng_deepnegative_v1_75t, ((badhandv4)), (worst quality:2), (low quality:2), (normal quality:2), lowres, (bad anatomy:1.4), bad hands, normal quality, ((monochrome)), ((grayscale)) watermark, 
+missing legs, extra legs, extra fingers, fewer fingers, fused fingers, too many fingers,

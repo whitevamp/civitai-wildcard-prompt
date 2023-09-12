@@ -1,0 +1,1 @@
+badhandv4, (worst quality, low quality:2),bad anatomy,bad hand,extra hands,extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,worst face, easynegative, ng_deepnegative_v1_75t

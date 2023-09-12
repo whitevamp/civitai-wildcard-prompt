@@ -1,3 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, anime style, cg, pretty face, 1girl, cowboy shot, medium breast, gold bracelet, gold necklace, crystal earrings, flower crown, bare feet, seductive poses, on the stone, in the center of a lake, wind blow, 
- <lora:GreekClothes:1>, greek clothes, peplos,
-gorgeous and stunning view, lake, forest,

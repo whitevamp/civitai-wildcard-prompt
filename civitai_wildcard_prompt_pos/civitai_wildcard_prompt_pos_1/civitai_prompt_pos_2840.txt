@@ -1,0 +1,4 @@
+(masterpiece:1.2),best quality,illustration,detailed eyes,detailed face,perfect lighting,(nice hands, perfect hands),BREAK,(ON BED:1.3)
+<lora:upass-000006:0.7:NP>upass,1girl, solo, ass, pussy, panty pull, top-down bottom-up, from behind,
+<lora:flat2:-0.4><lora:sanDka2:0.2>
+ninonakano, <lora:ninonakanotest_2:0.7:NP>, nino nakano, short hair, bangs, blue eyes, hair ornament, hair ribbon, pink hair, blunt bangs, two side up, butterfly hair ornament, BREAK skirt, shirt, long sleeves, white shirt, pleated skirt, open clothes, collared shirt, sleeves past wrists, dress shirt, cardigan, green skirt, open cardigan, black cardigan,spread legs,

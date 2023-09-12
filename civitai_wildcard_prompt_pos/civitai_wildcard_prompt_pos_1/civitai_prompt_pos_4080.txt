@@ -1,0 +1,11 @@
+seed: 3699985262
+Model: AbyssOrangeMix2_nsfw-fixed
+steps: 20
+sampler: DPM++ 2S a Karras
+cfgScale: 7
+Clip skip: 2
+Mask blur: 4
+resources: [{'name': 'JazzJack', 'type': 'lora', 'weight': 1}, {'name': 'poseLORAPeekingOut_v10', 'type': 'lora', 'weight': 1.1}, {'hash': 'b0d8210b03', 'name': 'AbyssOrangeMix2_nsfw-fixed', 'type': 'model'}]
+Denoising strength: 0.1
+SD upscale overlap: 64
+SD upscale upscaler: R-ESRGAN 4x+ Anime6B

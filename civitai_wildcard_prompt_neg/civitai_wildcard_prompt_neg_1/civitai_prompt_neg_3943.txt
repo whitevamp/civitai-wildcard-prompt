@@ -1,0 +1,1 @@
+(jacket:2), (coat:2), EasyNegative, bad-hands-5, bad_prompt_version2, (boobs:1.7), pregnant, loli, child, lowres, text, error, cropped, signature, watermark, username

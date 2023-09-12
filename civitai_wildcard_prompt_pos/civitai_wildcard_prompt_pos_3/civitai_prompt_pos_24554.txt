@@ -1,0 +1,7 @@
+nsfw, best quality,ultra high res,(photo realistic:1.4),1 girls,
+cinematic lighting,
+focus on face,
+1girl, indoors, (bdsm:1.5), (bondage:1.5), shibari, (spread legs:1.5),  (bind breasts by brown rope:1.5),(bind arms behind), (bind body by rope), (tie up thighs and shins by rope:2),(both knees on the floor:2)
+bodysuit,latex suit in black, bra, black blindfold, 
+(wide hips, big breasts,thick thighs),Japanese,
+<lora:bondageSuspension_v10:0.8> <lora:virtualgirlRin_v20:0.3>

@@ -1,0 +1,7 @@
+1girl, masterpiece,
+(masterpiece:1.4, best quality), unity 8k wallpaper, ultra detailed, beautiful and aesthetic, (photorealistic:1.4), (1girl), green eyes, blush, lipstick, slim, slim body, very wild shot, small tits, small breast, flat_chest, detailed background, realistic, solo, perfect detailed face, naughty face,  fantasy, ((thick shiny pussy)), flowers, perfect clean skin, adult face, ((darkness)), bracers, amulets, ((golden jewellery)), ((leg bracelet)), ((feet bracelet)), ((trees)), ((forest)),
+  naked pussy, ((feets up)), ((full naked)),  white hairs, ((long hairs)), detailed feets, magic forest, perfect feets,  elf ears, ((fog)), forest lake, naked hands, ((trees behind)), night, wet,  
+smile,  briliant colors, foot fetish, ((lick my feet)), sit on stone, smirk embrassed, bloom, ((shiny realistic pink pussy)),
+ <lora:add_detail:0.3>
+ <lora:lightV1:0.6>
+ <lyco:BetterPussyV0.1.0-LR00025-Locan:1.0>

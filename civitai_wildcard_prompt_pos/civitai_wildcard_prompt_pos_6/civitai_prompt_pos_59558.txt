@@ -1,0 +1,3 @@
+(NSFW:1.2),(simple blue background, blue background:1.2), (pureerosface_v1:0.66),(bare shoulders), best quality, ultra high res, photorealistic, gwen1, cafecuties1, rnd1, (Blue hair:1.5), (((white and  Black Lolita dress))),
+1girl,nice detailed eyes,  detailed eye makeup, puffy eyes, solo, (busty), (cleavage),(slender), (looking at viewer),(smile),(happy),depth of field,detail face, shiny skin, nice detailed eyes,  slim waist, blush, solo, Thick makeup, 
+<lora:lolitaFashionDress_gothic_style2:0.33> , <lora:gwen2:0.66> <lora:InstantPhotoX3:0.6>

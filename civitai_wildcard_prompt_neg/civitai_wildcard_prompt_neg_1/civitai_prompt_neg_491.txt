@@ -1,0 +1,1 @@
+EasyNegative, (low quality:1.2), (worst quality:1.2),(cartoon, western cartoon, illustration, sketch:1.2), broken hands, bad 3d ,bokeh, blurry background

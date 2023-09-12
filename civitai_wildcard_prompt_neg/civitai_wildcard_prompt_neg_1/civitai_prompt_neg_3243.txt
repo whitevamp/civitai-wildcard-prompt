@@ -1,0 +1,1 @@
+(nsfw:1.3), easynegative, cropped, out of frame, (nsfw), monochrome, grayscale, bad eyes, normal quality, (bad quality:1.2), (worst quality:1.4), deformed anatomy, bad anatomy, low resolution, old, (neutral background:1.3), (bad hands), (bad fingers), floating limbs

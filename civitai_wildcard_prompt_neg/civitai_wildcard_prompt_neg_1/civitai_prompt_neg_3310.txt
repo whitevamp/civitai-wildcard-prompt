@@ -1,0 +1,1 @@
+EasyNegative, blurry, worst_quality, ((text)), painting, digital, fake, extra fingers, deformed

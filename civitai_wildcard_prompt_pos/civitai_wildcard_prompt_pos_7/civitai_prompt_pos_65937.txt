@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+ 1boy, man, red hair, straw hat, <lora:Shanks:0.8> Shnks, shanks \(one piece\),  scar on face, short hair, shirt,  white shirt, male focus, open clothes, collared shirt, pants, cape, coat, open shirt, facial hair, scar, sandals,  pectorals, partially unbuttoned, pectoral cleavage, coat on shoulders, nature, scenery, upper body, straw hat,
+BREAK cooking, inside, stove, food, pot of stew, <lora:saltbae:0.8> saltbae, sunglasses,

@@ -1,0 +1,7 @@
+(extremely bright backlight:1), ultra wide angle, dynamic angle, (realistic, photo-realistic:1.37),(8k, RAW photo, best quality, masterpiece:1.2),pink eyes, cute, ultra-detailed, physically-based rendering, ultra high res, front lighting, looking at viewer, photorealistic, realistic, solo, photorealistic, best quality, extremely detailed face, extremely detailed eyes and face, beautiful detailed eyes, , incredibly absurdness, 
+ 1girl, smile, 18 years old, cute, hair bangs, long hair, white hamlet, (shinny extremely detailed metal robot armor:1), (blue and red and yellow armor bra: 1.5), (white legs and arms armor: 1), (red feet armor: 1) standing, cowboy shot, (brown eyes). 
+(showing breasts naked), (sitting)
+airport, spaceship, (space station), cyberpunk
+<lora:Taiwan-doll-likeness:0.2> 
+<lora:lora-hanfugirl-v1-5:0.5>
+<lora:Korean-doll-likeness:0.6>

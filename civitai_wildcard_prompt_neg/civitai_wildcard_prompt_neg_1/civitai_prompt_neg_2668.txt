@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.4), monochrome, zombie, wrong_hand, wrong_feet, text, signature, watermark, username, extra digit, fewer digits, bad hands, bad anatomy, teeth , bad-artist, badhandv4

@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.2), extremely detailed, ambient soft lighting, 4K, quality, wlsdnjs950,
+1girl, solo, lying on back, on back, lying,
+blue eyes, tareme,
+large breasts, (pussy:1.2),
+indoors, bedroom, bed, on bed,
+ <lora:tareme:1.2>

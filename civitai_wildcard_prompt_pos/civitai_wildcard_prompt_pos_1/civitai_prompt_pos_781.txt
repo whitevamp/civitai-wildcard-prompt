@@ -1,0 +1,3 @@
+[32k|16k|best-quality],twist, creativity, professional photo,and polar bear, animal <lora:volibearV1:0.7>
+wide-eyed, constricted pupils, embarrassed,, masterpiece, <lora:constricted_pupils_v0.2a:0.75>
+<lora:3DMM_V11:0.6> 3DMM <hypernet:Mixture-1000:0.15>

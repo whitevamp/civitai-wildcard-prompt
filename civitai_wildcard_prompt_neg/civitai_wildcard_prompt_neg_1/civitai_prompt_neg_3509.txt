@@ -1,0 +1,1 @@
+EasyNegative, (low quality, worst quality:1.4), lowres, blurry, (bad hands:1.4), bad fingers, bad anatomy, (poorly drawn hands), (poorly drawn fingers), extra fingers, fewer fingers, extra limbs, (abs, muscular, ribs), monochrome, comic, painting, sketches, multiple panes, multiple views, monochrome, text, watermark, artist signature, (fused fingers), fused limbs, fused hands

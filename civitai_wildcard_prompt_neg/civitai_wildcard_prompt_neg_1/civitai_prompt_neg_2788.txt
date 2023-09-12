@@ -1,0 +1,1 @@
+(bad-hands-5:1.7)(EasyNegative:1.98)(worst quality, low quality:1.8), (simple background), bright lighting,ugly,lowres,bad anatomy,amputation,amputee,missing limbs,missing fingers,extra digit,cropped head,(worst quality,low quality,normal quality:2)jpg artifacts,text,watermark,logo,collage,frame,border,split image, double image,simple background,signature,username,blurry

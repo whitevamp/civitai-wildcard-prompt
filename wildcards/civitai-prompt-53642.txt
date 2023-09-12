@@ -1,3 +1,0 @@
-<lora:hipoly3DModelLora_v10:0.6>, hiqcg, 1girl, cowboy shot,
-detailed skin texture, detailed cloth texture,  beautiful detailed face,
-masterpiece, best quality, ultra detailed, 8k, intricate details, (natural skin texture:1.2), (porcelain skin:1.4),

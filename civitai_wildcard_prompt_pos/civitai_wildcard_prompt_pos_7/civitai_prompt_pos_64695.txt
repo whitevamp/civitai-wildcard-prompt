@@ -1,0 +1,3 @@
+[1boy:1girl:0.3], tomboy, solo, very black short hair, pixie cut, tan, (muscular:0.9), (large breasts:1), (medium breasts: 0.25), messy hair, night, aroused, lovestruck, full-face blush, choker, (wearing puff_dress:1.3), new york city sidewalk, golden hour, 1950s, 50s, dramatic lighting, dark theme, absurdres, best quality,
+<lora:puff_dress:.5>
+<lora:GoodHands-vanilla:.8>

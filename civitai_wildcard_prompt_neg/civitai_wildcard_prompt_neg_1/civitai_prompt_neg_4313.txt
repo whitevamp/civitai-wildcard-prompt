@@ -1,0 +1,1 @@
+EasyNegative, negative_hand-neg, (worst quality, bad quality:1.3), lowres, (yellow, orange, red:1.3), windows,

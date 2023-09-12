@@ -1,0 +1,1 @@
+j3ff <lora:eye_size_slider_v1:8>  white dress, face portrait <lora:j3ff:1>

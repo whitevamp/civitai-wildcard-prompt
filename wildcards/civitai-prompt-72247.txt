@@ -1,1 +1,0 @@
-1girl, (realistic:1.4), (pixiv:1.3), perfect illumination, distinct, (bishoujo:1.2), unreal engine, sidelighting, perfect face, detailed face, beautiful eyes, pretty face, (bright skin:1.2), idol, ulzzang-6500-v1.1, <lora:makimaChainsawMan_v10:0.4>, soft smile, upper body, dark red hair, (simple background), ((dark background)), (depth of field)

@@ -1,3 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), (ultra detailed), 1girl, 1boy, cowboy shot
- <lora:Slingshot_V_Conv2D:1>, slingshot swimsuit, color one-piece swimsuit, black swimsuit
-looking at viewer, oily and shining skin, muscular, slim and petite body, medium boobs, high ponytail hair, ([light red | brown] hair), (full body:1.2), seductive pose, smiling, on the stage, fashion show,

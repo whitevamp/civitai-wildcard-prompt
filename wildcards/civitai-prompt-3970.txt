@@ -1,1 +1,0 @@
-((Best quality)), ((masterpiece)), ((highly intricate details)), <lora:add_detail:1.3>

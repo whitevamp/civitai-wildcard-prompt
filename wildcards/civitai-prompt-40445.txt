@@ -1,1 +1,0 @@
-nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), 8K, raw photo, 1girl, full body, (very short hair:1.4), (pixie cut:1.2), wearing oversized black pullover, modeling, half sitting on chair, cowboy shot, natural skin texture, dynamic pose, petite, artist, film grain, <lora:ClothingAdjuster3:0.1> <lora:InstantPhotoX3:0.5>

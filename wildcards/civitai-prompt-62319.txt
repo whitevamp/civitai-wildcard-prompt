@@ -1,5 +1,0 @@
-photography, bokeh, highres, ultra detailed, intricate details, absurdres, masterpiece, BREAK
-1girl, beautifully detailed woman, beautifully detailed mouth, extremely detailed eyes and face, beautiful detailed eyes, matte eyeshadow, eyelashes, eyeliner, ultra glossy lipstick, (pouty lips:1.3), makeup, blush, BREAK
-sexy pose, sweat, narrow waist, large hips, gigantic breasts, barefoot, BREAK
-detailed background,  BREAK
-mirabel madrigal, glasses, naked, <lora:MirabelMadrigal_v1:1> BREAK

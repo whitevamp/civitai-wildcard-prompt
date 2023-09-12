@@ -1,0 +1,4 @@
+masterpiece,best quality,LoFi Aesthetic,lomography,
+(solo,1girl,driving daihatsu_midget,three-wheeler:1.3),
+country road,dirt road,(sunset,twilight,gradient sky:1.2),
+<lyco:daihatsu_midget_v11-000008:0.6>

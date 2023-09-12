@@ -1,0 +1,1 @@
+(worst quality, low quality, normal quality:1.3), EasyNegative,monochrome, grayscale,extra fingers, fewer fingers, missing fingers, extra arms, fewer arms, missing arms, cowboy hat, hat, faceless female

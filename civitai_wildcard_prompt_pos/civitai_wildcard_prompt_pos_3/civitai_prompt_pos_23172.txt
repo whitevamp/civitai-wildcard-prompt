@@ -1,0 +1,4 @@
+1girl,straw hat,cowboy shot,(naked boobs,nude,mid-breasts,nipples:1.1),see-through grass skirt,
+lazy,elegant,curvy,flower,blue sky,dappled sunlight,forest,
+<lora:MengX girl_Mix_v30:1>,
+<lora:slg_v30:0.7>,slg,

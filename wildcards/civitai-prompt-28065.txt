@@ -1,1 +1,0 @@
-<lora:Frazetta:0.5>,Frazetta,style of Frank Frazetta,1girl,solo,highly detailed background,outdoors,pussy,scenic view,woman,nsfw,masterpiece,best quality,<lora:more_details:0.25>,

@@ -1,0 +1,2 @@
+[32k|16k|best-quality], professional photo,and polar bear, animal <lora:volibearV1:1>
+<lora:ArsEmbarrassed-t5-000016:0.75> embarrassed, blush, @_@, covering, wavy mouth

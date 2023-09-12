@@ -1,1 +1,0 @@
-female, woman, robot super model, gold mechanical parts, designer body modifications,long voluminous hair, opulent scene, <lora:EnvyBeautyMix25:0.8> <lora:nijiMecha:0.4>

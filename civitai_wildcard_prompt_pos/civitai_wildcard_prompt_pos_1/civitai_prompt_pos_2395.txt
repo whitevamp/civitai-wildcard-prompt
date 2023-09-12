@@ -1,0 +1,4 @@
+b1mb0 woman,  walking in a park, lace bodysuit, high heels, thick ass,  rear view, long blonde hair, full body,
+th3p1t, illustration, best quality, detailed,
+<lora:th3p1t_v2:0.5>
+<lora:b1mb0_v2:0.5>

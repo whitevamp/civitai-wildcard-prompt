@@ -1,0 +1,1 @@
+(photo-realistic, best quality, masterpiece:1.4), (8k:1.2),  <lora:minotaur_v0.1b:1.3>, (minotaur) playing guitar in (((parade))

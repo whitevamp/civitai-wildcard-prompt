@@ -1,0 +1,4 @@
+(EasyNegative:1.1), (bad-artist, By bad artist -neg:1.2),
+NSFW, nude, naked, porn, cropped, out of frame, lowres, (worst quality, normail quality, low quality:1.3), error, jpeg artifacts, ugly, blurry, (illustration:1.3), (sketch:1.2), (3d:1.3), (painting:1.3),
+(badhandv4:1.2), (bad-hands-5:1.2), (bad_prompt_version2:0.8), (ng_deepnegative_v1_75t:1.2),
+(text:1.2), (watermark:1.2), (logo, username:1.2), signature, extra digit, fewer digits,

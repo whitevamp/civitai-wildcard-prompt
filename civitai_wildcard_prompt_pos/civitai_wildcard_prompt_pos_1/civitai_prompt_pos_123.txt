@@ -1,0 +1,3 @@
+Closeup of (Darth Vader) from behind, (stuck in washing machine), wearing his full Darth Vader armor and cape, crawling into a washing machine, kneeling, tight shiny pants.
+fcPortrait, highres, high resolution, detailed, glowing red lights,
+<lora:LowRA:0.5> <lora:add_detail:0.1> <lora:savemeIamstuck:0.9>

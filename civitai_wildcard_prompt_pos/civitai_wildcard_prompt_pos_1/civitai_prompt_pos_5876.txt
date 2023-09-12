@@ -1,0 +1,4 @@
+1man, mature male, looking at viewer, upper body, kicking, fighting stance, spread arms, smile, open mouth, :D
+sf6 chun,chunli, (blue clothes:1.5), ((black pantyhose, puffy short sleeves, bun cover, sash,blunt bangs,chinese clothing, Cheongsam)),
+photo, real life, realistic
+ <lora:llfJackie Chan:1.25>  <lora:Chun-Li_v2.0:1:MIDD> <lora:Chun-Li_v2.0:0>

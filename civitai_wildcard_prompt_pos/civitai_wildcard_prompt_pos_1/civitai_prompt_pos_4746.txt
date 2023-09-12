@@ -1,0 +1,4 @@
+best quality,highly detailed,ultra-detailed,(masterpiece1.3),illustration,beautiful detailed eyes, Anime, Moe,game cg,(((illustration))), solo, 1girl,
+((red eyes)),(((brightgreen hair))),((((very short hair)))),long ahoge, ((asymmetrical flipped hair)),((seductive smile)),(((side flipped hair))), spiked bangs,(((asymmetrical hair))),(white skin), (((shiny skin))),((perky breasts)), large breasts, light blush,
+((((green t-shirt)))), ((half-jean)), (((night))),high-rise building,((dickneck,penis1.6)),((transformation)), 
+<lora:maplestoryStyle_v3:0.3> <lora:AbnormalLoraDickneck_dickneckv1:0.8>

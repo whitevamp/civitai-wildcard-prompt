@@ -1,0 +1,4 @@
+<lora:zombie_v1.3:1> 
+1girl, scared, wide-eyed, :o, shock, torn clothes, dress,
+multiple boys, zombie, motion blur, perspective, blood,
+<lora:busujima_saeko_v1.0:1> busujima saeko, school uniform, green skirt, pleated skirt, torn shirt, torn skirt, katana, looking back, fighting stance, sword, attack, foreshortening, depth of field, blood splatter, cutting, motion blur, battle,, masterpiece, best quality, highly detailed

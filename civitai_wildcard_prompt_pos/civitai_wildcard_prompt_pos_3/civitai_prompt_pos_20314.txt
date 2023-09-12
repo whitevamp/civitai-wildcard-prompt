@@ -1,0 +1,6 @@
+woman, roller skating, bimbo, street of miami, bikini,
+(thick, large breasts:0.8),
+full body, character concept art, 
+th3p1t, 
+(best quality, detailed, qhd), 
+<lora:th3p1t_v1:1>

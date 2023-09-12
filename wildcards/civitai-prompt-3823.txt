@@ -1,2 +1,0 @@
-1girl, solo,full body,
-<lora:unpants.v1.0:1>  <lora:Ass-CameltoeV1.2:1>

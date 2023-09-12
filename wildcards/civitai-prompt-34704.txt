@@ -1,1 +1,0 @@
-5 men on the bed,male,pajama,big muscle,crew cut,soft light,<lora:people_count_slider_v1:5>

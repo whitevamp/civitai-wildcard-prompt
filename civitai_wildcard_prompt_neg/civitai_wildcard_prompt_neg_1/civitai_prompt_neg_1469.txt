@@ -1,0 +1,1 @@
+badhandv4,  easynegative,  negative_hand-neg, (bad quality, worst quality:1.4),  bad-hands-5,  EasyNegativeV2, monochrome, censored

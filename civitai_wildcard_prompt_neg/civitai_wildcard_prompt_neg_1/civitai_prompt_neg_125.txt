@@ -1,0 +1,1 @@
+EasyNegative, signature, watermark, username, (badhandv4),ng_deepnegative_v1_75t, badhandv4, bad_prompt_v2, (worst quality:2), (low quality:2), (normal quality:2), lowres, sketches, blurry, ((monochrome)), ((grayscale)), jpeg, artifacts, signature, watermark, bad anatomy,(underwear),(pants),(bra),

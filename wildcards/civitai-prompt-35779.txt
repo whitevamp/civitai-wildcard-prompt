@@ -1,1 +1,0 @@
-masterpiece,best quality,high quality, <lyco:GoodHands-beta2:1.0>,1girl, 13 year old girl,white shirt,beauty, (trees:0.5), (flowers:0.6) ,(birds:0.2), (bamboo0.1), lakes, Hangzhou,looking at viewer,    <lora:anxiang:0.7>

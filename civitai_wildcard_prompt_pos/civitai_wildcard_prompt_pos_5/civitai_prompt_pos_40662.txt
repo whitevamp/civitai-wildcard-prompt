@@ -1,0 +1,2 @@
+best quality, intricate details,
+ <lora:SadCatMeme_V10:0.8> sadcatmeme,  cat, crying, tears, <lora:catsAreLiquid_v10:0.8> cat,water,

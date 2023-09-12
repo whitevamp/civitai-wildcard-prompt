@@ -1,0 +1,1 @@
+<lora:ng_deepnegative_v1_75t:1.0>, (worst quality:2), (low quality:2), (normal quality:2), low res, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)), ((nsfw))

@@ -1,4 +1,0 @@
-(masterpiece), (best quality),photorealistic, 8k raw photo,ultra high res,
-1boy,upper body,black suit,detailed skin,solo,night,looking at viewer,white  background, simple background, 
-dim light,,film grain, single-lens reflex camera, 35mm lens focal length
- <lora:manmodel01:0.8:MIDD>

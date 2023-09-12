@@ -1,0 +1,3 @@
+masterpiece, bset quality, detailed body,High Detail, Sharp focus, studio lighting,<lora:sexToyTransformation_v10:1>,TRANSFORMATION,
+<lora:bliznyashkiTheTwins_v1:0.8>,(SOVIET,FACELESS,ROBOTS,CHARACTER:0.8),(JACKET,BRAIDED HAIR,ROBOT:0.8),
+Intricate background,(busty:0.4),<lora:jkBigNaturalBreasts_t02liteV01:0.8>,(shiny skin:0.8),nsfw,<lora:uberRealisticPornMerge_urpmv13296LORA:0.7>,

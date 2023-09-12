@@ -1,0 +1,1 @@
+easynegative  bad-hands-5 bad hands, Bad hand textual inversion, (worst quality, bad quality:1.3), Bad hand textual inversion, bad anatomy, deformed pupils, deformed iris, deformed hands, deformed feet, bad-artist By bad artist -neg FastNegativeEmbedding ng_deepnegative_v1_75t UnrealisticDream

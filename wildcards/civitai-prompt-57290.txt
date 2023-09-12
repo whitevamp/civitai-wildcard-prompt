@@ -1,1 +1,0 @@
-<lora:cuteGirlMix4_v10:0.3>, mix4, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), 1girl, cute, teen, petite, skinny, cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering, full body, thighhighs, legs together, breasts,  <lora:MISC-BreastInClass:0.2>,  <lora:MISC-GlossyFace:0.3>

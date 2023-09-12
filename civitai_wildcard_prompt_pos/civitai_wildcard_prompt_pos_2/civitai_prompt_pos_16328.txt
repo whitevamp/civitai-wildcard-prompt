@@ -1,0 +1,4 @@
+masterpiece, best quality, highly detailed, cowboy shot, portrait, text that says "do not cross"
+1girl, police woman, large breasts, petite, black jacket, (beltbra:1.2),<lora:beltbra_v0.1:1>, (caution tape:1.3), deep skin, skindentation, 
+BREAK
+city, alleyway, red_and_blue_lights, (police_car:1.2), siren, crime_scene, night, dark theme,  <lora:LowRA:0.3>

@@ -1,0 +1,1 @@
+bad_pictures, easynegative, (worst quality:2, low quality:2), lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, jpeg artifacts, signature, watermark, username, blurry, artist name, bad feet, big head, fused body, twisted body

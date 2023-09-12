@@ -1,0 +1,4 @@
+masterpiece, best quality,masterpiece, best quality, highly detailed,
+ <lora:UmiLL_v1:0.5>,1girl, solo, sonoda umi, blue hair, yellow eyes,large breasts, 
+ <lora:Strange swimsuit:1>,pink one-piece swimsuit,classroom,  surprised, amazed, astonished,
+open their mouths,leotard,open their mouths

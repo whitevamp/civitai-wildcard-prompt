@@ -1,0 +1,1 @@
+EasyNegative, (low quality:1.2), (worst quality:1.2),  illustration, sketch, broken hands, bad 3d ,bokeh, blurry background, solo, armpit hair

@@ -1,1 +1,0 @@
-masterpiece, best quality,realistic,realskin,1girl,outdoor,low_key, <lora:FilmG2:0.8>

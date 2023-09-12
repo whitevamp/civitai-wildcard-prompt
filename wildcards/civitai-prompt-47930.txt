@@ -1,4 +1,0 @@
-(RAW photo:1.2),(photorealistic:1.6),(masterpiece:1.3),(best quality:1.4), HI-RES, HDR,8k resolution, check commentary, (intricate details:1.6), (volumetric light),
-<lora:virtualgirlRin_v30:0.3>, <lora:upshirtUnderboob_v10:1>,
-1girl, full body, office lady, standing pose, classroom, (see-through white school shirt with buttons:1.6),  (unbuttoned shirt:1.6), (revealing breasts:1.6), ( plaid skirt: 1.6), (navel: 1.6),(high heels:1.2),(e-cups: 1. 6), 
- (beautiful face:1.9),  (detailed face:1.6), (detailed eyes:1.5), (eyelashes:1.4), (smiling:1.6), (detailed black bob hair:1.3), (large breast:1.2),

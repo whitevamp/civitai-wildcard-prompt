@@ -1,0 +1,1 @@
+(anorexic), (ribs), (green skin:1.2), (animal ears:1.3), (censoring:1.3), easynegative, ng_deepnegative_v1_75t, (huge breasts:1.2), (worst quality:1.25), (low quality:1.25), (lowres:1.1), (monochrome:1.1), (greyscale), multiple views, comic, sketch, (blurry:1.05)

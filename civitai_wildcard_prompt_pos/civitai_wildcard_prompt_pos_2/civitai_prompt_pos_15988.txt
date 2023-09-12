@@ -1,0 +1,7 @@
+(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 
+1girl,
+naked girl, (flower hair ornament), 
+(small breasts:1.4), (perfect slim body, slim waist,:1.2), 
+BREAK
+sitting on beach, (wide spread legs:1.2), (show pussy:1.2), (half mouth open female orgasm:1.2), 
+ <lora:add_detail:1.5>

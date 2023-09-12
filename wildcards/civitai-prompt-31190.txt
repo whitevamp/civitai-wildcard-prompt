@@ -1,1 +1,0 @@
-masterpiece, best quality, absurdres, best illustration, illustration,  1girl, looking at viewer,  stephanie(lt), pink hair, purple hairband, pink clothes, pink dress,   <lora:Stephanie(LT):0.7>, standing, contrapposto

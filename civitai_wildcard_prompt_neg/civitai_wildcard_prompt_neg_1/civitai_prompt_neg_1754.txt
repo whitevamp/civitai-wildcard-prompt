@@ -1,0 +1,1 @@
+(ugly, jpeg, jpeg artifacts:2.0), ng-bad_artist, ng-bad_artist_anime, ng-bad_dream, ng-beyond_negative-v1.2, ng-deepnegative-v1.75t, ng-easynegative-v2, ng-new_negative-v1.4, ng-unspeakable-horrors-64v, (worst quality, low quality, lowres, poorly drawn:2.0), out of frame, (extra fingers, deformed hands, polydactyl:1.5)

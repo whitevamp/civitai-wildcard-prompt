@@ -1,0 +1,1 @@
+(worst quality, low quality, normal quality:1.4), lowres,  (easynegative:1.2)

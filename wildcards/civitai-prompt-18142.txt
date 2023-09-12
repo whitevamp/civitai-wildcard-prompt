@@ -1,6 +1,0 @@
-(masterpiece),(intricate details),1girl,mature female,large breasts
-BREAK
-mikunakano, <lora:mikunakanotest:0.7>, miku nakano, long hair, bangs, blue eyes, brown hair, shirt, hair between eyes, headphones, cardigan, headphones around neck, BREAK skirt, shirt, long sleeves, white shirt, pantyhose, pleated skirt, black pantyhose, cardigan, green skirt, blue cardigan,
-Folded Socks,converse,depth of field,looking at viewer,random view,((sit on the , Contemporary_dance_theater,)),((upper body)),polka dot panties,laughing
-BREAK
-moon,night,meteor,hanabi,bus stop,((cumulonimbus)),from above:1.3,

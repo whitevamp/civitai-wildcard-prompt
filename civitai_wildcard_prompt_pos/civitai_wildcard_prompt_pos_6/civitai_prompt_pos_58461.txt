@@ -1,0 +1,5 @@
+raw photo, ultra realistic,
+((1girl wearing school uniform and rideing on (a giant-sized white cat) running in city)), cat is open mouth,
+((taipei city)), dutch angle, looking at viewer,
+(masterpiece, 8k uhd, HDR, extreme detailed, intricate details, best quality, professional, vivid colors),
+<lora:miniature_V1:0.5>, <lora:GoodHands-beta2:1>, Chi_testv1

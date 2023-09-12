@@ -1,0 +1,8 @@
+bad-artist bad-hands-5 bad-image-v2-39000 bad_pictures bad_prompt_version2-neg EasyNegative EasyNegativeV2 ng_deepnegative_v1_75t verybadimagenegative_v1.3 normal quality, dark_skin, brown_skin,(worst quality:2),(low quality:2),(normal quality:2),lowres,watermark,badhandv4,ugly,grayscale, (facial hair, beard), malformed pupils, strange eyes, ugly, malformed face, old, wrinkles, text, watermark,
+3d, cartoon, 3dcg, doll, lowres, bad anatomy, wrong anatomy, mutated hands and fingers,
+mutation, mutated, amputation, (two heads:1.7), art, conceptart, concept, render, cgi, artstation,
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, monochrome,
+grayscale, skin spots, acne, skin blemishes, age spots, glans, (blurry:1.2), duplicate, deformed,
+cartoon, animated, render, bad anatomy, multiple limbs, deformed toes, deformed legs,Amateur,Low rated,
+Phone,Wedding,Frame,Painting,tumblr,watermark,signature,((hdr)),((terragen)),((rendering)),(high contrast),
+bad-hands-5, bad_prompt, from behind, frame, border, painting \(object\), picture frame, monochrome, muted colors,

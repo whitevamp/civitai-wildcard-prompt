@@ -1,0 +1,1 @@
+looking_at_viewer, facing_viewer,, (easynegative:1.0), ng_deepnegative_v1_75t, (low_quality:1.4), (worst_quality:1.4), (badhandv4:1.1),collage, artist_name, signature, watermark,

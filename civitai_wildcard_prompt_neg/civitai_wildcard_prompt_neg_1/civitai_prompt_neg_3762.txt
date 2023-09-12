@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4),EasyNegative , (monochrome:1.1),bad-hands-5, (greyscale),((((blurry background)))),multiple views,comic,(signature:1.3),(2girls,panels:1.4)

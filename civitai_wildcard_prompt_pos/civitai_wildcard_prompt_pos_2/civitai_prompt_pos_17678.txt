@@ -1,0 +1,5 @@
+ASCIIphoto of a (sks woman:1) inside an abandoned space station,
+(artwork by Beksinski, methurlant)
+sci-fi, fantasy, vibrant colors,
+<lora:methurlant:0.8>,
+<lyco:locon_emmastone_v1_from_v1_64_32:1.4>

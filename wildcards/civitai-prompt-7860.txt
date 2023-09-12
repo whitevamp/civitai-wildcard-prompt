@@ -1,4 +1,0 @@
-nobody, 
-(night:1.2),  (( fantasy, laboratory, Experimental instruments, sense of technology, enhanced, Furnace, )), 
-Best quality, masterpiece, ultra high res, (photorealistic:1.4), 
- <lora:atomtwins:0.0>  <lora:add_detail:0.4> <lora:sexToyTransformation_v10:0.9>  <lora:more_details:0.7>

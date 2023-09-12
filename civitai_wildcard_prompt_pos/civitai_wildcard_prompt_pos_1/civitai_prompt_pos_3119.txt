@@ -1,0 +1,2 @@
+((masterpiece:1.2, best quality)), 1lady, solo <lora:anya:1>
+Anya, portrait, , dark skinned female, tank top, no background

@@ -1,0 +1,2 @@
+(EasyNegative:0.8), negative_hand-neg, (worst quality, low quality:1.4), (simple background, fog, mist:1.2),
+(tight, skin tight, impossible clothes, flared tip:1.2), ribs, abs,

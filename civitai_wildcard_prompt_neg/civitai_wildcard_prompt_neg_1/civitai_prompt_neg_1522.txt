@@ -1,0 +1,2 @@
+easynegative, badhandv4,
+(blurry, worst quality, low quality, normal quality, grain, noise, featureless, colorless:1.4), extra legs, extra hands, extra faces, conjoined arms, conjoined legs, huge head

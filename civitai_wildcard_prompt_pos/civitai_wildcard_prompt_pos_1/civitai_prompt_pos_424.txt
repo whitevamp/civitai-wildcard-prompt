@@ -1,0 +1,3 @@
+[32k|16k|best-quality], professional photo ,grabbing another's ass,polar bear, 2boys, from side, , masterpiece, best quality, highly detailed <lora:grabbing_anothers_ass_v.2.3:0.8>
+and polar bear, animal <lora:volibearV1:1>
+and a food, Mukbang , hand , hand grabbing , ass grabbing <lora:Mukbang:1>

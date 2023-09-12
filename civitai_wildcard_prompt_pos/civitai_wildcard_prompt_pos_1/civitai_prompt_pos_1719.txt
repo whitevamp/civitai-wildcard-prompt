@@ -1,0 +1,1 @@
+1girl,slg,path,water,long hair,Striped maxi dress with a tiered skirt,mating press,Sitting,(tenebrism)<lora:slg_v22:1>,<lora:lighting_cigarette:0.6:POSE> lighting_cigarette,there is a fire on the ground,summer day, <lora:kCyborgAnimal:0.8>

@@ -1,0 +1,2 @@
+(drawings, sketches, paintings, anime:1.2), (worst quality, low quality, normal quality:2), easynegative, negative_hand-neg, (text, watermark, logo, signature:1.1), (skin spots, acnes, skin blemishes, age spot:1.15), depth of field, (ugly:1.2), (fat:1.4), (mature female, old female:1.3), (skindentation:1.2),
+(piercings, rings, earrings, necklace:1.4), (penis:1.1), (anomaly, conjoined, detached, mutated:1.1), (visible teeth:1.5), (plastic face:1.1), (depth of field:1.1), (missing fingers:1.2), (visible feet, visible soles:1.2), looking away from camera

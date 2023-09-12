@@ -1,0 +1,2 @@
+(greyscale, worst quality) 
+ EasyNegativeV2

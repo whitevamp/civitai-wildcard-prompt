@@ -1,0 +1,3 @@
+(best quality:1.1), (masterpiece:1.2), portrait, 
+1girl, yuzuriha_(jigokuraku), purple hair, brown eyes, ninja, open clothes, cleavage, small breasts, topknot, medium hair, breasts apart, white obi, smirk, outdoors, (blush:1.1), flowers, (hand behind head:1.0),
+ <lora:Kizuki - Jigokuraku - Yuzuriha:0.875>

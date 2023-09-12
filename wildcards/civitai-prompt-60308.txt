@@ -1,3 +1,0 @@
-(best quality:1.4),(hiten1:0.49),(light:1.543),(full body:1.23),(Leaning forward slightly:1.183),(from below),(wind blows:1.421),(blue, red, pink, flower clusters: 1.6532),(looking at viewer)
-Deep view,(lights:1.1), (blue, red, pink, flower clusters: 1.6532),(Petals floating on the water:1.212),(stone),(starry sky:1.5),(shooting stars:1.5),(galaxy:1.543)
-(one girl:1.54), (standing in the water:1.642),bare legs,(long long white hair:1.34),(ends of the hair turn blue:1.06),(small:1.12),(white eyes:1.21),(arms behind back:1.425),(blush:1.1),(thigh:1.1),(thigh lace-up:1.3),butterfly,butterfly hair ornament,(thighs:1.08),(cleavage:1.24),necklace,(sapphire decoration),(Wide sleeves),

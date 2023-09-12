@@ -1,1 +1,0 @@
-<lora:ass_up_wait.v1.3-sd:0.75>, <lora:azulaAvatarLORA_v10:0.6>, 1girl, azula, red robe, ass up wait, bedroom, candles, nightgown, grin, smug, (from behind:1.2), bathrobe, satin, (pussy:1.1)

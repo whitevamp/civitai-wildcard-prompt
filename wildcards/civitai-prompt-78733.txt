@@ -1,1 +1,0 @@
-absurdres, best quality, 1girl, solo, looking at viewer, eye focus,  <lyco:GoodHands-beta2:1.0>,  <lora:coven_evelynn:0.8>, coven evelynn, bodysuit, hair ornament, red eyes

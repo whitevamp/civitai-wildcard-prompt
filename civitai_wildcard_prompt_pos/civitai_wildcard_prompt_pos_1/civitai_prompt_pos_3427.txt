@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), monochrome, zombie, multiple legs, poorly drawn face, extra heels, wrong prespective, clothes, dress, (extra limbs:1.2), bad hand draw, deformed hands, deformed fingers, fuzed fingers, (more than five fingers per hand), double ankle, hands in feet position, underdress, old, mature, (EasyNegative:0.8)

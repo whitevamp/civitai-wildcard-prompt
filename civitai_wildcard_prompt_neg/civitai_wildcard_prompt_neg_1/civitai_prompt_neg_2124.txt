@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), badhandv4, [(ng_deepnegative_v1_75t :0.9) :0.1], blurry, out of focus, multiple views, inset, disembodied limb, extra digits, fewer digits, monochrome, greyscale, watermark, username, patreon username, patreon logo, twitter username, artist name, signature, furry, fur, animal ears,

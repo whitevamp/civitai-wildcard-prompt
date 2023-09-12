@@ -1,1 +1,0 @@
-masterpiece, best quality, (rabbit) bunny, large eyes, (cartoon), splashing, abstract, psychedelic, (neon:0.8), extremely detailed, (white background:1.3), ink,  (creative:1.3), intricate detail, (pretty face), dynamic lighting, natural lighting, (yellow:1.3), photorealistic, sy3 <lora:Sy3:0.4>    <lora:ink-0.1-3-b28-bf16-D128-A1-1-ep64-768-DAdaptation-cosine:1>

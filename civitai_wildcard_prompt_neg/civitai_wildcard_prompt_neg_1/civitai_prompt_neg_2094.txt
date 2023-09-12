@@ -1,0 +1,11 @@
+seed: 2364119766
+Model: ghostmix_v12  2-5D
+steps: 40
+sampler: DPM++ 2M alt Karras
+cfgScale: 7
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'InstantPhotoX3', 'type': 'lora', 'weight': 0.5}, {'name': 'v3FilmVelvia3', 'type': 'lora', 'weight': 0.4}, {'name': 'add_detail', 'type': 'lora', 'weight': 0.5}, {'name': 'suspension', 'type': 'lora', 'weight': 0.5}, {'name': 'neg4all_bdsqlsz_V3.5', 'type': 'lora', 'weight': 0.7}, {'hash': 'd7465e52e1', 'name': 'ghostmix_v12  2-5D', 'type': 'model'}]
+Denoising strength: 0.15
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

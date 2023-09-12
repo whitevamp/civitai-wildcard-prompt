@@ -1,2 +1,0 @@
-<lora:betterCuteAsian03:0.3>, woman posing for a photo, wearing violet deep_v-neck_dress, (short_pigtail_hairstyle:1.3),
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((5 stars hotel background))),  <lora:deep_v-neck_dress:0.3> ,   <lora:short_pigtail_hairstyle05:0.5>

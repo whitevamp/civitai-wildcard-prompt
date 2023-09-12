@@ -1,0 +1,3 @@
+fcDetailPortrait, RAW photo of a beautiful blonde, wearing volleyball uniform, posing in a (bustling volleyball indoor stadium crowded with spectators and fans), pony tail, slim body, sleeveless jersey, low-rise tight shorts, knee pads, focus on ass, from behind, detailed skin texture, (goosebumps:0.5), subsurface scattering, bokeh, holding volleyball, dramatic,
+(masterpiece, best quality, high quality), highres, intricate detail, HDR, 8k, insane detail, sharp focus, photorealistic, finely detailed, rembrandt lighting, intricate details, ray tracing,
+<lyco:VolleyballUniform_v20LyCORIS:0.8>

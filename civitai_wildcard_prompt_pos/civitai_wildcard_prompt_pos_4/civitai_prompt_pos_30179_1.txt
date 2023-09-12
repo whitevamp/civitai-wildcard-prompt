@@ -1,0 +1,9 @@
+detailed model( 1girl <lora:hyperbreasts_v5Lora:0.3>, large breasts, Kpop idol, <lora:randomCoserFaceCoser_randomCoserFace:0.6>, narrow waist, short hair:1.4, blunt bangs:1.4, pink hair:1), 
+detailed face, ((drooping eyebrows, wink)), 
+detailed clothes, (maid headdress),((dangle earrings))
+extremely detailed eyes, ((puffy eyes, closed eye)), (pubic hair:1), 
+detailed beautiful skin, (perfect lighting), (ulzzang-6500:0.5),
+  (masterpiece), (best quality:1.0), (ultra highres:1.0), (photorealistic:1.4),
+
+<lora:murkysLickingPenis_1:1>,symmetry, front view, upper body, pov, penis,oral, cum, facial, 1boy,licking, tongue out, licking penis, big penis, long penis, straight penis, center penis,
+,(((unstoppable ejaculation))), <lora:instantCumshot_v1:0.3>, (taking a cumshot on her face, cum string, ejaculation, cum on face, cum on tits, cumshot:1.2)<lora:realisticTitfuck_titfuckRealisticEpoch:0.7>, titsfuck, paizuri,

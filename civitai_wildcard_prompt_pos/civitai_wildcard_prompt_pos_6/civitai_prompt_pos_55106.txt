@@ -1,0 +1,3 @@
+2girls, fashion, hairband, bonnet, dress, striped sleeves, garter belt,  <lora:byrs:0.7>,  <lora:add_detail:0.6>
+//
+, (()), (Anime:1.5), Manga, Sunlight, Edge Lighting, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, ((upper body:1.2)), portrait, , (()), Anime, Manga, Sunlight, Edge Lighting, ((high quality:1.2, masterpiece:1.2)), absurdres, high resolution, (8k resolution), 8k, 8kres, 8k res, high details, detailed and intricate, intricate details, high intricate details, absurd amount of details, ((upper body:1.2)), portrait,

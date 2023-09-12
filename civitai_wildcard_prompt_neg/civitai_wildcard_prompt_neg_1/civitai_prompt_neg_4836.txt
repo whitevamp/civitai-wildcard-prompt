@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.4), monochrome, watermark, username, patreon username, patreon logo, (ng_deepnegative_v1_75t, verybadimagenegative_v1.3, bad-picture:1), blurry, disembodied limb, out of focus, anime, fluids, cartoon, cg, render,

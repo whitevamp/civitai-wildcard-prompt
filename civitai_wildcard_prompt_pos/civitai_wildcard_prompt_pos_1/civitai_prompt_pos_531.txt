@@ -1,0 +1,3 @@
+[32k|16k|best-quality], professional photo, EdobDinosaurs, <lora:EdobDinosaurs_v1.0:1>,
+mating press, ass, penis  <lora:mating_press_v0.3:1>
+Potatoes, lettuce, milk, etc. Messy, dangerous dishes <lora:Mukbang:0.2> <lora:dieselpunk:0.3>

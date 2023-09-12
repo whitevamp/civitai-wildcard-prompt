@@ -1,1 +1,0 @@
-shukezouma, negative space, , shuimobysim , <lora:shukezouma_v1_1:0.8>,a branch of flower, traditional chinese ink painting, <lora:shuimobysimV3:0.7>,

@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), [bad-picture-chill-75v:bad-picture-chill-32v:0.5], (bad_prompt_version2-neg:0.75), ((render by bad-artist:0.5)), 3D, realistic, badhandsv5-neg:0.8, bad anatomy, ng_deepnegative_v1_75t, EasyNegativeV2, verybadimagenegative_v1.3, bad_pictures:0.8, forest background, dragon, dragonhead, deformation, mutation, monkey feet, missing hands, green, human

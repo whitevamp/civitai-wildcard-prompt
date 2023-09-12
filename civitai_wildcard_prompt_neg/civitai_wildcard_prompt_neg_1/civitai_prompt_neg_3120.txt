@@ -1,0 +1,1 @@
+EasyNegative,(building:1.2),(architecture:1.2),NSFW,blurry,lowres, bad anatomy,text, error,(extra digit, fewer digits:1.3), cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name,(flowers:0.7)

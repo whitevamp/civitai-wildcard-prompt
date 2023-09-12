@@ -1,0 +1,1 @@
+dog, CyberRealistic_Negative-neg, (bad-hands-5:1.2), (anime, digital art:1.1), painting, sketch, 3D render, worst quality, low quality, lowres, blurry, monochrome, grayscale, b&w

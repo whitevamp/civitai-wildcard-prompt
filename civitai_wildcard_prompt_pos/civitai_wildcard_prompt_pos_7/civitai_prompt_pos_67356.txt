@@ -1,0 +1,4 @@
+A theme park featuring ((rides made of pineapple_pizza)), ferris wheel, Gravitron, carousel.
+smooth shapes, art deco, reflective chrome, gold glow, pizza, pizza crust, pizza sauce, melted cheese, tropical, neon signs.
+highres, high resolution, detailed, spotlights, cinematic, hdr.
+<lora:LowRA:0.1> <lora:add_detail:0.5> <lora:wrong_pizza:0.9>

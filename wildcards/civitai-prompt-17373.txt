@@ -1,3 +1,0 @@
-(masterpiece, best quality), intricate details,
-1girl,  
- <lora:ishtartest:0.8> ishtar, ahoge, black bow, bow, black hair, earrings, hair bow, hair ornament, jewelry, long hair, (red eyes:1.5), (small breast:1.2), BREAK lingerie, BREAK indoors, bed, BREAK looking at viewer,

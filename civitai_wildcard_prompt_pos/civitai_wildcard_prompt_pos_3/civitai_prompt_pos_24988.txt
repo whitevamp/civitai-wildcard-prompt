@@ -1,0 +1,3 @@
+masterpiece, 
+1girl, 
+sip ramen, <lora:vomcum:0.7>

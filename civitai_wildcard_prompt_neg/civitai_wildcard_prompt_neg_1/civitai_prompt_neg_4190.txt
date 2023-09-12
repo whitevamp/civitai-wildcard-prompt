@@ -1,0 +1,2 @@
+(easynegative:1.0),(bad-hands-5:1.0),(realisticvision-negative-embedding:1.0),
+ControlNet 0: "preprocessor: tile_resample, model: control_v11f1e_sd15_tile [a371b31b], weight: 1, starting/ending: (0, 1), resize mode: Crop and Resize, pixel perfect: True, control mode: Balanced, preprocessor params: (64, 2.01, 64)"

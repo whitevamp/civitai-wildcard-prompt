@@ -1,0 +1,5 @@
+epic cinematic illustration of brave soldier with ak74 rifle, bright contrast poster text  in center
+<lora:soldart2-000007:0.7>
+<lora:ak3:0.7>
+artstation, hyper details, lighting art, insane details, intricate details, hyperdetailed,
+by greg tocchini, by james gilleard, by joe fenton, by kaethe butcher, by dan mumford, uhd, extremely detailed CG unity wallpaper, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, by Jean-Baptiste Monge, Gilles Beloeil, Tyler Edlin, Marek Okon, Pixar, 8k, album art, golden ratio, perfect composition, a masterpiece, modelshoot style, hasselblad award winner, NKVD style, cinematic lighting, ambient soft lighting, dramatic lighting, diffused soft lighting, cgsociety art, DeviantArt trending, 8k HD, masterpiece, high quality, sharp focus, by midjourney

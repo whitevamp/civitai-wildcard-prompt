@@ -1,0 +1,2 @@
+masterpiece, best quality, 1girl, neferpitou, short hair, (red eyes:1.5), animal ears, tail, white hair, cat ears, cat tail, curly hair, (small breast:1.2), long sleeves, shorts, eyes everywhere
+ <lora:neferpitou:1>  <lora:eyes everywhere:1>

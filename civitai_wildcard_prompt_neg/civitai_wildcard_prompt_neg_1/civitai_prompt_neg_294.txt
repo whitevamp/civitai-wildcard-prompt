@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), monochrome, (text:2.0), (watermark:2.0), sketch, duplicate, bad-artist-anime, NP_negative, EasyNegative, (blurry:1.7)

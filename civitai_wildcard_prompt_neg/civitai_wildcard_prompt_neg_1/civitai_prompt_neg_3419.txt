@@ -1,0 +1,1 @@
+EasyNegative, Bad-Hands-3, (Low Quality, Worst Quality, Lowres:1.4), (Blurry, Blurry Background, Depth of Field, Bokeh, DOF, Fog, Bloom:1.4), (Blush:1.5),

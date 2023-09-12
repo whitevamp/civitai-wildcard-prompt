@@ -1,0 +1,1 @@
+EasyNegative, bhands-neg, ((pet cat animal)), extra hands, missing fingers

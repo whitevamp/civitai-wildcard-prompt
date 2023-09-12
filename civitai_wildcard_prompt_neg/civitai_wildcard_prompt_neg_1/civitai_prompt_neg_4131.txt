@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t ,badhandv4, easynegative,blouse,mask,helmet,shirt

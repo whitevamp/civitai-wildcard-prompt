@@ -1,0 +1,1 @@
+The neural network has created a unique design that looks like a flower made of crystals that changes color depending on the viewing angle, high detail, intricate, bioluminescent illumination, glow effects <lora:RossDraw_Style:1>

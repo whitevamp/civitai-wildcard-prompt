@@ -1,0 +1,4 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,best quality, ultra high res, professional lighting, photon mapping, radiosity, physically-based rendering, cinematic lighting, clear sky,
+basketball court,depth of field, sharp focus,sunbeam, good composition,(bokeh:1.2)
+1girl,solo,(full body), (closed mouth),beautiful detailed eyes, pose, narrow waist, tennis dress, tennis skirt, tennis uniform,
+black hair,messy hair,long hair floating in wind,(ulzzang-6500:1.2), pantyshot, (raining, see-through, wet shirt, wet hair, wet clothes:1.2),

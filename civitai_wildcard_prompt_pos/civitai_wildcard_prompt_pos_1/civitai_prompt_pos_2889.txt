@@ -1,0 +1,11 @@
+seed: 3427747994
+Model: wN_dreamshaper_8
+steps: 40
+sampler: DPM++ 2M Karras
+cfgScale: 10
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'haigure_pose_v2', 'type': 'lora', 'weight': 1.2}, {'name': 'add_detail', 'type': 'lora', 'weight': 0.7}, {'name': 'epi_noiseoffset2', 'type': 'lora', 'weight': 0.2}, {'name': 'LowRA', 'type': 'lora', 'weight': 0.1}, {'name': 'cumshot_49', 'type': 'lora', 'weight': 0.3}, {'name': 'add_sharpness', 'type': 'lora', 'weight': 1.5}, {'name': 'add_brightness', 'type': 'lora', 'weight': 0.5}, {'name': 'innievag', 'type': 'lora', 'weight': 0.3}, {'name': 'Milf', 'type': 'lora', 'weight': 0.4}, {'name': '40D_vertical_stripe_white_pantyhose', 'type': 'lora', 'weight': 0.6}, {'name': 'breastinclassBetter', 'type': 'lora', 'weight': 0.1}, {'name': 'ChineseDollLikenessV3.0', 'type': 'lora', 'weight': 0.1}, {'name': 'koreanDollLikeness', 'type': 'lora', 'weight': 0.1}, {'hash': '879db523c3', 'name': 'w\x1fN_dreamshaper_8', 'type': 'model'}]
+Denoising strength: 0.2
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

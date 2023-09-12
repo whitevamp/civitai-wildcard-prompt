@@ -1,0 +1,1 @@
+(Worst Quality, Low Quality:1.4), censor, bad proportions, too many digits, too few digits, melting, error, (bad_prompt_version2:0.4), (easynegative:0.7), (zombie:1.2), extra limbs, (monochrome:1.4), (greyscale:1.4),

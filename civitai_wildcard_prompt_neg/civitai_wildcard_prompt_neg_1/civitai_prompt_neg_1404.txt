@@ -1,0 +1,2 @@
+easynegative, ng_deepnegative_v1_75t, badhandv4, 1boy, 2girls,
+bad anatomy, extra arms, extra fingers, fewer fingers, missing fingers, extra legs, extra limbs, missing arms, missing legs,

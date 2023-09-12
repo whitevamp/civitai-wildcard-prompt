@@ -1,4 +1,0 @@
-1girl,solo,
-official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,
-Kitsune witch, fox mask, haori jacket, foxfire spell, fox familiar, transformation,depth of field,
- <lora:ShinyOiledSkin_v20-LyCORIS:0.3>

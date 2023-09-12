@@ -1,0 +1,1 @@
+absurdres, highres, best quality, <lora:nooseportal:1> noose portal,  <lora:shrekDiffusionLora_swamp10:1>  shrk, facing viewer, bedroom,

@@ -1,0 +1,5 @@
+sci-fi fantasy, (full size:1.3) photorealistic portrait of a beautiful Jedi Knight, big breast, enveloped in an aura of serenity and wisdom as she meditates floating in perfect harmony, in (lotus position:1.2), wearing pristine Jedi robes, woven from flowing, ivory fabric drape around her like a celestial veil, (clothes falling down leaving her breast exposed:1.4), topless, raven-black hair, side_buns_hairstyle, inside the jedi temple, (in the background the walls of the Jedi Temple stand tall behind her), (eyes closed, serene face:1.2), prefect hands, perfect feets, detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering, star wars,
+(masterpiece, best quality, high quality), hyperdetailed, highres, intricate, HDR, 8k, detailed background, cinematic still, cinematic lighting, dynamic pose, dramatic,
+<lora:add_detail:0.5>
+<lora:star_wars_offset:0.6>
+<lora:side_buns_hairstyle:0.2>

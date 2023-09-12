@@ -1,1 +1,0 @@
-humpback, cloud,(building), sky, moon, star (sky), scenery, no humans, starry sky, night, fish, night sky, full moon, cloudy sky, outdoors, fantasy<lora:humpback-pynoise:0.8>

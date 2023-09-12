@@ -1,3 +1,0 @@
-Best quality,masterpiece,ultra high res,(photorealistic:1.4),raw photo,cinematic lighting,,night,(upper body:1.2), (close-up:1.2), 
-moon,night sky,a huge lake,A girl stands in the middle of the lake,,(white hair:1.1),long hair,(light greenredblueyellowpurple long skirt,birdsflowersleaf print:1.2),(looking at viewer:1.1),large breasts,
-<lora:DW:0.6>,,<lora:LAS:0.5>,<lora:Ma-Mian_skirt:0.7:CLOTHING>, <lora:daili_v20:0.65:FACE>

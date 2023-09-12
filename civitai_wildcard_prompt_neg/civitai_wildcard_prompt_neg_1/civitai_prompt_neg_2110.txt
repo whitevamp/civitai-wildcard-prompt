@@ -1,0 +1,1 @@
+(grain, blurry), (double frame, cropped, out of frame), (low quality), (worst quality), (normal quality), (3D render, cartoon), (watermark, text, logo)

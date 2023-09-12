@@ -1,1 +1,0 @@
-flaming spheres of kvoid energy fill the air crackling with power,wuxia,female,robot cyborg mech fighter,wmma, wearing sports bra fingerless gloves (mechaarmor:1.2), martial arts,(V0id3nergy:1.4),fcPortrait <lora:NijiExpressV2:0.2> <lora:wmma-fC-v1:0.9>  <lora:wuxia2:0.6> <lora:add_detail:0.3>  <lora:kVoidEnergy:0.8> <lora:mechaarmor_v0.7:0.7>

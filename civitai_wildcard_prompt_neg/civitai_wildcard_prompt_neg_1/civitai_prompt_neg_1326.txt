@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, ((bad-hands-5)), blush, (worst quality:2), (low quality:2), (normal quality:2), lowres,spots on skin, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)), watermark,deformed feet, bottom text, Asian-Less-Neg, BadNegAnatomyV1-neg

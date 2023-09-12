@@ -1,0 +1,2 @@
+ng_deepnegative_v1_75t,(worst quality:1.6), (low quality:1.6), lowres, torn clothes, EasyNegative,(dark circles:1.2)
+ badhandv4, strabismus, crossed eyes,  large head, large face,

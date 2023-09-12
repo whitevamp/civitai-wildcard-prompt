@@ -1,5 +1,0 @@
-<lora:naeun_V10:1>, nikon RAW photo,8 k,Fujifilm XT3,close up photo,masterpiece, best quality, 1girl,solo,realistic, photorealistic,ultra detailed,
-
-smiling, slender figure, performing on stage, black latex dress, short dress, wrinkled dress, singing into microphone, small breasts,
-
-naeun1,  <lora:nrealfixer:0.5>,  <lora:lightAndShadow_v10:.6>,<lora:epiNoiseoffset_v2:1.0>

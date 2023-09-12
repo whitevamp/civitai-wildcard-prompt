@@ -1,0 +1,2 @@
+Rembrandt, 3DMM, table ,[32k|16k|best-quality], professional photo, (centered-in-frame:1.2) , [[[closeup]]] (old woman, ugly:1.6) Wear cool clothes, wear a mobile phone, wear sunglasses, grab, hold, mobile iphone, cellphone <lora:3DMM_V12:1>
+<lora:iphone:0.4> <lora:DealWithIt:0.2> <lora:cuddling_handjob_v0.1b:1>Then cuddling handjob ,1girl, cuddling handjob, pov, 1boy, penis,

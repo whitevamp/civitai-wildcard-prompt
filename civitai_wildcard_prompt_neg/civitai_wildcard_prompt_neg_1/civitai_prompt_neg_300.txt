@@ -1,0 +1,1 @@
+(worst quality, low quality:1.3), mole under eye, mole, logo, watermark, text, bad anatomy, missing limbs, missing toes, missing fingers, extra digits,, (low quality, worst quality:1.4),(bad_prompt:0.8), (monochrome:1.1), username, watermark, signature, text, bad anatomy,

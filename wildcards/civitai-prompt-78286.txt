@@ -1,5 +1,0 @@
-(masterpiece, best quality, intricate details, chromatic aberration), (realistic),(skin),( long legs:1.2),no panties,no bra,
-, ((intricate detailed)), ((Hyperrealistic)), absurd res, milf,  perspective, highly detailed, illustration, big breasts, perfect hands, detailed fingers, beautiful detailed eyes, long hair, brown eyes, nametag, neck collar, earrings, detailed background, perfect eyes, seductive eyes, 
-<lora:odanon-lora-v1-128dim-4ep-novae:0.2> ,<lora:add_detail:1>, (1 gorgeou beautiful 30 age years old sexy korean women:1.1),(kpop idol, korean mixed),(1girl:1.6), <lora:hipoly3DModelLora_v10:0.2>,
-(toilet,urinal, public use,:1.3)  nude, spread legs, cum, (tied with red rope:1.5),(empty eyes), (body writing,writing count:1.5), bukkake, pussy, tears, cumdrip, collar, cum on breasts, cum on hair, facial,object insertion, <lora:toiletGirl:2>,
-torn pantyhose,pantyhose, <lora:tornpantyhose new1:0.7>

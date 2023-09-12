@@ -1,1 +1,0 @@
-photo of 1shiba, shiba, centred, <lora:shiba_v1:0.8>,  in the BATH, bubble bath, lots of bubbles, high quality photograph, bokeh, gobo light, rim light, volumetric light, shallow depth of field, analog, kodachrome, slight smile,  <lora:Bath:0.75>, no human

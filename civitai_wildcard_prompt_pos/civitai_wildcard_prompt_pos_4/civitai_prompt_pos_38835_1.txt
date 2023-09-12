@@ -1,0 +1,6 @@
+best quality, intricate details,
+
+
+1girl,  <lora:himikoToga_v10:0.8> TogaHimiko, 
+
+ <lora:oldSketchStyle_v1:0.8> sketch, paper, hand drawn, pencil sketch,

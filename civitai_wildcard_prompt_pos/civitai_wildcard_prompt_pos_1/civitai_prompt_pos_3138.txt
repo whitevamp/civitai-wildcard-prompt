@@ -1,0 +1,3 @@
+thick woman, walking in a park, jumpsuit, belt, long brown hair, jewelry,
+th3p1t, best quality, detailed
+<lora:th3p1t_v3:.8>

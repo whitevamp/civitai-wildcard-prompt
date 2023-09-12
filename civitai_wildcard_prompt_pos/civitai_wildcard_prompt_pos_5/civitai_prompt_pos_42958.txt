@@ -1,0 +1,3 @@
+best quality, intricate details,
+1girl, <lora:sennaLeagueOfLegends_v10:0.8> senna \(league of legends\), 1girl, dark-skinned female, dreadlocks,, green eyes, solo, detailed face, ultra detailed eyes,
+ <lora:wojakStyleLora_v10:0.8> wojak,

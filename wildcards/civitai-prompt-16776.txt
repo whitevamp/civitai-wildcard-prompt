@@ -1,1 +1,0 @@
-masterpiece, raw photo, film photo, 90s flash photo, 1girl, beautiful girl, sin front of camera, best quality, <lora:Renhang_20230622161247:0.85>, <lora:Renhang_1-000014:1:1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1>, model, in the bed

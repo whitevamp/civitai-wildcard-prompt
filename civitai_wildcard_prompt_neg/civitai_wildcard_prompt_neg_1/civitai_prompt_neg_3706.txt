@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.2), signature, watermark, username,(nsfw:1.2),(nipples:1.2)

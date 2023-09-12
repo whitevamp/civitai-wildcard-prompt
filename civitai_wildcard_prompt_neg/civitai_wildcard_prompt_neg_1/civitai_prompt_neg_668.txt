@@ -1,0 +1,10 @@
+paintings, sketches, anime, (worst quality:2), (low quality:2), (normal quality:2), low res, ((monochrome)), ((grayscale)),
+((watermark, username:1.5)), white letters, text, logo, jpeg artifacts,
+(((looking at viewer, facing the viewer))), (((more than 2girls))), ((((clothes, attire, garment))),
+bad anatomy, skin spots, acnes, skin blemishes, age spot, glans, extra limbs, moles, disembodied limb, multiple limbs, extra bodies,
+acnes, freckles, oversized head, worst face, ugly face, deformed face,
+extra hands, bad hands, liquid hands, inverted hands, bad and mutated hands,
+bad arm, distorted arm, detached arm, extra arms, fused arms,
+extra fingers, fewer fingers, strange fingers, deformed fingers, long fingers, too many fingers, fused fingers, missing fingers, interlocked fingers, ugly fingers,
+bad legs, deformed legs, extra legs, missing leg, disembodied leg,
+easynegative, (negative_hand-neg, bad-hands-5), ng_deepnegative_v1_75t,  BadNegAnatomyV1-neg, (verybadimagenegative_v1.3, bad_pictures), bad_prompt_version2-neg

@@ -1,0 +1,1 @@
+feet, (ugly, ugly face, average face, imperfect complexion:1.3), (asian:1.1), (african:1.1), (hispanic:1.1), BadDream, (FastNegativeV2:0.75), (extreme close up, ecu, full face shot:1.2), (long shot, full shot:1.2), (clothing:1.3), prone

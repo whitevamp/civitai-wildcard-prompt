@@ -1,0 +1,1 @@
+easynegative, (looking away), bad eye, deformed,  ng_deepnegative_v1_75t, bad-hands-5, (bad hands:2.0), blurry, worst quality, doggystyle

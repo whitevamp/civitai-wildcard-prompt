@@ -1,0 +1,1 @@
+(worst quality:1.25), (low quality:1.25), (lowres:1.1), (monochrome:1.1), (greyscale), multiple views, comic, sketch, (blurry:1.05),

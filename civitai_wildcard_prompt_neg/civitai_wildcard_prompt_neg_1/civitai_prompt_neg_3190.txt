@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (logo, text, watermask, username), NG_DeepNegative_V1_75T,  (bad-hands-5, bad-artist:1.2)

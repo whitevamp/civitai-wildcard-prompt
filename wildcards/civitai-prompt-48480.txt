@@ -1,1 +1,0 @@
-priapus, [black|green|black] hair, short hair, green eyes, stubble, tattoo, sportswear, sweat, see-through shirt, solo, muscular male, <lora:Nlo_Priapus_v1:1>

@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (depth of field, blurry:1.2),3D face, nose, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, Reference sheet,, EasyNegative,extra hands,

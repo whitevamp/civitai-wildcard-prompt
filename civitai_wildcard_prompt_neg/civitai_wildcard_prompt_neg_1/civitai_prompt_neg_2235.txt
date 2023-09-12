@@ -1,0 +1,1 @@
+(hands, 2girls:1.5), paintings, ( :0.8), (monochrome:1.1), (greyscale), (worst quality:2), (low quality:2), (normal quality:2), instarealneg_v0.1-neg ,((cum on body)), EasyNegativeV2

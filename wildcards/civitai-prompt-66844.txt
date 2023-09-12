@@ -1,1 +1,0 @@
-(masterpiece:1.4), photorealistic, best quality, beautiful lighting, real life, 1girl, natural makeup, ultra detailed face, ultra detailed eyes, intricate, high detail, sharp focus, dramatic, beautiful girl, (RAW photo, 8k uhd, film grain), caustics, subsurface scattering, reflections, <lora:add_detail:1.2> <lora:japaneseDollLikeness_v10:0.20>

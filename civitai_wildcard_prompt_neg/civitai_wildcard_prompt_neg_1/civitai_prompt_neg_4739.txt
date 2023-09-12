@@ -1,0 +1,1 @@
+EasyNegative,ng_deepnegative_v1_75t,badhandv4,paintings,Cartoon,sketches,lowres,bad anatomy,cropped,((worst quality:2)),((low quality:2)),((normal quality:2)),(blurry:1.3),bad feet,bad hands,Multiple fingers,Multiple Toes,missing fingers,missing Toes,

@@ -1,0 +1,1 @@
+ (worst quality, low quality:1.4), (depth of field, blurry:1.2),(worst quality, low quality:1.4), (depth of field, blurry:1.2),artifacts, signature, watermark, username, blurry, artist name,trademark, watermark, title, multiple view, Reference sheet,, EasyNegative, extra fingers,fewer fingers, hands, depth of field, blurry, large breasts, (holding),mosaic, censored, bar_censor

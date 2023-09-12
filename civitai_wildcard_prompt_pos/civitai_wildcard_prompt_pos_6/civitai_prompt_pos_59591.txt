@@ -1,0 +1,2 @@
+Photo of a woman in a city street, inside a car, skinny, tight dress, (cinematic look:1.4), soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, blurry, (dim colors:0.6), hdr, raw, slate gray atmosphere, blue eyes, red lips, smiling, (raining outside:1.2), wet glass
+<lora:Blade Runner 1982:0.8>

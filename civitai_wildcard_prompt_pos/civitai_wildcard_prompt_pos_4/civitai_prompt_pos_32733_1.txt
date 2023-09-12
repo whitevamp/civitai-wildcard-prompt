@@ -1,0 +1,20 @@
+(masterpiece:1.4), (extremely delicate), (ultra realistic:1.3), (realistic:1.2), (award-winning photography), (a professional full body photo),
+(photorealistic:1.4), 8k, 8k uhd, HDR, 8k resolution, RAW photo, best quality, high quality, ultra detailed, finely detail, beautiful detailed, dslr, (ultra highres:1.4), (instagram most viewed:1.3), trending on CGSociety,
+(looking at viewer:1.4), (facing camera:1.4), (full body shot:1.2, straight-on:1.2),
+(absurdres:1.2, film grain:1.2, Fujifilm XT3, Kodak portra 400, bokeh:1.2, dramatic shadows, vibrant color:1.2, professional lighting, studio lighting, cinematic lighting, photon mapping, radiosity, physically-based rendering, depth of field, highly detailed background, intricate background, beautiful background, complex background, blurry background),
+
+(mature female), (twbabe7, twbabe6, twbabe5, twbabe4, twbabe3, twbabe2, twbabe1),
+abs, (perfect body:1.4), (curvy body:1.1), (skinny body:1.2), (tall body:1.1), (goutou:1.3),
+(attractive:1.4), (seductive:1.3), (alluring:1.2), (supermodel:1.3), (superstar:1.2), (model posing:1.3), (kpop idol:1.4), (beautiful woman:1.3),
+(high detailed skin:1.2), real skin texture, (shiny skin:1.1), (skin pores:1.3),
+(standing on one leg:1.2),
+
+(make up:1.4), (beautiful face, detailed face:1.4), (detailed stunning innocent symmetry face), (thin face:1.3), puffy nipples, (abs:1.2), (hair ornament,necklace, jewelry),
+
+(beautiful legs, tall female, skinny, slim_legs, thigh_gap),
+garterbelt, black fabric, fabric straps,red floral embroidery, multiple iron chains attached to rings, woman wearing a black leather garterbelt and multiple leather straps, multiple iron chains attached to rings, multiple ribbons,
+
+
+(indoors), (modern bar interior), 
+
+ <lora:betterLegwearsLora_offset20:0.2> <lora:garterBelts_v11:0.65> <lora:odaNonStyle_v10:0.6>

@@ -1,0 +1,1 @@
+(worst quality:2), (low quality:2), ((watermark:2)), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ng_deepnegative_v1_75t, badhandv4

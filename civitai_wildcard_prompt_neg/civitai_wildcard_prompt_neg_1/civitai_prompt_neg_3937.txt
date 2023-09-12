@@ -1,0 +1,1 @@
+easynegative,ng_deepnegative_v1_75t,((monochrome)),((grayscale)),bad-picture-chill-75v,

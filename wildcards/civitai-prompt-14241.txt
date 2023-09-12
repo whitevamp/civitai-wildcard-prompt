@@ -1,1 +1,0 @@
-tusuncab, tusun anthropomorphic,suit,big muscle,dramatic lighting, <lora:TUSUN:0.7:FACE>

@@ -1,0 +1,4 @@
+woman, face portrait, blonde, blue eyes, choker, necklace, 
+best quality, detailed,
+<lora:th3p1t_v2:0.7>
+<lora:b1mb0_v2:0.7>

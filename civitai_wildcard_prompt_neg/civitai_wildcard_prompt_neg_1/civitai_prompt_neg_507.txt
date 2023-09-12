@@ -1,0 +1,1 @@
+(ng_deepnegative_v1_75t),(badhandv4:1.5),(nsfw),(worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)), watermark, bad-picture-chill-75v realisticvision-negative-embedding FastNegativeEmbedding

@@ -1,0 +1,8 @@
+tiger, model, toy, miniature, figurine,
+worst quality, bad quality, bad anatomy, lowres, low resolution,
+easynegative, Unspeakable_Horrors_Composition_4v, Asian_Less_neg,
+poorly drawn, amateur drawing, jpeg artifacts, compression,
+text, website, watermark, logo, brand, signature, artist name,
+bad hands, extra limbs, extra fingers, disfigured, clones, twins,
+piercings, rings, pokies, lantern,
+blurry eyes, bad eyes, glassy eyes,

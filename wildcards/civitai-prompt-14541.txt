@@ -1,2 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (ultra detailed), (photorealistic:1.2), 1girl, cowboy shot, medium breasts, showing cleavage, silver necklace, long hair, black hair, white dress, strong wind, white sandals, <lora:skirt_tug_v0.1:1.2>, dress tug, wind lift, wind, straw hat,
-standing, on the grass, mountain, river valley, blue sky,

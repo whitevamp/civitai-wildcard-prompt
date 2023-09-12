@@ -1,7 +1,0 @@
-absurdres, intricate details, masterpiece, best quality, ultra high res, 8k, (from below),
-1boy, blue and white tight sportswear, white socks, (wet clothes, torn clothes:1.2), 
-manly, mature male, (aged up), looking at viewer, sweat, large penis, foot focus, (peeing self, peeing on viewer, peeing:1.2),
-(muscular, abs, big pectoralis:1.2), shiny skin, bare pectorals, large areolae,
-detailed face, naughty face, pink eyes, eye reflection, (silver short hair:1.3), shiny blue necklace,
-forest, mountain, lake, (flower, grass:1.2), butterfly, soft rim light,
-<lora:cute boys3:0.6> <lora:handsomeMan_v10:0.4> <lora:epi_noiseoffset2:1>

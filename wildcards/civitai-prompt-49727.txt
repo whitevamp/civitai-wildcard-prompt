@@ -1,7 +1,0 @@
-photo of a standing 30yo Caucasian woman inside a small bookshop,
-seethru classic intricate shirt, unbuttoned collar, jewelry, skirt,
-detailed skin, skin pores, (freckles:0.6), (moles:0.5), (pigmentation:0.5),
-ambient warm light,
-high quality photo, 4k resolution, perfect photo was taken with a Sony dslr camera,
-Style-Empire,
- <lora:seethru_v10:0.8>

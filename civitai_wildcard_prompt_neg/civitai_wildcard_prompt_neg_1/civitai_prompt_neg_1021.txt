@@ -1,0 +1,1 @@
+(worst quality, low quality:2), badhandv4, easynegative, negative_hand-neg, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, jeans,

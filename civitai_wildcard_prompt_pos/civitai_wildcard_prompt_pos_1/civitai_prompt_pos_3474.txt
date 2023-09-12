@@ -1,0 +1,1 @@
+emoji face, agonymouth,  <lora:lmfaoEmojiFace_cookedlmaoji:1>, anime, ayanamirei, portrait,  <lora:reiAyanamiEvangelion_v6FullRelease:1>, plugsuit

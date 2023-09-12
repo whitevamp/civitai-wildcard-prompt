@@ -1,0 +1,1 @@
+(worst quality, low quality, NSFW:2), ng_deepnegative_v1_75t,easynegative

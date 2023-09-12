@@ -1,6 +1,0 @@
-(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece, extremely delicate and beautiful, extremely detailed, 8k, Amazing, finely detail, ultra-detailed, highres, absurdres,
-1girl, young, mature female, mature face, intricate details, shiny skin, soft light, best illumination, High contrast, caustics, beautiful detailed glow, centered,
-(white hair:1.3), long hair, wavy hair, bangs, beautiful detailed girl, detailed fingers, detailed eyes and face, detailed nose, detailed eyes, detailed lips, detailed hair, (smile, bright smile), looking at viewer, makeup, red lips,
-standing, dynamic pose, from front, (small breasts:0.5), realistic face, realistic body, detailed thigh, detailed legs, detailed feet, detailed knee, detailed fingers, (ulzzang-6500-v1.1:0.8),
-(hot super tight dress), (trendy hairstyles, hair accessories, earrings, necklaces, bracelets, tatoos), holding a LV bag, (wearing sexual fantasies, sexy, revealing, avant-garde, trendy clothes and dresses),
-elegantly sitting in a cafe by the river drinking coffee, watching the night view, river view, <lora:yurisaLora_v40:0.6>,

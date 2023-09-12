@@ -1,3 +1,0 @@
-nsfw, (masterpiece, best quality, high quality, highres, ultra-detailed), photographic, 4k, cowboy shot, 
-1girl, ice green eyes, white hair, closed mouth, cinematic lighting, periwinkle color armor, edgHalo_armor, power armor, wearing edgHalo_armor, no headwear, 
-<lora:hairdetailer:0.2>, Asian-Less-Toon, <lora:edgHaloArmors:1>, AS-Adult,

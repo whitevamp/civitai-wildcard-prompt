@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, bad anatomy, bad_prompt_version2, easynegative

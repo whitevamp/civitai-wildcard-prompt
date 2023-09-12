@@ -1,0 +1,5 @@
+EasyNegative, Bad-Hands-3, Realistic, Realism, (Low Quality, Worst Quality, Lowres:1.4), (Blurry, Blurry Background, Depth of Field, Bokeh, DOF, Fog, Bloom:1.4), (Blush:1.5),
+(Swimsuit, Cape, Wings, Holding, Tight, Skin Tight, Impossible Clothes:1.4),
+Long Hair, (White Hair:1.4), (Purple Hair:1.2), Very Long Hair, Floating Hair, Messy Hair, Straight Hair, 
+(Big Eyes, Purple Eyes:1.2), Looking at Viewer, 
+Smile, ", DDetailer neg prompt: "EasyNegative, Bad-Hands-3, Realistic, Realism, (Low Quality, Worst Quality, Lowres:1.4), (Blurry, Blurry Background, Depth of Field, Bokeh, DOF, Fog, Bloom:1.4), (Blush:1.5),", DDetailer model a: bbox\mmdet_anime-face_yolov3.pth [51e1af4a], DDetailer conf a: 30, DDetailer dilation a: 4, DDetailer offset x a: 0, DDetailer offset y a: 0, DDetailer preprocess b: False, DDetailer bitwise: None, DDetailer model b: None, DDetailer conf b: 30, DDetailer dilation b: 4, DDetailer offset x b: 0, DDetailer offset y b: 0, DDetailer mask blur: 4, DDetailer denoising: 0.3, DDetailer inpaint full: True, DDetailer inpaint padding: 32, DDetailer cfg: 7, Hires upscale: 2, Hires steps: 10, Hires upscaler: 4x_fatal_Anime_500000_G

@@ -1,0 +1,11 @@
+seed: 811656432
+Model: majicmixRealistic_v25
+steps: 40
+sampler: DPM++ 2M alt Karras
+cfgScale: 7
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'add_detail', 'type': 'lora', 'weight': 0.8}, {'name': 'neg_bdsqlsz_V2', 'type': 'lora', 'weight': 1.2}, {'name': 'v3FilmVelvia3', 'type': 'lora', 'weight': 0.6}, {'name': 'InstantPhotoX3', 'type': 'lora', 'weight': 0.4}, {'hash': 'd7e2ac2f4a', 'name': 'majicmixRealistic_v25', 'type': 'model'}]
+Denoising strength: 0.41
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

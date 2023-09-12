@@ -1,5 +1,0 @@
-masterpiece, best quality, best resolution, girl, perfect anatomy, tight, fantasy, determined, power, fire, flames, intense, wet, sweaty,
-pub background, indoor, holding a can of beer,
-extrovert personality, crazy smile, yellow eyes, blonde hair, long hair, large breasts, small waist, nipples, red horns, two horns, 
-wear pink t-shirt), wearing pink long sleeve t-shirt, t-shirt with the word 76.1 on it, short shorts, shorts,
- <lora:powerChainsawMan_powerChainsawMan:1>,  <lora:shirtliftALORAFor_shirtliftv1:1>

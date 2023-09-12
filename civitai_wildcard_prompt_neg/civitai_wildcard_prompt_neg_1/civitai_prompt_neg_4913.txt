@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), extra fingers, fewer fingers, watermark, EasyNegative, bad_prompt_version2

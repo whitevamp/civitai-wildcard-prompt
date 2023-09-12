@@ -1,0 +1,1 @@
+EasyNegative, jpeg artifacts, fake, watermark, text, logo, username, font, signature, (nsfw), rubbish

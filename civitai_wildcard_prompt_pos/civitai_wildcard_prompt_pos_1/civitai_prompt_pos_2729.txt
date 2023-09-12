@@ -1,0 +1,1 @@
+masterpiece, best quality, (photorealistic:1.4), 1girl, full body shot, a beautiful woman, shirt, (skirt:1.2), (sport uniform:1.3), (no panties:1.3)(skinny, athletic:1.1), (long hair, blonde hair:1.1), detailed face, smiling, red lipstick, big lips, large breasts, cinematic light, (olympics stadium:1.1), <lora:add_detail:0.8>, shirtlift, <lora:shirtliftv3:1>

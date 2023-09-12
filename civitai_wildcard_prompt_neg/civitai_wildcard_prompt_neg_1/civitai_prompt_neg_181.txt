@@ -1,0 +1,1 @@
+(blurred:1.1), low-res, medium-res, low-quality, cropped, watermark, (text:0.5), stock-photo

@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), extra fingers, fewer fingers, bad-hands-5, by bad-artist, (bad eyes:1.2), (misfigured pupils:1.2), (bad clothing:1.3), (undetailed clothing:1.3), (nonsensical backrounds:1.2), (bad backrounds:1.2), (bad shadows:1.2), (bad anatomy:1.2), (monochrome, monochromatic, monochromic, monochromous colored:1.1)

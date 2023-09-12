@@ -1,0 +1,1 @@
+((black woman, african american:1.6)) (bra, socks, stockings, thing highs:1.6), paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, umbrella,  EasyNegative, ng_deepnegative_v1_75t, verybadimagenegative_v1.3,  bad-hands-5, badhandv4

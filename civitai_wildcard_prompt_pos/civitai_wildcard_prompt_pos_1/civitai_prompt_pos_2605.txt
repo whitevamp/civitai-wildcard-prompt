@@ -1,0 +1,1 @@
+nsfw, best quality, masterpiece, ultra high res, (photorealistic:1.3), dramatic lightning, 8K, raw photo, 1girl, natural skin texture, standing in the kitchen, natural skin texture, dynamic pose, film grain, movie, <lora:ClothingAdjuster3:0.2>, <lora:InstantPhotoX3:0.5>, (closed eyes:0.8), eye look down

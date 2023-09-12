@@ -1,0 +1,1 @@
+putin, (wearing ruined suit:1.4), yamuchapose, lying, on side, closed eyes, intricate details, masterpiece, best quality,  beautiful lighting, ray tracing, physically-based rendering, detailed background, <lora:yamchaPoseMeme_v10:1>,  <lora:putinTheLoser_v1:0.8>

@@ -1,1 +1,0 @@
-photorealistic, turkish van at the beach, <lora:tvanLora32:1>

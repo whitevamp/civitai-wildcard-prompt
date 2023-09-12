@@ -1,1 +1,0 @@
-(nsfw:1.2),(photorealistic,best quality),big breasts, long hair, hair extension, sweaty body, a woman in a loose shirt and skirt ,night city background , pink hair,  sexy pose, torn pantyhose,<lora:torn_pantyhose:0.8>,<lyco:GoodHands-beta2:1.0>

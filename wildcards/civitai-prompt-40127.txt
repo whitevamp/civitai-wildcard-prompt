@@ -1,1 +1,0 @@
-masterpiece, best quality, 1girl, parted lips, blush, makeup, light smile, beautiful face, (masterpiece), underwear, potted plant, television, wallpaper, sunbeam,<lora:more_details:0.6>, <lyco:GPTS4 dreamwave full_478773:0.4>,<lyco:GoodHands-beta2:1>,

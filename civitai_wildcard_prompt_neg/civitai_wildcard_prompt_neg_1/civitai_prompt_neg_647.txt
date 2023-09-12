@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (zombie, sketch, comic), bhands-neg, negative_hand-neg, verybadimagenegative_v1.3, NegfeetV2, bad-artist-anime, BadDream

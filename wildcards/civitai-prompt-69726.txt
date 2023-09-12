@@ -1,5 +1,0 @@
-((masterpiece)),(illustration),(((best quality)),iridescent, high resolution illustration,Amazing,highres,intricate detail, extremely detailed CG unity 8k wallpaper
-((zelda)), small breast, upper_body, naked,
-(delicate cute face), blond long hair, lovestruck,(yellow eyes), NSFW,  cutie smile, nude
- <lora:botw_style_offset:0.8>  <lora:bukkakeLora_v10:0.7>
-beach, moonlight, nigh time

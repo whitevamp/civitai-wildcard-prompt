@@ -1,0 +1,1 @@
+worst quality,low quality,lowres,blurry,simple background,bad anatomy,skin spots,grayscale,monochrome, EasyNegativeV2

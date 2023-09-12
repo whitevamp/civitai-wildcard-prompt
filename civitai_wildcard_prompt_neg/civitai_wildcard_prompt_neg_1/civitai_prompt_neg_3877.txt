@@ -1,0 +1,1 @@
+(worst quality, low quality, normal quality:1.7), (facial asymmetry, deformity, malformed fingers:1.5), paintings, sketches, grayscale, watermark, text, logo

@@ -1,1 +1,0 @@
-solo,ride a motorcycle,forest,night <lora:Xiaorenshu_v20:0.9>,ancient hairstyle,

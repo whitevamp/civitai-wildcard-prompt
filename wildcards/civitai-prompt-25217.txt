@@ -1,4 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 1girl, (1boy:1.2), cowboy shot, short hair, black hair, high ponytail, medium breast, fit and petite body, unbuttoned white blouse, black mini skirt, white stockings, white panty, looking at viewer, grin,
-<lora:Saya-shushing:0.8>, shushing,
-<lora:povSquattingCowgirlLora_pscowgirl:0.75>, squatting cowgirl position, pov,
-white curtain in the back ground, in the hospital

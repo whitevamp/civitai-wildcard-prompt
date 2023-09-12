@@ -1,1 +1,0 @@
-(candid photo:1.3), a beautiful topless artist relaxing in her art studio after painting a big canvas, (sitting upright on a stool:1.1), 19th century Parisian artist, nude portraits in room,, hair in messy bun, ,(color paint on body:1.1), behind the scenes, one human , natural skin texture, sitting upright on stool, hyper-detail, <lora:add_detail:1>

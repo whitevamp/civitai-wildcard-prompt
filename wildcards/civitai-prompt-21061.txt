@@ -1,2 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (photorealistic:1.2), 1girl, cowboy shot, medium breast, white blouse, white skirt, <lora:MS_Real_Tentacle_Lite:0.75>, restrained, tentacle sex, tentacles, arms tied up, grab breasts, at the basement,
- <lora:LowRA:0.55>, dark theme

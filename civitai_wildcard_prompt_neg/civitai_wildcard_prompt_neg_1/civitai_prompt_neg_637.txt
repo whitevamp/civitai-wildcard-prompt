@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (zombie, sketch, interlocked fingers, comic), badhandv4, EasyNegativeV2,  ng_deepnegative_v1_75t, bad-artist, bad-artist-anime, text, caption, negative_hand-neg, (ribs:1.4),pubic hair, (nipples:1.4), (pussy:1.4), (vagina:1.2)

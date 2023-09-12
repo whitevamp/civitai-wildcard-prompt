@@ -1,0 +1,6 @@
+(best quality), (masterpiece),ultra-detailed,
+1boy,
+<lora:Naruto:0.8> uzumaki naruto,long sleeve,
+<lora:Line_LoRA_white:0.9>, emphasis lines,motion lines,(swirling:1.2) ,
+<lora:Kamehameha_V1-10:0.8> kamehameha, charging,energy ball, electricity, aura,
+<lora:LowRa:0.3> ,

@@ -1,0 +1,1 @@
+highres, masterpiece, perfect lighting, night, dark, bloom, cinematic lighting, adult, female, looking at viewer, (RSEEmma:1.5),<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3>, <lora:ShadowHeart:0.8> shadowheart, black hair, braided ponytail, green eyes, circlet, <lora:undressing_panties_v0.1:1> undressing, panty pull, leaning forward, pubic hair,

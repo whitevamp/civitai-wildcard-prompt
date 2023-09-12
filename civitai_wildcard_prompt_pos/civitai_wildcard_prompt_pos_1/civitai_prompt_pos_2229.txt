@@ -1,0 +1,1 @@
+cow, field,( Abduction:1),(cow),(ovni:1) , beam of light,(UFO cow abduction:1.5),starry sky, (night)<lora:crayons_v1_sdxl:1>

@@ -1,0 +1,2 @@
+(masterpiece, top quality, best quality), pixel,pixel art,1girl,tifa,
+<lora:pixel_4:0.5> <lora:tifaMeenow_tifaV2:0.8>

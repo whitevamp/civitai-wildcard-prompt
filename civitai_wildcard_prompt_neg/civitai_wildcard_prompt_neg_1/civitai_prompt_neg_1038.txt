@@ -1,0 +1,1 @@
+(worst quality, low quality:2),(normal quality:1.3),((watermark:1.5)),monochrome,artist name,((character name)),text,bad anatomy,sketch,duplicate,(ng_deepnegative_v1_75t),(negative_hand-neg:1.2),bad_pictures,EasyNegative,

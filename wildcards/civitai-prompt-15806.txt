@@ -1,1 +1,0 @@
-female robot wearing  armor bodysuit,cyberpunk scene, neon lights, (multi color robes:1.2) (cloak:1.2),sinister purple mist,  <lora:EnvyBeautyMix26:0.8> <lyco:Robotaction:0.6> <lora:NijiExpressV2:1>

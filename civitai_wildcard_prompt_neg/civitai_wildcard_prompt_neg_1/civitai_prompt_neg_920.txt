@@ -1,0 +1,1 @@
+easynegative, , (bad-artist:0.7),watermark, paintings, sketches, (worst quality, low quality, normal quality:1.2~1.3), lowres, blurry, text, logo, ((monochrome)), ((grayscale)), pubic hair

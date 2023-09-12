@@ -1,2 +1,0 @@
-Chinese Fairy, blue silk, Details, Complicated, Wave, Rain, rainy, water, happy, smile, outer glow, Seal, frills, hanfu, wide sleeves, big top sleeves, long sleeves, chinese clothes, sash, ribbons
-<lora:hanfu40-beta-3:0.3>, <lora:GuoFeng3.2_Lora_light:0.5>,  guofeng

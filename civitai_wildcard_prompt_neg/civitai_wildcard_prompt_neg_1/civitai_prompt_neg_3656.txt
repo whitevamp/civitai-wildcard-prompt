@@ -1,0 +1,1 @@
+EasyNegative, badhandv4, ( multiple hands, worst quality, low quality:1.4), greyscale, border, artist name, out of frame, (loli, child:1.4), thighhighs, zombie, bad anatomy, badHandsV5, badPromptV2_v10, badImageV10

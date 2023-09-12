@@ -1,0 +1,1 @@
+muscle,musclar,bad-hands-5, bad-picture-chill-75v, bad_prompt_version2, easynegative, ng_deepnegative_v1_75t,

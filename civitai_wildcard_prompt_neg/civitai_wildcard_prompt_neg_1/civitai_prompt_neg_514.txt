@@ -1,0 +1,1 @@
+(low quality:1.2), (worst quality:1.2), 3d, amputation, anatomy, anime, bad anatomy, blurry, bw, cartoon, comic, deformed, disfigured, disgusting, distorted, lowres, multiple views, muscles, muscular, mutated, mutation, poorly drawn, red eyes, sketch, sketches, ugly, watermark, (bad-picture-chill-75v, bad-artist, EasyNegative, bad-image-v2-39000:0.8)

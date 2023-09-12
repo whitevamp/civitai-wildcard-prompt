@@ -1,0 +1,2 @@
+(best quality, masterpiece, intricate details:1.4), realistic, detailed skin, pov, looking at viewer, (airplane interior:1.2), from below, from front, 1 girl, (sitting, (leg raise), spread legs), (korean mixed, kpop idol:1.2), pale skin, fit body, (slender body, super skinny legs, super skinny thigs:1.25), medium breasts, (stewardess uniform, panty, bottomless, cleavage:1.2), pantyhose, hips, (cameltoe:1.2), badges
+ <lora:20d_v10:0.3>

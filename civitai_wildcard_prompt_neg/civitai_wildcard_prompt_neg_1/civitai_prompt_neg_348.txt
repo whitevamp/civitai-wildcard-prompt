@@ -1,0 +1,1 @@
+(badhandv4,negative_hand-neg:1) (worst quality, low quality, normal quality:1.2),bad feet,three legs,loss leg,verybadimagenegative_v1.3, ng_deepnegative_v1_75t, (EasyNegative) watermark,logo,three hands,more than two hands,bad pussy,double pussy,more than one pussy

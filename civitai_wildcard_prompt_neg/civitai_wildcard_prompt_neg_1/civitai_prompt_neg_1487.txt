@@ -1,0 +1,1 @@
+cartoon, painting, illustration, (worst quality, low quality, normal quality:2), multiple arms, bad anatomy, badhandv4, ng_deepnegative_v1_75t

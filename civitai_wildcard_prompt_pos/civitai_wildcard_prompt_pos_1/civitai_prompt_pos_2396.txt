@@ -1,0 +1,4 @@
+b1mb0 woman, face, 
+th3p1t, illustration, best quality, detailed,
+<lora:th3p1t_v2:0.5>
+<lora:b1mb0_v2:0.5>

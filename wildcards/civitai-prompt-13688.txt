@@ -1,2 +1,0 @@
-ph_eriri, 1girl, sawamura spencer eriri, blonde hair, blue eyes, solo, twintails, long hair, hair ribbon, black ribbon, dress, long sleeves, ((red dress)), white shirt, blush, indoss, dutch angle, bangs, shirt, open mouth, window, sidelocks, parted lips, standing, pinafore dress, bow, from side, looking away, upper body, black belt , (finely detailed beautiful eyes: 1.2), <lora:eriri_v1.1_FB:0.6>
-high contrast, (natural skin texture, hyperrealism, soft light, sharp) <lora:MyBreastHelper15:1>

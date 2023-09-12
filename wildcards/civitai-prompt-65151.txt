@@ -1,4 +1,0 @@
-(1girl:1.3),solo,__body-parts__,
-official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,Fantastical Atmosphere, Calming Palette, Tranquil Mood, Soft Shading,
-Miko priestess, charm spell, talisman familiar, shrine maiden duties,
-<lora:oc_v10:0.25> <lora:lowra_v10:0.5>

@@ -1,0 +1,3 @@
+a old woman standing in a field with a hat on her head, outdoors, striped shirt, pants, sky, straw hat, field, day, smile, cloud, standing, jacket, long sleeves, vest,
+beautiful lighting, deep shadow, best quality, masterpiece, ultra highres, photorealistic,
+  <lora:FilmVelvia2:0.7>

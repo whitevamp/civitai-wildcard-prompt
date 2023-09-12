@@ -1,1 +1,0 @@
-makima \(chainsaw man\), ( illustration:1.2), best quality, 1girl , red hair, white polo, tie, skirt, panty pull, pussy, SeeThrough, school, from above, <lora:pantyPullClothesPull_v10:0.8>,  <lora:clothesSeeThrough_v10:0.8>, <lora:makimaChainsawMan_offset:1>,

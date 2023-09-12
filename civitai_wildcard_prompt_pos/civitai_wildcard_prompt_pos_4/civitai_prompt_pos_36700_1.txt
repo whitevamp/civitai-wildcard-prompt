@@ -1,0 +1,5 @@
+masterpiece:1.6, best quality:1.4, real picture:1.2, intricate details:1.2, 1girl, 1boy, penis, anal, pov, soles, petite, from behind, <lora:DDReverseCowgirlWithSoles_ddcowfeetV1:0.75>
+Appearance: young:1.25, green eyes, sharp eyes, small_breasts, slender, skinny, slim
+Clothing: nude, lace bra
+Hair: {long_blonde_hair}, messy_hair, {female_public_hair:1.3}
+Location: indoors, bedroom

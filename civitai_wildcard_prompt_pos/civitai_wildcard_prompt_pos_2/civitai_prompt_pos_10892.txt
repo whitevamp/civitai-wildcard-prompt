@@ -1,0 +1,3 @@
+(masterpiece, best quality),  intricate details,
+1girl,  <lora:ceres_fauna_v2:0.8> hmcf, long hair, antlers, branch, braided bangs, hair flower, cow ears, yellow eyes, large breasts, neck bell, collar, (cow print:1.2), print bikini, print gloves, print legwear, 
+ <lora:edgOrgasm1:0.8> edgOrgasm, face focus, woman with edgOrgasm_face,  eyes closed, mouth open,   <lora:HeadpatPOV:0.8> HeadpatPOV, pov, headpat,

@@ -1,2 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), (extremely detailed face), (ultra detailed), 8k, anime style, cg, pretty face, 1girl, cowboy shot, <lora:ClothesLiftSelfieV1:1>, selfie, clothes lift, black sweater, (white bra:1.1), medium breast, long hair, blonde hair, crystal blue pupils, silver necklace, smile, looking at viewer,
-on the red couch, in the bedroom

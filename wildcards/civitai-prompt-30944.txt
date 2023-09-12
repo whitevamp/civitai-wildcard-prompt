@@ -1,7 +1,0 @@
-1girl, cowgirl outfit, holster, holstered weapon, masterpiece, best quality, highly detailed, <lora:cowgirl_outfit_v0.1a:0.6>,  low_angle_human, <lora:low_angle_human:1>, super low angle, blurry foreground, from below, (lots of poker chips everywhere:1.2)
-BREAK
-midriff, big breasts, (dark skin:1.2), blonde hair, grey eyes,
-BREAK
-Black clothes, black hat, wind blowing, thick thighs, boots
-BREAK
-detailed background, highest detailed, cinematic lighting, dynamic, indoors, bar, saloon, 

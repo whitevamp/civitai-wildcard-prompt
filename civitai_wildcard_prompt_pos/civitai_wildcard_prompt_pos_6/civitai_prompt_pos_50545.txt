@@ -1,0 +1,2 @@
+(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
+(1girl:1.2),   <lora:jasmineV3:0.8> jasmine,  <lora:NOSEHOOK2v1:0.8>

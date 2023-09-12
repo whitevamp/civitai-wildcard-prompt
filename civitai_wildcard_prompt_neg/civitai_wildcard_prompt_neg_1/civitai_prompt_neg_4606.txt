@@ -1,0 +1,8 @@
+worst quality,low quality,lowres,normal quality,bad anatomy,abnormal body,
+(bad hands),(missing fingers),(confused fingers),(wrong feet,
+text,error,cropped, ng_deepnegative_v1_75t
+ intimate portrait composition, (centered image composition),(close up shot:1.6),best quality,f/1. 8, 85mm,
+(28years asian woman), black_hair,(black_eyes:1.2),(bangs),makeup,white_dress,
+(hazy blue_sky_background)
+(bad hands),(missing fingers),(confused fingers),(wrong feet,
+text,error,cropped, ng_deepnegative_v1_75t

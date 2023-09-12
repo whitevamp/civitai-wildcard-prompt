@@ -1,4 +1,0 @@
-4K, RAW photo, best quality, masterpiece, ultra high resolution, (photorealistic:1.4), (1girl, solo), (night:1.7, midnight:1.7), (whole body from far away:1.5, wide_angle:1.5, spacious, extreamely tall ceiling:1.3),
-indoor, bedroom of a private resort, a private resort, bedroom of modern and chic design, (Break all of walls with external vertical glass style), vast amount of open floor space, bed, picture frame, chair, ambient light, shelf floating on walls, books, the mood of serenity and peacefulness, marble \(stone\), bean bag chair, ocean view, carpet,
-sleepwear of sexually suggestive design, sleep dress, bra, thong, nsfw, sitting on chair,
-<lora:add_detail:0.7>,

@@ -1,0 +1,11 @@
+photorealistic,realistic, solo, photorealistic, best quality, ultra high res,
+
+long curly black hair, big blue eyes, cheerful expression, curvy figure,((((red_collar))),sweater
+
+
+beautiful, masterpiece, best quality, extremely detailed face, perfect lighting, solo,1girl,
+
+best quality, ultra high res, photorealistic,
+ultra detailed,
+masterpiece, best quality,
+suzy1, <lora:suzy_V10:0.7>

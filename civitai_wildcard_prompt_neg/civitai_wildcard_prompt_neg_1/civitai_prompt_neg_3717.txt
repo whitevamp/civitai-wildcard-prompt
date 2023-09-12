@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), EasyNegative, badhandv4, watermark, letterbox, text, (gloves, See through, blush:1.2)

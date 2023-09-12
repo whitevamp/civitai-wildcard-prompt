@@ -1,1 +1,0 @@
-(masterpiece, best quality:1.4),(absurdres, highres, ultra detailed:1.2), (1 handsome man:1.4),(using dark magic:1.4),purple magic,playful illustrations, fractal art,imaginative overlays, artistic fusion,fantastical scenes, evocative narratives, striking visuals, upper body,<lora:kVoidEnergy-000001:0.8> ,<lora:LowRA:0.4>

@@ -1,7 +1,0 @@
-accurate anatomy (wide hips, big hips,) (small breasts)
-wearing loose crop top, shorts, ((wearing edgWhaleTail, visible thong straps)), (short hair)
-detailed face, skindentation, (extremely detailed skin, photorealistic)
-detailed skin,1girl, shiny hair, (lips, full lips, extremely detailed lips, sexy lips,)
-pretty, round face woman, beautiful body,
-(standing, model), extremely high detail background, (natural lighting,)
-((masterpiece:1.3), 8k, hi-res, extremely detailed,(sharp focus)),  <lyco:hamichichiB:0.7> <lora:chinaDollLikeness_v10:0.4> <lora:edgWhaleTail1:0.8>

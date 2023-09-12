@@ -1,0 +1,4 @@
+(worst quality:1.7),(low quality:1.6),(normal quality:1.5),lowres,blurry,simple background,jpeg artifacts,bad-artist,bad shadow,compressed image,low pixel,light spot, paintings,sketches,((monochrome)),((grayscale)),noise point,
+bad anatomy,mutated,poorly drawn,out of frame,username,watermark,signature,cropped,error,censored,text,stain,
+bad-image-v2-39000,bad_prompt,bad_prompt_version2,bad-picture-chill-75V,
+EasyNegative,NG_DeepNegative_V1_75T,verybadimagenegative_v1.3

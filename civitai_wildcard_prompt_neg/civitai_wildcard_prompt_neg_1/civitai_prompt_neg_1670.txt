@@ -1,0 +1,3 @@
+(bad-prompt,bad-quality,bad-artist,bad-hands-5,bad-hand-V4,bad-image-v2-39000,highway,road,
+bad-picture-chill-75v:1.4),Easy-Negative,ely-neg-prompt3,ng-deepnegative-V1-75t,borrowed character,
+schizo-neg-prompt,test-neg2,verybadimagenegative-V1.2-6400,negative-hand-neg,umbrella,

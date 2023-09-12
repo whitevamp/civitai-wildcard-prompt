@@ -1,3 +1,0 @@
-(masterpiece, best quality),  intricate details, 8k, artstation, wallpaper, official art, splash art, sharp focus,
-1girl,    <lora:MilimNavaMerge1:0.8> milim nava, pink hair, blue eyes,
-midriff, navel,     <lora:yojiShinkawaStyle_offset:0.8> shinkawa youji,

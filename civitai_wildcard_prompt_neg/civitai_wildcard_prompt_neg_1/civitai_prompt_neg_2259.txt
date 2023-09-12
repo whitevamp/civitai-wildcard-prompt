@@ -1,0 +1,2 @@
+EasyNegative, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, skin spots, acnes, skin blemishes, age spot, glans,extra fingers,
+fewer fingers,strange fingers,((bad hand)),Hand grip,(lean),Extra ears,(Four ears),Strange eyes,((Bare nipple)),nsfw,(three arms),Many hands,(Many arms),((watermarking))

@@ -1,2 +1,0 @@
-<lora:betterCuteAsian03:0.3>, (wearing spiderwoman_cosplay_outfit:1.1), in front of a sky, (red and blue outfit:1.3),
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2], medium breasts, outside, <lora:spiderwoman_cosplay_outfit:0.4>

@@ -1,0 +1,1 @@
+EasyNegative,ng_deepnegative_v1_75t,paintings,sketches,(worst quality:2),(low quality:2),(normal quality:2),

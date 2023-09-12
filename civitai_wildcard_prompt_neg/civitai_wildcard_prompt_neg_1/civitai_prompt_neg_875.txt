@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), watermark, signature, monochrome, bad anatomy, bad proportions, ng_deepnegative_v1_75t, Unspeakable-Horrors-Composition-4v:0.8, negative_hand-neg

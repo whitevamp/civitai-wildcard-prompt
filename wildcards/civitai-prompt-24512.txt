@@ -1,6 +1,0 @@
-macrogts, giant smiling woman standing, city, leaning against skyscraper, from below, depth of field, clouds, medium breasts, nipples,
-stocking, choker
-<lyco:minigts_v3_lycoris:0.7>
-<lora:JapaneseDollLikeness_v15:0.2>
- <lora:MS_Real_POVPussyFromBelow_Lite:0.2>
-high quality photograph

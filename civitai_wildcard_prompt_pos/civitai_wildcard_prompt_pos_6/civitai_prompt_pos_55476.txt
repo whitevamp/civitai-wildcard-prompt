@@ -1,0 +1,5 @@
+<lora:hand_on_anothers_head_v0.1:1> 1girl, 1boy, (hand on another's head:1.1), top-down bottom-up,, masterpiece, best quality
+
+AND polar bear, animal, catch food<lora:volibearV1:1> 
+
+AND a food, potato, hamburger, lettuce, milk, cola, Sex  <lora:hand_on_anothers_head_v0.1:1>, <lora:Mukbang:0.5>

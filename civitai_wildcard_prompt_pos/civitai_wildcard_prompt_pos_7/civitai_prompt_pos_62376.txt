@@ -1,0 +1,5 @@
+ASCII(best quality), extremely delicate and beautiful, Amazing, finely detail, masterpiece, ultra-detailed, highres,(best illustration), (best shadow),intricate,stunning skin details,sharp focus, volumetric fog, 8k UHD, DSLR, high quality, (film grain:1.4), fantasy,(blue and orange tone impression) BREAK
+A murky swamp with twisted trees rising from the water, Hue, window light, spotlight masterpiece, realistic, award winning, volumetric light and fog, subsurface scattering, caustics, bloom, perfect exposure, perfect composition, rule of thirds, 8k, hdr10, cinematic, breathtaking, ray tracing BREAK
+A murky swamp with twisted trees rising from the water, Hue, window light, spotlight masterpiece, realistic, award winning, volumetric light and fog, subsurface scattering, caustics, bloom, perfect exposure, perfect composition, rule of thirds, 8k, hdr10, cinematic, breathtaking, ray tracing BREAK
+The (silhouette:1.4) of a ((naked:1.4)) young girl,model body,((long legs:1.4)),(long hair:1.4),slim body, walks towards a mist-filled swamp,from back, exuding a mysterious aura BREAK
+ mist-filled swamp <lora:add_detail:1>

@@ -1,0 +1,2 @@
+lowres, blurry, worst quality, low quality, normal quality,bad anatomy, disfigured, deformed, mutation, mutilated, ugly, totem pole,poorly drawn face,  cloned face, several faces, long neck, mutated hands, bad hands, poorly drawn hands,extra limbs, malformed limbs, missing arms, missing fingers, extra fingers, fused fingers, too many fingers,missing legs, extra legs, malformed legs, extra digit, fewer digits, glitchy, cropped, jpeg artifacts, signature, watermark, username, text, error,((blunt bangs)),pointy ears ,braid, (chibi2.0)
+badv4 ,easynegative

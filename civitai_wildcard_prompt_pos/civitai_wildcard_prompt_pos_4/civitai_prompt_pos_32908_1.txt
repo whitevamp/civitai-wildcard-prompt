@@ -1,0 +1,16 @@
+(masterpiece, 4k :1.2),(beautiful face:1.2),(realistic:0.5),(anime:1.2),
+(solo:1.2),
+(teasing_smile),
+(mature,milf,25years_old:1.2),
+
+(pov:1),
+(outdoor,park,sunlight:1.2),(standing:1),
+
+
+
+(pale_skin:1),(black hair:1.2),(wide_hips:1.2),
+(white_baseball_cap,t-shirt,jacket,cargo_pants,sneaker,backpack:1.1),
+
+<lora:hipoly3DModelLora_v10:0.2>,
+
+<lora:muscleGirl_v1:0.9>,(muscular:1),

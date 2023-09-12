@@ -1,0 +1,7 @@
+masterpiece, best quality, absurdres, perfect antomy, (2girls), long hair, 
+(bottomless:1.3), black hair, white hair, 
+(black serafuku), (outdoor:1.3), downtown, (crowd:1.4)
+(breast press:1.3), <lora:frenchKiss_v1:0.2>, kiss, kissing, nsfw, 
+ <lora:breastPressLora_v10:0.15>, hug, huging, pussy juice, orgasm, ghegao, pee, peeing,
+  <lora:murataYuusukeOPM_murataYuusuke1484it:0.6>, (yuri), 
+ <lora:lactation_v11:0.2>, lactation, milk, spread milk, milk drop, pussy press, squatting, pussy rubbing

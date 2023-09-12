@@ -1,4 +1,0 @@
-(presenting panties:1.4), in library, (pov hands:1.3), window side, cowboy shot, sitting, gorgeous,
-(catholic school uniform:1.1), (skirt:1.2), evil smile, (masterpiece, best quality, intricate:1.3), (photorealistic:1.5), 1girl, skindentation, realistic skin,
-BREAK (presenting panties:1.2), blue panties, (silk panties:1.3),
-<lora:presenting_panties_v0.3:1> <lora:CatholicSchoolUniformDogu:0.68> <lora:add_detail:0.1> <lora:AbsinthePunkAI:0.3> <lora:IvoryGoldAIv2:0.45> <lora:mzcAI_v2:0.5:AA> <lora:pantyStain:0.3> stained panties, (pee stain:0.55), stained panties, (pussy juice stain:1.2),  <lora:blindbox_v1_mix:0.1> <lora:RSERomantic_RSESofiko_RSEEmma-v1:0.2>

@@ -1,4 +1,0 @@
-(masterpiece,best quality:1.2),incredibly absurdres,8k wallpaper cg,realistic,beautiful face and eyes,extremely detailed, cinematic lighting,1girl,nsfw,
-(ahegao:1.4),ejaculation,(creampie,cum in pussy,pussy juice peek:1),over flow
-<lora:flat2:-1>
-<lora:A_Jill_RE3:1>jill valentine

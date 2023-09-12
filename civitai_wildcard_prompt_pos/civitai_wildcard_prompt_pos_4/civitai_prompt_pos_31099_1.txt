@@ -1,0 +1,3 @@
+best quality, realistic, photorealistic, extremly detailed, an extremely delicate and beautiful, RAW photo, professional lighting, light on face, depth of field, a 18 years old girl,1 girl, brown hair, brown eyes, smaller head, fashion girl, hair covers ears, hair ribbon, beautiful eyes, medium breast,real face, real skin, realistic face, realistic skin, detailed eyes, detailed facial features, detailed face and breast, (ulzzang-6500:0.1), <lora:chilloutmixss30_v30:0.1>, ((((nude, naked)))),hair flower,(((kimono))),flower necklace, licking lips,licking breast, 
+
+ <lora:fashionGirl_v40:0.15>, <lora:shojovibe_v11:0.1>, <lora:koreanDollLikeness_v15:0.2>, <lora:cuteGirlMix4_v10:0.15>

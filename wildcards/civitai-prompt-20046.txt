@@ -1,3 +1,0 @@
-masterpiece, best quality, highly detailed <lora:single thumbs up:0.4> , single thumbs up
-<lora:NarmayaLoRa:1> illustration," 1girl, blue eyes, winter attire, running for her life, snowy landscape, towering icebergs, chilling wind, fear-stricken expression, adrenaline pumping, desperate escape, suspenseful atmosphere, heart-pounding chase, survival instincts kicking in
-AND a polar bear <lora:werewolf_v0.2:1> chase, bite <lora:volibearV1:0.2>

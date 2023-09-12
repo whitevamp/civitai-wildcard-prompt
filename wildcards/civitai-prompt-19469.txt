@@ -1,1 +1,0 @@
-masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality, dramatic lighting, a young girl, short black hair, wearing a school uniform, holding a sword, (Dark ruined city background:1.6)<lora:add_detail:1.0>

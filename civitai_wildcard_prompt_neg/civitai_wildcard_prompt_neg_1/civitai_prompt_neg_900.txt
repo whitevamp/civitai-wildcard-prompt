@@ -1,0 +1,4 @@
+large head, large face, skinny
+bad-hands-5, badhandv4, EasyNegative, EasyNegativeV2, 
+ng_deepnegative_v1_75t,nsfw, ng_deepnegative_v1_75t,badhandv4,
+ (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome,

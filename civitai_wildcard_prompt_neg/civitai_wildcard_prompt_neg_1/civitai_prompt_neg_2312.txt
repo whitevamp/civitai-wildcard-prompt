@@ -1,0 +1,1 @@
+(grainy, blurry), (double frame, cropped, out of frame), (mistakes, errors), (low quality), (worst quality), (low resolution:1.5), (cgi, render, cartoon)

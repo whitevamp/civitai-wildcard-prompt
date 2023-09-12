@@ -1,1 +1,0 @@
-evil Sorceress standing by a demonic (portal:1.4) opening an inter dimensional portal to the gates of hell,hellfire, flames, chaotic energy, <lora:derpd - DerpdeedooStyle:0.7> <lora:Inter_Dimensional_Portal:0.6> <lora:fantasyV1.1:0.7> <lyco:EnvySorceress:0.8>

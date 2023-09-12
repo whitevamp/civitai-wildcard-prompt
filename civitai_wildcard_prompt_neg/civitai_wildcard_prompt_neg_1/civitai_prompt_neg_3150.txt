@@ -1,0 +1,2 @@
+(EasyNegative:1.2),hands,
+(worst quality, low quality:1.4), (blurry:1.2), (bad anatomy, big head, oversized head:1.6), (logo, watermark),  monochrome, white background,

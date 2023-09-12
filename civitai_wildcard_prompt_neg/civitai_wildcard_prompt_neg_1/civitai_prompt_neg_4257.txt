@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), [bad-picture-chill-75v:bad-picture-chill-32v:0.5], (bad_prompt_version2-neg:0.75), ((render by bad-artist:0.5)), (3D:1.1), CGI, realistic, ((mask)), (EasyNegative:0.5), badhandsv5-neg:0.8, (advntr, character:-1.1, landscape:1.2), highly detailed:1.2, imperfect bolts:1.1, imperfect circle:1.1, bad anatomy:0.7,

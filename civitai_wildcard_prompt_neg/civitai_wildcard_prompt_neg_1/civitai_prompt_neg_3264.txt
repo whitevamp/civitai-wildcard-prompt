@@ -1,0 +1,6 @@
+paintings, sketches,fewer digits, jpeg artifacts, signature,(simple background),
+(worst quality:2), (low quality:2), (normal quality:2),(monochrome), (gray scale), lowres,
+skin spots, acnes, skin blemishes, age spot,
+big face,poorly drawn face,cloned face,long neck,
+big eyes,(unclear eyes:1.331),bad eyes,mutated eyes,bad nose,mutated nose,error eyes, error nose,poorly drawn eyes,poorly drawn nose,
+(ugly:1.331), (duplicate:1.331), (mutilated:1.21),

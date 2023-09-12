@@ -1,0 +1,1 @@
+an5,  bad-artist,  bad-artist-anime, bad-hands-5,  bad-image-v2-39000, bad-picture-chill-75v, bad_pictures, bad_prompt_version2, BadDream, bhands-neg, EasyNegative,  deepnegative, FastNegativeV2, negative_hand-neg, Unspeakable-Horrors-Composition-4v verybadimagenegative_v1.3, (head out of frame:2)

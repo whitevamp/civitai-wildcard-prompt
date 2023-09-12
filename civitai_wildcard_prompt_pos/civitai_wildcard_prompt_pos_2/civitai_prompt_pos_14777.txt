@@ -1,0 +1,3 @@
+<lora:hiqcg_body-epoch-000004:0.5>, <lora:hiqcg_face-epoch-000004:0.4>, hiqcgbody, hiqcgface, 1girl, full body, standing, 
+detailed skin texture, detailed cloth texture,  beautiful detailed face,
+masterpiece, best quality, ultra detailed, 8k, intricate details,

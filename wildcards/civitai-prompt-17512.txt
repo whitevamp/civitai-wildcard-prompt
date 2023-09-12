@@ -1,3 +1,0 @@
-,(Masterpiece:1.2, high quality),
-cat
-<lora:cat_20230627113759:0.8>

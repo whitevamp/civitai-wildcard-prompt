@@ -1,0 +1,3 @@
+((masterpiece:1.2, best quality)), 1lady, solo <lora:misakistyle:1>
+misakistyle
+, monochrome,  greyscale, portrait, serafuku, , traditional media, hair bun, adjusting eyewear,

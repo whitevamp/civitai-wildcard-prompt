@@ -1,3 +1,0 @@
-Masterpiece, absurdres,HDR,8k,excited,smirking,best quality,
-beautiful edgHapa_woman, a woman wearing a (Pencil_Dress:1.2) , pretty edgHapa_face, perfect edgHapa_body
-<lora:edgHapaDollLikeness:1>   <lora:edgPencil_Dressesv2:0.56>

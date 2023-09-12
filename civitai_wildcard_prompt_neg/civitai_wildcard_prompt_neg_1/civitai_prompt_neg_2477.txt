@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), nsfw, (easynegative), (monochrome, greyscale), bad-hands-5, missing fingers, extra fingers, fewer finger

@@ -1,5 +1,0 @@
-masterpiece, (photorealistic:1.4), best quality, beautiful lighting, , 
-
-yorha no. 2 type b, 1girl, wlop, ((blindfold)), breasts, cleavage, cleavage cutout, clothing cutout, green background, hair between eyes, hairband, highres, juliet sleeves, long sleeves, nier \(series\), nier automata, (puffy sleeves), red lips, shaded face, short hair, solo, turtleneck, upper body, white hair, sky <lora:yorha_noDOT_2_type_b:0.8> 
-
-RAW photo, 8k uhd, film grain

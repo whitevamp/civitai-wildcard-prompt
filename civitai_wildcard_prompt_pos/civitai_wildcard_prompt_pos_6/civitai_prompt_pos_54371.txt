@@ -1,0 +1,2 @@
+masterpiece, best quality, photorealistic, hyperrealistic, ultra detailed face and skin textures [:(detailed face:1.2):0.2], ((full body) photograph by Tom Bagshaw), facing the viewer
+1girl, <lora:latin_dance_dress:0.7>,  <lora:FilmgirlLora_v40:0.75>, sexy girl red wearing latin_dance_dress, dancing, big breast, face complexions, long textured hair, dimly lit, low key, rim lighting, on stage, outside, alone <hypernet:sxzBloom_sxzBloom:0.5> <lora:add_detail:0.2> brutalist architectures <hypernet:sxzCinematic_800StrongEnough:0.6>

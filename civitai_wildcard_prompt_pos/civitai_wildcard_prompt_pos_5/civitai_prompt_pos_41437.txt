@@ -1,0 +1,2 @@
+mushrooms forest, 1girl, chibi
+ illustration.media, <lora:NijiExpressV2:0.9>  , masterpiece, best quality,

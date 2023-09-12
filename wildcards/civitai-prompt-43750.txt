@@ -1,1 +1,0 @@
-<lyco:Nadja:0.9> upper body portrait of nadja, skswoman, green eyes, makeup, wearing black gothic dress, double bun, bangs, half opened mouth with blood, (vampire fangs:1.2), doll nearby, background blurred inside a mansion with (sargs:1.2), very old paintings in the wall, (low light:1.2)  <lora:epiNoiseoffset_v2:1>

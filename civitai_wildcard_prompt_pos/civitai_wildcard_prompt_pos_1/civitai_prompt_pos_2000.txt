@@ -1,0 +1,1 @@
+prettify hotify, face <lora:smol face:1> smol_face person,

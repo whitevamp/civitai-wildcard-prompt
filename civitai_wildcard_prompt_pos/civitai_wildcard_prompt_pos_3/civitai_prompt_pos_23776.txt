@@ -1,0 +1,5 @@
+((masterpiece, best quality, high quality, highres, ultra-detailed)),  <lora:more_details:0.3>
+BREAK 
+(reaper:1.2), holding scythe, hand on the shoulder, hood up, black robe,claws, bent down, (looking down:0.8), wood interior, white wall, wall lamp, nature painting on the wall <lora:reaper:0.3> 
+BREAK
+(shock512:1.2) zelensky, (persZel-1700:0.9), (wide-eyed:1.4), (open eyes:1.1), fright face, open mouth, (screaming:0.8), crying, miserable, (raised eyebrows:1.2), (surprised:1.4), looking at viewer,  khakis military jacket, (long desk:1.1), leather armchair,  <lora:zelensky:0.95>

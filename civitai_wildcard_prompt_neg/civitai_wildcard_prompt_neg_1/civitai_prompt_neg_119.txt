@@ -1,0 +1,1 @@
+(worst quality, low quality:1.5), (FastNegativeEmbedding:0.9)

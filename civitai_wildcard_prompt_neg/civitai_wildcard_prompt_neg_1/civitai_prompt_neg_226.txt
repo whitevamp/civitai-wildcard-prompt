@@ -1,0 +1,1 @@
+(worst quality:2), (low quality:2), (normal quality:2), (lowres:1.1),ng_deepnegative_v1_75t,EasyNegative, watermark,paintings, sketches, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans

@@ -1,7 +1,0 @@
-1girl,science fiction,cyberpunk,neon lights,cityscape,neon trim,synthetic textures, modded limbs, worn materials, atmospheric fog,,
-mechanical semantic body,<lora:LeoCyberX:1:ALL0.5>,
-<lora:Euro-AmericanDollLikeness_V20:0.3>,(nude, completely nude, long hair,blonde hair,  ),
-<lora:breastinclassBetter:0.3>,huge breasts, nipples, wet, sweat, sweatdrop,
-(,upper body,portrait,from side:1), <lora:Cyberworld_20230622141420-000018:1:ALL0.5>, Cyberworld,
-<lora:zyd232_CyberneticJawless_v1_1:0.8>, Cybernetic_Jawless, mask, mechanical parts, cybernetic,
-<lora:transparent raincoat2-000008:1:ALL0.5> ,transparent raincoat, hood up, hood down,

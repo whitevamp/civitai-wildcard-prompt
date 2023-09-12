@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), (bad_prompt:0.8),  (monochrome), (greyscale)

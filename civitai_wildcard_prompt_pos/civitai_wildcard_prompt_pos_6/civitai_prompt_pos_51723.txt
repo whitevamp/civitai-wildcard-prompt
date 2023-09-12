@@ -1,0 +1,4 @@
+(masterpiece:1.2, best quality),nsfw,
+ hermione granger,  1girl, solo, 
+crying,saliva,  blush, low ponytail, tied hair, sweat, 
+holding phone, covering nipples, covering crotch, mirror, reflection, slender, slim, green eyes, medium breasts, (pubic hair:1.2), simple ruby earrings, shell necklace, long blonde hair, glowing skin,  <lora:oneFingerSelfieChallange:1>

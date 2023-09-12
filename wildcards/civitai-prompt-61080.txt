@@ -1,1 +1,0 @@
-priest, detailed face, dark light, background is a church detailed, portrait, photo, photograph, 25mm, soft color, photorealistic, by Joe McNally <lora:lowra_v10:0.6>

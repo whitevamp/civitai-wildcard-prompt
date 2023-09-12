@@ -1,1 +1,0 @@
-(masterpiece:1.2, best quality), (real picture, intricate details, cinematic lighting, backlighting, beautiful face),,20 years old girl, shiromuku, luxury, white kimono, hood,<lora:shiromuku3:0.85>, sad, closed eyes, head down, night, Fusuma. full body,

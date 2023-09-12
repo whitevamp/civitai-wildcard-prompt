@@ -1,0 +1,1 @@
+badhandv4, easynegative, ng_deepnegative_v1_75t, bad-artist, (panties), skin spots, acnes, skin blemishes, (text:1.1, watermark:1.1, signature:1.1), (monochrome, grayscale)

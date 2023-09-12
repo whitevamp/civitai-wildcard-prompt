@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4),EasyNegative , bad-hands-5,((((blurry background)))),multiple views,comic,(signature:1.3),(,panels:1.4),(signature,watermark,:1.3),forehead mark, (greyscale,monochrome:1.3)

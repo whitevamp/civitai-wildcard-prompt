@@ -1,1 +1,0 @@
-futobot, cyborg, mask, masterpiece, best quality, ultra-detailed, illustration, portrait, 1girl, hatsune miku, close-up,angry, streetwear style, (sky background:1.5),  <lora:Futuristicbot4:0.6>

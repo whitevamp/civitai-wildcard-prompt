@@ -1,0 +1,12 @@
+(masterpiece, 4k ,ultra detailed:1.2),(anime:1),illustration,(photorealistic:1),
+(bokeh,depth of field:1.4),
+(solo:1),(35yo,mature:1.4),
+(attractive,absurdres:1),
+(standing:1),
+(simple background:1.4),
+(night dress:1.2),
+(supermodel:1.4),(wide_hips:1),(white hair),
+<lora:hipoly3DModelLora_v20:0.2>,
+<lora:Cnbeauty4_v1:0.4>,
+<lora:flat2:-0.5>,
+<lora:Gothpunk:0.6>,Goth_punk

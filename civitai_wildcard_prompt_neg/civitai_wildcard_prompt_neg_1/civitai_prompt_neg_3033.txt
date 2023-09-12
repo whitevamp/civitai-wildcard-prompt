@@ -1,0 +1,1 @@
+text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, drawing, pencil sketch, black and white, text

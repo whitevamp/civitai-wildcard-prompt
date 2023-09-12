@@ -1,0 +1,1 @@
+art by bad-artist:1.2,(easynegative:1.0), ng_deepnegative_v1_75t:1.3, (low_quality:1.2), (worst_quality:1.2), fingers, signature, muscular:1.2, muscles:1.2, pants, jeans, skirt lift, lifting skirt, skirt lift,

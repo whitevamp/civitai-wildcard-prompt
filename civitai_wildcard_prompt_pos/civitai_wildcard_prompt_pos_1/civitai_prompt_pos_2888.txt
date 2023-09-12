@@ -1,0 +1,11 @@
+masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,r(ealistic:1.4, ),
+<lora:haigure_pose_v2:1.2>,long hair,((full body)),sweat,best quality,highres,nude,nipples,pussy,pubic hair,haigure pose,open hands,spread legs,high heels,
+huge breasts,nipples,
+<lora:add_detail:0.7>,<lora:epi_noiseoffset2:0.2>,<lora:LowRA:0.1>,
+realcumAI,
+<lora:cumshot_49:0.3>,cum string,ejaculation,cum on body,cum on breasts,
+(pureerosface_v1,at new york time square,surrounded by pedestrians,)
+<lora:add_sharpness:1.5> <lora:add_brightness:0.5>,
+<lora:innievag:0.3>,
+<lora:Milf:0.4> milf,, <lora:40D_vertical_stripe_white_pantyhose:0.6>, white pantyhose,
+ <lora:ahegao,rolling_eyes-000014:0.1>  <lora:breastinclassBetter:0.1>  <lora:Asian girls faceV2:0.1>  <lora:ChineseDollLikenessV3.0:0.1>  <lora:koreanDollLikeness:0.1>

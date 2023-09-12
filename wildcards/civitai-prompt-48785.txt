@@ -1,4 +1,0 @@
-(masterpiece:1.0),(best quality:1.0),(ultra highres:1.0),(8k resolution:1.0),(ultra realistic:1.0),(ultra details:1.0),(sharp focus:1.0),(RAW photo:1.0),dynamic angle,(film grain:1.2),professional lighting,photon mapping,radiosity,physically-based rendering,
-1girl,(dynamic pose:1.0),detailed beautiflul skin,smile,solo,(Kpop idol:1.1),absurdres,[:(detailed beautiflul face:1.2):0.1],makeup,PureErosFace_v1,(parted lips:1.1),red lipstick,tall figure,golden proportions,wide shoulders,(medium breasts:1.1),(cleavage:1.1),detailed skin-texture,thigh gap,detailed hair,random hair style,finely detailed beautiful eyes,(aegyo sal,puffy eyes,eyelashes:1.0),glistening skin,portrait photo,
-<lora:HmongCostume_vBlack:0.8>,futuristic,studio,simple background,looking at viewer,
-<lora:Coser_TuNiang_v2:0.6>,<lora:ShojoVibe_v11:0.3>,20d,<lora:BlackTightsPantyhose20D_v10:0.3>,fashi-g,<lora:FashionGirl_v50:0.3>,

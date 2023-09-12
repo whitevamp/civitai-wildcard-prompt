@@ -1,0 +1,6 @@
+(full_body:1.4), (An ethereal girl figure with delicate, showing her puccy:1.3), (luminescent wings:1.2), (surrounded by glowing, magical creatures in an enchanted forest Subsurface skin scattering:1.2), shiny skin, long_hair,
+standing, (iridescent dress), <lora:skirtlift-v4:0.7>, (skirtlift, dress_lift:1.45), grab_dress, 
+nsfw, (no_paties:1.4), (puccy, showing_puccy:1.4), hairless_puccy, <lora:Addams:0.6>,
+round young face, blue eyes, (shiy:1.4), looking at viewer, amazing fine detail,
+detailed background,
+Nikon D850 film stock photograph Kodak Portra 400 camera f1.6 lens, rich colors, lifelike texture, dramatic lighting, unreal engine, trending on ArtStation, cinestill 800 tungsten,

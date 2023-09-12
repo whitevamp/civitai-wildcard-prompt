@@ -1,0 +1,1 @@
+(worst quality:1.4), (low quality:1.4), (monochrome:1.1) bad-artist bad-hands-5 badhandsv5-neg badhandv4 bad_prompt_version2 easynegative verybadimagenegative_v1.3

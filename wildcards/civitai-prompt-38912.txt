@@ -1,3 +1,0 @@
-(realistic photograph:1.4) 1 girl, dynamic pose, (super long flowing windy hair:1.5), (twisting long black windy fabric:1.4) (flowing-fabrics:1.6), nude, breasts, nipples, pussy, wind, leaves, dramatic lighting
-<lora:flowing-fabrics:1>
-<lyco:GoodHands-beta2:1.0>

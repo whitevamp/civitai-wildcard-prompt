@@ -1,0 +1,1 @@
+EasyNegative, bad_prompt_version2, bad-image-v2-39000, bad-hands-5,

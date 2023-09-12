@@ -1,7 +1,0 @@
-(1girl, woman, solo, shy, blush, sexy, gorgeous, elegant, (nsfw, nude, naked), puffy lips, bob hair, (platinum white hair), wet skin, wet hair, closed eyes, smooth body, soft skin, medium breasts, nice hands, perfect hands), <lyco:GoodHands-beta2:1.0>,
-BREAK
-middle shot, bokeh, glass, foggy glass in the foreground, (steam:1.2), (water drops on glass:1.1)
-BREAK
-(shower, showering, water drops,:1.1)
-BREAK
-absurdres, highres, ultra detailed, (masterpiece, best quality, ultra-detailed), (detailed background), (beautiful detailed face), high contrast, (best illumination, an extremely delicate and beautiful), ((cinematic light)), hyper detail, dramatic light, intricate details, warm light, dramatic light, cinematic,

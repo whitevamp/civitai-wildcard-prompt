@@ -1,0 +1,4 @@
+nude, NSFW, cropped out of frame, ugly, By bad artist -neg,  bad-artist-anime, illustration, weapon, holding weapon, 
+grayscale, monochrome, lowres, error, worst quality, low quality, jpeg artifacts, blurry, 
+badhandv4, ( bad-hands-5:1.3), ( EasyNegative:1.2), 
+text, watermark, logo, username, signature

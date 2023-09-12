@@ -1,4 +1,0 @@
-masterpiece, best quality, absurdres, perfect anatomy, 4K, 8K, (nice hands, perfect hands), <lora:GoodHands-vanilla:1>,
-
-<lora:epiNoiseoffset_v2Pynoise:1>, <lora:flat2:-0.3>,
-<lora:kurumi_imari:1>, (imari kurumi, side ponytail:1.2), 1girl, (1boy:1.1), pov, (completely nude:1.5), (navel, midriff:1.5), (anal:1.6), (straddling:1.2), (girl on top, femdom:1.2), (spread legs:1.2), (hetero:1.2), (penis:1.2), (cowgirl anal:1.6), torso grab, (moaning, screaming:1.1), (closed eyes:1.2), arms behind back, looking at viewer, vocal,

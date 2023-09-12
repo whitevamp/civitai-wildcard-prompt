@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.4), watermark, logo, bad anatomy, extra fingers, extra hands, body hair, mosaic

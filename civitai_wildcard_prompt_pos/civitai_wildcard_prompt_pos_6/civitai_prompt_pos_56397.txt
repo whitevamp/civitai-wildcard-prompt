@@ -1,0 +1,2 @@
+masterpiece, best quality, 1boy, goku, super saiyan goku, ssj goku,training, smiling, angry face, looking to viewer, standing, blonde hair, orange upper, mechanical arms, orange pants, body suit, science fiction, blue belt, blue bangles, dark blue boots,
+, (aura power:1.4), boots, night, natural light,standing, yellow rays, angry eyes, blue eyes, smiling, black hair, male focus, strong muscles, movie composition, deth of field, bokeh,  (yellow particles:1.4), floating particles, <lora:add_detail:0.5>   <lora:nijiMecha:1>  <lora:son_goku_offset:1>

@@ -1,0 +1,1 @@
+(clothes:1.3), disfigured, ugly, (gloves:1.2), (sleeves:1.2), (windows:1.3), extra limb, EasyNegativeV2, (badhandv4:1.4), (low quality, worst quality:1.4),(bad_prompt:0.8), (monochrome:1.1), (greyscale), bad quality, worst quality, (((duplicate))), bad art, mutated, extra limbs, extra legs, extra arms, bad anatomy

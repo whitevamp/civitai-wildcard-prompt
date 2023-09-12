@@ -1,0 +1,4 @@
+(illustration:1.1),(best quality),(masterpiece:1.1),
+shz,1man,Wu_Song,headband,(ridding on a solo tiger+punching the head),solo,forest,full moon,
+detailed face,
+<lora:Xiaorenshu_v20:0.9>

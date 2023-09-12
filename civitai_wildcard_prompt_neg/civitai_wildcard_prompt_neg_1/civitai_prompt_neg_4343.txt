@@ -1,0 +1,1 @@
+easynegative, (worst quality, low quality:1.4), (blurry:1.2), (overexposed:1.1), (underexposed:1.1), (grainy:1.1), (out of focus:1.1), (bad composition:1.1), (bad color grading:1.1), (monochrome:1.1), (greyscale:1.1), (bad anatomy:1.2)

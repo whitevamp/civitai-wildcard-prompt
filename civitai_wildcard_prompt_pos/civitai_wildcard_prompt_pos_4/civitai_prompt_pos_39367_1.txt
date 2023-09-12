@@ -1,0 +1,3 @@
+<lora:blacked_v1.5:1.0> realistic, 
+realistic, 1girl, multiple boys, black man, muscular male, smile, v sign, boxers,
+<lora:koreanDollLikeness_v15:0.4> pureerosface_v1, masterpiece, best quality, highly detailed

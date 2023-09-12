@@ -1,0 +1,1 @@
+bad_pictures bad_prompt_version2-neg negative_hand-neg ng_deepnegative_v1_75t verybadimagenegative_v1.3

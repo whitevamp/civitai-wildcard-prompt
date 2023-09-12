@@ -1,1 +1,0 @@
-cartoon, superflat,  1girl, unpants, room, detailed background,  <lora:unpants.v1.0:1>

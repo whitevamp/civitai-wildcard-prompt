@@ -1,0 +1,1 @@
+(best quality, masterpiece),  <lora:touch_grass:0.7> touch_grass, outdoor, hand, grass, 5 fingers

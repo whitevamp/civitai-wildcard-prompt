@@ -1,0 +1,1 @@
+flashgitz, monadef, fat <lora:FlashgitzV1:1.2> <lora:mona1-000008:0.8>

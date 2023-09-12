@@ -1,0 +1,2 @@
+8k,  real picture, Photo_Comparison,1girl,photo of 25yo girl, short hair, (blond hair:1.2), breast, standing, white sweater,blue skirt, ellaFreya,<lora:ellaFreya_v10:0.3>,mafuyu,<lora:mafuyu:0.3>, phone, cellphone, smartphone, holding, Picture Sex, Vaginal, Nude, NSFW,
+<lora:photoComparisonBETA_v10:1>

@@ -1,0 +1,3 @@
+th3p1t, multiple views, face close-ups, woman, pants, shirt, belt, (thick, large breasts:1), concept art character,, bimbo, lips, blonde hair,
+(best quality, detailed, qhd),
+<lora:th3p1t_v2:0.8>

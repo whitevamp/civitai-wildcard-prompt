@@ -1,1 +1,0 @@
-a pink pig on the grass,  <lora:UltimatePinkPig_v1.0:0.8>, ultimatepinkpig

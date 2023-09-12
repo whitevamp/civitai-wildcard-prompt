@@ -1,2 +1,0 @@
-(masterpiece, top quality, best quality), pixel,pixel art,1girl,full body, 
- <lora:pixel_f2:0.5>

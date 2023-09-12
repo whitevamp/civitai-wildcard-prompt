@@ -1,0 +1,2 @@
+lightsaber, enterprise, worst quality, bad quality, lowres, low resolution,
+light-negative-neg, easynegative, Unspeakable_Horrors_Composition_4v, Asian_Less_neg,

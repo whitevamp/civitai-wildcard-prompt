@@ -1,0 +1,2 @@
+ EasyNegative, (worst quality, low quality:1.2), signature, watermark, username, (badhandsv5-neg), EasyNegative, (worst quality, low quality:1.2), signature, watermark, username, badhandsv5-neg,
+lowres, text, cropped, normal quality, jpeg artifacts, (blurry:1.1), text, toony, dated, line art, flat colors, lowres, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits

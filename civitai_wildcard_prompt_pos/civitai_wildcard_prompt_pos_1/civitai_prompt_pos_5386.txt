@@ -1,0 +1,1 @@
+1boy, basketball,  <lora:DingZhenLora_v1:1>,detailed_face,8k, indoors,photorealistic,looking at viewer,white belt,

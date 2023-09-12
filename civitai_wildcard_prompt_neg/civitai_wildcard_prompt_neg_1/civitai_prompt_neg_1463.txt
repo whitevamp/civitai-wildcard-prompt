@@ -1,0 +1,1 @@
+(mad, angry, happy, smile:1.2), (clothing, clothes:1.3), (horn, unicorn:1.2), (low quality, worst quality:1.2), (bad anatomy), (deformed), disfigured, long neck, bad hands, poorly drawn face, watermark, text, poorly drawn hands, username, lowres, (EasyNegative), (bad_prompt_version2), (negative_hand), (verybadimagenegative_v1.3)

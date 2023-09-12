@@ -1,0 +1,1 @@
+bad-artist bad-hands-5 bad-image-v2-39000 bad-picture-chill-75v bad_prompt BadDream CyberRealistic_Negative-neg difConsistency_negative_v2 easynegative epiCNegative FastNegativeV2 fcNeg-neg JuggernautNegative-neg ng_deepnegative_v1_75t rmadanegative402_sd15-neg UnrealisticDream verybadimagenegative_v1.3,

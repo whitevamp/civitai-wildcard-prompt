@@ -1,3 +1,0 @@
-(photorealistic:1.4),8k,(masterpiece), best quality, highest quality, (detailed face:1.5),original,highres, unparalleled masterpiece, ultra realistic 8k, perfect artwork,((perfect female figure)),mature female, milf, narrow waist, skinny,detailed skin,
-1girl,( full body:1.3),  xiaolongnv,hanfu,white dress, forest, (fog:1.2), cloud, standing, floating hair, floating clothes, bamboo forest, mountain, floating,sunlight, nature, nature light,bamboo raft,river, chinese white footwear, kahuka1,long dress, song style,song clothing,looking at viewer, no heals,
-<lora:xiaolongnv_20230601155437:0.6>  <lora:kahuka-pynoise:0.8> <lora:hanfu40-beta-3:0.4>

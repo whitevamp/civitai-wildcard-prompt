@@ -1,3 +1,0 @@
-photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,
-<lora:G1_guidedBreastGrabLora_v10:0.6>,((((A girl is being groped by a boy's hand on her chest)))),(breast grab:1.5),pov hand,
-<lora:A1_jpIDOL_v10:0.2>,<lora:A1_LoveOnLovely_lolStyleV10:0.2>,<lora:A1_DollLikeness_Korean_v15:0.2>,<lora:A1_cuteGirlMix4_v10:0.1>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Taiwan_v10:0.1>,<lora:A1_DollLikeness_Japanese_v10:0.1>,

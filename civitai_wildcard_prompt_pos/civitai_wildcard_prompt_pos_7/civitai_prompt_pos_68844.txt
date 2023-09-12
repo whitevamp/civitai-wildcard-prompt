@@ -1,0 +1,4 @@
+best quality,no humans,
+quokka,aidaishu,drinking,frappuccino,
+cafe,
+ <lora:finalquokka:0.6>

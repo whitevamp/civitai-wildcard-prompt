@@ -1,4 +1,0 @@
-(full body shot:1.2), highres, masterpiece, perfect lighting, bloom, dark, (cinematic lighting), nsfw,
-(400mm lens), (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.331), ultra high res, photon mapping, radiosity, ((Hasselblad photography)),
-<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.33>, <lora:SheerSkirtV2:0.8>, solo, sexy pose of goddess Venus, tiny_waist, (small breasts), nipples, adult, nude, (naked), Semen, perfect skin, naked, female, (standing up), (barefoot), looking at viewer, portrait, full body, (RSEEmma:1.6),  <lora:breastinclassBetter_v141:0.12>, parted bangs, [[freckles]], very long hair, long braided, smile, low viewing angle, ((towering ancient greek temple)), in the era of ancient athens, There is a huge statue of Athena in the background, face towards sunlight, physically-based rendering, professional soft lighting, light on face,
-<lora:add_detail:0.32>, <lora:flat1:0.6>

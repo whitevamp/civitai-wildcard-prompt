@@ -1,1 +1,0 @@
-anime, hdr, soft light, ((best quality)), ((masterpiece)), (detailed), <lora:RemV1:0.6> rem_\(re_zero\), hair over one eye, (RagClothing:1.1), dirty clothes, brown clothes, begging, slum, sad, begging for money, on knees, holding bowl, bowl with coins, at the side of a street, <lyco:Rags:0.8>

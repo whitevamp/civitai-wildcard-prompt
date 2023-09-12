@@ -1,0 +1,1 @@
+(worst quality:1.6),(low quality:1.6), easynegative, paintings by bad-artist-anime, ng_deepnegative_v1_75t, monochrome, logo, text,

@@ -1,1 +1,0 @@
-(masterpiece, best quality), derelict futuristic city, blocks of destroyed buildings, nature grows on ruins, Labyrinth, ((plain black and white)), intricate detailed linework and a gritty, realistic aesthetic, shading and cross-hatching, <lora:animeoutlineV4_16:1>, <lora:kLabyrinth:0.8>, <lora:fractalized:0.2> fractal_environment, futuristic city

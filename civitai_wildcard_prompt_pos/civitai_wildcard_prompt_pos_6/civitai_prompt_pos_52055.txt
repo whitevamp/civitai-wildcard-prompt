@@ -1,0 +1,6 @@
+1girl, (wavy hair:1.21),(disheveled hair:1.331), messy hair, long bangs, hairs between eyes,(open clothes),
+beautiful detailed eyes,dark background, moonlight, ,flower_petals,city,full_moon,
+(ultra high res,photorealistic,realistic,best quality,photo-realistic),
+(8k, raw photo, best quality, masterpiece),
+(photon mapping, radiosity, physically-based rendering,automatic white balance),
+(technological sense, best quality, masterpiece,unity,wallpaper, official art, Amazing, finely detail, an extremely delicate and beautiful,extremely detailed, highly detailed, sharp focus),photograph,rich background, <lora:cuteGirlMix4_v10:1> <lora:chinaInstaGirl_v20:0.2> <lora:koreandolllikenessV20_v20:0.2> <lora:zltest:0.4> <lora:shojovibe_v11:0.2>

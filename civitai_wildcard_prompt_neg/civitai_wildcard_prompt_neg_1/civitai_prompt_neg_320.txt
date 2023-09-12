@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, bad_prompt_version2, paintings, sketches, (worst quality, low quality, normal quality:2), lowres, ((monochrome, grayscale)), skin spots, acnes, skin blemishes, age spot, backlight, ugly, Overexposure

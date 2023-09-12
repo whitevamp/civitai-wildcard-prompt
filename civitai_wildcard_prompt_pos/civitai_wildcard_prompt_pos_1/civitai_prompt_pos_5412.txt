@@ -1,0 +1,3 @@
+1girl, oni  , dynamic pose, cybernetic samurai armor, mechanical limbs, science fiction,   plastic , mecha, japanese traditional style ,katana,
+negative space, nihonga,  flat color, vector art
+  <lora:add_detail:1>

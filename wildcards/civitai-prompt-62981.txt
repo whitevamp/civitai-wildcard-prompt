@@ -1,4 +1,0 @@
-mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1 girl ,solo,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity,
-see-through,(bodysuit:1.1),lace,thighhighs,clothes lift,cat ears, 
-colored tips,
-physically-based rendering,,beautiful breasts,(((small breast))), <lora:cuteGirlMix4_v10:0.7>

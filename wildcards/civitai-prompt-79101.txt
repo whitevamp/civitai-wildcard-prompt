@@ -1,1 +1,0 @@
-(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed , professional lighting, photon mapping, radiosity, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)), (depth of field), landscape,  <lora:PAseerV1:1>

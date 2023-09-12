@@ -1,0 +1,1 @@
+EasyNegative, lolicon, (worst quality, low quality:1.4), (depth of field, bokeh, blurry:1.4), (realistic, lip, nose, tooth, rouge, lipstick, eyeshadow:1.0), (jpeg artifacts:1.4)

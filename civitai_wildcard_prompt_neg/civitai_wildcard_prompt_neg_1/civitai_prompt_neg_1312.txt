@@ -1,0 +1,3 @@
+(skin, person, woman:1.3), chocolatey, candle, (worst quality:0.8), cartoon, halftone print,
+verybadimagenegative_v1.3, easynegative,
+(surreal, modernism, art deco, art nouveau:0.8)

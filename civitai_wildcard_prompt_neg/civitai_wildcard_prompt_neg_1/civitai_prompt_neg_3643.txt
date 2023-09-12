@@ -1,0 +1,1 @@
+EasyNegative, (worst quality, low quality:1.2), signature, watermark, username, loli, bad-artist-anime, (multiply navel:1.4)

@@ -1,0 +1,6 @@
+((masterpiece, best quality, highest quality, highly detailed, colorful,
+beautiful, intricate details, absurdres)),
+1girl, solo, ass, hooded bodysuit, hood up, two-tone bodysuit, (black bodysuit), black leggings, undersized clothes, muscles, thicc, full body, tight thights,
+ ((reverse cowgirl position))
+<lora:more_details:0.5> 
+<lora:gwen_1.5:1> gwen stacy <lora:grabbing_anothers_ass_v.2.3:1> grabbing another's ass <lora:buttjob_v0.2:1> buttjob, huge ass, ass grab <lora:hyperfusion_279k_64dim-LoCon-v6:0.75> hyperass

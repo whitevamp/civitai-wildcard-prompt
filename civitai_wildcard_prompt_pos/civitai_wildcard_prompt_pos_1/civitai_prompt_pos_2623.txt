@@ -1,0 +1,1 @@
+(masterpiece, top quality, best quality, official art),a sports girl,(small chest:1.1) ,(full body) <lora:onoff4:1.0>,onoff, <lora:CutePussy:0.7>

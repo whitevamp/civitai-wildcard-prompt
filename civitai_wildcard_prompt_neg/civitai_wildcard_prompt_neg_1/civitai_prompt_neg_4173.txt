@@ -1,0 +1,1 @@
+photoshop \(medium\), ( bad-picture-chill-75v, badhandv4,  bad_prompt_version2, By_bad_artist_-neg, EasyNegative, negative_hand-neg, ng_deepnegative_v1_75t, verybadimagenegative_v1.3,sketch by bad-artist),(Easy Negative:1.4), (worst quality: 1.4), (low quality: 1.4), (normal quality: 1.4),bad legs, error legs, bad feet, malformed limbs, extra limbs,

@@ -1,3 +1,0 @@
-cinematic over the shoulder shot  of 1 Persian princess, dark skin,  cyan royal clothing ,off the shoulder, heavy  makeups , jewelries,  sitting in the palace,  crossed legs,
-analog style, bokeh, depth of field, photorealistic, 35mm films,   film grains,  cinematic lighting,
-<lora:add_detail:1><lora:Romulo Royo and Woman v.2:0.8>

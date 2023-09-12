@@ -1,0 +1,11 @@
+seed: 1646678310
+Model: Favorites_2.5D_lyriel_v15
+steps: 25
+sampler: Euler a
+cfgScale: 7
+Clip skip: 2
+Mask blur: N/A
+resources: [{'name': 'poseLORAPeekingOut_v10', 'type': 'lora', 'weight': 1.3}, {'hash': '4d91c4c217', 'name': 'Favorites_2.5D_lyriel_v15', 'type': 'model'}]
+Denoising strength: 0.35
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

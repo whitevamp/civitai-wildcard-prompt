@@ -1,0 +1,1 @@
+low quality, worst quality, monochrome, lowres, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, long neck, long torso, bad anatomy, Anime, Manga, Comic, Cartoon, Painting, Cropped, 3D, Fake, watermark, multiple views, badhand, ((artefacts:1.5)), <lora:badhands:0.5>, teeth

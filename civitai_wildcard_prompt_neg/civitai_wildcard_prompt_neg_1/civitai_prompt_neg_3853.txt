@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, paintings, sketches, (worst quality:2), (low quality:2), (abs:0.2), (normal quality:2), lowres, ((monochrome)), (grayscale:1.2), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,(watermark:1.2),(letters:1.2),(nsfw:1.2),teeth,mole,(tattoo),(tattoo on wrist),(tattoo on inner wrist),(tattoo on left hand),(tattoo on right hand),

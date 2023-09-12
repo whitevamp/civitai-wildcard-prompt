@@ -1,1 +1,0 @@
-detailed,8k, detailed shadow, looking at viewer, white shirt, short sleeve, plaid, skirt, plaid skirt, handbag, blurry background ,<lora:liyuuLora_liyuuV1:0.8>, (masterpiece,best quality), ,(arms_behind_back), black eyes, cute expression,

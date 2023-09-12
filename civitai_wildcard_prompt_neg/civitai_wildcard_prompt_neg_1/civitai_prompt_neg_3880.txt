@@ -1,0 +1,1 @@
+(bad-artist:0.7), (worst quality, bad quality:1.3), (red, yellow, orange:1.3)

@@ -1,0 +1,1 @@
+realisticvision-negative-embedding CyberRealistic_Negative-neg easynegative, (poorly drawn hands:1.1)

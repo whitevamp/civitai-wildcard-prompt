@@ -1,0 +1,4 @@
+masterpiece, best quality, detailed, day lighting, city from above,
+male, solo,
+<lora:all fours, from above, looking up:0.7> all fours, from above, looking up,
+ <lora:dragon:0.7> dragon,

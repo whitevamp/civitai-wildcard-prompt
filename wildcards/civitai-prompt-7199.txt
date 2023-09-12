@@ -1,2 +1,0 @@
-(masterpiece, best quality), intricate details
-1girl,   <lora:sivir-nvwls-v2:0.8> pdsivir, baseball cap, ponytail, white crop top, elbow gloves, short shorts, clothes around waist, red thighhighs, sneakers,

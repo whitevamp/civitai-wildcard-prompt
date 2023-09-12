@@ -1,0 +1,1 @@
+text, ((worst quality, low quality):1.2), bad eyes, bad anatomy, simple background, ((deformed, distorted, disfigured, amputee):1.1), (mutated hands and fingers:1.4), text, unfinished, blurry

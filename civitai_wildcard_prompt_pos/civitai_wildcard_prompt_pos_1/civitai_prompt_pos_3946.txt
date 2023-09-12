@@ -1,0 +1,7 @@
+((masterpiece, best quality)), high resolution, 8K HDR,  (extremely detailed CG unity 8k wallpaper,  ultra-detailed, best shadow), cinematic lighting, detailed background,  depth of field, 50mm f/1.4, backlit, ray tracing,
+
+(1girl, solo),  student, (beautiful face and detailed eyes:1.2), light on face,  on ground, flower, wind, 
+
+sunlight, dappled sunlight, day, greening  train station, close up, looking far away, upper body, small mouth,
+
+<lora:lightAndShadow_v10:0.6>, <lora:yoneyamaMaiStyle_yoneyamaMaiV2Locon:0.8>,

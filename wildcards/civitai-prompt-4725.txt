@@ -1,1 +1,0 @@
-1boy, (sks person:1.1) licking a large ice cream cone, open mouth, (tongue out:0.7), realistic, ice cream on tongue, masterpiece, best quality, masculine, mature male, john cena, male focus, eat icecream, looking at viewer, sharp focus, (pov:0.6), holding, food <lora:JPGirlEatIceCreamMix1:0.85><lyco:locon_johncena_v1_from_v1_64_32:1.3> <lora:add_detail:0.7>

@@ -1,0 +1,5 @@
+best quality, intricate details,
+
+ <lora:shaggyRogers1_v10:0.8> Shaggy Rogers,  muscular, green shirt, scooby-doo, cartoon style,ripped shirt, body builder, 
+
+ <lora:johnnyNumbnutzAI_v10:0.8> johnny_numbnutz,   <lora:flamingEyeConcept_flamingEye:1.2> (flaming eye, white eye trail:1.3)  <lora:muscleGirl_v1:0.8>

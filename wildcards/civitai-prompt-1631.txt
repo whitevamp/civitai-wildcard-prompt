@@ -1,1 +1,0 @@
-(masterpiece, best quality), generate an image with fish eye lens and dutch angle, 1girl, girl in a spacesuit, short brown hair, ((detailed brown eyes)), (spacesuit, space helmet, gloves:1.2), <lora:spacesuit3-000009:0.3>,  <lora:GoodHands-beta2:1>,  <lora:neon_palette_offset:1>,  <lora:more_details:0.7>,  <lora:add_detail:0.7>,

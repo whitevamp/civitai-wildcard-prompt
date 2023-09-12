@@ -1,0 +1,2 @@
+closeup full face photo of [elephant|woman|elephant|woman|elephant] with blowjob-face
+ <lora:blowjob-face_irl-10:1> <lora:add_detail:0.2> <lora:cursedImages_cursedImages:0.3>

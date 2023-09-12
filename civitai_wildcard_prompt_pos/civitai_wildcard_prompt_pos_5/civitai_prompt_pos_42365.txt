@@ -1,0 +1,6 @@
+realistic, (best quality, masterpiece, professionally color graded, RAW photo, 8k, absurdres:1.3), (detailed, ultra-detailed, intricate:1.4),
+1girl, 18yo girl, (shiny skin, lustrous skin, 3D:1.3), nude, pussy, dark hair,
+intimate, shy, innocent, sexy, (spread legs),
+(cum in pussy, after sex, cum, cum on stomach, cum on breasts, cum pool, cum overflow:1.2), (ahegao, rolling eyes, blush:1),
+on back, on bed, (temple, luxurious, sheets), (from above:1.2),
+<lora:hipoly3DModelLora_v20:0.6>,  realcumAI, <lora:ahegaoRollingEyes_v1114:0.5>, <lora:squeezerExperimental_:0.7>

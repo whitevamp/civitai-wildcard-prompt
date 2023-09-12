@@ -1,3 +1,0 @@
-((masterpiece, best quality)), ((style-swirlmagic):0.4), 
-1girl, witch tea party, wooden table , cute, happy, vibrant, colorful,  fantasy,
-<lora:more_details:0.5>

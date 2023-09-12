@@ -1,0 +1,1 @@
+EasyNegative,  ng_deepnegative_v1_75t,nsfw,(nudity)(nude),badhandv4,buttoned clothes(worst quality:2), (low quality:2), (normal quality:2), lowres,(spots on skin), bad anatomy, bad hands,floating sword, floating katana, katana attached to body, sword attached to body, extra hands, extra limbs, normal quality, ((monochrome)), ((grayscale))(watermark),deformed feet, bottom text

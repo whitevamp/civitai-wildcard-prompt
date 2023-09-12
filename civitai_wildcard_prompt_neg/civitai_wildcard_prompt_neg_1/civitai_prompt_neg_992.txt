@@ -1,0 +1,1 @@
+(low quality, worst quality:1.4), ng_deepnegative_v1_75t, (easynegative:1.2), lowres, (greyscale, monochrome:1.1), bad hands, bad anatomy, bad proportions, extra digits, fewer digits, missing arms, missing limbs, extra arms, extra legs, (negative_hand-neg:1.2), (dark skin:1.3)

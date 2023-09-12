@@ -1,1 +1,0 @@
-(masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2),highly detailed face,1girl,gwen_stacy, (portrait:1.3),<lora:gwen_1.5:0.6>, spider-gwen suit , bodysuit , superhero,(extremely detailed,highres, highest detailed,8k,absurdres,CG),cyberpunk city, <lora:add_detail:1>, happy

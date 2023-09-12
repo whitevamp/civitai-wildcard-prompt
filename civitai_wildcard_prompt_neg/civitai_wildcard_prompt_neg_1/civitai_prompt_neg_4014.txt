@@ -1,0 +1,1 @@
+EasyNegative, (worst quality:1.4), (low quality:1.4) ,(depth of field, bokeh, blurry:1.4), (monochrome:1.1),(bad_prompt_version2:0.8), bad-hands-5

@@ -1,0 +1,3 @@
+EasyNegative,
+(worst quality:1.4), (low quality:1.4) ,( jpeg artifacts, signature,logo,watermark,text:1.2),
+(leather,denim,men,boy,nsfw,string,bag,heterochromia,lipstick,socks,elf),(mutated_fingers:1),

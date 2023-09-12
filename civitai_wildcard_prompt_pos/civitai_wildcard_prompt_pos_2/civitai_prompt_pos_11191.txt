@@ -1,0 +1,3 @@
+Photo of a slender woman wearing a large t-shirt, surrounded by a warm ambiance created by candles.
+(molestation:1.6), multiple hands, multiple boys, (cleavage:1.2)
+ <lora:multiple_hands_v0.5:1>

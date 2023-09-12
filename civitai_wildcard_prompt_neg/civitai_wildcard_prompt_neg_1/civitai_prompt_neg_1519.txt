@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t, lowres, badhandv4, text, logo, watermark, signature, pubic hair

@@ -1,0 +1,4 @@
+air conditioners,pipes, wires, utility mechanisms,grocery store,fruit stand
+Best quality, masterpiece, ultra high res,(intricate details:1.4), colorful details, iridescent colors, BREAK illustration,  4k, ultra detailed,
+flowering terraces, colorful vegetation
+<lora:add_detail:0.8> <lora:more_details:0.6>

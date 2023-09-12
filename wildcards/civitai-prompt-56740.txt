@@ -1,1 +1,0 @@
-sword, weapon, flower, katana, white_flower, earrings, long_hair, jewelry, black_hair, holding_sword, solo, holding, black_background, 1girl, lotus, holding_weapon <lora:OC illustration:0.6>

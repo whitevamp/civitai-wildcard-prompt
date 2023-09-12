@@ -1,0 +1,1 @@
+(anime, cartoon, comic, 2d, render,), (ng_deepnegative_v1_75t, bad-artist, EasyNegative, bad-image-v2-39000, bad-hands-5, verybadimagenegative_v1.3, ), watermark, text, signature, muscle, abs, tan, ((bikini, bra, panties,))

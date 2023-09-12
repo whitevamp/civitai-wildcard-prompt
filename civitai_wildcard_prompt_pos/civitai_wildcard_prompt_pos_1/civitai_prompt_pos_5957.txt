@@ -1,0 +1,1 @@
+masterpiece,1boy,<lora:OjouSamaPose:1>ojou-sama pose, <lora:devilMayCry5Vergil_v10_3[vergil(dmc5),head]:0.75:1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1>vergil

@@ -1,0 +1,11 @@
+masterpiece, best quality, detailed,
+3d face, realistic,
+cute face, beautiful detailed face, beautiful detailed eyes, shiny skin, lustrous skin,
+1girl, leaning forward, bar, menu, fantasy,
+purple hair, long hair, bangs, braid, twintails, hair bun, double bun, hair bow, hair ribbon, hair ornament, hair flower, cone hair bun,
+purple eyes, diamond-shaped pupils, eye reflection, bright pupils, clenched teeth, scowl, crying, , glaring,
+small breasts, nipples, topless, qr code, breast tattoo, 
+bow, detached sleeves, jewelry, earrings, frills, purple dress,
+(lactation, lactating into cup, breast milk flowing down:1.4),
+sbg, breast grab, breast lift, <lora:breastGrab_self:0.8:MIDD>,
+keqing \(piercing thunderbolt\) \(genshin impact\), keqing \(genshin impact\), <lora:keqing_lion_optimizer_dim64_loraModel_5e-3noise_token1_4-3-2023:0.8:MIDD>

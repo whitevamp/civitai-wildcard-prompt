@@ -1,0 +1,5 @@
+(RAW photo, best quality), (realistic, photo-realistic:1.3), masterpiece, an extremely delicate and beautiful, extremely detailed, CG, unity ,4k wallpaper, Amazing,finely detail,extremely detailed CG unity 4k wallpaper, ultra-detailed, highres, absurdres, soft light,(full body:1.3),closeup,close up detailed picture,portrait,  
+1girl, cute, young face,beautiful detailed girl,beautiful detailed realistic face,extremely detailed eyes and face, beautiful detailed nose, beautiful detailed eyes, long eyelashes, light on face, looking at viewer, (closed mouth:1.2),smile,((gray white hair,fluffy hair, floating hair novafrog style, long bang,long hair touching breats)),realistic body, detailed fingers,sitting on chair,feet on desk ,
+business suit,unbuttoned jacket,open cardigan,cross-laced clothes, collared shirt,open clothes,short skirt,thighhighs,underwear,high  heels,
+in office, detailed office,
+<lora:pureInnocentGirl_v25:0.56>

@@ -1,1 +1,0 @@
-masterpiece, best quality,1girl, <lora:MakimaTestV1:0.6>,makima \(chainsaw man\),red hair, long braided hair, golden eyes, bangs, medium breasts, white shirt, necktie,<lora:cheekpinching-12:1.2>,cheekpinching,cheek pinching, holding,upper body,one eye closed,looking at viewer,pov,

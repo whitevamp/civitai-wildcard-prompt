@@ -1,0 +1,1 @@
+bad-artist, badhandv4, EasyNegative, extra fingers, fewer fingers,  (bad eyes:1.2), (misfigured pupils:1.2), (bad clothing:1.3), (undetailed clothing:1.3), ng_deepnegative_v1_75t,  verybadimagenegative_v1.3, (nonsensical backrounds:1.2), (bad backrounds:1.2), (bad shadows:1.2), (bad anatomy:1.1), bad-artist, badhandv4,

@@ -1,0 +1,1 @@
+(worst quality, low quality:1.4), (easynegative), (negative_hand-neg), (bad_prompt_version2), (By bad artist -neg), (ng_deepnegative_v1_75t), interlocked fingers, (bad_quality:0.8), monochrome, bad anatomy, blurry, watermark, censored, depth of field, pointy ears, loli, cat tail,

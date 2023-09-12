@@ -1,0 +1,9 @@
+realistic, realistic details, detailed,
+break
+1girl, petite, extremely beautiful, seductive pose, tanned skin, detailed skin complexion, small breast, walking, sexy casual clothes, full body, looking at viewer,
+break
+outdoors, new york city, central park, trees, people in background, raining, dark skies, moody vibe, wet ground
+break
+from front, perspective, light and shadow contrast, rule of third, depth of field, sharp focus, foreground background, proportion, depth and dimension
+break
+(ulzzang-6500-v1.1:0.2)

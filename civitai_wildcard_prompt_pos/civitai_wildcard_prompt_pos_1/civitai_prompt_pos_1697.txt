@@ -1,0 +1,7 @@
+1girl, solo, (tomboy:1.2), (upper body:1.2), lying, on back,
+(very short hair, long sidelocks:1.2),
+closed eyes,
+large breasts,
+black negligee, covered nipples, puffy nipples,
+indoors, bedroom, upper body,
+<lora:Tomboy:1><lora:Negligee:0.8>

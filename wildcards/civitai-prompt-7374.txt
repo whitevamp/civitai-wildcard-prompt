@@ -1,1 +1,0 @@
-ultra detailed 8k cg,from behind,yoga pants,seductive smiling, looking at viewer, colorful,<lora:add_detail:1,1> <lora:unpants.v1.0:1> AS-Younger

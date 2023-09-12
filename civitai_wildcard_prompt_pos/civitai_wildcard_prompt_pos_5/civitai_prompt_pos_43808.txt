@@ -1,0 +1,5 @@
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2), soft light, bloom,
+1girl, perfect face, perfect eyes,pureerosface_v1, hanfu, song style,
+((lying:1.3, in big clean river with blue color, ((ripple:1.3)),  cherry blossoms, willow tree, blue sky)),
+(wide short, fisheye, from above:1.2),
+<lora:hanfu_v30:0.6>,

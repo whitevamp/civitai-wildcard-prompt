@@ -1,0 +1,6 @@
+(worst quality, low quality:1.4),
+<lora:flat2:1>,hair flower, ribs, (froth:1.2),
+bad_anatomy,sagging breasts,
+badhandsv5-neg, bad_prompt_version2, bad-artist, verybadimagenegative_v1.3, ng_deepnegative_v1_75t,
+mature female,
+text, title, logo, signature,

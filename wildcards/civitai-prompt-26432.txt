@@ -1,1 +1,0 @@
-1 girl, (ultra detailed eyes:1.1), chrometype, chrome effect, (metal ornaments cover eyes), (metal chrome ornaments, metal chrome facewear:1.4), <lora:Chrometype_2:1.2:OUTD>, (masterpiece,best quality:1.5), ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, vibrant colors, (blood splatter:1.3),  <lora:BloodOnScreen01:0.7>

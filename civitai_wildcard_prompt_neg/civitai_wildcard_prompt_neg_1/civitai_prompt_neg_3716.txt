@@ -1,0 +1,2 @@
+easynegative, (nipples:1.2), watermark, text, black and white photos, (worst quality:1.5), (low quality:1.5), (normal quality:1.5), low res, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)),
+1 girl, (MF-SD15-V1:0.8), black hair,  hanfu, ming style, <lora:hanfu_v30:0.5>, __randomwc\\flower__, __my\\cn_elements__,", Hires upscale: 1.5, Hires steps: 30, Hires upscaler: R-ESRGAN 4x+

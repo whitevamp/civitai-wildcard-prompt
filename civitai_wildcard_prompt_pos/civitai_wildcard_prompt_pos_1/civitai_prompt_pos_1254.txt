@@ -1,0 +1,4 @@
+masterpiece, best quality, absurdres,anatomy, <lora:sitting_handjob_v0.3:0.8> 1girl, polar bear, sitting, handjob, couple
+and a 1girl, sitting, handjob, couple <lora:NarmayaLoRa:1> Standard, ver1costume
+and polar bear,animal, evil smile, penis,sitting <lora:Sonria-10:0.2> <lora:volibearV1:0.4>
+then i want a special hamburger <lora:Mukbang:midd:0.4>

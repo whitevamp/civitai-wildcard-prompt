@@ -1,0 +1,3 @@
+3dmm (anime, 8k, masterpiece, top quality, best quality, beautiful and aesthetic:1.2, professional illustrasion:1.1 ,ultra detail:1.3 , perfect lighting), highly detailed ,<lora:panda_tm:0.8> 1animal, panda, panda_tm , tape gag, bound, on bed,<lora:kidnap_v0.2:1> <lora:cleave_gag_v1:0.6> bdsm 
+ <hypernet:Mixture-500:0.2>  <lora:brj-tape-gag-v2:0.4>
+Then 1animal, super cute panda, scared eyes, short bamboo ropes, dimly lit room, silhouette of a sinister figure, intense atmosphere, thrilling mystery, dangerous undertones, edge-of-the-seat suspense, the ransom note on the side

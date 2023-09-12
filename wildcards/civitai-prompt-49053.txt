@@ -1,7 +1,0 @@
-(masterpiece:1.1, best quality), (real picture, intricate details),  lineart, monochrome,  <lora:animeLineartMangaLike_v30MangaLike:1>,
-Clothes: 
-Appearance: silver hair ,long hair, blue eyes, big breasts, 
-Behavior: 
-Location: 
-Hobbies:
-Background: grey background, simple background,

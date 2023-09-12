@@ -1,0 +1,2 @@
+EasyNegative,badhandv4,verybadimagenegative_v1.3,By bad artist -neg,
+(worst quality:1.4), (low quality:1.4) ,( jpeg artifacts, signature,logo,watermark,text:1.3),(zombie,abs,navel,nsfw,nipple:1.2),(solo focus:1.4)

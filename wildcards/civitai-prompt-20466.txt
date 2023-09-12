@@ -1,3 +1,0 @@
-(masterpiece, best quality:1.2),(8k,highres,RAW photo,realistic,photo-realistic:1.3),(detailed skin texture,detailed cloth texture,beautiful detailed face:1.25), cinematic lighting, rim light, motion blur, (8k, raw photo, octane render), intricate details,dramatic lighting,depth of field,
-(1girl), beautiful goddess, absurdly stunning, award winning model, pink hair, medium breasts, perfect natural breast, (missionary vaginal, spread legs, closeup:1.1), <lora:JapaneseDollLikeness_v15:0.4>,  naked woman very thin pussy,  <lora:very_thin_pussy.v1.0:1>
-(blue room:1.1), (rim lighting:1.3), (dimly lit:1.3), (dark night:1.3), indoors,

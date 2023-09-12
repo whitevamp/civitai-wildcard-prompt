@@ -1,0 +1,1 @@
+easynegative, negative_hand-neg, (things in mouth:2.0), (extra fingers:2), (too many fingers:2), (broken fingers:1.2), (things in hands:1.3), pencil, pen, wand

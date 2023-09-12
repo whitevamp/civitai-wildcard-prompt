@@ -1,0 +1,4 @@
+RAW Photo, DSLR BREAK
+(kkw-ph1:0.9) BREAK
+half body portrait of a young 20yo woman, black hair, wearing a summer dress BREAK
+detailed, blowing bubble gum, green bubble gum <lora:Bubble Gum:0.65>, professional colorgraded

@@ -1,0 +1,5 @@
+ass up wait,
+hotel room, on floor, sexy,lace,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), 
+solo,1girl, mature face, sweet smile, young, ((full body, )), look_at_viewer,beautiful, fashion, 20 years old,beautiful detailed girl, extremely detailed eyes and face, whole body, (full body:1.2),
+  <lora:irene_V70:0.9> <lora:ass_up_wait.v1.3-sd:1>,ass up wait:1.8, irene,

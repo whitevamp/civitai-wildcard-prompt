@@ -1,0 +1,1 @@
+cave, mountain, underwater, black and white, <EasyNegative:0.8>

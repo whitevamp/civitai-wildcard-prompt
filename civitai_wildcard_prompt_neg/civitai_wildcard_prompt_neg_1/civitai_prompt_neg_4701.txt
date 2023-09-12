@@ -1,0 +1,1 @@
+(nsfw:1.5), haze, fog, worst quality, low quality, lowres, blurry, jpeg artifacts, watermark, text, error, signature, username, artist name, bad anatomy, letterbox, tattoo, text, letterboxed, verybadimagenegative_v1.3, EasyNegativeV2

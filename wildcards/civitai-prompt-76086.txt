@@ -1,4 +1,0 @@
-(AS-young:0.7),(nude:1.3),(girl:1.3),(aged down),(belly:1),(joy:1.3),(black eyes), ( short hair), ( redhead:0.8), (wide hips:1.2), (pubic hair:1.3)
-A photo from the amateur subreddit, best quality,(pussy), (glasses)
-BREAK
-(4k ultra hd), (raw photo:1.3), realistic, perfect lighting, white background, <lora:InniePussy1 v3:0.3>, <lora:thatsMyBush_v10:0.5>

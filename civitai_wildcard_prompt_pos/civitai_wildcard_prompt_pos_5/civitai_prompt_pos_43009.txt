@@ -1,0 +1,4 @@
+best quality, intricate details,
+1girl,  <lora:ankhaAnimalCrossing_v1:1> ankha, 1girl, solo, (yellow skin:1.05), colored skin, furry, bandages, medium breasts,  tail, looking to the side,
+ <lora:coloredSkinCONCEPT_v219:0.6>  yellow skin, standing,  hand on hip
+ <lora:oldegyptai_v10:0.8> OldEgyptAI, pyramids, desert, sand, egyptian city,

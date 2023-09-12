@@ -1,0 +1,1 @@
+negative_hand-neg,NG_DeepNegative_V1_75T,easynegative, bad_pictures, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)) ,watermark

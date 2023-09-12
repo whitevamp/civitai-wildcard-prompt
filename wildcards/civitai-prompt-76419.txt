@@ -1,5 +1,0 @@
-(masterpiece), (best quality:1.2), (detailed), highres, absurdres, unity 8k wallpaper, digital art, top quality, official art, ultra detailed, (intricate), (detailed light), illustration, (beautiful and aesthetic:1.2), (ray tracing:0.5), (cinematic lighting:0.5), 
-BREAK
-(1girl:1.4), young girl, (cowboy shot), voluptuous white hair, cute face, beautiful detailed face, (beautiful detailed eyes), serious, determined face, looking to the side, pale skin, slim build, detailed hands, (gothic style:1.6), medieval clothing, (warrior, plate armour), tiara, hair fluttering in the wind, cloak, heroic pose, movement, <lora:add_detail:1.2>, <lyco:KnightT:1>, 
-BREAK
-outdoors, (battlefield:1.4), defeated enemies, (medieval army on the background:1.3), (random knights in armour, dirt and blood on the face), the height of the battle, warriors fight in the background, gloomy style, barbarians, chaotic, action, tension, stunning, awe-inspiring, (Style-Renaissance:0.4),  <lyco:GPTS4 dreamwave full_478773:0.8>

@@ -1,0 +1,2 @@
+easynegative, badhandsv5-neg
+ <lora:conceptPaintedClothes_v10:0.7>

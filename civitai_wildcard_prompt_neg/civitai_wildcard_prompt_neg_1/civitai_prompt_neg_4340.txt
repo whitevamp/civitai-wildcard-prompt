@@ -1,0 +1,4 @@
+EasyNegative,verybadimagenegative_v1.3,By bad artist -neg,negative_hand-neg,
+(worst quality:1.4), (low quality:1.4) ,( jpeg artifacts, signature,logo,watermark,text:1.3),
+(fat,elf,loli,child,petite,heterochromia:1.1),
+(bag,nsfw,nipple:1.4),

@@ -1,4 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55),  (photorealistic),  woman, soft light, perfect face,
-sexy, cleavage, full body,
-backless black jumpsuit,view from behind,
- <lora:3DMM_V7:1>

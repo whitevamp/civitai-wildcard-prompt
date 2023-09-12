@@ -1,0 +1,3 @@
+((masterpiece:1.2, best quality)), 1lady, solo
+Portrait, focused, long hair, forehead
+Glasses, richicaism, sports bra,  <lora:richica:1>

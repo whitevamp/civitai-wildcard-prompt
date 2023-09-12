@@ -1,0 +1,1 @@
+(worst quality, low quality:1.3), doll, duplicate, bad-hands-5, EasyNegative, painting by bad-artist-anime, (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, disgusting, blurry

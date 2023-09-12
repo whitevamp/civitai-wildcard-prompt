@@ -1,0 +1,3 @@
+delicious hamburger with too much mayo, excessive cum
+, hyper realistic, bloom, depth of field, high detail, absurdres, extremely detailed
+<lora:epiNoiseoffset_v2:1> <lora:add_detail:1> <lora:vomcum:1>

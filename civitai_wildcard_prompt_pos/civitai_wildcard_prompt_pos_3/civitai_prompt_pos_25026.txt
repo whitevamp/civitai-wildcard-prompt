@@ -1,0 +1,5 @@
+b1mb0 woman, face, smiling,
+th3p1t,
+(best quality, detailed, qhd),
+(best quality, detailed, qhd),
+<lora:th3p1t_v2:1><lora:b1mb0_v2:0.6>

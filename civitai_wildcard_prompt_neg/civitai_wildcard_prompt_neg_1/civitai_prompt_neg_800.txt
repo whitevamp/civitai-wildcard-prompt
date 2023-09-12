@@ -1,0 +1,1 @@
+EasyNegative, (badv2:0.8), (badhandv4:1.18), (bad quality:1.3), (worst quality:1.3), watermark, (blurry), (nsfw:1.3)

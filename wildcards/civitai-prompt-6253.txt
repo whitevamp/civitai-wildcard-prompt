@@ -1,3 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (ultra highres:1.2) ,(8k resolution:1.2),
-sci-fi, laboratory, mechanical cat, cyborg cat, white cat, blue eyes, cat action, skinny, full body,
-scificat,<lora:Scifi Cat:0.8>

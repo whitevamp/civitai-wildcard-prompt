@@ -1,0 +1,2 @@
+EasyNegative,badhandsv5-neg,
+(worst quality:2),(low quality:2),(normal quality:2),(bad anatomy),(earrings,necklace,bracelet),

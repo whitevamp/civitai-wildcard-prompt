@@ -1,0 +1,3 @@
+a professional photo of a beautiful young farmer by the carrot field, a tractor in the background, carrot_insertion, messy hair, wellingtons,
+detailed, high quality, best quality,
+<lora:carrotInsertion_20230314:1>

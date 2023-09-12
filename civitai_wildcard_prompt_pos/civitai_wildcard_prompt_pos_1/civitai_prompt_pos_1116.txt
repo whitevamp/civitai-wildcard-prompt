@@ -1,0 +1,11 @@
+seed: 1037214266
+Model: Fallen'sMix3
+steps: 35
+sampler: DPM++ 2M Karras
+cfgScale: 10
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'Pos_PepePunchMeme', 'type': 'lora', 'weight': 1}, {'name': 'Char_Sigmas_DarthVader', 'type': 'lora', 'weight': 0.7}, {'hash': 'a587f227de', 'name': "Fallen'sMix3", 'type': 'model'}]
+Denoising strength: 0.3
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

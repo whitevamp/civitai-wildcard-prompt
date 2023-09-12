@@ -1,1 +1,0 @@
-1girl, portrait, realistic, bare shoulders, sidelighting, wallpaper, nsfw, <lora:fashionGirl_v54:0.3> <lora:daili_v20:0.3> <lora:shojovibe_v11:0.2>

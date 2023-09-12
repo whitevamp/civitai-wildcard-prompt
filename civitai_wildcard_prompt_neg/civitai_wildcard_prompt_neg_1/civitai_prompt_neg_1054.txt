@@ -1,0 +1,1 @@
+verybadimagenegative_v1.3, UnrealisticDream, ng_deepnegative_v1_75t, NegfeetV2, easynegative, CyberRealistic_Negative-neg, By bad artist -neg, badhandv4, BadDream,

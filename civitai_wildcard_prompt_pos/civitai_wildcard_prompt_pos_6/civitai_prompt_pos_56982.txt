@@ -1,0 +1,2 @@
+pov, top-down bottom-up, gym, yoga pants, 
+<lora:pov_spitroast_v0.2:1>, masterpiece, best quality, highly detailed

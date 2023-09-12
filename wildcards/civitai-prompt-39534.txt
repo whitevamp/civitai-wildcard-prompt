@@ -1,1 +1,0 @@
-masterpiece, best quality, high definition, soft light, portrait shot, African princess in snowy village, day, winter, it's snowing, dreadlocks, dressed in black swimsuit and white snow leopard fur coat, cheetah skirt, slender body, silver crown <lora:epi_noiseoffset2:0.5> <lora:add_detail:0.7>

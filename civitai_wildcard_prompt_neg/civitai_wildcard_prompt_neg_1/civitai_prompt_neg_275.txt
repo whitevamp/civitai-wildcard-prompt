@@ -1,0 +1,1 @@
+(lingerie:1.2), (bra:1.3), tattoo, bloom, (red eyes:1.2), (faded:1,2), (grayscale, monochrome:1.1), medium breast, big breast, large breast, (pubic hair:1.1), old woman, (worst quality, low quality:1.3)

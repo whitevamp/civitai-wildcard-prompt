@@ -1,4 +1,0 @@
-realistic, (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extremely detailed,fractal art,colorful,highest detailed,(zentangle, abstract black),
-1girl,solo,shoulder,
-Gnomes, small earth elementals, European folklore,
-<lora:2023-05-12_232640:0.23:FACE0.2>

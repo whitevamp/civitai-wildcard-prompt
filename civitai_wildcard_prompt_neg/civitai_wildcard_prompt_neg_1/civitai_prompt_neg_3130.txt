@@ -1,0 +1,1 @@
+(EasyNegative:0.8),lowres,bad_face, worst quality, low quality, jpeg artifacts,signature, watermark, username, blurry, artist name,

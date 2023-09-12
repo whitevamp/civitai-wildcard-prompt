@@ -1,5 +1,0 @@
-(nogizaka girl:1),(fair skin:1.0),(perfect body:1.0),(athlete:1.0),(curvy body:1.0),(incoming kiss:1.0),(masturbation:1.0),(spread your legs:1.0),(high resolution:1.0),(intricate details:1.0),(ultra detailed:1.0),(RAW photo:1.0),(8k:1.0),(4k:1.0),(blurry background:1.0)
-BREAK
-The models have diverse appearances, including different hairstyles, skin tones, and fashion styles. They are dressed elegantly, wearing fashionable outfits that complement their individual personalities. They strike dynamic poses, leaning against the high-end cars, showcasing a sense of glamour and sophistication. The cars themselves should be prestigious and eye-catching, with sleek designs, shiny exteriors, and distinct features. The backdrop could include a scenic location, such as a city skyline or a picturesque landscape, to add to the overall aesthetic appeal.
-BREAK
-<lora:JapaneseDollLikeness_v15:0.01> <lora:koreanDollLikeness:0.01> <lora:taiwanDollLikeness_v20:0.01> <lora:flat2:-0.5> <lora:epi_noiseoffset2:0.5> <lyco:MultipleGirlsGroup:1.4>

@@ -1,0 +1,1 @@
+painting,sketches,(worst quality:2),(low quality:2),(normal quality:2),lowers,(logo,mark:2),((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,(bad hands:1.5),(fingers:1.5),text,male

@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality:2),(low quality:2), (wrinkle:2)(extra fingers:2), (extra toes:2),<bad-picture-chill-75v:2>, <badhandv4:2>,< easynegative:2>,< negative_hand-neg:2>, <ng_deepnegative_v1_75t:2>,

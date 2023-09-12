@@ -1,0 +1,6 @@
+masterpiece,  absurdres, 
+<lora:onOff_v326:1> (onoff:1)  woman,
+woman, solo focus, gasp, curvy,  breasts, hips,  Vanilla Yukata, arms behind back, symmetry extreme detailed eye and pupils,  perfect face,
+side-by-side photo,
+simple background,  cinematic lighting,
+looking at viewer,

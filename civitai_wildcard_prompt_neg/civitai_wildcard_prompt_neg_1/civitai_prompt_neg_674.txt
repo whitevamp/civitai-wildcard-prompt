@@ -1,0 +1,1 @@
+(worst quality:1.4), (low quality:1.4), ng_deepnegative_v1_75t, easynegative,poorly drawn hand,lowres, bad anatomy, ((bad hands)), text, error, missing fingers, extra digit, fewer digits, cropped,watermark

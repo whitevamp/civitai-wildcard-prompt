@@ -1,0 +1,7 @@
+Zheng, (Masterpiece, Best Quality, Highres:1.4), Detailed, Intricate Details, 4K,
+1Girl, (Solo:1.4), Sitting, On Bed, Indoors, Bedroom, 
+Green Eyes, 
+(Happy, Smile, Open Mouth:1.2), Looking Down, 
+Futanari, Eqcok, (Flaccid, Tucked Penis, Large Testicles:1.2),
+ <lora:epoch-000008:1>  
+ <lora:Zheng:1>

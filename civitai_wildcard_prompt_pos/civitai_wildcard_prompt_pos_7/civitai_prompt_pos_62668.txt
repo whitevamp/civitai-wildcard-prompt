@@ -1,0 +1,22 @@
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+2girl, yuri, looking back, from behind, on bed
+AND
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+2girl, yuri, looking back, from behind, on bed,
+blue hair, long hair, yellow eyes, eye reflection, bright pupils, full blush, emotionless, facing viewer, looking at viewer,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+nude, black lingerie, sweat, trembling, steam, steaming body, heavy breathing,
+hairband, hair ornament, euladef, <lora:eula2_000009:1>
+AND
+masterpiece, best quality, detailed, sidelighting,
+3d face, realistic, lustrous skin,
+2girl, yuri, looking back, from behind, on bed,
+brown hair, long hair, orange eyes, eye reflection, bright pupils, full blush, emotionless, facing viewer, looking at viewer,
+medium breasts, nipples, long nipples, puffy nipples, small areolae,
+ass, anus, pussy, cum, cumdrip, cum pool, after sex,
+nude, white lingerie, sweat, trembling, steam, steaming body, heavy breathing,
+<lora:AfterSexMS:0.5>,
+pussy sandwich, pussy to pussy, <lora:puss_sandwich_v0.2:0.50>,
+amberdef, <lora:amber1_000008:1>

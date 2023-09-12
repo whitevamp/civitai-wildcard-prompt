@@ -1,0 +1,2 @@
+(Best quality, masterpiece, ultra high res:1.2), photorealistic, raw photo, unity 8k wallpaper, cowboy shot, sunset, coconut tree,seaside, wind, print bikini, 
+<lora:InstantPhotoX3:0.7>

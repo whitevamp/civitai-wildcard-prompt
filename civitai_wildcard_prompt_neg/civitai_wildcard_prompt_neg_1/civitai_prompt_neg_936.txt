@@ -1,0 +1,1 @@
+(worst quality, low quality:1.5),( signature:1.4), (watermark:1.4), (username:1.4), (text:1.4), ((monochrome)), ((grayscale)), censored, deformed, disfigured, amputee, mutated, bad-picture-chill-75v badhandsv5-neg, negative_hand-neg, UnrealisticDream, verybadimagenegative_v1.3

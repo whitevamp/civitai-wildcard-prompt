@@ -1,0 +1,8 @@
+(medium-full shot, masterpiece, best_quality, ultra-detailed, immaculate:1.3),
+BREAK
+nsfw,
+<lora:GwenStacy:0.8> GwenStacy, asymmetrical hair, blonde hair, blue eyes, 18 y.o. girl, bondage outfit, o-ring, harness, posing for photo, upset, 
+<lora:bondage outfit, o-ring, harness:1>
+<lora:more_details:0.5>
+BREAK
+vogue, english text, FashionMagCover, magazine cover <lora: english text, watermark, artist name, signature:1>

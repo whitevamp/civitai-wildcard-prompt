@@ -1,0 +1,7 @@
+best quality, intricate details,
+
+
+
+ruins, stone buildings, destroyed, debris, dark atmosphere, fire, smoke,
+
+ <lora:bigChungus_v10:0.8> chungus, fat, white gloves, no humans,  <lora:poseLORAPeekingOut_v10:1.6> peeking out upper body,

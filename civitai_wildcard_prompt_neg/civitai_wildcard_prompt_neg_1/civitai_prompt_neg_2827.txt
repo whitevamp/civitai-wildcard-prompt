@@ -1,0 +1,1 @@
+(low quality:1.4), (worst quality:1.4),(monochrome:0.8),(bad_prompt_version2:0.6),(extra digits), (easynegative:0.8,)(cat ears),(animal ears)(writing),(signature),(watermark),(words), (badhandv4)

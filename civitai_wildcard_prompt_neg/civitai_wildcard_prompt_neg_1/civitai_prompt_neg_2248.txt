@@ -1,0 +1,1 @@
+extra fingers, fewer fingers, bad-hands-5, by bad-artist, (bad eyes:1.2), (misfigured pupils:1.2), (bad clothing:1.3), (undetailed clothing:1.3), ng_deepnegative_v1_75t, verybadimagenegative_v1.3, (nonsensical backrounds:1.2), (bad backrounds:1.2), (bad shadows:1.2), (bad anatomy:1.3), (loli, child:1.5), (((out of frame))), (multiple views:1.4), (3d nose, real nose:1.4),

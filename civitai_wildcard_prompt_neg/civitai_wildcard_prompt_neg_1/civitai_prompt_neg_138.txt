@@ -1,0 +1,1 @@
+badhandv4, (worst quality, low quality:1.4), (greyscale, monochrome:1.2), text, title, logo, signature,, multiple girls, 2girls,, multiple views,, EasyNegative, (bad_prompt:0.8), photograph by bad-artist, (grayscale:1.2), (monochrome:1.2),

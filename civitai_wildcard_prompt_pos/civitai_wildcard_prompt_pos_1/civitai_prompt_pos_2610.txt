@@ -1,0 +1,1 @@
+sks woman <lyco:emmaStone_v10:1.0> <lyco:lora-small-emma-stone-v1:1.0> <lora:lora_emmastone_v1_from_v1_160:1.0>, posing for the camera, analog style, modelshoot style

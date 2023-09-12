@@ -1,0 +1,2 @@
+(worst quality, low quality:1.4), (normal quality:1.4), ( easynegative:1.2), ng_deepnegative_v1_75t BREAK
+((ugly:1.3)), split frame, out of frame, cropped, multiple frame, split panel, multi panel, Collage, cropped, diptych, triptych, bad art, black bar, close up, portrait photo,(bad proportion:1.2), (bad anatomy:1.2)

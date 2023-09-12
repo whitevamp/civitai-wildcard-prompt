@@ -1,0 +1,1 @@
+nsfw, nude, (EasyNegative:1.2),(bad-hands-5:1.2),(bad_prompt_version2:0.8), (bad anatomy, extra hand, extra finger, extra legs, pants), mole, text, mark,

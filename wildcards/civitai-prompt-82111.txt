@@ -1,2 +1,0 @@
-<lora:jurita:0.9>, (knotless_braid_hairstyle:1.3),woman posing for a photo, wearing elegant dress,
-good hand,4k, high-res, masterpiece, best quality, head:1.3,((Hasselblad photography)), finely detailed skin, sharp focus, (cinematic lighting), night, soft lighting, dynamic angle, [:(detailed face:1.2):0.2],(((in a bar))),  <lora:knotless_braid_hairstyle:0.25>

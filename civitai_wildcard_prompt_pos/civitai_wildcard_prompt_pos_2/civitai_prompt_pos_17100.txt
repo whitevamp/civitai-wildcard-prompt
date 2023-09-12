@@ -1,0 +1,2 @@
+1girl, solo,full body,Bowing down on the windowsill, Tight yoga pants, (topless),(Mini Thong)
+<lora:unpants.v1.0:1>  <lora:Ass-CameltoeV1.2:1> <lora:ass_up_wait.v1.3-sd:0.4> <lora:BigBooty-V2:0.5>

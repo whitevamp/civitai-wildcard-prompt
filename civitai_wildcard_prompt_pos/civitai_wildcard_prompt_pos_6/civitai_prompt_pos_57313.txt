@@ -1,0 +1,4 @@
+1girl, pov, top-down bottom-up, 
+<lora:pov_spitroast_v0.2:1>
+<lora:rindou_v4.2:1> tentacles, tentacle sex, tentacle pit, 
+<lora:coils_v0.1:1> coils,, masterpiece, best quality, highly detailed

@@ -1,2 +1,0 @@
-4K, Masterpiece, highres, absurdres,  nuisette, white,floral embroidery ,a woman wearing a nuisette, posing with flowers on a balcony,
- <lora:edgNuisette:0.77>

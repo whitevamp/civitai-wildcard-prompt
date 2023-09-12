@@ -1,0 +1,1 @@
+bad_prompt, badhandv4, EasyNegative, realisticvision-negative-embedding

@@ -1,1 +1,0 @@
-<lora:InstantPhotoX3:0.4>, instantphoto ,nude, naked, sitting on chair, split legs,, ((nsfw)),, (ultra high res,photorealistic,realistic,best quality,photo-realistic),pureerosface_v1 <lora:more_details:1.1>, long hair, bangs,<lora:koreanDollLikeness:0.75>

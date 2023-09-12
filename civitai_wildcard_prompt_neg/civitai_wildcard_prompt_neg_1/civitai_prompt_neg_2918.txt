@@ -1,0 +1,1 @@
+ng_deepnegative_v1_75t,EasyNegative,easynegative,(signature:1.2),(artist name:1.2),(watermark:1.2),neck,extra fingers, extra limbs, extra arms, extra legs,flower,glasses

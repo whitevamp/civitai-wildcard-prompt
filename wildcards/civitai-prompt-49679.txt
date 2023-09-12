@@ -1,7 +1,0 @@
-ultra realistic 8k cg, picture-perfect face, flawless, clean, (((masterpiece))), professional artwork, famous artwork, cinematic lighting, cinematic bloom, professional lighting, photon mapping, radiosity, physically-based rendering,face highlight, 
-1girl, solo,white hair,french braid, medium hair, tear mole,  red eyes, looking at viewer, ((full body), pov), white skin,slim body,tall,  (cleavage), 
-(white long cape), white shawl,shoulder_armor,sleeveless, maid short skirt,detailed cloth texture, maid band, gauntlets,Black Fingerless Tactical Gloves,thigh_strap, (white stockings),  maid high heels, weapon,sword,Rapier, (rich,jewelry, earrings )
-royal palace, luxury room, stained glass, 
-<lora:fashionGirl_v50:0.4> 
-<lora:koreanDollLikeness_v15:0.5>, 
-<lora:breastinclassBetter_v13:0.4>

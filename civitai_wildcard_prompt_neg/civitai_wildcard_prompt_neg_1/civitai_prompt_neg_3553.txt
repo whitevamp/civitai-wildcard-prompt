@@ -1,0 +1,4 @@
+nude, naked, NSFW, cropped, out of frame, ugly,  
+grayscale, monochrome, lowres, error, worst quality, low quality, jpeg artifacts, blurry,
+badhandv4, (bad-hands-5:1.2), bad feets, (EasyNegative:1.2), 
+(text:1.4), (watermark:1.3), logo, username, signature

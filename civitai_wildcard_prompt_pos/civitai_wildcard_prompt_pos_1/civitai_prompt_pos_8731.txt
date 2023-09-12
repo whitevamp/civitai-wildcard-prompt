@@ -1,0 +1,5 @@
+(masterpiece:1.3),best quality,highres,game cg,nsfw,
+BREAK,
+1girl,mature female,elf,white hair,short hair,orgasm,blush,saliva,tears,half-closed eyes,green eyes,open mouth,collarbone,large breasts,nipples,navel,arms up,bound wrists,
+BREAK,
+<lora:POVBGV2:0.9>,povbreastgrab,pov hands,breast grab,

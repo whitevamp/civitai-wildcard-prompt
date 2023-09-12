@@ -1,0 +1,11 @@
+seed: 1710277692
+Model: DivineAnimeMix1
+steps: 30
+sampler: Euler a
+cfgScale: 8
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'Negligee', 'type': 'lora', 'weight': 0.8}, {'hash': 'ea848e19a9', 'name': 'DivineAnimeMix1', 'type': 'model'}]
+Denoising strength: 0.3
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

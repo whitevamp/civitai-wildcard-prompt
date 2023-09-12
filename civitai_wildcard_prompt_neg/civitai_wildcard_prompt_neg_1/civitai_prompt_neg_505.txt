@@ -1,0 +1,2 @@
+EasyNegativeV2,bad limbs anatomy,multiple limbs,
+signature,watermark,username,artist name,

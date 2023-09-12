@@ -1,0 +1,1 @@
+EasyNegativeV2,ng_deepnegative_v1_75t,badhandv4,, nsfw,EasyNegative, (worst quality:1.4), (low quality:1.4) , (monochrome:1.4), (text:1.4), animal ears, signature, (logo:1.2), (copyright:1.4),text, watermark, bad anatomy, malformed, deformed, ugly, aged up

@@ -1,0 +1,2 @@
+photo of (assovershoulder:0.9) (dog:1.3)
+ <lora:assovershoulder:0.55>

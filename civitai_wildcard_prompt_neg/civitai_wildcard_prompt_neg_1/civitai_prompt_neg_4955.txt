@@ -1,0 +1,1 @@
+(low quality, worst quality:1.2), (bad anatomy), (deformed), disfigured, long neck, bad hands, poorly drawn face, watermark, text, poorly drawn hands, username, EasyNegative, bad-hands-5, bad_prompt_version2, lowres

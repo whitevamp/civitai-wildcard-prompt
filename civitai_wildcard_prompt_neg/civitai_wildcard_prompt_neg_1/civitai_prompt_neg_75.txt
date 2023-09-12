@@ -1,0 +1,1 @@
+(worst quality, low quality,3D:2),monochrome, zombie,overexposure, watermark,text,bad anatomy,easynegative,ng_deepnegative_v1_75t

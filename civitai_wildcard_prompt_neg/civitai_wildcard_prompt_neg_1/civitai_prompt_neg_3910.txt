@@ -1,0 +1,1 @@
+EasyNegative, (worst quality:1.2), greyscale, japanese, feet

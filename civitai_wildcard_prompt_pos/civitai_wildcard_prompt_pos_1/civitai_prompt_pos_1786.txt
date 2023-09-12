@@ -1,0 +1,1 @@
+masterpiece, best quality, 1man, solo, strong man, ARWColSanders, kfc, colsanders man, old man, glasses, clothing explosion, (cute chicken:1.2), (torn clothes:1.3),  <lora:ARWColSanders:1> <lora:clothing_explosion_lora01:0.8>

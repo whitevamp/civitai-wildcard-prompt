@@ -1,0 +1,1 @@
+EasyNegativeV2,  negative_hand-neg ,(worst quality:1.4), (low quality:1.4) , (monochrome:1.1), normal quality, bad anatomy, bad proportions

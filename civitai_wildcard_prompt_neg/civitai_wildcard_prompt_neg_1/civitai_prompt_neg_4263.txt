@@ -1,0 +1,6 @@
+NSFW, paintings, sketches,
+easynegative, ng_deepnegative_v1_75t, badhandv4,
+(worst quality:2), (low quality:2), (normal quality:2), (lowres), (normal quality), (monochrome), (grayscale),
+(mutated hands), (poorly drawn hands), (bad anatomy), (bad proportions), (extra limbs), (missing arms), (extra legs),
+(fused fingers), (too many fingers), (bad hands), (missing fingers),
+skin spots, acnes, skin blemishes, age spots, unclear eyes

@@ -1,0 +1,1 @@
+(Worst quality, low quality:1.5),an6,badhandsv5-neg,By bad artist -neg,EasyNegativeV2,negative_hand-neg,ng_deepnegative_v1_75t,verybadimagenegative_v1.3,1girl-neg,(extra fingers, deformed hands, polydactyl:1.5),badv4,

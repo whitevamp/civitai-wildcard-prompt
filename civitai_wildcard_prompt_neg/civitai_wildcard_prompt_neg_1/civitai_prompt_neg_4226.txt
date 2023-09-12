@@ -1,0 +1,1 @@
+(low quality:1.4), (worst quality:1.4), (AuroraNegative, KHFB), <bad-picture-chill-75v:1.2>, <easynegative:0.8>, <bad-hands-5:1.2>, pubic hair

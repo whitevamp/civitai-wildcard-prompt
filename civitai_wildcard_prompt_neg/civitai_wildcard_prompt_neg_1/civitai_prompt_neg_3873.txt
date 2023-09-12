@@ -1,0 +1,1 @@
+(bad_prompt:0.8), (worst quality:1.4), (low quality:1.4)

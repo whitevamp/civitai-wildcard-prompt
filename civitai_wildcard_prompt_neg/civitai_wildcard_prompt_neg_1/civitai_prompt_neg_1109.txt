@@ -1,0 +1,1 @@
+(worst quality, low quality:2), easynegative, (fat body:1.5), heavy body, bad, (small hip:1.8), lowres, muscles, solid body, two spaces, (4legs:1.5), (3legs:1.5), (2faces:1.5), (collected legs:1.5), (foot:2), bad legs, thick thighs, bad thighs, (Wrinkles:1.8), (short legs:1.8)

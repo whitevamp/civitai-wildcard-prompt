@@ -1,2 +1,0 @@
-{{{masterpiece}}}, {{{best quality}}}, {{{very colored}}}, black slingshot swimsuit, 1girl, sky, standing, areola slip,  beach, detailed light, (detailed eyes and face :1.2), tight, narrow
- <lora:swimsuit (1):1>,  palm, soft skin

@@ -1,0 +1,1 @@
+easynegative, bad_prompt, bad-hands-5

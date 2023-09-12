@@ -1,0 +1,1 @@
+muscular female, (worst quality, low quality:1.4), (depth of field, blurry:1.4), (greyscale, monochrome:1.2), (bad_prompt_version2:0.8), (censored, censorship:1.3), (text, speech bubble), error, bad anatomy, (bad hands), sketch, multiple views

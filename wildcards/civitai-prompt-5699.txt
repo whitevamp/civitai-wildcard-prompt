@@ -1,1 +1,0 @@
-(contre-jour, side lighting, volumetric, crepuscular rays, dynamic contrast), ((dark scene, dim light)), ((close up shoot):0.5), 1girl,   long hair, smile, polka dot pink and white sweater, bare shoulders, cherry blossoms, outdoors   <lora:DI_belle_delphine_v1:0.6>  <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:0.4>

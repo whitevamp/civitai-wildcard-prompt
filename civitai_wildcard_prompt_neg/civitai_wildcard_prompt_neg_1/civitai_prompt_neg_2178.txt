@@ -1,0 +1,1 @@
+sword, weapon, pointy ears, elf, <lora:neg4all_xl_bdsqlsz_V4:1> watermark, blurry, low quality, distorted, black and white, simple background, monochrome, NSFW, nude

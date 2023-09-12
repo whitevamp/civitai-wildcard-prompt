@@ -1,0 +1,1 @@
+(worst quality:1.4),(low quality:1.4),(monochrome:1.1),bad-image-v2-39000,bad_prompt_version2,ng_deepnegative_v1_75t,

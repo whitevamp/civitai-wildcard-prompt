@@ -1,0 +1,3 @@
+(woman:1.45), (human:1.45), (person:1.4), (worst quality:0.8), cartoon, halftone print,
+verybadimagenegative_v1.3, easynegative,
+(surreal:0.8), (modernism:0.8), (art deco:0.8), (art nouveau:0.8)

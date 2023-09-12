@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, age spot, (outdoor:1.6), bad anatomy, nsfw, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, extra digit

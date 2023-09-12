@@ -1,4 +1,0 @@
-1girl,solo,__body-parts__,__on-off__,__hairstyles__,
-official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, beautiful, masterpiece, best quality,Calming Palette, Tranquil Mood, Soft Shading,
-meaningful imagery, layered symbolism, visual metaphors, symbolic representation, evocative motifs, allegorical compositions, interpretive potential, conceptual resonance, thought-provoking symbolism,
- <lora:oc_v10:0.2> <lora:lowra_v10:0.4>

@@ -1,0 +1,3 @@
+(pizza_on_table:1.3)
+grabbing, hands, multiple hands, ,6+boys,,     (shiny, day,:1.4)<lora:fondle_by_hands_lora01:0.8> eating,(pizza,:1.2)  cafe,[detailed:0.5]
+[best quality::10][master piece:0.5]

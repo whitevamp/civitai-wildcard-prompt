@@ -1,0 +1,2 @@
+cartoon, painting, illustration, (worst quality, low quality, normal quality:2), shoes,
+<lora:AZovyaRPGArtistToolsLORAV2:0.5>

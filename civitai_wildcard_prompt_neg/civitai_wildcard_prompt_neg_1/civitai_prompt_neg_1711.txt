@@ -1,0 +1,1 @@
+nsfw, (worst quality, low quality:1.3), (depth of field, bokeh, blurry:1.2), (greyscale, monochrome:1.1), bad anatomy, EasyNegative

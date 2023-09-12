@@ -1,1 +1,0 @@
-highres, masterpiece, perfect lighting, bloom, cinematic lighting, adult, perfect skin, female, looking at viewer, (RSEEmma:1.5), CWT,<lora:RSERomantic_RSESofiko_RSEEmma-v1:0.3> horns, bell, cow_ears, cow_horns, cowbell,<lora:breastinClass:0.2>,thick eyebrows, parted bangs, freckles, :), smile, <lyco:CowGirl:0.6>

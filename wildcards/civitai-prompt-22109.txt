@@ -1,1 +1,0 @@
-masterpiece, best quality,highres,moon light, 1girl, white hair,look at viewer, long hair, sen, nature,dress,plan, colorful flowers, <lora:Chinese style_20230607154437-000017:0.8:CLOTHING>,  <lora:butterfly:0.5>, butterfly style,  <lora:FenW-000012:0.3>

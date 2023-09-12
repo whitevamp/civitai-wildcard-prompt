@@ -1,0 +1,1 @@
+(badhandv4:1.2), (badv4:0.9), (worst quality, low quality:1.4)

@@ -1,1 +1,0 @@
-masterpiece, 1girl, braid, cute dress, wind, cleavage, outdoors, dynamic pose, arms behind back,  <lora:MilaAzul_1.0:0.5> <lora:3DMM_V12:1>

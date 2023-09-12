@@ -1,0 +1,1 @@
+(human, human body, human hands, human face, human legs:1.5), cartoon, painting, illustration, (worst quality, low quality, normal quality:2)

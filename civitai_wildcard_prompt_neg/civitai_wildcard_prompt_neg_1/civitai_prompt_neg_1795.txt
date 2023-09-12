@@ -1,0 +1,1 @@
+(low quality, worst quality:1.3), (monochrome:1.1), (easynegative:1.2), (watermark), (child)

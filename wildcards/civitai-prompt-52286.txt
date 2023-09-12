@@ -1,3 +1,0 @@
-((masterpiece)), (best quality), (detailed), (2 girls), beach,outdoor,
-AND ((masterpiece)), (best quality), (detailed), (2 girls),<lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.4>, <lora:yoga_v10:0.5>,pink hair,Long yoga pants,whie Yoga vest,
-AND ((masterpiece)), (best quality), (detailed), (2 girls),<lora:2R 12E CosineRestart Animefullpruned Locon Lycoris:0.4>, <lora:yoga_v10:0.5>,red hair,Long yoga pants,red Yoga vest,

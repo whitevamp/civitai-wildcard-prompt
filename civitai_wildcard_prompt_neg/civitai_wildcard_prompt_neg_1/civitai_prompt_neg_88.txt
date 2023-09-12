@@ -1,0 +1,1 @@
+EasyNegativeV2, bad-artist,  bad-hands-5, fused fingers, EasyNegativeV2, (low quality:1.3), (worst quality:1.3), blurry, (deformed:1.3), (malformed hands:1.4), (poorly drawn hands:1.4), (mutated fingers:1.4),(bad anatomy:1.3),(extra limbs:1.35), loli, hair accessory, hats,

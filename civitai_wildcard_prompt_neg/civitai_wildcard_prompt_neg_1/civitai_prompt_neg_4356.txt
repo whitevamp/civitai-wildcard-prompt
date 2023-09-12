@@ -1,0 +1,2 @@
+EasyNegativeV2 ng_deepnegative_v1_75t
+(worst quality, low quality:1.4)

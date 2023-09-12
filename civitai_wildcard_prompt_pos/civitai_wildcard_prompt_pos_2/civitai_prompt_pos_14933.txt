@@ -1,0 +1,4 @@
+(masterpiece,best quality,hyper quality,8k,absurdres,insane details,intricate details,hyperdetailed,high detail,ultra detailed,realistic:1.4, ),<lora:add_detail:0.3>,<lora:epi_noiseoffset2:0.3>,<lora:LowRA:0.2>,
+standing,masterpiece,1girl,cute,pubic hair,vaginas,nsfw,<lora:hipoly_3dcg_v7-epoch:0.2>,
+1girl,ass,from behind,pants,solo,brown hair,long hair,facing away,clothes pull,butt crack,sleeveless,indoors,denim,bare shoulders,back,standing,pants pull,shoes,sweat,shirt,see-through,full body,stairs,undressing,black hair,<lora:2023-05-13_153905:0.6>,<lora:SpreadAssMS:0.8>,spreadassms,
+(no panties,huge ass,anus, pussy,  ),sneakers,nike, adidas,

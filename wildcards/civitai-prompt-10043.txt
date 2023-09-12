@@ -1,1 +1,0 @@
-((masterpiece:1.3,concept art,best quality,detailed)),snapdragon,award winning illustration,<lora:add_detail:0.5>

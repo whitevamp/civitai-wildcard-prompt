@@ -1,0 +1,5 @@
+cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), bad anatomy, girl, loli, young,
+Steps: 35, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1437574019, Size: 512x768, Model hash: 1c0ed90d69, Model: lyriel_v13, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires upscale: 1.8, Hires steps: 10, Hires upscaler: Latent
+Template: 3d render, cgi, symetrical, octane render, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp,
+__full-prompt-fantasy__
+__style-lora__

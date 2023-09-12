@@ -1,0 +1,2 @@
+dog, ahegao, construction place background
+ <lora:tonguedropAhegaoALoraIn_tonguedropV1:1>

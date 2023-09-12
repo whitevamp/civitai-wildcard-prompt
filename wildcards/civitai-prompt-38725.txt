@@ -1,3 +1,0 @@
-(masterpiece:1.2), (best quality:1.2), (extremely detailed:1.2), 1girl, cowboy shot, muscular body, (view from behind:1.2),
- <lora:yor_forger_v1:0.8>, aayorf, sidelocks, gold hairband, hair ornament, red eyes, gold earring, large breasts, choker, bare shoulders, black dress, two-sided dress, fingerless gloves, thigh boots,
-kneeling on the floor, spread legs, in the bedroom,

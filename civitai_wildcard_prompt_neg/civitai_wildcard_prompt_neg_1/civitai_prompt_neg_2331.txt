@@ -1,0 +1,2 @@
+text, watermark,
+deformed, mutated, ugly

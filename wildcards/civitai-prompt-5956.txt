@@ -1,1 +1,0 @@
-masterpiece, best quality, 1girl,  <lora:largewindow_20230531163119:0.5>largewindow,earth,lunar surface,standing, earth seen from the moon,night

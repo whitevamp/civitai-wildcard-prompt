@@ -1,0 +1,1 @@
+bad-hands-5,adv4,bad-picture-chill-75v,(worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale))

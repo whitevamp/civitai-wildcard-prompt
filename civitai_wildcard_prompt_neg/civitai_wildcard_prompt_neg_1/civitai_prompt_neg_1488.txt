@@ -1,0 +1,2 @@
+(EasyNegative:0.8), (wost quality, low quality:1.4), blurry, blur, bokeh, fog, mist, bloom, (latex, shiny clothes:1.2), 
+black corset, tight, skin tight, impossible clothes, halterneck,

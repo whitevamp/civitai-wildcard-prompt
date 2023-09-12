@@ -1,0 +1,1 @@
+EasyNegativeV2, ng_deepnegative_v1_75t, blurred, out of focus, jpeg artifacts, cropped, low quality, lowres, letters, grainy, watermark, logo, frame, text, words, writing, copyright

@@ -1,1 +1,0 @@
-grainy, extremely detailed, intricate detail, dynamic lighting,photorealistic, <lora:FilmG4:1>,filmg , natural lighting,   <lora:LowRA:0.5> ,  <lora:m0nst3rfy3(0.5-1)M:0.7>,m0nst3rfy3, cat playing with moth

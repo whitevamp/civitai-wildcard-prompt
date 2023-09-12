@@ -1,0 +1,2 @@
+nsfw,(worst quality:1.7),(low quality:1.6),(normal quality:1.5),lowres,blurry,simple background,jpeg artifacts,bad-artist,bad shadow,compressed image,low pixel,light spot,
+paintings,sketches,((monochrome)),((grayscale)),

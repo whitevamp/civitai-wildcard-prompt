@@ -1,0 +1,6 @@
+(masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1boy,chibi, smile,(beautiful detailed face), (beautiful detailed eyes), (Simple and clean style_1.5), tactical vest, long overcoat, ballistic gear, black gear, (brown sweater),
+
+
+
+
+<lora:blindbox_V1Mix:1>

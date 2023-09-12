@@ -1,0 +1,1 @@
+EasyNegative, bad_prompt_version2 bad-hands-5, (low quality, worst quality, normal quality:1.7), sketch, illustration, (monotone:1.2), (monochrome:1.2), (grayscale:1.4), watermark, (microphone:1.2)

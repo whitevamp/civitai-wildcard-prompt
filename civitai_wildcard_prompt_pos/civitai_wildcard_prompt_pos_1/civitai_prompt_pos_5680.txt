@@ -1,0 +1,4 @@
+Softlight,(warm color:1.2),Water color painting,light background,best quality exquisite details,3d rendering,Octane render,pastel,
+(paper_cut:1.15), (white background:1.35),  <lora:KK_paperCut_v1:0.8><lora:standingFullBodyWithBackgroundStyle_v10Offset:0.6> white background, full body,  <lora:sunAndShadow_v10:0.6> cloud,colorful, starry,stars,  
+Negative prompt: easynegative,badhandv4,blurry, shadow,
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2943001929, Size: 768x1024, Model hash: d725be5d18, Model: 2插画_A1_revAnimated_v11, Denoising strength: 0.7, Clip skip: 2, ENSD: 31337, Hires upscale: 1.5, Hires upscaler: 4x-UltraSharp, Hashes: {"vae": "f921fb3f29", "lora:KK_paperCut_v1": "1fab914749", "lora:standingFullBodyWithBackgroundStyle_v10Offset": "9aaa4a57a1", "lora:sunAndShadow_v10": "d5891a9c3f", "model": "d725be5d18"}

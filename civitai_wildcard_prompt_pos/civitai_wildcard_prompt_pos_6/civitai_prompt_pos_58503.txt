@@ -1,0 +1,2 @@
+best quality, intricate details,
+1girl,    <lora:whipMarks:0.8> whip marks,   nude, crying,  against wall, in pain, scared,  <lora:coveringV2:0.8> covering breasts, covering crotch,    <lora:gawrGuraHololiveAll_v4AllOutfits:0.8> gawr gura, sharp teeth, shark tail, shark hair ornament,

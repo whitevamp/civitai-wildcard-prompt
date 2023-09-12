@@ -1,0 +1,1 @@
+ng deepnegative v1 75t, \(worst quality:2\), \(low quality:2\), \(normal quality:2\), lowres, bad anatomy, normal quality, \(\(monochrome\)\), \(\(grayscale\)\), \(\(strabismus\)\), negative hand-neg,

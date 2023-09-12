@@ -1,2 +1,0 @@
-<lora:AI_Utaha:0.3> <lora:sd-No.144:0.22>  <lora:T2:0.25>,the creamy smooth skin,
-(best quality, masterpiece), 1girl, in water, nude, freckles, wet, ripples, long hair, wavy hair, upper body, forest, fox ear, choker, looking at viewer, firefly, moon, night, dark photo

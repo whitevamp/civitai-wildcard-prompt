@@ -1,0 +1,2 @@
+(Easy Negative:1.4), (worst quality: 1.4), (low quality: 1.4), (normal quality: 1.4),
+lowers,monochrome,6 more fingers on one hand,deformity, bad legs, error legs, bad feet, malformed limbs, extra limbs, bad anatomy, extra legs,

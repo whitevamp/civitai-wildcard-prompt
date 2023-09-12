@@ -1,0 +1,11 @@
+seed: 992404973
+Model: aniverse_V12
+steps: 20
+sampler: DPM++ 2M Karras
+cfgScale: 7
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'katamune_v2_1.0_POSES', 'type': 'lora', 'weight': 1}, {'hash': '4393bb4b9b', 'name': 'aniverse_V12', 'type': 'model'}]
+Denoising strength: 0.4
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

@@ -1,2 +1,0 @@
-,(Masterpiece:1.2, high quality), (pixiv:1.4),Gongbi painting of the Song Dynasty
-<lora:Chinese style_20230607154437-000017:0.8>

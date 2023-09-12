@@ -1,0 +1,1 @@
+bad-artist bad-artist-anime bad-hands-5 bad_prompt_version2 verybadimagenegative_v1.3 ng_deepnegative_v1_75t easynegative

@@ -1,0 +1,1 @@
+bad-artist, bad-artist-anime, EasyNegativeV,2 bad_prompt_version2, badhandv4, neg_grapefruit, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, (sun:1.2), (sunlight:1.2), (bright light:1.2) bad-picture-chill-75v

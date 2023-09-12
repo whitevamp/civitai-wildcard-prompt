@@ -1,0 +1,1 @@
+(low quality, worst quality:1.3, monochrome:1.1), , (EasyNegative, bad-hands-5:0.6, bad_prompt_version2:0.8, verybadimagenegative_v1.3, aid291)

@@ -1,0 +1,1 @@
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, bad-picture-chill-75v, badhandv4, mackdav1s-850 ,ng_deepnegative_v1_75t, bad-image-v2-39000, bad-picture-chill-75v,

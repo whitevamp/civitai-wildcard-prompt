@@ -1,2 +1,0 @@
-a award winning raw photo of a wild muscular man standing in the Imperial Palace, (40 years old daddy:1.1), 1boy, solo, (red print robe), (blue long print skirt), (white print shirt), (big shoulders, muscle, stubble, short beard, beautiful eyes:1.3, ), (chengjianbin:1), (weizhenrong:1), (detailed face:1.3), dynamic angle, dramatic pose, volumetric lighting, (best quality, high res, photorealistic), cinematic lighting, masterpiece, raw photo, intricate details, hdr, <lora:lIg
-hanfu_nan:0.6>, <lora:chengjianbin:0.2>, <lora:TurbomaleV7_128:0.8>

@@ -1,0 +1,8 @@
+(dynamic pose),  butterfly legs,  open legs, wide hips, windblown hair,  swirly bokeh, sharp focus, vibrant, film still, <lora:epiNoiseoffset_v2:0.7>, 
+ultra realistic 8k cg, best quality, picture-perfect face, flawless, clean,realistic, masterpiece, photorealistic lighting, volumetric lighting, ultra detail texture,
+((low angle full body shot of a kneeling young czech woman wearing a beautiful cocktail dress)), cute, perfect face, beautiful face, (smile: 1.1), ( long hair: 1.1),
+hair over one eye, layer hair, ultra detail hair, ultra detail face,
+cross shaped pendant, golden loop earrings,
+(bukkake:1.2), (cumslut:1), (cum on mouth: 1.2), cum, cumshot, 
+(((crowded dance floor at a club at night))), indoor, dark room, strobe light, disco ball, neon light, detailed skin, (rich:1.4),
+ <lora:bukkakeLora_v10:0.95>

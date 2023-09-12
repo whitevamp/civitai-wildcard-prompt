@@ -1,0 +1,6 @@
+best quality, intricate details, full body,(cork, jar:1.2) (white shoes:1.2)
+
+
+ gawr gura, shark girl, shark tail, shark print, blue hoodie, sharp teeth, animal hood, shark hair ornament,  <lora:gawrGuraHololive_v3:0.8>
+
+ <lora:girlInTheBottleLocon_v10a:1> (in bottle,in container:1.3)

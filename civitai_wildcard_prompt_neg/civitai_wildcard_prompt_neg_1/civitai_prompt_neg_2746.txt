@@ -1,0 +1,2 @@
+((blurry)), duplicate, deformed, cartoon, animated, render, child, childish
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 855478883, Size: 512x768, Model hash: 46d105afa7, Model: SD 1.5_faetastic_, aesthetic_score: 6.1, sampler: Euler a, cfg_scale: 7, sd_model_hash: 46d105afa7, seed: 855478883, hash: 88a7f56c197bf49ce4c57afb372b085a

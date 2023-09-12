@@ -1,0 +1,1 @@
+(pube, pubic_hair:2), cartoon, anime, sketches, (worst quality:1.5), (low quality:1,.5), (deformed, distorted, disfigured:1.3), bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (bad teeth, mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, amputation, EasyNegative

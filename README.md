@@ -56,6 +56,6 @@ In Windows Explorer's address bar at the top, type in `cmd`, and a command promp
 
 It'll quickly download the wildcards folder into the proper place. You don't have to reboot Stable Diffusion or anything, it'll work as soon as you invoke a wildcard in your prompt.
 
-### To-Do
+### Changes
 
-To enhance organization, the folders will be configured so that A1111 will only read up to 9999 files within a specific folder. This adjustment does not affect the functionality of all the files; it primarily aims to streamline the current structure, which is somewhat disorderly.
+Reorganized the folder structure, removed duplicate files, and also included some negative prompts.

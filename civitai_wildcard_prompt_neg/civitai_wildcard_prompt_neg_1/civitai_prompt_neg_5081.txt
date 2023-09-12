@@ -1,0 +1,1 @@
+(worse quality, low quality:1.2), normal quality, badhandsv5-neg, badhandv4, By bad artist -neg, EasyNegative, extra hands, fused fingers, fused hands, deformed, (fused nipples), poorly drawn face, (poorly drawn nipples), ng_deepnegative_v1_75t, verybadimagenegative_v1.3,

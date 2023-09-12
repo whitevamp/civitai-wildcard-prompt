@@ -1,1 +1,0 @@
-highres, masterpiece, perfect ligthing, bloom, cinematic lighting, adult, perfect skin, female, (looking at camera:1.55), realistic skin,realistic, (photorealistic), woman, soft light, perfect face, cleavage,black dress,street, <lora:HannaHowo-Shurik_RealPersonTraining_4LV2:1> <lora:3DMM_V7:0.8>

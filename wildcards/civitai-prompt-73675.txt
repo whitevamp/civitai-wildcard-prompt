@@ -1,5 +1,0 @@
-(masterpiece, realistic, ultra high res, high quality:1.2),
-1girl, (young),(no make-up), black hair,
-in white knit sweater ,
-portrait, old photo, 80s style , dynamic pose, studio,
-((akinanakamori)) <lora:akinanakamori:0.7>

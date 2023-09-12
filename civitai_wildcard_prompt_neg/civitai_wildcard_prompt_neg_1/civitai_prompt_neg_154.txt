@@ -1,0 +1,1 @@
+bad-artist bad-artist-anime bad_prompt_version2 badhandv4 ng_deepnegative_v1_75t verybadimagenegative_v1.3, deformed head, bad eyes , deformed body,  tattooing,lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,braid hair

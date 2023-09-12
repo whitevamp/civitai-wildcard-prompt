@@ -1,0 +1,2 @@
+easynegative, ng_deepnegative_v1_75t, 1boy, 2girls, (umbrella:1.4), (white dress:1.4), (black dress:1.4),
+bad anatomy, extra arms, extra fingers, fewer fingers, missing fingers, extra legs, extra limbs, missing arms, missing legs,

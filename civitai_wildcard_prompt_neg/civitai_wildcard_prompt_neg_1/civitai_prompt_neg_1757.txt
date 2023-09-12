@@ -1,0 +1,1 @@
+bad quality, worst quality, low resolution, bad anatomy, bad hands, normal quality, monochrome, grayscale, deformed, ugly, fat, ng_deepnegative_v1_75t, badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale)), bad_prompt_version2, badhandv5, By bad artist-neg, CyberRealistic_Negative-neg

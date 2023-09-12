@@ -1,0 +1,5 @@
+(masterpiece:1.2),best quality,illustration,detailed eyes,detailed face,perfect lighting,BREAK,(love juice:1.7)
+<(fat man, ugly man:0.6),(exclusive cum:1.1),(exclusive cum:1.1)
+<lora:doublegirls-000006:0.7:NP>womanbothhands,girls, multiple girls, (middle age       1boy:1.5),( penis:1.4),  hetero,threesome,  group sex, testicles, black hoodie, blunt bangs, dark-skinned male, on side, frills, on bed
+HDA_Ahegao
+<lora:flat2:-0.4><lora:sanDka2:0.2>

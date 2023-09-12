@@ -1,0 +1,1 @@
+(bad quality:1.4), (worst quality:1.4), (normal quality:1.4), easynegative, bad-hands-5,  verybadimagenegative_v1.3, (artist name, signature, watermark:1.4) , (frowning, angry:1.4),

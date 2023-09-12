@@ -1,4 +1,0 @@
-<lora:spider_web_v0.3:1>, (detailed, masterpiece, intricate) <lora:add_detail:0.8>, a group of girls caught in a (spider web, silk, cocoon), dark forest, detailed background, dark fantasy, ancient trees, multiple girls, nsfw, massive spider in the web, 3girls, harem
-<lora:spider_v0.2:1>
- <lyco:MultipleGirlsGroup:1.0>
- <lora:LowRa:0.8>

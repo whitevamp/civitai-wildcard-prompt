@@ -1,4 +1,0 @@
-(photorealistic:1.4), official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality,
-(intricate, mosaic, interconnected, fluid), surrealism, abstract portrait, expressive, metamorphosis, duality of existence, raw emotion, powerful gesture, whimsical, a constructivist approach, pastel palette, impressionism, by katsuya terada, yue minjun, aaron horkey, zhang huan, erik parker, lucian freud, elizabeth peyton, cy twombly, rene magritte, mark ryden, haunting, symphony of contrasts,
-(nsfw:0.8),(see-through|areola slip|nipple_slip:0.85),thighs,
-(deep shadow, low key), <lora:lowra_v10:0.3> <lora:oc_v10:0.2>

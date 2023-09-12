@@ -1,0 +1,1 @@
+cinematic photo Photo of a potato that looks like a baby, laying on a marble table in a kitchen,  <lora:add-detail-xl:0.5> . 35mm photograph, film, bokeh, professional, 4k, highly detailed

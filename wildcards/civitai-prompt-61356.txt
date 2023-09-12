@@ -1,6 +1,0 @@
-(from side:1.3),photo-realistic,realistic,RAW photo,masterpiece,best quality,highres,illustration,symmetrical,(high detailed face:1.5),(high detailed Eye:1.5),standing,(full body:1.2),depth of field,
-1girl,Random hairstyle,(slim legs),delicate and pretty,perfect face,beautiful detailed eyes,fair skin,real human skin,pore,(huge_breasts),no bra,
-<lora:A1_DollLikeness_Korean_v20:0.2>,<lora:A1_jpIDOL_v10:0.2>,<lora:A1_chilloutmixss_xss10:0.1>,<lora:A1_DollLikeness_Taiwan_v10:0.1>,<lora:A1_cuteAsianFace_v10:0.1>,<lora:A1_eastasianDoll_v40:0.1>,<lora:A1_LoveOnLovely_lolStyleV10:0.1>,<lora:A1_dreamyGirlsFace_dreamyFace:0.1>,
-<lora:C2_croppedShirtUnderboobAnime_v10:0.55>,(underboob,shirt),(booty shorts),
-<lora:E1_shibari_v10:1>,shibari,japanese bondage,rope,
-On a street crowded with people,

@@ -1,2 +1,0 @@
-(masterpiece, realistic, ultra high res, 8k uhd, high quality:1.2),BED, 1girl, school uniform, face,
- <lora:nana_v10:0.3>

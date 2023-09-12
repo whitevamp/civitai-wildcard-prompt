@@ -1,0 +1,1 @@
+text, (worst quality, low quality, normal quality:2), FastNegativeV2, (nsfw, nipple, pussy:1.5)

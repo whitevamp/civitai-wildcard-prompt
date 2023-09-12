@@ -1,0 +1,1 @@
+(low quality, normal quality:1.2), (bad anatomy:1.2), (EasyNegative:1.1), realistic, 3d, (mutation:1.2), extra arms and hands and fingers

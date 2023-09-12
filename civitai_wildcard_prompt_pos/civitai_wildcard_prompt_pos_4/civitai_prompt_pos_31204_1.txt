@@ -1,0 +1,4 @@
+(realistic:1.4), (photorealistic:1.4), hyperrealistic,
+(ulzzang-6500-v1.1:0.7), pureerosface_v1, <lora:koreanDollLikeness_v15:0.3>,
+(rindou:1.0), tentacles, dripping, slime \(substance\), tentacle pit, monster, 
+<lora:rindou_v4.2:0.75>, squatting,, masterpiece, best quality, highly detailed

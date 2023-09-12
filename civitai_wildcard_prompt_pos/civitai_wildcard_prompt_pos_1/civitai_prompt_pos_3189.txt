@@ -1,0 +1,3 @@
+<lora:PE_OP_ShockedFaceMeme:1> PEOPShockedFace, eyes popping out, shocked face, mouth open,
+Donkey Kong,
+masterpiece, high resolution, octance 4k, high detail,

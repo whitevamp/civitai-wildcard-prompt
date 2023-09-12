@@ -1,0 +1,2 @@
+(masterpiece:1.2, best quality),  a middle age chubby man with short brown hair and wearing  a white pajama, looking away,  (main is peeing self:1.3), embarrassed, blush, open mouth, in hospital room,  
+ <lora:peeingSelfV2:0.7>, have to pee, peeing self,

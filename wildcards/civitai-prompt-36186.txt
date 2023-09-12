@@ -1,3 +1,0 @@
-(masterpiece, best quality),  intricate details,
-1girl,    <lora:CeresFauna:0.8> Ceres Fauna, antlers, print bikini, cow print, 
- <lora:BaldifierW2:2.5> smiling, blushing,

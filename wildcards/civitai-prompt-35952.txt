@@ -1,1 +1,0 @@
-whitestar, 1girl, long hair, solo, dress, star (sky), standing, from behind, star (symbol), sky, reflection, starry sky  <lora:whitestar-block:1>

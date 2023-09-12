@@ -1,0 +1,4 @@
+1girl,1boy, one hand talking on phone, vaginal, doggystyle, sex from behind, completely nude, blush,
+<lora:conceptTalkingOn_v10:0.7> <lora:ultimateAhegao_v10A:0.5>
+naughty face, rolling_eyes, cross-eyed, ahegao, open mouth, tongue out,
+ <lora:flat2:-1>

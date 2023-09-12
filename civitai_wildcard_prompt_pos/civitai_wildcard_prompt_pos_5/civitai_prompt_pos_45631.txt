@@ -1,0 +1,2 @@
+(masterpiece:1.2, best quality), {night sky, stars, steam, steam censor}, 1girl, slim, slender, fit, small_breasts, flat_chest, green eyes,nude, (excessive pubic hair:1.2), {extreme_closeup:1.4}, long blonde hair, <lora:excessiveSparsePubic_v10:0.8>, onsen, partially submerged, water, wet, muscular female, mature female, hand on chest, <lyco:steamCensorConcept:1>
+ <lora:tgirls_V3b:1>large penis:1.5,erect penis,

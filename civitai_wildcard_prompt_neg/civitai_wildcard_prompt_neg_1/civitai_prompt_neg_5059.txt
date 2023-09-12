@@ -1,0 +1,1 @@
+EasyNegativeV2, bad_prompt_version2-neg, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, bad-hands-5, bad_pictures, (((cleavage))), extra fingers, (worst quality:2), (low quality:2), (normal quality:2)

@@ -1,4 +1,0 @@
-Masterpiece, absurdres, fine detail, HDR,hoodie,blue,yellow,
-blonde woman,beautiful smile, highly detailed facial features, floral embroidery, hoodie, a woman posing for a picture , wearing [edgVyshivanka|hoodie],edgVyshivanka style embroidery 
-edgVyshivanka style embroidery, wearing edgVyshivanka, 1girl, solo, long hair, looking at viewer, smile, blue eyes, blonde hair, dress, standing, full body, white dress, hand on hip, sash, white footwear, skirt hold, photo background
- <lora:VyshivankaHoodies:0.88>

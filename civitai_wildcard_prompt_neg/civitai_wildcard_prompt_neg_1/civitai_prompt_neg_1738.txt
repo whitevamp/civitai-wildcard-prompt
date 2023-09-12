@@ -1,0 +1,1 @@
+(low quality, worst quality:1.2), 3d, embedding:negativeXL_A.safetensors, watermark, signature, ugly, poorly drawn,blur, blurry,DOF 

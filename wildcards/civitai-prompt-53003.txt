@@ -1,4 +1,0 @@
-(masterpiece, realistic, extremely intricate), (64k Highly detailed RAW color Photo:0.8, photorealistic:0.3, ultra high res:1.2),
-1 woman, ghost, spirit, (transparent body:1.15),  
-float from floor, dirty, horror \(theme\), blood splatter, 
-night, dark abandoned house, inside building, dark theme, dimly lit, low key, <lora:epiNoiseoffset_v2:1.25>

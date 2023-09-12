@@ -1,0 +1,11 @@
+seed: 2319743556
+Model: majicmixRealistic_v4
+steps: 50
+sampler: DPM++ SDE Karras
+cfgScale: 10
+Clip skip: N/A
+Mask blur: N/A
+resources: [{'name': 'Spooning_Posititon', 'type': 'lora', 'weight': 1}, {'name': 'AfterSexMS', 'type': 'lora', 'weight': 1}, {'hash': 'd819c8be6b', 'name': 'majicmixRealistic_v4', 'type': 'model'}]
+Denoising strength: N/A
+SD upscale overlap: N/A
+SD upscale upscaler: N/A

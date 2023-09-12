@@ -1,0 +1,2 @@
+Ultra-realistic 8k CG, masterpiece,(full body) ,((ultra-detailed background, delicate pattern, intricate details)), best quality,
+((lucy \(cyberpunk\):1.4)), <lora:lucyCyberpunk_35Epochs:0.9>, white hair:1.6and blue hair:0.5andpink hair: 0.6,1girl, naked,pussy,ice cubes, nipples, cyborg, neon palette, nude, thinning pussy hair,science fiction,( short hair:1.2), solo, closed mouth, cables, night,in the rain, (rain), close up, cyberpunk edgerunners,(ulzzang-6500:0.8), <lora:Better light:0.25>

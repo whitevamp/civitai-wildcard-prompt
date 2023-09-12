@@ -1,0 +1,2 @@
+<lora:capi-09:1> <lora:av_cover_v1.0:1>cover_page,cover,
+capybara,

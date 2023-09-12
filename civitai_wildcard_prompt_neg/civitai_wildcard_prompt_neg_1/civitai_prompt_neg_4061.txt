@@ -1,0 +1,3 @@
+serious, stern, expressionless, swimsuit, bikini, sun, light,
+paintings, sketches, (worst quality, low quality, normal quality:1.2), lowres, blurry, text, logo, ((monochrome)), ((grayscale)),
+ng_deepnegative_v1_75t

@@ -1,1 +1,0 @@
-<lora:dskbnbk:0.2>, <lora:dskbPuSL:0.2>, <lora:dskbSPu:0.2>, <lora:add_detail:1>

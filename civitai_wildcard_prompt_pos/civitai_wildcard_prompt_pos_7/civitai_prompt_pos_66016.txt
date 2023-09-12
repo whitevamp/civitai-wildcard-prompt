@@ -1,0 +1,6 @@
+(masterpiece, best quality:1.3),beautiful detailed glow,best illuminate,(((best quality,textile shading,ultra detailed))),extremely detailed CG unity 8k wallpaper,Highly Detailed beautiful and aesthetic,best light,high resolution,detailed,dynamic lighting,super detailed skin,intricate details, hyper detail, sharp detail,detailed, highres, intricate details,(delicate facial features:1.3),
+(very wide:1.3),(panorama view:1.3),(sense of depth:1.5),(long shot:1.3),(magnificent view:1.3),
+(milky way:1.3),(universe,spacecraft:1.5),(earth, cable,factory,weightless, floating:1.5)(outer space,Artificial satellite,space station,space colony:1.3),(asteroid,Accretion Disk，planets:1.3),
+(1 man,solo:1.5),bara male，black hair,short hair, very short hair,(mature male), male focus,mature,(muscular:1.5), male only,bread,facial hair,（nude：1.2），hairy，bara，jacket,boots，open chest， male underwear，robotic exoskeleton,hot，sweat，bukkake，exhibitionism, completely nude，hairy, legs spread，looking at the viewer
+(beautiful Background,detailed background:1.5),
+<lora:add_detail:2> <lora:TurbomaleV7_64:0.2>

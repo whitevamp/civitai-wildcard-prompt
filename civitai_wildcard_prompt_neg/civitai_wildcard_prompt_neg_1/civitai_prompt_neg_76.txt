@@ -1,0 +1,2 @@
+sword, staff, lantern, lamp, worst quality, bad quality, lowres, low resolution, 
+light-negative-neg, easynegative, Unspeakable-Horrors-Composition-4v, Asian-Less-neg,

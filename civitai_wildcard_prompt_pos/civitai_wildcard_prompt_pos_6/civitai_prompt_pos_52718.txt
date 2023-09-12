@@ -1,0 +1,3 @@
+An epic illustration of a gigantic long line of connected empty paper rolls bursting up out of the ground like a sandworm, in a huge spray of sand and loose shreds of toilet paper.
+masterpiece, best quality, highres, high resolution, sharp focus, high detail, cinematic shadow, hdr, cardboard tube.
+<lora:nightmare10:1.2> <lora:Sandworm:0.3> <lora:LowRA:0.5>

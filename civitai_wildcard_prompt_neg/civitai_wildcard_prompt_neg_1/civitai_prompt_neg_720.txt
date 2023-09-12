@@ -1,0 +1,4 @@
+(flower:1.2), (Facial Marking:1.1), nude, (bad art, low detail, pencil drawing:1.4), (plain background, grainy, low
+quality, mutated hands and fingers:1.4), (watermark, thin lines:1.2), (deformed, signature:1.2), (blurry, ugly, bad anatomy, extra
+limbs, undersaturated, low resolution), disfigured, deformations, out of frame, amputee, bad proportions, extra limb, missing
+limbs, distortion, floating limbs, out of frame, poorly drawn face, poorly drawn hands, text, malformed, missing fingers, cropped

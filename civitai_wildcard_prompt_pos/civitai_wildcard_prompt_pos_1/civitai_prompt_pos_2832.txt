@@ -1,0 +1,4 @@
+(masterpiece:1.2),(best quality:1.2),(photorealistic:1.4),(Realistic:1.4),available light,frontal photo,front view,absurdres,colorful,
+birthday cake,<lora:penis_art:0.0.8>,(penisart:1.4),(hairy balls:1.2),(ball sack),
+<lora:CakeStyle:0.6>,CakeStyle penis,penis on the birthday cake,happy birthday, 
+<lora:WhippedCreamTopStyle SWF:0.2>,WhippedCreamTopStyle,<lora:GelatoStyle:0.2>,GelatoStyle,

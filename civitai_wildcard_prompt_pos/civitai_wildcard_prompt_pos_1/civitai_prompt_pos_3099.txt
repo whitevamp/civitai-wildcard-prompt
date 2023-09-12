@@ -1,0 +1,2 @@
+a short, slender ((female body silhouette wrapped in splash made of shiny nebula [Mandelbrot] printed on drawing of shiny fluffy fur )), glossy, shiny, vibrant colors, (reflective), volumetric, casts bright colorful highlights, refractions, best quality, partially translucent, sharp clear art, self-illuminating, inner glow, ((lighting bloom effect)), elegantly posing-dancing, reflective floor, (style of dan hillier :1.2),, (white, ruby and black color scheme)
+<lora:add-detail-xl:1.5> <lora:offset_0.2:1.5>
