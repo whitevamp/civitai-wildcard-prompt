@@ -19,10 +19,10 @@ Using Automatic1111's fork, you can install Dynamic Prompts from the Extensions 
 
 If you're still unsure about what this does; basically it allows you to use wildcards to randomize keywords based on what is available inside the text file. An example prompt would be something like this:
 
- - for a compleatly random positave promt use **`__civitai_wildcard_prompt_pos*__`** 
-  - or you can manually choose any number from 1-72263. here I chose civitai_prompt_pos_1100 **`__**/civitai_wildcard_prompt_pos/civitai_wildcard_prompt_pos_1100__`**
- - for a compleatly random negitave promt use **`__civitai_wildcard_prompt_neg*__`** 
-  - or you can manually choose any number from 1-5166. here I chose civitai_prompt_neg_1100 **`__**/civitai_wildcard_prompt_neg/civitai_wildcard_prompt_neg_1100__`** 
+ - for a compleatly random positave promt use **`__**/civitai_wildcard_prompt_pos/*__`** 
+  - or you can manually choose any number from 1-72263. here I chose civitai_prompt_pos_1100 **`__civitai-wildcard-prompt/civitai_wildcard_prompt_pos/civitai_wildcard_prompt_pos_1/civitai_prompt_pos_1179__`**
+ - for a compleatly random negitave promt use **`__**/civitai_wildcard_prompt_neg/*__`** 
+  - or you can manually choose any number from 1-5166. here I chose civitai_prompt_neg_1100 **`__civitai-wildcard-prompt/civitai_wildcard_prompt_neg/civitai_prompt_neg_1100__`** 
 
 The result would look something like this with each generation:
 
@@ -61,3 +61,5 @@ It'll quickly download the wildcards folder into the proper place. You don't hav
 ### Changes
 
 Reorganized the folder structure, removed duplicate files, and also included some negative prompts.
+ - the folder is now structured as such that there is 9998 files per folder, so folder 1 in the pos folder has 1-9998 folder 2 has 9999-19996 and so forth. 
+ - the neg folder is structured in the same maner as the pos folder, albeit a lot less files.
