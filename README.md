@@ -63,3 +63,6 @@ It'll quickly download the wildcards folder into the proper place. You don't hav
 Reorganized the folder structure, removed duplicate files, and also included some negative prompts.
  - The folder structure has been reorganized so that each folder contains up to 9998 files. For example, folder 1 in the positive folder contains files numbered from 1 to 9998, folder 2 has files from 9999 to 19996, and so on.
  - The negative folder follows the same structure as the positive folder, although it contains significantly fewer files.
+ - current file count is as follow's.
+  - positive prompt count 72263
+  - negative prompt count: 5166
