@@ -19,8 +19,10 @@ Using Automatic1111's fork, you can install Dynamic Prompts from the Extensions 
 
 If you're still unsure about what this does; basically it allows you to use wildcards to randomize keywords based on what is available inside the text file. An example prompt would be something like this:
 
- - for a compleatly random promt use **`__civitai-prompt-*__`** 
-  - or you can manually choose any number from 1-83833. here i chose civitai-prompt-1100 **`__**/civitai-prompt-1100__`**
+ - for a compleatly random positave promt use **`__civitai_wildcard_prompt_pos*__`** 
+  - or you can manually choose any number from 1-72263. here I chose civitai_prompt_pos_1100 **`__**/civitai_wildcard_prompt_pos/civitai_wildcard_prompt_pos_1100__`**
+ - for a compleatly random negitave promt use **`__civitai_wildcard_prompt_neg*__`** 
+  - or you can manually choose any number from 1-5166. here I chose civitai_prompt_neg_1100 **`__**/civitai_wildcard_prompt_neg/civitai_wildcard_prompt_neg_1100__`** 
 
 The result would look something like this with each generation:
 
